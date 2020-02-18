@@ -1,0 +1,15 @@
+#Ads.txt file for coursicle.com:
+
+#DistrictM
+districtm.io, 101092, DIRECT
+appnexus.com, 1908, RESELLER
+appnexus.com, 7944, RESELLER
+google.com, pub-9685734445476814, RESELLER, f08c47fec0942fa0
+
+#Oath
+adtech.com, 11309, DIRECT
+coxmt.com, 2000067907202, RESELLER
+pubmatic.com, 156078, RESELLER #banner
+pubmatic.com, 156377, RESELLER, 5d62403b186f2ace
+openx.com, 537143344, RESELLER #banner
+indexexchange.com, 175407, RESELLER, 50b1c356f2c5c8fc

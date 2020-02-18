@@ -1,0 +1,4 @@
+undertone.com, pub id DIRECT
+appnexus.com, 2234, RESELLER 
+openx.com, 537153564, RESELLER, 6a698e2ec38604c6
+google.com, pub-7389861957278628, DIRECT, f08c47fec0942fa0

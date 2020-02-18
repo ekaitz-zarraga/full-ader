@@ -1,0 +1,16 @@
+# Ads.txt file for dailymedicalinfo.com:
+
+close2seven.com, 10316, DIRECT
+adtech.com, 10316, DIRECT
+aolcloud.net, 10316, DIRECT
+exponential.com, 170430, DIRECT, afac06385c445926
+tribalfusion.com, 170430, DIRECT, afac06385c445926
+indexexchange.com, 176280, RESELLER, 50b1c356f2c5c8fc
+google.com, pub-2051007210431666, RESELLER, f08c47fec0942fa0
+google.com, pub-3629866551216710, DIRECT, f08c47fec0942fa0
+google.com, pub-5454875279695201, RESELLER, f08c47fec0942fa0
+google.com, pub-2697483239283649, RESELLER, f08c47fec0942fa0
+google.com, pub-9611340043830472, RESELLER, f08c47fec0942fa0
+google.com, pub-1048697500471556, DIRECT, f08c47fec0942fa0
+contact=sales@close2seven.com
+contact=http://close2seven.com/pages/contact

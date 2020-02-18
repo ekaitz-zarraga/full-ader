@@ -1,0 +1,25 @@
+# Managed by Ocelot Studio
+# Need help with your programmatic?
+# Let's talk!
+# https://ocelot.studio
+google.com, pub-8173906507515978, DIRECT, f08c47fec0942fa0
+google.com, pub-1552509015295897, RESELLER, f08c47fec0942fa0 # ocelot.studio
+indexexchange.com, 186155, RESELLER # ocelot.studio
+indexexchange.com, 188731, DIRECT # EB
+rubiconproject.com, 17198, RESELLER # ocelot.studio
+rubiconproject.com, 19812, RESELLER, 0bfd66d529a55807 # EB
+adtech.com, 11345, RESELLER # ocelot.studio
+aolcloud.net, 11345, RESELLER # ocelot.studio
+appnexus.com, 9551, RESELLER # ocelot.studio
+gumgum.com, 13655, RESELLER, ffdef49475d318a9 # ocelot.studio
+smaato.com, 1100041774, RESELLER # ocelot.studio
+teads.tv, 18116, DIRECT, 15a9c44f6d26cbe1 # ocelot.studio
+teads.tv, 19337, DIRECT, 15a9c44f6d26cbe1 # teads AU / ocelot.studio
+video.unrulymedia.com, UNRX-PUB-30a3b3cb-17d9-476b-ab34-911fa12ddc07, DIRECT # unruly / ocelot.studio
+indexexchange.com, 182257, RESELLER # unruly / ocelot.studio
+appnexus.com, 6849, RESELLER # unruly / ocelot.studio
+rubiconproject.com, 15268, RESELLER # unruly / ocelot.studio
+pubmatic.com, 158250, RESELLER, 5d62403b186f2ace # ocelot.studio
+kargo.com, 8378, DIRECT # kargo / ocelot.studio
+indexexchange.com, 184081, RESELLER # kargo / ocelot.studio
+dianomi.com, 863, DIRECT, 61e7d0a6019f7cfc

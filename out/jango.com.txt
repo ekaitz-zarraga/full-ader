@@ -1,0 +1,111 @@
+# Jango
+contact=advertise@jango.com
+google.com, pub-2348102056196087, DIRECT, f08c47fec0942fa0
+google.com, pub-3687873374834629, DIRECT, f08c47fec0942fa0
+
+
+# 33Across
+33across.com, 0013300001hQXhwAAG, DIRECT  #display
+
+# 33Across - Google
+google.com, pub-9557089510405422, RESELLER, f08c47fec0942fa0  #display
+
+# 33Across - AppNexus
+appnexus.com, 1001, RESELLER  #display
+appnexus.com, 3135, RESELLER  #display
+
+# 33Across - OpenX
+openx.com, 537120563, RESELLER, 6a698e2ec38604c6  #display
+
+# 33Across - Rubicon
+rubiconproject.com, 16414, RESELLER, 0bfd66d529a55807  #display
+
+# 33Across - PubMatic
+pubmatic.com, 156423, RESELLER, 5d62403b186f2ace  #display
+
+# 33Across - Amazon
+amazon.com, 3411, RESELLER  #display
+
+# 33Across - Criteo
+criteo.com, 3450, RESELLER  #display
+
+# 33Across - Index
+indexexchange.com, 185506, RESELLER  #display
+
+# 33Across - LKQD
+lkqd.com, 293, RESELLER, 59c49fa9598a0117  #video
+lkqd.net, 293, RESELLER, 59c49fa9598a0117  #video
+
+# 33Across - SpotX
+spotxchange.com, 139883, RESELLER, 7842df1d2fe2db34  #video
+spotx.tv, 139883, RESELLER, 7842df1d2fe2db34  #video
+
+# 33Across - Oath
+adtech.com, 9993, RESELLER  #display
+aolcloud.net, 9993, RESELLER  #display
+advertising.com, 12543, RESELLER  #video
+
+# 33Across - bRealTime
+openx.com, 539266264, RESELLER, 6a698e2ec38604c6  #display
+appnexus.com, 1356, RESELLER, f5ab79cb980f11d1  #display
+emxdgt.com, 326, RESELLER, 1e1d41537f7cad7f  #display
+google.com, pub-5995202563537249, RESELLER, f08c47fec0942fa0  #display
+
+# Viewdeos
+# 02/13/2019
+advertising.com, 12287, RESELLER
+advertising.com, 18632, RESELLER
+advertising.com, 20871, RESELLER
+advertising.com, 23089, RESELLER
+advertising.com, 8693, RESELLER
+aniview.com, 59c9148628a0612da3689288, RESELLER
+appnexus.com, 1356, RESELLER, f5ab79cb980f11d1
+appnexus.com, 1908, RESELLER, f5ab79cb980f11d1
+appnexus.com, 7847, RESELLER
+aps.amazon.com, d1dd54fa-53ea-4197-83d4-a648ea31e0b3, RESELLER
+aralego.com, par-D2337B42BA884D77CD786A7E26AB9683, DIRECT
+beachfront.com, 3914, RESELLER, e2541279e8e2ca4d
+beachfront.com, 4174, RESELLER, e2541279e8e2ca4d
+beachfront.com, 4469, RESELLER, e2541279e8e2ca4d
+c1exchange.com, c1x_a9_uampubs, RESELLER
+contextweb.com, 558604, RESELLER, 89ff185a4c4e857c
+contextweb.com, 561562, RESELLER, 89ff185a4c4e857c
+contextweb.com, 561954, RESELLER, 89ff185a4c4e857c
+coxmt.com, 2000068024302, RESELLER
+districtm.io, 100962, RESELLER
+districtm.io, 101099, RESELLER
+districtm.io, 101132, RESELLER
+districtm.io, 101661, RESELLER
+EMXDGT.com, 68, RESELLER, 1e1d41537f7cad7f
+freewheel.tv, 772017, RESELLER
+freewheel.tv, 790865, RESELLER
+freewheel.tv, 790881, RESELLER
+fyber.com, e6e94829fdc031615ca9be992ce2e8e2, RESELLER
+google.com, pub-1062972861553303, RESELLER, f08c47fec0942fa0
+google.com, pub-5995202563537249, RESELLER, f08c47fec0942fa0
+google.com, pub-7171208642811509, RESELLER, f08c47fec0942fa0
+google.com, pub-8544626876536809, RESELLER, f08c47fec0942fa0
+google.com, pub-8586265011624107, RESELLER, f08c47fec0942fa0
+google.com, pub-9685734445476814, RESELLER, f08c47fec0942fa0
+improvedigital.com, 1066, RESELLER
+indexexchange.com, 184311, RESELLER
+lkqd.net, 286, RESELLER, 59c49fa9598a0117
+openx.com, 537124691, RESELLER, 6a698e2ec38604c6
+openx.com, 537140488, RESELLER, 6a698e2ec38604c6
+openx.com, 539961786, RESELLER
+pubmatic.com, 148803, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156377, RESELLER, 5d62403b186f2ace
+pubmatic.com, 157246, RESELLER, 5d62403b186f2ace
+pubmatic.com, 157354, RESELLER, 5d62403b186f2ace
+rhythmone.com, 4107953657, RESELLER
+rubiconproject.com, 16048, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 17262, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 18020, RESELLER, 0bfd66d529a55807
+spotx.tv,  86064, RESELLER, 7842df1d2fe2db34
+spotx.tv, 139784, RESELLER, 7842df1d2fe2db34
+spotxchange.com,  86064, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 139784, RESELLER, 7842df1d2fe2db34
+streamrail.net, 583555455116bd0002000001, RESELLER
+telaria.com, ketmc-gy04k, RESELLER, 1a4e959a1b50034a
+tremorhub.com, 7wy0w, RESELLER, 1a4e959a1b50034a
+ucfunnel.com, par-D2337B42BA884D77CD786A7E26AB9683, DIRECT

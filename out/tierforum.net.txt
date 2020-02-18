@@ -1,0 +1,13 @@
+google.com, pub-7070810571802149, DIRECT, f08c47fec0942fa0
+
+# robert
+google.com, pub-2314793408715853, DIRECT, f08c47fec0942fa0
+
+# ads.txt VibrantMedia
+vibrantmedia.com, 2787, RESELLER, None
+appnexus.com, 2154, RESELLER, None
+contextweb.com,561689,reseller,89ff185a4c4e857c
+criteo.com,146785,direct,None
+freewheel.tv,200897,RESELLER
+freewheel.tv,200265,RESELLER
+

@@ -1,0 +1,91 @@
+#DACH
+appnexus.com, 7449, DIRECT, f5ab79cb980f11d1
+
+chocolateplatform.com, 14646, RESELLER, 49a66ce31a704197 #video
+
+freewheel.tv, 676610, DIRECT
+freewheel.tv, 676626, RESELLER
+freewheel.tv, 173721, RESELLER
+freewheel.tv, 173729, RESELLER
+
+google.com, pub-5773754360977056, DIRECT, f08c47fec0942fa0
+google.com, pub-6322191135550375, DIRECT, f08c47fec0942fa0
+google.com, pub-2468262778002506, RESELLER, f08c47fec0942fa0
+google.com, pub-1869172611345701, RESELLER, f08c47fec0942fa0
+google.com, pub-9991554928073309, RESELLER, f08c47fec0942fa0
+
+improvedigital.com, 1374, RESELLER
+
+indexexchange.com, 185465, DIRECT
+
+openx.com, 537149403, DIRECT, 6a698e2ec38604c6
+
+pubmatic.com, 90485, DIRECT, 5d62403b186f2ace
+pubmatic.com, 158690, RESELLER, 5d62403b186f2ace
+
+rubiconproject.com, 10812, DIRECT, 0bfd66d529a55807
+rubiconproject.com, 11462, DIRECT, 0bfd66d529a55807
+
+yieldlab.net, 11795, DIRECT
+yieldlab.net, 506261, RESELLER
+yieldlab.net, 227224, RESELLER
+yieldlab.net, 8295301, RESELLER
+yieldlab.net, 5798882, RESELLER
+yieldlab.net, 961276, RESELLER
+
+stroeer.com, 16902, Reseller
+
+vdopia.com, 14646, RESELLER, 49a66ce31a704197 #video
+
+video.unrulymedia.com, UNRX-PUB-58b038d8-6dd6-4453-8049-f8232bb8c5f3, RESELLER
+
+indexexchange.com, 182257, RESELLER
+
+appnexus.com, 6849, RESELLER
+
+rubiconproject.com, 15268, RESELLER
+
+triplelift.com, 8054, DIRECT, 6c33edb13117fd86
+triplelift.com, 8054-EB, DIRECT, 6c33edb13117fd86
+
+#INTERNATIONAL
+adform.com, 183, RESELLER
+
+appnexus.com, 3741, RESELLER, f5ab79cb980f11d1
+appnexus.com, 1613, RESELLER
+appnexus.com, 3326, RESELLER
+appnexus.com, 7118, RESELLER
+
+freewheel.tv, 33081, RESELLER
+freewheel.tv, 33601, RESELLER
+
+google.com, pub-3057818873023700, RESELLER, f08c47fec0942fa0
+google.com, pub-0206338760093719, RESELLER, f08c47fec0942fa0
+google.com, pub-8241049497608997, RESELLER, f08c47fec0942fa0
+google.com, pub-2128757167812663, RESELLER, f08c47fec0942fa0
+google.com, pub-8172268348509349, RESELLER, f08c47fec0942fa0
+
+improvedigital.com, 185, RESELLER
+improvedigital.com, 185, RESELLER
+
+indexexchange.com, 186079, RESELLER
+indexexchange.com, 188302, DIRECT
+
+openx.com, 539515211, RESELLER, 6a698e2ec38604c6
+openx.com, 537117297, RESELLER, 6a698e2ec38604c6
+openx.com, 537122561, RESELLER
+openx.com, 540066557, RESELLER
+openx.com, 540310762, DIRECT, 6a698e2ec38604c6
+
+pubmatic.com, 156383, RESELLER, 5d62403b186f2ace
+pubmatic.com, 157539, DIRECT, 5d62403b186f2ace
+
+rubiconproject.com, 17210, RESELLER
+rubiconproject.com, 18518, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 19742, DIRECT, 0bfd66d529a55807
+
+spotx.tv, 108933, RESELLER, 7842df1d2fe2db34
+
+spotxchange.com, 108933, RESELLER, 7842df1d2fe2db34
+
+video.unrulymedia.com, UNRX_278b236e-806c-4029-bfd2-a83cb03031ce, RESELLER

@@ -1,0 +1,9 @@
+# ads.txt Wayne Parker Kent BE - cully.be - famme.be - manners.be - nsmbl.be
+google.com, pub-3977246851012126, DIRECT, f08c47fec0942fa0
+rubiconproject.com, 7916, DIRECT, 0bfd66d529a55807
+contact=adops@mediahuis.be
+contact=http://mediahuisconnect.be/nl/team-contact
+
+outbrain.com, 00fbf75e2ba3a955377589096fb6f5c9b9, DIRECT
+appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
+rubiconproject.com, 19668, RESELLER, 0bfd66d529a55807

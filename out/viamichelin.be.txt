@@ -1,0 +1,10 @@
+#LIGATUS
+ligadx.com,20946,DIRECT
+ligadx.com,52d9238b4b08c519,DIRECT
+spotxchange.com,206177,RESELLER,7842df1d2fe2db34
+spotx.tv,206177,RESELLER,7842df1d2fe2db34
+AppNexus.com,3723,DIRECT
+
+#GOOGLE
+google.com,pub-5772585630217132,DIRECT,f08c47fec0942fa0
+

@@ -1,0 +1,10 @@
+#Ads.txt Scanwith.com
+
+#Adsense
+google.com, pub-7595495923317249, DIRECT, f08c47fec0942fa0
+
+#Vibrant Media
+vibrantmedia.com,121,RESELLER,None
+criteo.com,146785,direct,None
+contextweb.com,561689,reseller,89ff185a4c4e857c
+appnexus.com,2154,RESELLER,None

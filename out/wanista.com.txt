@@ -1,0 +1,4 @@
+#< SSP/Exchange Domain >, < SellerAccountID >, < PaymentsType >, < TAGID >
+google.com, pub-7979631120579969, DIRECT, f08c47fec0942fa0
+google.com, pub-8251998582411272, DIRECT, f08c47fec0942fa0
+appnexus.com, 8521, direct, f5ab79cb980f11d1

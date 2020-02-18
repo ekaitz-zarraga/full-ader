@@ -1,0 +1,102 @@
+advertising.com, 151, RESELLER
+freewheel.tv, 516429, DIRECT
+freewheel.tv, 1024753, DIRECT
+freewheel.tv, 1024769, DIRECT
+freewheel.tv, 1024785, DIRECT
+freewheel.tv, 1024801, DIRECT
+freewheel.tv, 1024817, DIRECT
+freewheel.tv, 1024833, DIRECT
+freewheel.tv, 1024881, RESELLER
+freewheel.tv, 1024897, RESELLER
+freewheel.tv, 1024913, RESELLER
+freewheel.tv, 1024929, RESELLER
+freewheel.tv, 1024945, RESELLER
+freewheel.tv, 1024961, RESELLER
+google.com, pub-7442541831975590, DIRECT 
+google.com, mb-app-pub-7442541831975590, DIRECT
+google.com, video-pub-7442541831975590, DIRECT
+smartadserver.com, 2864, RESELLER #stanza-smartadserver
+appnexus.com, 7138, RESELLER #stanza-appnexus
+*.go.sonobi.com, 69f1bfb855, RESELLER
+indexexchange.com, 185240, RESELLER #stanza-indexexchange
+adtech.com, 10992, RESELLER #stanza-oath
+aolcloud.net, 10992, RESELLER #stanza-oath
+contextweb.com, 561098, RESELLER, 89ff185a4c4e857c #stanza-pulsepoint
+rubiconproject.com, 12004, DIRECT, 0bfd66d529a55807
+coxmt.com, 2000067907202, RESELLER #stanza-oath
+pubmatic.com, 156078, RESELLER, 5d62403b186f2ace #stanza-oath
+Openx.com, 537143344, RESELLER #stanza-oath
+Indexexchange.com, 175407, RESELLER, 50b1c356f2c5c8fc #stanza-oath
+google.com, pub-1965383259143495, RESELLER, f08c47fec0942fa0
+synacor.com, 81503, RESELLER #SynacorESPContango
+google.com, pub-9242135695870166, RESELLER #SynacorESPAdX
+appnexus.com, 310, RESELLER #SynacorESPAppNexus
+spotxchange.com, 209621, DIRECT, 7842df1d2fe2db34
+spotx.tv, 209621, DIRECT, 7842df1d2fe2db34
+tremorhub.com, i0unc-nzux7, DIRECT, 1a4e959a1b50034a
+advertising.com, 21880, DIRECT
+aol.com, 47750, RESELLER #stanza-oath-mobileONE
+sonobi.com, 69f1bfb855, RESELLER #stanza-sonobi
+rhythmone.com, 1059622079, RESELLER #stanza-sonobi
+contextweb.com, 560606, RESELLER #stanza-sonobi
+sovrn.com, 251908, DIRECT, fafdf38b16bf6b2b #stanza-sovrn
+lijit.com, 251908, DIRECT, fafdf38b16bf6b2b #stanza-sovrn
+appnexus.com, 9446, DIRECT
+openx.com, 539926406, RESELLER, 6a698e2ec38604c6
+getpolymorph.com, 2297, RESELLER, d444e922d4e4d6e2 #stanza-polymorph
+adsnative.com, 2297, RESELLER, d444e922d4e4d6e2 #stanza-polymorph
+appnexus.com, 7614, RESELLER, f5ab79cb980f11d1 #stanza-polymorph
+rubiconproject.com, 16596, RESELLER, 0bfd66d529a55807 #stanza-polymorph
+pubmatic.com, 156057, RESELLER #stanza-polymorph
+33across.com, 0010b000018louAAAQ, DIRECT, bbea06d9c4d2853c  #stanza-nwmedia
+rubiconproject.com, 16414,RESELLER, 0bfd66d529a55807  #stanza-nwmedia
+pubmatic.com,156423, RESELLER, 5d62403b186f2ace  #stanza-nwmedia
+rhythmone.com, 2439829435, RESELLER, a670c89d4a324e47 #stanza-nwmedia
+indexexchange.com, 185506, RESELLER   #stanza-nwmedia
+appnexus.com, 1356, RESELLER, f5ab79cb980f11d1 #stanza-nwmedia
+emxdgt.com, 326, RESELLER, 1e1d41537f7cad7f  #stanza-nwmedia
+google.com, pub-9557089510405422, RESELLER, f08c47fec0942fa0 #stanza-nwmedia   
+openx.com, 537120563, RESELLER, 6a698e2ec38604c6  #stanza-nwmedia  
+media.net, 8CULG523M, DIRECT#stanza-nwmedia
+telaria.com, i0unc-nzux7, DIRECT, 1a4e959a1b50034a
+tremorhub.com, i0unc-nzux7, DIRECT, 1a4e959a1b50034a
+telaria.com, gjth7-b76sj, DIRECT, 1a4e959a1b50034a
+tremorhub.com, gjth7-b76sj, DIRECT, 1a4e959a1b50034a
+Insticator.com,c5738539-8db9-4755-a427-5ed8655ee06b,DIRECT #Insticator_Version_2.1 
+google.com, pub-7630961163643137, DIRECT, f08c47fec0942fa0 
+33across.com, 0010b00001rrPUnAAM, DIRECT, bbea06d9c4d2853c 
+aps.amazon.com, 70fb13d1-ab65-42ac-a7ca-0b4e680d5c92, DIRECT 
+appnexus.com, 3695, DIRECT 
+beachfront.com, 13310, DIRECT, e2541279e8e2ca4d 
+EMXDGT.com, 22, DIRECT, 1e1d41537f7cad7f 
+brightcom.com, 15800, DIRECT 
+conversantmedia.com, 40291, DIRECT, 03113cd04947736d 
+districtm.io, 100683, DIRECT, 3fd707be9c4527c3 
+e-planning.net, ca658eed27b34b00, DIRECT 
+gumgum.com, 13344, DIRECT, ffdef49475d318a9 
+improvedigital.com, 1277, DIRECT 
+improvedigital.com, 1276, DIRECT 
+indexexchange.com, 187071, DIRECT, 50b1c356f2c5c8fc 
+indexexchange.com, 187482, DIRECT, 50b1c356f2c5c8fc 
+openx.com, 537117488, RESELLER, 6a698e2ec38604c6 
+openx.com, 540105394, RESELLER, 6a698e2ec38604c6 
+Pubmatic.com, 95054, DIRECT, 5d62403b186f2ace 
+Pubmatic.com, 157119, DIRECT, 5d62403b186f2ace 
+contextweb.com, 561664, RESELLER, 89ff185a4c4e857c 
+rhythmone.com, 136898039, DIRECT, a670c89d4a324e47 
+Rhythmone.com, 527383184, DIRECT, a670c89d4a324e47 
+RTBHOUSE.COM, eDr4TCudLLHttcPmswNj, DIRECT 
+rubiconproject.com, 17062, DIRECT, 0bfd66d529a55807 
+rubiconproject.com, 17980, DIRECT, 0bfd66d529a55807 
+smartadserver.com, 3262, DIRECT 
+sonobi.com, e315a43aa9, DIRECT, d1a215d9eb5aee9e 
+sonobi.com, 70bc4d0919, DIRECT, d1a215d9eb5aee9e 
+sovrn.com, 257618, DIRECT, fafdf38b16bf6b2b 
+lijit.com, 257618, DIRECT, fafdf38b16bf6b2b 
+synacor.com, 82129, DIRECT, e108f11b2cdf7d5b 
+ucfunnel.com, par-BE7E7ADB8D34EE2BF7BBD2899BB62A77, DIRECT 
+aralego.com, par-BE7E7ADB8D34EE2BF7BBD2899BB62A77, DIRECT 
+appnexus.com, 9393, DIRECT 
+ssp.ynxs.io, 185, DIRECT 
+appnexus.com, 10617, DIRECT 
+advertising.com, 25034, DIRECT 

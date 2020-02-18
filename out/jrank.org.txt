@@ -1,0 +1,14 @@
+google.com, pub-4803409109489353, DIRECT, f08c47fec0942fa0
+subdomain=movies.jrank.org
+subdomain=psychology.jrank.org
+subdomain=movies.jrank.org
+subdomain=law.jrank.org
+subdomain=science.jrank.org
+subdomain=medicine.jrank.org
+subdomain=biography.jrank.org
+subdomain=family.jrank.org
+subdomain=sports.jrank.org
+subdomain=social.jrank.org
+subdomain=animals.jrank.org 
+subdomain=companies.jrank.org
+subdomain=reference.jrank.org

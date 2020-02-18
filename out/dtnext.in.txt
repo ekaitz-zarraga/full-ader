@@ -1,0 +1,10 @@
+#Ads.txt for dtNext.in | 12:34 16-01-2019
+#AdExchange
+google.com, pub-8600740132349263, DIRECT, f08c47fec0942fa0
+
+#Adsense
+google.com, pub-5529888893498232, DIRECT, f08c47fec0942fa0
+
+#Tribal
+exponential.com, 141830, DIRECT, afac06385c445926
+tribalfusion.com, 141830, DIRECT, afac06385c445926

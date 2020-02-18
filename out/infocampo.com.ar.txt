@@ -1,0 +1,13 @@
+#Ads.txt http://wwwinfocampo.com.ar/
+
+Smartadserver.com,1684,DIRECT
+contextweb.com,560288,DIRECT,89ff185a4c4e857c
+pubmatic.com,156439,DIRECT
+pubmatic.com, 154037,DIRECT
+rubiconproject.com,16114,DIRECT, 0bfd66d529a55807
+openx.com,537149888,DIRECT,6a698e2ec38604c6
+sovrn.com, 257611,DIRECT, fafdf38b16bf6b2b
+appnexus.com,3703,DIRECT,f5ab79cb980f11d1
+google.com, pub-4633372740045522, DIRECT, f08c47fec0942fa0
+google.com, pub-8598431007236322, DIRECT, f08c47fec0942fa0
+teads.tv, 18804, DIRECT, 15a9c44f6d26cbe1

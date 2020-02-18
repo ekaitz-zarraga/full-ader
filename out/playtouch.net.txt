@@ -1,0 +1,18 @@
+# Google
+google.com, pub-8460767264532971, DIRECT, f08c47fec0942fa0
+google.com, pub-5587206406992399, DIRECT, f08c47fec0942fa0
+#LSM
+lifestreet.com, 274160, DIRECT
+indexexchange.com, 179974, RESELLER
+indexexchange.com, 184847, RESELLER
+contextweb.com, 561091 , RESELLER
+contextweb.com, 561302 , RESELLER
+appnexus.com, 1475, RESELLER
+mediamath.com, 18, RESELLER
+#GameDistribution
+spotxchange.com, 153598, RESELLER, 7842df1d2fe2db34
+spotx.tv, 153598, RESELLER, 7842df1d2fe2db34
+freewheel.tv, 215714, RESELLER
+freewheel.tv, 216634, RESELLER
+google.com, pub-1313834454494130, RESELLER, f08c47fec0942fa0
+google.com, pub-2316275586951220, RESELLER, f08c47fec0942fa0

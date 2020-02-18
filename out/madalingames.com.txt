@@ -1,0 +1,63 @@
+# p1
+google.com, pub-9990175436387830, DIRECT, f08c47fec0942fa0
+
+
+# p2
+google.com, pub-4043919539, RESELLER, f08c47fec0942fa0
+google.com, pub-11743293, RESELLER, f08c47fec0942fa0
+google.com, pub-5908399841745966, RESELLER, f08c47fec0942fa0
+
+
+# p3
+infolinks.com, 2875042, RESELLER
+infolinks.com, 2875042, DIRECT
+appnexus.com, 3251, RESELLER
+appnexus.com, 3251, DIRECT
+openx.com, 118151, DIRECT, 6a698e2ec38604c6
+openx.com, 118151, RESELLER, 6a698e2ec38604c6
+
+
+
+# crazygames
+google.com, pub-6257835363939071, RESELLER, f08c47fec0942fa0 
+google.com, pub-8415986145297288, RESELLER, f08c47fec0942fa0 
+appnexus.com, 7474, RESELLER 
+rubiconproject.com, 16980, RESELLER, 0bfd66d529a55807 
+aps.amazon.com, 9e9bffbc-66c5-4b5b-89aa-4d839e05ce3a, RESELLER 
+pubmatic.com, 156561, RESELLER, 5d62403b186f2ace 
+pubmatic.com, 157592, RESELLER, 5d62403b186f2ace 
+spotxchange.com, 239989, RESELLER, 7842df1d2fe2db34 
+spotx.tv, 239989, RESELLER, 7842df1d2fe2db34 
+tremorhub.com, 2lw6n-dzid4, RESELLER, 1a4e959a1b50034a 
+districtm.io, 100794, RESELLER 
+indexexchange.com, 185783, RESELLER 
+indexexchange.com, 188176, RESELLER 
+openx.com, 539430362, RESELLER, a698e2ec38604c6
+
+
+
+# gamearter
+google.com, pub-5908399841745966, DIRECT, f08c47fec0942fa0
+
+google.com, pub-9427048641572074, DIRECT, f08c47fec0942fa0
+google.com, pub-4529402052683454, DIRECT, f08c47fec0942fa0
+
+#WG-Criteo
+criteo.com, 8053, RESELLER
+
+#WG-Sovrn
+sovrn.com, 267609, DIRECT, fafdf38b16bf6b2b
+lijit.com, 267609, DIRECT, fafdf38b16bf6b2b
+appnexus.com, 1360, RESELLER, f5ab79cb980f11d1
+gumgum.com, 11645, RESELLER, ffdef49475d318a9
+openx.com, 538959099, RESELLER, 6a698e2ec38604c6
+openx.com, 539924617, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 137711, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156212, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156700, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 17960, RESELLER, 0bfd66d529a55807
+
+
+
+# gameflare.com
+google.com, pub-6997479010326903, RESELLER, f08c47fec0942fa0

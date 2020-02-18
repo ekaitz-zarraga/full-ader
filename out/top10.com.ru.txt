@@ -1,0 +1,20 @@
+#vgtrk.com ads.txt Inclusion list please integrate into your ads.txt file as is
+#Last modified: 07/12/2017
+google.com, pub-5708577224775488, DIRECT, f08c47fec0942fa0
+google.com, pub-9365356850516012, DIRECT, f08c47fec0942fa0
+google.com, pub-9340094586672028, DIRECT, f08c47fec0942fa0
+#Last modified: 07/12/2017
+google.com,pub-8309773808661346,RESELLER,f08c47fec0942fa0
+google.com,pub-8622186303703569,DIRECT,f08c47fec0942fa0
+openx.com,123456789,DIRECT,6a698e2ec38604c6
+openx.com,987654321,RESELLER,6a698e2ec38604c6
+spotxchange.com,125693,RESELLER,7842df1d2fe2db34
+spotx.tv,125693,RESELLER,7842df1d2fe2db34
+betweendigital.com, 34736, DIRECT
+#Last modified: 27/03/2019
+videonow.ru, vn-4601, DIRECT
+google.com, pub-6038027899573286, RESELLER
+rubiconproject.com, 15636, RESELLER
+adform.com, 1650, RESELLER
+betweendigital.com, 34557, RESELLER
+freewheel.tv, 841985, RESELLER

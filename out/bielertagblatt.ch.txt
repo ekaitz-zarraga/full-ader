@@ -1,0 +1,8 @@
+#ads.txt bielertagblatt.ch journaldujura.ch
+#contact=entwickler@gassmann.ch
+#contact=https://www.gassmann.ch/de/kontakt
+
+appnexus.com, 1504, RESELLER, f5ab79cb980f11d1
+freewheel.tv, 228, RESELLER
+google.com, pub-8390491711010039, DIRECT, f08c47fec0942fa0
+teads.tv, 11839, DIRECT, 15a9c44f6d26cbe1

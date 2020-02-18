@@ -1,0 +1,7 @@
+#from IAB Tech Lab & Tamedia Advertising
+#L'essentiel fights AdFraud
+#ads.txt 20min.ch
+
+google.com, pub-7756262923332577, DIRECT, f08c47fec0942fa0
+appnexus.com, 3646, DIRECT
+openx.com, 540063070, DIRECT, 6a698e2ec38604c6

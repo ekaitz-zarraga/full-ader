@@ -1,0 +1,13 @@
+# Next Day Media
+appnexus.com, 2668, DIRECT, f5ab79cb980f11d1
+google.com, pub-5879135606263005, DIRECT, f08c47fec0942fa0
+google.com, pub-4402427756333803, DIRECT, f08c47fec0942fa0
+contact=info@nextday.media
+contact=http://nextday.media
+
+# VMG
+videomediagroup.com, 361, DIRECT
+vmg.host, 361, DIRECT
+
+# Adsense
+google.com, pub-1372927657135581, DIRECT

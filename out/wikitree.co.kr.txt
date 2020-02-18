@@ -1,0 +1,67 @@
+# Managed by ADOP START #
+google.com, pub-2626235926542867, RESELLER, f08c47fec0942fa0
+google.com, pub-7694956726795277, DIRECT, f08c47fec0942fa0
+google.com, pub-1474238860523410, RESELLER, f08c47fec0942fa0
+google.com, pub-4968145218643279, DIRECT, f08c47fec0942fa0
+google.com, pub-3533864070776314, RESELLER, f08c47fec0942fa0
+google.com, pub-2110869732439553, RESELLER, f08c47fec0942fa0
+# Managed by ADOP END # Create Date : 2017-11-15 09:19:40
+
+# Managed by AdnMore
+google.com, pub-5422671659717523, RESELLER, f08c47fec0942fa0
+# Managed by AdnMore END Create Date : 2018-06-21 11:19:40
+
+
+# Managed by Interactivy
+google.com, pub-8805486763222041, RESELLER, f08c47fec0942fa0
+google.com, pub-2442187080355642, DIRECT, f08c47fec0942fa0
+# Managed by Interactivy END Create Date : 2018-12-21 11:19:40
+
+
+# ADOP Headerbid
+appnexus.com, 3153, RESELLER, f5ab79cb980f11d1
+districtm.io, 100750, DIRECT
+adtech.com, 11095, Reseller
+coxmt.com, 2000067907202, Reseller
+Openx.com, 537143344, Reseller
+indexexchange.com, 175407, Reseller
+appnexus.com, 2081, RESELLER, f5ab79cb980f11d1
+openx.com, 537141601, RESELLER, 6a698e2ec38604c6
+# ADOP Headerbid  END Created Date : 2019-01-07
+
+# Taboola
+taboola.com,1168133,DIRECT,c228e6794e811952
+spotx.tv,71451,RESELLER
+spotxchange.com, 71451, RESELLER
+advertising.com, 8603, RESELLER
+pubmatic.com, 156307, RESELLER, 5d62403b186f2ace
+appnexus.com, 3364, RESELLER
+Indexexchange.com, 183756, RESELLER
+contextweb.com, 560382, RESELLER
+openx.com, 539154393, RESELLER
+tremorhub.com, z87wm, RESELLER, 1a4e959a1b50034a
+rubiconproject.com, 16698, RESELLER, 0bfd66d529a55807
+freewheel.tv, 799841, RESELLER
+freewheel.tv, 799921, RESELLER
+aol.com, 53392, RESELLER
+rhythmone.com, 1166984029, RESELLER, a670c89d4a324e47
+smartadserver.com, 3563, RESELLER
+beachfront.com, 13749, RESELLER, e2541279e8e2ca4d
+advertising.com, 28458, RESELLER
+admanmedia.com, 556, RESELLER
+
+# Taboola End Created Date : 2019-03-20
+# Taboola End Updated Date : 2019-11-21
+
+#Teads Tv
+teads.tv, 18136, DIRECT, 15a9c44f6d26cbe1
+#Teads Tv End Created Date : 2019-03-20
+
+#페이즈렙
+google.com, pub-4907634972239128, DIRECT, f08c47fec0942fa0
+google.com, pub-4707036430287544, RESELLER, f08c47fec0942fa0 #Added date : 2019-07-04
+#페이즈렙 End Created Date : 2019-05-17
+
+#제이더블유애드 Created Date : 2019-09-23
+google.com, pub-3221110497495388, DIRECT, f08c47fec0942fa0
+#제이더블유애드

@@ -1,0 +1,45 @@
+# =============================================================================
+#       _      ____    ____    _____  __  __  _____       _____   _   _        
+#      / \    |  _ \  / ___|  |_   _| \ \/ / |_   _|     | ____| | | | |       
+#     / _ \   | | | | \___ \    | |    \  /    | |       |  _|   | | | |       
+#    / ___ \  | |_| |  ___) |   | |    /  \    | |    _  | |___  | |_| |       
+#   /_/   \_\ |____/  |____/    |_|   /_/\_\   |_|   (_) |_____|  \___/        
+# 
+# =============================================================================
+# 
+# Manage your ads.txt with ease. Create an account today
+# https://adstxt.eu
+# 
+# =============================================================================
+google.com, pub-7718251389626337, DIRECT, f08c47fec0942fa0
+google.com, pub-6343620367687201, RESELLER, f08c47fec0942fa0
+google.com, pub-2989550757492008, DIRECT, f08c47fec0942fa0
+google.com, pub-1695026254000808, DIRECT, f08c47fec0942fa0
+pubmatic.com, 158216, DIRECT, 5d62403b186f2ace
+springserve.com, 972, RESELLER
+google.com, pub-2906750618782074, DIRECT, f08c47fec0942fa0
+google.com, pub-1812091888252072, DIRECT, f08c47fec0942fa0
+
+
+
+# =============================================================================
+# 
+# Added when the domain was created on the platform based on existing ads.txt
+# These are orphan accounts - if you see yours, reach out to get@adstxt.eu
+# 
+# =============================================================================
+adtech.com, 12068, DIRECT
+aps.amazon.com, 66ef05f7-ad53-48f6-873a-ac7543370392, DIRECT
+demand.supply, m4o6bzvA4LDXmHkYG, DIRECT
+districtm.io, 100962, DIRECT
+relabe.com, m4o6bzvA4LDXmHkYG, DIRECT
+sulvo.co, m4o6bzvA4LDXmHkYG, DIRECT
+sulvo.com, m4o6bzvA4LDXmHkYG, DIRECT
+surgeprice.com, m4o6bzvA4LDXmHkYG, DIRECT
+appnexus.com, 1908, DIRECT, f5ab79cb980f11d1
+google.com, pub-3831894559014614, DIRECT, f08c47fec0942fa0
+openx.com, 540191398, DIRECT, 6a698e2ec38604c6
+pubmatic.com, 157150, DIRECT, 5d62403b186f2ace
+rubiconproject.com, 18020, DIRECT, 0bfd66d529a55807
+rubiconproject.com, 19820, DIRECT, 0bfd66d529a55807
+yldbt.com, 5b522cc167f6b300b89dc6d3, DIRECT, cd184cb30abaabb5

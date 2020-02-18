@@ -1,0 +1,5 @@
+#ads.txt mamatato.com
+
+admixer.net, 7e967579-6add-440d-bee3-b78fde3a9b85, DIRECT
+google.com, pub-3379969116950199, RESELLER  
+google.com, pub-3462445627107597, direct #display, video, native

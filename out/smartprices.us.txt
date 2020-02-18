@@ -1,0 +1,32 @@
+#Google
+google.com, pub-4279315068583694, RESELLER, f08c47fec0942fa0
+google.com, pub-3775738955018489, RESELLER, f08c47fec0942fa0
+google.com, pub-1243128108152865, RESELLER, f08c47fec0942fa0
+#Appnexus
+appnexus.com, 8610, RESELLER, f5ab79cb980f11d1
+#Index Exchange
+indexexchange.com, 189451, RESELLER
+indexexchange.com, 189448, RESELLER
+#OpenX
+openx.com, 540338038, RESELLER, 6a698e2ec38604c6
+openx.com, 540447827, RESELLER, 6a698e2ec38604c6
+#Pubmatic
+pubmatic.com, 157530, RESELLER, 5d62403b186f2ace
+pubmatic.com, 158091, RESELLER, 5d62403b186f2ace
+#Rhythmone
+rhythmone.com, 3093722432, RESELLER, a670c89d4a324e47
+#DistrictM
+districtm.io, 101848, DIRECT, 3fd707be9c4527c3
+appnexus.com, 1908, RESELLER, f5ab79cb980f11d1
+google.com, pub-9685734445476814, RESELLER, f08c47fec0942fa0
+#Sovrn
+sovrn.com, 270069, DIRECT, fafdf38b16bf6b2b
+lijit.com, 270069, DIRECT, fafdf38b16bf6b2b
+appnexus.com, 1360, RESELLER, f5ab79cb980f11d1
+gumgum.com, 11645, RESELLER, ffdef49475d318a9
+openx.com, 538959099, RESELLER, 6a698e2ec38604c6
+openx.com, 539924617, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 137711, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156212, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156700, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 17960, RESELLER, 0bfd66d529a55807

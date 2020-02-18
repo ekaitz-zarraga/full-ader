@@ -1,0 +1,109 @@
+#Tapatalk Ads file. Version 2020-02-12
+google.com, pub-8873774943509309, DIRECT, f08c47fec0942fa0
+rubiconproject.com, 15664, DIRECT, 0bfd66d529a55807
+adtech.com, 11227, DIRECT
+contextweb.com, 561088, DIRECT, 89ff185a4c4e8
+liveintent.com, 29681, DIRECT
+appnexus.com, 8974, DIRECT
+indexexchange.com, 186661, DIRECT
+contextweb.com, 561562, RESELLER, 89ff185a4c4e857 #display
+c1exchange.com, c1x_a9_uampubs, RESELLER #display
+coxmt.com, 2000068024302, DIRECT #display
+google.com, pub-6901667104123709, DIRECT, f08c47fec0942fa0
+#Pubmatic
+pubmatic.com, 159023, DIRECT, 5d62403b186f2ace
+#amazon
+aps.amazon.com,8f9815c0-9661-45ca-805e-aeded2bf5e50,DIRECT
+pubmatic.com,157150,RESELLER,5d62403b186f2ace
+openx.com,540191398,RESELLER,6a698e2ec38604c6
+rubiconproject.com,18020,RESELLER,0bfd66d529a55807
+appnexus.com,1908,RESELLER,f5ab79cb980f11d1
+adtech.com,12068,RESELLER,e1a5b5b6e3255540
+ad-generation.jp,12474,RESELLER
+districtm.io,100962,RESELLER,3fd707be9c4527c3
+appnexus.com,3663,RESELLER,f5ab79cb980f11d1
+rhythmone.com,1654642120,RESELLER,a670c89d4a324e47
+#RhythmOne
+rhythmone.com, 1301012528, DIRECT, a670c89d4a324e47
+#TripleLift
+triplelift.com, 7694, DIRECT, 6c33edb13117fd86
+appnexus.com, 1314, RESELLER
+#districM
+districtm.io, 101548, DIRECT, 3fd707be9c4527c3
+appnexus.com, 1908, RESELLER, f5ab79cb980f11d1
+google.com, pub-9685734445476814, RESELLER, f08c47fec0942fa0
+#rubicon
+rubiconproject.com, 18020, RESELLER, 0bfd66d529a55807
+yldbt.com, 5b522cc167f6b300b89dc6d3, RESELLER, cd184cb30abaabb5
+coxmt.com, 2000068024302, RESELLER
+#lockerdome
+lockerdome.com, 11487510891305984, DIRECT
+#MobileFuse
+appnexus.com, 2764, DIRECT
+mobilefuse.com, 100000, DIRECT
+#Media.Net
+Media.net, 8CU37W91A, DIRECT
+#Outbrain
+outbrain.com, 009fdbe3676c69be00b23dd1c839366fd2, DIRECT
+appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
+tremorhub.com, q017o-78mlk, RESELLER, 1a4e959a1b50034a # Premium video demand aka "Telaria"
+teads.tv, 15429, RESELLER, 15a9c44f6d26cbe1 # Premium video demand
+advertising.com, 26154, RESELLER # Premium video demand
+spotxchange.com, 225721, RESELLER # Premium video demand
+Freewheel.tv, 741650, RESELLER # Premium video demand
+rubiconproject.com, 17130, RESELLER, 0bfd66d529a55807 # Premium video demand
+lkqd.net, 450, RESELLER, 59c49fa9598a0117 # Premium video demand
+openx.com, 540393169, RESELLER, 6a698e2ec38604c6 # Premium video demand
+spotx.tv, 238936, RESELLER, 7842df1d2fe2db34 # Premium video demand
+spotxchange.com, 238936, RESELLER, 7842df1d2fe2db34 # Premium Video Demand
+advertising.com, 28038, RESELLER # Premium Video Demand
+rubiconproject.com, 19668, RESELLER, 0bfd66d529a55807
+contextweb.com, 562145, RESELLER, 89ff185a4c4e857c  # Premium Video Demand
+indexexchange.com, 190856, RESELLER, 50b1c356f2c5c8fc  # Premium Video Demand
+pubmatic.com, 158615, RESELLER, 5d62403b186f2ace # Premium video & display demand
+vidazoo.com, 1773068026, RESELLER, b6ada874b4d7d0b2 # Premium Video Demand
+#Advantis
+avantisvideo.com,  8006, DIRECT
+spotxchange.com, 165877, RESELLER, 7842df1d2fe2db34
+spotx.tv, 165877, RESELLER, 7842df1d2fe2db34
+Advertising.com, 23598, RESELLER
+Appnexus.com, 10062, DIRECT, f5ab79cb980f11d1
+Appnexus.com, 3391, DIRECT, f5ab79cb980f11d1
+openx.com, 538911542, DIRECT, 6a698e2ec38604c6
+openx.com, 539955014, DIRECT, 6a698e2ec38604c6
+rubiconproject.com, 19002, DIRECT, 0bfd66d529a55807
+#Brightcom
+brightcom.com, 15800, DIRECT
+google.com, pub-5231479214411897, RESELLER, f08c47fec0942fa0
+google.com, pub-4207323757133151, RESELLER, f08c47fec0942fa0
+indexexchange.com, 189744, RESELLER
+openx.com, 537153209, RESELLER, 6a698e2ec38604c6
+33across.com, 0013300001qkdlwAAA, RESELLER
+rubiconproject.com, 20416, RESELLER, 0bfd66d529a55807
+adtech.com, 11208, RESELLER
+improvedigital.com, 1362, RESELLER
+appnexus.com, 3153, RESELLER, f5ab79cb980f11d1
+sovrn.com, 270524, RESELLER, fafdf38b16bf6b2b
+lijit.com, 270524, RESELLER, fafdf38b16bf6b2b
+smartadserver.com, 2995, RESELLER
+rubiconproject.com, 16114, RESELLER, 0bfd66d529a55807
+appnexus.com, 3703, RESELLER, f5ab79cb980f11d1
+districtm.io, 101080, RESELLER
+lkqd.net,49, RESELLER, 59c49fa9598a0117
+advertising.com, 23302, RESELLER
+advertising.com, 2270, RESELLER
+openx.com, 540857594 , RESELLER, 6a698e2ec38604c6
+#PubWise
+#sovrn
+sovrn.com, 246851, DIRECT, fafdf38b16bf6b2b
+lijit.com, 246851, DIRECT, fafdf38b16bf6b2b
+appnexus.com, 1360, RESELLER, f5ab79cb980f11d1
+gumgum.com, 11645, RESELLER, ffdef49475d318a9
+openx.com, 538959099, RESELLER, 6a698e2ec38604c6
+openx.com, 539924617, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 137711, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156212, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156700, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 17960, RESELLER, 0bfd66d529a55807
+#openx
+openx.com,  540472191, RESELLER, 6a698e2ec38604c6

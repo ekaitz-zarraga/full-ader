@@ -1,0 +1,73 @@
+## GRV MEDIA REQUIRED grandoldteam.com
+grv.media, 4, DIRECT
+#Google - GOT
+google.com, pub-0185839980782966, DIRECT, f08c47fec0942fa0
+#AdYouLike
+adyoulike.com, 8fe64fa05b2b4b5acace186a55e4344c, direct
+appnexus.com, 9733, RESELLER
+spotxchange.com, 230037, RESELLER, 7842df1d2fe2db34
+spotx.tv, 230037, RESELLER, 7842df1d2fe2db34
+freewheel.tv, 745362, RESELLER
+freewheel.tv, 745378, RESELLER
+tremorhub.com, ewut4-b6zwq, RESELLER, 1a4e959a1b50034a
+rubiconproject.com, 20736, RESELLER, 0bfd66d529a55807
+openx.com, 540847510, RESELLER, 6a698e2ec38604c6
+#Amazon
+aps.amazon.com,4d2382bb-433d-4080-a0a8-605993b48b22,DIRECT
+pubmatic.com,157150,RESELLER,5d62403b186f2ace
+openx.com,540191398,RESELLER,6a698e2ec38604c6
+rubiconproject.com,18020,RESELLER,0bfd66d529a55807
+appnexus.com,1908,RESELLER,f5ab79cb980f11d1
+adtech.com,12068,RESELLER,e1a5b5b6e3255540
+ad-generation.jp,12474,RESELLER
+districtm.io,100962,RESELLER,3fd707be9c4527c3
+appnexus.com,3663,RESELLER,f5ab79cb980f11d1
+rhythmone.com,1654642120,RESELLER,a670c89d4a324e47
+#AppNexus
+appnexus.com, 8580, direct
+#BRealtime
+EMXDGT.com, 25, DIRECT, 1e1d41537f7cad7f
+appnexus.com, 1356, RESELLER, f5ab79cb980f11d1
+google.com, pub-5995202563537249, RESELLER, f08c47fec0942fa0
+#DistrictM
+districtm.io, 100297, DIRECT
+appnexus.com, 1908, RESELLER
+#Google - GRV
+google.com, pub-3140003044095958, DIRECT, f08c47fec0942fa0
+google.com, pub-9860565941117470, DIRECT, f08c47fec0942fa0
+#IndexExchange
+indexexchange.com, 183982, DIRECT
+indexexchange.com, 186919, DIRECT
+#152Media
+appnexus.com, 3153, RESELLER, f5ab79cb980f11d1
+rubiconproject.com, 16904, RESELLER, 0bfd66d529a55807
+districtm.io, 100750, DIRECT
+#OpenX
+openx.com, 539867746, DIRECT
+openx.com, 539861845, DIRECT
+#Pubmatic
+pubmatic.com, 157938, DIRECT, 5d62403b186f2ace
+#RhythmOne
+rhythmone.com,2580611116,DIRECT,a670c89d4a324e47
+rhythmone.com,2413183890,DIRECT,a670c89d4a324e47
+#Rubicon
+rubiconproject.com, 17606, DIRECT, 0bfd66d529a55807
+rubiconproject.com, 17748, DIRECT, 0bfd66d529a55807
+#Sovrn
+sovrn.com, 226890, DIRECT, fafdf38b16bf6b2b
+lijit.com, 226890, DIRECT, fafdf38b16bf6b2b
+lijit.com, 226890-eb, DIRECT, fafdf38b16bf6b2b
+appnexus.com, 1360, RESELLER, f5ab79cb980f11d1
+gumgum.com, 11645, RESELLER, ffdef49475d318a9
+openx.com, 538959099, RESELLER, 6a698e2ec38604c6
+openx.com, 539924617, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 137711, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156212, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156700, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 17960, RESELLER, 0bfd66d529a55807
+#TEADS
+teads.tv, 16708, DIRECT, 15a9c44f6d26cbe1
+# GRV Contact
+contact=ad-ops@grv.media
+contact=https://www.grv.media/contact/
+## END GRV MEDIA REQUIRED

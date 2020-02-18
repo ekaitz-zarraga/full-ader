@@ -1,0 +1,76 @@
+#OpenX
+openx.com, 540108829, DIRECT
+#Appnexus
+appnexus.com, 9515, DIRECT
+#Teads
+teads.tv, 8579, DIRECT, 15a9c44f6d26cbe1
+#Google
+google.com, pub-3988040422564823, DIRECT, f08c47fec0942fa0
+#YieldMo
+yieldmo.com, SpikeMedia, DIRECT
+yieldmo.com, 1648442081710291742, DIRECT
+yieldmo.com, 1990656773992384025, DIRECT
+#Districtm
+districtm.io, 101393, DIRECT
+appnexus.com, 1908, RESELLER, f5ab79cb980f11d1
+google.com, pub-9685734445476814, RESELLER, f08c47fec0942fa0
+#Sovrn
+sovrn.com, 249551, DIRECT, fafdf38b16bf6b2b
+lijit.com, 249551, DIRECT, fafdf38b16bf6b2b
+appnexus.com, 1360, RESELLER, f5ab79cb980f11d1
+gumgum.com, 11645, RESELLER, ffdef49475d318a9
+openx.com, 538959099, RESELLER, 6a698e2ec38604c6
+openx.com, 539924617, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 137711, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156212, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156700, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 17960, RESELLER, 0bfd66d529a55807
+#Index
+indexexchange.com, 187500, DIRECT
+#conversant
+conversantmedia.com, 40134, DIRECT, 03113cd04947736d
+appnexus.com, 4052, RESELLER
+contextweb.com, 561998, RESELLER, 89ff185a4c4e857c
+openx.com, 540031703, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 158100, RESELLER, 5d62403b186f2ace
+#Oath
+adtech.com, 11458, DIRECT
+Aol.com, 29901, DIRECT
+coxmt.com, 2000067907202, RESELLER
+pubmatic.com, 156078, RESELLER #banner
+pubmatic.com, 156581, DIRECT, 5d62403b186f2ace
+openx.com, 537143344, RESELLER #banner
+indexexchange.com, 175407, RESELLER, 50b1c356f2c5c8fc
+openx.com, 537126269, RESELLER
+pubmatic.com, 156138, RESELLER
+pubmatic.com, 156556, RESELLER
+pubmatic.com, 156248, RESELLER
+coxmt.com, 2000067997102, RESELLER
+indexexchange.com, 184110, RESELLER
+#undertone
+undertone.com, 3660, DIRECT
+appnexus.com, 2234, RESELLER
+openx.com, 537153564, RESELLER, 6a698e2ec38604c6
+#Sharethrough
+sharethrough.com, fb5dd477, DIRECT, d53b998a7bd4ecd2
+indexexchange.com, 186046, RESELLER
+spotxchange.com, 212457, RESELLER
+spotx.tv, 212457, RESELLER
+pubmatic.com, 156557, RESELLER
+rubiconproject.com, 18694, RESELLER, 0bfd66d529a55807
+openx.com, 540274407, RESELLER, 6a698e2ec38604c6
+#pulsepoint
+Contextweb.com, 561847 ,DIRECT,89ff185a4c4e857c
+#Unruly
+video.unrulymedia.com, UNRX-PUB-16393683-4127-40e1-be61-748a4fbdb7f0, DIRECT
+indexexchange.com, 182257, RESELLER
+appnexus.com, 6849, RESELLER
+rubiconproject.com, 15268, RESELLER
+#rhythmone
+rhythmone.com,2617910254,DIRECT,a670c89d4a324e47
+#TripleLift
+triplelift.com, 7246, DIRECT, 6c33edb13117fd86
+appnexus.com, 1314, RESELLER
+spotxchange.com, 228454, RESELLER, 7842df1d2fe2db34
+spotx.tv, 228454, RESELLER, 7842df1d2fe2db34
+facebook.com, 1072933416102501, RESELLER, c3e20eee3f780d68

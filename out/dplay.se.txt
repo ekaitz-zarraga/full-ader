@@ -1,0 +1,16 @@
+#Ads.txt file for DPLAY.SE:
+
+#Smartclip
+smartclip.net,9130,DIRECT
+smartclip.net,838,DIRECT
+
+#Freewheel SSP/StickyAds
+freewheel.tv, 842417, DIRECT
+freewheel.tv, 925809, DIRECT
+freewheel.tv, 926481, RESELLER
+
+#Google SSP (temp)
+google.com, pub-3298888449298533, DIRECT, f08c47fec0942fa0
+
+contact=DNI_AdOps@discovery.com
+

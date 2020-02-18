@@ -1,0 +1,58 @@
+# AdThrive ads.txt v1.0
+
+google.com, pub-8501674430909082, DIRECT #banner
+google.com, pub-8501674430909082, RESELLER #banner
+google.com, pub-4806773764960771, DIRECT, f08c47fec0942fa0
+adtech.com, 9570, DIRECT #banner
+aolcloud.net, 9570, DIRECT #banner
+sovrn.com, 214800, DIRECT, fafdf38b16bf6b2b #banner
+lijit.com, 214800, DIRECT, fafdf38b16bf6b2b #banner
+sovrn.com, 247572, DIRECT, fafdf38b16bf6b2b #banner
+lijit.com, 247572, DIRECT, fafdf38b16bf6b2b #banner
+indexexchange.com, 182496, DIRECT #video, banner
+openx.com, 537143229, DIRECT #banner
+sonobi.com, 3f0e51cba3, DIRECT #banner
+appnexus.com, 3561, DIRECT #banner
+gumgum.com, 11685, DIRECT #video, banner
+districtm.io, 100319, DIRECT #banner
+appnexus.com, 1908, RESELLER #banner
+Appnexus.com, 1356, RESELLER #banner
+contextweb.com, 559952, DIRECT #banner
+EMXDGT.com, 31, Direct #banner
+Freewheel.tv, 324689, DIRECT #video
+Freewheel.tv, 345601, DIRECT #video
+Freewheel.tv, 324673, DIRECT #video
+Freewheel.tv, 345585, DIRECT #video
+Freewheel.tv, 324657, DIRECT #video
+Freewheel.tv, 345569, DIRECT #video
+Freewheel.tv, 324705, DIRECT #video
+Freewheel.tv, 345617, DIRECT #video
+sekindo.com, 18727, DIRECT #video
+spotxchange.com, 84294, RESELLER, 7842df1d2fe2db34 #video
+spotx.tv, 84294, RESELLER, 7842df1d2fe2db34 #video
+advertising.com, 7372, RESELLER #video
+inner-active.com, 206396, RESELLER #video
+lkqd.net, 244, RESELLER, 59c49fa9598a0117 #video
+lkqd.com, 244, RESELLER, 59c49fa9598a0117 #video
+smartadserver.com, 2137, RESELLER #video
+tidaltv.com, 23034, RESELLER #video
+tidaltv.com, 32071, RESELLER #video
+pubmatic.com, 156380, RESELLER, 5d62403b186f2ace #video
+appnexus.com, 1940, RESELLER #video
+appnexus.com, 2764, RESELLER #video
+fyber.com, f14d40df2568b6df4eed292a5ad93716, RESELLER #video
+fyber.com, 3238c1661ce2914845a986d98baf7d59, RESELLER #video
+tremorhub.com, mb9eo-oqsbf, RESELLER, 1a4e959a1b50034a #video
+tremorhub.com, mb9eo-ej2jm, RESELLER, 1a4e959a1b50034a #video
+vi.ai, 474289066697842, RESELLER #video
+spotxchange.com, 118601,RESELLER,7842df1d2fe2db34 #video
+spotx.tv, 118601,RESELLER,7842df1d2fe2db34 #video
+indexexchange.com, 186035, RESELLER #video, banner
+openx.com, 538995728, RESELLER #banner
+coxmt.com, 2000068022202, DIRECT #banner
+smaato.com, 1100037344, DIRECT, 6c33edb13117fd86 #banner
+triplelift.com, 4800, DIRECT, 6c33edb13117fd86 #banner
+triplelift.com, 4801, DIRECT, 6c33edb13117fd86 #banner
+triplelift.com, 4802, DIRECT, 6c33edb13117fd86 #banner
+triplelift.com, 4803, DIRECT, 6c33edb13117fd86 #banner
+triplelift.com, 4804, DIRECT, 6c33edb13117fd86 #banner

@@ -1,0 +1,114 @@
+## 13/07/2018 ##
+
+# GOOGLE #
+
+google.com, pub-7054261115025842, DIRECT, f08c47fec0942fa0
+google.com, pub-2678732374147763, RESELLER, f08c47fec0942fa0
+google.com, pub-5443109342713637, DIRECT, f08c47fec0942fa0
+google.com, pub-5272758720264533, DIRECT, f08c47fec0942fa0
+google.com, pub-7054261115025842, DIRECT, f08c47fec0942fa0
+google.com, pub-6863650218525502, DIRECT, f08c47fec0942fa0
+
+# RUBICON #
+
+rubiconproject.com, 209602, 0bfd66d529a55807
+rubiconproject.com, 209602, DIRECT, 0bfd66d529a55807
+rubiconproject.com, 17950, DIRECT, 0bfd66d529a55807
+rubiconproject.com, 13196, DIRECT, 0bfd66d529a55807
+
+# INDEXEXCHANGE #
+
+indexexchange.com, 186433, DIRECT
+indexexchange.com, 184802, DIRECT
+
+# OPENX #
+
+openx.com, 537119311, RESELLER, 6a698e2ec38604c6
+openx.com, 539520724, RESELLER, 6a698e2ec38604c6
+openx.com, 537117365, RESELLER, 6a698e2ec38604c6
+openx.com, 537116744, RESELLER, 6a698e2ec38604c6
+openx.com, 540003016, DIRECT, 6a698e2ec38604c6
+openx.com, 540170996, DIRECT, 6a698e2ec38604c6
+
+# TEADS #
+
+teads.tv, 13124, DIRECT, 15a9c44f6d26cbe1
+teads.tv, 13128, DIRECT, 15a9c44f6d26cbe1
+
+# FREEWHEEL #
+
+freewheel.tv, 292785, DIRECT
+freewheel.tv, 292753, DIRECT
+freewheel.tv, 292705, DIRECT
+freewheel.tv, 292689, DIRECT
+freewheel.tv, 292769, DIRECT
+freewheel.tv, 292737, DIRECT
+freewheel.tv, 292721, DIRECT
+freewheel.tv, 397153, DIRECT
+freewheel.tv, 300977, DIRECT
+freewheel.tv, 316881, DIRECT
+freewheel.tv, 663634, DIRECT
+freewheel.tv, 684530, DIRECT
+freewheel.tv, 725906, DIRECT
+freewheel.tv, 725874, DIRECT
+freewheel.tv, 721154, DIRECT
+
+# LIGATUS #
+
+ligadx.com,16831,DIRECT
+ligadx.com,dff1fc9271e08bbe,DIRECT
+ligadx.com,16827,DIRECT
+ligadx.com,a82d4c410975a96d,DIRECT
+ligadx.com,16829,DIRECT
+ligadx.com,b320a001b644a587,DIRECT
+ligadx.com,16821,DIRECT
+ligadx.com,85e7a831948844aa,DIRECT
+ligadx.com,16817,DIRECT
+ligadx.com,381dcf3e53ef179e,DIRECT
+ligadx.com,16819,DIRECT
+ligadx.com,07f82606554f5a1a,DIRECT
+ligadx.com,17611,DIRECT
+ligadx.com,f9717c180128e86f,DIRECT
+ligadx.com,16825,DIRECT
+ligadx.com,781116299bf33ae3,DIRECT
+ligadx.com,16813,DIRECT
+ligadx.com,532b5451ceec62fe,DIRECT
+ligadx.com,16823,DIRECT
+ligadx.com,5996d982e54a67d5,DIRECT
+ligadx.com,9213,DIRECT
+ligadx.com,c2ff527b829d7965,DIRECT
+
+# SHARETHROUGH #
+
+sharethrough.com, 0b6c9cbe, DIRECT, d53b998a7bd4ecd2
+sharethrough.com, ce8f010f, DIRECT, d53b998a7bd4ecd2
+
+# OUTBRAIN #
+
+outbrain.com, 00f3a6444b595dd682c9fb5a622b4183df, DIRECT
+outbrain.com, 00f27db3d4d8b9d9e24dd7f62ea7031668, DIRECT
+
+# SPOTX #
+
+spotxchange.com, 140330, RESELLER, 7842df1d2fe2db34
+spotx.tv, 140330, RESELLER, 7842df1d2fe2db34
+spotxchange.com,206177,RESELLER,7842df1d2fe2db34
+spotx.tv,206177,RESELLER,7842df1d2fe2db34
+spotx.tv, 108933, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 108933, RESELLER , 7842df1d2fe2db34
+
+# APPNEXUS #
+
+appnexus.com, 7118, RESELLER
+
+# IMPROVEDIGITAL #
+
+improvedigital.com, 185, RESELLER
+
+# WIDESPACE #
+
+widespace.com, 3430, DIRECT
+
+# PUBMATIC #
+
+pubmatic.com, 156098, RESELLER, 5d62403b186f2ace

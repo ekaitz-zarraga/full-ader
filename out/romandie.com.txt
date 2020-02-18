@@ -1,0 +1,9 @@
+#ads.txt romandie.com
+
+smartadserver.com, 886, DIRECT
+google.com, pub-7177799137448888, DIRECT, f08c47fec0942fa0
+teads.tv, 2727, DIRECT, 15a9c44f6d26cbe1
+teads.tv, 9965, DIRECT, 15a9c44f6d26cbe1
+appnexus.com, 3927, RESELLER
+adtech.com, 1135.1, RESELLER
+aolcloud.net, 1135.1, RESELLER

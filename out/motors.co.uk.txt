@@ -1,0 +1,21 @@
+﻿#ads.txt
+
+openx.com, 540677625, DIRECT, a698e2ec38604c6
+openx.com, 539108728, DIRECT, 6a698e2ec38604c6
+rubiconproject.com, 13948, DIRECT, 0bfd66d529a55807
+rubiconproject.com, 18478, DIRECT, 0bfd66d529a55807
+adtech.com, 4883, DIRECT
+aolcloud.net, 4883, DIRECT
+pubmatic.com, 156407, DIRECT, 5d62403b186f2ace
+pubmatic.com, 157155, DIRECT, 5d62403b186f2ace
+appnexus.com, 7634, DIRECT, f5ab79cb980f11d1
+appnexus.com, 2127, RESELLER, f5ab79cb980f11d1
+appnexus.com, 3310, RESELLER, f5ab79cb980f11d1
+google.com, pub-5105067122536534, DIRECT, f08c47fec0942fa0
+indexexchange.com, 185523, DIRECT
+indexexchange.com, 186893, DIRECT
+# Nano Interactive
+appnexus.com, 3623, RESELLER
+improvedigital.com, 1017, RESELLER
+google.com, pub-21730353906, RESELLER, f08c47fec0942fa0
+smartadserver.com, 3354, RESELLER

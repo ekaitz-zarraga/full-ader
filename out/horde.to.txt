@@ -1,0 +1,7 @@
+# horde.to, horde.ws ads.txt
+# SSP/Exchange Domain, SellerAccountID, PaymentsType, TAGID
+
+# Google
+google.com, pub-5950914822071007, DIRECT, f08c47fec0942fa0
+# Media.net
+media.net, 8CUHS239H, DIRECT

@@ -1,0 +1,39 @@
+#addireto
+google.com, pub-8458078860480948, RESELLER, f08c47fec0942fa0
+
+#premium ads
+google.com, pub-9660490549266716, DIRECT, f08c47fec0942fa0
+google.com, pub-2142338037257831, RESELLER, f08c47fec0942fa0
+google.com, pub-3619045887187031, RESELLER, f08c47fec0942fa0
+rubiconproject.com, 15410, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 210705, RESELLER, 0bfd66d529a55807
+adtech.com, 10825, RESELLER
+aolcloud.net, 10825, RESELLER
+contextweb.com, 561019, RESELLER
+teads.tv, 13576, DIRECT, 15a9c44f6d26cbe1
+include:https://premiumads.com.br/ads.txt
+
+#ymonetize
+google.com, pub-2967635648669971, RESELLER, f08c47fec0942fa0
+google.com, pub-3633370801129289, RESELLER, f08c47fec0942fa0
+google.com, pub-9439106205587976, DIRECT, f08c47fec0942fa0
+google.com, pub-5925015964570180, RESELLER, f08c47fec0942fa0
+google.com, pub-6330791094260149, RESELLER, f08c47fec0942fa0
+google.com, pub-2763652553015325, RESELLER, f08c47fec0942fa0
+rubiconproject.com, 11976, RESELLER, 0bfd66d529a55807
+freewheel.tv, 424289, RESELLER
+smartclip.net, 9035, DIRECT
+ymonetize.com, YM0000, DIRECT
+
+#premiumads
+smartadserver.com, 1931, RESELLER
+google.com, pub-2335147707098417, RESELLER, f08c47fec0942fa0
+appnexus.com, 2081, RESELLER, f5ab79cb980f11d1
+appnexus.com, 9794, DIRECT, f5ab79cb980f11d1
+
+#Denakop
+denakop.com, pub-175, DIRECT
+google.com, pub-8170966538152543, RESELLER, f08c47fec0942fa0
+adtech.com, 11627, RESELLER
+contextweb.com, 560821, RESELLER
+appnexus.com, 2081, RESELLER, f5ab79cb980f11d1

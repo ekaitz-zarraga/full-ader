@@ -1,0 +1,32 @@
+google.com, pub-3842202901517235, DIRECT, f08c47fec0942fa0
+google.com, pub-2382538898276275, DIRECT, f08c47fec0942fa0
+teads.tv, 17313, DIRECT, 15a9c44f6d26cbe1
+
+#RELAP
+appnexus.com, 9867, DIRECT, f5ab79cb980f11d1 #display #video
+google.com, pub-8469965667274063, RESELLER, f08c47fec0942fa0 #display #video
+google.com, pub-1724616865008460, RESELLER, f08c47fec0942fa0 #display #video
+advertising.com, 21777, RESELLER #video
+contextweb.com, 561115, RESELLER, 89ff185a4c4e857c #display #video
+spotxchange.com, 230805, DIRECT, 7842df1d2fe2db34 #video
+spotx.tv, 230805, DIRECT, 7842df1d2fe2db34 #video
+aps.amazon.com, cbd6f0c1-b37c-4bfa-8a01-8d245df70c15, DIRECT #display
+rubiconproject.com, 18020, RESELLER, 0bfd66d529a55807 #display
+pubmatic.com,157150,RESELLER,5d62403b186f2ace #display
+openx.com, 540191398, RESELLER, 6a698e2ec38604c6 #display
+contextweb.com, 561562, RESELLER, 89ff185a4c4e857c #display
+c1exchange.com, c1x_a9_uampubs, RESELLER #display
+coxmt.com, 2000068024302, RESELLER #display
+districtm.io, 100962, RESELLER #display
+appnexus.com, 1908, RESELLER, f5ab79cb980f11d1 #display
+yldbt.com, 5b522cc167f6b300b89dc6d3, RESELLER, cd184cb30abaabb5 #display
+truvid.com, 399, RESELLER #video
+truvidplayer.com, 399, RESELLER #video
+advertising.com, 7039, RESELLER #video
+lkqd.com, 16, RESELLER, 59c49fa9598a0117 #video
+lkqd.net, 16, RESELLER, 59c49fa9598a0117 #video
+spotxchange.com, 79977, RESELLER, 7842df1d2fe2db34 #video
+spotx.tv, 79977, RESELLER, 7842df1d2fe2db34 #video
+springserve.com, 43, RESELLER, a24eb641fc82e93d #video
+rubiconproject.com, 17412, RESELLER, 0bfd66d529a55807 #video
+google.com, pub-2370948078851435, RESELLER, f08c47fec0942fa0 #video

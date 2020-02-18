@@ -1,0 +1,9 @@
+&lt;script type=&quot;text/javascript&quot;&gt;
+    var ad_idzone = &quot;3162816&quot;,
+    ad_width = &quot;300&quot;,
+    ad_height = &quot;50&quot;
+&lt;/script&gt;
+&lt;script type=&quot;text/javascript&quot; src=&quot;https://a.exosrv.com/ads.js&quot;&gt;&lt;/script&gt;
+&lt;noscript&gt;
+    &lt;iframe src=&quot;https://syndication.exosrv.com/ads-iframe-display.php?idzone=3162816&amp;output=noscript&amp;type=300x50&quot; width=&quot;300&quot; height=&quot;50&quot; scrolling=&quot;no&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
+&lt;/noscript&gt;

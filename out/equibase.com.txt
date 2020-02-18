@@ -1,0 +1,73 @@
+# Equibase.com ads.txt file 
+aps.amazon.com,91371c1e-a20a-402d-ab75-316aa6ce6e82,DIRECT #amazon uam
+appnexus.com,1908,RESELLER,f5ab79cb980f11d1 #amazon uam
+pubmatic.com,157150,RESELLER,5d62403b186f2ace #amazon uam
+openx.com,540191398,RESELLER,6a698e2ec38604c6 #amazon uam
+rubiconproject.com,18020,RESELLER,0bfd66d529a55807 #amazon uam
+adtech.com,12068,RESELLER,e1a5b5b6e3255540 #amazon uam
+ad-generation.jp,12474,RESELLER #amazon uam
+appnexus.com,3663,RESELLER,f5ab79cb980f11d1 #amazon uam
+google.com, pub-9882871901497464, DIRECT, f08c47fec0942fa0   #google
+google.com, pub-4258385989322393, DIRECT, f08c47fec0942fa0   #google
+openx.com, 537127442, DIRECT, 6a698e2ec38604c6   #openx
+appnexus.com, 9421, DIRECT #appnexus
+emxdgt.com, 61, DIRECT, 1e1d41537f7cad7f   #bRealTime
+google.com,  pub-5995202563537249, RESELLER, f08c47fec0942fa0   #bRealTime
+appnexus.com, 1356, RESELLER, f5ab79cb980f11d1   #bRealTime
+Rhythmone.com,580182306,DIRECT,a670c89d4a324e47 #rhythmone
+Rhythmone.com, 3144976592, DIRECT, a670c89d4a324e47 #rhythmone AmazonUAM
+sovrn.com, 240607, DIRECT, fafdf38b16bf6b2b #sovrn
+lijit.com, 240607, DIRECT, fafdf38b16bf6b2b #sovrn
+lijit.com, 240607-eb, DIRECT, fafdf38b16bf6b2b #sovrn
+appnexus.com, 1360, RESELLER, f5ab79cb980f11d1 #sovrn
+gumgum.com, 11645, RESELLER, ffdef49475d318a9 #sovrn
+openx.com, 538959099, RESELLER, 6a698e2ec38604c6 #sovrn
+openx.com, 539924617, RESELLER, 6a698e2ec38604c6 #sovrn
+pubmatic.com, 137711, RESELLER, 5d62403b186f2ace #sovrn
+pubmatic.com, 156212, RESELLER, 5d62403b186f2ace #sovrn
+pubmatic.com, 156700, RESELLER, 5d62403b186f2ace #sovrn
+rubiconproject.com, 17960, RESELLER, 0bfd66d529a55807 #sovrn
+districtm.io, 100605, DIRECT, 3fd707be9c4527c3 #districtM
+appnexus.com, 1908, RESELLER, f5ab79cb980f11d1 #districtM
+google.com, pub-9685734445476814, RESELLER, f08c47fec0942fa0 #districtM
+spotxchange.com, 184369, DIRECT, #spotx
+spotx.tv, 184369, DIRECT, 7842df1d2fe2db34 #spotx
+conversantmedia.com, 41067, DIRECT #Conversant
+appnexus.com, 4052, RESELLER #Conversant
+openx.com, 540031703, RESELLER, 6a698e2ec38604c6 #Conversant
+
+#Insticator
+Insticator.com,0a4432f6-df51-4234-a95a-aff682ede0c3,DIRECT
+google.com,pub-7630961163643137,RESELLER,f08c47fec0942fa0
+districtm.io,100683,RESELLER,3fd707be9c4527c3
+openx.com,537117488,RESELLER,6a698e2ec38604c6
+pubmatic.com,95054,RESELLER,5d62403b186f2ace
+appnexus.com,1908,RESELLER
+appnexus.com,3695,RESELLER
+appnexus.com,4052,RESELLER
+appnexus.com,1356,RESELLER,f5ab79cb980f11d1
+sonobi.com,e315a43aa9,RESELLER
+rhythmone.com,136898039,RESELLER,a670c89d4a324e47
+EMXDGT.com,22,RESELLER,1e1d41537f7cad7f
+rubiconproject.com,17062,RESELLER,0bfd66d529a55807
+contextweb.com,561664,RESELLER,89ff185a4c4e857c
+sovrn.com,257618,RESELLER,fafdf38b16bf6b2b
+lijit.com,257618,RESELLER,fafdf38b16bf6b2b
+rhythmone.com,1059622079,RESELLER
+contextweb.com,560606,RESELLER
+rubiconproject.com,17980,RESELLER,0bfd66d529a55807
+Rhythmone.com,527383184,RESELLER,a670c89d4a324e47
+indexexchange.com,187071,RESELLER
+indexexchange.com,187482,RESELLER
+openx.com,540105394,RESELLER,6a698e2ec38604c6
+pubmatic.com, 157119, RESELLER, 5d62403b186f2ace
+adtech.com, 10064, RESELLER
+33across.com,0010b00001rrPUnAAM,RESELLER,bbea06d9c4d2853c  #display
+gumgum.com, 13344, RESELLER, ffdef49475d318a9
+Smartadserver.com,3262,RESELLER
+rubiconproject.com,16414,RESELLER,0bfd66d529a55807 #display
+Media.net, 8CUNOIK86, RESELLER
+ucfunnel.com, par-BE7E7ADB8D34EE2BF7BBD2899BB62A77, RESELLER
+aralego.com, par-BE7E7ADB8D34EE2BF7BBD2899BB62A77, RESELLER
+
+

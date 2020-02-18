@@ -1,0 +1,52 @@
+#Teslarati
+google.com, pub-4672671650557568, DIRECT, f08c47fec0942fa0
+
+#Nativo
+nativo.com, 5049, DIRECT, 59521ca7cc5e9fee
+rubiconproject.com, 16156, RESELLER, 0bfd66d529a55807
+appnexus.com, 8035, RESELLER, f5ab79cb980f11d1
+pubmatic.com, 156500, RESELLER, 5d62403b186f2ace
+districtm.io, 101810, RESELLER, 3fd707be9c4527c3
+openx.com, 540709535, RESELLER, 6a698e2ec38604c6
+
+#Nativo Video
+google.com, pub-3844877863303739, RESELLER, f08c47fec0942fa0
+advertising.com, 3679, RESELLER
+advertising.com, 5831, RESELLER 
+advertising.com, 8044, RESELLER 
+advertising.com, 8022, RESELLER 
+spotxchange.com, 150015, RESELLER, 7842df1d2fe2db34
+spotx.tv, 150015, RESELLER, 7842df1d2fe2db34
+vindicosuite.com, 6624, RESELLER
+google.com, pub-7363566645038776, RESELLER, f08c47fec0942fa0 
+google.com, pub-3519627678776838, RESELLER, f08c47fec0942fa0
+
+#Connatix
+connatix.com, 101669, DIRECT, 2af98acdee0e81ed
+tremorhub.com, cd009, RESELLER, 1a4e959a1b50034a
+telaria.com, cd009, RESELLER, 1a4e959a1b50034a
+spotxchange.com, 136839, RESELLER, 7842df1d2fe2db34
+spotx.tv, 136839, RESELLER, 7842df1d2fe2db34
+openx.com, 539496816, RESELLER, 6a698e2ec38604c6
+rubiconproject.com, 19564, RESELLER, 0bfd66d529a55807
+google.com, pub-1929615694373103, RESELLER, f08c47fec0942fa0
+Appnexus.com, 9733, RESELLER
+contextweb.com, 561340, RESELLER, 89ff185a4c4e857c
+indexexchange.com, 190549, DIRECT
+lkqd.net, 593, RESELLER, 59c49fa9598a0117
+freewheel.tv, 1064705, RESELLER
+
+#Misc
+sovrn.com, 209440, DIRECT, fafdf38b16bf6b2b
+lijit.com, 209440, DIRECT, fafdf38b16bf6b2b
+gumgum.com, 11645, RESELLER, ffdef49475d318a9
+openx.com, 537120960, RESELLER
+openx.com, 83499, RESELLER
+openx.com, 538959099, RESELLER
+pubmatic.com, 137711, RESELLER
+pubmatic.com, 156212, RESELLER
+pubmatic.com, 62483, RESELLER
+contextweb.com, 558511, RESELLER
+liveburst.com, 7693, DIRECT
+google.com, pub-4823356789318318, DIRECT
+google.com, pub-4793540440089994, DIRECT

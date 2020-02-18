@@ -1,0 +1,82 @@
+#citethisforme.com/ads.txt
+
+#A9
+aps.amazon.com, 3094, DIRECT #video, banner
+
+#AOL
+adtech.com, 9456, DIRECT, e1a5b5b6e3255540
+advertising.com, 28319, DIRECT
+advertising.com, 28365, DIRECT, e1a5b5b6e3255540
+
+#AppNexus
+appnexus.com, 3492, DIRECT, f5ab79cb980f11d1
+
+#Beachfront Media
+beachfront.com, 10847, DIRECT, e2541279e8e2ca4d
+beachfront.com, 4969, DIRECT, e2541279e8e2ca4d
+
+#Google
+google.com, pub-2633225525924568, DIRECT, f08c47fec0942fa0
+
+#Index
+indexexchange.com, 184799, DIRECT, 50b1c356f2c5c8fc
+indexexchange.com, 183916, DIRECT, 50b1c356f2c5c8fc
+indexexchange.com, 187405, DIRECT, 50b1c356f2c5c8fc
+
+#OpenX
+openx.com, 537101423, DIRECT, 6a698e2ec38604c6
+openx.com, 537153915, DIRECT, 6a698e2ec38604c6
+openx.com, 539513260, RESELLER, 6a698e2ec38604c6
+openx.com, 540324764, DIRECT, 6a698e2ec38604c6
+openx.com, 540322391, DIRECT, 6a698e2ec38604c6
+openx.com, 540306959, DIRECT, 6a698e2ec38604c6
+
+#Primis
+Sekindo.com, 19451, DIRECT, b6b21d256ef43532
+spotxchange.com, 84294, RESELLER, 7842df1d2fe2db34
+spotx.tv, 84294, RESELLER, 7842df1d2fe2db34
+advertising.com, 7372, RESELLER
+advertising.com, 24410, RESELLER
+pubmatic.com, 156595, RESELLER, 5d62403b186f2ace
+google.com, pub-1320774679920841, RESELLER, f08c47fec0942fa0
+openx.com, 540258065, RESELLER, 6a698e2ec38604c6
+rubiconproject.com, 20130, RESELLER, 0bfd66d529a55807
+lkqd.net, 244, RESELLER, 59c49fa9598a0117
+freewheel.tv, 19129, RESELLER
+freewheel.tv, 19133, RESELLER
+tremorhub.com, mb9eo-oqsbf, RESELLER, 1a4e959a1b50034a
+telaria.com, mb9eo-oqsbf, RESELLER, 1a4e959a1b50034a
+smartadserver.com, 3436, RESELLER
+sovrn.com, 270173, RESELLER, fafdf38b16bf6b2b
+lijit.com, 270173, RESELLER, fafdf38b16bf6b2b
+rhythmone.com, 2338962694, RESELLER, a670c89d4a324e47
+video.unrulymedia.com, UNRX-PUB-474a8699-70c2-430c-ba12-859554783168, RESELLER
+
+#Pubmatic
+pubmatic.com, 156821, DIRECT, 5d62403b186f2ace
+pubmatic.com, 157293, DIRECT, 5d62403b186f2ace
+pubmatic.com, 157310, RESELLER, 5d62403b186f2ace
+
+#RhythmOne
+rhythmone.com,794540181,DIRECT,a670c89d4a324e47
+rhythmone.com,333815590,DIRECT,a670c89d4a324e47
+
+#Rubicon
+rubiconproject.com, 18168, DIRECT, 0bfd66d529a55807
+rubiconproject.com, 13342, DIRECT, 0bfd66d529a55807
+
+#Sovrn
+sovrn.com, 213331, DIRECT, fafdf38b16bf6b2b
+lijit.com, 213331, DIRECT, fafdf38b16bf6b2b
+lijit.com, 213331-eb, DIRECT, fafdf38b16bf6b2b
+
+#SpotX
+spotxchange.com, 247217, DIRECT, 7842df1d2fe2db34
+spotx.tv, 247217, DIRECT, 7842df1d2fe2db34
+
+#TripleLift
+triplelift.com, 4412, DIRECT, 6c33edb13117fd86
+appnexus.com, 1314, RESELLER
+
+#TrueX
+truex.com, 182, DIRECT

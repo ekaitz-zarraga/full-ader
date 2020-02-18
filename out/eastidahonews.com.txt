@@ -1,0 +1,115 @@
+# eastidahonews.com/ads.txt
+# CNN Newsource, updated 07/24/2019
+appnexus.com, 1568, RESELLER, f5ab79cb980f11d1
+appnexus.com, 7745, DIRECT
+openx.com, 540595482, DIRECT, 6a698e2ec38604c6
+springserve.com, 650, DIRECT, a24eb641fc82e93d
+exponential.com, 176380, DIRECT, afac06385c445926
+tribalfusion.com, 176380, DIRECT, afac06385c445926
+indexexchange.com, 176280, RESELLER, 50b1c356f2c5c8fc
+google.com, pub-2051007210431666, RESELLER, f08c47fec0942fa0
+exponential.com, 176410, DIRECT, afac06385c445926
+tribalfusion.com, 176410, DIRECT, afac06385c445926
+spotxchange.com, 73543, RESELLER, 7842df1d2fe2db34
+spotx.tv, 73543, RESELLER, 7842df1d2fe2db34
+google.com, pub-0978064532142215, RESELLER, f08c47fec0942fa0
+pubmatic.com, 156956, DIRECT, 5d62403b186f2ace
+pubmatic.com, 156956, RESELLER, 5d62403b186f2ace
+google.com, pub-3887367649849205, RESELLER, f08c47fec0942fa0
+wowyow.com, db062a63-b94e-60d8-6399-25138032e86e, DIRECT
+google.com, pub-1290358753233458, DIRECT, f08c47fec0942fa0
+sovrn.com, 267490, DIRECT, fafdf38b16bf6b2b
+lijit.com, 267490, DIRECT, fafdf38b16bf6b2b
+appnexus.com, 1360, RESELLER, f5ab79cb980f11d1
+openx.com, 538959099, RESELLER, 6a698e2ec38604c6
+openx.com, 539924617, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 137711, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156212, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156700, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 17960, RESELLER, 0bfd66d529a55807
+rubiconproject.com,18622, RESELLER, 0bfd66d529a55807
+openx.com, 537141118, RESELLER, 6a698e2ec38604c6
+advertising.com, 10162, RESELLER
+adtech.com, 10162, RESELLER
+pubmatic.com, 93940, RESELLER, 5d62403b186f2ace
+freewheel.tv, 932337, RESELLER
+google.com, pub-4983172728561290, RESELLER, f08c47fec0942fa0
+openx.com, 537139983, RESELLER, 6a698e2ec38604c6
+rubiconproject.com, 18294, RESELLER, 0bfd66d529a55807
+advertising.com, 28056, RESELLER
+Advertising.com, 21564,Reseller
+springserve.com, 880, RESELLER, a24eb641fc82e93d
+contextweb.com,561153,RESELLER,89ff185a4c4e857c
+rubiconproject.com,18532,RESELLER,0bfd66d529a55807
+appnexus.com, 9914, RESELLER
+freewheel.tv, 601969, RESELLER
+pubnx.com, pubid, DIRECT, 8728b7e97e589da4
+beachfront.com, 12401, RESELLER, e2541279e8e2ca4d
+springserve.com, 301, RESELLER
+springserve.com, 826, DIRECT, a24eb641fc82e93d
+rubiconproject.com, 18838, RESELLER, 0bfd66d529a55807
+improvedigital.com, 1223, RESELLER
+lkqd.com, 379, RESELLER, 59c49fa9598a0117
+appnexus.com, 9393, DIRECT
+ssp.ynxs.io,185,DIRECT
+appnexus.com, 10617, DIRECT
+advertising.com, 25034, DIRECT
+
+# WT begin
+# Sovrn
+sovrn.com, 254188, DIRECT, fafdf38b16bf6b2b
+lijit.com, 254188, DIRECT, fafdf38b16bf6b2b
+lijit.com, 254188-eb, DIRECT, fafdf38b16bf6b2b
+appnexus.com, 1360, RESELLER, f5ab79cb980f11d1
+gumgum.com, 11645, RESELLER, ffdef49475d318a9
+openx.com, 538959099, RESELLER, 6a698e2ec38604c6
+openx.com, 539924617, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 137711, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156212, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156700, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 17960, RESELLER, 0bfd66d529a55807
+
+# 33Across 
+33across.com, 0010b00001sfCxIAAU, DIRECT, bbea06d9c4d2853c #33Across #hb #tag
+
+# 33Across - Rubicon
+rubiconproject.com, 16414, RESELLER, 0bfd66d529a55807 #33Across #hb #tag
+rubiconproject.com, 21642, RESELLER, 0bfd66d529a55807 #33Across #hb #tag
+rubiconproject.com, 21434, RESELLER, 0bfd66d529a55807 #33Across #tag #ebda
+
+# 33Across - PubMatic
+pubmatic.com, 156423, RESELLER, 5d62403b186f2ace #33Across #hb #tag
+pubmatic.com, 158136, RESELLER, 5d62403b186f2ace #33Across EU #hb #tag
+pubmatic.com, 158569, RESELLER, 5d62403b186f2ace #33Across #tag #ebda
+
+# 33Across - AppNexus
+appnexus.com, 10239, RESELLER, f5ab79cb980f11d1 #33Across #hb #tag
+appnexus.com, 1001, RESELLER, f5ab79cb980f11d1 #33Across #tag
+appnexus.com, 3135, RESELLER, f5ab79cb980f11d1 #33Across #tag
+
+# 33Across - OpenX
+openx.com, 537120563, RESELLER, 6a698e2ec38604c6 #33Across #hb #tag
+openx.com, 539392223, RESELLER, 6a698e2ec38604c6 #33Across #tag #ebda
+
+# 33Across - RhythmOne
+rhythmone.com, 2439829435, RESELLER, a670c89d4a324e47 #33Across #hb #tag
+
+# 33Across - EMX
+emxdgt.com, 326, RESELLER, 1e1d41537f7cad7f #33Across #hb #tag
+
+# 33Across - Verizon Media
+adtech.com, 12094, RESELLER #33Across #hb #tag
+adtech.com, 9993, RESELLER #33Across #tag
+
+# 33Across - Advangelists
+advangelists.com, 8d3bba7425e7c98c50f52ca1b52d3735, RESELLER, 60d26397ec060f98 #33Across #hb #tag
+
+# 33Across - Sonobi
+sonobi.com, a416546bb7, RESELLER, d1a215d9eb5aee9e  #33Across #tag #ebda
+
+# 33Across - Index Exchange
+indexexchange.com, 190966, RESELLER, 50b1c356f2c5c8fc #33Across #tag #ebda
+
+# 33Across - Google
+google.com, pub-9557089510405422, RESELLER, f08c47fec0942fa0 #33Across #tag
+# end WT 

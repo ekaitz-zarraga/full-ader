@@ -1,0 +1,374 @@
+<!DOCTYPE html>
+<html lang="fr">
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=11">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta name="google-site-verification" content="zSqePIS43EnmvHxWp6Zee_r2VFngmYYOh4R_NlaCxpU" />
+		<meta name="msvalidate.01" content="ED38A49258B24B05B9AF3810C7801789" />
+		<meta name="y_key" content="a96f2fe6dc8db5c2"/>
+		<title>Nothing found for  Ads Txt</title>
+		<link rel="pingback" href="https://lionelagullo.com/xmlrpc.php">
+		<link rel="alternate" type="application/rss+xml" title="Lionel AGULLO RSS Feed" href="https://lionelagullo.com/feed/">
+		
+<!-- All in One SEO Pack 3.3.3 by Michael Torbert of Semper Fi Web Designob_start_detected [-1,-1] -->
+<script type="application/ld+json" class="aioseop-schema">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://lionelagullo.com/#organization","url":"https://lionelagullo.com/","name":"Lionel AGULLO","sameAs":[]},{"@type":"WebSite","@id":"https://lionelagullo.com/#website","url":"https://lionelagullo.com/","name":"Lionel AGULLO","publisher":{"@id":"https://lionelagullo.com/#organization"}}]}</script>
+<!-- All in One SEO Pack -->
+<link rel='dns-prefetch' href='//maxcdn.bootstrapcdn.com' />
+<link rel='dns-prefetch' href='//cdnjs.cloudflare.com' />
+<link rel='dns-prefetch' href='//netdna.bootstrapcdn.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/lionelagullo.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.3.2"}};
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wpsc-theme-css-css'  href='https://lionelagullo.com/wp-content/themes/lionelagullo-responsive/wpsc-default.css?ver=3.8.9.5.649230' type='text/css' media='all' />
+<style id='wpsc-theme-css-inline-css' type='text/css'>
+
+		/*
+		* Default View Styling
+		*/
+		div.default_product_display div.textcol{
+			margin-left: 168px !important;
+			min-height: 96px;
+			_height: 96px;
+		}
+
+		div.default_product_display  div.textcol div.imagecol{
+			position:absolute;
+			top:0px;
+			left: 0px;
+			margin-left: -168px !important;
+		}
+
+		div.default_product_display  div.textcol div.imagecol a img {
+			width: 158px;
+			height: 96px;
+		}
+
+		.wpsc_category_grid_item  {
+			display:block;
+			float:left;
+			width: 158px;
+			height: 158px;
+		}
+		.wpsc_category_grid_item  span{
+			position:relative;
+			top:10.444444444444px;
+		}
+		div.default_product_display div.item_no_image a  {
+			width: 156px;
+		}
+
+		div.default_product_display .imagecol img.no-image, #content div.default_product_display .imagecol img.no-image {
+			width: 158px;
+			height: 96px;
+        }
+
+		
+		/*
+		* Single View Styling
+		*/
+
+		div.single_product_display div.item_no_image  {
+			width: 190px;
+			height: 298px;
+		}
+		div.single_product_display div.item_no_image a  {
+			width: 190px;
+		}
+
+		div.single_product_display div.textcol{
+			margin-left: 202px !important;
+			min-height: 300px;
+			_height: 300px;
+		}
+
+
+		div.single_product_display  div.textcol div.imagecol{
+			position:absolute;
+
+			margin-left: -202px !important;
+		}
+
+		div.single_product_display  div.textcol div.imagecol a img {
+			width: 192px;
+			height: 300px;
+		}
+
+	div#categorydisplay{
+		display: block;
+	}
+
+	div#branddisplay{
+		display: none;
+	}
+
+</style>
+<link rel='stylesheet' id='wpsc-theme-css-compatibility-css'  href='https://lionelagullo.com/wp-content/plugins/wp-e-commerce/wpsc-theme/compatibility.css?ver=3.8.9.5.649230' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://lionelagullo.com/wp-includes/css/dist/block-library/style.min.css?ver=5.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='https://lionelagullo.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.1.6' type='text/css' media='all' />
+<link rel='stylesheet' id='cookie-notice-front-css'  href='https://lionelagullo.com/wp-content/plugins/cookie-notice/css/front.min.css?ver=5.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='responsive-lightbox-nivo-css'  href='https://lionelagullo.com/wp-content/plugins/responsive-lightbox/assets/nivo/nivo-lightbox.min.css?ver=2.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='responsive-lightbox-nivo-default-css'  href='https://lionelagullo.com/wp-content/plugins/responsive-lightbox/assets/nivo/themes/default/default.css?ver=2.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='twitter-bootstrap-css'  href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css?ver=5.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css?ver=5.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='flexslider-css'  href='//cdnjs.cloudflare.com/ajax/libs/flexslider/2.2.0/flexslider.css?ver=5.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='style-css'  href='https://lionelagullo.com/wp-content/themes/lionelagullo-responsive/style.css?ver=1560411633' type='text/css' media='all' />
+<style id='style-inline-css' type='text/css'>
+
+        body{
+        	background-color: #c2efea;
+        }
+        #header{
+        	background-color: #c2efea;
+        }
+        #header-banner > .container{
+        	background-color: #FFFFFF;
+        }
+        #header-menu .navbar-nav li a{
+        	background-color: #007f65;
+        }
+        #content > .container{
+        	background-color: #FFFFFF;
+        }
+        #footer > .container{
+        	background-color: #007f65;
+        }
+		.gallery .gallery-icon:hover{
+			border-color: #5c9207;
+		}
+        
+    
+</style>
+<link rel='stylesheet' id='rte-css'  href='https://lionelagullo.com/wp-content/themes/lionelagullo-responsive/rte.css?ver=1444314718' type='text/css' media='all' />
+<!--[if lte IE 7]>
+<link rel='stylesheet' id='ie7fix-css'  href='https://lionelagullo.com/wp-content/themes/lionelagullo-responsive/ie7fix.css?ver=1444293180' type='text/css' media='all' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='ie8fix-css'  href='https://lionelagullo.com/wp-content/themes/lionelagullo-responsive/ie8fix.css?ver=1444293176' type='text/css' media='all' />
+<![endif]-->
+<script type='text/javascript' src='https://lionelagullo.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='https://lionelagullo.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='https://lionelagullo.com/wp-content/plugins/wp-e-commerce/wpsc-core/js/wp-e-commerce.js?ver=3.8.9.5.649230'></script>
+<script type='text/javascript' src='https://lionelagullo.com/wp-content/plugins/wp-e-commerce/wpsc-core/js/jquery.infieldlabel.min.js?ver=3.8.9.5.649230'></script>
+<script type='text/javascript' src='https://lionelagullo.com/wp-content/plugins/wp-e-commerce/wpsc-core/js/ajax.js?ver=3.8.9.5.649230'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpsc_ajax = {"ajaxurl":"https:\/\/lionelagullo.com\/wp-admin\/admin-ajax.php","spinner":"https:\/\/lionelagullo.com\/wp-admin\/images\/wpspin_light.gif","no_quotes":"It appears that there are no shipping quotes for the shipping information provided.  Please check the information and try again."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://lionelagullo.com/index.php?wpsc_user_dynamic_js=true&#038;ver=3.8.9.5.649230'></script>
+<script type='text/javascript' src='https://lionelagullo.com/wp-content/plugins/wp-e-commerce/wpsc-admin/js/jquery.livequery.js?ver=1.0.3'></script>
+<script type='text/javascript' src='https://lionelagullo.com/wp-content/plugins/wp-e-commerce/wpsc-core/js/user.js?ver=3.8.9.5649230'></script>
+<script type='text/javascript' src='https://lionelagullo.com/wp-content/plugins/itro-popup/scripts/itro-scripts.js?ver=5.3.2'></script>
+<script type='text/javascript' src='https://lionelagullo.com/wp-content/plugins/responsive-lightbox/assets/infinitescroll/infinite-scroll.pkgd.min.js?ver=5.3.2'></script>
+<link rel='https://api.w.org/' href='https://lionelagullo.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://lionelagullo.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://lionelagullo.com/wp-includes/wlwmanifest.xml" /> 
+<link rel='alternate' type='application/rss+xml' title='Lionel AGULLO Product List RSS' href='https://lionelagullo.com?wpsc_action=rss'/><!-- Vipers Video Quicktags v6.6.0 | http://www.viper007bond.com/wordpress-plugins/vipers-video-quicktags/ -->
+<style type="text/css">
+.vvqbox { display: block; max-width: 100%; visibility: visible !important; margin: 10px auto; } .vvqbox img { max-width: 100%; height: 100%; } .vvqbox object { max-width: 100%; } 
+</style>
+<script type="text/javascript">
+// <![CDATA[
+	var vvqflashvars = {};
+	var vvqparams = { wmode: "opaque", allowfullscreen: "true", allowscriptaccess: "always" };
+	var vvqattributes = {};
+	var vvqexpressinstall = "https://lionelagullo.com/wp-content/plugins/vipers-video-quicktags/resources/expressinstall.swf";
+// ]]>
+</script>
+<link rel="icon" href="https://lionelagullo.com/files/2018/10/cropped-DSCF6493-1-32x32.jpg" sizes="32x32" />
+<link rel="icon" href="https://lionelagullo.com/files/2018/10/cropped-DSCF6493-1-192x192.jpg" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://lionelagullo.com/files/2018/10/cropped-DSCF6493-1-180x180.jpg" />
+<meta name="msapplication-TileImage" content="https://lionelagullo.com/files/2018/10/cropped-DSCF6493-1-270x270.jpg" />
+<style type="text/css" title="dynamic-css" class="options-output">#content > .container{padding-top:0;padding-bottom:0;}body{color:#000000;}h1{color:#007f65;}h2{color:#007f65;}h3{color:#007f65;}a{color:#0066cc;}a:hover,a:focus{color:#114477;}#header-banner{color:#333333;}#header a{color:#000000;}#footer-address{color:#ffffff;}#footer-address a{color:#ffffff;}#header .navbar-nav li a{color:#ffffff;}#header .navbar-nav li a:hover,#header .navbar-nav li.current-menu-item > a, #header .navbar-nav li.current-menu-ancestor > a{color:#ffffff;}#main ul li:before{color:#007f65;}.gallery .gallery-icon{border-top:2px solid #79c207;border-bottom:2px solid #79c207;border-left:2px solid #79c207;border-right:2px solid #79c207;}#footer-address .social a,#header .social a{color:#333333;}</style>		<!--[if lt IE 9]>
+			<script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/r29/html5.js"></script>
+			<script src="//cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.js"></script>
+		<![endif]-->
+			<script>
+				if (navigator.userAgent.match(/IEMobile\/10\.0/)) {
+					var msViewportStyle = document.createElement("style");
+					msViewportStyle.appendChild(
+						document.createTextNode(
+							"@-ms-viewport{width:auto!important}"
+						)
+					);
+					document.getElementsByTagName("head")[0].appendChild(msViewportStyle);
+				}
+			</script>
+            <script type="text/javascript"><!--
+                var $j = jQuery.noConflict();
+                $j(document).ready(function(){
+                    $j(".wpsc-add-to-cart-button-form").attr("action","https://lionelagullo.com/boutique/checkout/"); // TODO
+                    $j("form.product_form, .wpsc-add-to-cart-button-form").die('submit').live('submit', function() {
+                        return true;
+                    });
+                });
+            //--></script>
+			
+		 <link href="" rel="shortcut icon"> 			</head>
+	<body data-rsssl=1 id="">
+				<div id="page">
+			<div id="header">
+                <div class="container">
+                    <!-- col-xs-12 col-sm-9 col-sm-pull-3 -->
+                    <!-- col-xs-12 col-sm-3 col-sm-pull-9 -->
+                    <div class="row">
+                        <div class="col-xs-12 col-sm-3 col-sm-push-9 no-gutter">
+                            <div class="commerce">
+                                <div class="paypal"><img src="https://lionelagullo.com/wp-content/themes/lionelagullo-responsive/images/logo-paypal.png" title="Paiement sécurisé avec Paypal" alt="Paiement sécurisé avec Paypal"/></div>
+                                <p class="shipping">Frais de port offerts !</p>
+                            </div>
+                        </div>
+                        <div class="hidden-xs col-sm-9 col-sm-pull-3 no-gutter">
+                            <div class="contact-buttons">
+                                <a class="phone-button" href="tel:+33646336038"><i class="fa fa-phone"></i> Appel direct</a>
+                                                                <a class="skype-button" href="skype:lionel.agullo1?call"><i class="fa fa-skype"></i> Appel sur Skype</a>
+                            </div>
+                        </div>
+                    </div>
+                                        <div class="row">
+                        <div class="col-xs-12 col-sm-10 col-md-9 no-gutter">
+                            <div id="header-menu">
+                                <nav class="navbar" role="navigation">
+                                    <div class="navbar-header">
+                                        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+                                            <span class="sr-only">Toggle navigation</span>
+                                            <span class="icon-bar"></span>
+                                            <span class="icon-bar"></span>
+                                            <span class="icon-bar"></span>
+                                        </button>
+                                    </div>
+                                    <div class="collapse navbar-collapse navbar-ex1-collapse"><ul id="menu-menu-principal" class="nav navbar-nav"><li id="menu-item-1650" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home first menu-item-1650"><a title="Accueil" href="https://lionelagullo.com/"><span class="text">Accueil</span></a></li>
+<li id="menu-item-2168" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2168"><a title="Appel direct" href="tel:+33646336038"><span class="text">Appel direct</span></a></li>
+<li id="menu-item-2169" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2169"><a title="Appel sur Skype" href="skype:lionel.agullo1?call"><span class="text">Appel sur Skype</span></a></li>
+<li id="menu-item-1654" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1654 dropdown"><a title="Boutique CD, DVD, livres" href="#" data-toggle="dropdown" class="dropdown-toggle"><span class="text">Boutique CD, DVD, livres</span> <span class="caret"></span></a>
+<ul role="menu" class=" dropdown-menu">
+	<li id="menu-item-1655" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1655"><a title="CD d&#039;hypnose" href="https://lionelagullo.com/boutique/cd-hypnose/"><span class="text">CD d&#8217;hypnose</span></a></li>
+	<li id="menu-item-1656" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1656"><a title="Livres sur l&#039;inconscient" href="https://lionelagullo.com/boutique/livres-sur-l-inconscient/"><span class="text">Livres sur l&#8217;inconscient</span></a></li>
+	<li id="menu-item-1657" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1657"><a title="DVD Spectacles – Conférences" href="https://lionelagullo.com/boutique/dvd-videos-des-conferences/"><span class="text">DVD Spectacles – Conférences</span></a></li>
+	<li id="menu-item-1773" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1773"><a title="Consultations" href="https://lionelagullo.com/boutique/consultations-par-telephone/"><span class="text">Consultations</span></a></li>
+</ul>
+</li>
+<li id="menu-item-1653" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1653"><a title="Témoignages" href="https://lionelagullo.com/category/temoignages/"><span class="text">Témoignages</span></a></li>
+<li id="menu-item-1651" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1651"><a title="Contact" href="https://lionelagullo.com/contact/"><span class="text">Contact</span></a></li>
+<li id="menu-item-1652" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1652"><a title="JT de l&#039;inconscient" href="https://lionelagullo.com/le-jt-de-linconscient/"><span class="text">JT de l&#8217;inconscient</span></a></li>
+<li id="menu-item-2103" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2103"><a title="Blog" href="https://lionelagullo.com/blog/"><span class="text">Blog</span></a></li>
+<li id="menu-item-2170" class="menu-item menu-item-type-post_type menu-item-object-page last menu-item-2170"><a title="Mon panier" href="https://lionelagullo.com/boutique/checkout/"><span class="text">Mon panier</span></a></li>
+</ul></div>                                </nav>
+                            </div>
+                        </div>
+                        <div class="hidden-xs col-sm-2 col-md-3 no-gutter">
+                            <div class="cart">
+                                                                <a href="https://lionelagullo.com/boutique/checkout/"><span>Mon panier</span> (0)</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+			</div>
+			<div id="content">
+				<div class="container">
+					<div class="row">
+						
+	
+<div id="main" class="col-xs-12 col-sm-9">
+					<h2>La page que vous recherchez n'existe pas ou a été déplacée</h2>
+			<p>Si vous êtes arrivés sur cette page en cliquant sur un lien de notre site, n'hésitez pas à <a href="https://lionelagullo.com/contact/" title="Page contactez-nous">nous le signaler</a>, en nous précisant comment reproduire cette erreur.</p>
+			<p><a href="https://lionelagullo.com" title="Retour à l'accueil du site">Cliquez-ici pour revenir sur notre page d'accueil</a>.</p>
+														
+</div>
+	<div class="col-xs-12 col-sm-3 omega">
+		<div id="sidebar" class="right-sidebar">
+			<ul>
+				<li id="text-4" class="widget widget_text"><h3>A propos</h3>			<div class="textwidget"><img class="alignleft" src="https://lionelagullo.com/files/2017/05/P1020435.jpg" alt="Lionel AGULLO" width="220" height="160" />
+<p>Coach de vie Hypnothérapeute Psychanalyste Spécialiste de l'inconscient Psychothérapies Coaching en gestion de stress Concepteur Réalisateur de CD d'hypnose Traducteur des rêves Ecrivain Conférencier</p>
+<div class="clear"></div></div>
+		</li><li id="text-3" class="widget widget_text"><h3>Lionel Agullo</h3>			<div class="textwidget"><p>Coach de vie Hypnothérapeute certifié par le NEW YORK TRAINING INSTITUTE, il a été formé par Année LINDEN, ancienne élève du Docteur Milton ERICKSON, et John GOLDSTONE. Il a pratiqué les hypnothérapies et les psychothérapies pendant 24 ans maintenant et possède une solide expérience professionnelle. C&#8217;est un spécialiste de l&#8217;inconscient.<br />
+Conseils en diététique.<br />
+Coaching en gestion de stress en entreprise et personnalisé.</p>
+</div>
+		</li><li id="recentpostsfromcategory-2" class="widget widget_recentpostsfromcategory"><h3>Actualités</h3>            <ul>
+                                <li><a href="https://lionelagullo.com/2014/03/22/votre-voix-ma-considerablement-aide/" title="Votre voix m&#8217;a considérablement aidé.">Votre voix m&#8217;a considérablement aidé.</a></li>
+                                <li><a href="https://lionelagullo.com/2012/07/09/blog-de-lionel-agullo/" title="Blog de Lionel AGULLO">Blog de Lionel AGULLO</a></li>
+                                <li><a href="https://lionelagullo.com/2010/09/06/conference-le-merveilleux-pouvoir-de-linconscient/" title="Conférence &#8220;L&#8217;étincelle du big bang philosophique&#8221;">Conférence &#8220;L&#8217;étincelle du big bang philosophique&#8221;</a></li>
+                                <li><a href="https://lionelagullo.com/2010/09/06/dedicace-du-livre-du-livre-le-merveilleux-pouvoir-de-linconscient/" title="Dédicace du livre &#8220;Le merveilleux pouvoir de l&#8217;inconscient&#8221;">Dédicace du livre &#8220;Le merveilleux pouvoir de l&#8217;inconscient&#8221;</a></li>
+                        </ul>
+            </li><li id="text-5" class="widget widget_text">			<div class="textwidget"></div>
+		</li>			</ul>
+		</div>
+	</div>
+					</div>
+				</div>
+			</div>
+			<div id="footer">
+				<div class="container">
+                    <div id="footer-address">
+                                                                        <div class="vcard" title="Lionel AGULLO">
+                            <span class="org fn">Lionel AGULLO</span>
+                            <span class="adr">
+                                                                                                                            </span> 
+                                                                                                            </div>
+                                                                                                                        <a href="/mentions-legales">Mentions légales</a> - <a href="/politique-de-confidentialite/">Politique de confidentialité</a> - <a id="ircf" href="https://ircf.fr" target="_blank" title="Création de sites internet">Site créé par IRCF</a>
+                        <div class="clearfix"></div>
+                    </div>
+				</div>
+			</div>
+		</div>
+		<!-- Matomo -->
+<script type="text/javascript">
+  var _paq = window._paq || [];
+  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="https://stats.ircf.fr/";
+    _paq.push(['setTrackerUrl', u+'piwik.php']);
+    _paq.push(['setSiteId', '173']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<!-- End Matomo Code -->
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/lionelagullo.com\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://lionelagullo.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.1.6'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var cnArgs = {"ajaxurl":"https:\/\/lionelagullo.com\/wp-admin\/admin-ajax.php","hideEffect":"fade","onScroll":"no","onScrollOffset":"100","cookieName":"cookie_notice_accepted","cookieValue":"true","cookieTime":"31536000","cookiePath":"\/","cookieDomain":"lionelagullo.com","redirection":"","cache":"1","refuse":"no","revoke_cookies":"0","revoke_cookies_opt":"automatic","secure":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://lionelagullo.com/wp-content/plugins/cookie-notice/js/front.min.js?ver=1.2.48'></script>
+<script type='text/javascript' src='https://lionelagullo.com/wp-content/plugins/responsive-lightbox/assets/nivo/nivo-lightbox.min.js?ver=2.2.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var rlArgs = {"script":"nivo","selector":"lightbox","customEvents":"","activeGalleries":"1","effect":"fade","clickOverlayToClose":"1","keyboardNav":"1","errorMessage":"The requested content cannot be loaded. Please try again later.","woocommerce_gallery":"0","ajaxurl":"https:\/\/lionelagullo.com\/wp-admin\/admin-ajax.php","nonce":"bf193d8b94"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://lionelagullo.com/wp-content/plugins/responsive-lightbox/js/front.js?ver=2.2.2'></script>
+<script type='text/javascript' src='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js?ver=5.3.2'></script>
+<script type='text/javascript' src='//cdnjs.cloudflare.com/ajax/libs/flexslider/2.2.0/jquery.flexslider-min.js?ver=5.3.2'></script>
+<script type='text/javascript' src='https://lionelagullo.com/wp-includes/js/wp-embed.min.js?ver=5.3.2'></script>
+
+			<div id="cookie-notice" role="banner" class="cn-bottom bootstrap" style="color: #fff; background-color: #00add8;" aria-label="Cookie Notice"><div class="cookie-notice-container"><span id="cn-notice-text">Nous utilisons des cookies à des fins de fonctionnalité et de statistique pour vous offrir une navigation optimale. <a href="/politique-de-confidentialite/">Pour en savoir plus et modifier vos préférences en matière de cookies, consultez notre Politique de protection des données personnelles</a>.</span><a href="#" id="cn-accept-cookie" data-cookie-set="accept" class="cn-set-cookie cn-button bootstrap button">J'ai compris</a>
+				</div>
+				
+			</div>	</body>
+</html>

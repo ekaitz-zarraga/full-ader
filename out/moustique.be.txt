@@ -1,0 +1,50 @@
+# IPB IAB Ads.txt
+
+google.com, pub-4235196376573831, DIRECT, f08c47fec0942fa0
+google.com, pub-8916469631962176, DIRECT, f08c47fec0942fa0
+spotxchange.com,119721,DIRECT,7842df1d2fe2db34
+spotx.tv,119721,DIRECT,7842df1d2fe2db34
+appnexus.com, 2704, DIRECT
+appnexus.com, 2579, DIRECT
+quantum-advertising.com,  2226, DIRECT
+rubiconproject.com, 7916, DIRECT, 0bfd66d529a55807
+ligadx.com,20300,DIRECT
+ligadx.com,5b8b342754cead91,DIRECT
+google.com, pub-9038399284179254, DIRECT, f08c47fec0942fa0
+rubiconproject.com, 13682, DIRECT, 0bfd66d529a55807
+teads.tv, 15691, DIRECT, 15a9c44f6d26cbe1 #IPB 
+outbrain.com, 00aa0405a477bd08089c6d9fe4591d40b2, DIRECT
+appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
+tremorhub.com, q017o-78mlk, RESELLER, 1a4e959a1b50034a # Premium video demand aka "Telaria"
+teads.tv, 15429, RESELLER, 15a9c44f6d26cbe1 # Premium video demand
+advertising.com, 26154, RESELLER # Premium video demand
+spotxchange.com, 225721, RESELLER # Premium video demand
+Freewheel.tv, 741650, RESELLER # Premium video demand
+rubiconproject.com, 17130, RESELLER, 0bfd66d529a55807 # Premium video demand
+lkqd.net, 450, RESELLER, 59c49fa9598a0117 # Premium video demand
+openx.com, 540393169, RESELLER, 6a698e2ec38604c6 # Premium video demand
+spotx.tv, 238936, RESELLER, 7842df1d2fe2db34 # Premium video demand
+spotxchange.com, 238936, RESELLER, 7842df1d2fe2db34 # Premium Video Demand
+advertising.com, 28038, RESELLER # Premium Video Demand
+rubiconproject.com, 19668, RESELLER, 0bfd66d529a55807
+outbrain.com, 0097dc162c9bf6f53c72e88b1caddaf32c, DIRECT
+appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
+tremorhub.com, q017o-78mlk, RESELLER, 1a4e959a1b50034a # Premium video demand aka "Telaria"
+teads.tv, 15429, RESELLER, 15a9c44f6d26cbe1 # Premium video demand
+advertising.com, 26154, RESELLER # Premium video demand
+spotxchange.com, 225721, RESELLER # Premium video demand
+Freewheel.tv, 741650, RESELLER # Premium video demand
+rubiconproject.com, 17130, RESELLER, 0bfd66d529a55807 # Premium video demand
+lkqd.net, 450, RESELLER, 59c49fa9598a0117 # Premium video demand
+openx.com, 540393169, RESELLER, 6a698e2ec38604c6 # Premium video demand
+spotx.tv, 238936, RESELLER, 7842df1d2fe2db34 # Premium video demand
+spotxchange.com, 238936, RESELLER, 7842df1d2fe2db34 # Premium Video Demand
+advertising.com, 28038, RESELLER # Premium Video Demand
+rubiconproject.com, 19668, RESELLER, 0bfd66d529a55807
+google.com, pub-6362083369955774, DIRECT, f08c47fec0942fa0
+contextweb.com, 562145, RESELLER, 89ff185a4c4e857c  # Premium Video Demand
+indexexchange.com, 190856, RESELLER, 50b1c356f2c5c8fc  # Premium Video Demand
+pubmatic.com, 158615, RESELLER, 5d62403b186f2ace # Premium video & display demand
+vidazoo.com, 1773068026, RESELLER, b6ada874b4d7d0b2 # Premium Video Demand
+
+

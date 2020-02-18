@@ -1,0 +1,26 @@
+#< SSP/Exchange Domain >, < SellerAccountID >, < PaymentsType >, < TAGID >
+
+# WZ
+improvedigital.com, 821, RESELLER
+google.com, pub-6328910804855653, RESELLER
+
+# Russmedia
+google.com, pub-0067989194170433, RESELLER, f08c47fec0942fa0
+teads.tv, 18920, DIRECT, 15a9c44f6d26cbe1
+
+# APA
+smartadserver.com, 2246, DIRECT
+contextweb.com, 560288, DIRECT, 89ff185a4c4e857c
+pubmatic.com, 156439, DIRECT
+pubmatic.com, 154037, DIRECT
+rubiconproject.com, 16114, DIRECT, 0bfd66d529a55807
+openx.com, 537149888, DIRECT, 6a698e2ec38604c6
+sovrn.com, 257611, DIRECT, fafdf38b16bf6b2b
+appnexus.com, 3703, DIRECT, f5ab79cb980f11d1
+
+connectad.io, 1397, DIRECT
+pubmatic.com, 156077, RESELLER, 5d62403b186f2ace
+pubmatic.com, 55990, RESELLER, 5d62403b186f2ace
+openx.com, 537145117, RESELLER, 6a698e2ec38604c6
+google.com, pub-9467340974789471, RESELLER, f08c47fec0942fa0
+adform.com, 768, RESELLER

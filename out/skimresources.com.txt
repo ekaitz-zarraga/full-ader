@@ -1,0 +1,9 @@
+skimresources 
+Host: skimresources.com 
+Remote Address: 178.63.21.24 
+Time: 29/Jan/2020:07:41:17 +0000 
+Scheme: http 
+Request: GET /ads.txt HTTP/1.1 
+Status: 200 
+HTTP Referer:  
+User Agent: Apache-HttpClient/4.5.8 (Java/11.0.6)

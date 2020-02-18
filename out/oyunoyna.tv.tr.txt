@@ -1,0 +1,35 @@
+# Famobi
+google.com, pub-2504503821144226, RESELLER,f08c47fec0942fa0
+
+# Lagged
+google.com, pub-6893876361346206, DIRECT,  f08c47fec0942fa0
+
+# Oyunoyna
+google.com, pub-2615278077338088, DIRECT,  f08c47fec0942fa0
+
+#game dist.
+spotxchange.com, 153598, RESELLER, 7842df1d2fe2db34
+spotx.tv, 153598, RESELLER, 7842df1d2fe2db34
+freewheel.tv, 215714, RESELLER
+freewheel.tv, 216634, RESELLER
+google.com, pub-1313834454494130, RESELLER, f08c47fec0942fa0
+google.com, pub-2316275586951220, RESELLER, f08c47fec0942fa0
+improvedigital.com, 545, RESELLER
+improvedigital.com, 1101, RESELLER
+tremorhub.com, ztx03-iaj07, RESELLER, 1a4e959a1b50034a
+aolcloud.net, 21410, RESELLER
+indexexchange.com, 188249, DIRECT
+pubmatic.com, 156946, DIRECT, 5d62403b186f2ace
+appnexus.com, 9994, DIRECT
+advertising.com, 27287, RESELLER
+
+#witchhut
+google.com, pub-4384771068963781, RESELLER, f08c47fec0942fa0
+google.com, pub-1797093441085732, RESELLER, f08c47fec0942fa0
+google.com, pub-6916412740459727, RESELLER, f08c47fec0942fa0
+google.com, pub-1484074702945925, RESELLER, f08c47fec0942fa0
+google.com, pub-7988790896180197, RESELLER, f08c47fec0942fa0
+
+#paco
+google.com, pub-5908399841745966, DIRECT, f08c47fec0942fa0
+

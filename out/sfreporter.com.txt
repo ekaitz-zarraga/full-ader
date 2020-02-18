@@ -1,0 +1,168 @@
+# Ads.txt for sfreporter.com
+# Last updated 7-22-2019
+
+#adx
+google.com, pub-8473763341054993, RESELLER, f08c47fec0942fa0
+
+#appnexus
+appnexus.com, 8438, DIRECT
+
+#districtm
+districtm.io, 100893, DIRECT
+appnexus.com, 1908, RESELLER, f5ab79cb980f11d1 #districtm
+
+#emx
+EMXDGT.com, 1101, DIRECT, 1e1d41537f7cad7f
+appnexus.com, 1356, RESELLER, f5ab79cb980f11d1 #emx
+google.com, pub-5995202563537249, RESELLER, f08c47fec0942fa0 #emx
+
+#ix
+indexexchange.com, 186268, DIRECT
+
+#oath
+adtech.com, 11508, DIRECT
+coxmt.com, 2000067907202, RESELLER
+pubmatic.com, 156078, RESELLER #banner
+pubmatic.com, 156377, RESELLER, 5d62403b186f2ace
+openx.com, 537143344, RESELLER #banner
+indexexchange.com, 175407, RESELLER, 50b1c356f2c5c8fc
+
+#rubicon
+rubiconproject.com, 17544, DIRECT, 0bfd66d529a55807
+
+#sovrn
+sovrn.com, 251916, DIRECT, fafdf38b16bf6b2b
+lijit.com, 251916, DIRECT, fafdf38b16bf6b2b
+appnexus.com, 1360, RESELLER, f5ab79cb980f11d1
+gumgum.com, 11645, RESELLER, ffdef49475d318a9
+openx.com, 538959099, RESELLER, 6a698e2ec38604c6
+openx.com, 539924617, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 137711, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156212, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156700, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 17960, RESELLER, 0bfd66d529a55807
+
+#lockerdome
+lockerdome.com, 6508062643068417, DIRECT
+
+#conversant
+conversantmedia.com, 42049, DIRECT, 03113cd04947736d #conversant
+appnexus.com, 4052, RESELLER #conversant
+contextweb.com, 561998, RESELLER, 89ff185a4c4e857c #conversant
+openx.com, 540031703, RESELLER, 6a698e2ec38604c6 #conversant
+pubmatic.com, 158100, RESELLER, 5d62403b186f2ace #conversant
+
+#spoutable
+spoutable.com, 10180, DIRECT
+
+#medianet
+media.net, 8CUBVOVN8, DIRECT
+google.com, pub-7439041255533808, RESELLER, f08c47fec0942fa0 #media.net
+openx.com, 537100188, RESELLER, 6a698e2ec38604c6 #media.net
+vertamedia.com, 35546, RESELLER, 7de89dc7742b5b11 #media.net
+altitudedigital.com, 146321, RESELLER #media.net
+oath.com, 5702, RESELLER #media.net
+brightroll.com, 6836317, RESELLER #media.net
+openx.com, 537141219, RESELLER, 20041fe3-accf-fff1-8123-bc75af #media.net
+pubmatic.com, 93915, RESELLER #media.net
+rubicon.com, 14410, RESELLER #media.net
+smartadserver.com, 1316, RESELLER #media.net
+sovrn.com, 245955, RESELLER #media.net
+spotx.tv, 72878, RESELLER #media.net
+sfx.freewheel.tv, 1025, RESELLER #media.net
+platform.videologygroup.com, 2982, RESELLER #media.net
+publishers.teads.tv, 12888, RESELLER #media.net
+publishers.teads.tv, 13183, RESELLER #media.net
+contextweb.com, 560496, RESELLER, 89ff185a4c4e857c #media.net
+lkqd.com, 267, RESELLER, 59c49fa9598a0117 #media.net
+spotxchange.com, 211156, RESELLER, 7842df1d2fe2db34 #media.net
+spotx.tv, 211156, RESELLER, 7842df1d2fe2db34 #media.net
+
+#revcontent
+revcontent.com, 77588, DIRECT
+appnexus.com, 7666, DIRECT, f5ab79cb980f11d1
+rubiconproject.com, 156042, DIRECT, 0bfd66d529a55807
+freewheel.tv, 327377, RESELLER
+beachfront.com, 4969, RESELLER
+tremorhub.com, cdgfn, RESELLER, 1a4e959a1b50034a
+springserve.com, 1, RESELLER, a24eb641fc82e93d
+ssp.ynxs.io, 185, RESELLER
+rubiconproject.com, 17156, RESELLER, 0bfd66d529a55807
+advertising.com, 24667, RESELLER
+streamrail.net, 5715e0602ed89a000200022f, RESELLER
+streamrail.net, 5715e0602ed89a000200022f, DIRECT
+lkqd.net, 505, RESELLER, 59c49fa9598a0117
+lkqd.net, 307, RESELLER, 59c49fa9598a0117
+lkqd.com, 307, RESELLER, 59c49fa9598a0117
+lkqd.net, 307, DIRECT, 59c49fa9598a0117
+lkqd.com, 307, DIRECT, 59c49fa9598a0117
+vertamedia.com, 282639, RESELLER, 7de89dc7742b5b11
+mediabong.com, 2636, DIRECT #video
+mediabong.com, 2636, RESELLER #video
+openx.com, 540255348, DIRECT, 6a698e2ec38604c6
+9mediaonline.com, 1a34c, DIRECT
+Pubmatic.com, 39374, RESELLER, 5d62403b186f2ace
+Pubmatic.com, 156819, RESELLER, 5d62403b186f2ace
+Pubmatic.com, 156820, RESELLER, 5d62403b186f2ace
+Freewheel.tv, 295681,RESELLER
+freewheel.tv, 299345, RESELLER
+Advertising.com, 19011, RESELLER
+lkqd.net, 51, RESELLER, 59c49fa9598a0117
+lkqd.com, 51, RESELLER, 59c49fa9598a0117
+improvedigital.com, 1154, RESELLER
+advertising.com, 26965, RESELLER
+advertising.com, 26966, RESELLER
+advertising.com, 26967, RESELLER
+advertising.com, 26969, RESELLER
+advertising.com, 7815, RESELLER
+fyber.com, 8e733ba4240cc2101b00f122fb104be9, RESELLER
+lkqd.com, 42, RESELLER, 59c49fa9598a0117
+lkqd.net,42, RESELLER, 59c49fa9598a0117
+pubmatic.com, 156359, RESELLER
+springserve.com, 361, RESELLER, a24eb641fc82e93d
+bluTonic.com, 1, RESELLER
+beachfront.com, 1818, RESELLER
+rubiconproject.com,14280, RESELLER, 0bfd66d529a55807
+Rhythmone.com, 548106446, RESELLER, a670c89d4a324e47
+spotxchange.com, 122433, RESELLER, 7842df1d2fe2db34
+spotx.tv, 122433, RESELLER, 7842df1d2fe2db34
+deepintent.com, 100000783, RESELLER, 4a5487c769369a8c
+contextweb.com, 560861, RESELLER
+springserve.com, 361, RESELLER, a24eb641fc82e93d
+openx.com, 539970470, RESELLER
+mediabong.com, 2429, RESELLER #video
+contextweb.com, 561619, RESELLER, 89ff185a4c4e857c
+contextweb.com, 560056, RESELLER, 89ff185a4c4e857c
+rubiconproject.com, 16640, RESELLER, 0bfd66d529a55807
+lkqd.com, 293, RESELLER, 59c49fa9598a0117 #video
+lkqd.net, 293, RESELLER, 59c49fa9598a0117 #video
+spotxchange.com, 139883, RESELLER, 7842df1d2fe2db34 #video
+spotx.tv, 139883, RESELLER, 7842df1d2fe2db34 #video
+advertising.com, 12543, RESELLER #video
+rubiconproject.com, 16904, RESELLER, 0bfd66d529a55807
+appnexus.com, 9393, RESELLER
+lkqd.net, 9, RESELLER, 59c49fa9598a0117
+lkqd.net, 426, RESELLER, 59c49fa9598a0117
+appnexus.com, 7096, RESELLER
+advertising.com, 6291, RESELLER
+contextweb.com, 560093, RESELLER, 89ff185a4c4e857c
+spotxchange.com, 220321, RESELLER, 7842df1d2fe2db34
+spotx.tv, 220321, RESELLER, 7842df1d2fe2db34
+pubmatic.com, 93940, RESELLER
+openx.com, 537141118, RESELLER, 6a698e2ec38604c6
+connatix.com, 101600, DIRECT, 2af98acdee0e81ed
+tremorhub.com, cd009, RESELLER, 1a4e959a1b50034a
+advertising.com, 3679, RESELLER
+advertising.com, 14564, RESELLER
+spotxchange.com, 136839, RESELLER, 7842df1d2fe2db34
+spotx.tv, 136839, RESELLER, 7842df1d2fe2db34
+openx.com, 539496816, RESELLER, 6a698e2ec38604c6
+google.com, pub-5480205708168063, RESELLER, f08c47fec0942fa0
+google.com, pub-9914992914910847, DIRECT, f08c47fec0942fa0
+
+##############################################
+#sfreporter openX
+openx.com, 540656929, DIRECT, 6a698e2ec38604c6
+
+#sfreporter adsense
+google.com, pub-3336426496319211, DIRECT, f08c47fec0942fa0

@@ -1,0 +1,96 @@
+advertising.com, 3531, RESELLER
+advertising.com, 8603, RESELLER
+adyoulike.com, 662483e9c6600a0e9e743273545577f2, DIRECT, 4ad745ead2958bf7
+aol.com, 53392, RESELLER
+appnexus.com, 1608, RESELLER, f5ab79cb980f11d1
+appnexus.com, 2579, DIRECT
+appnexus.com, 2579, DIRECT #native
+appnexus.com, 2704, RESELLER, f5ab79cb980f11d1
+appnexus.com, 3364, RESELLER
+appnexus.com, 3500, DIRECT, f5ab79cb980f11d1
+appnexus.com, 3500, RESELLER, f5ab79cb980f11d1
+appnexus.com, 3538, RESELLER
+appnexus.com, 3539, RESELLER
+appnexus.com, 3540, RESELLER
+appnexus.com, 3703, RESELLER, f5ab79cb980f11d1
+appnexus.com, 8494, RESELLER, f5ab79cb980f11d1
+appnexus.com,3703,RESELLER,f5ab79cb980f11d1
+contextweb.com, 560288, RESELLER, 89ff185a4c4e857c
+contextweb.com, 560382, RESELLER
+contextweb.com,560288,RESELLER,89ff185a4c4e857c
+districtm.io, 101760, RESELLER, 3fd707be9c4527c3
+freewheel.tv, 136593, RESELLER
+freewheel.tv, 650450, RESELLER
+freewheel.tv, 650466, RESELLER
+freewheel.tv, 704914, DIRECT (FR_Quantum_InRead)
+freewheel.tv, 708402, RESELLER (FR_Quantum_InRead)
+freewheel.tv, 710210, DIRECT (FR_Quantum_TEST2)
+freewheel.tv, 710226, RESELLER (FR_Quantum_TEST2)
+freewheel.tv, 726594, DIRECT (FR_Quantum_DealID Embed Video)
+freewheel.tv, 726610, RESELLER (FR_Quantum_DealID Embed Video)
+freewheel.tv, 732290, DIRECT (FR_Quantum_Content Video)
+freewheel.tv, 732306, DIRECT (FR_Quantum_TEST)
+freewheel.tv, 732322, RESELLER (FR_Quantum_Content Video)
+freewheel.tv, 732338, RESELLER (FR_Quantum_TEST)
+freewheel.tv, 745362, RESELLER
+freewheel.tv, 745378, RESELLER
+freewheel.tv, 799841, RESELLER
+freewheel.tv, 799921, RESELLER
+freewheel.tv,650450, RESELLER
+freewheel.tv,650466, RESELLER
+fyber.com, 1a12a7e3f84fe560ccf95a3a73043abb, RESELLER
+fyber.com, ad9de41d28d494354b23133f26f83122, RESELLER
+google.com, pub-3167005080013847, DIRECT, f08c47fec0942fa0
+groundtruth.com, 107, RESELLER, 81cbf0a75a5e0e9a
+improvedigital.com, 1220, RESELLER
+improvedigital.com, 335, RESELLER
+Indexexchange.com, 183756, RESELLER
+indexexchange.com, 187149, RESELLER
+indexexchange.com,179394,RESELLER
+loopme.com, 5679, RESELLER, 6c8d5f95897a5a3b
+loopme.com, s-2411, RESELLER, 6c8d5f95897a5a3b
+openx.com, 537149888, RESELLER, 6a698e2ec38604c6
+openx.com, 539154393, RESELLER
+openx.com,537149888,RESELLER,6a698e2ec38604c6
+pubmatic.com, 154037, RESELLER
+pubmatic.com, 156030, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156307, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156439, RESELLER
+pubmatic.com,156437,RESELLER
+pubmatic.com,156439,RESELLER
+quantum-advertising.com, 3243, DIRECT #native
+quantum-advertising.com,3243, DIRECT
+rhythmone.com, 1166984029, RESELLER, a670c89d4a324e47
+rubiconproject.com, 13132, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 16114, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 16698, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 20736, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 9585, RESELLER, 0bfd66d529a55807
+rubiconproject.com,16114,RESELLER,0bfd66d529a55807
+smartadserver.com, 1189, DIRECT
+smartadserver.com, 1189, RESELLER
+smartadserver.com, 1338, RESELLER
+smartadserver.com, 1827, RESELLER
+smartadserver.com,1189,DIRECT
+sovrn.com,257611,RESELLER,fafdf38b16bf6b2b
+spotx.tv, 230037, RESELLER, 7842df1d2fe2db34
+spotx.tv, 241646, RESELLER, 7842df1d2fe2db34
+spotx.tv,71451,RESELLER
+spotxchange.com, 230037, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 241646, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 71451, RESELLER
+taboola.com, 1109043, DIRECT, c228e6794e811952
+taboola.com, 1109044, DIRECT, c228e6794e811952
+taboola.com, 1109045, DIRECT, c228e6794e811952
+taboola.com, 1109047, DIRECT, c228e6794e811952
+taboola.com, 1109049, DIRECT, c228e6794e811952
+taboola.com, 1109050, DIRECT, c228e6794e811952
+taboola.com, 1109052, DIRECT, c228e6794e811952
+taboola.com, 1109057, DIRECT, c228e6794e811952
+taboola.com, 1109059, DIRECT, c228e6794e811952
+taboola.com, 1160178, DIRECT, c228e6794e811952
+taboola.com,1109056,DIRECT,c228e6794e811952
+tremorhub.com, ewut4-b6zwq, RESELLER, 1a4e959a1b50034a
+tremorhub.com, ewut4-b6zwq, RESELLER, 1a4e959a1b50034a
+tremorhub.com, z87wm, RESELLER, 1a4e959a1b50034a
+triplelift.com, 3355, RESELLER, 6c33edb13117fd86

@@ -1,0 +1,68 @@
+openx.com, 126686, RESELLER, a698e2ec38604c6
+openx.com, 537120224, RESELLER, a698e2ec38604c6
+pubmatic.com, 32702, RESELLER, 5d62403b186f2ace
+pubmatic.com, 51048, RESELLER, 5d62403b186f2ace
+pubmatic.com, 116164, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156262, RESELLER, 5d62403b186f2ace
+contextweb.com, 558394, RESELLER
+contextweb.com, 558479, RESELLER
+contextweb.com, 558680, RESELLER
+Sovrn.com, 236947, DIRECT, fafdf38b16bf6b2b
+Lijit.com, 236947, DIRECT, fafdf38b16bf6b2b
+openx.com, 537120960, RESELLER
+openx.com, 83499, RESELLER
+openx.com, 538959099, RESELLER
+pubmatic.com, 137711, RESELLER
+pubmatic.com, 156212, RESELLER
+pubmatic.com, 62483, RESELLER
+contextweb.com, 558511, RESELLER
+smaato.com, 1100001651, RESELLER
+inner-active.com, 206458, DIRECT
+komoona.com, 256093, DIRECT
+rubiconproject.com, 10834, RESELLER, 0bfd66d529a55807
+pubmatic.com, 156255, RESELLER, 5d62403b186f2ace
+openx.com, 537148594, RESELLER, 6a698e2ec38604c6
+google.com, pub-6857666016213607, DIRECT, f08c47fec0942fa0 
+google.com, pub-4979986541055910, RESELLER, f08c47fec0942fa0
+appnexus.com, 956, RESELLER, f5ab79cb980f11d1
+spotxchange.com, 80279, RESELLER, 7842df1d2fe2db34
+spotx.tv, 80279, RESELLER, 7842df1d2fe2db34
+teads.tv, 10940, DIRECT, 15a9c44f6d26cbe1
+appnexus.com, 2579, DIRECT, #native
+quantum-advertising.com, 613, DIRECT, #native
+quantum-advertising.com, 1683, DIRECT #native
+google.com, pub-9413062790419587, DIRECT
+rubiconproject.com, 13258, RESELLER, 0bfd66d529a55807
+pubmatic.com, 73785, RESELLER, 5d62403b186f2ace
+adtech.com, 4812, RESELLER
+aolcloud.net, 4812, RESELLER
+adform.com, 1721, RESELLER, 9f5210a2f0999e32
+indexexchange.com, 186765, RESELLER
+smartadserver.com,3094,RESELLER
+# inizio shiny
+adform.com, 102, RESELLER
+adform.com, 1266, RESELLER
+adform.com, 622, RESELLER
+appnexus.com, 3284, RESELLER
+appnexus.com, 3488, RESELLER
+freewheel.tv, 218938, RESELLER
+freewheel.tv, 218946, RESELLER
+freewheel.tv, 24553, RESELLER
+google.com, pub-9413062790419587, DIRECT, f08c47fec0942fa0
+google.com, pub-2024690810381654, RESELLER, f08c47fec0942fa0
+google.com, pub-2468262778002506, RESELLER, f08c47fec0942fa0
+google.com, pub-2570526244319672, RESELLER, f08c47fec0942fa0
+google.com, pub-4563718969045156, RESELLER, f08c47fec0942fa0
+google.com, pub-6681814779263820, RESELLER, f08c47fec0942fa0
+google.com, pub-9079370951624339, DIRECT, f08c47fec0942fa0
+pubmatic.com, 139794, RESELLER, 5d62403b186f2ace
+pubmatic.com, 31347, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 10822, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 11114, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 15552, RESELLER, 0bfd66d529a55807
+sharethrough.com, f327f536, RESELLER, d53b998a7bd4ecd2
+smartclip.net, 9196, DIRECT
+pubmatic.com, 156763, RESELLER, 5d62403b186f2ace
+onetag.com, 3b36dfb029b2b7, DIRECT
+appnexus.com, 9799, RESELLER
+# fine shiny

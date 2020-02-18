@@ -1,0 +1,57 @@
+google.com, pub-3028187406934551, DIRECT, f08c47fec0942fa0
+engageya.com, 116302, Direct
+engageya.com, 116303, Direct
+engageya.com, 155493, Direct
+aerserv.com,2691,RESELLER,2ce496b9f80eb9fa
+appnexus.com<http://appnexus.com/>, 8847, RESELLER
+freewheel.tv<http://freewheel.tv>, 706562, RESELLER   freewheel.tv<http://freewheel.tv>, 706930, RESELLER
+freewheel.tv<http://freewheel.tv>, 706546, RESELLER   freewheel.tv<http://freewheel.tv>, 706914, RESELLER
+improvedigital.com, 912, RESELLER
+indexexchange.com, 187872, DIRECT
+connectad.io, 432, DIRECT
+admatic.com.tr, adm-pub-190450946752, DIRECT
+pubmatic.com, 156077, RESELLER, 5d62403b186f2ace
+openx.com, 537145117, RESELLER, a698e2ec38604c6
+google.com, pub-9467340974789471, RESELLER, f08c47fec0942fa0
+adform.com, 768, RESELLER
+contextweb.com, 560489, RESELLER, 89ff185a4c4e857c
+google.com, pub-5041929526780620, DIRECT, f08c47fec0942fa0
+ibillboard.com, 32868, DIRECT
+indexexchange.com, 180179, RESELLER, 50b1c356f2c5c8fc 
+indexexchange.com, 183592, RESELLER, 50b1c356f2c5c8fc
+contextweb.com, 558750, DIRECT, 89ff185a4c4e857c
+google.com, pub-1424056533041349, DIRECT, f08c47fec0942fa0
+Appnexus.com, 1371, RESELLER, f5ab79cb980f11d1
+stroeer.com, 14214 ,DIRECT
+stroeer.com, 17362 ,DIRECT
+adform.com, 2083, DIRECT
+contextweb.com, 560017, RESELLER
+
+google.com, pub-6200686794827490, RESELLER, f08c47fec0942fa0
+google.com, pub-3633370801129289, RESELLER, f08c47fec0942fa0
+ads.kiosked.com, 11404, DIRECT
+appnexus.com, 2721, DIRECT, f5ab79cb980f11d1
+openx.com, 537142881, DIRECT, 6a698e2ec38604c6
+adtech.com, 9573, DIRECT
+aolcloud.net, 9573, DIRECT
+pubmatic.com, 156195, DIRECT, 5d62403b186f2ace
+sovrn.com, 254001, DIRECT, fafdf38b16bf6b2b
+lijit.com, 254001, DIRECT, fafdf38b16bf6b2b
+criteo.net, 145673, DIRECT
+criteo.net, 138122, DIRECT
+google.com, pub-9042063282075774, DIRECT, f08c47fec0942fa0
+contextweb.com, 558626, DIRECT, 89ff185a4c4e857c
+rubiconproject.com, 17558, DIRECT, 0bfd66d529a55807
+rtbhouse.com, oMVGjbanTJTCDAM6HM95, DIRECT
+indexexchange.com, 189070, DIRECT # E
+openx.com, 540310763, DIRECT, 6a698e2ec38604c6 # E
+pubmatic.com, 157619, DIRECT, 5d62403b186f2ace # E
+rubiconproject.com, 19760, DIRECT, 0bfd66d529a55807 # E
+appnexus.com, 1360, RESELLER, f5ab79cb980f11d1 # E Sovrn
+gumgum.com, 11645, RESELLER, ffdef49475d318a9 # E Sovrn
+openx.com, 538959099, RESELLER, 6a698e2ec38604c6 # E Sovrn
+openx.com, 539924617, RESELLER, 6a698e2ec38604c6 # E Sovrn
+pubmatic.com, 137711, RESELLER, 5d62403b186f2ace # E Sovrn
+pubmatic.com, 156212, RESELLER, 5d62403b186f2ace # E Sovrn
+pubmatic.com, 156700, RESELLER, 5d62403b186f2ace # E Sovrn
+rubiconproject.com, 17960, RESELLER, 0bfd66d529a55807 # E Sovrn

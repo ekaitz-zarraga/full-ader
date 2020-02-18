@@ -1,0 +1,22 @@
+appnexus.com, 3491, reseller
+EMXDGT.com, 28, reseller, 1e1d41537f7cad7f
+Appnexus.com, 1356, reseller, f5ab79cb980f11d1
+districtm.io, 100615, resellerappnexus.com, 7944, reseller
+appnexus.com, 1908, resellerindexexchange.com, 183813, reseller
+openx.com, 537148814, reseller, 6a698e2ec38604c6
+pubmatic.com, 127864, RESELLER, <5d62403b186f2ace>
+rubiconproject.com, 14418, RESELLER
+
+#StreamAMP ADX
+google.com, pub-2318854337682975, reseller
+
+#Reed.co.uk ADX
+google.com, pub-3318199361528750, DIRECT
+
+#Google AdSense
+google.com, pub-2464395664460333, DIRECT, 5850215776
+
+#Reed Pubmatic
+experian.com,0001,RESELLER
+
+#211117

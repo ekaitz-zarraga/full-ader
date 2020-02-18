@@ -1,0 +1,360 @@
+#xuite_ads.txt 
+#Ads.txt xuite.net
+#20190625
+
+#h001
+google.com, pub-4485239425924787, RESELLER, f08c47fec0942fa0
+google.com, pub-4126554779393986, RESELLER, f08c47fec0942fa0
+ucfunnel.com, par-D77BD382D27662DFBB6A2A9EA43EBB, RESELLER
+aralego.com, par-D77BD382D27662DFBB6A2A9EA43EBB, RESELLER
+
+#h002
+ucfunnel.com, par-8A2298D443A63442FB729783DD98B778, DIRECT
+aralego.com, par-8A2298D443A63442FB729783DD98B778, DIRECT
+
+#h003
+google.com, pub-2977875281338330, DIRECT
+google.com, pub-1740840196959600, DIRECT
+google.com, pub-1740840196959600, DIRECT, f08c47fec0942fa0
+
+#h004
+ucfunnel.com, par-8333A2249D424D8FBB3D4794D7722A8, DIRECT 
+hinet.net, par-8333A2249D424D8FBB3D4794D7722A8, DIRECT
+
+#h005
+# OneAD - SpotX
+spotxchange.com, 172614, RESELLER, 7842df1d2fe2db34
+spotx.tv, 172614, RESELLER, 7842df1d2fe2db34
+# OneAD - ucfunnel
+ucfunnel.com, par-8A229EDE29D3BD3A03B77E96DA67BB7, DIRECT 
+aralego.com, par-8A229EDE29D3BD3A03B77E96DA67BB7, DIRECT
+
+#h006
+google.com, pub-2335763024933651, RESELLER, f08c47fec0942fa0
+google.com, pub-3033959353124050, RESELLER, f08c47fec0942fa0
+advertising.com, 24855, RESELLER
+
+#h007
+google.com, pub-4338256439626145, DIRECT, f08c47fec0942fa0
+
+#h008
+google.com, pub-1937576406332709, RESELLER, f08c47fec0942fa0
+
+#h009
+google.com, pub-4939627312372232, DIRECT, f08c47fec0942fa0
+google.com, pub-1418529948870857, RESELLER, f08c47fec0942fa0
+google.com, pub-1937576406332709, RESELLER, f08c47fec0942fa0
+google.com, pub-9914796740415036, DIRECT, f08c47fec0942fa0
+google.com, pub-6446889006135888, RESELLER, f08c47fec0942fa0
+clickforce.com.tw, 356, direct 
+google.com, pub-4485239425924787, RESELLER, f08c47fec0942fa0
+google.com, pub-4126554779393986, RESELLER, f08c47fec0942fa0
+ucfunnel, par-D77BD382D27662DFBB6A2A9EA43EBB, RESELLER
+aralego.com, par-D77BD382D27662DFBB6A2A9EA43EBB, RESELLER
+advertising.com, 24755, DIRECT
+
+#h010
+yahoo.com, 29284317524, DIRECT
+advertising.com, 25106, DIRECT
+
+rubiconproject.com, 17122, RESELLER, 0bfd66d529a55807
+google.com, pub-1937576406332709, DIRECT, f08c47fec0942fa0
+google.com, pub-1937576406332709, RESELLER, f08c47fec0942fa0
+google.com, pub-7475939466736018, RESELLER, f08c47fec0942fa0
+
+#2019/12/6
+google.com, pub-4090704406626496, RESELLER, f08c47fec0942fa0
+google.com, pub-4903453974745530, RESELLER, f08c47fec0942fa0
+aol.com, 23381, RESELLER, e1a5b5b6e3255540
+advertising.com, 23381, RESELLER, e1a5b5b6e3255540
+adtech.com, 23381, RESELLER, e1a5b5b6e3255540
+yahoo.com, 23381, RESELLER, e1a5b5b6e3255540
+springserve.com, 1031, DIRECT, a24eb641fc82e93d
+beachfront.com, 4969, RESELLER, e2541279e8e2ca4d
+advertising.com, 26282, RESELLER
+pubmatic.com, 157310, RESELLER, 5d62403b186f2ace
+spotxchange.com, 239904, RESELLER, 7842df1d2fe2db34
+spotx.tv, 239904, RESELLER, 7842df1d2fe2db34
+contextweb.com, 561910, RESELLER, 89ff185a4c4e857c
+openx.com, 540226160, RESELLER, 6a698e2ec38604c6
+google.com, pub-9685734445476814, RESELLER, f08c47fec0942fa0
+undertone.com, 3817, DIRECT
+appnexus.com, 2234, RESELLER
+openx.com, 537153564, RESELLER, 6a698e2ec38604c6
+synacor.com, 82101, DIRECT, e108f11b2cdf7d5b
+advertising.com, 19623, RESELLER
+openx.com, 540634634, DIRECT, 6a698e2ec38604c6
+EMXDGT.com, 1251, RESELLER, 1e1d41537f7cad7f
+appnexus.com, 1356, RESELLER, f5ab79cb980f11d1
+districtm.io, 101856, DIRECT, 3fd707be9c4527c3
+appnexus.com, 1908, RESELLER, f5ab79cb980f11d1
+#Imp
+impactify.io, 1496, DIRECT
+appnexus.com, 11197, RESELLER, f5ab79cb980f11d1
+google.com, pub-1343218370015870, RESELLER, f08c47fec0942fa0
+spotxchange.com, 176703, RESELLER, 7842df1d2fe2db34
+spotx.tv, 176703, RESELLER, 7842df1d2fe2db34
+yahoo.com, 1761548, RESELLER
+rubiconproject.com, 19688, RESELLER, 0bfd66d529a55807
+console.cmcm.com, 47, RESELLER
+advertising.com, 9516, RESELLER
+freewheel.tv, 282594, RESELLER
+freewheel.tv, 282786, RESELLER
+freewheel.tv, 282802, RESELLER
+freewheel.tv, 282818, RESELLER
+freewheel.tv, 282850, RESELLER
+appnexus.com, 3703, RESELLER, f5ab79cb980f11d1
+contextweb.com, 560288, RESELLER, 89ff185a4c4e857c
+openx.com, 537149888, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 154037, RESELLER
+pubmatic.com, 156439, RESELLER
+smartadserver.com, 2974, RESELLER
+sovrn.com, 257611, RESELLER, fafdf38b16bf6b2b
+improvedigital.com, 1058, RESELLER
+google.com, pub-4301669675472368, RESELLER, f08c47fec0942fa0
+smaato.com, 1100014037, RESELLER
+ucfunnel.com, par-AA77669DED6B4789C84AD8A2A67434D3, DIRECT
+aralego.com, par-AA77669DED6B4789C84AD8A2A67434D3, DIRECT
+revcontent.com, 87963, RESELLER
+appnexus.com, 7666, RESELLER, f5ab79cb980f11d1
+google.com, pub-7019376976432612, RESELLER
+google.com, pub-9058291854443881, RESELLER
+google.com, pub-5373693997956134, RESELLER, f08c47fec0942fa0
+google.com, pub-4177862836555934, RESELLER, f08c47fec0942fa0
+google.com, pub-1071602463683652, RESELLER, f08c47fec0942fa0
+appnexus.com, 3691, RESELLER
+#VA
+vdo.ai, 1077, DIRECT
+google.com, pub-7094677798399606, RESELLER, f08c47fec0942fa0
+appnexus.com, 8148, RESELLER
+advertising.com, 25264, DIRECT, e1a5b5b6e3255540
+beachfront.com, 12484, RESELLER, e2541279e8e2ca4d
+indexexchange.com, 189205, DIRECT, 50b1c356f2c5c8fc
+pubmatic.com, 158017, DIRECT, 5d62403b186f2ace
+rhythmone.com, 1222734754, DIRECT, a670c89d4a324e47
+rhythmone.com, 3736940343, DIRECT, a670c89d4a324e47
+districtm.io, 100428, DIRECT, 3fd707be9c4527c3
+appnexus.com, 1908, RESELLER, f5ab79cb980f11d1
+google.com, pub-9685734445476814, RESELLER, f08c47fec0942fa0
+appnexus.com, 7944, RESELLER
+EMXDGT.com, 524, DIRECT, 1e1d41537f7cad7f
+Appnexus.com, 1356, RESELLER, f5ab79cb980f11d1
+Google.com, pub-5995202563537249, RESELLER, f08c47fec0942fa0
+#XM
+truvid.com, 227, DIRECT
+truvidplayer.com, 227, DIRECT
+advertising.com, 7039, RESELLER
+advertising.com, 28245, DIRECT
+advertising.com, 28377, RESELLER
+rubiconproject.com, 17412, RESELLER, 0bfd66d529a55807
+gammassp.com, 1536546411, DIRECT
+districtm.io, 101709, DIRECT
+smartadserver.com, 3356, DIRECT
+rubiconproject.com, 16114, RESELLER, 0bfd66d529a55807
+appnexus.com, 9393, DIRECT
+google.com, pub-9341661452948405, RESELLER, f08c47fec0942fa0
+contextweb.com, 562049, DIRECT, 89ff185a4c4e857c
+smartclip.net, 11185, DIRECT
+appnexus.com, 1024, DIRECT, f5ab79cb980f11d1
+fair-trademedia.com, 131, RESELLER
+#SM
+spotxchange.com, 82810, RESELLER, 7842df1d2fe2db34
+spotx.tv, 82810, RESELLER, 7842df1d2fe2db34
+Advertising.com, 7060, RESELLER
+adtech.com, 7060, RESELLER
+freewheel.tv, 144617, RESELLER
+freewheel.tv, 144633, RESELLER
+improvedigital.com, 1091, RESELLER
+contextweb.com, 560456, RESELLER, 89ff185a4c4e857c
+pubmatic.com, 157288, RESELLER, 5d62403b186f2ace
+tremorhub.com, cguke-k8ex0, RESELLER, 1a4e959a1b50034a
+pubmatic.com, 157512, RESELLER, 5d62403b186f2ace
+districtm.io, 101673, RESELLER
+freewheel.tv, 890577, RESELLER
+freewheel.tv, 893377, RESELLER
+gumgum.com, 13679, RESELLER, ffdef49475d318a9
+advertising.com, 28230, RESELLER
+rhythmone.com, 2288795184, RESELLER, a670c89d4a324e47
+rubiconproject.com, 20598, RESELLER, 0bfd66d529a55807
+openx.com, 540786724, RESELLER, 6a698e2ec38604c6
+freewheel.tv, 1025009, RESELLER
+freewheel.tv, 1024849, RESELLER
+admanmedia.com, 68, RESELLER
+appnexus.com, 8804, RESELLER, f5ab79cb980f11d1
+selectmedia.asia, 5b3cbce528a061355e015d4a, DIRECT # banner, video
+#MW
+mox.tv, 523, DIRECT
+google.com, pub-1965383259143495, RESELLER, f08c47fec0942fa0
+google.com, pub-6864402317197092, RESELLER, f08c47fec0942fa0
+freewheel.tv, 286994, RESELLER
+freewheel.tv, 291505, RESELLER
+smartadserver.com, 3261, RESELLER
+google.com, pub-2318710712278558, RESELLER, f08c47fec0942fa0
+buzzoola.com, 13112, DIRECT
+betweendigital.com, 35288, RESELLER
+betweendigital.com, 36426, RESELLER
+rubiconproject.com, 19724, RESELLER, 0bfd66d529a55807
+adform.com, 637, RESELLER, 9f5210a2f0999e32
+adtech.com, 4713.1, RESELLER
+advertising.com, 4713.1, RESELLER
+aol.com, 4713.1, RESELLER
+aolcloud.net, 4713.1, RESELLER
+appnexus.com, 3783, RESELLER, f5ab79cb980f11d1
+contextweb.com, 560125, RESELLER
+google.com, pub-8241049497608997, RESELLER, f08c47fec0942fa0
+pubmatic.com, 155949, RESELLER, 5d62403b186f2ace
+smartadserver.com, 2861, RESELLER
+atemda.com, 491, RESELLER
+atemda.com, 191, RESELLER
+freewheel.tv, 347137, RESELLER
+freewheel.tv, 358609, RESELLER
+indexexchange.com, 186075, RESELLER
+districtm.io, 101096, RESELLER
+appnexus.com, 7944, RESELLER, f5ab79cb980f11d1
+rubiconproject.com, 11734, RESELLER, 0bfd66d529a55807
+appnexus.com, 3911, RESELLER, f5ab79cb980f11d1
+teads.tv, 11973, RESELLER, 15a9c44f6d26cbe1
+smartadserver.com, 2860, RESELLER
+indexexchange.com, 179394, RESELLER
+EMXDGT.com, 143, RESELLER, 1e1d41537f7cad7f
+genieesspv.jp, 23502, RESELLER
+sovrn.com, 258698, RESELLER, fafdf38b16bf6b2b
+lijit.com, 258698, RESELLER, fafdf38b16bf6b2b
+gumgum.com, 11645, RESELLER, ffdef49475d318a9
+openx.com, 537120960, RESELLER, 6a698e2ec38604c6
+openx.com, 83499, RESELLER, 6a698e2ec38604c6
+openx.com, 538959099, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 137711, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156212, RESELLER, 5d62403b186f2ace
+pubmatic.com, 62483, RESELLER, 5d62403b186f2ace
+springserve.com, 1, RESELLER, a24eb641fc82e93d
+tremorhub.com, cdgfn, RESELLER, 1a4e959a1b50034a
+google.com, pub-6512936480753445, RESELLER, f08c47fec0942fa0
+spotx.tv, 111271, RESELLER
+spotxchange.com, 111271, RESELLER
+appnexus.com, 926, RESELLER, f5ab79cb980f11d1
+appnexus.com, 1538, RESELLER, f5ab79cb980f11d1
+advertising.com, 9008, RESELLER
+freewheel.tv, 208505, RESELLER
+freewheel.tv, 327377, RESELLER
+btrll.com, 6836428, RESELLER
+contextweb.com, 560580, RESELLER
+pubmatic.com, 156108, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156410, RESELLER, 5d62403b186f2ace
+contextweb.com, 561503, RESELLER, 89ff185a4c4e857c
+openx.com, 539078156, RESELLER, 6a698e2ec38604c6
+rtbhouse.com, da39a3ee5e6b4b0d, RESELLER
+admixer.net, 948b0c83-09b7-4275-b224-cffb1de6ea1e, RESELLER
+contextweb.com, 561623, RESELLER, 89ff185a4c4e857c
+smartyads.com, 16, RESELLER
+connectad.io, 223, DIRECT
+pubmatic.com, 156077, RESELLER, 5d62403b186f2ace
+openx.com, 537145117, RESELLER, 6a698e2ec38604c6
+google.com, pub-9467340974789471, RESELLER, f08c47fec0942fa0
+adform.com, 768, RESELLER
+contextweb.com, 560489, RESELLER, 89ff185a4c4e857c
+betweendigital.com, 35288, DIRECT
+google.com, pub-5289985627731322, RESELLER, f08c47fec0942fa0
+google.com, pub-2603664881560000, RESELLER, f08c47fec0942fa0
+google.com, pub-3132893725603935, RESELLER, f08c47fec0942fa0
+google.com, pub-7612738114777168, RESELLER, f08c47fec0942fa0
+google.com, pub-3191289882045155, RESELLER, f08c47fec0942fa0
+google.com, pub-3690534485164634, RESELLER, f08c47fec0942fa0
+google.com, pub-2610964203515025, DIRECT, f08c47fec0942fa0
+google.com, pub-2393320645055022, RESELLER, f08c47fec0942fa0
+google.com, pub-7620071422727774, DIRECT, f08c47fec0942fa0
+google.com, pub-5278973888786334, DIRECT, f08c47fec0942fa0
+admixer.net, 2ea42034-520d-4ea6-9db3-2383414dd37c, DIRECT
+google.com, pub-3379969116950199, RESELLER, f08c47fec0942fa0
+smartadserver.com, 1994, RESELLER
+appnexus.com, 6953, RESELLER
+
+# SUBDOMAINS
+subdomain=my.xuite.net
+subdomain=blog.xuite.net
+subdomain=photo.xuite.net
+subdomain=vlog.xuite.net
+subdomain=yo.xuite.net
+
+
+#blog_user_ads
+google.com,pub-4593596833988090,DIRECT,f08c47fec0942fa0
+google.com,pub-6432174645936348,DIRECT,f08c47fec0942fa0
+google.com,pub-1781757190335591,DIRECT,f08c47fec0942fa0
+google.com,pub-0046254185097854,DIRECT,f08c47fec0942fa0
+google.com,pub-0662370716252917,DIRECT,f08c47fec0942fa0
+google.com,pub-9039171288586137,DIRECT,f08c47fec0942fa0
+google.com,pub-9624603084267337,DIRECT,f08c47fec0942fa0
+google.com,pub-9675420372690339,DIRECT,f08c47fec0942fa0
+google.com,pub-0759109790815256,DIRECT,f08c47fec0942fa0
+google.com,pub-9869688233570111,DIRECT,f08c47fec0942fa0
+google.com,pub-5685411468415004,DIRECT,f08c47fec0942fa0
+google.com,pub-2332051351081337,DIRECT,f08c47fec0942fa0
+google.com,pub-9110803730515527,DIRECT,f08c47fec0942fa0
+google.com,pub-8843339039532536,DIRECT,f08c47fec0942fa0
+google.com,pub-6974645628390834,DIRECT,f08c47fec0942fa0
+google.com,pub-1619571407265495,DIRECT,f08c47fec0942fa0
+google.com,pub-3768302621173679,DIRECT,f08c47fec0942fa0
+google.com,pub-3937014711970065,DIRECT,f08c47fec0942fa0
+google.com,pub-4539059060583481,DIRECT,f08c47fec0942fa0
+google.com,pub-1611852752286519,DIRECT,f08c47fec0942fa0
+google.com,pub-6994555750211392,DIRECT,f08c47fec0942fa0
+google.com,pub-7665338527472416,DIRECT,f08c47fec0942fa0
+google.com,pub-5889931723808358,DIRECT,f08c47fec0942fa0
+google.com,pub-8132905530960426,DIRECT,f08c47fec0942fa0
+google.com,pub-0230766926913190,DIRECT,f08c47fec0942fa0
+google.com,pub-8945209764851916,DIRECT,f08c47fec0942fa0
+google.com,pub-1935313603136498,DIRECT,f08c47fec0942fa0
+google.com,pub-9521105143735666,DIRECT,f08c47fec0942fa0
+google.com,pub-8843339039532536,DIRECT,f08c47fec0942fa0
+google.com,pub-7220850182155866,RESELLER,f08c47fec0942fa0
+google.com,pub-7220850182155866,DIRECT,f08c47fec0942fa0
+google.com,pub-2907242603385500,DIRECT,f08c47fec0942fa0
+google.com,pub-7934608390990588,DIRECT,f08c47fec0942fa0
+google.com,pub-5864065527532849,DIRECT,f08c47fec0942fa0
+google.com,pub-5864065527532849,DIRECT,f08c47fec0942fa0
+google.com,pub-6259290097968671,DIRECT,f08c47fec0942fa0
+google.com,pub-6519823836371572,DIRECT,f08c47fec0942fa0
+google.com,pub-1245618118987469,DIRECT,f08c47fec0942fa0
+google.com,pub-6299022380650629,DIRECT,f08c47fec0942fa0
+google.com,pub-1453234738459349,DIRECT,f08c47fec0942fa0
+google.com,pub-0046254185097854,DIRECT,f08c47fec0942fa0
+google.com,pub-5823825936883143,DIRECT,f08c47fec0942fa0
+google.com,pub-3352536037847162,DIRECT,f08c47fec0942fa0
+google.com,pub-0230766926913190,DIRECT,f08c47fec0942fa0
+google.com,pub-7531276940466942,DIRECT,f08c47fec0942fa0
+google.com,pub-9922157951229686,RESELLER,f08c47fec0942fa0
+google.com,pub-6629574680329298,DIRECT,f08c47fec0942fa0
+google.com,pub-5946479380751207,DIRECT,f08c47fec0942fa0
+google.com,pub-9993789561029138,DIRECT,f08c47fec0942fa0
+google.com,pub-8843339039532536,DIRECT,f08c47fec0942fa0
+google.com,pub-6313,DIRECT,f08c47fec0942fa0
+google.com,pub-8199241512353108,DIRECT,f08c47fec0942fa0
+google.com,pub-7527854924345367,DIRECT,f08c47fec0942fa0
+google.com,pub-2628630240835903,DIRECT,f08c47fec0942fa0
+google.com,pub-3463067169357215,DIRECT,f08c47fec0942fa0
+google.com,pub-3522431179397522,DIRECT,f08c47fec0942fa0
+google.com,pub-4202365449046005,DIRECT,f08c47fec0942fa0
+google.com,pub-5715373067694494,DIRECT,f08c47fec0942fa0
+google.com,pub-1821434700708607,DIRECT,f08c47fec0942fa0
+google.com,pub-0235247014768586,DIRECT,f08c47fec0942fa0
+google.com,pub-9330584304337637,DIRECT,f08c47fec0942fa0
+google.com,pub-2429059752686302,DIRECT,f08c47fec0942fa0
+google.com,pub-2142107893320938,DIRECT,f08c47fec0942fa0
+google.com,pub-5790082797920439,DIRECT,f08c47fec0942fa0
+google.com,pub-1043255855402936,DIRECT,f08c47fec0942fa0
+google.com,pub-4592327034296090,DIRECT,f08c47fec0942fa0
+google.com,pub-3965301580994118,DIRECT,f08c47fec0942fa0
+google.com,pub-9922157951229686,DIRECT,f08c47fec0942fa0
+google.com,pub-2114158371237995,DIRECT,f08c47fec0942fa0
+google.com,pub-3522431179397522,DIRECT,f08c47fec0942fa0
+google.com,pub-9051429939005745,DIRECT,f08c47fec0942fa0
+google.com,pub-2084470768258841,DIRECT,f08c47fec0942fa0
+google.com,pub-6428827847878499,DIRECT,f08c47fec0942fa0
+google.com,pub-5398752744027099,DIRECT,f08c47fec0942fa0
+google.com,pub-2056840857743831,DIRECT,f08c47fec0942fa0
+google.com,pub-8843339039532536,DIRECT,f08c47fec0942fa0
+google.com,pub-7257146952723535,DIRECT,f08c47fec0942fa0
+google.com,pub-4627477017431309,DIRECT,f08c47fec0942fa0
+google.com,pub-4855827868321495,DIRECT,f08c47fec0942fa0
+google.com,pub-2944942483050534,DIRECT,f08c47fec0942fa0

@@ -1,0 +1,50 @@
+
+##### CPMSTAR_START #####
+cpmstar.com, 45466, DIRECT
+appnexus.com, 9624, RESELLER, f5ab79cb980f11d1
+google.com, pub-7020262665364086, reseller, f08c47fec0942fa0
+adtech.com, 11506, DIRECT
+indexexchange.com, 175407, RESELLER
+pubmatic.com, 156078 , RESELLER
+openx.com, 537143344, RESELLER
+coxmt.com, 2000067907202, RESELLER
+advertising.com, 25218, RESELLER #video, US 
+beachfront.com, 9065, RESELLER
+contextweb.com, 559969, Reseller, 89ff185a4c4e857c
+appnexus.com, 3153, RESELLER, f5ab79cb980f11d1
+adtech.com, 11095, Reseller
+connectad.io, 73, DIRECT
+districtm.io, 100750, DIRECT
+appnexus.com, 1908, RESELLER, f5ab79cb980f11d1
+google.com, pub-3960095709930134,RESELLER, f08c47fec0942fa0
+pubmatic.com, 156077, RESELLER, 5d62403b186f2ace
+openx.com, 537145117, RESELLER, 6a698e2ec38604c6
+adform.com, 768, RESELLER
+contextweb.com, 560489, RESELLER, 89ff185a4c4e857c
+conversantmedia.com, 41848, DIRECT, 03113cd04947736d
+appnexus.com, 4052, RESELLER
+openx.com, 540031703, RESELLER, 6a698e2ec38604c6
+springserve.com, 939, DIRECT, a24eb641fc82e93d 
+beachfront.com, 4969, RESELLER, e2541279e8e2ca4d 
+advertising.com, 26282, RESELLER 
+pubmatic.com, 157310, RESELLER, 5d62403b186f2ace 
+rhythmone.com, 2968119028, RESELLER, a670c89d4a324e47
+openx.com, 540454059, RESELLER, 6a698e2ec38604c6 
+spotxchange.com, 239904, RESELLER, 7842df1d2fe2db34 
+spotx.tv, 239904, RESELLER, 7842df1d2fe2db34
+contextweb.com, 561910, RESELLER, 89ff185a4c4e857c
+lkqd.net, 9, DIRECT, 59c49fa9598a0117
+openx.com, 540313606, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 93940, RESELLER
+appnexus.com, 7096, RESELLER
+advertising.com, 6291, RESELLER
+springserve.com, 868, DIRECT, a24eb641fc82e93d
+rhythmone.com, 2968119028, RESELLER, a670c89d4a324e47
+spotxchange.com, 239904, RESELLER, 7842df1d2fe2db34
+spotx.tv, 239904, RESELLER, 7842df1d2fe2db34
+openx.com, 540226160, RESELLER, 6a698e2ec38604c6
+openx.com, 540255318, RESELLER, 6a698e2ec38604c6
+appnexus.com, 10490, RESELLER
+contextweb.com, 526740, RESELLER, 89ff185a4c4e857c
+indexexchange.com, 189455, DIRECT
+advertising.com, 28320, DIRECT 

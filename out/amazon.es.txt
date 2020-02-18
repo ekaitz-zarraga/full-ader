@@ -1,0 +1,9 @@
+# ads.txt
+#
+# Amazon's TAG-ID is 4582cc3fa09ce42f.
+#
+# Amazon programmatic inventory is not available for purchase through non-Amazon
+# sellers or resellers; therefore, there are no authorized sellers or resellers
+# listed in this file. The following "placeholder" record is the standard method
+# for informing crawlers of the same:
+placeholder.example.com, placeholder, DIRECT, placeholder

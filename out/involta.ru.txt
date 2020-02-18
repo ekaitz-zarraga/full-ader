@@ -1,0 +1,25 @@
+mobupps, 12345, DIRECT
+
+mobupps, 23456, RESELLER
+
+springserve.com, 821, DIRECT, a24eb641fc82e93d
+
+springserve.com, 821, RESELLER, a24eb641fc82e93d
+
+lkqd.net, 195,  RESELLER,  59c49fa9598a0117
+
+lkqd.com, 195,  RESELLER,  59c49fa9598a0117
+
+advertising.com, 11718,  RESELLER
+
+pubmatic.com,156439,RESELLER
+
+pubmatic.com, 154037,RESELLER
+
+smartadserver.com,2815,RESELLER
+
+appnexus.com,3703,RESELLER,f5ab79cb980f11d1
+
+appnexus.com, 3703, RESELLER, f5ab79cb980f11d1
+
+groundtruth.com, 107, RESELLER, 81cbf0a75a5e0e9a

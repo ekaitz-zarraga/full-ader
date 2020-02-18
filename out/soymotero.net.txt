@@ -1,0 +1,101 @@
+linicom.com, 3161, DIRECT #lc00
+admanmedia.com, 894e7972, DIRECT #lc15
+spotxchange.com, 135285, RESELLER, 7842df1d2fe2db34 #lc15
+spotx.tv, 135285, RESELLER, 7842df1d2fe2db34 #lc15
+smartadserver.com, 3187, RESELLER #lc15
+spotxchange.com, 238441, RESELLER, 7842df1d2fe2db34 #lc14
+spotx.tv, 238441, RESELLER, 7842df1d2fe2db34 #lc14
+appnexus.com, 10009, DIRECT, f5ab79cb980f11d1 #lc13
+freewheel.tv, 826465, RESELLER #lc12
+indexexchange.com, 179394, DIRECT, 50b1c356f2c5c8fc #lc01
+coxmt.com, 2000067995202, RESELLER #lc02
+indexexchange.com, 183965, RESELLER, 50b1c356f2c5c8fc #lc02
+pubmatic.com, 156084, RESELLER, 5d62403b186f2ace #lc02
+pubmatic.com, 156325, RESELLER, 5d62403b186f2ace #lc02
+pubmatic.com, 156458, RESELLER, 5d62403b186f2ace #lc02
+appnexus.com, 3703, DIRECT, f5ab79cb980f11d1 #lc03
+contextweb.com, 560288, DIRECT, 89ff185a4c4e857c #lc03
+openx.com, 537149888, DIRECT, 6a698e2ec38604c6 #lc03
+pubmatic.com, 154037, DIRECT, 5d62403b186f2ace #lc03
+pubmatic.com, 156439, DIRECT #lc03
+rubiconproject.com, 16114, DIRECT, 0bfd66d529a55807 #lc03
+sovrn.com, 257611, DIRECT, fafdf38b16bf6b2b #lc03
+pubmatic.com, 156573, DIRECT, 5d62403b186f2ace #lc04
+rubiconproject.com, 17106, DIRECT, 0bfd66d529a55807 #lc05
+tremorhub.com, tvg3z-5852j, RESELLER, 1a4e959a1b50034a #lc06
+google.com, pub-7197632655386039, DIRECT, f08c47fec0942fa0 #lc07
+google.com, pub-8674340505315230, DIRECT, f08c47fec0942fa0 #lc07
+smartclip.net, 9299, DIRECT #lc07
+advertising.com, 18937, RESELLER #lc08
+smartadserver.com, 2946, DIRECT #lc09
+adform.com, 1941, DIRECT #lc10
+adform.com, 1942, DIRECT #lc10
+adtech.com, 4687, RESELLER #lc10
+advertising.com, 7574, DIRECT #lc10
+aerserv.com, 2750, RESELLER, 2ce496b9f80eb9fa #lc10
+aol.com, 27093, RESELLER #lc10
+aol.com, 46658, RESELLER #lc10
+aolcloud.net, 4687, RESELLER #lc10
+appnexus.com, 2928, DIRECT #lc10
+appnexus.com, 8233, DIRECT #lc10
+contextweb.com, 560520, RESELLER #lc10
+google.com, pub-4673227357197067, RESELLER, f08c47fec0942fa0 #lc10
+lijit.com, 249425, RESELLER #lc10
+mobfox.com, 45499, RESELLER #lc10
+mobfox.com, 74240, RESELLER #lc10
+openx.com, 539625136, RESELLER #lc10
+pubmatic.com, 81564, DIRECT, 5d62403b186f2ace #lc10
+pubmatic.com, 156538, DIRECT, 5d62403b186f2ace #lc10
+richaudience.com, 08knisrXjU, DIRECT #lc10
+rubiconproject.com, 13510, DIRECT #lc10
+smaato.com, 1100000579, RESELLER #lc10
+smaato.com, 1100037086, RESELLER #lc10
+smartadserver.com, 2441, RESELLER #lc10
+smartadserver.com, 2640, RESELLER #lc10
+sovrn.com, 249425, RESELLER #lc10
+spotx.tv, 173175, DIRECT #lc10
+spotx.tv, 173177, DIRECT #lc10
+spotxchange.com, 173175, DIRECT #lc10
+spotxchange.com, 173177, DIRECT #lc10
+advertising.com, 19798, RESELLER #lc11
+exponential.com, 155490, RESELLER #lc11
+freewheel.tv, 435713, RESELLER #lc11
+freewheel.tv, 435745, RESELLER #lc11
+freewheel.tv, 435777, RESELLER #lc11
+freewheel.tv, 435809, RESELLER #lc11
+google.com, pub-1968276357835282, RESELLER, f08c47fec0942fa0 #lc11
+google.com, pub-4597105439779983, RESELLER #lc11
+google.com, pub-6678849566450770, RESELLER #lc11
+google.com, pub-8221793852898543, RESELLER, f08c47fec0942fa0 #lc11
+improvedigital.com, 115, RESELLER #lc11
+improvedigital.com, 543, RESELLER #lc11
+indexexchange.com, 183554, RESELLER #lc11
+ooyala.com, 37bb3f3c-1bb8-4b52-85a4-cbfd626b21f4, RESELLER #lc11
+ooyala.com, df0c742b-92ba-4ddb-b9b3-a33991073acd, RESELLER #lc11
+openx.com, 539620353, RESELLER, 6a698e2ec38604c6 #lc11
+pubmatic.com, 156136, RESELLER, 5d62403b186f2ace #lc11
+pubmatic.com, 156509, RESELLER, 5d62403b186f2ace #lc11
+pubmatic.com, 156546, RESELLER, 5d62403b186f2ace #lc11
+pulsepoint.com, 560288, RESELLER #lc11
+smartadserver.com, 1999, RESELLER #lc11
+smartadserver.com, 2951, DIRECT #lc11
+spotx.tv, 202100, RESELLER, 7842df1d2fe2db34 #lc11
+spotxchange.com, 202100, RESELLER, 7842df1d2fe2db34 #lc11
+sunmedia.tv, 101, DIRECT, 24794F6 #lc11
+tremorhub.com, cpu32-92xut, RESELLER, 1a4e959a1b50034a #lc11
+tribalfusion.com, 155490, RESELLER #lc11
+telaria.com, tvg3z-5852j, RESELLER, 1a4e959a1b50034a #lc16
+pubmatic.com, 156439, RESELLER #lc17
+pubmatic.com, 154037, RESELLER #lc17
+pubmatic.com, 156030, RESELLER, 5d62403b186f2ace #lc17
+rubiconproject.com, 16114, RESELLER, 0bfd66d529a55807 #lc17
+rubiconproject.com, 13132, RESELLER, 0bfd66d529a55807 #lc17
+openx.com, 537149888, RESELLER, 6a698e2ec38604c6 #lc17
+appnexus.com, 3703, RESELLER, f5ab79cb980f11d1 #lc17
+groundtruth.com, 107, RESELLER, 81cbf0a75a5e0e9a #lc17
+districtm.io, 101760, RESELLER, 3fd707be9c4527c3 #lc17
+loopme.com, s-2411, RESELLER, 6c8d5f95897a5a3b #lc17
+loopme.com, 5679, RESELLER, 6c8d5f95897a5a3b #lc17
+google.com, pub-6999332779118652, DIRECT, f08c47fec0942fa0
+google.com, pub-9307781679118709, RESELLER, f08c47fec0942fa0
+google.com, pub-6928978701310352, DIRECT, f08c47fec0942fa0

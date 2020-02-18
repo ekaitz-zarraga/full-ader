@@ -1,0 +1,29 @@
+# google
+google.com, pub-3721006898623528, DIRECT, f08c47fec0942fa0
+google.com, pub-5554378387652264, DIRECT, f08c47fec0942fa0
+google.com, pub-7837921866822480, DIRECT, f08c47fec0942fa0
+
+# ucfunnel
+ucfunnel.com, par-9A22328E462DEE66F636A978687428A, DIRECT
+aralego.com, par-9A22328E462DEE66F636A978687428A, DIRECT
+
+#spotx
+spotxchange.com, 224626, DIRECT, 7842df1d2fe2db34
+spotx.tv, 224626, DIRECT, 7842df1d2fe2db34
+
+#thirdpresense
+appnexus.com,3099,RESELLER,f5ab79cb980f11d1
+fyber.com,99c9bda3e8bc71682d9d62597fa70855,RESELLER
+fyber.com,a6846c37e9a6098f40c03bc1e588006a,RESELLER
+fyber.com,1f2577e99e8fb16ac31462e1be6f24a0,RESELLER
+fyber.com,a9f6cb82ef5f79125fdcd75327856216,RESELLER
+fyber.com,5f2ca198afd36809cc0cc5ae37db186c,RESELLER
+lkqd.net,441,RESELLER,59c49fa9598a0117
+pulsepoint.com,561093,RESELLER
+spotxchange.com,101988,RESELLER,7842df1d2fe2db34
+spotx.tv,101988,RESELLER,7842df1d2fe2db34
+thirdpresence.com,ba5a75b14c09f585dbb5d045e41a2f94,RESELLER,927a2b2ef5b81a74
+vdopia.com,11346,RESELLER
+chocolateplatform.com,11346,RESELLER
+pubmatic.com,156795,RESELLER,5d62403b186f2ace
+rubiconproject.com,16390,DIRECT,0bfd66d529a55807

@@ -1,0 +1,12 @@
+# Approved Digital Sellers - https://iabtechlab.com/ads-txt/
+appnexus.com, 9756, DIRECT, f5ab79cb980f11d1
+appnexus.com, 1314, RESELLER # reseller for TripleLift
+google.com, pub-4363339964316411, DIRECT, f08c47fec0942fa0
+indexexchange.com, 185977, DIRECT, 50b1c356f2c5c8fc
+pubmatic.com, 106585, DIRECT, 5d62403b186f2ace
+pubmatic.com, 156692, DIRECT, 5d62403b186f2ace
+pubmatic.com, 156727, DIRECT, 5d62403b186f2ace
+rubiconproject.com, 10998, DIRECT, 0bfd66d529a55807
+rubiconproject.com, 17244, DIRECT, 0bfd66d529a55807
+triplelift.com, 8022, DIRECT, 6c33edb13117fd86
+triplelift.com, 8022-EB, DIRECT, 6c33edb13117fd86

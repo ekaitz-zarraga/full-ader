@@ -1,0 +1,117 @@
+#Ads.txt diariodecuyo.com.ar
+google.com, pub-1610236026472002, DIRECT, f08c47fec0942fa0
+
+#Headway 
+rubiconproject.com, 18224, RESELLER, 0bfd66d529a55807
+beachfront.com, 5003, RESELLER, e2541279e8e2ca4d
+contextweb.com, 559969, RESELLER, 89ff185a4c4e857c
+spotxchange.com, 119135, RESELLER, 7842df1d2fe2db34
+spotx.tv, 119135, RESELLER, 7842df1d2fe2db34
+lkqd.com, 170, RESELLER, 59c49fa9598a0117
+lkqd.net, 170, RESELLER, 59c49fa9598a0117
+advertising.com, 25001, RESELLER
+aol.com, 47230, RESELLER
+google.com, pub-7612738114777168, RESELLER, f08c47fec0942fa0
+dynadmic.com, 1074937138, RESELLER
+dyntrk.com, 1074937138, RESELLER
+spotxchange.com, 151986, RESELLER, 7842df1d2fe2db34
+spotx.tv, 151986, RESELLER, 7842df1d2fe2db34
+yumenetworks.com, 2823, RESELLER, 0f8d7efd0c6b9c3e
+contextweb.com, 557461, RESELLER, 89ff185a4c4e857c
+smartadserver.com, 1894, RESELLER
+contextweb.com, 560288, RESELLER, 89ff185a4c4e857c
+pubmatic.com, 156439, RESELLER, 5d62403b186f2ace
+pubmatic.com, 154037, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 16114, RESELLER, 0bfd66d529a55807
+openx.com, 537149888, RESELLER, 6a698e2ec38604c6
+sovrn.com, 257611, RESELLER, fafdf38b16bf6b2b
+appnexus.com, 3703, RESELLER, f5ab79cb980f11d1
+
+#SOVRN
+sovrn.com, 258700, DIRECT, fafdf38b16bf6b2b
+lijit.com, 258700, DIRECT, fafdf38b16bf6b2b
+appnexus.com, 1360, RESELLER, f5ab79cb980f11d1
+gumgum.com, 11645, RESELLER, ffdef49475d318a9
+openx.com, 538959099, RESELLER, 6a698e2ec38604c6
+openx.com, 539924617, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 137711, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156212, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156700, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 17960, RESELLER, 0bfd66d529a55807
+
+#TEADS
+teads.tv, 13834, DIRECT, 15a9c44f6d26cbe1
+
+#E-Planing
+e-planning.net,e371c7968cf5fdfb,DIRECT
+rubiconproject.com,12186,RESELLER,0bfd66d529a55807
+contextweb.com,560941,RESELLER,89ff185a4c4e857c
+sekindo.com,22761,RESELLER
+nativeads.com,65862,RESELLER
+google.com,pub-4769180667814197,RESELLER,f08c47fec0942fa0
+rubiconproject.com,13894,RESELLER,0bfd66d529a55807
+lkqd.net,282,RESELLER,59c49fa9598a0117
+lkqd.com,282,RESELLER,59c49fa9598a0117
+tremorhub.com,ey5io-qyxzx,RESELLER,1a4e959a1b50034a
+spotxchange.com,<148395>,RESELLER,7842df1d2fe2db34
+spotx.tv,<148395>,RESELLER,7842df1d2fe2db34
+appnexus.com,8790,RESELLER,f5ab79cb980f11d1
+google.com,pub-7995104076770938,RESELLER,f08c47fec0942fa0
+appnexus.com,3911,RESELLER,f5ab79cb980f11d1
+pubmatic.com,156631,RESELLER,5d62403b186f2ace 
+monetize.com,1337,DIRECT
+monetize.com,1337,RESELLER
+smartyads.com,82,DIRECT
+spotx.tv,84294,RESELLER,7842df1d2fe2db34
+advertising.com,7372,RESELLER
+advertising.com,24410,RESELLER
+lkqd.net,244,RESELLER,59c49fa9598a0117
+spotx.tv,151986,RESELLER,7842df1d2fe2db34
+improvedigital.com,1065,RESELLER
+google.com,pub-6437111524977299,RESELLER,f08c47fec0942fa0
+tremorhub.com,o0g2a-1v6x5,RESELLER,1a4e959a1b50034a
+spotxchange.com,101831,RESELLER,7842df1d2fe2db34
+spotx.tv,101831,RESELLER,7842df1d2fe2db34
+advertising.com,18001,RESELLER
+advertising.com,25809,RESELLER
+rubiconproject.com,12948,DIRECT,0bfd66d529a55807
+rubiconproject.com,16114,DIRECT,0bfd66d529a55807
+smartadserver.com,3060,RESELLER
+spotxchange.com,100032,DIRECT
+google.com,pub-5994300388126378,RESELLER,f08c47fec0942fa0
+google.com,pub-4517592538197176,DIRECT,f08c47fec0942fa0
+mobfox.com,72614,DIRECT
+districtm.io,101289,DIRECT
+appnexus.com,1908,RESELLER,f5ab79cb980f11d1
+google.com,pub-9685734445476814,RESELLER,f08c47fec0942fa0
+rubiconproject.com,16720,RESELLER,0bfd66d529a55807
+appnexus.com,3153,RESELLER,f5ab79cb980f11d1
+rubiconproject.com,16904,RESELLER,0bfd66d529a55807
+connectad.io,73,DIRECT
+pubmatic.com,156077,RESELLER,5d62403b186f2ace
+openx.com,537145117,RESELLER,a698e2ec38604c6
+google.com,pub-9467340974789471,RESELLER,f08c47fec0942fa0
+adform.com,768,RESELLER
+contextweb.com,560489,RESELLER,89ff185a4c4e857c
+
+#ORQUIDEA
+agencyorquidea.com, 1572, DIRECT
+google.com, pub-2726428685015992, RESELLER, f08c47fec0942fa0
+sovrn.com, 253564, DIRECT, fafdf38b16bf6b2b
+lijit.com, 253564, DIRECT, fafdf38b16bf6b2b
+appnexus.com, 1360, RESELLER, f5ab79cb980f11d1
+gumgum.com, 11645, RESELLER, ffdef49475d318a9
+openx.com, 538959099, RESELLER, 6a698e2ec38604c6
+openx.com, 539924617, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 137711, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156212, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156700, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 17960, RESELLER, 0bfd66d529a55807
+appnexus.com, 3263, RESELLER 
+adtech.com, 11315, DIRECT
+aolcloud.net, 11315, DIRECT
+pubmatic.com, 155986, RESELLER, 5d62403b186f2ace
+appnexus.com, 9095, RESELLER, f5ab79cb980f11d1 
+
+#MDC CoMPANY
+google.com, pub-7936256534417913, DIRECT, f08c47fec0942fa0

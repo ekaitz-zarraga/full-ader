@@ -1,0 +1,19 @@
+# Powered by Hattie!!!
+adtech.com, 12022, DIRECT, e1a5b5b6e3255540
+appnexus.com, 7498, DIRECT
+aps.amazon.com, 3239, DIRECT
+google.com, pub-1919012362442653, DIRECT, f08c47fec0942fa0 #adsense
+google.com, pub-7208923277260888, DIRECT, f08c47fec0942fa0 #adx
+indexexchange.com, 184516, DIRECT #eb
+indexexchange.com, 187369, DIRECT #prebid
+openx.com, 538986828, DIRECT, 6a698e2ec38604c6
+powerinbox.com, 1807, DIRECT
+pubmatic.com, 156420, DIRECT, 5d62403b186f2ace #tam
+pubmatic.com, 157234, DIRECT, 5d62403b186f2ace #eb
+pubmatic.com, 158802, DIRECT, 5d62403b186f2ace #prebid
+rubiconproject.com, 10540, DIRECT, 0bfd66d529a55807 #prebid tam
+rubiconproject.com, 18850, DIRECT, 0bfd66d529a55807 #eb
+
+#GLOBE&MAIL
+google.com, pub-3746578658400510, RESELLER, f08c47fec0942fa0
+indexexchange.com, 185292, RESELLER

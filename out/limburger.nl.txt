@@ -1,0 +1,46 @@
+#Ads.txt Limburger.nl 2019-11-12
+google.com, pub-3977246851012126, DIRECT, f08c47fec0942fa0
+google.com, pub-8271395633199905, DIRECT, f08c47fec0942fa0
+improvedigital.com, 115, RESELLER
+improvedigital.com, 951, DIRECT
+rubiconproject.com, 9852, DIRECT, 0bfd66d529a55807
+exponential.com, 161770, DIRECT, afac06385c445926
+tribalfusion.com, 161770, DIRECT, afac06385c445926
+smartclip.net, 7521, RESELLER
+exponential.com, 155490, RESELLER, afac06385c445926
+tribalfusion.com, 155490, RESELLER, afac06385c445926
+openx.com, 539620353, RESELLER, 6a698e2ec38604c6
+indexexchange.com, 184665, RESELLER, 50b1c356f2c5c8fc
+pubmatic.com, 156546, RESELLER, 5d62403b186f2ace
+openx.com, 539592429, RESELLER, 6a698e2ec38604c6 
+indexexchange.com, 183554, RESELLER, 50b1c356f2c5c8fc
+contextweb.com, 561690, RESELLER
+exponential.com, 155490, RESELLER, afac06385c445926
+tribalfusion.com, 155490, RESELLER, afac06385c445926
+exponential.com, 174870, RESELLER, afac06385c445926
+tribalfusion.com, 174870, RESELLER, afac06385c445926
+exponential.com, 145690, RESELLER, afac06385c445926
+tribalfusion.com, 145690, RESELLER, afac06385c445926
+indexexchange.com, 176280, RESELLER, 50b1c356f2c5c8fc
+teads.tv, 15514, DIRECT, 15a9c44f6d26cbe1
+plista.com, 235604, DIRECT 
+appnexus.com, 7456, DIRECT
+appnexus.com, 7790, DIRECT
+appNexus.com, 3723,DIRECT
+appnexus.com, 6924, RESELLER, f5ab79cb980f11d1
+improvedigital.com, 1015, DIRECT
+weborama.com, 7, DIRECT
+spotx.tv, 104713, RESELLER, 7842df1d2fe2db34
+spotx.tv, 206177,RESELLER,7842df1d2fe2db34
+spotx.tv, 204335, RESELLER, 7842df1d2fe2db34 
+spotxchange.com, 204335, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 206177,RESELLER,7842df1d2fe2db34
+spotxchange.com, 104713, RESELLER, 7842df1d2fe2db34
+Freewheel.tv, 796737, RESELLER
+Freewheel.tv, 837489, RESELLER
+Freewheel.tv, 969473, RESELLER
+Freewheel.tv, 969489, RESELLER
+outbrain.com, 002afa0e8cd5eb9684dddbd920cfe92a98, DIRECT
+appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
+#contact=adops@mediahuis.be
+#contact=http://mediahuisconnect.be/nl/team-contact

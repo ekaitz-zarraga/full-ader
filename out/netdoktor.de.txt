@@ -1,0 +1,166 @@
+# Q1_20_v1
+# Burda Start
+appnexus.com, 1314, RESELLER
+appnexus.com, 1356, DIRECT
+appnexus.com, 1356, RESELLER
+appnexus.com, 1360, DIRECT
+appnexus.com, 1371, RESELLER, f5ab79cb980f11d1
+appnexus.com, 2579, DIRECT
+appnexus.com, 3368, RESELLER
+appnexus.com, 3538, RESELLER
+appnexus.com, 3539, RESELLER
+appnexus.com, 3540, RESELLER
+appnexus.com, 3563, DIRECT
+appnexus.com, 3702, RESELLER, f5ab79cb980f11d1
+appnexus.com, 3703, RESELLER, f5ab79cb980f11d1
+appnexus.com, 3723, RESELLER
+appnexus.com, 6849, RESELLER
+appnexus.com, 7118, RESELLER
+appnexus.com, 7445, RESELLER
+appnexus.com, 7556, DIRECT
+appnexus.com, 7556, RESELLER
+appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
+appnexus.com, 7790, DIRECT
+appnexus.com, 9517, DIRECT
+aps.amazon.com, 3128, DIRECT
+c.amazon-adsystem.com, 3128, DIRECT
+google.com, pub-0392395354173947, DIRECT, f08c47fec0942fa0
+google.com, pub-1550893728751279, DIRECT, f08c47fec0942fa0
+google.com, pub-4587359539035895, DIRECT, f08c47fec0942fa0
+google.com, pub-4610863589489834, DIRECT, f08c47fec0942fa0
+google.com, pub-5995202563537249, DIRECT
+google.com, pub-6290110528288861, DIRECT, f08c47fec0942fa0
+google.com, pub-6694481294649483, DIRECT
+google.com, pub-6694481294649483, RESELLER
+google.com, pub-7452201096415972, DIRECT, f08c47fec0942fa0
+google.com, pub-7452201096415972, RESELLER, f08c47fec0942fa0
+google.com, pub-8110506465392788, DIRECT, f08c47fec0942fa0
+google.com, pub-8172268348509349, RESELLER, f08c47fec0942fa0
+google.com, pub-9239144410517836, DIRECT, f08c47fec0942fa0
+google.com, pub-9685734445476814, DIRECT
+indexexchange.com, 175407, DIRECT
+indexexchange.com, 175407, RESELLER
+indexexchange.com, 179394, RESELLER
+indexexchange.com, 182257, RESELLER
+indexexchange.com, 183592, RESELLER, 50b1c356f2c5c8fc
+indexexchange.com, 184665, RESELLER, 50b1c356f2c5c8fc
+indexexchange.com, 184914, DIRECT
+indexexchange.com, 184914, RESELLER
+indexexchange.com, 186248, DIRECT
+indexexchange.com, 186248, RESELLER, 50b1c356f2c5c8fc
+indexexchange.com, 187454, DIRECT
+indexexchange.com, 189899, DIRECT
+indexexchange.com, 190856, RESELLER, 50b1c356f2c5c8fc
+openx.com, 537120960, DIRECT
+openx.com, 537143344, DIRECT
+openx.com, 537149888, RESELLER, 6a698e2ec38604c6
+openx.com, 537150004, DIRECT
+openx.com, 537150004, RESELLER
+openx.com, 538959099, DIRECT
+openx.com, 539246483, RESELLER, 6a698e2ec38604c6
+openx.com, 539699341, DIRECT
+openx.com, 539924617, DIRECT
+openx.com, 540393169, RESELLER, 6a698e2ec38604c6
+openx.com, 540684272, RESELLER, 6a698e2ec38604c6
+openx.com, 83499, DIRECT
+plista.com, 13725, DIRECT
+plista.com, 15365, DIRECT
+plista.com, 243003, DIRECT
+plista.com, 28071, DIRECT
+pubmatic.com, 137711, DIRECT
+pubmatic.com, 154037, RESELLER
+pubmatic.com, 156078, DIRECT
+pubmatic.com, 156078, RESELLER
+pubmatic.com, 156138, DIRECT
+pubmatic.com, 156212, DIRECT
+pubmatic.com, 156319, DIRECT
+pubmatic.com, 156319, RESELLER
+pubmatic.com, 156439, RESELLER
+pubmatic.com, 156458, DIRECT
+pubmatic.com, 156695, DIRECT, 5d62403b186f2ace
+pubmatic.com, 156700, DIRECT
+pubmatic.com, 157367, DIRECT
+pubmatic.com, 158615, RESELLER, 5d62403b186f2ace
+pubmatic.com, 62483, DIRECT
+rubiconproject.com, 15268, RESELLER
+rubiconproject.com, 16114, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 17130, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 17632, DIRECT
+rubiconproject.com, 17632, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 17960, DIRECT
+rubiconproject.com, 18194, DIRECT, 0bfd66d529a55807
+rubiconproject.com, 18890, DIRECT
+rubiconproject.com, 19668, RESELLER, 0bfd66d529a55807
+smartclip.net, 10820, RESELLER
+smartclip.net, 11333, RESELLER
+smartclip.net, 8153, RESELLER
+smartclip.net, 893, DIRECT
+smartclip.net, 9082, DIRECT
+smartstream.tv, 6409, RESELLER
+smartstream.tv, 6607, RESELLER
+spotx.tv, 108933, RESELLER, 7842df1d2fe2db34
+spotx.tv, 113481, RESELLER, 7842df1d2fe2db34
+spotx.tv, 127038, RESELLER, 7842df1d2fe2db34
+spotx.tv, 161633, RESELLER, 7842df1d2fe2db34
+spotx.tv, 197085, DIRECT, 7842df1d2fe2db34
+spotx.tv, 202009, DIRECT, 7842df1d2fe2db34
+spotx.tv, 214395, RESELLER, 7842df1d2fe2db34
+spotx.tv, 238936, RESELLER, 7842df1d2fe2db34
+spotx.tv, 245212, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 108933, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 113481, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 127038, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 161633, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 197085, DIRECT, 7842df1d2fe2db34
+spotxchange.com, 202009, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 214395, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 225721, RESELLER
+spotxchange.com, 238936, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 245212, RESELLER, 7842df1d2fe2db34
+yieldlab.net, 21691, DIRECT
+yieldlab.net, 2172218, RESELLER
+yieldlab.net, 227224, RESELLER
+yieldlab.net, 2329165, RESELLER
+yieldlab.net, 2510891, RESELLER
+yieldlab.net, 3888629, RESELLER
+yieldlab.net, 506261, RESELLER
+yieldlab.net, 5334769, RESELLER
+yieldlab.net, 5494672, RESELLER
+yieldlab.net, 5710, DIRECT
+yieldlab.net, 5798882, RESELLER
+yieldlab.net, 6374282, RESELLER
+yieldlab.net, 6378054, DIRECT
+yieldlab.net, 781119, RESELLER
+yieldlab.net, 851872, RESELLER
+yieldlab.net, 961276, RESELLER
+yieldlab.net, 9735969, RESELLER
+yieldlab.net, 9839016, RESELLER
+# Burda End
+# NetDoktor Start
+google.com, pub-7340577146788332, DIRECT, f08c47fec0942fa0
+google.com, pub-3730395596808956, DIRECT, f08c47fec0942fa0
+adyoulike.com, f96fc7227551c240138fed02020641de, DIRECT, 4ad745ead2958bf7
+spotxchange.com,206177,RESELLER,7842df1d2fe2db34
+spotx.tv,206177,RESELLER,7842df1d2fe2db34
+AppNexus.com,3723,DIRECT
+# NetDoktor End
+# Outbrain Start
+outbrain.com, 00924a5e48c4df2f62b9af36056f7d54f0, DIRECT
+appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
+tremorhub.com, q017o-78mlk, RESELLER, 1a4e959a1b50034a # Premium video demand aka "Telaria"
+teads.tv, 15429, RESELLER, 15a9c44f6d26cbe1 # Premium video demand
+advertising.com, 26154, RESELLER # Premium video demand
+spotxchange.com, 225721, RESELLER # Premium video demand
+Freewheel.tv, 741650, RESELLER # Premium video demand
+rubiconproject.com, 17130, RESELLER, 0bfd66d529a55807 # Premium video demand
+lkqd.net, 450, RESELLER, 59c49fa9598a0117 # Premium video demand
+openx.com, 540393169, RESELLER, 6a698e2ec38604c6 # Premium video demand
+spotx.tv, 238936, RESELLER, 7842df1d2fe2db34 # Premium video demand
+spotxchange.com, 238936, RESELLER, 7842df1d2fe2db34 # Premium Video Demand
+advertising.com, 28038, RESELLER # Premium Video Demand
+rubiconproject.com, 19668, RESELLER, 0bfd66d529a55807
+contextweb.com, 562145, RESELLER, 89ff185a4c4e857c # Premium Video Demand
+indexexchange.com, 190856, RESELLER, 50b1c356f2c5c8fc # Premium Video Demand
+pubmatic.com, 158615, RESELLER, 5d62403b186f2ace # Premium video & display demand
+vidazoo.com, 1773068026, RESELLER, b6ada874b4d7d0b2 # Premium Video Demand
+# Outbrain End

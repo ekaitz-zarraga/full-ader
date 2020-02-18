@@ -1,0 +1,25 @@
+spotxchange.com, 214741, DIRECT, 7842df1d2fe2db34
+spotx.tv, 214741, DIRECT, 7842df1d2fe2db34
+springserve.com, 692, DIRECT, a24eb641fc82e93d
+lkqd.net, 494, DIRECT, 59c49fa9598a0117
+rubiconproject.com, 18252, DIRECT, 0bfd66d529a55807
+advertising.com, 26461, DIRECT
+indexexchange.com, 183965, RESELLER, 50b1c356f2c5c8fc
+Pubmatic.com, 156458, RESELLER, 5d62403b186f2ace 
+Pubmatic.com, 156325, RESELLER, 5d62403b186f2ace 
+Pubmatic.com, 156084, RESELLER, 5d62403b186f2ace 
+coxmt.com, 2000067995202, RESELLER
+rhythmone.com, 1165084384,DIRECT,a670c89d4a324e47
+openx.com, 540196388, DIRECT, 6a698e2ec38604c6
+google.com, pub-1856695487644569, DIRECT, f08c47fec0942fa0
+altitude-arena.com, QH24PC75K10EL12CM3IQ1O7AES, DIRECT
+beachfront.com, 12938, DIRECT, e2541279e8e2ca4d
+
+#pixfuture Mobile Apps START updated August-26-2019
+pixfuture.com, 403, DIRECT
+openx.com, 540406323, RESELLER, 6a698e2ec38604c6
+spotxchange.com, 226725, RESELLER, 7842df1d2fe2db34
+spotx.tv, 226725, RESELLER, 7842df1d2fe2db34
+advertising.com, 24140, DIRECT, e1a5b5b6e3255540
+appnexus.com, 9982, DIRECT, f5ab79cb980f11d1
+#pixfuture Mobile Apps END updated August-26-2019

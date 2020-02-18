@@ -1,0 +1,72 @@
+#openx
+openx.com, 540472623, RESELLER, 6a698e2ec38604c6 #openx
+
+#rubicon
+rubiconproject.com, 18450, RESELLER, 0bfd66d529a55807 #gtr
+
+#pubmatic
+pubmatic.com, 157530, RESELLER, 5d62403b186f2ace #gtr
+
+#mmp
+google.com, pub-3992393056167515, RESELLER, f08c47fec0942fa0
+
+#MM ADX
+google.com, pub-5278973888786334, RESELLER, f08c47fec0942fa0
+google.com, pub-7620071422727774, RESELLER, f08c47fec0942fa0
+google.com, pub-1142323411777001, DIRECT, f08c47fec0942fa0
+
+#ajel.sa Adsense
+google.com, pub-7190600125574679, DIRECT, f08c47fec0942fa0
+
+#Appnexus
+appnexus.com, 3573, DIRECT #appnexus
+
+#DistrictM
+districtm.io, 100541, DIRECT #districtm
+districtm.io, 100452, DIRECT #districtm
+appnexus.com, 7944, RESELLER #districtm
+appnexus.com, 1908, RESELLER #districtm
+
+#Brealtime
+emxdgt.com, 88, RESELLER, 1e1d41537f7cad7f #brealtime
+appnexus.com, 1356, RESELLER, f5ab79cb980f11d1 #brealtime
+
+#AOL
+adtech.com, 10513, RESELLER #aol
+aolcloud.net, 10513, RESELLER #aol
+
+#IndexExchange
+indexexchange.com, 184282, DIRECT, 50b1c356f2c5c8fc #indexExchange
+
+#OftMedia
+appnexus.com, 3153, RESELLER #oftmedia
+
+#smartadserver
+smartadserver.com, 3198, DIRECT #smartadserver
+contextweb.com, 560288, DIRECT, 89ff185a4c4e857c #smartadserver
+pubmatic.com, 156439, DIRECT #smartadserver
+pubmatic.com, 154037, DIRECT #smartadserver
+rubiconproject.com, 16114, DIRECT, 0bfd66d529a55807 #smartadserver
+openx.com, 537149888, DIRECT, 6a698e2ec38604c6 #smartadserver
+sovrn.com, 257611, DIRECT, fafdf38b16bf6b2b #smartadserver
+appnexus.com, 3703, DIRECT, f5ab79cb980f11d1 #smartadserver
+
+
+#rtbhouse
+rtbhouse.com, 3i1LylGqH8EQE6n8gjzb, DIRECT #rtbhouse
+
+#Adhunters
+Video.Adhunters.net,Adh_359256383, RESELLER
+google.com, pub-7194514994057946, DIRECT, f08c47fec0942fa0
+google.com, pub-9611340043830472, RESELLER, f08c47fec0942fa0
+rubiconproject.com, 20382, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 11012, RESELLER, 0bfd66d529a55807
+freewheel.tv, 961969, DIRECT
+freewheel.tv, 961985, RESELLER
+
+#Adintop
+google.com, pub-1018291046422176, DIRECT
+google.com, pub-8541583196492976, DIRECT, f08c47fec0942fa0
+google.com, pub-8113799588685394, RESELLER, f08c47fec0942fa0
+
+ssp.smartyads.com, 9470, DIRECT

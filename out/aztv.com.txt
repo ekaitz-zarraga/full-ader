@@ -1,0 +1,128 @@
+#diDNA ads dot txt 8 15 18
+#google
+google.com, pub-3565385483761681, DIRECT, f08c47fec0942fa0 #diDNA adx
+google.com, pub-2829411399762487, DIRECT, f08c47fec0942fa0 #diDNA adsense
+google.com, pub-6195715323143399, DIRECT, f08c47fec0942fa0
+#conversant
+conversantmedia.com, 40461, DIRECT, 03113cd04947736d #diDNA conversant
+appnexus.com, 4052, RESELLER #diDNA conversant
+#appnexus
+appnexus.com, 8219, DIRECT #diDNA appnexus
+#districtm
+districtm.io, 101114, DIRECT #diDNA districtm
+appnexus.com, 1908, RESELLER, f5ab79cb980f11d1 #diDNA districtm
+google.com, pub-9685734445476814, RESELLER, f08c47fec0942fa0 #diDNA districtm
+#pulsepoint
+contextweb.com, 561544, RESELLER, 89ff185a4c4e857c #diDNA pulsepoint
+#sovrn
+sovrn.com, 236010, DIRECT, fafdf38b16bf6b2b #diDNA sovrn
+lijit.com, 236010, DIRECT, fafdf38b16bf6b2b #diDNA sovrn
+appnexus.com, 1360, RESELLER, f5ab79cb980f11d1 #diDNA sovrn
+gumgum.com, 11645, RESELLER, ffdef49475d318a9 #diDNA sovrn
+openx.com, 538959099, RESELLER, 6a698e2ec38604c6 #diDNA sovrn
+openx.com, 539924617, RESELLER, 6a698e2ec38604c6 #diDNA sovrn
+pubmatic.com, 137711, RESELLER, 5d62403b186f2ace #diDNA sovrn
+pubmatic.com, 156212, RESELLER, 5d62403b186f2ace #diDNA sovrn
+pubmatic.com, 156700, RESELLER, 5d62403b186f2ace #diDNA sovrn
+rubiconproject.com, 17960, RESELLER, 0bfd66d529a55807 #diDNA sovrn
+#indexexchange
+indexexchange.com, 186905, DIRECT, 50b1c356f2c5c8fc #diDNA indexexchange
+#bidfluence
+bidfluence.com, 2795b0e3-f60a-4871-bab1-89728659789d, DIRECT #diDNA bidfluence
+google.com, pub-3794472422103036, RESELLER, f08c47fec0942fa0  #diDNA bidfluence
+google.com, pub-2508572163480636, RESELLER, f08c47fec0942fa0 #diDNA bidfluence
+smartyads.com, 54, RESELLER #diDNA bidfluence
+beachfront.com, 10326, RESELLER #diDNA bidfluence
+contextweb.com, 560158, RESELLER, 89ff185a #diDNA bidfluence
+appnexus.com, 3911, RESELLER, f5ab79cb980f11d1 #diDNA bidfluence
+districtm.io, 101059, RESELLER #diDNA bidfluence
+appnexus.com, 1908, RESELLER, f5ab79cb980f11d1 #diDNA bidfluence
+google.com, pub-9685734445476814, RESELLER, f08c47fec0942fa0 #diDNA bidfluence
+rhythmone.com, 4235315517, RESELLER, a670c89d4a324e47 #diDNA bidfluence
+rubiconproject.com, 14418, RESELLER #diDNA bidfluence
+pubmatic.com, 127864, RESELLER, 5d62403b186f2ace #diDNA bidfluence
+openx.com, 537148814, RESELLER, 6a698e2ec38604c6 #diDNA bidfluence
+indexexchange.com, 183813, RESELLER #diDNA bidfluence
+sovrn.com, 239791, RESELLER, fafdf38b16bf6b2b #diDNA bidfluence
+lijit.com, 239791, RESELLER, fafdf38b16bf6b2b #diDNA bidfluence
+admixer.net, 2f15ba81-49eb-467d-b319-5719408bcb8e, RESELLER #diDNA bidfluence
+mobfox.com, 63214, RESELLER #diDNA bidfluence
+appnexus.com, 3153, RESELLER, f5ab79cb980f11d1 #diDNA bidfluence
+adtech.com, 11095, RESELLER #diDNA bidfluence
+adtech.com, 10838, RESELLER #diDNA bidfluence
+#rubicon
+rubiconproject.com, 14680, DIRECT, 0bfd66d529a55807 #diDNA rubicon
+#insticator
+insticator.com,766337be-76b2-4030-80dc-e6ba8439f2a6,DIRECT #diDNA insticator
+google.com,pub-7630961163643137,RESELLER,f08c47fec0942fa0 #diDNA insticator
+districtm.io,100683,RESELLER #diDNA insticator
+openx.com,537117488,RESELLER,6a698e2ec38604c6 #diDNA insticator
+pubmatic.com,95054,RESELLER,5d62403b186f2ace #diDNA insticator
+appnexus.com,1908,RESELLER #diDNA insticator
+appnexus.com,3695,RESELLER #diDNA insticator
+appnexus.com,4052,RESELLER #diDNA insticator
+appnexus.com,1356,RESELLER,f5ab79cb980f11d1 #diDNA insticator
+sonobi.com,e315a43aa9,RESELLER #diDNA insticator
+rhythmone.com,136898039,RESELLER,a670c89d4a324e47 #diDNA insticator
+EMXDGT.com,22,RESELLER,1e1d41537f7cad7f #diDNA insticator
+rubiconproject.com,17062,DIRECT,0bfd66d529a55807 #diDNA insticator
+contextweb.com,561664,RESELLER,89ff185a4c4e857 #diDNA insticator
+sovrn.com,257618,RESELLER,fafdf38b16bf6b2b #diDNA insticator
+lijit.com,257618,RESELLER,fafdf38b16bf6b2b #diDNA insticator
+openx.com,537102524,RESELLER,6a698e2ec38604c6 #diDNA insticator
+rhythmone.com,1059622079,RESELLER #diDNA insticator
+contextweb.com,560606,RESELLER #diDNA insticator
+rubiconproject.com,17980,RESELLER,0bfd66d529a55807 #diDNA insticator
+Rhythmone.com,527383184,RESELLER,a670c89d4a324e47 #diDNA insticator
+indexexchange.com,187071,DIRECT #diDNA insticator
+indexexchange.com,187482,DIRECT #diDNA insticator
+openx.com,540105394,RESELLER,6a698e2ec38604c6 #diDNA insticator
+pubmatic.com, 157119, RESELLER, 5d62403b186f2ace #diDNA insticator
+adtech.com, 10064, RESELLER #diDNA insticator
+#jcarter
+media.adfrontiers.com, 650, DIRECT #diDNA jcarter
+indexexchange.com, 184284, DIRECT, 50b1c356f2c5c8fc #diDNA jcarter
+openx.com, 128220, RESELLER, 6a698e2ec38604c6 #diDNA jcarter
+openx.com, 537126623, RESELLER, 6a698e2ec38604c6 #diDNA jcarter
+openx.com, 537108715, RESELLER, 6a698e2ec38604c6 #diDNA jcarter
+adtech.com, 9402, DIRECT #diDNA jcarter
+aolcloud.net, 9402, DIRECT #diDNA jcarter
+adtech.com, 10452, DIRECT #diDNA jcarter
+aolcloud.net, 10452, DIRECT #diDNA jcarter
+adtech.com, 11022, DIRECT #diDNA jcarter
+aolcloud.net, 11022, DIRECT #diDNA jcarter
+coxmt.com, 2000067907202, RESELLER #diDNA jcarter
+pubmatic.com, 156078, RESELLER, 5d62403b186f2ace #banner #diDNA jcarter
+pubmatic.com, 156377, RESELLER, 5d62403b186f2ace #diDNA jcarter
+openx.com, 537143344, RESELLER, 6a698e2ec38604c6 #banner #diDNA jcarter
+indexexchange.com, 175407, RESELLER, 50b1c356f2c5c8fc #diDNA jcarter
+conversantmedia.com, 37638, DIRECT, 03113cd04947736d #diDNA jcarter
+conversantmedia.com, 39140, DIRECT, 03113cd04947736d #diDNA jcarter
+conversantmedia.com, 40087, DIRECT, 03113cd04947736d #diDNA jcarter
+conversantmedia.com, 40374, DIRECT, 03113cd04947736d #diDNA jcarter
+33across.com, 0010b00001sh10JAAQ, DIRECT #display #diDNA jcarter
+33across.com, 0013300001rahWRAAY, DIRECT #display #diDNA jcarter
+google.com, pub-9557089510405422, RESELLER, f08c47fec0942fa0 #display #diDNA jcarter
+appnexus.com, 1001, RESELLER, f5ab79cb980f11d1 #display #diDNA jcarter
+appnexus.com, 3135, RESELLER, f5ab79cb980f11d1 #display #diDNA jcarter
+openx.com, 537120563, RESELLER, 6a698e2ec38604c6 #display #diDNA jcarter
+rubiconproject.com, 16414, RESELLER, 0bfd66d529a55807 #display #diDNA jcarter
+pubmatic.com, 156423, RESELLER, 5d62403b186f2ace #display #diDNA jcarter
+amazon.com, 3411, RESELLER #display #diDNA jcarter
+criteo.com, 3450, RESELLER #display #diDNA jcarter
+indexexchange.com, 185506, RESELLER, 50b1c356f2c5c8fc #display #diDNA jcarter
+adtech.com, 9993, RESELLER #display #diDNA jcarter
+aolcloud.net, 9993, RESELLER #display #diDNA jcarter
+openx.com, 539266264, RESELLER, 6a698e2ec38604c6 #display #diDNA jcarter
+appnexus.com, 1356, RESELLER, f5ab79cb980f11d1 #display #diDNA jcarter
+emxdgt.com, 326, RESELLER, 1e1d41537f7cad7f #display #diDNA jcarter
+google.com, pub-5995202563537249, RESELLER, f08c47fec0942fa0 #display #diDNA jcarter
+33across.com, 33, DIRECT #diDNA jcarter
+openx.com, 539392223, RESELLER, 6a698e2ec38604c6 #diDNA jcarter
+openx.com, 537125356, RESELLER, 6a698e2ec38604c6 #diDNA jcarter
+advertising.com, 12543, RESELLER #diDNA jcarter
+q1connect.com, 242, RESELLER #diDNA jcarter
+contextweb.com, 561516, RESELLER, 89ff185a4c4e857c #diDNA jcarter
+#contact diDNA
+contact=ops@diDNA.io
+contact=http://diDNA.io/contact/

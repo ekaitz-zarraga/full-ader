@@ -1,0 +1,34 @@
+#Velis Media
+velismedia.com, 725, Direct
+gemlix.com, 10001, Direct
+google.com, pub-8804303781641925, Reseller, f08c47fec0942fa0
+sovrn.com, 270241, DIRECT, fafdf38b16bf6b2b
+lijit.com, 270241, DIRECT, fafdf38b16bf6b2b
+appnexus.com, 1360, RESELLER, f5ab79cb980f11d1
+gumgum.com, 11645, RESELLER, ffdef49475d318a9
+openx.com, 538959099, RESELLER, 6a698e2ec38604c6
+openx.com, 539924617, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 137711, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156212, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156700, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 17960, RESELLER, 0bfd66d529a55807
+freewheel.tv, 209809, Reseller
+freewheel.tv, 210137, Reseller
+advertising.com, 9377, Reseller
+adtech.com, 9377, Reseller
+advertising.com, 26192, Reseller
+adtech.com, 26192, Reseller
+admixer.net, 2ea36020-047e-4a89-ad9b-634cf65d2737 
+lkqd.net, 181, Direct, 59c49fa9598a0117
+lkqd.com, 181, Direct, 59c49fa9598a0117
+springserve.com, 217, Reseller, a24eb641fc82e93d
+contextweb.com, 562054, RESELLER, 89ff185a4c4e857c
+tremorhub.com, e8okc, Reseller, 1a4e959a1b50034a
+contextweb.com, 561073, Reselle, 89ff185a4c4e857c
+beachfront.com, 8434, RESELLER, e2541279e8e2ca4d
+improvedigital.com, 1229, Reseller
+Rhythmone.com,500691048, Reseller, a670c89d4a324e47
+
+#Google
+google.com, pub-2084005300242402, DIRECT, f08c47fec0942fa0
+

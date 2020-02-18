@@ -1,0 +1,23 @@
+# Ads.txt file for retailmenot.com, documentation can be found here (https://iabtechlab.com/ads-txt/):
+# Changes can be made by using the placement admin ads.txt tool in CQMS Armadillo
+google.com, pub-3371772380153138, DIRECT, f08c47fec0942fa0
+appnexus.com, 9346, DIRECT, f5ab79cb980f11d1
+openx.com, 537141465, DIRECT, 6a698e2ec38604c6
+openx.com, 540158159, DIRECT, 6a698e2ec38604c6
+rubiconproject.com, 15946, DIRECT, 0bfd66d529a55807
+rubiconproject.com, 18612, DIRECT, 0bfd66d529a55807
+sovrn.com, 263523, DIRECT, fafdf38b16bf6b2b
+lijit.com, 263523, DIRECT, fafdf38b16bf6b2b
+aerserv.com, 5545, DIRECT, 2ce496b9f80eb9fa
+rhythmone.com, 2766725497, DIRECT, a670c89d4a324e47
+triplelift.com, 3659, DIRECT, 6c33edb13117fd86
+triplelift.com, 3659-EB, DIRECT, 6c33edb13117fd86
+indexexchange.com, 188634, DIRECT
+yieldmo.com, 2142906976542819586, DIRECT
+pubmatic.com, 157930, DIRECT, 5d62403b186f2ace
+pubmatic.com, 158014, DIRECT, 5d62403b186f2ace
+mobfox.com, 79941, DIRECT
+media.net, 8CUL7247R, DIRECT
+sonobi.com, 2092256abb, DIRECT, d1a215d9eb5aee9e
+rhythmone.com, 1059622079, RESELLER, a670c89d4a324e47
+contextweb.com, 560606, RESELLER, 89ff185a4c4e857c

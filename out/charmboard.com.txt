@@ -1,0 +1,66 @@
+
+//Taboola
+
+taboola.com,1171645,DIRECT,c228e6794e811952
+spotx.tv,71451,RESELLER
+spotxchange.com, 71451, RESELLER
+advertising.com, 8603, RESELLER
+advertising.com, 3531, RESELLER
+pubmatic.com, 156307, RESELLER, 5d62403b186f2ace
+appnexus.com, 3364, RESELLER
+Indexexchange.com, 183756, RESELLER
+contextweb.com, 560382, RESELLER
+openx.com, 539154393, RESELLER
+tremorhub.com, z87wm, RESELLER, 1a4e959a1b50034a
+rubiconproject.com, 16698, RESELLER, 0bfd66d529a55807
+fyber.com, ad9de41d28d494354b23133f26f83122, RESELLER
+fyber.com, 1a12a7e3f84fe560ccf95a3a73043abb, RESELLER
+
+//Google Adsense:
+
+google.com, pub-2033106326629474, DIRECT, f08c47fec0942fa0
+
+
+//Datawrkz
+
+google.com, pub-8856559311549217, RESELLER, f08c47fec0942fa0
+google.com, pub-1161932234680410, RESELLER, f08c47fec0942fa0
+spotxchange.com, 123826, RESELLER, 7842df1d2fe2db34
+spotx.tv, 123826, RESELLER, 7842df1d2fe2db34
+adtech.com, 10224, RESELLER
+advertising.com, 14693, RESELLER
+rubiconproject.com, 13732, RESELLER, 0bfd66d529a55807
+contextweb.com, 557995, RESELLER, 89ff185a4c4e857c
+appnexus.com, 2741, RESELLER
+gammassp.com, 1507780569, RESELLER
+districtm.io, 101490, RESELLER
+appnexus.com, 1908, RESELLER, f5ab79cb980f11d1
+appnexus.com, 3153, RESELLER, f5ab79cb980f11d1
+adtech.com, 11095, Reseller
+ connectad.io, 73, RESELLER
+districtm.io, 100750, RESELLER
+appnexus.com, 1908, RESELLER, f5ab79cb980f11d1
+pubmatic.com, 156077, RESELLER, 5d62403b186f2ace
+openx.com, 537145117, RESELLER, a698e2ec38604c6
+adform.com, 768, RESELLER
+contextweb.com, 560489, RESELLER, 89ff185a4c4e857c
+33across.com, 0010b00001u6k6wAAA, RESELLER, bbea06d9c4d2853c
+appnexus.com, 1001, RESELLER
+appnexus.com, 3135, RESELLER
+rubiconproject.com, 16414, RESELLER, 0bfd66d529a55807
+pubmatic.com, 156423, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156832, RESELLER, 5d62403b186f2ace
+rhythmone.com, 2439829435, RESELLER, a670c89d4a324e47
+indexexchange.com, 185506, RESELLER
+appnexus.com, 1356, RESELLER, f5ab79cb980f11d1
+emxdgt.com, 326, RESELLER, 1e1d41537f7cad7f
+imonomy.com, 2189, RESELLER
+openx.com, 537104839, RESELLER, 6a698e2ec38604c6
+33across.com, 33, RESELLER
+openx.com, 540299346, RESELLER, 6a698e2ec38604c6
+coxmt.com, 2000068033402, RESELLER
+pubmatic.com, 156923, RESELLER, 5d62403b186f2ace
+videmob.com, 52927de5bc24be8ab6cc927752727769, RESELLER, 0de284bf2d40bd06
+videmob.com, 27612d042140979d54e2a92de259f7ec, RESELLER, 0de284bf2d40bd06
+rubiconproject.com, 16904, RESELLER, 0bfd66d529a55807
+appnexus.com, 9393, RESELLER

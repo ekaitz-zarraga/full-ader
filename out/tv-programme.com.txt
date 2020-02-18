@@ -1,0 +1,73 @@
+google.com, pub-4848436767183334, DIRECT, f08c47fec0942fa0
+google.com, pub-1256482085642647, RESELLER, f08c47fec0942fa0
+
+outbrain.com, 005c2c95dff67c9731fb9cc685c3821abf, DIRECT
+outbrain.com, 005c2c95dff67c9731fb9cc685c3821abf, RESELLER
+appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
+tremorhub.com, q017o-78mlk, RESELLER, 1a4e959a1b50034a # Premium video demand aka "Telaria"
+teads.tv, 15429, RESELLER, 15a9c44f6d26cbe1 # Premium video demand
+advertising.com, 26154, RESELLER # Premium video demand
+spotxchange.com, 225721, RESELLER # Premium video demand
+Freewheel.tv, 741650, RESELLER # Premium video demand
+rubiconproject.com, 17130, RESELLER, 0bfd66d529a55807 # Premium video demand
+lkqd.net, 450, RESELLER, 59c49fa9598a0117 # Premium video demand
+
+# impactify
+impactify.io, 1626, DIRECT
+improvedigital.com, 1058, RESELLER
+freewheel.tv, 282546, RESELLER
+freewheel.tv, 282562, RESELLER
+freewheel.tv, 282578, RESELLER
+freewheel.tv, 282594, RESELLER
+freewheel.tv, 282610, RESELLER
+freewheel.tv, 282626, RESELLER
+freewheel.tv, 282770, RESELLER
+freewheel.tv, 282786, RESELLER
+freewheel.tv, 282802, RESELLER
+freewheel.tv, 282818, RESELLER
+freewheel.tv, 282834, RESELLER
+freewheel.tv, 282850, RESELLER
+yahoo.com, 1761548, RESELLER
+rubiconproject.com, 19688, RESELLER, 0bfd66d529a55807
+spotxchange.com, 176703, RESELLER, 7842df1d2fe2db34
+spotx.tv, 176703, RESELLER, 7842df1d2fe2db34
+adtech.com, 4465, RESELLER
+advertising.com, 9516, RESELLER
+console.cmcm.com, 47, RESELLER
+appnexus.com, 3703, RESELLER, f5ab79cb980f11d1
+contextweb.com, 560288, RESELLER, 89ff185a4c4e857c
+openx.com, 537149888, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 154037, RESELLER
+pubmatic.com, 156439, RESELLER
+rubiconproject.com, 16114, RESELLER, 0bfd66d529a55807
+smartadserver.com, 2974, RESELLER
+sovrn.com, 257611, RESELLER, fafdf38b16bf6b2b
+google.com, pub-4301669675472368, RESELLER, f08c47fec0942fa0
+smaato.com, 1100014037, RESELLER
+google.com, pub-2697483239283649, RESELLER, f08c47fec0942fa0
+videmob.com, a2f9f869ac33d6cc453ffd96af1041da, RESELLER, 0de284bf2d40bd06
+videmob.com, cbceec1cdf3a2aca8906dc86c43a4c31, RESELLER, 0de284bf2d40bd06
+ucfunnel.com, par-AA77669DED6B4789C84AD8A2A67434D3, DIRECT
+aralego.com, par-AA77669DED6B4789C84AD8A2A67434D3, DIRECT
+connatix.com, 102494, RESELLER, 2af98acdee0e81ed
+tremorhub.com, cd009, RESELLER, 1a4e959a1b50034a
+spotxchange.com, 136839, RESELLER, 7842df1d2fe2db34
+spotx.tv, 136839, RESELLER, 7842df1d2fe2db34
+google.com, pub-5480205708168063, RESELLER, f08c47fec0942fa0
+google.com, pub-9914992914910847, RESELLER, f08c47fec0942fa0
+revcontent.com, 87963, RESELLER
+appnexus.com, 7666, RESELLER, f5ab79cb980f11d1
+vidazoo.com, 5840137198, RESELLER, b6ada874b4d7d0b2
+rhythmone.com, 669070238, RESELLER, a670c89d4a324e47
+pubmatic.com, 156145, RESELLER
+advertising.com, 7873, RESELLER
+rubiconproject.com, 17130, RESELLER, 0bfd66d529a55807
+improvedigital.com, 962, RESELLER
+google.com, pub-7019376976432612, RESELLER
+google.com, pub-9058291854443881, RESELLER
+google.com, pub-5373693997956134, RESELLER, f08c47fec0942fa0
+google.com, pub-4177862836555934, RESELLER, f08c47fec0942fa0
+google.com, pub-1071602463683652, RESELLER, f08c47fec0942fa0
+appnexus.com, 3691, RESELLER
+
+

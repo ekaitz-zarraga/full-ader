@@ -1,0 +1,14 @@
+#Ads.txt arabic-media.com
+
+#2018-04-01
+
+google.com, pub-2540804802186938, DIRECT, f08c47fec0942fa0
+google.com, pub-2540804802186938, RESELLER #banner, CA
+google.com, pub-2540804802186938, RESELLER #banner, US
+google.com, pub-2540804802186938, RESELLER, f08c47fec0942fa0 #video, CA
+google.com, pub-2540804802186938, RESELLER, f08c47fec0942fa0 #video, US
+google.com, pub-2540804802186938, RESELLER, f08c47fec0942fa0 #banner, video, EMEA
+google.com, pub-2540804802186938, RESELLER #banner, video, AU
+google.com, pub-2540804802186938, RESELLER #banner, video, NZ
+google.com, pub-2540804802186938, RESELLER, #banner, APAC
+google.com, pub-2540804802186938, RESELLER, f08c47fec0942fa0

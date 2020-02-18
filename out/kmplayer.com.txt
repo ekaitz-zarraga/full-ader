@@ -1,0 +1,66 @@
+# google
+google.com, pub-3721006898623528, DIRECT, f08c47fec0942fa0
+google.com, pub-5554378387652264, DIRECT, f08c47fec0942fa0
+google.com, pub-7837921866822480, DIRECT, f08c47fec0942fa0
+
+# ucfunnel
+ucfunnel.com, par-9A22328E462DEE66F636A978687428A, DIRECT
+aralego.com, par-9A22328E462DEE66F636A978687428A, DIRECT
+
+# spotx
+spotxchange.com, 224626, DIRECT, 7842df1d2fe2db34
+spotx.tv, 224626, DIRECT, 7842df1d2fe2db34
+
+# Managed by TDN START #
+google.com, pub-3665575696298773, DIRECT, f08c47fec0942fa0
+google.com, pub-4183634788279407, DIRECT, f08c47fec0942fa0
+ucfunnel.com, {par-AA7AA2DA3E4E9274FB742489E8D3D74}, DIRECT
+aralego.com, {par-AA7AA2DA3E4E9274FB742489E8D3D74}, DIRECT
+# Managed by TDN END #
+
+# united_ADX
+google.com, pub-9031689156885069, RESELLER, f08c47fec0942fa0
+
+# KMPlayer International 
+taboola.com, 1041702 , DIRECT,c228e6794e811952
+spotx.tv,71451,RESELLER
+spotxchange.com, 71451, RESELLER
+advertising.com, 8603, RESELLER
+pubmatic.com, 156307, RESELLER, 5d62403b186f2ace
+appnexus.com, 3364, RESELLER
+Indexexchange.com, 183756, RESELLER
+contextweb.com, 560382, RESELLER
+openx.com, 539154393, RESELLER
+tremorhub.com, z87wm, RESELLER, 1a4e959a1b50034a
+rubiconproject.com, 16698, RESELLER, 0bfd66d529a55807
+freewheel.tv, 799841, RESELLER
+freewheel.tv, 799921, RESELLER
+aol.com, 53392, RESELLER
+rhythmone.com, 1166984029, RESELLER, a670c89d4a324e47
+smartadserver.com, 3563, RESELLER
+beachfront.com, 13749, RESELLER, e2541279e8e2ca4d
+advertising.com, 28458, RESELLER
+admanmedia.com, 556, RESELLER
+# KMPlayer International 
+
+# KMPlayer
+taboola.com, 1038749 , DIRECT,c228e6794e811952
+spotx.tv,71451,RESELLER
+spotxchange.com, 71451, RESELLER
+advertising.com, 8603, RESELLER
+pubmatic.com, 156307, RESELLER, 5d62403b186f2ace
+appnexus.com, 3364, RESELLER
+Indexexchange.com, 183756, RESELLER
+contextweb.com, 560382, RESELLER
+openx.com, 539154393, RESELLER
+tremorhub.com, z87wm, RESELLER, 1a4e959a1b50034a
+rubiconproject.com, 16698, RESELLER, 0bfd66d529a55807
+freewheel.tv, 799841, RESELLER
+freewheel.tv, 799921, RESELLER
+aol.com, 53392, RESELLER
+rhythmone.com, 1166984029, RESELLER, a670c89d4a324e47
+smartadserver.com, 3563, RESELLER
+beachfront.com, 13749, RESELLER, e2541279e8e2ca4d
+advertising.com, 28458, RESELLER
+admanmedia.com, 556, RESELLER 
+# KMPlayer

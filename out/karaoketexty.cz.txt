@@ -1,0 +1,38 @@
+adform.com, 1794, RESELLER
+google.com, pub-9351958709261256, DIRECT, f08c47fec0942fa0
+appnexus.com, 6974, RESELLER, f5ab79cb980f11d1
+pubmatic.com, 49307, RESELLER, 5d62403b186f2ace
+revcontent.com, 57243, DIRECT
+appnexus.com, 7666, DIRECT, f5ab79cb980f11d1
+rubiconproject.com, 156042, DIRECT, 0bfd66d529a55807
+tremorhub.com, vi1he-0c1k3, RESELLER, 1a4e959a1b50034a
+spotxchange.com, 208557, RESELLER, 7842df1d2fe2db34
+spotx.tv, 208557, RESELLER, 7842df1d2fe2db34
+rubiconproject.com, 156042, RESELLER, 0bfd66d529a55807
+connatix.com, 102221, DIRECT
+lkqd.net, 456, RESELLER, 59c49fa9598a0117
+lkqd.com, 456, RESELLER, 59c49fa9598a0117
+google.com, pub-7349691528422556, DIRECT, f08c47fec0942fa0
+google.com, pub-8804729319494140, DIRECT, f08c47fec0942fa0
+google.com, pub-5151291472053534, DIRECT, f08c47fec0942fa0
+google.com, pub-5135088971504972, DIRECT, f08c47fec0942fa0
+rubiconproject.com,208454,DIRECT,0bfd66d529a55807
+rubiconproject.com,10900,DIRECT,0bfd66d529a55807
+indexexchange.com,184929,DIRECT,50b1c356f2c5c8fc
+google.com, pub-3375315304218610, DIRECT, f08c47fec0942fa0
+ibillboard.com, 25894, DIRECT 
+stroeer.com, 14214 ,DIRECT
+indexexchange.com, 183592, RESELLER, 50b1c356f2c5c8fc
+Appnexus.com, 1371, RESELLER, f5ab79cb980f11d1
+contextweb.com, 558750, DIRECT, 89ff185a4c4e857c
+google.com, pub-5074983905023987, DIRECT, f08c47fec0942fa0
+google.com, pub-3012648745744414, DIRECT, f08c47fec0942fa0
+mgid.com, 5736608, DIRECT
+mgid.com, 5736619, DIRECT
+mgid.com, 5736770, DIRECT
+mgid.com, 5736771, DIRECT
+mgid.com, 5767946, DIRECT
+mgid.com, 5767956, DIRECT
+indexexchange.com, 180179, RESELLER, 50b1c356f2c5c8fc
+stroeer.com, 17445, DIRECT
+# end

@@ -1,0 +1,78 @@
+# globes.co.il
+
+waardex.com, 484, DIRECT
+google.com, pub-3547226160210749, DIRECT, f08c47fec0942fa0
+google.com, pub-1420539090378627, RESELLER, f08c47fec0942fa0 #banner
+google.com, pub-4860308463962512, DIRECT, f08c47fec0942fa0 (AdSense)
+sekindo.com, 2823, DIRECT #banner
+sekindo.com, 18345, DIRECT #banner
+sekindo.com, 12276, DIRECT #banner
+appnexus.com, 1940, RESELLER #banner (sekindo.com)
+potim.Market, 266658, Direct
+Spot.IM, 266658, Direct
+rubiconproject.com, 17184, DIRECT
+google.com, pub-5616046187545019, RESELLER
+openx.com, 539466082, RESELLER, 6a698e2ec38604c6
+appnexus.com, 6933, RESELLER
+appnexus.com, 3375, DIRECT #banner,outstream,native,app (il-x.co.il)
+google.com, pub-4491659496372172, DIRECT, f08c47fec0942fa0 #banner
+google.com, pub-7627650086895590, DIRECT #banner
+google.com, pub-3620763991134279, DIRECT, f08c47fec0942fa0 #banner (AdSense)
+taboola.com,561,DIRECT,c228e6794e811952 #native
+taboola.com,1052784,DIRECT,c228e6794e811952 #native
+spotx.tv,71451,RESELLER #Video
+spotxchange.com, 71451, RESELLER #Video
+btrll.com,6836204,RESELLER #Video
+pubmatic.com, 156307, RESELLER, 5d62403b186f2ace #Video
+pubmatic.com, 156368, RESELLER, 5d62403b186f2ace #Video
+appnexus.com, 3364, RESELLER #Video
+lkqd.com, 58, RESELLER, 59c49fa9598a0117 #Video
+lkqd.net, 58, RESELLER, 59c49fa9598a0117 #Video
+advertising.com, 3531, RESELLER #Video
+appnexus.com, 1908, RESELLER, f5ab79cb980f11d1 (sekindo)
+spotxchange.com, 84294, RESELLER, 7842df1d2fe2db34
+spotx.tv, 84294, RESELLER, 7842df1d2fe2db34
+lkqd.net, 244, RESELLER, 59c49fa9598a0117
+lkqd.com, 244, RESELLER, 59c49fa9598a0117
+taboola.com,1152770,DIRECT,c228e6794e811952
+taboola.com,1176132,DIRECT,c228e6794e811952
+taboola.com,1176138,DIRECT,c228e6794e811952
+# Valuad Start
+brightcom.com, 2141235, DIRECT
+google.com, pub-5231479214411897, RESELLER, f08c47fec0942fa0
+google.com, pub-4207323757133151, RESELLER, f08c47fec0942fa0
+indexexchange.com, 189744, RESELLER
+openx.com, 537153209, RESELLER, 6a698e2ec38604c6
+33across.com, 0013300001qkdlwAAA, RESELLER
+google.com, pub-9557089510405422, RESELLER, f08c47fec0942fa0
+adtech.com, 11208, RESELLER
+appnexus.com, 3153, RESELLER, f5ab79cb980f11d1
+gumgum.com,13798,RESELLER,ffdef49475d318a9
+rubiconproject.com, 20416, RESELLER, 0bfd66d529a55807
+sovrn.com, 270524, RESELLER, fafdf38b16bf6b2b
+lijit.com, 270524, RESELLER, fafdf38b16bf6b2b
+33across.com,0010b00001u6f1nAAA, RESELLER
+smartadserver.com, 2995, RESELLER
+rubiconproject.com, 16114, RESELLER, 0bfd66d529a55807
+appnexus.com, 3703, RESELLER, f5ab79cb980f11d1
+sovrn.com, 272070, DIRECT, fafdf38b16bf6b2b
+lijit.com, 272070, DIRECT, fafdf38b16bf6b2b
+lijit.com, 272070-eb, DIRECT, fafdf38b16bf6b2b
+appnexus.com, 1360, RESELLER, f5ab79cb980f11d1
+gumgum.com, 11645, RESELLER, ffdef49475d318a9
+openx.com, 538959099, RESELLER, 6a698e2ec38604c6
+openx.com, 539924617, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 137711, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156212, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156700, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 17960, RESELLER, 0bfd66d529a55807
+appnexus.com, 10479, DIRECT
+rubiconproject.com, 16944, RESELLER, 0bfd66d529a55807
+districtm.io, 100802, DIRECT, 3fd707be9c4527c3
+appnexus.com, 1908, RESELLER, f5ab79cb980f11d1
+google.com, pub-9685734445476814, RESELLER, f08c47fec0942fa0
+indexexchange.com, 187386, RESELLER
+openx.com, 540173408, DIRECT
+sekindo.com, 28609, DIRECT
+sekindo.com, 28613, DIRECT
+# Valuad End

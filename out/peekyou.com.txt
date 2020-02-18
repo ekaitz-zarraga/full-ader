@@ -1,0 +1,35 @@
+google.com, pub-5028831864321001, DIRECT, f08c47fec0942fa0
+google.com, pub-2699582672565328, DIRECT, f08c47fec0942fa0
+x.fidelity-media.com, 4161, DIRECT
+contextweb.com, 562032, DIRECT, 89ff185a4c4e857c
+appnexus.com, 10039, RESELLER
+beachfront.com, 4969, RESELLER, e2541279e8e2ca4d
+advertising.com, 26282, RESELLER
+pubmatic.com, 157310, RESELLER, 5d62403b186f2ace
+rhythmone.com, 2968119028, DIRECT, a670c89d4a324e47
+spotxchange.com, 239904, RESELLER, 7842df1d2fe2db34
+spotx.tv, 239904, RESELLER, 7842df1d2fe2db34
+supply.colossusssp.com, 38, DIRECT
+appnexus.com, 10490, RESELLER
+imonomy.com, 2497, RESELLER
+google.com, ca-pub-9217158075934613, RESELLER, f08c47fec0942fa0
+openx.com, 537104839, RESELLER, 6a698e2ec38604c6
+gothamads.com, 67, RESELLER
+smartyads.com, 144, RESELLER
+rubiconproject.com, 16414, RESELLER, 0bfd66d529a55807  #hb #tag
+rubiconproject.com, 21434, RESELLER, 0bfd66d529a55807  #tag #ebda
+pubmatic.com, 156423, RESELLER, 5d62403b186f2ace #hb #tag
+pubmatic.com, 158136, RESELLER, 5d62403b186f2ace  EU #hb #tag
+pubmatic.com, 158569, RESELLER, 5d62403b186f2ace #tag #ebda
+appnexus.com, 10239, RESELLER, f5ab79cb980f11d1  #hb #tag
+appnexus.com, 1001, RESELLER, f5ab79cb980f11d1  #tag
+appnexus.com, 3135, RESELLER, f5ab79cb980f11d1  #tag
+openx.com, 537120563, RESELLER, 6a698e2ec38604c6 #hb #tag
+openx.com, 539392223, RESELLER, 6a698e2ec38604c6 #tag #ebda
+33across.com, 0010b000018ldWcAAI, DIRECT, bbea06d9c4d2853c  #hb #tag
+rhythmone.com, 2439829435, RESELLER, a670c89d4a324e47 #hb #tag
+emxdgt.com, 326, RESELLER, 1e1d41537f7cad7f #hb #tag
+adtech.com, 12094, RESELLER #hb #tag
+adtech.com, 9993, RESELLER #tag
+advangelists.com, 8d3bba7425e7c98c50f52ca1b52d3735, RESELLER, 60d26397ec060f98  #hb #tag
+google.com, pub-9557089510405422, RESELLER, f08c47fec0942fa0 #tag

@@ -1,0 +1,105 @@
+
+#SVORN #######################################################################
+sovrn.com, 251633, DIRECT, fafdf38b16bf6b2b
+lijit.com, 251633, DIRECT, fafdf38b16bf6b2b
+gumgum.com, 11645, RESELLER, ffdef49475d318a9
+openx.com, 537120960, RESELLER
+openx.com, 83499, RESELLER
+openx.com, 538959099, RESELLER
+pubmatic.com, 137711, RESELLER
+pubmatic.com, 156212, RESELLER
+pubmatic.com, 62483, RESELLER
+contextweb.com, 558511, RESELLER
+
+#TRIBAL ######################################################################
+exponential.com, 17580, DIRECT, afac06385c445926
+tribalfusion.com, 17580, DIRECT, afac06385c445926
+indexexchange.com, 176280, RESELLER, 50b1c356f2c5c8fc
+google.com, pub-2051007210431666, RESELLER, f08c47fec0942fa0
+
+#GOOGLE ADSENSE ###############################################################
+google.com, pub-5161362207378318, DIRECT, f08c47fec0942fa0
+
+#MEDIA.NET #####################################################################
+Google.com, pub-7439041255533808, Reseller
+Media.net, 8CUTNDD1Q, Direct
+OpenX.com, 537100188, Reseller
+
+#JUSTPREMIUM ####################################################################
+improvedigital.com, 185, Reseller
+spotx.tv, 108933, Reseller, 7842df1d2fe2db34
+spotxchange.com, 108933, Reseller, 7842df1d2fe2db34
+appnexus.com, 7118, Reseller
+openx.com, 537120584, Reseller,	6a698e2ec38604c6
+openx.com, 537123540, Reseller, 6a698e2ec38604c6
+openx.com, 537117444, Reseller,	6a698e2ec38604c6
+openx.com, 537120117, Reseller,	6a698e2ec38604c6
+openx.com, 537119311, Reseller,	6a698e2ec38604c6
+openx.com, 537120571, Reseller,	6a698e2ec38604c6
+openx.com, 537116746, Reseller,	6a698e2ec38604c6
+openx.com, 537118780, Reseller,	6a698e2ec38604c6
+openx.com, 537117448, Reseller,	6a698e2ec38604c6
+openx.com, 537117436, Reseller,	6a698e2ec38604c6
+openx.com, 537117434, Reseller,	6a698e2ec38604c6
+openx.com, 537143660, Reseller,	6a698e2ec38604c6
+openx.com, 537117297, Reseller,	6a698e2ec38604c6
+openx.com, 537118040, Reseller,	6a698e2ec38604c6
+openx.com, 539167032, Reseller,	6a698e2ec38604c6
+openx.com, 537120570, Reseller,	6a698e2ec38604c6
+openx.com, 537145991, Reseller,	6a698e2ec38604c6
+openx.com, 537120572, Reseller,	6a698e2ec38604c6
+openx.com, 537117497, Reseller,	6a698e2ec38604c6
+openx.com, 537118043, Reseller,	6a698e2ec38604c6
+openx.com, 537117365, Reseller,	6a698e2ec38604c6
+openx.com, 537143661, Reseller,	6a698e2ec38604c6
+openx.com, 537118048, Reseller,	6a698e2ec38604c6
+openx.com, 537139815, Reseller,	6a698e2ec38604c6
+openx.com, 537120573, Reseller,	6a698e2ec38604c6
+openx.com, 537117364, Reseller,	6a698e2ec38604c6
+openx.com, 537120574, Reseller,	6a698e2ec38604c6
+openx.com, 537123495, Reseller,	6a698e2ec38604c6
+openx.com, 537120575, Reseller,	6a698e2ec38604c6
+openx.com, 537120576, Reseller,	6a698e2ec38604c6
+openx.com, 537149830, Reseller,	6a698e2ec38604c6
+openx.com, 537120578, Reseller,	6a698e2ec38604c6
+openx.com, 537118056, Reseller,	6a698e2ec38604c6
+openx.com, 537117371, Reseller,	6a698e2ec38604c6
+openx.com, 537116744, Reseller,	6a698e2ec38604c6
+openx.com, 537118047, Reseller,	6a698e2ec38604c6
+openx.com, 537120579, Reseller,	6a698e2ec38604c6
+openx.com, 537123577, Reseller,	6a698e2ec38604c6
+openx.com, 537117435, Reseller,	6a698e2ec38604c6
+openx.com, 537147016, Reseller,	6a698e2ec38604c6
+openx.com, 537117441, Reseller,	6a698e2ec38604c6
+openx.com, 537117983, Reseller,	6a698e2ec38604c6
+openx.com, 537120581, Reseller,	6a698e2ec38604c6
+openx.com, 537120195, Reseller,	6a698e2ec38604c6
+openx.com, 537120568, Reseller,	6a698e2ec38604c6
+openx.com, 537118039, Reseller,	6a698e2ec38604c6
+openx.com, 537120583, Reseller,	6a698e2ec38604c6
+openx.com, 537118053, Reseller,	6a698e2ec38604c6
+openx.com, 537116751, Reseller,	6a698e2ec38604c6
+openx.com, 537117145, Reseller,	6a698e2ec38604c6
+openx.com, 537120194, Reseller,	6a698e2ec38604c6
+openx.com, 539521480, RESELLER, 6a698e2ec38604c6
+improvedigital.com, 185, RESELLER
+spotxchange.com, 108933, RESELLER, 7842df1d2fe2db34
+appnexus.com, 7118, RESELLER
+openx.com, 537117145, RESELLER, 6a698e2ec38604c6     #US
+improvedigital.com, 185, RESELLER
+spotx.tv, 108933, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 108933, RESELLER, 7842df1d2fe2db34
+appnexus.com, 7118, RESELLER 
+openx.com, 539521480, RESELLER, 6a698e2ec38604c6
+appnexus.com, 7118, RESELLER
+spotx.tv, 108933, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 108933, RESELLER, 7842df1d2fe2db34
+improvedigital.com, 185, RESELLER
+adform.com, 183, RESELLER
+freewheel.tv, 33081, RESELLER
+freewheel.tv, 33601, RESELLER
+google.com, pub-8172268348509349, RESELLER, f08c47fec0942fa0
+
+
+
+

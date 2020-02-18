@@ -1,0 +1,30 @@
+#adf
+google.com, pub-7939627363540437, RESELLER, f08c47fec0942fa0
+google.com, pub-6882178214885631, RESELLER, f08c47fec0942fa0
+pubmatic.com, 158160, RESELLER, 5d62403b186f2ace #prebid
+pubmatic.com, 158130, RESELLER, 5d62403b186f2ace #EBDA
+indexexchange.com, 191000, RESELLER
+spotxchange.com, 220214, RESELLER, 7842df1d2fe2db34
+spotx.tv, 220214, RESELLER, 7842df1d2fe2db34
+smartclip.net, 10276, RESELLER
+
+#ADAPT
+appnexus.com, 7463, RESELLER
+google.com, pub-5854238349292660, RESELLER, f08c47fec0942fa0
+improvedigital.com, 1069, RESELLER
+improvedigital.com, 73, RESELLER
+
+#RTL
+google.com, pub-6314268417882445, RESELLER, f08c47fec0942fa0
+spotxchange.com, 102387, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 150897, RESELLER, 7842df1d2fe2db34
+spotx.tv, 102387, RESELLER, 7842df1d2fe2db34
+spotx.tv, 150897, RESELLER, 7842df1d2fe2db34
+
+#plista
+plista.com, 31342, RESELLER
+appnexus.com, 7456, RESELLER
+appnexus.com, 7790, RESELLER
+
+contact=p3@adfactor.nl
+contact=https://adfactor.nl

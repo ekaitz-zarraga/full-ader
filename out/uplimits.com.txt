@@ -1,0 +1,54 @@
+# Ads.txt file for uplimits.com
+
+#BCM
+google.com, pub-3775738955018489, RESELLER, f08c47fec0942fa0
+google.com, pub-4279315068583694, RESELLER, f08c47fec0942fa0
+google.com, pub-3775738955018489, RESELLER, f08c47fec0942fa0
+appnexus.com, 8610, RESELLER, f5ab79cb980f11d1
+indexexchange.com, 189451, RESELLER
+indexexchange.com, 189448, RESELLER
+openx.com, 540338038, RESELLER, 6a698e2ec38604c6
+openx.com, 540447827, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 157530, RESELLER, 5d62403b186f2ace
+pubmatic.com, 158091, RESELLER, 5d62403b186f2ace
+rhythmone.com, 3093722432, RESELLER, a670c89d4a324e47
+districtm.io, 101848, DIRECT, 3fd707be9c4527c3
+appnexus.com, 1908, RESELLER, f5ab79cb980f11d1
+google.com, pub-9685734445476814, RESELLER, f08c47fec0942fa0
+sovrn.com, 270069, DIRECT, fafdf38b16bf6b2b
+lijit.com, 270069, DIRECT, fafdf38b16bf6b2b
+appnexus.com, 1360, RESELLER, f5ab79cb980f11d1
+gumgum.com, 11645, RESELLER, ffdef49475d318a9
+openx.com, 538959099, RESELLER, 6a698e2ec38604c6
+openx.com, 539924617, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 137711, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156212, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156700, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 17960, RESELLER, 0bfd66d529a55807
+vdopia.com, 14633, DIRECT, 49a66ce31a704197 
+chocolateplatform.com, 14633, DIRECT, 49a66ce31a704197
+
+# Adsense
+google.com, pub-4021257224748913, DIRECT, f08c47fec0942fa0
+
+# Taboola
+taboola.com,1180529,DIRECT,c228e6794e811952
+spotx.tv,71451,RESELLER
+spotxchange.com, 71451, RESELLER
+advertising.com, 8603, RESELLER
+advertising.com, 3531, RESELLER
+pubmatic.com, 156307, RESELLER, 5d62403b186f2ace
+appnexus.com, 3364, RESELLER
+Indexexchange.com, 183756, RESELLER
+contextweb.com, 560382, RESELLER
+openx.com, 539154393, RESELLER
+tremorhub.com, z87wm, RESELLER, 1a4e959a1b50034a
+rubiconproject.com, 16698, RESELLER, 0bfd66d529a55807
+fyber.com, ad9de41d28d494354b23133f26f83122, RESELLER
+fyber.com, 1a12a7e3f84fe560ccf95a3a73043abb, RESELLER
+
+#Adyoulike
+
+adyoulike.com, 053043508cd46a2f7665d7ae415cf78b, DIRECT
+appnexus.com, 9733, RESELLER
+rubiconproject.com, 20736, RESELLER, 0bfd66d529a55807

@@ -1,0 +1,19 @@
+#ads.txt for ebay.ca
+
+adtech.com, 12006, DIRECT
+adtech.com, 9970, DIRECT
+appnexus.com, 4058, DIRECT
+districtm.io, 100245, DIRECT
+google.com, pub-0457963806860763, DIRECT, f08c47fec0942fa0
+google.com, pub-5659916303458923, DIRECT, f08c47fec0942fa0
+google.com, pub-6121793974718233, DIRECT, f08c47fec0942fa0
+google.com, pub-7802010268608699, DIRECT, f08c47fec0942fa0
+indexexchange.com, 183985, DIRECT, 50b1c356f2c5c8fc
+indexexchange.com, 184648, DIRECT, 50b1c356f2c5c8fc
+openx.com, 537136354, DIRECT, 6a698e2ec38604c6
+pubmatic.com, 155984, DIRECT, 5d62403b186f2ace
+pubmatic.com, 156150, DIRECT, 5d62403b186f2ace
+rubiconproject.com, 12230, DIRECT, 0bfd66d529a55807
+rubiconproject.com, 209119, DIRECT, 0bfd66d529a55807
+
+# Generated: 10/09/2019 13:47 -0500

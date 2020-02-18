@@ -1,0 +1,44 @@
+#Ads.txt slashdot.org
+
+google.com, pub-6796927162393737, DIRECT, f08c47fec0942fa0
+google.com, pub-6471043051383295, DIRECT, f08c47fec0942fa0
+google.com, pub-0357813009585200, DIRECT, f08c47fec0942fa0
+google.com, pub-7940484522588532, DIRECT, f08c47fec0942fa0
+rubiconproject.com, 15680, DIRECT, 0bfd66d529a55807
+contextweb.com, 558092, DIRECT
+adtech.com, 10676, DIRECT
+aolcloud.net, 10676, DIRECT
+EMXDGT.com, 165, DIRECT, 1e1d41537f7cad7f
+appnexus.com, 6907, DIRECT
+sovrn.com, 223717, DIRECT, fafdf38b16bf6b2b
+lijit.com, 223717, DIRECT, fafdf38b16bf6b2b
+openx.com, 537120960, RESELLER
+openx.com, 83499, RESELLER
+openx.com, 538959099, RESELLER
+pubmatic.com, 137711, RESELLER
+pubmatic.com, 156212, RESELLER
+pubmatic.com, 62483, RESELLER
+contextweb.com, 558511, RESELLER
+taboola.com, 1010703, DIRECT, c228e6794e811952
+taboola.com, 1010703, RESELLER, c228e6794e811952
+spotx.tv, 71451, RESELLER
+spotxchange.com, 71451, RESELLER
+advertising.com, 8603, RESELLER
+pubmatic.com, 156307, RESELLER, 5d62403b186f2ace
+appnexus.com, 3364, RESELLER
+Indexexchange.com, 183756, RESELLER
+contextweb.com, 560382, RESELLER
+tremorhub.com, z87wm, RESELLER, 1a4e959a1b50034a
+rubiconproject.com, 16698, RESELLER, 0bfd66d529a55807
+fyber.com, ad9de41d28d494354b23133f26f83122, RESELLER
+fyber.com, 1a12a7e3f84fe560ccf95a3a73043abb, RESELLER
+districtm.io, 101054, DIRECT
+appnexus.com, 1908, RESELLER
+appnexus.com, 7944, RESELLER
+appnexus.com, 3153, RESELLER, f5ab79cb980f11d1
+adtech.com, 11095, RESELLER
+coxmt.com, 2000067907202, RESELLER
+Openx.com, 537143344, RESELLER
+Indexexchange.com, 175407, RESELLER
+Appnexus.com, 1356, RESELLER, f5ab79cb980f11d1
+Google.com, pub-5995202563537249, RESELLER, f08c47fec0942fa0

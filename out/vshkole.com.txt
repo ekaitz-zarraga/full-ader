@@ -1,0 +1,9 @@
+#ads.txt      vshkole.com
+
+admixer.net, 3651ecc5-c3cc-4f07-804f-ac9366c2398e, direct
+google.com, pub-2981735884139049, direct, f08c47fec0942fa0
+google.com, pub-4475970781063757, direct, f08c47fec0942fa0 
+google.com, pub-3379969116950199, reseller, f08c47fec0942fa0
+smartadserver.com, 1994, reseller
+appnexus.com, 6953, reseller
+adform.com, 1762, reseller

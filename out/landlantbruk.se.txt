@@ -1,0 +1,19 @@
+#Adviser
+adform.com, 661, RESELLER 
+rubiconproject.com, 14668, RESELLER 
+appnexus.com, 8806, RESELLER, f5ab79cb980f11d1 
+
+#Keymobile
+adform.com, 582, RESELLER, 9f5210a2f0999e32
+rubiconproject.com, 17310, RESELLER, 0bfd66d529a55807
+google.com, pub-1483186529645269, RESELLER, f08c47fec0942fa0
+
+#widespace
+widespace.com, 3479, DIRECT
+
+#Improve
+improvedigital.com, 1516, RESELLER
+
+#Leeads SE
+rubiconproject.com, 12032, RESELLER
+adform.com,125, RESELLER

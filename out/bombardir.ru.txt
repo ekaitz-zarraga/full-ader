@@ -1,0 +1,8 @@
+#ads.txt bombardir.ru
+
+google.com, pub-8251743169282496, RESELLER, f08c47fec0942fa0
+google.com, pub-6964181501766062, DIRECT, f08c47fec0942fa0
+
+#CLICKIO
+google.com, pub-3104790387792468, RESELLER, f08c47fec0942fa0
+clickio.com, 123473, DIRECT

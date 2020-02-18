@@ -1,0 +1,9 @@
+# ads.txt OMCON24
+google.com, pub-2463933962219177, DIRECT, f08c47fec0942fa0
+google.com, pub-2314793408715853, DIRECT, f08c47fec0942fa0
+appnexus.com, 3702, RESELLER, f5ab79cb980f11d1
+# ads.txt Vibrant
+vibrantmedia.com,3230,reseller
+appnexus.com,2154,reseller
+criteo.com,146785,direct
+contextweb.com,561689,RESELLER,89ff185a4c4e857c

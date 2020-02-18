@@ -1,0 +1,29 @@
+
+google.com, pub-3100957049916072 , DIRECT, f08c47fec0942fa0
+appnexus.com, 6882, DIRECT
+openx.com, 537099353, DIRECT, 6a698e2ec38604c6
+
+
+
+
+
+
+#PREBID
+adtech.com, 4596, DIRECT # AOL Hbidding
+appnexus.com, 806, DIRECT # Appnexus Hbidding
+aolcloud.net, 4596, DIRECT # AOL Hbidding
+sonobi.com, 116da9d98c, DIRECT # Sonobi Hbidding
+sovrn.com, 237754, DIRECT, fafdf38b16bf6b2b # Sovrn Hbidding
+indexexchange.com, 183921, DIRECT # Index Hbidding
+improvedigital.com, 1012, DIRECT # ImproveD Hbidding
+districtm.io, 100749, DIRECT #DM direct Hbidding
+appnexus.com, 1908, RESELLER #DM reseller Hbidding
+appnexus.com, 7944, RESELLER #DM reseller Hbidding
+conversantmedia.com, 41150, DIRECT # Conversant Hbidding
+sovrn.com, 237754, DIRECT, fafdf38b16bf6b2b # Sovrn Hbidding
+1rx.io, 1155926068, DIRECT, a670c89d4a324e47 #Rone Hbidding
+openx.com, 537144009, DIRECT, 6a698e2ec38604c6 #OpenX Hbidding
+pubmatic.com, 155988, DIRECT, 5d62403b186f2ace #Pubmatic Hbidding
+rubiconproject.com, 13762, DIRECT, 0bfd66d529a55807 # Rubicon Hbidding
+rhythmone.com, 1155926068, DIRECT, a670c89d4a324e47 #Rone Hbidding
+rhythmone.com, 608304513, DIRECT, a670c89d4a324e47 #Rone Hbidding

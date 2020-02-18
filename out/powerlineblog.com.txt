@@ -1,0 +1,28 @@
+#Publir
+c.amazon-adsystem.com, 600, DIRECT
+google.com, pub-8006908682726742, RESELLER, f08c47fec0942fa0 
+openx.com, 537126972, RESELLER, 6a698e2ec38604c6
+openx.com, 537126973, RESELLER, 6a698e2ec38604c6
+brightcom.com, 2140991, DIRECT 
+aolcloud.net, 11099.1, RESELLER
+advertising.com, 2270, RESELLER
+appnexus.com, 2669, RESELLER
+emxdgt.com, 314, DIRECT, 1e1d41537f7cad7f
+adbrainer.com, 2020021510260208, DIRECT
+adbrainer.com, 2020021510260208, RESELLER
+adform.com, 1762, RESELLER
+admixer.net, df654b6f-abac-430f-a67e-867b8ac0916b, DIRECT
+appnexus.com, 6953, RESELLER
+contextweb.com, 561623, RESELLER, 89ff185a4c4e857c
+google.com, pub-3379969116950199, RESELLER, f08c47fec0942fa0
+google.com, pub-3737030722290655, DIRECT, f08c47fec0942fa0
+google.com, pub-6032120848802963, DIRECT, f08c47fec0942fa0
+google.com, pub-8834194653550774, RESELLER, f08c47fec0942fa0
+mgid.com, 57005773, DIRECT
+smartadserver.com, 1994, RESELLER
+smartyads.com, 16, RESELLER
+
+
+#PLB
+google.com, pub-6876617815831525, DIRECT, f08c47fec0942fa0
+amazon-adsystem.com, 320, DIRECT

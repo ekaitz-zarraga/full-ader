@@ -1,0 +1,103 @@
+# Conversant Media (12/20/2017)
+conversantmedia.com, 7817, DIRECT, 03113cd04947736d
+appnexus.com, 4052, RESELLER
+
+# SOVRN (12/8/2017)	
+sovrn.com, 50987, DIRECT, fafdf38b16bf6b2b
+lijit.com, 50987, DIRECT, fafdf38b16bf6b2b
+gumgum.com, 11645, RESELLER, ffdef49475d318a9
+openx.com, 537120960, RESELLER
+openx.com, 83499, RESELLER
+openx.com, 538959099, RESELLER
+pubmatic.com, 137711, RESELLER
+pubmatic.com, 156212, RESELLER
+pubmatic.com, 62483, RESELLER
+contextweb.com, 558511, RESELLER 
+
+# SOVRN (8/27/2019)	
+sovrn.com, 50987, DIRECT, fafdf38b16bf6b2b
+lijit.com, 50987, DIRECT, fafdf38b16bf6b2b
+lijit.com, 50987-eb, DIRECT, fafdf38b16bf6b2b
+appnexus.com, 1360, RESELLER, f5ab79cb980f11d1
+gumgum.com, 11645, RESELLER, ffdef49475d318a9
+openx.com, 538959099, RESELLER, 6a698e2ec38604c6
+openx.com, 539924617, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 137711, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156212, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156700, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 17960, RESELLER, 0bfd66d529a55807
+
+# DistrictM (Requested add: 11/28/2017)
+adtech.com, 10266, RESELLER
+aol.com, 10266, RESELLER
+
+# DistrictM Original
+districtm.io, 100756, DIRECT
+appnexus.com, 7944, RESELLER
+appnexus.com, 1908, RESELLER
+
+# DistrictM added 8/11/2019
+districtm.io, 100756, DIRECT, 3fd707be9c4527c3
+appnexus.com, 1908, RESELLER, f5ab79cb980f11d1
+google.com, pub-9685734445476814, RESELLER, f08c47fec0942fa0
+
+# Exponential/TF - NON-WORDTWIST SITES (11/9/2017)
+exponential.com, 53070, DIRECT, afac06385c445926
+tribalfusion.com, 53070, DIRECT, afac06385c445926
+
+# Exponential/TF - GLOBAL
+indexexchange.com, 176280, RESELLER, 50b1c356f2c5c8fc
+google.com, pub-2051007210431666, RESELLER, f08c47fec0942fa0
+
+# Google Adsense
+google.com, pub-4299038234759171, DIRECT, f08c47fec0942fa0
+
+# GumGum
+gumgum.com, 1000657, RESELLER, ffdef49475d318a9
+
+# Arkadium
+google.com, pub-1995032544933848, DIRECT, f08c47fec0942fa0
+exponential.com, 151520, DIRECT, afac06385c445926
+indexexchange.com, 184999, DIRECT
+rubiconproject.com, 17214, DIRECT
+aps.amazon.com, 661990cc-08cb-45bb-9ee2-90c2a9034640, DIRECT
+adtech.com, 10469, DIRECT
+sovrn.com, 239073, DIRECT, fafdf38b16bf6b2b
+appnexus.com, 7541, DIRECT
+openx.com, 537120530, RESELLER, 6a698e2ec38604c6
+tremorhub.com, f40lx-dal6y, RESELLER, 1a4e959a1b50034a
+
+#OAuth
+adtech.com, 10894, direct
+coxmt.com, 2000067907202, Reseller
+pubmatic.com, 156078, Reseller
+pubmatic.com, 156377, Reseller
+pubmatic.com, 155967, Reseller
+openx.com, 537143344, Reseller
+indexexchange.com, 175407, Reseller
+openx.com, 537125356, Reseller
+
+#Amazon UAM
+aps.amazon.com, 5faa8342-1404-4bad-97c1-e94b574e7470, DIRECT #display
+contextweb.com, 561562, RESELLER, 89ff185a4c4e857 #display
+c1exchange.com, c1x_a9_uampubs, RESELLER #display
+coxmt.com, 2000068024302, RESELLER #display
+adtech.com,12068,RESELLER
+districtm.io,100962,RESELLER,3fd707be9c4527c3
+rhythmone.com,1654642120,RESELLER,a670c89d4a324e47
+appnexus.com, 1908, RESELLER, f5ab79cb980f11d1 #display
+adtech.com,12068,RESELLER,e1a5b5b6e3255540
+
+pubmatic.com,157150,RESELLER,5d62403b186f2ace
+openx.com,540191398,RESELLER,6a698e2ec38604c6
+rubiconproject.com,18020,RESELLER,0bfd66d529a55807
+yldbt.com,5b522cc167f6b300b89dc6d3,RESELLER,cd184cb30abaabb5
+conversantmedia.com, 7817, DIRECT, 03113cd04947736d
+appnexus.com, 4052, RESELLER
+openx.com, 540031703, RESELLER, 6a698e2ec38604c6
+
+# Amazon UAM, added 10/25/19
+ad-generation.jp,12474,RESELLER
+
+# Amazon UAM, added 12/2/19
+appnexus.com,3663,RESELLER,f5ab79cb980f11d1

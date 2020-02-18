@@ -1,0 +1,26 @@
+#revcontent
+revcontent.com, 108239, DIRECT
+appnexus.com, 7666, RESELLER, f5ab79cb980f11d1
+rubiconproject.com, 156042, RESELLER, 0bfd66d529a55807
+my6sense.com, 9732, RESELLER
+criteo.com, 7822, RESELLER
+
+#increaserev
+increaserev.com 234234, DIRECT
+google.com, pub-5918552270747313, RESELLER, f08c47fec0942fa0
+google.com, pub-1937576406332709, RESELLER, f08c47fec0942fa0
+google.com, pub-7002491002409919, RESELLER, f08c47fec0942fa0
+google.com, pub-3958635835380150, DIRECT, f08c47fec0942fa0
+google.com, pub-9326071770086369, DIRECT, f08c47fec0942fa0
+google.com, pub-6095998129303807, DIRECT, f08c47fec0942fa0
+google.com, pub-9031689156885069, RESELLER, f08c47fec0942fa0
+
+#mahimeta
+google.com, pub-7733626117287363, RESELLER, f08c47fec0942fa0
+google.com, pub-5454875279695201, RESELLER, f08c47fec0942fa0
+google.com, pub-8834194653550774, RESELLER, f08c47fec0942fa0
+google.com, pub-8834194653550774, DIRECT, f08c47fec0942fa0
+google.com, pub-6070398767421094, RESELLER, f08c47fec0942fa0
+google.com, pub-8933329999391104, RESELLER, f08c47fec0942fa0
+google.com, pub-7352654209508375, DIRECT, f08c47fec0942fa0
+google.com, pub-2027121672738964, DIRECT, f08c47fec0942fa0

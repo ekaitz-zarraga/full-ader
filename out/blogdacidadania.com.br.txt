@@ -1,0 +1,104 @@
+google.com, pub-2845463438153782, DIRECT, f08c47fec0942fa0
+google.com, pub-5822243610880583, DIRECT, f08c47fec0942fa0
+appnexus.com, 8473, DIRECT, f5ab79cb980f11d1
+freewheel.tv, 738114, RESELLER
+freewheel.tv, 738418, RESELLER
+outbrain.com, 00e89f91e37db79dacc76221afddcbe0e6, DIRECT
+outbrain.com, 00e89f91e37db79dacc76221afddcbe0e6, RESELLER
+appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
+tremorhub.com, q017o-78mlk, RESELLER, 1a4e959a1b50034a # Premium video demand aka &quot;Telaria&quot;
+teads.tv, 15429, RESELLER, 15a9c44f6d26cbe1 # Premium video demand
+advertising.com, 26154, RESELLER # Premium video demand
+spotxchange.com, 225721, RESELLER # Premium video demand
+Freewheel.tv, 741650, RESELLER # Premium video demand
+teads.tv, 16210, DIRECT, 15a9c44f6d26cbe1
+truvid.com, 293, RESELLER
+truvidplayer.com, 293, RESELLER
+advertising.com, 7039, RESELLER
+lkqd.com, 16, RESELLER , 59c49fa9598a0117
+lkqd.net, 16, RESELLER , 59c49fa9598a0117
+spotxchange.com, 79977, RESELLER, 7842df1d2fe2db34
+spotx.tv, 79977, RESELLER, 7842df1d2fe2db34
+springserve.com, 43, RESELLER, a24eb641fc82e93d
+rubiconproject.com, 17412, RESELLER, 0bfd66d529a55807
+google.com, pub-2370948078851435, RESELLER, f08c47fec0942fa0
+
+
+
+
+#juicebar
+advertising.com, 28377, reseller #Verizon
+rubiconproject.com, 17412, RESELLER, 0bfd66d529a55807
+smartadserver.com, 3356, DIRECT
+appnexus.com, 9393, DIRECT
+google.com, pub-9341661452948405, RESELLER, f08c47fec0942fa0
+google.com, pub-4903453974745530, RESELLER, f08c47fec0942fa0
+contextweb.com, 562049, DIRECT, 89ff185a4c4e857c
+
+#taboola
+taboola.com, 1259336, DIRECT, c228e6794e811952
+rhythmone.com, 1166984029, RESELLER, a670c89d4a324e47 
+taboola.com,1188579,DIRECT,c228e6794e811952
+spotx.tv,71451,RESELLER
+spotxchange.com, 71451, RESELLER
+advertising.com, 8603, RESELLER
+pubmatic.com, 156307, RESELLER, 5d62403b186f2ace
+appnexus.com, 3364, RESELLER
+Indexexchange.com, 183756, RESELLER
+contextweb.com, 560382, RESELLER
+openx.com, 539154393, RESELLER
+tremorhub.com, z87wm, RESELLER, 1a4e959a1b50034a
+rubiconproject.com, 16698, RESELLER, 0bfd66d529a55807
+freewheel.tv, 799841, RESELLER 
+freewheel.tv, 799921, RESELLER 
+aol.com, 53392, RESELLER 
+rhythmone.com, 1166984029, RESELLER, a670c89d4a324e47
+#update taboola 2019-10-28
+inmobi.com, a985e39014a94721a8e97c929d32ef9d, RESELLER, 83e75a7ae333ca9d
+smartadserver.com, 3563, RESELLER
+pubnative.net, 1007180, RESELLER, d641df8625486a7b
+beachfront.com, 13749, RESELLER, e2541279e8e2ca4d
+advertising.com, 28458, RESELLER
+admanmedia.com, 556, RESELLER
+
+#truvideo
+advertising.com, 28377, reseller
+smartclip.net, 11185, DIRECT
+appnexus.com, 1024, RESELLER, f5ab79cb980f11d1
+
+#vidoomy
+vidoomy.com, 52453, DIRECT
+openx.com, 540804929, RESELLER, 6a698e2ec38604c6
+advertising.com, 22762, RESELLER
+aol.com, 22762, RESELLER
+advertising.com, 26631, RESELLER
+appnexus.com, 2081, RESELLER, f5ab79cb980f11d1
+appnexus.com, 1908, RESELLER, f5ab79cb980f11d1
+appnexus.com, 3703, RESELLER, f5ab79cb980f11d1
+appnexus.com, 9923, RESELLER, f5ab79cb980f11d1
+appnexus.com, 10451, RESELLER
+beachfront.com, 6547, RESELLER
+contextweb.com, 560288, RESELLER, 89ff185a4c4e857c
+contextweb.com, 561252, RESELLER, 89ff185a4c4e857c
+districtm.io, 101540, DIRECT 
+fyber.com, 1236fbff61fdf8859e37831848a42ee5, RESELLER
+lkqd.com, 430, RESELLER, 59c49fa9598a0117
+lkqd.net, 430, RESELLER, 59c49fa9598a0117
+openx.com, 537149888, RESELLER, 6a698e2ec38604c6 
+pubmatic.com, 154037, RESELLER
+pubmatic.com, 156498, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156439, RESELLER
+tremorhub.com, 4cywq-a04wk, RESELLER, 1a4e959a1b50034a
+rubiconproject.com, 16114, RESELLER, 0bfd66d529a55807
+smartclip.net, 10180, DIRECT
+spotxchange.com, 218443, RESELLER, 7842df1d2fe2db34
+spotx.tv, 218443, RESELLER, 7842df1d2fe2db34
+sovrn.com, 257611, RESELLER, fafdf38b16bf6b2b 
+smartadserver.com, 1963, RESELLER
+smartadserver.com, 3136, RESELLER
+smartadserver.com, 3276,RESELLER
+freewheel.tv, 954753, RESELLER 
+freewheel.tv, 969265, RESELLER
+rhythmone.com, 4107953657, reseller
+adtech.com, 11303, reseller
+openx.com, 540804929, RESELLER, 6a698e2ec38604c6

@@ -1,0 +1,39 @@
+#runnerclick.com
+google.com, pub-1101963854701263, DIRECT, f08c47fec0942fa0
+google.com, pub-5874599704080407, RESELLER, f08c47fec0942fa0 # RTK ADX
+
+# STRIKE NETWORK ===========
+switchconcepts.com, U3dpdGNo-a25, DIRECT
+rubiconproject.com, 14766, RESELLER
+pubmatic.com, 30666, RESELLER, 5d62403b186f2ace
+appnexus.com, 1117, RESELLER
+thetradedesk.com, switchconcepts, RESELLER
+taboola.com, switchconceptopenrtb, RESELLER
+EMXDGT.com, 59, DIRECT, 1e1d41537f7cad7f
+appnexus.com, 1356, RESELLER, f5ab79cb980f11d1
+contextweb.com, 560031, RESELLER
+amazon-adsystem.com, 3160, RESELLER
+crimtan.com, switch, RESELLER
+quantcast.com, switchconcepts , RESELLER
+rhythmone.com, 1934627955, RESELLER
+ssphwy.com, switchconcepts, RESELLER
+google.com, pub-3515913239267445, DIRECT, f08c47fec0942fa0
+sovrn.com, 96786, RESELLER, fafdf38b16bf6b2b
+indexexchange.com, 180008, RESELLER
+nativeads.com, 52853, RESELLER
+theagency.com, 1058, RESELLER
+experian.com, 0001, RESELLER
+# /STRIKE NETWORK ===========
+
+# SOVRN ===========
+sovrn.com, 261741, RESELLER, fafdf38b16bf6b2b
+lijit.com, 261741, RESELLER, fafdf38b16bf6b2b
+gumgum.com, 11645, RESELLER, ffdef49475d318a9
+openx.com, 537120960, RESELLER
+openx.com, 83499, RESELLER
+openx.com, 538959099, RESELLER
+pubmatic.com, 137711, RESELLER
+pubmatic.com, 156700, RESELLER
+pubmatic.com, 156212, RESELLER
+pubmatic.com, 62483, RESELLER
+# /SOVRN ===========

@@ -1,0 +1,49 @@
+# Ads.txt
+ad-stir.com, 8943, DIRECT
+ads.adasiaholdings.com, 1, DIRECT
+adtech.com, 10224, RESELLER
+advertising.com, 14693, RESELLER
+advertising.com, 26947, RESELLER
+appnexus.com, 1832, RESELLER
+appnexus.com, 1908, RESELLER, f5ab79cb980f11d1
+appnexus.com, 2741, RESELLER
+appnexus.com, 3538, RESELLER
+appnexus.com, 3539, RESELLER
+appnexus.com, 3540, RESELLER
+appnexus.com, 3691, RESELLER
+appnexus.com, 7290, RESELLER
+appnexus.com, 3703, RESELLER, f5ab79cb980f11d1
+contextweb.com, 557995, RESELLER, 89ff185a4c4e857c
+contextweb.com, 560288, RESELLER, 89ff185a4c4e857c
+districtm.io, 101490, RESELLER
+freewheel.tv, 489441, RESELLER
+gammassp.com, 1507780569, RESELLER
+google.com, pub-1161932234680410, RESELLER, f08c47fec0942fa0
+google.com, pub-5819922297475666, DIRECT, f08c47fec0942fa0
+google.com, pub-8856559311549217, RESELLER, f08c47fec0942fa0
+google.com, pub-9058291854443881, RESELLER
+improvedigital.com, 335, RESELLER
+indexexchange.com, 184665, RESELLER, 50b1c356f2c5c8fc
+indexexchange.com, 179394, RESELLER
+openx.com, 537122698, RESELLER, 6a698e2ec38604c6
+openx.com, 540291874, RESELLER, 6a698e2ec38604c6
+openx.com, 540308356, RESELLER, 6a698e2ec38604c6
+openx.com, 537149888, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 156098, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156792, RESELLER, 5d62403b186f2ace
+pubmatic.com, 154037, RESELLER
+pubmatic.com, 156439, RESELLER
+rubiconproject.com, 13732, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 16114, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 17692, RESELLER, 0bfd66d529a55807
+smartadserver.com, 1827, RESELLER
+smartadserver.com, 2060, RESELLER
+smartadserver.com, 2060, RESELLER
+sovrn.com, 257611, RESELLER, fafdf38b16bf6b2b
+spotx.tv, 123826, RESELLER, 7842df1d2fe2db34
+spotx.tv, 218870, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 123826, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 218870, RESELLER, 7842df1d2fe2db34
+widespace.com, 8411, DIRECT
+contact=adsales@singtel.com
+contact=http://www.singtelmedia.com/contact-us/

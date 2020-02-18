@@ -1,0 +1,34 @@
+#ads.txt racketboy.com
+
+rhythmone.com, 69165, DIRECT
+getintent.com, 50, DIRECT
+trioninteractive.com, 30323, DIRECT
+aol.com, 11119, DIRECT
+openx.net, 539213868, DIRECT
+content.ad, 32127, DIRECT
+sekindo, 8438, DIRECT
+google.com, pub-9096470944355130, DIRECT, f08c47fec0942fa0
+
+sovrn.com, 46696, DIRECT, fafdf38b16bf6b2b
+lijit.com, 46696, DIRECT, fafdf38b16bf6b2b
+openx.com, 537120960, RESELLER
+openx.com, 83499, RESELLER
+openx.com, 538959099, RESELLER
+pubmatic.com, 137711, RESELLER
+pubmatic.com, 156212, RESELLER
+pubmatic.com, 62483, RESELLER
+contextweb.com, 558511, RESELLER
+gumgum.com, 11645, RESELLER, ffdef49475d318a9
+
+#Ads.txt DEFY Media
+appnexus.com, 1613, reseller
+appnexus.com, 3326, reseller
+freewheel.tv, 146081, reseller
+rubiconproject.com, 8861, reseller, 0bfd66d529a55807
+
+rhythmone.com,71063,DIRECT,a670c89d4a324e47
+rhythmone.com, 71063,a670c89d4a324e47
+
+districtm.io, 100835, DIRECT
+appnexus.com, 1908, RESELLER
+appnexus.com, 7944, RESELLER

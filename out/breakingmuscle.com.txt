@@ -1,0 +1,32 @@
+google.com, pub-8187383430752861, DIRECT, f08c47fec0942fa0
+google.com, pub-9785239390169265, DIRECT, f08c47fec0942fa0
+google.com, pub-3622156405313063, RESELLER, f08c47fec0942fa0 #FI - AdX
+openx.com, 537104992, RESELLER, 6a698e2ec38604c6 #FI - OpenX
+openx.com, 539819368, RESELLER, 6a698e2ec38604c6 #FI - OpenX
+sovrn.com, 243408, RESELLER, fafdf38b16bf6b2b #FI - Sovrn
+lijit.com, 243408, RESELLER, fafdf38b16bf6b2b #FI - Sovrn
+sovrn.com, 256420, RESELLER, fafdf38b16bf6b2b #FI - Sovrn
+lijit.com, 256420, RESELLER, fafdf38b16bf6b2b #FI - Sovrn
+adtech.com, 10297, RESELLER #FI - Oath
+aolcloud.net, 10297, RESELLER #FI - Oath
+contextweb.com, 558377, RESELLER, 89ff185a4c4e857c #FI - PulsePoint
+outbrain.com, 0043e7a761d92337b9269c2b10d9835c8d, RESELLER #FI - Outbrain
+aps.amazon.com, 4cd01fd0-0780-4b33-a4da-c39467660185, RESELLER #FI - Amazon
+contextweb.com, 561562, RESELLER, 89ff185a4c4e857 #FI - Amazon (PulsePoint)
+c1exchange.com, c1x_a9_uampubs, RESELLER #FI - Amazon (C1X)
+pubmatic.com, 156888, RESELLER, 5d62403b186f2ace #FI - PubMatic
+rubiconproject.com, 18438, RESELLER, 0bfd66d529a55807 #FI - Rubicon Project
+taboola.com,1152831,DIRECT,c228e6794e811952 #TB
+spotx.tv,71451,RESELLER #TB
+spotxchange.com, 71451, RESELLER #TB
+advertising.com, 8603, RESELLER #TB
+advertising.com, 3531, RESELLER #TB
+pubmatic.com, 156307, RESELLER, 5d62403b186f2ace #TB
+appnexus.com, 3364, RESELLER #TB
+Indexexchange.com, 183756, RESELLER #TB
+contextweb.com, 560382, RESELLER #TB
+openx.com, 539154393, RESELLER #TB
+tremorhub.com, z87wm, RESELLER, 1a4e959a1b50034a #TB
+rubiconproject.com, 16698, RESELLER, 0bfd66d529a55807 #TB
+fyber.com, ad9de41d28d494354b23133f26f83122, RESELLER #TB
+fyber.com, 1a12a7e3f84fe560ccf95a3a73043abb, RESELLER #TB

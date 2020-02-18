@@ -1,0 +1,15 @@
+# Managed by TDN START #
+google.com, pub-3665575696298773, DIRECT, f08c47fec0942fa0
+google.com, pub-4183634788279407, DIRECT, f08c47fec0942fa0
+ucfunnel.com, {par-AA7AA2DA3E4E9274FB742489E8D3D74}, DIRECT
+aralego.com, {par-AA7AA2DA3E4E9274FB742489E8D3D74}, DIRECT
+# Managed by TDN END #
+
+# Managed by ADOP START #
+google.com, pub-2626235926542867, RESELLER, f08c47fec0942fa0
+google.com, pub-6265241026928844, DIRECT, f08c47fec0942fa0
+google.com, pub-1474238860523410, RESELLER, f08c47fec0942fa0
+google.com, pub-5649259315978336, DIRECT, f08c47fec0942fa0
+# Managed by ADOP END # Create Date : 2019-12-09 17:25:10
+
+teads.tv, 20026, DIRECT, 15a9c44f6d26cbe1

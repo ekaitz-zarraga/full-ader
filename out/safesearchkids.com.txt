@@ -1,0 +1,14 @@
+firstimpression.io, 5820, DIRECT, a960877e77e58dd6 #FI
+google.com, pub-9656055113278375, DIRECT, f08c47fec0942fa0
+google.com, pub-2697483239283649, DIRECT, f08c47fec0942fa0
+google.com, pub-2697483239283649, RESELLER, f08c47fec0942fa0
+google.com, pub-3622156405313063, RESELLER, f08c47fec0942fa0 #FI - AdX
+openx.com, 537104992, RESELLER, 6a698e2ec38604c6 #FI - OpenX
+sovrn.com, 243408, RESELLER, fafdf38b16bf6b2b #FI - Sovrn
+lijit.com, 243408, RESELLER, fafdf38b16bf6b2b #FI - Sovrn
+sovrn.com, 256420, RESELLER, fafdf38b16bf6b2b #FI - Sovrn
+lijit.com, 256420, RESELLER, fafdf38b16bf6b2b #FI - Sovrn
+adtech.com, 10297, RESELLER #FI - Oath
+aolcloud.net, 10297, RESELLER #FI - Oath
+contextweb.com, 558377, RESELLER, 89ff185a4c4e857c #FI - PulsePoint
+outbrain.com, 0043e7a761d92337b9269c2b10d9835c8d, RESELLER #FI - Outbrain

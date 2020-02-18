@@ -1,0 +1,14 @@
+google.com, pub-8607314108762375, DIRECT, f08c47fec0942fa0
+chitika.net, harper75, DIRECT 
+contextweb.com, 560544, RESELLER 
+google.com, pub-6282801281028626, RESELLER, f08c47fec0942fa0 
+appnexus.com, 1888, RESELLER 
+adtech.com, 10475, RESELLER 
+# affilinet-performance-module-start
+# Do not modify the following lines
+# Ver. 1.9.1
+appnexus.com, 8332, RESELLER, f5ab79cb980f11d1
+appnexus.com, 8327, RESELLER, f5ab79cb980f11d1
+appnexus.com, 8334, RESELLER, f5ab79cb980f11d1
+appnexus.com, 8333, RESELLER, f5ab79cb980f11d1
+# affilinet-performance-module-end

@@ -1,0 +1,17 @@
+# affilinet-performance-module-start
+# Do not modify the following lines
+# Ver. 1.9.1
+appnexus.com, 8332, RESELLER, f5ab79cb980f11d1
+appnexus.com, 8327, RESELLER, f5ab79cb980f11d1
+appnexus.com, 8334, RESELLER, f5ab79cb980f11d1
+appnexus.com, 8333, RESELLER, f5ab79cb980f11d1
+google.com, pub-9038906181311698, DIRECT, f08c47fec0942fa0
+# affilinet-performance-module-end
+# affilinet-performance-module-start
+# Do not modify the following lines
+# Ver. 1.9.1
+appnexus.com, 8332, RESELLER, f5ab79cb980f11d1
+appnexus.com, 8327, RESELLER, f5ab79cb980f11d1
+appnexus.com, 8334, RESELLER, f5ab79cb980f11d1
+appnexus.com, 8333, RESELLER, f5ab79cb980f11d1
+# affilinet-performance-module-end

@@ -1,0 +1,95 @@
+google.com, pub-2333116571160528, DIRECT, f08c47fec0942fa0
+#Arkadium start
+
+#Ads.txt Arkadium
+
+#Google
+google.com, pub-1995032544933848, DIRECT, f08c47fec0942fa0
+
+#Rubicon
+rubiconproject.com, 17214, DIRECT, 0bfd66d529a55807
+
+#IndexExchange
+indexexchange.com, 184999, DIRECT, 50b1c356f2c5c8fc
+
+#Appnexus
+appnexus.com, 7541, DIRECT, f5ab79cb980f11d1
+
+#Openx
+openx.com, 537120530, DIRECT, 6a698e2ec38604c6
+
+#SpotX
+spotxchange.com,108371,RESELLER,7842df1d2fe2db34
+spotx.tv,108371,RESELLER,7842df1d2fe2db34
+
+#SOVRN
+sovrn.com, 239073, DIRECT, fafdf38b16bf6b2b
+lijit.com, 239073, DIRECT, fafdf38b16bf6b2b
+appnexus.com, 1360, RESELLER, f5ab79cb980f11d1
+gumgum.com, 11645, RESELLER, ffdef49475d318a9
+openx.com, 538959099, RESELLER, 6a698e2ec38604c6
+openx.com, 539924617, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 137711, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156212, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156700, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 17960, RESELLER, 0bfd66d529a55807
+
+
+#ONE by AOL: Display
+adtech.com, 10469, DIRECT
+aolcloud.net, 10469, DIRECT
+#ONE by AOL: Video
+advertising.com, 7532, RESELLER
+
+#PulsePoint
+contextweb.com, 561231, RESELLER, 89ff185a4c4e857c
+
+#Sonobi
+sonobi.com, 88006a56eo, DIRECT
+
+#Exponential
+exponential.com, 151520, DIRECT, afac06385c445926
+tribalfusion.com, 151520 , DIRECT, afac06385c445926
+indexexchange.com, 176280, RESELLER, 50b1c356f2c5c8fc
+google.com, pub-2051007210431666, RESELLER, f08c47fec0942fa0
+
+#Rhythmone
+Rhythmone.com,326706738,DIRECT,a670c89d4a324e47
+Rhythmone.com,2085037614,DIRECT,a670c89d4a324e47
+
+#Conversant
+conversantmedia.com, 40847, DIRECT
+appnexus.com, 4052, RESELLER, f5ab79cb980f11d1
+
+#Amazon
+aps.amazon.com,661990cc-08cb-45bb-9ee2-90c2a9034640,DIRECT
+pubmatic.com,157150,RESELLER,5d62403b186f2ace
+openx.com,540191398,RESELLER,6a698e2ec38604c6
+rubiconproject.com,18020,RESELLER,0bfd66d529a55807
+appnexus.com,1908,RESELLER,f5ab79cb980f11d1
+adtech.com,12068,RESELLER,e1a5b5b6e3255540
+ad-generation.jp,12474,RESELLER
+districtm.io,100962,RESELLER,3fd707be9c4527c3
+rhythmone.com,1654642120,RESELLER,a670c89d4a324e47
+
+#Districtm
+districtm.io, 101582, DIRECT, 3fd707be9c4527c3
+appnexus.com, 1908, RESELLER, f5ab79cb980f11d1
+google.com, pub-9685734445476814, RESELLER, f08c47fec0942fa0
+
+#GumGum
+gumgum.com,13956,DIRECT,ffdef49475d318a9
+rhythmone.com,RESELLER, 78519861
+33across.com,0013300001r0t9mAAA,RESELLER
+pubmatic.com,156423,RESELLER,5d62403b186f2ace
+rhythmone.com,2439829435,RESELLER,a670c89d4a324e47
+emxdgt.com,326,RESELLER,1e1d41537f7cad7f
+pubmatic.com,157897,RESELLER,5d62403b186f2ace
+synacor.com,82151,RESELLER,e108f11b2cdf7d5b
+coxmt.com,2000067995202,RESELLER,
+pubmatic.com,156344,RESELLER,5d62403b186f2ace
+EMXDGT.com,1284,RESELLER,1e1d41537f7cad7f
+
+#Arkadium end
+subdomain=games.bestforpuzzles.com 
+ 

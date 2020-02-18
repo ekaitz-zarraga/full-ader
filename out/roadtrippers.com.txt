@@ -1,0 +1,46 @@
+33across.com, 33, RESELLER
+adtech.com, 10947, RESELLER #client-side
+adtech.com, 11200, DIRECT
+aolcloud.net, 10947, RESELLER #s2s
+aolcloud.net, 11099, RESELLER
+appnexus.com, 1356, RESELLER #brealtime
+appnexus.com, 1908, RESELLER, f5ab79cb980f11d1
+appnexus.com, 2669, RESELLER
+appnexus.com, 7556, RESELLER
+atemda.com,498,RESELLER
+coxmt.com, 2000067997702, RESELLER
+connectignite.com, 15987, DIRECT
+contextweb.com, 560606, RESELLER, 89ff185a4c4e857c
+contextweb.com, 561438, RESELLER
+Conversantmedia.com, 41083, DIRECT
+criteo.com, 1135255, RESELLER
+criteo.com, 3450, RESELLER
+districtm.io, 100919, RESELLER
+emxdgt.com, 20, RESELLER, 1e1d41537f7cad7f #brealtime
+freewheel.tv, 118529, RESELLER
+google.com, pub-3342885608923480, RESELLER, f08c47fec0942fa0
+google.com, pub-4207323757133151, RESELLER
+google.com, pub-4353183048692836, DIRECT, f08c47fec0942fa0
+google.com, pub-5231479214411897, RESELLER
+google.com, pub-6694481294649483, RESELLER
+google.com, pub-9242135695870166, RESELLER
+google.com, pub-9557089510405422, RESELLER, f08c47fec0942fa0
+imonomy.com, 2189, DIRECT
+indexexchange.com, 184914, RESELLER
+indexexchange.com, 186248, RESELLER, 50b1c356f2c5c8fc #ebda
+openx.com, 537104839, RESELLER, 6a698e2ec38604c6
+openx.com, 537150004, RESELLER
+openx.com, 537153208, RESELLER
+openx.com, 539699341, RESELLER, 6a698e2ec38604c6 #ebda
+powerlinks.com, 3b96b6f7-37d9-11e6-bd6a-0ae0ff90b829, RESELLER
+pubmatic.com, 156319, RESELLER
+pubmatic.com, 157367, RESELLER #ebda
+rhythmone.com, 1059622079, RESELLER, a670c89d4a324e47
+rubiconproject.com, 17632, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 18890, RESELLER, 0bfd66d529a55807 #ebda
+smartadserver.com, 2586, RESELLER
+sonobi.com, bff0ff8c63, DIRECT
+sovrn.com, 248396, RESELLER
+spotxchange.com, 75439, RESELLER
+synacor.com, 81685, RESELLER
+tremorhub.com,ntdd5,RESELLER, 1a4e959a1b50034a

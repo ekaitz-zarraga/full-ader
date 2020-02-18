@@ -1,0 +1,6 @@
+# Ads.txt file for http://yesilist.com/
+
+google.com, pub-9199543928608201, DIRECT, f08c47fec0942fa0
+google.com, pub-5848572006993303, RESELLER, f08c47fec0942fa0
+google.com, pub-0802393472674142, RESELLER, f08c47fec0942fa0
+ 

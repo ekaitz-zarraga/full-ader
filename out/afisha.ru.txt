@@ -1,0 +1,21 @@
+rubiconproject.com,	12168,	DIRECT,	0bfd66d529a55807	
+rubiconproject.com,	12172,	DIRECT,	0bfd66d529a55808	
+rubiconproject.com,	12328,	DIRECT,	0bfd66d529a55809	
+rubiconproject.com,	12170,	DIRECT,	0bfd66d529a55810	
+rubiconproject.com,	9953,	DIRECT,	0bfd66d529a55811
+google.com,	pub-9611446967650825,	DIRECT, f08c47fec0942fa0	
+google.com,	pub-5600223439108080,	DIRECT,	f08c47fec0942fa0	
+google.com,	pub-8474433047863685,	DIRECT,	f08c47fec0942fa0	
+google.com,	pub-9314057052989352,	DIRECT,	f08c47fec0942fa0	
+google.com,	pub-7837349203060153,	DIRECT,	f08c47fec0942fa0	
+google.com,	pub-4149010408409047,	DIRECT,	f08c47fec0942fa0	
+pubmatic.com,	64205,	DIRECT,	5d62403b186f2ace
+teads.tv, 7663, DIRECT, 15a9c44f6d26cbe1
+teads.tv, 12790, DIRECT, 15a9c44f6d26cbe1
+openx.com, 540310752, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 156307,RESELLER, 5d62403b186f2ace
+appnexus.com, 8950, RESELLER
+pubmatic.com, 156736, DIRECT, 5d62403b186f2ace
+google.com, pub-4570765228201933, DIRECT, f08c47fec0942fa0
+google.com, pub-2363751973002293, DIRECT, f08c47fec0942fa0
+google.com, pub-8309773808661346, RESELLER, f08c47fec0942fa0

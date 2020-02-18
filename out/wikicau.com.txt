@@ -1,0 +1,80 @@
+mgid.com, 343529, DIRECT, d4c29acad76ce94f
+# EXMARKETPLACE - SPM - AdX EMEA; info@exmarketplace.com;  +971 56 626 6430
+google.com, pub-9021387890731428, RESELLER, f08c47fec0942fa0
+indexexchange.com, 189200, RESELLER, 50b1c356f2c5c8fc
+pubmatic.com, 158214, RESELLER, 5d62403b186f2ace
+pubmatic.com, 158883, RESELLER, 5d62403b186f2ace
+appnexus.com, 10970, RESELLER, f5ab79cb980f11d1
+spotxchange.com, 263601, RESELLER, 7842df1d2fe2db34 #spotx
+spotx.tv, 263601, RESELLER, 7842df1d2fe2db34 #spotx
+sovrn.com, 270680, RESELLER, fafdf38b16bf6b2b #sovrn
+lijit.com, 270680, RESELLER, fafdf38b16bf6b2b #sovrn
+lijit.com, 270680-eb, RESELLER, fafdf38b16bf6b2b #sovrn
+appnexus.com, 1360, RESELLER, f5ab79cb980f11d1 #sovrn
+gumgum.com, 11645, RESELLER, ffdef49475d318a9 #sovrn
+openx.com, 538959099, RESELLER, 6a698e2ec38604c6 #sovrn
+openx.com, 539924617, RESELLER, 6a698e2ec38604c6 #sovrn
+pubmatic.com, 137711, RESELLER, 5d62403b186f2ace #sovrn
+pubmatic.com, 156212, RESELLER, 5d62403b186f2ace #sovrn
+pubmatic.com, 156700, RESELLER, 5d62403b186f2ace #sovrn
+rubiconproject.com, 17960, RESELLER, 0bfd66d529a55807 #sovrn
+rhythmone.com,1923001931,RESELLER,a670c89d4a324e47 #rhythmone
+aps.amazon.com,cf78b987-05be-4f10-bde4-2e3308b639ce,RESELLER #amazon
+pubmatic.com,157150,RESELLER,5d62403b186f2ace #amazon
+openx.com,540191398,RESELLER,6a698e2ec38604c6 #amazon
+rubiconproject.com,18020,RESELLER,0bfd66d529a55807 #amazon
+appnexus.com,1908,RESELLER,f5ab79cb980f11d1 #amazon
+appnexus.com,3663,RESELLER,f5ab79cb980f11d1 #amazon
+adtech.com,12068,RESELLER,e1a5b5b6e3255540 #amazon
+districtm.io,100962,RESELLER,3fd707be9c4527c3 #amazon
+rhythmone.com,1654642120,RESELLER,a670c89d4a324e47 #amazon
+ad-generation.jp,12474,RESELLER #amazon
+smartadserver.com, 3138, RESELLER #smart
+contextweb.com, 560288, RESELLER, 89ff185a4c4e857c #smart
+pubmatic.com, 156439, RESELLER #smart
+pubmatic.com, 154037, RESELLER #smart
+rubiconproject.com, 16114, RESELLER, 0bfd66d529a55807 #smart
+openx.com, 537149888, RESELLER, 6a698e2ec38604c6 #smart
+appnexus.com, 3703, RESELLER, f5ab79cb980f11d1 #smart
+districtm.io, 101760, RESELLER, 3fd707be9c4527c3 #smart
+loopme.com, s-2411, RESELLER, 6c8d5f95897a5a3b #smart
+loopme.com, 5679, RESELLER, 6c8d5f95897a5a3b #smart
+xad.com, 958, RESELLER, 81cbf0a75a5e0e9a  #smart
+improvedigital.com, 1503, RESELLER #improve
+smartadserver.com, 1827, RESELLER #sublime
+improvedigital.com, 335, RESELLER #sublime
+appmexus.com, 3538, RESELLER #sublime
+appnexus.com, 3539, RESELLER #sublime
+appnexus.com, 3540, RESELLER #sublime
+# ExMarketPlace - end
+smaato.com, 1100045412, DIRECT, 07bcf65f187117b4
+smaato.com, 1100004890, DIRECT, 07bcf65f187117b4
+adcolony.com, 496220845654deec, RESELLER, 1ad675c9de6b5176
+admanmedia.com, 552, RESELLER
+appnexus.com, 1752, RESELLER, f5ab79cb980f11d1
+appnexus.com, 4052, RESELLER
+appnexus.com, 8790, RESELLER, f5ab79cb980f11d1
+bidmachine.io, 36, RESELLER
+bidmachine.io, 60, RESELLER
+bidmachine.io, 74, RESELLER
+bidmachine.io, 77, RESELLER
+blis.com, 86, RESELLER, 61453ae19a4b73f4
+contextweb.com, 558622, RESELLER, 89ff185a4c4e857c
+engagebdr.com, 16, RESELLER
+gammassp.com, 1516331892, RESELLER, 31ac53fec2772a83
+indexexchange.com, 183920, RESELLER, 50b1c356f2c5c8fc
+indexexchange.com, 184270, RESELLER, 50b1c356f2c5c8fc
+inmobi.com, 55049d2e109d4ac1820ca1432dda4e13, RESELLER, 83e75a7ae333ca9d
+mobilefuse.com, 2281, RESELLER
+openx.com, 540421297, RESELLER, 6a698e2ec38604c6
+pokkt.com, 5886, RESELLER, c45702d9311e25fd 
+pubmatic.com, 156177, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156389, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156424, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156425, RESELLER, 5d62403b186f2ace 
+pubnative.net, 1004796, RESELLER, d641df8625486a7b
+pubnative.net, 1007194, RESELLER, d641df8625486a7b
+rhythmone.com, 4201299756, RESELLER, a670c89d4a324e47
+smartadserver.com, 3117, RESELLER
+startapp.com, smt, RESELLER
+xad.com, 241, RESELLER, 81cbf0a75a5e0e9a

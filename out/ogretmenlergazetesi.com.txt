@@ -1,0 +1,15 @@
+# Ads.txt file for http://www.ogretmenlergazetesi.com/
+
+
+
+google.com, ca-pub-3315812086086672, DIRECT
+google.com, pub-3315812086086672, DIRECT, f08c47fec0942fa0
+admatic.com.tr, adm-pub-153504590379, DIRECT
+improvedigital.com, 912, RESELLER
+google.com, pub-8929667634210480, RESELLER, f08c47fec0942fa0
+
+
+
+
+#Last Modified: 2018.01.24 - 00.23.58
+ 

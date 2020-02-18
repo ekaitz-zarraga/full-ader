@@ -1,0 +1,7 @@
+<?php
+  header('Location: https://srv.adstxtmanager.com/3812/xquissive.com'); 
+  exit;
+?>
+
+google.com, pub-2914994601350523, DIRECT, f08c47fec0942fa0
+

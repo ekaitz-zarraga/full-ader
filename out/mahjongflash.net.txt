@@ -1,0 +1,52 @@
+# GoogleAds
+google.com, pub-2304985967143948, DIRECT, f08c47fec0942fa0
+
+# GamePix
+google.com, pub-5285623249468085, RESELLER, f08c47fec0942fa0
+google.com, pub-8435989769185680, RESELLER, f08c47fec0942fa0
+google.com, pub-2365506394227806, RESELLER, f08c47fec0942fa0
+rhythmone.com, 1947792888, DIRECT, a670c89d4a324e47
+rhythmone.com, 1117218481, DIRECT, a670c89d4a324e47
+rhythmone.com, 3372001037, DIRECT, a670c89d4a324e47
+
+# Arkadium
+google.com, pub-1995032544933848, RESELLER, f08c47fec0942fa0
+exponential.com, 151520, DIRECT, afac06385c445926
+indexexchange.com, 184999, DIRECT
+rubiconproject.com, 17214, DIRECT
+aps.amazon.com, 661990cc-08cb-45bb-9ee2-90c2a9034640, DIRECT
+adtech.com, 10469, DIRECT
+sovrn.com, 239073, DIRECT, fafdf38b16bf6b2b
+appnexus.com, 7541, DIRECT
+openx.com, 537120530, RESELLER, 6a698e2ec38604c6
+tremorhub.com, f40lx-dal6y, RESELLER, 1a4e959a1b50034a
+
+# GameDistribution
+spotxchange.com, 153598, RESELLER, 7842df1d2fe2db34
+spotx.tv, 153598, RESELLER, 7842df1d2fe2db34
+google.com, pub-1313834454494130, RESELLER, f08c47fec0942fa0
+google.com, pub-5192618204358860, RESELLER, f08c47fec0942fa0
+google.com, pub-7020262665364086, RESELLER, f08c47fec0942fa0
+improvedigital.com, 545, RESELLER
+improvedigital.com, 1394, RESELLER
+improvedigital.com, 1299, RESELLER
+advertising.com, 25218, RESELLER
+advertising.com, 27287, RESELLER
+indexexchange.com, 188249, RESELLER
+indexexchange.com, 189455, DIRECT
+indexexchange.com, 175407, RESELLER
+pubmatic.com, 156946, RESELLER, 5d62403b186f2ace
+pubmatic.com, 158452, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156078 , RESELLER
+appnexus.com, 9994, RESELLER
+appnexus.com, 9624, RESELLER, f5ab79cb980f11d1
+adtech.com, 11506, DIRECT
+rubiconproject.com, 21426, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 17394, RESELLER, 0bfd66d529a55807
+openx.com, 537143344, RESELLER
+openx.com, 539366975, RESELLER, 6a698e2ec38604c6
+openx.com, 540471883, RESELLER, 6a698e2ec38604c6
+cpmstar.com, 50553, DIRECT
+coxmt.com, 2000067907202, RESELLER
+beachfront.com, 9065, RESELLER
+contextweb.com, 559969, DIRECT, 89ff185a4c4e857c

@@ -1,0 +1,15 @@
+#Admeira AG
+#ads.txt
+
+teads.tv, 12517, DIRECT, 15a9c44f6d26cbe1
+teads.tv, 5769, DIRECT, 15a9c44f6d26cbe1
+teads.tv, 12392, DIRECT, 15a9c44f6d26cbe1
+improvedigital.com, 707, DIRECT
+adswizz.com,nrjch,DIRECT
+google.com, pub-3729330729646514, DIRECT, f08c47fec0942fa0
+appnexus.com, 9178, DIRECT
+teads.tv, 12392, RESELLER, 15a9c44f6d26cbe1
+google.com, ca-video-pub-7554065371255327, DIRECT
+google.com, ca-pub-7554065371255327, DIRECT
+google.com, pub-7452201096415972, DIRECT, f08c47fec0942fa0
+google.com, pub-7554065371255327, DIRECT, f08c47fec0942fa0

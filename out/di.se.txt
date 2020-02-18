@@ -1,0 +1,64 @@
+#ads.txt_Bonnier_20200124
+#contact: programmatic@bonniernews.se
+
+#GAM/EBDA/Prebid_internal
+google.com, pub-7514839373927339, DIRECT, f08c47fec0942fa0
+rubiconproject.com, 19480, RESELLER, 0bfd66d529a55807
+pubmatic.com, 157552, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 10572, DIRECT, 0bfd66d529a55807
+rubiconproject.com, 11802, DIRECT, 0bfd66d529a55807
+rubiconproject.com, 10593, DIRECT, 0bfd66d529a55807
+rubiconproject.com, 12954, DIRECT, 0bfd66d529a55807
+rubiconproject.com, 14780, DIRECT, 0bfd66d529a55807
+rubiconproject.com, 12088, DIRECT, 0bfd66d529a55807
+pubmatic.com, 157228, DIRECT, 5d62403b186f2ace
+pubmatic.com, 148804, DIRECT, 5d62403b186f2ace
+pubmatic.com, 156167, DIRECT, 5d62403b186f2ace
+pubmatic.com, 156193, DIRECT, 5d62403b186f2ace
+pubmatic.com, 157895, DIRECT, 5d62403b186f2ace
+pubmatic.com, 158071, DIRECT, 5d62403b186f2ace
+adform.com, 2089, DIRECT
+
+#XHB
+appnexus.com, 8806, RESELLER, f5ab79cb980f11d1 #Prebid
+
+#Leeads
+rubiconproject.com, 12032, RESELLER, 0bfd66d529a55807 #Prebid
+pubmatic.com, 157349, RESELLER, 5d62403b186f2ace #Prebid
+adform.com, 125, RESELLER #Prebid
+
+#Keymobile
+adform.com, 582, RESELLER, 9f5210a2f0999e32
+rubiconproject.com, 17310, RESELLER, 0bfd66d529a55807
+google.com, pub-1483186529645269, RESELLER, f08c47fec0942fa0
+
+#Story Media
+adform.com, 2570, RESELLER
+
+#Smartclip
+smartclip.net, 836, RESELLER
+
+#Unruly
+video.unrulymedia.com, UNRX-PUB-4306d2f3-d541-4366-9ea8-7e0dcec0af9a, RESELLER #BMB
+video.unrulymedia.com, UNRX-PUB-1c8d18b1-182b-4be4-8da0-a20568af3176, RESELLER #BBM
+indexexchange.com, 182257, RESELLER, 50b1c356f2c5c8fc
+appnexus.com, 6849, RESELLER, f5ab79cb980f11d1
+rubiconproject.com, 15268, RESELLER, 0bfd66d529a55807
+
+#Adprofit (BBM)
+adtech.com, 868, RESELLER
+aolcloud.net, 868, RESELLER
+pubmatic.com, 156585, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 21174, RESELLER, 0bfd66d529a55807
+google.com, pub-5998497508199491, RESELLER, f08c47fec0942fa0
+
+#JustPremium (Exp)
+adform.com, 183, RESELLER
+appnexus.com, 7118, RESELLER
+freewheel.tv, 33081, RESELLER
+freewheel.tv, 33601, RESELLER
+google.com, pub-8172268348509349, RESELLER, f08c47fec0942fa0
+improvedigital.com, 185, RESELLER
+openx.com, 539523028, RESELLER, 6a698e2ec38604c6
+spotx.tv, 108933, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 108933, RESELLER, 7842df1d2fe2db34

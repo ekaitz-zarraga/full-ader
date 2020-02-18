@@ -1,0 +1,47 @@
+aps.amazon.com, 38918095-8e45-4332-88bf-226b3514cb64, DIRECT
+appnexus.com, 3626, DIRECT, f5ab79cb980f11d1
+indexexchange.com, 184188, DIRECT
+indexexchange.com, 184807, DIRECT
+google.com, pub-1601477034266482, DIRECT, f08c47fec0942fa0
+openx.com, 537154278, DIRECT, 6a698e2ec38604c6
+openx.com, 537144493, DIRECT, 6a698e2ec38604c6
+adtech.com, 9560, DIRECT
+aolcloud.net, 9560, DIRECT
+sharethrough.com, 9b3a5242, DIRECT, d53b998a7bd4ecd2
+indexexchange.com, 186046, RESELLER
+rhythmone.com, 949103067, DIRECT, a670c89d4a324e47
+rhythmone.com, 585736192, DIRECT, a670c89d4a324e47
+1rx.io, 949103067, DIRECT, a670c89d4a324e47
+1rx.io, 585736192, DIRECT, a670c89d4a324e47
+appnexus.com, 1314, RESELLER, f5ab79cb980f11d1
+spotxchange.com, 228454, RESELLER, 7842df1d2fe2db34
+spotx.tv, 228454, RESELLER, 7842df1d2fe2db34
+lkqd.net, 504, RESELLER, 59c49fa9598a0117
+triplelift.com, 4116, DIRECT, 6c33edb13117fd86
+sovrn.com, 217201, DIRECT, fafdf38b16bf6b2b
+sovrn.com, 247572, DIRECT, fafdf38b16bf6b2b
+lijit.com, 217201, DIRECT, fafdf38b16bf6b2b
+lijit.com, 247572, DIRECT, fafdf38b16bf6b2b
+emxdgt.com, 46, DIRECT, 1e1d41537f7cad7f
+appnexus.com, 1356, RESELLER, f5ab79cb980f11d1
+gumgum.com, 9534, DIRECT, ffdef49475d318a9
+openx.com, 537149485, RESELLER, 6a698e2ec38604c6
+appnexus.com, 1001, RESELLER, f5ab79cb980f11d1
+appnexus.com, 3135, RESELLER, f5ab79cb980f11d1
+openx.com, 537120563, RESELLER, 6a698e2ec38604c6
+springserve.com, 686, RESELLER, a24eb641fc82e93d
+lkqd.net, 470, RESELLER, 59c49fa9598a0117
+spotxchange.com, 147949, RESELLER, 7842df1d2fe2db34
+yieldmo.com, 1803631463666189593, DIRECT
+rubiconproject.com, 17404, DIRECT, 0bfd66d529a55807
+rubiconproject.com, 17484, DIRECT, 0bfd66d529a55807
+media.net, 8CUC4FKD1, DIRECT
+beachfront.com, 10738, DIRECT, e2541279e8e2ca4d
+districtm.io, 100331, DIRECT
+appnexus.com, 1908, RESELLER, f5ab79cb980f11d1
+pubmatic.com, 157108, DIRECT, 5d62403b186f2ace
+pubmatic.com, 157109, DIRECT, 5d62403b186f2ace
+contextweb.com, 561837, DIRECT, 89ff185a4c4e857
+advertising.com, 27299, DIRECT
+teads.tv, 17053, DIRECT, 15a9c44f6d26cbe1
+google.com, pub-8335964304370004, DIRECT, f08c47fec0942fa0

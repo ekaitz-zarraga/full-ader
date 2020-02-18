@@ -1,0 +1,38 @@
+google.com, pub-8784183196614730, DIRECT, f08c47fec0942fa0 
+google.com, pub-9067853260039935, DIRECT, f08c47fec0942fa0
+rubiconproject.com, 15344, DIRECT, 0bfd66d529a55807
+indexexchange.com, 184585, DIRECT
+facebook.com, 1456280227918718_2011027132444022, DIRECT
+facebook.com, 1456280227918718_2010215892525146, DIRECT
+facebook.com, 1456280227918718_2010227572523978, DIRECT
+openx.com, 537150998,DIRECT, 6a698e2ec38604c6
+### sovrn ###
+sovrn.com, 244812, DIRECT, fafdf38b16bf6b2b
+lijit.com, 244812, DIRECT, fafdf38b16bf6b2b
+gumgum.com, 11645, RESELLER, ffdef49475d318a9
+openx.com, 537120960, RESELLER
+openx.com, 83499, RESELLER
+openx.com, 538959099, RESELLER
+pubmatic.com, 137711, RESELLER
+pubmatic.com, 156212, RESELLER
+pubmatic.com, 62483, RESELLER
+contextweb.com, 558511, RESELLER
+### /sovrn ###
+### appnexus ###
+appnexus.com, 7382, DIRECT, f5ab79cb980f11d1
+### /appnexus ###
+
+
+
+#Amazon UAM
+aps.amazon.com,27cbc0e4-d52e-4ddd-8e2e-191833cfa694,DIRECT
+pubmatic.com,157150,RESELLER,5d62403b186f2ace
+openx.com,540191398,RESELLER,6a698e2ec38604c6
+rubiconproject.com,18020,RESELLER,0bfd66d529a55807
+appnexus.com,1908,RESELLER,f5ab79cb980f11d1
+adtech.com,12068,RESELLER,e1a5b5b6e3255540
+ad-generation.jp,12474,RESELLER
+districtm.io,100962,RESELLER,3fd707be9c4527c3
+appnexus.com,3663,RESELLER,f5ab79cb980f11d1
+rhythmone.com,1654642120,RESELLER,a670c89d4a324e47
+

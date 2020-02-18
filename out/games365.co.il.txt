@@ -1,0 +1,36 @@
+#Ours
+google.com, pub-7083449422628488, DIRECT, f08c47fec0942fa0
+google.com, pub-9705732095523256, DIRECT, f08c47fec0942fa0
+
+#AOL
+adtech.com, 10217, DIRECT
+
+#Lifestreet
+
+
+#GamePix
+google.com, pub-5285623249468085, RESELLER, f08c47fec0942fa0
+google.com, pub-8435989769185680, RESELLER, f08c47fec0942fa0
+google.com, pub-2365506394227806, RESELLER, f08c47fec0942fa0
+rhythmone.com, 1947792888, DIRECT, a670c89d4a324e47
+rhythmone.com, 1117218481, DIRECT, a670c89d4a324e47
+rhythmone.com, 3372001037, DIRECT, a670c89d4a324e47
+
+#A4G
+google.com, pub-1232265399417302, RESELLER, f08c47fec0942fa0
+
+#GameDistribution
+
+spotxchange.com, 153598, RESELLER, 7842df1d2fe2db34
+spotx.tv, 153598, RESELLER, 7842df1d2fe2db34
+freewheel.tv, 215714, RESELLER
+
+freewheel.tv, 216634, RESELLER
+google.com, pub-1313834454494130, RESELLER, f08c47fec0942fa0
+google.com, pub-2316275586951220, RESELLER, f08c47fec0942fa0
+
+
+#SoftGames
+google.com, pub-5846800249286047, RESELLER, f08c47fec0942fa0
+
+# SUBDOMAINS Example (if shown on root)

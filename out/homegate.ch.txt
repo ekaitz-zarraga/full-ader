@@ -1,0 +1,8 @@
+#from IAB Tech Lab & Tamedia Advertising
+#Tamedia fights against AdFraud
+#ads.txt homegate.ch
+
+google.com, pub-6135204273080594, DIRECT, f08c47fec0942fa0
+google.com, pub-7756262923332577, DIRECT, f08c47fec0942fa0
+appnexus.com, 11010, RESELLER
+appnexus.com, 3646, DIRECT

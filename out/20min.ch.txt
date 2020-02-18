@@ -1,0 +1,39 @@
+# 20min last pull: 2020-01-21T08:00:08
+#
+#from IAB Tech Lab & Tamedia Advertising
+#Tamedia fights AdFraud
+#ads.txt 20min.ch
+#contact=programmatic@tamedia.ch
+#contact=https://www.tamedia.ch/en/extras/service/contact
+
+google.com, pub-7756262923332577, DIRECT, f08c47fec0942fa0
+google.com, pub-3057818873023700, RESELLER, f08c47fec0942fa0 #video
+google.com, pub-9979654936240857, DIRECT, f08c47fec0942fa0
+teads.tv, 2535, DIRECT, 15a9c44f6d26cbe1 #video
+spotxchange.com, 203291, DIRECT, 7842df1d2fe2db34
+spotx.tv, 203291, DIRECT, 7842df1d2fe2db34
+appnexus.com, 8328, DIRECT
+appnexus.com, 3646, DIRECT
+appnexus.com, 3741, RESELLER #video
+appnexus.com, 9242, RESELLER
+openx.com, 540063070, DIRECT, 6a698e2ec38604c6
+
+appnexus.com, 3368, RESELLER
+appnexus.com, 3563, RESELLER
+appnexus.com, 7445, RESELLER
+appnexus.com, 7790, RESELLER
+google.com, pub-2671258679073709, RESELLER, f08c47fec0942fa0
+google.com, pub-5709517140465826, RESELLER, f08c47fec0942fa0
+indexexchange.com, 188006, RESELLER
+indexexchange.com, 188007, RESELLER
+indexexchange.com, 191349, DIRECT
+pubmatic.com, 157420, RESELLER, 5d62403b186f2ace
+pubmatic.com, 157421, RESELLER, 5d62403b186f2ace
+smartstream.tv, 7109, RESELLER
+smartstream.tv, 7111, RESELLER
+yieldlab.net, 2172218, RESELLER
+yieldlab.net, 227224, RESELLER
+yieldlab.net, 2448123, RESELLER
+yieldlab.net, 5494672, RESELLER
+yieldlab.net, 6332043, RESELLER
+yieldlab.net, 6374282, RESELLER

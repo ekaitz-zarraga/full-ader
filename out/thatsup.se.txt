@@ -1,0 +1,43 @@
+#Leeads SE
+rubiconproject.com, 12032, RESELLER
+adform.com, 125, RESELLER
+google.com, pub-4270686160673198, RESELLER
+
+#Keymobile
+adform.com, 582, RESELLER
+
+#Test
+google.com, pub-4817117187459378, DIRECT, f08c47fec0942fa0
+
+#Unruly
+video.unrulymedia.com, UNRX_139704913, DIRECT
+video.unrulymedia.com, 174066, DIRECT
+indexexchange.com, 182257, RESELLER
+appnexus.com, 6849, RESELLER
+rubiconproject.com, 15268, RESELLER
+ 
+#Leeads SE
+rubiconproject.com, 12032, RESELLER
+adform.com,125, RESELLER
+improvedigital.com,227, RESELLER
+pubmatic.com, 157349, RESELLER, 5d62403b186f2ace
+appnexus.com, 10281, DIRECT
+google.com, pub-4270686160673198, RESELLER
+widespace.com, 13815, DIRECT
+improvedigital.com, 1166, RESELLER
+ 
+#Keymobile
+adform.com, 582, RESELLER, 9f5210a2f0999e32
+rubiconproject.com, 17310, RESELLER, 0bfd66d529a55807
+appnexus.com, 8806, RESELLER, f5ab79cb980f11d1
+
+#Justpremium
+openx.com, 539522159, RESELLER, 6a698e2ec38604c6
+appnexus.com, 7118, RESELLER
+spotx.tv, 108933, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 108933, RESELLER, 7842df1d2fe2db34
+improvedigital.com, 185, RESELLER
+adform.com, 183, RESELLER
+freewheel.tv, 33081, RESELLER
+freewheel.tv, 33601, RESELLER
+google.com, pub-8172268348509349, RESELLER, f08c47fec0942fa0

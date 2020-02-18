@@ -1,0 +1,21 @@
+#owned
+google.com, pub-8271395633199905, DIRECT, f08c47fec0942fa0
+google.com, pub-6794687783270702, DIRECT, f08c47fec0942fa0
+google.com, pub-7246750971411634, DIRECT, f08c47fec0942fa0
+spotxchange.com, 143955, DIRECT, 7842df1d2fe2db34
+spotx.tv, 143955, DIRECT, 7842df1d2fe2db34
+rubiconproject.com, 9852, DIRECT, 0bfd66d529a55807
+improvedigital.com, 951, DIRECT
+improvedigital.com, 1055, DIRECT
+indexexchange.com, 188144, DIRECT
+
+#semilo
+google.com, pub-8536066741654249, RESELLER, f08c47fec0942fa0
+google.com, pub-0628739307328861, RESELLER, f08c47fec0942fa0
+indexexchange, 186193, RESELLER
+appnexus.com, 2579, RESELLER
+improvedigital.com, 1220, RESELLER
+spotxchange.com, 198115, RESELLER, 7842df1d2fe2db34
+spotx.tv, 198115, RESELLER, 7842df1d2fe2db34
+teads.tv, 5579, RESELLER
+quantum-advertising.com, 3381, RESELLER

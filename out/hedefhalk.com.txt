@@ -1,0 +1,36 @@
+google.com, pub-4474710604122431, DIRECT, f08c47fec0942fa0
+
+optad360.com, 325474, DIRECT
+google.com, pub-5512390705137507, RESELLER, f08c47fec0942fa0
+smartadserver.com, 2079, RESELLER
+teads.tv, 15763, DIRECT, 15a9c44f6d26cbe1
+contextweb.com, 560288, RESELLER, v89ff185a4c4e857c
+pubmatic.com, 156439, RESELLER
+pubmatic.com, 154037, RESELLER
+rubiconproject.com, 16114, RESELLER, 0bfd66d529a55807
+openx.com, 537149888, RESELLER, 6a698e2ec38604c6
+sovrn.com, 257611, RESELLER, fafdf38b16bf6b2b
+appnexus.com, 3703, RESELLER, f5ab79cb980f11d1
+adform.com, 1109, RESELLER
+appnexus.com, 1019, RESELLER
+appnexus.com, 2688, RESELLER
+lijit.com, 231317, RESELLER, fafdf38b16bf6b2b
+openx.com, 537103367, RESELLER, a698e2ec38604c6
+rubiconproject.com, 15380, RESELLER
+sovrn.com, 231317, RESELLER, fafdf38b16bf6b2b
+openx.com, 539620057, RESELLER, a698e2ec38604c6
+contextweb.com, 560961, RESELLER
+sovrn.com, 259602, RESELLER, fafdf38b16bf6b2b
+lijit.com, 259602, RESELLER, fafdf38b16bf6b2b
+gumgum.com, 11645, RESELLER, ffdef49475d318a9
+openx.com, 537120960, RESELLER
+openx.com, 83499, RESELLER
+openx.com, 538959099, RESELLER
+pubmatic.com, 137711, RESELLER
+pubmatic.com, 156212, RESELLER
+pubmatic.com, 62483, RESELLER
+contextweb.com, 558511, RESELLER
+experian.com, 0001, RESELLER
+
+#v110418 
+#contact: programmatic@optad360.com

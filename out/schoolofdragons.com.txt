@@ -1,0 +1,12 @@
+# Playwire COPPA Ads.txt file v1.1
+# last updated: 10/31/17
+
+# Google
+google.com, pub-5060663379040713, DIRECT, f08c47fec0942fa0
+
+#Kargo
+Indexexchange.com, 184081, RESELLER
+
+# SpotXchange
+spotxchange.com, 149886, DIRECT, 7842df1d2fe2db34
+spotx.tv, 71426, RESELLER, 7842df1d2fe2db34

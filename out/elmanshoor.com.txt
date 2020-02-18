@@ -1,0 +1,4 @@
+# Advanced Ads ads.txt
+google.com, pub-1774118312044893, DIRECT, f08c47fec0942fa0
+google.com, pub-5292627922597839, DIRECT, f08c47fec0942fa0
+google.com, pub-3449181229405805, DIRECT, f08c47fec0942fa0

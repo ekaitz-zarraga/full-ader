@@ -1,0 +1,20 @@
+google.com, pub-5530031616350650, DIRECT, f08c47fec0942fa0
+google.com, pub-2603664881560000, RESELLER, f08c47fec0942fa0
+google.com, pub-9033099948928268, RESELLER, f08c47fec0942fa0
+
+#Direct
+rubiconproject.com, 9655, DIRECT, 0bfd66d529a55807
+
+#Advark
+google.com, pub-8241049497608997, RESELLER, f08c47fec0942fa0
+google.com, pub-6700927641215908, DIRECT, f08c47fec0942fa0
+
+#Between
+betweendigital.com, 40078, RESELLER
+
+#OTM
+google.com, pub-8251743169282496, RESELLER, f08c47fec0942fa0
+betweendigital.com, 35701, DIRECT
+kubient.com, 56f58bdd446e9, DIRECT, 4f12311e6ed900a3
+kubient.com, 56f58bdd446e9, RESELLER, 4f12311e6ed900a3
+appnexus.com, 6953, reseller

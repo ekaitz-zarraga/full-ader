@@ -1,0 +1,5 @@
+# ads.txt - Authorized Digital Sellers
+#
+# Vidillion -- vidillion.com, vidtizer.com
+vidillion.com, fct, DIRECT
+google.com, pub-2477673314122306, DIRECT, f08c47fec0942fa0

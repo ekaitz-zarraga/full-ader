@@ -1,0 +1,17 @@
+google.com, pub-4326062637328731, DIRECT
+adform.com, 120, DIRECT
+adform.com, 949, DIRECT
+pubmatic.com, 158793, DIRECT, 5d62403b186f2ace
+adform.com, 638, RESELLER
+appnexus.com, 2954, RESELLER
+rubiconproject.com, 21420, DIRECT, 0bfd66d529a55807
+rubiconproject.com, 16446, DIRECT
+rubiconproject.com, 11992, DIRECT, 0bfd66d529a55807
+indexexchange.com, 186351, DIRECT, 50b1c356f2c5c8fc
+appnexus.com, 9208, DIRECT
+widespace.com, 3166, DIRECT
+widespace.com, 3170, DIRECT
+improvedigital.com, 1166, RESELLER
+google.com, pub-5002094515318070, RESELLER, f08c47fec0942fa0 
+rubiconproject.com, 16474, RESELLER, 0bfd66d529a55807
+adform.com, 629, RESELLER

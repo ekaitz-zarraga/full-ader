@@ -1,0 +1,36 @@
+# Ads.txt investorwords.com
+# advertising-system-domain, member-id, relationship, certification-id (optional)
+
+google.com, pub-6784236769168013, DIRECT
+google.com, pub-2929677839778239, DIRECT, f08c47fec0942fa0
+indexexchange.com, 183870, DIRECT
+rubiconproject.com, 13710, DIRECT, 0bfd66d529a55807
+appnexus.com, 3898, DIRECT, f5ab79cb980f11d1
+districtm.io, 100336, DIRECT
+appnexus.com, 7944, RESELLER
+appnexus.com, 1908, RESELLER
+emxdgt.com, 162, DIRECT, 1e1d41537f7cad7f
+Appnexus.com, 1356, RESELLER, f5ab79cb980f11d1
+sovrn.com, 236013, DIRECT, fafdf38b16bf6b2b
+lijit.com, 236013, DIRECT, fafdf38b16bf6b2b
+gumgum.com, 11645, RESELLER, ffdef49475d318a9
+openx.com, 537120960, RESELLER
+openx.com, 83499, RESELLER
+openx.com, 538959099, RESELLER
+pubmatic.com, 137711, RESELLER
+pubmatic.com, 156212, RESELLER
+pubmatic.com, 62483, RESELLER
+contextweb.com, 558511, RESELLER
+openx.com, 537137607, DIRECT, 6a698e2ec38604c6
+contextweb.com, 560010, RESELLER, 89ff185a4c4e857
+contextweb.com, 560010, DIRECT, 89ff185a4c4e857
+yldbt.com, 56b2198d4a07ae35acf5c0fb, DIRECT, cd184cb30abaabb5
+
+adtech.com, 10496, DIRECT, e1a5b5b6e3255540 
+
+coxmt.com, 2000067907202, RESELLER
+pubmatic.com, 156078, RESELLER, 5d62403b186f2ace
+openx.com, 537143344, RESELLER
+indexexchange.com, 175407, RESELLER, 50b1c356f2c5c8fc
+
+openx.com, 537143455, DIRECT, 6a698e2ec38604c6

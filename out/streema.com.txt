@@ -1,0 +1,69 @@
+#Google
+google.com, pub-3225158360338011, DIRECT, f08c47fec0942fa0
+google.com, pub-7428727692936046, DIRECT, f08c47fec0942fa0
+
+#Sovrn
+lijit.com, 265404-eb, DIRECT, fafdf38b16bf6b2b
+
+#OpenX
+openx.com, 540717764, DIRECT, 6a698e2ec38604c6
+
+#PubMatic
+pubmatic.com, 157859, DIRECT, 5d62403b186f2ace
+
+#Rhythmone
+rhythmone.com, 1903337323, DIRECT, a670c89d4a324e47
+
+#Index
+indexexchange.com, 189057, DIRECT, 50b1c356f2c5c8fc
+
+#Desktop Partners
+
+#OpenX
+openx.com, 540855172, DIRECT, 6a698e2ec38604c6
+
+#Rubicon
+rubiconproject.com, 20202, DIRECT, 0bfd66d529a55807
+rubiconproject.com, 20202, RESELLER, 0bfd66d529a55807
+
+#TripleLift
+triplelift.com, 7307, DIRECT, 6c33edb13117fd86
+appnexus.com, 1314, RESELLER
+spotxchange.com, 228454, RESELLER, 7842df1d2fe2db34
+spotx.tv, 228454, RESELLER, 7842df1d2fe2db34
+
+#Index Exchange
+indexexchange.com, 191100, DIRECT
+
+#Amazon UAM
+aps.amazon.com, bff72a3c-a6a9-447c-b1e0-a9ade572bac4, DIRECT
+pubmatic.com,157150, RESELLER, 5d62403b186f2ace
+openx.com,540191398, RESELLER, 6a698e2ec38604c6
+rubiconproject.com, 18020, RESELLER, 0bfd66d529a55807
+appnexus.com, 1908, RESELLER, f5ab79cb980f11d1
+adtech.com, 12068, RESELLER, e1a5b5b6e3255540
+ad-generation.jp, 12474, RESELLER
+districtm.io, 100962, RESELLER, 3fd707be9c4527c3
+rhythmone.com, 1654642120, RESELLER, a670c89d4a324e47
+appnexus.com, 11261, DIRECT
+districtm.io, 101935, DIRECT, 3fd707be9c4527c3
+appnexus.com,3663,RESELLER,f5ab79cb980f11d1
+
+#Sovrn
+sovrn.com, 265404, DIRECT, fafdf38b16bf6b2b
+lijit.com, 265404, DIRECT, fafdf38b16bf6b2b
+appnexus.com, 1360, RESELLER, f5ab79cb980f11d1
+gumgum.com, 11645, RESELLER, ffdef49475d318a9
+openx.com, 538959099, RESELLER, 6a698e2ec38604c6
+openx.com, 539924617, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 137711, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156212, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156700, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 17960, RESELLER, 0bfd66d529a55807
+
+#conversant
+conversantmedia.com, 100048, DIRECT, 03113cd04947736d
+appnexus.com, 4052, RESELLER
+contextweb.com, 561998, RESELLER, 89ff185a4c4e857c
+openx.com, 540031703, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 158100, RESELLER, 5d62403b186f2ace

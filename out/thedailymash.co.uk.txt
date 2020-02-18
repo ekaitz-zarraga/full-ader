@@ -1,0 +1,134 @@
+## The Daily Mash
+
+## Google Adx
+
+google.com, pub-7751322166521366, DIRECT, f08c47fec0942fa0
+google.com, pub-9188691618779767, DIRECT, f08c47fec0942fa0
+
+## Inskin
+
+indexexchange.com, 184665, RESELLER, 50b1c356f2c5c8fc
+
+## AppNexus
+
+appnexus.com, 8465, DIRECT, f5ab79cb980f11d1
+
+## Sovrn
+
+appnexus.com, 1019, RESELLER
+appnexus.com, 2688, RESELLER
+google.com, pub-1076181631997634, RESELLER, f08c47fec0942fa0
+google.com, pub-6205083306620034, RESELLER, f08c47fec0942fa0
+lijit.com, 231317, RESELLER, fafdf38b16bf6b2b
+openx.com, 540168109, RESELLER, a698e2ec38604c6
+rubiconproject.com, 15380, RESELLER
+sovrn.com, 231317, RESELLER, fafdf38b16bf6b2b
+smartadserver.com, 2923, RESELLER
+contextweb.com, 560961, RESELLER
+
+## brealtime
+
+EMXDGT.com, 330, DIRECT, 1e1d41537f7cad7f
+Appnexus.com, 1356, RESELLER, f5ab79cb980f11d1
+
+## SublimeSkinz
+
+freewheel.tv, 68697, RESELLER
+smartadserver.com, 1827, RESELLER
+improvedigital.com, 335, RESELLER
+appnexus.com, 3538, RESELLER
+appnexus.com, 3539, RESELLER
+appnexus.com, 3540, RESELLER
+
+## GroupM
+
+districtm.io, 101323, DIRECT
+appnexus.com, 1908, RESELLER, f5ab79cb980f11d1
+outbrain.com, 004b9b5db20e13f2ce046c3531783c3bee, DIRECT
+outbrain.com, 004b9b5db20e13f2ce046c3531783c3bee, RESELLER
+tremorhub.com, q017o-78mlk, RESELLER, 1a4e959a1b50034a # Premium video demand aka "Telaria"
+teads.tv, 15429, RESELLER, 15a9c44f6d26cbe1 # Premium video demand
+advertising.com, 26154, RESELLER # Premium video demand
+spotxchange.com, 225721, RESELLER # Premium video demand
+Freewheel.tv, 741650, RESELLER # Premium video demand
+openx.com, 540168109, RESELLER, a698e2ec38604c6
+smartadserver.com, 2923, RESELLER
+loopme.com, s-2411, RESELLER, 6c8d5f95897a5a3b
+appnexus.com, 9393, RESELLER
+indexexchange.com, 187964, DIRECT
+adyoulike.com, 7cc68a2c2a2f52be62a046f93bb52b8d, DIRECT, 4ad745ead2958bf7
+
+## Unruly
+
+video.unrulymedia.com, UNRX_e8fe3e90-be21-4524-801b-985c421adea0, DIRECT
+rubiconproject.com, 15268, RESELLER
+indexexchange.com, 182257, RESELLER
+appnexus.com, 6849, RESELLER
+
+## Spotx
+
+spotx.tv, 108933, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 108933, RESELLER, 7842df1d2fe2db34
+
+## Openx
+
+openx.com, 540704204, DIRECT, 6a698e2ec38604c6
+openx.com, 540298543, RESELLER, 6a698e2ec38604c6
+
+## Loopme
+
+loopme.com, s-2411, RESELLER, 6c8d5f95897a5a3b
+loopme.com, 6040, RESELLER, 6c8d5f95897a5a3b
+loopme.com, 6040, DIRECT, 6c8d5f95897a5a3b
+loopme.com, 11002, RESELLER, 6c8d5f95897a5a3b
+loopme.com, 6576, RESELLER, 6c8d5f95897a5a3b
+loopme.com, 10925, RESELLER, 6c8d5f95897a5a3b
+loopme.com, 5679, RESELLER, 6c8d5f95897a5a3b
+rubiconproject.com, 20744, RESELLER, 0bfd66d529a55807
+openx.com, 540298543, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 158154, RESELLER, 5d62403b186f2ace
+
+## Amazon UAM
+
+aps.amazon.com,3b243d83-4923-4909-b0a4-ddb6034a18d6,DIRECT
+pubmatic.com,157150,RESELLER,5d62403b186f2ace
+openx.com,540191398,RESELLER,6a698e2ec38604c6
+rubiconproject.com,18020,RESELLER,0bfd66d529a55807
+appnexus.com,1908,RESELLER,f5ab79cb980f11d1
+adtech.com,12068,RESELLER,e1a5b5b6e3255540
+ad-generation.jp,12474,RESELLER
+districtm.io,100962,RESELLER,3fd707be9c4527c3
+appnexus.com,3663,RESELLER,f5ab79cb980f11d1
+rhythmone.com,1654642120,RESELLER,a670c89d4a324e47
+
+## Rubicon
+
+rubiconproject.com, 15092, DIRECT, 0bfd66d529a55807
+
+## Just Premium
+
+openx.com, 539524006, RESELLER, 6a698e2ec38604c6
+appnexus.com, 7118, RESELLER
+spotx.tv, 108933, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 108933, RESELLER, 7842df1d2fe2db34
+improvedigital.com, 185, RESELLER
+adform.com, 183, RESELLER
+freewheel.tv, 33081, RESELLER
+freewheel.tv, 33601, RESELLER
+google.com, pub-8172268348509349, RESELLER, f08c47fec0942fa0
+
+## Facebook
+
+facebook.com, 1921150751285637, RESELLER, c3e20eee3f780d68
+
+## Avantis
+
+avantisvideo.com, 8027, DIRECT
+spotxchange.com, 165877, RESELLER, 7842df1d2fe2db34
+spotx.tv, 165877, RESELLER, 7842df1d2fe2db34
+Advertising.com, 23598, RESELLER
+Appnexus.com, 10062, DIRECT, f5ab79cb980f11d1
+Appnexus.com, 3391, DIRECT, f5ab79cb980f11d1
+openx.com, 538911542, DIRECT, 6a698e2ec38604c6
+openx.com, 539955014, DIRECT, 6a698e2ec38604c6
+rubiconproject.com, 19002, DIRECT, 0bfd66d529a55807

@@ -1,0 +1,20 @@
+google.com, pub-8981089773480235, DIRECT, f08c47fec0942fa0
+google.com, pub-7387482023406455, DIRECT, f08c47fec0942fa0
+rubiconproject.com, 12470, DIRECT, 0bfd66d529a55807
+smartclip.net, 6768, DIRECT
+
+outbrain.com, 0164684350e93cfc2a08c3f7e5c350534b, DIRECT
+outbrain.com, 0164684350e93cfc2a08c3f7e5c350534b, RESELLER
+appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
+tremorhub.com, q017o-78mlk, RESELLER, 1a4e959a1b50034a
+advertising.com, 12624, RESELLER # Outbrain outstream video
+fyber.com, f2a848067b5fe77e73205e8024940cbf, RESELLER # Outbrain outstream video
+freewheel.tv, 484721, RESELLER # Outbrain outstream video
+
+adform.com, 1226, DIRECT
+adform.com, 1943, DIRECT
+adform.com, 622, DIRECT
+adform.com, 2110, DIRECT
+adform.com, 2112, DIRECT
+
+teads.tv, 11983, DIRECT, 15a9c44f6d26cbe1

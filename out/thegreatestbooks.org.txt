@@ -1,0 +1,38 @@
+#Ads.txt file for thegreatestbooks.org
+#updated 03/03/2019
+
+#Google
+google.com, pub-5754806518171660, DIRECT, f08c47fec0942fa0 #SFN
+google.com, pub-6254331789601537, DIRECT, f08c47fec0942fa0 #DIY
+
+#AppNexus
+appnexus.com, 7673, DIRECT, f5ab79cb980f11d1
+
+#Index Exchange
+indexexchange.com, 186466, DIRECT, 50b1c356f2c5c8fc
+
+#Oath
+adtech.com, 10394, DIRECT
+aolcloud.net, 10394, DIRECT
+
+#SOVRN
+sovrn.com, 61325, DIRECT, fafdf38b16bf6b2b
+lijit.com, 61325, DIRECT, fafdf38b16bf6b2b
+appnexus.com, 1360, RESELLER, f5ab79cb980f11d1
+gumgum.com, 11645, RESELLER, ffdef49475d318a9
+openx.com, 538959099, RESELLER, 6a698e2ec38604c6
+openx.com, 539924617, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 137711, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156212, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156700, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 17960, RESELLER, 0bfd66d529a55807
+
+#Conversant
+conversantmedia.com, 114268, DIRECT
+openx.com, 540031703, RESELLER, 6a698e2ec38604c6
+
+#Sonobi
+sonobi.com, 0f44772ebd, DIRECT
+
+#RhythmOne
+rhythmone.com, 1585706287, DIRECT, a670c89d4a324e47

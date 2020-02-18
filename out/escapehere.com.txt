@@ -1,0 +1,140 @@
+# Last Updated: 18/01/2019
+adtech.com, 10002, DIRECT
+appnexus.com, 1908, RESELLER, f5ab79cb980f11d1
+appnexus.com, 7118, RESELLER, f5ab79cb980f11d1
+appnexus.com, 7589, DIRECT, f5ab79cb980f11d1
+c1exchange.com, c1x_a9_uampubs, RESELLER #display
+contextweb.com, 561562, RESELLER, 89ff185a4c4e857c #display
+coxmt.com, 2000068024302, RESELLER #display
+coxmt.com, 2000068026302, DIRECT
+criteo.com, 137702, DIRECT
+districtm.io, 100273, DIRECT
+facebook.com, 1728540530723722, DIRECT
+google.com, pub-6429274593697564, DIRECT, f08c47fec0942fa0
+google.com, pub-9516371851922261, DIRECT, f08c47fec0942fa0
+gumgum.com, 11142, DIRECT, ffdef49475d318a9
+indexexchange.com, 184649, DIRECT, 50b1c356f2c5c8fc
+indexexchange.com, 184855, DIRECT, 50b1c356f2c5c8fc
+openx.com, 537117145, RESELLER, 6a698e2ec38604c6
+openx.com, 537147098, DIRECT, 6a698e2ec38604c6
+openx.com, 537151673, DIRECT, 6a698e2ec38604c6
+openx.com, 537153885, DIRECT, 6a698e2ec38604c6
+openx.com, 538911542, RESELLER, 6a698e2ec38604c6
+outbrain.com, 003b8833ebea91c61d38d5685e563ed64f, DIRECT
+pubmatic.com, 157571, DIRECT, 5d62403b186f2ace
+rhythmone.com, 1637233342, DIRECT, a670c89d4a324e47
+rhythmone.com, 3888861401, DIRECT, a670c89d4a324e47
+rubiconproject.com, 18996, DIRECT, 0bfd66d529a55807
+sharethrough.com, a8072e31, DIRECT, d53b998a7bd4ecd2
+Smaato.com,1100037497 , Direct
+spotx.tv, 108933, RESELLER, 7842df1d2fe2db34
+spotx.tv, 81544, DIRECT, 7842df1d2fe2db34
+spotxchange.com, 108933, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 81544, DIRECT, 7842df1d2fe2db34
+yieldmo.com, 2099295185493722243, DIRECT
+yldbt.com, 5b522cc167f6b300b89dc6d3, RESELLER, cd184cb30abaabb5 #display
+
+# Amazon
+
+aps.amazon.com,36c66725-b81c-4720-a84b-4ae54664b677,DIRECT
+appnexus.com,7589,DIRECT,f5ab79cb980f11d1
+appnexus.com,1356,RESELLER,f5ab79cb980f11d1
+Google.com,pub-5995202563537249,RESELLER,f08c47fec0942fa0
+emxdgt.com,1424106,DIRECT,1e1d41537f7cad7f
+contextweb.com,562050,DIRECT,89ff185a4c4e857c
+sovrn.com,231393,DIRECT,fafdf38b16bf6b2b
+lijit.com,231393,DIRECT,fafdf38b16bf6b2b
+Triplelift.com,12196,DIRECT,6c33edb13117fd86
+pubmatic.com,157150,RESELLER,5d62403b186f2ace
+openx.com,540191398,RESELLER,6a698e2ec38604c6
+rubiconproject.com,18020,RESELLER,0bfd66d529a55807
+appnexus.com,1908,RESELLER,f5ab79cb980f11d1
+adtech.com,12068,RESELLER,e1a5b5b6e3255540
+districtm.io,100962,RESELLER,3fd707be9c4527c3
+rhythmone.com,1654642120,RESELLER,a670c89d4a324e47
+
+# Amazon + EMX
+
+EMXDGT.com, 1177, DIRECT, 1e1d41537f7cad7f
+
+# EB Video with Verizon
+advertising.com, 28319, DIRECT
+advertising.com, 28520, DIRECT
+
+# Media.net
+Media.net,8CU65A3ZJ, Direct
+
+# PulsePoint
+contextweb.com, 562050, DIRECT, 89ff185a4c4e857c
+
+# Rubicon
+
+rubiconproject.com, 18998, DIRECT, 0bfd66d529a55807
+rubiconproject.com, 18998, RESELLER, 0bfd66d529a55807
+
+# Rumble
+
+facebook.com, 358719497878746, RESELLER
+google.com, pub-7026201757273977, RESELLER, f08c47fec0942fa0
+google.com, pub-7353644945201577, RESELLER, f08c47fec0942fa0
+rhythmone.com, 752824437, RESELLER, a670c89d4a324e47
+rhythmone.com, 3526250853, RESELLER, a670c89d4a324e47
+chocolateplatform.com, 13062, RESELLER
+openx.com, 538808047, RESELLER
+openx.com, 538808048, RESELLER
+openx.com, 538808049, RESELLER
+openx.com, 538808050, RESELLER
+openx.com, 540344750, RESELLER, 6a698e2ec38604c6
+indexexchange.com, 184032, RESELLER
+indexexchange.com, 187675, RESELLER
+vdopia.com, 14057, RESELLER
+chocolateplatform.com, 14057, RESELLER
+spotxchange.com,252547,RESELLER,7842df1d2fe2db34
+spotx.tv,252547,RESELLER,7842df1d2fe2db34
+
+# Sharethrough
+
+pubmatic.com, 156557, RESELLER
+spotxchange.com, 212457, RESELLER
+spotx.tv, 212457, RESELLER
+indexexchange.com, 186046, RESELLER
+openx.com, 540274407, RESELLER, 6a698e2ec38604c6
+rubiconproject.com, 18694, RESELLER, 0bfd66d529a55807
+
+# Sonobi
+
+sonobi.com, b38c2441b8, DIRECT, d1a215d9eb5aee9e
+rhythmone.com, 1059622079, RESELLER, a670c89d4a324e47
+contextweb.com, 560606, RESELLER, 89ff185a4c4e857c
+
+# sovrn
+
+sovrn.com, 231393, DIRECT, fafdf38b16bf6b2b
+lijit.com, 231393, DIRECT, fafdf38b16bf6b2b
+gumgum.com, 11645, RESELLER, ffdef49475d318a9
+openx.com, 537120960, RESELLER
+openx.com, 83499, RESELLER
+openx.com, 538959099, RESELLER
+pubmatic.com, 137711, RESELLER
+pubmatic.com, 156212, RESELLER
+pubmatic.com, 62483, RESELLER
+contextweb.com, 558511, RESELLER, 89ff185a4c4e857c
+
+# TripleLift
+
+triplelift.com, 6040, DIRECT, 6c33edb13117fd86
+appnexus.com, 1314, RESELLER
+spotxchange.com, 228454, RESELLER, 7842df1d2fe2db34
+spotx.tv, 228454, RESELLER, 7842df1d2fe2db34
+lkqd.net, 504, RESELLER, 59c49fa9598a0117
+
+# Verizon Video
+
+advertising.com, 28254, DIRECT
+
+# Yieldmo
+
+yieldmo.com, 2108135906682242446, DIRECT
+yieldmo.com, 2099295185493722243, DIRECT
+appnexus.com, 7911, RESELLER #yieldmo
+rubiconproject.com, 17070, RESELLER, 0bfd66d529a55807 #yieldmo

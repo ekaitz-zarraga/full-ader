@@ -1,0 +1,109 @@
+google.com, pub-1577838290985250, DIRECT, f08c47fec0942fa0
+districtm.io, 100826, DIRECT
+appnexus.com, 7944, RESELLER
+appnexus.com, 1908, RESELLER
+exponential.com, 128130, DIRECT, afac06385c445926
+tribalfusion.com, 128130, DIRECT, afac06385c445926
+indexexchange.com, 176280, RESELLER, 50b1c356f2c5c8fc
+appnexus.com, 983, RESELLER
+
+google.com, pub-2051007210431666, RESELLER, f08c47fec0942fa21
+google.com, pub-2697679518515886, RESELLER #oko
+
+
+#aol
+adtech.com, 10848, DIRECT
+coxmt.com, 2000067907202, RESELLER
+pubmatic.com, 156078, RESELLER #banner
+pubmatic.com, 156377, RESELLER, 5d62403b186f2ace 
+openx.com, 537143344, RESELLER #banner
+indexexchange.com, 175407, RESELLER, 50b1c356f2c5c8fc
+
+
+
+#end of aol
+
+
+
+#33across 1.2.2020
+
+33across.com, 0010b00001sgheyAAA, DIRECT, bbea06d9c4d2853c
+sonobi.com, a416546bb7, RESELLER, d1a215d9eb5aee9e  #33Across #tag #ebda
+indexexchange.com, 190966, RESELLER, 50b1c356f2c5c8fc #33Across #tag #ebda
+rubiconproject.com, 21642, RESELLER, 0bfd66d529a55807 #33Across #hb #tag
+rubiconproject.com, 16414, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 21434, RESELLER, 0bfd66d529a55807
+pubmatic.com, 156423, RESELLER, 5d62403b186f2ace
+pubmatic.com, 158136, RESELLER, 5d62403b186f2ace
+pubmatic.com, 158569, RESELLER, 5d62403b186f2ace
+appnexus.com, 10239, RESELLER, f5ab79cb980f11d1
+appnexus.com, 1001, RESELLER, f5ab79cb980f11d1
+appnexus.com, 3135, RESELLER, f5ab79cb980f11d1
+openx.com, 537120563, RESELLER, 6a698e2ec38604c6
+openx.com, 539392223, RESELLER, 6a698e2ec38604c6
+rhythmone.com, 2439829435, RESELLER, a670c89d4a324e47
+emxdgt.com, 326, RESELLER, 1e1d41537f7cad7f
+adtech.com, 12094, RESELLER
+adtech.com, 9993, RESELLER
+advangelists.com, 8d3bba7425e7c98c50f52ca1b52d3735, RESELLER, 60d26397ec060f98
+google.com, pub-9557089510405422, RESELLER, f08c47fec0942fa0
+
+#33across
+
+
+
+
+
+
+# Carambola
+
+carambo.la, vmrr84, DIRECT, 08a6b436f8183ac9
+33across.com,0013300001qjCkpAAE,RESELLER,bbea06d9c4d2853c
+adtech.com,10334,RESELLER
+adtech.com,10468,RESELLER
+adtech.com,12094,RESELLER
+adtech.com,9993,RESELLER
+appnexus.com,1001,RESELLER,f5ab79cb980f11d1
+appnexus.com,1356,RESELLER,f5ab79cb980f11d1
+appnexus.com,1360,RESELLER,f5ab79cb980f11d1
+appnexus.com,3135,RESELLER,f5ab79cb980f11d1
+appnexus.com,4052,RESELLER,f5ab79cb980f11d1
+appnexus.com,7396,RESELLER,f5ab79cb980f11d1
+conversantmedia.com,40917,RESELLER,03113cd04947736d
+emxdgt.com,407,RESELLER,1e1d41537f7cad7f
+google.com,pub-2053057622751661,RESELLER,f08c47fec0942fa0
+google.com,pub-5995202563537249,RESELLER,f08c47fec0942fa0
+google.com,pub-9557089510405422,RESELLER,f08c47fec0942fa0
+gumgum.com,11645,RESELLER,ffdef49475d318a9
+lijit.com,231666,RESELLER,fafdf38b16bf6b2b
+lijit.com,249474,RESELLER,fafdf38b16bf6b2b
+lijit.com,260980,RESELLER,fafdf38b16bf6b2b
+openx.com,537120563,RESELLER,6a698e2ec38604c6
+openx.com,537140323,RESELLER,6a698e2ec38604c6
+openx.com,537149888,RESELLER,6a698e2ec38604c6
+openx.com,538959099,RESELLER,6a698e2ec38604c6
+openx.com,539392223,RESELLER,6a698e2ec38604c6
+openx.com,539924617,RESELLER,6a698e2ec38604c6
+openx.com,540031703,RESELLER,6a698e2ec38604c6
+pubmatic.com,137711,RESELLER,5d62403b186f2ace
+pubmatic.com,154037,RESELLER,5d62403b186f2ace
+pubmatic.com,156212,RESELLER,5d62403b186f2ace
+pubmatic.com,156439,RESELLER,5d62403b186f2ace
+pubmatic.com,156612,RESELLER,5d62403b186f2ace
+pubmatic.com,156700,RESELLER,5d62403b186f2ace
+rhythmone.com,2088589623,RESELLER,a670c89d4a324e47
+rubiconproject.com,16114,RESELLER,0bfd66d529a55807
+rubiconproject.com,16414,RESELLER,0bfd66d529a55807
+rubiconproject.com,17174,RESELLER,0bfd66d529a55807
+rubiconproject.com,17960,RESELLER,0bfd66d529a55807
+smartadserver.com,3357,RESELLER
+sovrn.com,231666,RESELLER,fafdf38b16bf6b2b
+sovrn.com,249474,RESELLER,fafdf38b16bf6b2b
+sovrn.com,257611,RESELLER,fafdf38b16bf6b2b
+sovrn.com,260980,RESELLER,fafdf38b16bf6b2b
+x.fidelity-media.com,6521,RESELLER
+
+# Carambola
+
+
+

@@ -1,0 +1,11 @@
+google.com, pub-1371363079924167, DIRECT, f08c47fec0942fa0
+
+# scupio
+rubiconproject.com, 17388, RESELLER, 0bfd66d529a55807
+google.com, pub-4866695676912380, RESELLER, f08c47fec0942fa0
+ucfunnel.com, par-988BE9D33473D9817847BD898A2ABE, RESELLER
+aralego.com, par-988BE9D33473D9817847BD898A2ABE, RESELLER
+
+# SUBDOMAINS
+subdomain=www.luckydog.tw
+subdomain=m.luckydog.tw

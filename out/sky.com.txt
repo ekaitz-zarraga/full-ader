@@ -1,0 +1,87 @@
+# ads.txt - Authorised Digital Sellers
+# https://iabtechlab.com/ads-txt/
+#
+# < SSP/Exchange Domain >, < AccountID >, < AccountType >, < TAGID >
+
+# Direct Sold
+google.com, pub-4001305999037718, DIRECT, f08c47fec0942fa0
+sharethrough.com, 335a1d90, DIRECT, d53b998a7bd4ecd2
+
+# Direct Sold - thecloud.net
+google.com, pub-7235506331434028, DIRECT, f08c47fec0942fa0
+
+# Programmatic
+rubiconproject.com, 7908, DIRECT, 0bfd66d529a55807
+rubiconproject.com, 206615, DIRECT, 0bfd66d529a55807
+kargo.com, 1322, DIRECT
+teads.tv, 10426, DIRECT, 15a9c44f6d26cbe1
+
+# InSkin
+indexexchange.com, 184665, RESELLER, 50b1c356f2c5c8fc
+
+# AddSuite
+google.com, pub-8544626876536809, RESELLER, f08c47fec0942fa0
+
+# StickyAds/Freewheel
+freewheel.tv, 446433, DIRECT
+freewheel.tv, 602305, DIRECT
+
+# Sharethrough
+sharethrough.com, 335a1d90, DIRECT, d53b998a7bd4ecd2
+indexexchange.com, 186046, RESELLER
+spotxchange.com, 212457, RESELLER
+spotx.tv, 212457, RESELLER
+pubmatic.com, 156557, RESELLER
+rubiconproject.com, 18694, RESELLER, 0bfd66d529a55807
+openx.com, 540274407, RESELLER, 6a698e2ec38604c6
+
+# Outbrain
+outbrain.com, 000d9a3d537f5b4a720424c4cb1eb748bf, DIRECT
+appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
+tremorhub.com, q017o-78mlk, RESELLER, 1a4e959a1b50034a # Premium video demand aka "Telaria"
+teads.tv, 15429, RESELLER, 15a9c44f6d26cbe1 # Premium video demand
+advertising.com, 26154, RESELLER # Premium video demand
+spotxchange.com, 225721, RESELLER # Premium video demand
+Freewheel.tv, 741650, RESELLER # Premium video demand
+rubiconproject.com, 17130, RESELLER, 0bfd66d529a55807 # Premium video demand
+lkqd.net, 450, RESELLER, 59c49fa9598a0117 # Premium video demand
+openx.com, 540393169, RESELLER, 6a698e2ec38604c6 # Premium video demand
+spotx.tv, 238936, RESELLER, 7842df1d2fe2db34 # Premium video demand
+spotxchange.com, 238936, RESELLER, 7842df1d2fe2db34 # Premium Video Demand
+advertising.com, 28038, RESELLER # Premium Video Demand
+rubiconproject.com, 19668, RESELLER, 0bfd66d529a55807
+contextweb.com, 562145, RESELLER, 89ff185a4c4e857c # Premium Video Demand
+indexexchange.com, 190856, RESELLER, 50b1c356f2c5c8fc # Premium Video Demand
+pubmatic.com, 158615, RESELLER, 5d62403b186f2ace # Premium video & display demand
+vidazoo.com, 1773068026, RESELLER, b6ada874b4d7d0b2 # Premium Video Demand
+
+# Unruly
+video.unrulymedia.com, UNRX_c1ecdc52-0b62-48c3-be59-779912c46f89, DIRECT
+video.unrulymedia.com, 1087917, DIRECT
+indexexchange.com, 182257, RESELLER
+appnexus.com, 6849, RESELLER
+rubiconproject.com, 15268, RESELLER
+
+# IE
+indexexchange.com, 190802, DIRECT
+
+# Seedtag
+seedtag.com, 2505-7277-01, DIRECT #ST0
+appnexus.com, 4009, RESELLER #ST1
+smartadserver.com, 3050, RESELLER #ST1
+rubiconproject.com, 17280, DIRECT, 0bfd66d529a55807 #ST1
+google.com, pub-2859204820585993, DIRECT, f08c47fec0942fa0 #ST1
+
+appnexus.com, 1019, RESELLER, f5ab79cb980f11d1
+appnexus.com, 2688, RESELLER, f5ab79cb980f11d1
+appnexus.com, 1360, RESELLER, f5ab79cb980f11d1
+openx.com, 540886550, RESELLER, 6a698e2ec38604c6
+sovrn.com, 231317, RESELLER, fafdf38b16bf6b2b
+lijit.com, 231317, RESELLER, fafdf38b16bf6b2b
+rubiconproject.com, 15380, RESELLER, 0bfd66d529a55807
+google.com, pub-1076181631997634, RESELLER, f08c47fec0942fa0
+google.com, pub-6205083306620034, RESELLER, f08c47fec0942fa0
+smartadserver.com, 2923, RESELLER
+sovrn.com, 273340, DIRECT, fafdf38b16bf6b2b
+lijit.com, 273340, DIRECT, fafdf38b16bf6b2b
+lijit.com, 273340-eb, DIRECT, fafdf38b16bf6b2b

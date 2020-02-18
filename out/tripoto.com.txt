@@ -1,0 +1,75 @@
+google.com, pub-3844877863303739, RESELLER, f08c47fec0942fa0
+google.com, pub-1301581561755234, RESELLER, f08c47fec0942fa0
+google.com, pub-1991679624331369, RESELLER, f08c47fec0942fa0
+google.com, pub-3015538794163384, RESELLER, f08c47fec0942fa0
+google.com, pub-3230759608956247, RESELLER, f08c47fec0942fa0
+google.com, pub-2679103605715789, RESELLER, f08c47fec0942fa0
+google.com, pub-2846699686180177, RESELLER, f08c47fec0942fa0
+google.com, pub-6209086188495781, RESELLER, f08c47fec0942fa0
+google.com, pub-5628310764637319, RESELLER, f08c47fec0942fa0
+
+google.com, pub-1037373295371110, DIRECT #video, banner, native, app
+google.com, pub-8415620659137418, RESELLER, f08c47fec0942fa0
+google.com, pub-3965079426703496, DIRECT, f08c47fec0942fa0
+openx.com, 62311, RESELLER, 6a698e2ec38604c6
+openx.com, 537147789, DIRECT, 6a698e2ec38604c6
+openx.com, 538986829, DIRECT, 6a698e2ec38604c6
+openx.com, 540198892, DIRECT, 6a698e2ec38604c6
+rubiconproject.com, 10306, DIRECT #banner
+rubiconproject.com, 17802, DIRECT, 0bfd66d529a55807 #banner, app, video
+indexexchange.com, 183963, DIRECT #banner
+indexexchange.com, 184913, DIRECT #banner
+appnexus.com, 7161, DIRECT #banner
+appnexus.com, 3364, RESELLER #native
+facebook.com, 1325898517502065, DIRECT #video, banner
+liveintent.com, 87, DIRECT #banner
+triplelift.com, 583, DIRECT #native
+triplelift.com, 4276, DIRECT #native
+triplelift.com, 4139, DIRECT #native
+taboola.com, 688168, DIRECT #native
+taboola.com, 782, DIRECT, c228e6794e811952 #native
+appnexus.com, 3364, RESELLER #native
+indexexchange.com, 183756, RESELLER #native
+rubiconproject.com, 16698, RESELLER, 0bfd66d529a55807 #native
+rubiconproject.com, 17070, RESELLER, 0bfd66d529a55807
+teads.tv, 11643, DIRECT #outstream
+teads.tv, 11445, DIRECT #outstream
+kargo.com, 108, DIRECT, #banner
+indexexchange.com, 184081, RESELLER #banner
+google.com, pub-8415620659137418, RESELLER #native
+google.com, pub-1011508009856018, RESELLER, f08c47fec0942fa0
+rubiconproject.com, 14904, RESELLER
+aps.amazon.com, 3201, DIRECT, #banner
+yieldmo.com, 2256686362630194500, DIRECT
+yieldmo.com, 1961710315104798528, DIRECT
+improvedigital.com, 1177, DIRECT #banner
+dianomi.com, 869, DIRECT, 61e7d0a6019f7cfc
+dianomi.com, 662, DIRECT, 61e7d0a6019f7cfc
+sovrn.com, 268968, DIRECT, fafdf38b16bf6b2b
+gumgum.com, 13877, DIRECT, ffdef49475d318a9
+
+
+#International
+
+google.com, pub-8541590135395559, DIRECT, f08c47fec0942fa0 #IT, banner
+google.com, pub-7514839373927339, DIRECT, f08c47fec0942fa0
+smartadserver.com, 1971, DIRECT #IT, banner
+teads.tv, 5568, DIRECT, 15a9c44f6d26cbe1 #IT, outstream
+teads.tv, 9801, DIRECT, 15a9c44f6d26cbe1 #IT, outstream
+rubiconproject.com, 10653, DIRECT, 0bfd66d529a55807 #IT, banner
+freewheel.tv, 2427, DIRECT, #IT, video
+indexexchange.com, 187848, RESELLER, 50b1c356f2c5c8fc
+openx.com, 540368071, RESELLER, 6a698e2ec38604c6
+rubiconproject.com, 18994, DIRECT, 0bfd66d529a55807
+rubiconproject.com, 14780, DIRECT, #nordic, banner
+rubiconproject.com, 12954, DIRECT, #nordic, banner
+google.com, pub-7024551668114021, DIRECT, f08c47fec0942fa0
+google.com, pub-1599446853501333, DIRECT, f08c47fec0942fa0
+google.com, pub-6018081807768025, DIRECT, f08c47fec0942fa0
+
+# DFP II
+google.com, pub-9467616132893696, DIRECT, f08c47fec0942fa0
+google.com, pub-2120667984285585, DIRECT, f08c47fec0942fa0
+google.com, pub-3992393056167515, RESELLER, f08c47fec0942fa0
+rubiconproject.com, 19512, RESELLER, 0bfd66d529a55807
+indexexchange.com, 187558, RESELLER, 50b1c356f2c5c8fc

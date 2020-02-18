@@ -1,0 +1,17 @@
+# ads.txt
+google.com, pub-3977246851012126, DIRECT, f08c47fec0942fa0
+rubiconproject.com, 7916, DIRECT, 0bfd66d529a55807
+freewheel.tv, 215106, DIRECT
+freewheel.tv, 215114, DIRECT
+sharethrough.com, 7a68a1c4, DIRECT, d53b998a7bd4ecd2
+sharethrough.com, 97d7a00c, DIRECT, d53b998a7bd4ecd2
+teads.tv, 13514, DIRECT, 15a9c44f6d26cbe1
+spotxchange.com, 142042, RESELLER, 7842df1d2fe2db34
+spotx.tv, 142042, RESELLER, 7842df1d2fe2db34
+appnexus.com, 10681, DIRECT
+rubiconproject.com, 10027, RESELLER, 0bfd66d529a55807
+outbrain.com, 0053f5856479e4ccf029ffe39b573fa364, DIRECT
+appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
+rubiconproject.com, 19668, RESELLER, 0bfd66d529a55807
+contact=adops@mediahuis.be
+contact=http://mediahuisconnect.be/nl/team-contact

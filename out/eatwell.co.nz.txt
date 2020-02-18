@@ -1,0 +1,35 @@
+# NZME NIMS & Radio Sites/ads.txt
+# Eatwell, Driven, Flava, Hauraki, NewsTalkZB, RadioSport, The ACC, The Coast, The Hits, The Mix, Spy, Viva, WatchMe, ZM
+# Direct
+google.com, pub-8162630360170543, DIRECT, f08c47fec0942fa0
+# Outbrain
+appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
+outbrain.com, 009311dbd786f34d9e2c57cf43242ecbee, DIRECT
+outbrain.com, 0086fc75c3c4935a4ca0107f76ac9112ea, DIRECT
+outbrain.com, 0086fc75c3c4935a4ca0107f76ac9112ea, RESELLER
+outbrain.com, 000ace3723b7344938dadfa4c758215ad8, DIRECT
+outbrain.com, 000ace3723b7344938dadfa4c758215ad8, RESELLER
+outbrain.com, 0087904f6b5f6d1775c0b49a801f1a1362, DIRECT
+outbrain.com, 0087904f6b5f6d1775c0b49a801f1a1362, RESELLER
+outbrain.com, 00f7e61f45d55b47d3010099a9d2640fc4, DIRECT
+outbrain.com, 00f7e61f45d55b47d3010099a9d2640fc4, RESELLER
+outbrain.com, 009377029c509e2e0c109054db1c88b8b2, DIRECT
+outbrain.com, 009377029c509e2e0c109054db1c88b8b2, RESELLER
+outbrain.com, 00ce4b558b6b5d9e11d2e8f892685904d0, DIRECT
+outbrain.com, 00ce4b558b6b5d9e11d2e8f892685904d0, RESELLER
+outbrain.com, 008e9bd1c005e724c22b946e9def06cba1, DIRECT
+outbrain.com, 008e9bd1c005e724c22b946e9def06cba1, RESELLER
+outbrain.com, 000608679a34e076007d9a81100abc9e48, DIRECT
+outbrain.com, 000608679a34e076007d9a81100abc9e48, RESELLER
+outbrain.com, 00ee99bc9873be5726fb5e8026ad9b5c87, DIRECT
+outbrain.com, 00ee99bc9873be5726fb5e8026ad9b5c87, RESELLER
+outbrain.com, 0083049130639e31420168ea778f02053a, DIRECT
+outbrain.com, 0083049130639e31420168ea778f02053a, RESELLER
+outbrain.com, 008f76f48c28627c6eebb976315ab8b382, DIRECT
+outbrain.com, 008f76f48c28627c6eebb976315ab8b382, RESELLER
+outbrain.com, 00a0c8c9f81c760e3b77c2096d11c3ba69, DIRECT
+outbrain.com, 00a0c8c9f81c760e3b77c2096d11c3ba69, RESELLER
+outbrain.com, 00f179c057a5c1307c3f16d25c35d682f5, DIRECT
+outbrain.com, 00f179c057a5c1307c3f16d25c35d682f5, RESELLER
+outbrain.com, 0083049130639e31420168ea778f02053a, DIRECT
+outbrain.com, 0083049130639e31420168ea778f02053a, RESELLER

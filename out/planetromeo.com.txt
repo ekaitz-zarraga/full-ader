@@ -1,0 +1,68 @@
+#Velis Media
+
+velismedia.com, 725, DIRECT
+
+smartadserver.com, 2675, DIRECT
+
+google.com, pub-8804303781641925, DIRECT, f08c47fec0942fa0
+
+freewheel.tv, 209809, DIRECT
+
+freewheel.tv, 210137, DIRECT
+
+fyber.com, 0e7404a25cbd5e48b35120f32efdc03c, DIRECT
+
+fyber.com, 096a960aed529e32d5811010c95b1e9b, DIRECT
+
+advertising.com, 9377, DIRECT
+
+adtech.com, 9377, DIRECT
+
+aolcloud.net, 9377, DIRECT
+
+advertising.com, 26192, DIRECT
+
+adtech.com, 26192, DIRECT
+
+aolcloud.net, 26192, DIRECT
+
+lkqd.net, 181, DIRECT, 59c49fa9598a0117
+
+lkqd.com, 181, DIRECT, 59c49fa9598a0117
+
+spotxchange.com, 128917,DIRECT,7842df1d2fe2db34
+
+spotx.tv, 128917, DIRECT, 7842df1d2fe2db34 
+
+springserve.com, 217, DIRECT, a24eb641fc82e93d
+
+tremorhub.com, e8okc, DIRECT, 1a4e959a1b50034a
+
+contextweb.com, 561073, DIRECT
+
+cedato.com, 49029963, DIRECT
+
+beachfront.com, 8434, DIRECT
+
+pubmatic.com, 156722, H, 5d62403b186f2ace
+
+advertising.com, 9377, DIRECT, e1a5b5b6e3255540
+
+adtech.com, 9377, DIRECT, e1a5b5b6e3255540
+
+advertising.com, 26192, DIRECT, e1a5b5b6e3255540
+
+adtech.com, 26192, DIRECT, e1a5b5b6e3255540
+
+beachfront.com, 8434, DIRECT, e2541279e8e2ca4d
+
+aps.amazon.com,ab326765-9a82-4109-b1ee-caa6ffa446de,DIRECT
+
+pubmatic.com,157150,RESELLER,5d62403b186f2ace
+
+openx.com,540191398,RESELLER,6a698e2ec38604c6
+
+appnexus.com,1908,RESELLER,f5ab79cb980f11d1
+
+yldbt.com,5b522cc167f6b300b89dc6d3,RESELLER,cd184cb30abaabb5
+

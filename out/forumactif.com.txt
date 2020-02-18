@@ -1,0 +1,1889 @@
+# Rubicon
+rubiconproject.com, 11662, DIRECT, 0bfd66d529a55807
+rubiconproject.com, 11662, RESELLER, 0bfd66d529a55807
+
+# Google
+google.com, pub-7463229954171336, DIRECT, f08c47fec0942fa0
+google.com, pub-9533414948433288, DIRECT, f08c47fec0942fa0
+google.com, pub-4421593088563619, DIRECT, f08c47fec0942fa0
+google.com, pub-5841554716441939, DIRECT, f08c47fec0942fa0
+google.com, pub-0339214227387817, DIRECT, f08c47fec0942fa0
+google.com, pub-6936959681156871, DIRECT, f08c47fec0942fa0
+google.com, pub-7445224030588342, DIRECT, f08c47fec0942fa0
+google.com, pub-5080574588852293, DIRECT, f08c47fec0942fa0
+google.com, pub-6076490735402665, DIRECT, f08c47fec0942fa0
+google.com, pub-7358201702723619, DIRECT, f08c47fec0942fa0
+
+# Taboola
+taboola.com, 1043568, DIRECT, c228e6794e811952
+taboola.com, 1043568, RESELLER, c228e6794e811952
+taboola.com, 1037541, DIRECT, c228e6794e811952
+taboola.com, 1037541, RESELLER, c228e6794e811952
+taboola.com, 1037543, DIRECT, c228e6794e811952
+taboola.com, 1037543, RESELLER, c228e6794e811952
+taboola.com, 1043566, DIRECT, c228e6794e811952
+taboola.com, 1043566, RESELLER, c228e6794e811952
+taboola.com, 1043567, DIRECT, c228e6794e811952
+taboola.com, 1043567, RESELLER, c228e6794e811952
+taboola.com, 1044860, DIRECT, c228e6794e811952
+taboola.com, 1044860, RESELLER, c228e6794e811952
+taboola.com, 1044861, DIRECT, c228e6794e811952
+taboola.com, 1044861, RESELLER, c228e6794e811952
+taboola.com, 1044862, DIRECT, c228e6794e811952
+taboola.com, 1044862, RESELLER, c228e6794e811952
+taboola.com, 1044863, DIRECT, c228e6794e811952
+taboola.com, 1044863, RESELLER, c228e6794e811952
+taboola.com, 1044864, DIRECT, c228e6794e811952
+taboola.com, 1044864, RESELLER, c228e6794e811952
+taboola.com, 1101406, DIRECT, c228e6794e811952
+taboola.com, 1101406, RESELLER, c228e6794e811952
+taboola.com, 1122530, DIRECT, c228e6794e811952
+taboola.com, 1122530, RESELLER, c228e6794e811952
+taboola.com, 1122529, DIRECT, c228e6794e811952
+taboola.com, 1122529, RESELLER, c228e6794e811952
+spotx.tv,71451,RESELLER
+spotxchange.com, 71451, RESELLER
+advertising.com, 8603, RESELLER
+pubmatic.com, 156307, RESELLER, 5d62403b186f2ace
+appnexus.com, 3364, RESELLER
+Indexexchange.com, 183756, RESELLER
+contextweb.com, 560382, RESELLER
+openx.com, 539154393, RESELLER
+tremorhub.com, z87wm, RESELLER, 1a4e959a1b50034a
+rubiconproject.com, 16698, RESELLER, 0bfd66d529a55807
+freewheel.tv, 799841, RESELLER
+freewheel.tv, 799921, RESELLER
+aol.com, 53392, RESELLER
+rhythmone.com, 1166984029, RESELLER, a670c89d4a324e47
+smartadserver.com, 3563, RESELLER
+beachfront.com, 13749, RESELLER, e2541279e8e2ca4d
+advertising.com, 28458, RESELLER
+admanmedia.com, 556, RESELLER
+
+# Infolinks
+Infolinks.com, 116170 , DIRECT
+appnexus.com, 3251, RESELLER
+openx.com, 118151, RESELLER, 6a698e2ec38604c6
+Pubmatic.com, 60809, RESELLER, 5d62403b186f2ace
+Adtech.com, 11409, RESELLER
+google.com, pub-6373315980741255, RESELLER, f08c47fec0942fa0
+google.com, pub-2697483239283649, RESELLER, f08c47fec0942fa0
+aol.com, 6202, RESELLER
+aol.com, 17744, RESELLER
+lkqd.net, 295, RESELLER, 59c49fa9598a0117
+lkqd.com, 295, RESELLER, 59c49fa9598a0117
+Freewheel.tv, 482337, RESELLER
+Freewheel.tv, 480609, RESELLER
+revcontent.com, 29124, RESELLER
+appnexus.com, 7666, RESELLER, f5ab79cb980f11d1
+rubiconproject.com, 156042, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 156042, RESELLER, 0bfd66d529a55807
+advertising.com, 8603, RESELLER
+advertising.com, 3531, RESELLER
+appnexus.com, 3364, RESELLER
+Indexexchange.com, 183756, RESELLER
+openx.com, 539154393, RESELLER
+rubiconproject.com, 16698, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 16904, RESELLER, 0bfd66d529a55807
+deepintent.com, 100004190, RESELLER, 4a5487c769369a8c
+pubmatic.com, 156872, RESELLER, 5d62403b186f2ace
+taboola.com, 1139936,RESELLER,c228e6794e811952
+taboola.com, 1135488,RESELLER,c228e6794e811952
+beachfront.com, 4243, RESELLER, e2541279e8e2ca4d
+beachfront.com, 4243, DIRECT, e2541279e8e2ca4d
+aol.com, 24849, RESELLER
+aol.com, 20515, RESELLER
+adtech.com, 11347, RESELLER
+adtech.com, 4710, RESELLER
+vi.ai, 913453223927387, RESELLER
+spotxchange.com, 74964, RESELLER, 7842df1d2fe2db34
+spotx.tv, 74964, RESELLER, 7842df1d2fe2db34
+smartadserver.com, 2776,RESELLER
+pubmatic.com, 156830, RESELLER
+rubiconproject.com, 15476, RESELLER, 0bfd66d529a55807
+
+# ComboStrike
+improvedigital.com, 1209, DIRECT
+smartadserver.com, 3453, DIRECT
+appnexus.com, 3703, RESELLER, f5ab79cb980f11d1
+advertising.com, 27839, RESELLER
+adtech.com, 11580, RESELLER
+google.com, pub-7454498665150754, RESELLER, f08c47fec0942fa0
+google.com, pub-7238868895107293, RESELLER, f08c47fec0942fa0
+appnexus.com, 2445, RESELLER
+motionspots.com, 56, DIRECT
+feed.eotech.co, 853905, DIRECT
+
+# ad6media
+ad6media.fr, 3508, DIRECT
+audiencerun.com, 191, DIRECT
+adtech.com, 4741, RESELLER
+indexexchange.com, 175407, RESELLER, 50b1c356f2c5c8fc
+openx.com, 537143344, RESELLER
+openx.com, 537125356, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 156078, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156377, RESELLER, 5d62403b186f2ace
+pubmatic.com, 155967, RESELLER, 5d62403b186f2ace
+contextweb.com, 558299, RESELLER, 89ff185a4c4e857c
+districtm.io, 101397, RESELLER, 3fd707be9c4527c3
+appnexus.com, 1908, RESELLER, f5ab79cb980f11d1
+google.com, pub-9685734445476814, RESELLER, f08c47fec0942fa0
+appnexus.com, 3153, RESELLER, f5ab79cb980f11d1
+adtech.com, 12069, RESELLER
+connectad.io, 73, RESELLER
+districtm.io, 100750, RESELLER
+google.com, pub-3960095709930134, RESELLER, f08c47fec0942fa0
+pubmatic.com, 156077, RESELLER, 5d62403b186f2ace
+openx.com, 537145117, RESELLER, 6a698e2ec38604c6
+adform.com, 768, RESELLER
+contextweb.com, 560489, RESELLER, 89ff185a4c4e857c
+smartadserver.com, 1641, RESELLER
+contextweb.com, 560288, RESELLER, 89ff185a4c4e857c
+pubmatic.com, 156439, RESELLER
+pubmatic.com, 154037, RESELLER
+pubmatic.com, 156030, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 16114, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 13132, RESELLER, 0bfd66d529a55807
+openx.com, 537149888, RESELLER, 6a698e2ec38604c6
+appnexus.com, 3703, RESELLER, f5ab79cb980f11d1
+groundtruth.com, 107, RESELLER, 81cbf0a75a5e0e9a
+districtm.io, 101760, RESELLER, 3fd707be9c4527c3
+loopme.com, s-2411, RESELLER, 6c8d5f95897a5a3b
+loopme.com, 5679, RESELLER, 6c8d5f95897a5a3b
+xad.com, 958, RESELLER, 81cbf0a75a5e0e9a
+improvedigital.com, 1028, RESELLER
+pubmatic.com, 157365, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 19034, RESELLER, 0bfd66d529a55807
+
+# SLM Ads
+appnexus.com,3703,DIRECT,f5ab79cb980f11d1
+appnexus.com, 9579, DIRECT, f5ab79cb980f11d1
+rubiconproject.com, 8769, RESELLER, 0bfd66d529a55807 # video
+google.com, pub-7019376976432612, RESELLER # video
+appnexus.com, 3360, RESELLER # video
+openx.com, 540463144, RESELLER, 6a698e2ec38604c6
+dailymotion.com, 899777, RESELLER # video
+freewheel.tv, 899777, RESELLER # video
+freewheel.tv, 901052, RESELLER # video
+pubmatic.com, 157510, RESELLER, 5d62403b186f2ace
+freewheel.tv, 197345, RESELLER # video
+freewheel.tv, 197353, RESELLER # video
+freewheel.tv, 197361, RESELLER # video
+freewheel.tv, 197369, RESELLER # video
+freewheel.tv, 197377, RESELLER # video
+freewheel.tv, 197385, RESELLER # video
+freewheel.tv, 197393, RESELLER # video
+freewheel.tv, 197401, RESELLER # video
+freewheel.tv, 197409, RESELLER # video
+freewheel.tv, 197417, RESELLER # video
+freewheel.tv, 197425, RESELLER # video
+freewheel.tv, 197433, RESELLER # video
+freewheel.tv, 197441, RESELLER # video
+freewheel.tv, 197449, RESELLER # video
+freewheel.tv, 197457, RESELLER # video
+freewheel.tv, 197465, RESELLER # video
+freewheel.tv, 197473, RESELLER # video
+freewheel.tv, 197481, RESELLER # video
+freewheel.tv, 198953, RESELLER # video
+freewheel.tv, 206641, RESELLER # video
+freewheel.tv, 215066, RESELLER # video
+freewheel.tv, 283154, RESELLER # video
+freewheel.tv, 283666, RESELLER # video
+freewheel.tv, 288658, RESELLER # video
+freewheel.tv, 310385, RESELLER # video
+freewheel.tv, 644210, RESELLER # video
+freewheel.tv, 644226, RESELLER # video
+freewheel.tv, 644242, RESELLER # video
+freewheel.tv, 644258, RESELLER # video
+freewheel.tv, 644274, RESELLER # video
+freewheel.tv, 644290, RESELLER # video
+freewheel.tv, 644306, RESELLER # video
+freewheel.tv, 644322, RESELLER # video
+freewheel.tv, 644338, RESELLER # video
+freewheel.tv, 644354, RESELLER # video
+freewheel.tv, 644370, RESELLER # video
+freewheel.tv, 644386, RESELLER # video
+freewheel.tv, 644402, RESELLER # video
+freewheel.tv, 644418, RESELLER # video
+freewheel.tv, 644434, RESELLER # video
+freewheel.tv, 644450, RESELLER # video
+freewheel.tv, 644466, RESELLER # video
+freewheel.tv, 644482, RESELLER # video
+freewheel.tv, 644498, RESELLER # video
+freewheel.tv, 732722, RESELLER # video
+freewheel.tv, 321361, RESELLER # video
+freewheel.tv, 321377, RESELLER # video
+freewheel.tv, 321393, RESELLER # video
+freewheel.tv, 321409, RESELLER # video
+freewheel.tv, 321425, RESELLER # video
+freewheel.tv, 321441, RESELLER # video
+freewheel.tv, 321457, RESELLER # video
+freewheel.tv, 321473, RESELLER # video
+freewheel.tv, 321489, RESELLER # video
+freewheel.tv, 321505, RESELLER # video
+freewheel.tv, 321521, RESELLER # video
+freewheel.tv, 321537, RESELLER # video
+freewheel.tv, 321553, RESELLER # video
+freewheel.tv, 321569, RESELLER # video
+freewheel.tv, 321585, RESELLER # video
+freewheel.tv, 321601, RESELLER # video
+freewheel.tv, 321617, RESELLER # video
+freewheel.tv, 321633, RESELLER # video
+freewheel.tv, 321649, RESELLER # video
+freewheel.tv, 321665, RESELLER # video
+freewheel.tv, 321681, RESELLER # video
+freewheel.tv, 321697, RESELLER # video
+freewheel.tv, 321713, RESELLER # video
+freewheel.tv, 321729, RESELLER # video
+freewheel.tv, 321745, RESELLER # video
+freewheel.tv, 644514, RESELLER # video
+freewheel.tv, 644530, RESELLER # video
+freewheel.tv, 644546, RESELLER # video
+freewheel.tv, 644562, RESELLER # video
+freewheel.tv, 644578, RESELLER # video
+freewheel.tv, 644594, RESELLER # video
+freewheel.tv, 644610, RESELLER # video
+freewheel.tv, 644626, RESELLER # video
+freewheel.tv, 644642, RESELLER # video
+freewheel.tv, 644658, RESELLER # video
+freewheel.tv, 644674, RESELLER # video
+freewheel.tv, 644690, RESELLER # video
+freewheel.tv, 644706, RESELLER # video
+freewheel.tv, 644722, RESELLER # video
+freewheel.tv, 644738, RESELLER # video
+freewheel.tv, 644754, RESELLER # video
+freewheel.tv, 644770, RESELLER # video
+freewheel.tv, 644786, RESELLER # video
+freewheel.tv, 644802, RESELLER # video
+freewheel.tv, 732754, RESELLER # video
+dailymotion.com, 197345, RESELLER # video
+dailymotion.com, 197353, RESELLER # video
+dailymotion.com, 197361, RESELLER # video
+dailymotion.com, 197369, RESELLER # video
+dailymotion.com, 197377, RESELLER # video
+dailymotion.com, 197385, RESELLER # video
+dailymotion.com, 197393, RESELLER # video
+dailymotion.com, 197401, RESELLER # video
+dailymotion.com, 197409, RESELLER # video
+dailymotion.com, 197417, RESELLER # video
+dailymotion.com, 197425, RESELLER # video
+dailymotion.com, 197433, RESELLER # video
+dailymotion.com, 197441, RESELLER # video
+dailymotion.com, 197449, RESELLER # video
+dailymotion.com, 197457, RESELLER # video
+dailymotion.com, 197465, RESELLER # video
+dailymotion.com, 197473, RESELLER # video
+dailymotion.com, 197481, RESELLER # video
+dailymotion.com, 198953, RESELLER # video
+dailymotion.com, 206641, RESELLER # video
+dailymotion.com, 215066, RESELLER # video
+dailymotion.com, 283154, RESELLER # video
+dailymotion.com, 283666, RESELLER # video
+dailymotion.com, 288658, RESELLER # video
+dailymotion.com, 310385, RESELLER # video
+dailymotion.com, 644210, RESELLER # video
+dailymotion.com, 644226, RESELLER # video
+dailymotion.com, 644242, RESELLER # video
+dailymotion.com, 644258, RESELLER # video
+dailymotion.com, 644274, RESELLER # video
+dailymotion.com, 644290, RESELLER # video
+dailymotion.com, 644306, RESELLER # video
+dailymotion.com, 644322, RESELLER # video
+dailymotion.com, 644338, RESELLER # video
+dailymotion.com, 644354, RESELLER # video
+dailymotion.com, 644370, RESELLER # video
+dailymotion.com, 644386, RESELLER # video
+dailymotion.com, 644402, RESELLER # video
+dailymotion.com, 644418, RESELLER # video
+dailymotion.com, 644434, RESELLER # video
+dailymotion.com, 644450, RESELLER # video
+dailymotion.com, 644466, RESELLER # video
+dailymotion.com, 644482, RESELLER # video
+dailymotion.com, 644498, RESELLER # video
+dailymotion.com, 732722, RESELLER # video
+dailymotion.com, 321361, RESELLER # video
+dailymotion.com, 321377, RESELLER # video
+dailymotion.com, 321393, RESELLER # video
+dailymotion.com, 321409, RESELLER # video
+dailymotion.com, 321425, RESELLER # video
+dailymotion.com, 321441, RESELLER # video
+dailymotion.com, 321457, RESELLER # video
+dailymotion.com, 321473, RESELLER # video
+dailymotion.com, 321489, RESELLER # video
+dailymotion.com, 321505, RESELLER # video
+dailymotion.com, 321521, RESELLER # video
+dailymotion.com, 321537, RESELLER # video
+dailymotion.com, 321553, RESELLER # video
+dailymotion.com, 321569, RESELLER # video
+dailymotion.com, 321585, RESELLER # video
+dailymotion.com, 321601, RESELLER # video
+dailymotion.com, 321617, RESELLER # video
+dailymotion.com, 321633, RESELLER # video
+dailymotion.com, 321649, RESELLER # video
+dailymotion.com, 321665, RESELLER # video
+dailymotion.com, 321681, RESELLER # video
+dailymotion.com, 321697, RESELLER # video
+dailymotion.com, 321713, RESELLER # video
+dailymotion.com, 321729, RESELLER # video
+dailymotion.com, 321745, RESELLER # video
+dailymotion.com, 644514, RESELLER # video
+dailymotion.com, 644530, RESELLER # video
+dailymotion.com, 644546, RESELLER # video
+dailymotion.com, 644562, RESELLER # video
+dailymotion.com, 644578, RESELLER # video
+dailymotion.com, 644594, RESELLER # video
+dailymotion.com, 644610, RESELLER # video
+dailymotion.com, 644626, RESELLER # video
+dailymotion.com, 644642, RESELLER # video
+dailymotion.com, 644658, RESELLER # video
+dailymotion.com, 644674, RESELLER # video
+dailymotion.com, 644690, RESELLER # video
+dailymotion.com, 644706, RESELLER # video
+dailymotion.com, 644722, RESELLER # video
+dailymotion.com, 644738, RESELLER # video
+dailymotion.com, 644754, RESELLER # video
+dailymotion.com, 644770, RESELLER # video
+dailymotion.com, 644786, RESELLER # video
+dailymotion.com, 644802, RESELLER # video
+dailymotion.com, 732754, RESELLER # video
+lkqd.net, 410, RESELLER, 59c49fa9598a0117 # video LATAM
+lkqd.com, 410, RESELLER, 59c49fa9598a0117 # video LATAM
+google.com, pub-8673457733281446, RESELLER, f08c47fec0942fa0 # video LATAM
+appnexus.com, 9923, RESELLER, f5ab79cb980f11d1 # video LATAM
+adform.com, 622, RESELLER
+adform.com, 1226, RESELLER
+adform.com, 1721, RESELLER, 9f5210a2f0999e32
+adform.com, 1819, RESELLER, 9f5210a2f0999e32
+adform.com, 1943, RESELLER
+adform.com, 2110, RESELLER
+adform.com, 2112, RESELLER
+adtech.com, 4812, RESELLER
+adtech.com, 11262, RESELLER
+advertising.com, 24324, RESELLER
+aolcloud.net, 4812, RESELLER
+appnexus.com, 956, RESELLER, f5ab79cb980f11d1
+appnexus.com, 1785, RESELLER, f5ab79cb980f11d1
+appnexus.com, 3703, RESELLER, f5ab79cb980f11d1
+appnexus.com, 3723, RESELLER
+appnexus.com, 9986, RESELLER, f5ab79cb980f11d1
+appnexus.com, 10039, RESELLER
+contextweb.com, 560288, RESELLER, 89ff185a4c4e857c
+contextweb.com, 560577, RESELLER, 89ff185a4c4e857c
+coull.com, 13704, RESELLER
+coxmt.com, 2000067907202, RESELLER
+freewheel.tv, 13755, RESELLER
+freewheel.tv, 13945, RESELLER
+freewheel.tv, 328705, RESELLER
+freewheel.tv, 328721, RESELLER
+freewheel.tv, 709730, RESELLER
+freewheel.tv, 770769, RESELLER
+freewheel.tv, 770785, RESELLER
+freewheel.tv, 962145, RESELLER
+freewheel.tv, 962209, RESELLER
+freewheel.tv, 1000577, RESELLER
+google.com, pub-4979986541055910, RESELLER, f08c47fec0942fa0
+google.com, pub-7538555282033458, RESELLER, f08c47fec0942fa0
+improvedigital.com, 907, RESELLER
+improvedigital.com, 1057, RESELLER
+improvedigital.com, 1225, RESELLER
+improvedigital.com, 1227, RESELLER
+indexexchange.com, 175407, RESELLER
+indexexchange.com, 186765, RESELLER
+ligadx.com, 22630, RESELLER
+ligadx.com, e17a1544ba3bdb8d, RESELLER
+lkqd.com, 423, RESELLER, 59c49fa9598a0117
+lkqd.net, 140, RESELLER, 59c49fa9598a0117
+mediabong.com, 2752, RESELLER
+mgid.com, 399641, RESELLER, d4c29acad76ce94f
+onetag.com, 38980b46b0, RESELLER
+openx.com, 537125356, RESELLER
+openx.com, 537143344, RESELLER
+openx.com, 537149888, RESELLER, 6a698e2ec38604c6
+openx.com, 540022851, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 73785, RESELLER, 5d62403b186f2ace
+pubmatic.com, 120391, RESELLER, 5d62403b186f2ace
+pubmatic.com, 154037, RESELLER
+pubmatic.com, 156078, RESELLER
+pubmatic.com, 156377, RESELLER
+pubmatic.com, 156439, RESELLER
+pubmatic.com, 156962, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 13258, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 16114, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 16568, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 16824, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 19620, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 21070, RESELLER, 0bfd66d529a55807
+smartadserver.com, 2058, RESELLER
+smartadserver.com, 3094, RESELLER
+smartadserver.com, 3296, RESELLER
+smartclip.net, 10720, RESELLER
+sovrn.com, 257611, RESELLER, fafdf38b16bf6b2b
+spotx.tv, 146631, RESELLER, 7842df1d2fe2db34
+spotx.tv, 206177, RESELLER, 7842df1d2fe2db34
+spotx.tv, 220321, RESELLER, 7842df1d2fe2db34
+spotx.tv, 239899, RESELLER, 7842df1d2fe2db34
+spotx.tv, 241914, RESELLER, 7842df1d2fe2db34
+spotx.tv, 244525, RESELLER, 7842df1d2fe2db34
+spotx.tv, 245659, RESELLER, 7842df1d2fe2db34
+spotx.tv, 246988, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 146631, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 206177, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 220321, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 239899, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 241914, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 244525, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 245659, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 246988, RESELLER, 7842df1d2fe2db34
+springserve.com, 124, RESELLER, a24eb641fc82e93d #Lo70s
+tremorhub.com, 0cc6w-h2tvh, RESELLER, 1a4e959a1b50034a
+tremorhub.com, 0cc6w-stphr, RESELLER, 1a4e959a1b50034a
+viralize.com, 4805, DIRECT
+smartclip.net, 10213, DIRECT # LATAM
+smartclip.net, 2898, DIRECT # LATAM
+smartclip.net, 10220, DIRECT # LATAM
+smartclip.net, 6780, DIRECT # LATAM
+smartclip.net, 10219, DIRECT # LATAM
+smartclip.net, 10221, DIRECT # LATAM
+smartclip.net, 10213, RESELLER # LATAM
+smartclip.net, 2898, RESELLER # LATAM
+smartclip.net, 10220, RESELLER # LATAM
+smartclip.net, 6780, RESELLER # LATAM
+smartclip.net, 10219, RESELLER # LATAM
+smartclip.net, 10221, RESELLER # LATAM
+AOL.com, 7801, RESELLER # Video
+freewheel.tv, 146777, RESELLER # HK
+freewheel.tv, 202401, RESELLER # HK
+freewheel.tv, 771073, RESELLER # TH
+freewheel.tv, 771089, RESELLER # TH
+appnexus.com, 7596 , RESELLER # TH
+freewheel.tv, 838673, RESELLER # TH
+freewheel.tv, 862033, RESELLER # TH
+smartadserver.com, 886, RESELLER # Video CH, DE, AT
+google.com, pub-3057818873023700, RESELLER # Video CH
+appnexus.com, 3741, RESELLER # Video CH
+appnexus.com, 3528, RESELLER # Video CH
+appnexus.com, 1851, RESELLER # Video CH
+appnexus.com, 9242, RESELLER # Video CH
+spotxchange.com, 113481, RESELLER, 7842df1d2fe2db34 # DE, CH, AT
+spotx.tv, 113481, RESELLER, 7842df1d2fe2db34 # DE, CH, AT
+appnexus.com, 8904, RESELLER # DE, CH, AT
+pubmatic.com, 100531, RESELLER # DE, CH, AT
+openx.com, 537148817, RESELLER, 6a698e2ec38604c6 # DE, CH, AT
+freewheel.tv, 170809, RESELLER # Video BE
+freewheel.tv, 175881, RESELLER # Video BE
+google.com, pub-0928917523760106, RESELLER, f08c47fec0942fa0 # BE
+appnexus.com, 2668, RESELLER, f5ab79cb980f11d1 # NL
+improvedigital.com, 755, RESELLER # NL
+google.com, pub-5879135606263005, RESELLER # NL
+smartclip.net, 855,RESELLER # DE
+smartclip.net, 9098, RESELLER # ES
+google.com, pub-8674340505315230, RESELLER, f08c47fec0942fa0 # ES
+google.com, pub-7197632655386039, RESELLER, f08c47fec0942fa0 # ES
+yieldlab.net, 72723, RESELLER # AT
+yieldlab.net, 227224, RESELLER # AT
+yieldlab.net, 506261, RESELLER # AT
+admixer.net, 10248498-454d-49a4-a789-acb8fe837f59, RESELLER # UA
+google.com, pub-0627101520158699, RESELLER, f08c47fec0942fa0 # IT
+freewheel.tv, 2493, RESELLER # IT
+freewheel.tv, 287842, RESELLER # IT
+freewheel.tv, 595217, RESELLER # IT
+freewheel.tv, 595281, RESELLER # IT
+freewheel.tv, 595681, RESELLER # IT
+freewheel.tv, 595713, RESELLER # IT
+freewheel.tv, 287858, RESELLER # IT
+freewheel.tv, 595233, RESELLER # IT
+freewheel.tv, 595665, RESELLER # IT
+freewheel.tv, 595697, RESELLER # IT
+freewheel.tv, 595729, RESELLER # IT
+freewheel.tv, 449249, RESELLER # IT
+freewheel.tv, 449265, RESELLER # IT
+freewheel.tv, 762193, RESELLER # IT
+freewheel.tv, 762241, RESELLER # IT
+Improvedigital.com, 410, RESELLER # IT
+adform.com, 96, RESELLER # IT
+rubiconproject.com, 11762, RESELLER, 0bfd66d529a55807 # IT
+google.com, pub-9381882208654001, RESELLER # IT
+google.com, pub-7774251886246218, RESELLER # IT
+adtech.com, 4819, RESELLER # IT
+4aolcloud.net, 4819, RESELLER # IT
+advertising.com, 21984, RESELLER # IT
+google.com, pub-4979986541055910, RESELLER, f08c47fec0942fa0 # IT
+appnexus.com, 956, RESELLER, f5ab79cb980f11d1 # IT
+rubiconproject.com, 13258, RESELLER, 0bfd66d529a55807 # IT
+openx.com, 537128103, RESELLER # IT
+adform.com, 1721, RESELLER # IT
+pubmatic.com, 73785, RESELLER, 5d62403b186f2ace # IT
+freewheel.tv, 201601, RESELLER # IT
+adtech.com, 4812, RESELLER # IT
+aolcloud.net, 4812, RESELLER # IT
+smartadserver.com, 1827, RESELLER # IT
+improvedigital.com, 335, RESELLER # IT
+appnexus.com, 3538, RESELLER # IT
+appnexus.com, 3539, RESELLER # IT
+appnexus.com, 3540, RESELLER # IT
+adform.com, 1226, RESELLER # IT
+adform.com, 1943, RESELLER # IT
+adform.com, 622, RESELLER # IT
+adform.com, 2110, RESELLER # IT
+adform.com, 2112, RESELLER # IT
+appnexus.com, 1785, RESELLER, f5ab79cb980f11d1 # IT
+appnexus.com, 3141, RESELLER, f5ab79cb980f11d1 # IT
+indexexchange.com, 183965, RESELLER, 50b1c356f2c5c8fc # IT
+Pubmatic.com, 156458, RESELLER, 5d62403b186f2ace # IT
+Pubmatic.com, 156325, RESELLER, 5d62403b186f2ace # IT
+Pubmatic.com, 156084, RESELLER, 5d62403b186f2ace # IT
+coxmt.com, 2000067995202, RESELLER # IT
+freewheel.tv, 758610, RESELLER # IT
+freewheel.tv, 758642, RESELLER # IT
+freewheel.tv, 758626, RESELLER # IT
+freewheel.tv, 758658, RESELLER # IT
+onetag.com, 3895f66b2a, RESELLER # IT
+coxmt.com, 2000067995202, RESELLER # IT
+spotxchange.com, 223430, RESELLER, 7842df1d2fe2db34 # IT
+spotx.tv, 223430, RESELLER, 7842df1d2fe2db34 # IT
+freewheel.tv, 764641, RESELLER # IT
+freewheel.tv, 764673, RESELLER # IT
+freewheel.tv, 764705, RESELLER # IT
+freewheel.tv, 764657, RESELLER # IT
+freewheel.tv, 764689, RESELLER # IT
+freewheel.tv, 764737, RESELLER # IT
+freewheel.tv, 772305, RESELLER # IT
+freewheel.tv, 772321, RESELLER # IT
+freewheel.tv, 780353, RESELLER # IT
+freewheel.tv, 780369, RESELLER # IT
+freewheel.tv, 782017, RESELLER # IT
+freewheel.tv, 782033, RESELLER # IT
+freewheel.tv, 9904, RESELLER # IT
+freewheel.tv, 720210, RESELLER # IT
+freewheel.tv, 720242, RESELLER # IT
+freewheel.tv, 784481, RESELLER # IT
+freewheel.tv, 784497, RESELLER # IT
+pubmatic.com, 156777, RESELLER, 5d62403b186f2ace # IT
+smartadserver.com, 1510, RESELLER # PT
+google.com, pub-4939634212290203, RESELLER, f08c47fec0942fa0 # PT
+indexexchange.com, 179394, RESELLER # PT
+contextweb.com, 560288,RESELLER, 89ff185a4c4e857c # PT
+pubmatic.com, 156439, RESELLER # PT
+pubmatic.com, 154037, RESELLER # PT
+rubiconproject.com, 16114, RESELLER, 0bfd66d529a55807 # PT
+openx.com, 537149888, RESELLER, 6a698e2ec38604c6 # PT
+sovrn.com, 257611, RESELLER, fafdf38b16bf6b2b # PT
+appnexus.com, 3703, RESELLER, f5ab79cb980f11d1 # PT
+appnexus.com, 2964, RESELLER # PT
+appnexus.com, 7167, RESELLER # PT
+teads.tv, 13696, RESELLER, 15a9c44f6d26cbe1 # PT
+adform.com, 1743, RESELLER # TR
+spotxchange.com, 223229, RESELLER, 7842df1d2fe2db34 # TR
+spotx.tv, 223229, RESELLER, 7842df1d2fe2db34 # TR
+google.com, pub-2577219840435371, RESELLER, f08c47fec0942fa0 # MENA
+rubiconproject.com, 14138, RESELLER, 0bfd66d529a55807 # MENA
+rubiconproject.com, 18024, RESELLER, 0bfd66d529a55807 # MENA
+google.com, pub-1386280613967939, RESELLER, f08c47fec0942fa0 # GB, IE
+advertising.com, 8791, RESELLER # GB, IE
+tidaltv.com, 25596, RESELLER # GB, IE
+tidaltv.com, 9008, RESELLER # GB, IE
+tidaltv.com, 9141, RESELLER # GB, IE
+tidaltv.com, 6440, RESELLER # GB, IE
+rubiconproject.com, 16746, RESELLER, 0bfd66d529a55807 # GB, IE
+spotxchange.com, 95719, RESELLER, 7842df1d2fe2db34 # GB, IE
+spotx.tv, 95719 , RESELLER, 7842df1d2fe2db34 # GB, IE
+freewheel.tv, 776577, RESELLER # GB, IE
+freewheel.tv, 776593, RESELLER # GB, IE
+freewheel.tv, 856593, RESELLER
+freewheel.tv, 856609, RESELLER
+freewheel.tv, 856625, RESELLER
+freewheel.tv, 856641, RESELLER
+freewheel.tv, 856657, RESELLER
+freewheel.tv, 856673, RESELLER
+appnexus.com, 994, RESELLER, f5ab79cb980f11d1 # NL
+rubiconproject.com, 11394, RESELLER, 0bfd66d529a55807 # NL
+pubmatic.com, 156487, RESELLER, 5d62403b186f2ace # NL
+adform.com, 648, RESELLER # NL
+freewheel.tv, 18373, RESELLER # NL
+freewheel.tv, 17821, RESELLER # NL
+improvedigital.com, 985, RESELLER # NL
+appnexus.com, 1504, RESELLER # CH
+lkqd.net, 307, RESELLER, 59c49fa9598a0117 # UA, RS, AL, BA,MK, ME, SK, LT, MT, MD, BY, EE, HR, SI, LV, PL, RU, BG, RO, HU, CZ, SI
+google.com, pub-5512390705137507, RESELLER, f08c47fec0942fa0 # UA, RS, AL, BA,MK, ME, SK, LT, MT, MD, BY, EE, HR, SI, LV, PL, RU, BG, RO, HU, CZ, SI
+smartadserver.com, 2079, RESELLER # UA, RS, AL, BA,MK, ME, SK, LT, MT, MD, BY, EE, HR, SI, LV, PL, RU, BG, RO, HU, CZ, SI
+google.com, pub-1937576406332709, RESELLER, f08c47fec0942fa0 # UA, RS, AL, BA,MK, ME, SK, LT, MT, MD, BY, EE, HR, SI, LV, PL, RU, BG, RO, HU, CZ, SI
+google.com, pub-8856559311549217, RESELLER, f08c47fec0942fa0 # UA, RS, AL, BA,MK, ME, SK, LT, MT, MD, BY, EE, HR, SI, LV, PL, RU, BG, RO, HU, CZ, SI
+freewheel.tv, 13841 , RESELLER # IT
+freewheel.tv, 642114, RESELLER # IT
+google.com, pub-3391297137506159, RESELLER, f08c47fec0942fa0 # PL
+google.com, pub-1914589287576951, RESELLER, f08c47fec0942fa0 # PL
+adform.com, 1019, RESELLER # PL
+rubiconproject.com, 13998, RESELLER, 0bfd66d529a55807 # PL
+smartadserver.com, 3161, RESELLER # CA
+tremorhub.com, 19i64-nwjvk, RESELLER, 1a4e959a1b50034a # NZ
+google.com, pub-9058291854443881, RESELLER # Asia
+appnexus.com, 3691, RESELLER # Asia
+smartadserver.com, 2060, RESELLER # Asia
+rubiconproject.com, 17692, RESELLER, 0bfd66d529a55807 # Asia
+spotxchange.com, 218870, RESELLER, 7842df1d2fe2db34 # Asia
+spotx.tv, 218870, RESELLER, 7842df1d2fe2db34 # Asia
+pubmatic.com, 156792, RESELLER, 5d62403b186f2ace # Asia
+ad-stir.com, 8943, RESELLER # Asia
+advertising.com, 26947, RESELLER # Asia
+ads.adasiaholdings.com, 1, RESELLER # Asia
+openx.com, 540291874, RESELLER, 6a698e2ec38604c6 # Asia
+openx.com, 540308356, RESELLER, 6a698e2ec38604c6 # Asia
+Pubmatic.com, 39374, RESELLER, 5d62403b186f2ace
+Pubmatic.com, 156819, RESELLER, 5d62403b186f2ace
+Pubmatic.com, 156820, RESELLER, 5d62403b186f2ace
+Advertising.com, 19011, RESELLER
+lkqd.net, 51, RESELLER, 59c49fa9598a0117
+lkqd.com, 51, RESELLER, 59c49fa9598a0117
+freewheel.tv, 295681, RESELLER
+freewheel.tv, 299345, RESELLER
+Improvedigital.com, 1154, RESELLER
+rubiconproject.com, 16048, RESELLER, 0bfd66d529a55807
+openx.com, 537124691, RESELLER, 6a698e2ec38604c6
+improvedigital.com, 1066, RESELLER
+Freewheel.tv, 222017, RESELLER
+Freewheel.tv, 636593, RESELLER
+freewheel.tv, 479537, RESELLER
+beachfront.com, 4469, RESELLER, e2541279e8e2ca4d
+advertising.com, 18632, RESELLER
+advertising.com, 24700, RESELLER
+vi.ai, 575251357960979, RESELLER
+beachfront.com, 5171, RESELLER
+nsightvideo.com, 10, RESELLER #Video
+nsightvideo.com, 11, RESELLER #Video
+nsightvideo.com, 110, RESELLER #Video
+nsightvideo.com, 111, RESELLER #Video
+nsightvideo.com, 112, RESELLER #Video
+nsightvideo.com, 113, RESELLER #Video
+nsightvideo.com, 114, RESELLER #Video
+nsightvideo.com, 115, RESELLER #Video
+nsightvideo.com, 116, RESELLER #Video
+nsightvideo.com, 117, RESELLER #Video
+nsightvideo.com, 118, RESELLER #Video
+nsightvideo.com, 119, RESELLER #Video
+nsightvideo.com, 12, RESELLER #Video
+nsightvideo.com, 120, RESELLER #Video
+nsightvideo.com, 121, RESELLER #Video
+nsightvideo.com, 122, RESELLER #Video
+nsightvideo.com, 123, RESELLER #Video
+nsightvideo.com, 124, RESELLER #Video
+nsightvideo.com, 125, RESELLER #Video
+nsightvideo.com, 126, RESELLER #Video
+nsightvideo.com, 127, RESELLER #Video
+nsightvideo.com, 128, RESELLER #Video
+nsightvideo.com, 129, RESELLER #Video
+nsightvideo.com, 13, RESELLER #Video
+nsightvideo.com, 130, RESELLER #Video
+nsightvideo.com, 131, RESELLER #Video
+nsightvideo.com, 132, RESELLER #Video
+nsightvideo.com, 133, RESELLER #Video
+nsightvideo.com, 134, RESELLER #Video
+nsightvideo.com, 135, RESELLER #Video
+nsightvideo.com, 136, RESELLER #Video
+nsightvideo.com, 137, RESELLER #Video
+nsightvideo.com, 138, RESELLER #Video
+nsightvideo.com, 139, RESELLER #Video
+nsightvideo.com, 14, RESELLER #Video
+nsightvideo.com, 140, RESELLER #Video
+nsightvideo.com, 141, RESELLER #Video
+nsightvideo.com, 142, RESELLER #Video
+nsightvideo.com, 143, RESELLER #Video
+nsightvideo.com, 144, RESELLER #Video
+nsightvideo.com, 145, RESELLER #Video
+nsightvideo.com, 146, RESELLER #Video
+nsightvideo.com, 147, RESELLER #Video
+nsightvideo.com, 148, RESELLER #Video
+nsightvideo.com, 149, RESELLER #Video
+nsightvideo.com, 15, RESELLER #Video
+nsightvideo.com, 150, RESELLER #Video
+nsightvideo.com, 151, RESELLER #Video
+nsightvideo.com, 152, RESELLER #Video
+nsightvideo.com, 153, RESELLER #Video
+nsightvideo.com, 154, RESELLER #Video
+nsightvideo.com, 155, RESELLER #Video
+nsightvideo.com, 156, RESELLER #Video
+nsightvideo.com, 157, RESELLER #Video
+nsightvideo.com, 158, RESELLER #Video
+nsightvideo.com, 159, RESELLER #Video
+nsightvideo.com, 16, RESELLER #Video
+nsightvideo.com, 160, RESELLER #Video
+nsightvideo.com, 161, RESELLER #Video
+nsightvideo.com, 162, RESELLER #Video
+nsightvideo.com, 163, RESELLER #Video
+nsightvideo.com, 164, RESELLER #Video
+nsightvideo.com, 165, RESELLER #Video
+nsightvideo.com, 166, RESELLER #Video
+nsightvideo.com, 167, RESELLER #Video
+nsightvideo.com, 168, RESELLER #Video
+nsightvideo.com, 169, RESELLER #Video
+nsightvideo.com, 17, RESELLER #Video
+nsightvideo.com, 170, RESELLER #Video
+nsightvideo.com, 171, RESELLER #Video
+nsightvideo.com, 172, RESELLER #Video
+nsightvideo.com, 173, RESELLER #Video
+nsightvideo.com, 174, RESELLER #Video
+nsightvideo.com, 175, RESELLER #Video
+nsightvideo.com, 176, RESELLER #Video
+nsightvideo.com, 177, RESELLER #Video
+nsightvideo.com, 178, RESELLER #Video
+nsightvideo.com, 179, RESELLER #Video
+nsightvideo.com, 18, RESELLER #Video
+nsightvideo.com, 180, RESELLER #Video
+nsightvideo.com, 181, RESELLER #Video
+nsightvideo.com, 182, RESELLER #Video
+nsightvideo.com, 183, RESELLER #Video
+nsightvideo.com, 184, RESELLER #Video
+nsightvideo.com, 185, RESELLER #Video
+nsightvideo.com, 186, RESELLER #Video
+nsightvideo.com, 187, RESELLER #Video
+nsightvideo.com, 188, RESELLER #Video
+nsightvideo.com, 189, RESELLER #Video
+nsightvideo.com, 19, RESELLER #Video
+nsightvideo.com, 190, RESELLER #Video
+nsightvideo.com, 191, RESELLER #Video
+nsightvideo.com, 192, RESELLER #Video
+nsightvideo.com, 193, RESELLER #Video
+nsightvideo.com, 194, RESELLER #Video
+nsightvideo.com, 20, RESELLER #Video
+nsightvideo.com, 21, RESELLER #Video
+nsightvideo.com, 22, RESELLER #Video
+nsightvideo.com, 23, RESELLER #Video
+nsightvideo.com, 24, RESELLER #Video
+nsightvideo.com, 25, RESELLER #Video
+nsightvideo.com, 253, RESELLER #Video
+nsightvideo.com, 254, RESELLER #Video
+nsightvideo.com, 255, RESELLER #Video
+nsightvideo.com, 256, RESELLER #Video
+nsightvideo.com, 257, RESELLER #Video
+nsightvideo.com, 258, RESELLER #Video
+nsightvideo.com, 259, RESELLER #Video
+nsightvideo.com, 26, RESELLER #Video
+nsightvideo.com, 260, RESELLER #Video
+nsightvideo.com, 261, RESELLER #Video
+nsightvideo.com, 262, RESELLER #Video
+nsightvideo.com, 263, RESELLER #Video
+nsightvideo.com, 264, RESELLER #Video
+nsightvideo.com, 265, RESELLER #Video
+nsightvideo.com, 266, RESELLER #Video
+nsightvideo.com, 267, RESELLER #Video
+nsightvideo.com, 268, RESELLER #Video
+nsightvideo.com, 269, RESELLER #Video
+nsightvideo.com, 27, RESELLER #Video
+nsightvideo.com, 270, RESELLER #Video
+nsightvideo.com, 271, RESELLER #Video
+nsightvideo.com, 272, RESELLER #Video
+nsightvideo.com, 273, RESELLER #Video
+nsightvideo.com, 274, RESELLER #Video
+nsightvideo.com, 275, RESELLER #Video
+nsightvideo.com, 276, RESELLER #Video
+nsightvideo.com, 277, RESELLER #Video
+nsightvideo.com, 278, RESELLER #Video
+nsightvideo.com, 279, RESELLER #Video
+nsightvideo.com, 28, RESELLER #Video
+nsightvideo.com, 280, RESELLER #Video
+nsightvideo.com, 281, RESELLER #Video
+nsightvideo.com, 282, RESELLER #Video
+nsightvideo.com, 283, RESELLER #Video
+nsightvideo.com, 284, RESELLER #Video
+nsightvideo.com, 285, RESELLER #Video
+nsightvideo.com, 286, RESELLER #Video
+nsightvideo.com, 287, RESELLER #Video
+nsightvideo.com, 288, RESELLER #Video
+nsightvideo.com, 289, RESELLER #Video
+nsightvideo.com, 29, RESELLER #Video
+nsightvideo.com, 290, RESELLER #Video
+nsightvideo.com, 291, RESELLER #Video
+nsightvideo.com, 292, RESELLER #Video
+nsightvideo.com, 295, RESELLER #Video
+nsightvideo.com, 296, RESELLER #Video
+nsightvideo.com, 297, RESELLER #Video
+nsightvideo.com, 298, RESELLER #Video
+nsightvideo.com, 299, RESELLER #Video
+nsightvideo.com, 30, RESELLER #Video
+nsightvideo.com, 300, RESELLER #Video
+nsightvideo.com, 301, RESELLER #Video
+nsightvideo.com, 302, RESELLER #Video
+nsightvideo.com, 303, RESELLER #Video
+nsightvideo.com, 304, RESELLER #Video
+nsightvideo.com, 305, RESELLER #Video
+nsightvideo.com, 306, RESELLER #Video
+nsightvideo.com, 307, RESELLER #Video
+nsightvideo.com, 308, RESELLER #Video
+nsightvideo.com, 309, RESELLER #Video
+nsightvideo.com, 31, RESELLER #Video
+nsightvideo.com, 310, RESELLER #Video
+nsightvideo.com, 311, RESELLER #Video
+nsightvideo.com, 312, RESELLER #Video
+nsightvideo.com, 313, RESELLER #Video
+nsightvideo.com, 314, RESELLER #Video
+nsightvideo.com, 315, RESELLER #Video
+nsightvideo.com, 316, RESELLER #Video
+nsightvideo.com, 317, RESELLER #Video
+nsightvideo.com, 318, RESELLER #Video
+nsightvideo.com, 319, RESELLER #Video
+nsightvideo.com, 32, RESELLER #Video
+nsightvideo.com, 320, RESELLER #Video
+nsightvideo.com, 321, RESELLER #Video
+nsightvideo.com, 322, RESELLER #Video
+nsightvideo.com, 323, RESELLER #Video
+nsightvideo.com, 324, RESELLER #Video
+nsightvideo.com, 325, RESELLER #Video
+nsightvideo.com, 326, RESELLER #Video
+nsightvideo.com, 327, RESELLER #Video
+nsightvideo.com, 328, RESELLER #Video
+nsightvideo.com, 329, RESELLER #Video
+nsightvideo.com, 33, RESELLER #Video
+nsightvideo.com, 330, RESELLER #Video
+nsightvideo.com, 331, RESELLER #Video
+nsightvideo.com, 332, RESELLER #Video
+nsightvideo.com, 333, RESELLER #Video
+nsightvideo.com, 334, RESELLER #Video
+nsightvideo.com, 335, RESELLER #Video
+nsightvideo.com, 336, RESELLER #Video
+nsightvideo.com, 337, RESELLER #Video
+nsightvideo.com, 338, RESELLER #Video
+nsightvideo.com, 339, RESELLER #Video
+nsightvideo.com, 34, RESELLER #Video
+nsightvideo.com, 340, RESELLER #Video
+nsightvideo.com, 341, RESELLER #Video
+nsightvideo.com, 342, RESELLER #Video
+nsightvideo.com, 343, RESELLER #Video
+nsightvideo.com, 344, RESELLER #Video
+nsightvideo.com, 345, RESELLER #Video
+nsightvideo.com, 346, RESELLER #Video
+nsightvideo.com, 347, RESELLER #Video
+nsightvideo.com, 348, RESELLER #Video
+nsightvideo.com, 35, RESELLER #Video
+nsightvideo.com, 36, RESELLER #Video
+nsightvideo.com, 39, RESELLER #Video
+nsightvideo.com, 40, RESELLER #Video
+nsightvideo.com, 41, RESELLER #Video
+nsightvideo.com, 42, RESELLER #Video
+nsightvideo.com, 43, RESELLER #Video
+nsightvideo.com, 44, RESELLER #Video
+nsightvideo.com, 45, RESELLER #Video
+nsightvideo.com, 46, RESELLER #Video
+nsightvideo.com, 47, RESELLER #Video
+nsightvideo.com, 48, RESELLER #Video
+nsightvideo.com, 6, RESELLER #Video
+nsightvideo.com, 7, RESELLER #Video
+nsightvideo.com, 8, RESELLER #Video
+nsightvideo.com, 9, RESELLER #Video
+google.com, pub-5373693997956134, RESELLER, f08c47fec0942fa0
+google.com, pub-4177862836555934, RESELLER, f08c47fec0942fa0
+google.com, pub-1071602463683652, RESELLER, f08c47fec0942fa0
+freewheel.tv, 222289, RESELLER
+freewheel.tv, 222297, RESELLER
+freewheel.tv, 222305, RESELLER
+freewheel.tv, 222313, RESELLER
+freewheel.tv, 222321, RESELLER
+freewheel.tv, 222329, RESELLER
+freewheel.tv, 222337, RESELLER
+freewheel.tv, 222345, RESELLER
+freewheel.tv, 222353, RESELLER
+freewheel.tv, 222361, RESELLER
+freewheel.tv, 222369, RESELLER
+smartadserver.com, 93, RESELLER
+contextweb.com, 560288, RESELLER, 89ff185a4c4e857c
+pubmatic.com, 156439, RESELLER
+pubmatic.com, 154037, RESELLER
+rubiconproject.com, 16114, RESELLER, 0bfd66d529a55807
+openx.com, 537149888, RESELLER, 6a698e2ec38604c6
+sovrn.com, 257611, RESELLER, fafdf38b16bf6b2b
+appnexus.com, 3703, RESELLER, f5ab79cb980f11d1
+google.com, pub-8929667634210480, RESELLER, f08c47fec0942fa0
+google.com, pub-2393320645055022, RESELLER, f08c47fec0942fa0
+contextweb.com, 558426, RESELLER, 89ff185a4c4e857c
+freewheel.tv, 923505, RESELLER # video
+beachfront.com, 108, DIRECT, e2541279e8e2ca4d
+google.com, pub-4560331049790501, DIRECT, f08c47fec0942fa0
+freewheel.tv, 899777, DIRECT # video
+freewheel.tv, 899777, RESELLER # video
+freewheel.tv, 899761, RESELLER # video
+mediaonline.com, 1a34c, RESELLER
+google.com, pub-2610964203515025, RESELLER, f08c47fec0942fa0
+google.com, pub-2393320645055022, RESELLER, f08c47fec0942fa0
+Pubmatic.com, 39374, RESELLER, 5d62403b186f2ace
+Pubmatic.com, 156819, RESELLER, 5d62403b186f2ace
+Pubmatic.com, 156820, RESELLER, 5d62403b186f2ace
+Freewheel.tv,295681,RESELLER
+freewheel.tv, 299345, RESELLER
+Ad.Plus, 40031, DIRECT #video
+Advertising.com, 19011, RESELLER
+lkqd.net, 51, RESELLER, 59c49fa9598a0117
+lkqd.com, 51, RESELLER, 59c49fa9598a0117
+improvedigital.com, 1154, RESELLER
+contextweb.com, 558426, RESELLER, 89ff185a4c4e857c
+beachfront.com, 12983, DIRECT, e2541279e8e2ca4d
+lkqd.net, 51, DIRECT, 59c49fa9598a0117
+indexexchange.com, 185308, RESELLER
+rubiconproject.com, 17962, RESELLER, 0bfd66d529a55807
+openx.com, 539074103, RESELLER, 6a698e2ec38604c6
+google.com, pub-0627101520158699, RESELLER, f08c47fec0942fa0
+pubmatic.com, 156777, RESELLER, 5d62403b186f2ace
+aps.amazon.com, 3204, RESELLER  #video
+freewheel.tv, 2493, RESELLER
+improvedigital.com, 946, RESELLER
+onetag.com, 389a1a1c29, RESELLER
+freewheel.tv, 9904, RESELLER
+spotxchange.com, 218639, RESELLER, 7842df1d2fe2db34
+spotx.tv, 218639, RESELLER, 7842df1d2fe2db34
+freewheel.tv, 720210, RESELLER
+freewheel.tv, 720242, RESELLER
+freewheel.tv, 784481, RESELLER
+freewheel.tv, 784497, RESELLER
+smartclip.net, 10575, RESELLER
+spotxchange.com, 246988, RESELLER, 7842df1d2fe2db34
+spotx.tv, 246988, RESELLER, 7842df1d2fe2db34
+video.unrulymedia.com, UNRX-PUB-29cfa292-1a2e-434d-8806-9a0ec14ceca7, RESELLER
+adtrue.com, 3202, DIRECT
+google.com, pub-3762254771375579, RESELLER, f08c47fec0942fa0
+pubmatic.com, 155495, RESELLER, 5d62403b186f2ace
+appnexus.com, 7080, RESELLER, f5ab79cb980f11d1
+rubiconproject.com, 15478, RESELLER, 0bfd66d529a55807
+google.com, pub-8388909051722168, RESELLER, f08c47fec0942fa0
+google.com, pub-2285546921446373, RESELLER, f08c47fec0942fa0
+spotxchange.com, 213805, RESELLER, 7842df1d2fe2db34
+spotx.tv, 213805, RESELLER, 7842df1d2fe2db34
+openx.com, 539372716, RESELLER, 6a698e2ec38604c6
+smartadserver.com, 2499, RESELLER
+advertising.com, 8603, RESELLER
+freewheel.tv, 799841, RESELLER
+freewheel.tv, 799921, RESELLER
+fyber.com, ddecc38b3799786a1637d5176e204431, RESELLER
+adform.com, 1411, RESELLER
+rhythmone.com, 1166984029, RESELLER, a670c89d4a324e47
+appnexus.com, 9795, DIRECT
+appnexus.com, 10617, DIRECT #Video
+appnexus.com, 9393, DIRECT #Video
+google.com, pub-0978064532142215, DIRECT, f08c47fec0942fa0
+rubiconproject.com, 12738, RESELLER, 0bfd66d529a55807
+beachfront.com, 4969, RESELLER, e2541279e8e2ca4d
+pubmatic.com, 157310, RESELLER, 5d62403b186f2ace
+spotxchange.com, 239904, RESELLER, 7842df1d2fe2db34
+spotx.tv, 239904, RESELLER, 7842df1d2fe2db34
+openx.com, 540454059, RESELLER, 6a698e2ec38604c6
+springserve.com, 843, DIRECT, a24eb641fc82e93d
+contextweb.com, 561910, RESELLER, 89ff185a4c4e857c
+ssp.ynxs.io, 185, RESELLER
+rhythmone.com, 2968119028, RESELLER, a670c89d4a324e47
+advertising.com, 26282, RESELLER
+freewheel.tv, 956849, RESELLER
+freewheel.tv, 956817, RESELLER
+freewheel.tv, 956833, RESELLER
+spotxchange.com, 249186 ,RESELLER, 7842df1d2fe2db34
+spotx.tv, 249186, RESELLER, 7842df1d2fe2db34
+loopme.com, s-2411, RESELLER, 6c8d5f95897a5a3b
+rhythmone.com,970194747,RESELLER,a670c89d4a324e47
+indexexchange.com, 182257, RESELLER
+appnexus.com, 6849, RESELLER
+rubiconproject.com, 15268, RESELLER
+
+#Ads forum owner
+a-ads.com, 503301, DIRECT
+ad6media.fr, 6230, RESELLER
+adcash.com, 118392, DIRECT
+adf.ly, 17443009, DIRECT
+adf.ly, 21086551, RESELLER, 21086551
+adform.com, 1431, RESELLER, 9f5210a2f0999e32
+adform.com, 1819, RESELLER, 9f5210a2f0999e32
+adform.com, 183, RESELLER, 9f5210a2f0999e32
+adform.com, 2070, RESELLER, 9f5210a2f0999e32
+adform.com, 768, RESELLER, 9f5210a2f0999e32
+adtech.com, 10468, RESELLER, 9f5210a2f0999e32
+adtech.com, 10475, RESELLER, 9f5210a2f0999e32
+adtech.com, 10979, RESELLER, 9f5210a2f0999e32
+adtech.com, 11095, RESELLER, 9f5210a2f0999e32
+adtech.com, 11262, RESELLER, 9f5210a2f0999e32
+Adtech.com, 11409, RESELLER
+Adtech.com, 12094, RESELLER
+adtech.com, 4658, RESELLER, 9f5210a2f0999e32
+adtech.com, 4741, RESELLER, 9f5210a2f0999e32
+advertising.com, 12624, RESELLER
+advertising.com, 20965, RESELLER
+advertising.com, 21483, RESELLER
+advertising.com, 24324, RESELLER
+advertising.com, 26154, RESELLER
+advertising.com, 28038, RESELLER
+advertising.com, 28246, RESELLER
+advertising.com, 3531, RESELLER
+advertising.com, 4058, RESELLER
+advertising.com, 8603, RESELLER
+adyoulike.com, 6342bc3d028645c3f3b661ab3270729a, RESELLER
+adyoulike.com, 74d964d64622eda353dbb95047d88f16, DIRECT
+adyoulike.com, 74d964d64622eda353dbb95047d88f16, RESELLER
+adyoulike.com, aab3b5904a4f1c27f53084dbb14945a1, RESELLER
+adyoulike.com, f15f921e8523dda73e32ff2a6069788f, RESELLER
+adyoulike.com, f963243b8472aa9474d37bb6173c4f18, RESELLER
+aol.com, 17744, RESELLER
+aol.com, 53392, RESELLER
+aol.com, 6202, RESELLER
+aol.com, aol.com, RESELLER
+appnexus.com, 10040, RESELLER, f5ab79cb980f11d1
+appnexus.com, 1356, RESELLER, f5ab79cb980f11d1
+appnexus.com, 1360, RESELLER, f5ab79cb980f11d1
+appnexus.com, 1619, DIRECT, f5ab79cb980f11d1
+appnexus.com, 1785, RESELLER, f5ab79cb980f11d1
+appnexus.com, 1888, RESELLER, f5ab79cb980f11d1
+appnexus.com, 2579, RESELLER, f5ab79cb980f11d1
+appnexus.com, 3418, RESELLER, f5ab79cb980f11d1
+appnexus.com, 3538, RESELLER, f5ab79cb980f11d1
+appnexus.com, 3539, RESELLER, f5ab79cb980f11d1
+appnexus.com, 3540, RESELLER, f5ab79cb980f11d1
+appnexus.com, 3605, RESELLER, f5ab79cb980f11d1
+appnexus.com, 3623, RESELLER, f5ab79cb980f11d1
+appnexus.com, 6849, RESELLER, f5ab79cb980f11d1
+appnexus.com, 7118, RESELLER, f5ab79cb980f11d1
+appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
+appnexus.com, 7666, DIRECT, f5ab79cb980f11d1
+appnexus.com, 8327, RESELLER, f5ab79cb980f11d1
+appnexus.com, 8332, RESELLER, f5ab79cb980f11d1
+appnexus.com, 8333, RESELLER, f5ab79cb980f11d1
+appnexus.com, 8334, DIRECT, f5ab79cb980f11d1
+appnexus.com, 8334, RESELLER, f5ab79cb980f11d1
+appnexus.com, 884, RESELLER, f5ab79cb980f11d1
+appnexus.com, 9986, RESELLER, f5ab79cb980f11d1
+atomx.com, atomx-106537, DIRECT
+AttentiveAds.com, 2805, RESELLER
+b1cheats.tk, f08c47fec0942fa0, RESELLER
+betweendigital.com, 35288, DIRECT
+betweendigital.com, 41430, RESELLER
+bidswitch.com, unrulyx_1066994, RESELLER
+btrll.com, 6836428, RESELLER
+captchme.net, 2805, RESELLER
+connectad.io, 223, DIRECT
+connectad.io, 73, RESELLER
+contextweb.com, 558158, RESELLER, 89ff185a4c4e857c
+contextweb.com, 558511, RESELLER, 89ff185a4c4e857c
+contextweb.com, 559988, RESELLER, 89ff185a4c4e857c
+contextweb.com, 560068, RESELLER, 89ff185a4c4e857c
+contextweb.com, 560121, RESELLER, 89ff185a4c4e857c
+contextweb.com, 560138, RESELLER, 89ff185a4c4e857c
+contextweb.com, 560288, DIRECT, 89ff185a4c4e857c
+contextweb.com, 560288, RESELLER, 89ff185a4c4e857c
+contextweb.com, 560288, RESELLER, 9ff185a4c4e857c
+contextweb.com, 560382, RESELLER, 89ff185a4c4e857c
+contextweb.com, 560489, RESELLER, 89ff185a4c4e857c
+contextweb.com, 560544, RESELLER, 89ff185a4c4e857c
+contextweb.com, 560580, RESELLER, 89ff185a4c4e857c
+contextweb.com, 561503, RESELLER, 89ff185a4c4e857c
+contextweb.com, 561623, RESELLER, 89ff185a4c4e857c
+contextweb.com, 562145, RESELLER, 89ff185a4c4e857
+contextweb.com, 562145, RESELLER, 89ff185a4c4e857c
+coxmt.com, 2000067907202, RESELLER
+deepintent.com, 100004190, RESELLER, 4a5487c769369a8c
+denakop.com, pub-233, DIRECT
+districtm.io, 100750, RESELLER, 3fd707be9c4527c3
+districtm.io, 101397, RESELLER, 3fd707be9c4527c3
+districtm.io, 101519, RESELLER, 3fd707be9c4527c3
+districtm.io, 101639, RESELLER, 3fd707be9c4527c3
+districtm.io, 101760, RESELLER, 3fd707be9c4527c3
+districtm.io, 101888, DIRECT, 3fd707be9c4527c3
+dynadmic.com, 888517903, RESELLER
+dyntrk.com, 888517903, RESELLER
+eadv.it, 2099, DIRECT
+emxdgt.com, 219, DIRECT, 1e1d41537f7cad7f
+emxdgt.com, 326, RESELLER, 1e1d41537f7cad7f
+emxdgt.com, 68, RESELLER, 1e1d41537f7cad7f
+exoclick.com, 61694f0c4ff3c2225f74b1036f79f90e, DIRECT
+freewheel.tv, 1069, RESELLER
+freewheel.tv, 109361, RESELLER
+freewheel.tv, 109369, RESELLER
+freewheel.tv, 109377, RESELLER
+freewheel.tv, 109385, DIRECT
+freewheel.tv, 109385, RESELLER
+freewheel.tv, 109393, RESELLER
+freewheel.tv, 109401, RESELLER
+freewheel.tv, 133681, RESELLER
+freewheel.tv, 133689, RESELLER
+freewheel.tv, 133777, RESELLER
+freewheel.tv, 133785, RESELLER
+freewheel.tv, 154545, DIRECT
+freewheel.tv, 154545, RESELLER
+freewheel.tv, 154553, RESELLER
+freewheel.tv, 154569, RESELLER
+freewheel.tv, 154577, RESELLER
+freewheel.tv, 154593, RESELLER
+freewheel.tv, 154609, RESELLER
+freewheel.tv, 156113, RESELLER
+freewheel.tv, 156121, RESELLER
+freewheel.tv, 1867, RESELLER
+freewheel.tv, 1873, RESELLER
+freewheel.tv, 1929, RESELLER
+freewheel.tv, 1931, RESELLER
+freewheel.tv, 1933, RESELLER
+freewheel.tv, 1937, RESELLER
+freewheel.tv, 195953, RESELLER
+freewheel.tv, 197345, RESELLER
+freewheel.tv, 197865, DIRECT
+freewheel.tv, 197865, RESELLER
+freewheel.tv, 197873, RESELLER
+freewheel.tv, 197889, RESELLER
+freewheel.tv, 197897, RESELLER
+freewheel.tv, 197913, RESELLER
+freewheel.tv, 197929, RESELLER
+freewheel.tv, 197961, RESELLER
+freewheel.tv, 198353, RESELLER
+freewheel.tv, 198369, RESELLER
+freewheel.tv, 198385, RESELLER
+freewheel.tv, 199049, RESELLER
+freewheel.tv, 199065, RESELLER
+freewheel.tv, 199081, RESELLER
+freewheel.tv, 218722, RESELLER
+freewheel.tv, 218730, RESELLER
+freewheel.tv, 2275, RESELLER
+freewheel.tv, 2281, RESELLER
+freewheel.tv, 2283, RESELLER
+freewheel.tv, 2285, RESELLER
+freewheel.tv, 2287, RESELLER
+freewheel.tv, 2289, RESELLER
+freewheel.tv, 2291, RESELLER
+freewheel.tv, 2293, RESELLER
+freewheel.tv, 2295, RESELLER
+freewheel.tv, 2297, RESELLER
+freewheel.tv, 2299, RESELLER
+freewheel.tv, 2301, RESELLER
+freewheel.tv, 2303, RESELLER
+freewheel.tv, 2305, RESELLER
+freewheel.tv, 2307, RESELLER
+freewheel.tv, 2309, RESELLER
+freewheel.tv, 2311, RESELLER
+freewheel.tv, 2313, RESELLER
+freewheel.tv, 2315, RESELLER
+freewheel.tv, 2317, RESELLER
+freewheel.tv, 2319, RESELLER
+freewheel.tv, 315777, RESELLER
+freewheel.tv, 3167, RESELLER
+freewheel.tv, 33081, RESELLER
+freewheel.tv, 33601, RESELLER
+freewheel.tv, 420929, RESELLER
+Freewheel.tv, 480577, RESELLER
+Freewheel.tv, 480593, RESELLER
+freewheel.tv, 484721, RESELLER
+freewheel.tv, 5649, RESELLER
+freewheel.tv, 704914, RESELLER
+freewheel.tv, 708402, RESELLER
+freewheel.tv, 710210, RESELLER
+freewheel.tv, 710226, RESELLER
+freewheel.tv, 726594, RESELLER
+freewheel.tv, 726610, RESELLER
+freewheel.tv, 732290, RESELLER
+freewheel.tv, 732306, RESELLER
+freewheel.tv, 732322, RESELLER
+freewheel.tv, 732338, RESELLER
+freewheel.tv, 741650, RESELLER
+freewheel.tv, 745362, RESELLER
+freewheel.tv, 745378, RESELLER
+freewheel.tv, 770449, DIRECT
+freewheel.tv, 774673, RESELLER
+freewheel.tv, 893873, RESELLER
+freewheel.tv, 9262, RESELLER
+freewheel.tv, 9264, RESELLER
+freewheel.tv, 9266, RESELLER
+freewheel.tv, 9268, RESELLER
+freewheel.tv, 9270, DIRECT
+freewheel.tv, 9270, RESELLER
+freewheel.tv, 9272, RESELLER
+fyber.com, 1a12a7e3f84fe560ccf95a3a73043abb, RESELLER
+fyber.com, ad9de41d28d494354b23133f26f83122, RESELLER
+fyber.com, f2a848067b5fe77e73205e8024940cbf, RESELLER
+ghaiat.com, 123456, DIRECT, 01016242766
+google.com, pub-0039839058617476, DIRECT, f08c47fec0942fa0
+google.com, pub-0090956551690322, DIRECT, f08c47fec0942fa0
+google.com, pub-0124207674317415, DIRECT, f08c47fec0942fa0
+google.com, pub-0186564002249265, DIRECT, f08c47fec0942fa0
+google.com, pub-0186564002249265, RESELLER, f08c47fec0942fa0
+google.com, pub-0208186515665000, DIRECT, f08c47fec0942fa0
+google.com, pub-0262024378506536, DIRECT, f08c47fec0942fa0
+google.com, pub-0262905880429162, DIRECT, f08c47fec0942fa0
+google.com, pub-0279479919641875, DIRECT, f08c47fec0942fa0
+google.com, pub-0453844649249280, DIRECT, f08c47fec0942fa0
+google.com, pub-0453844649249280, RESELLER, f08c47fec0942fa0
+google.com, pub-0519631681688641, DIRECT, f08c47fec0942fa0
+google.com, pub-0527186302605074, DIRECT, f08c47fec0942fa0
+google.com, pub-0542852099008011, DIRECT, f08c47fec0942fa0
+google.com, pub-0634861091013906, DIRECT, f08c47fec0942fa0
+google.com, pub-0747604098776672, DIRECT, f08c47fec0942fa0
+google.com, pub-0754528833751166, DIRECT, f08c47fec0942fa0
+google.com, pub-0783494839055741, DIRECT, f08c47fec0942fa0
+google.com, pub-0852374533427158, DIRECT, f08c47fec0942fa0
+google.com, pub-0872879920320813, DIRECT, f08c47fec0942fa0
+google.com, pub-0961887305848876, DIRECT, f08c47fec0942fa0
+google.com, pub-0992502154644265, DIRECT, f08c47fec0942fa0
+google.com, pub-1002973214868828, DIRECT, f08c47fec0942fa0
+google.com, pub-1003656891641285, DIRECT, f08c47fec0942fa0
+google.com, pub-1014556485897801, DIRECT, f08c47fec0942fa0
+google.com, pub-1030896070997855, DIRECT, f08c47fec0942fa0
+google.com, pub-1038350660817433, DIRECT, f08c47fec0942fa0
+google.com, pub-1046944190813348, DIRECT, f08c47fec0942fa0
+google.com, pub-1087510162742319, DIRECT, f08c47fec0942fa0
+google.com, pub-1093364683687082, DIRECT, f08c47fec0942fa0
+google.com, pub-1106396642647733, DIRECT, f08c47fec0942fa0
+google.com, pub-1114033164791210, DIRECT, f08c47fec0942fa0
+google.com, pub-1123365076133412, DIRECT, f08c47fec0942fa0
+google.com, pub-1162244230202157, DIRECT, f08c47fec0942fa0
+google.com, pub-1184014897541805, DIRECT, f08c47fec0942fa0
+google.com, pub-1189570666019021, DIRECT, f08c47fec0942fa0
+google.com, pub-1209614124989359, DIRECT, f08c47fec0942fa0
+google.com, pub-1233643693898528, DIRECT, f08c47fec0942fa0
+google.com, pub-1270710188139085, DIRECT, f08c47fec0942fa0
+google.com, pub-1289288216822722, DIRECT, f08c47fec0942fa0
+google.com, pub-1305499645712713, DIRECT, f08c47fec0942fa0
+google.com, pub-1351923638428005, DIRECT, f08c47fec0942fa0
+google.com, pub-1377881577263752, DIRECT, f08c47fec0942fa0
+google.com, pub-1380513668075877, DIRECT, f08c47fec0942fa0
+google.com, pub-1403235541359706, DIRECT, f08c47fec0942fa0
+google.com, pub-1459550324381096, DIRECT, f08c47fec0942fa0
+google.com, pub-1466828848304312, DIRECT, f08c47fec0942fa0
+google.com, pub-1481274554695287, DIRECT, f08c47fec0942fa0
+google.com, pub-1487200571452032, DIRECT, f08c47fec0942fa0
+google.com, pub-1495641617187331, DIRECT, f08c47fec0942fa0
+google.com, pub-1502574141662582, DIRECT, f08c47fec0942fa0
+google.com, pub-1516321758145184, DIRECT, f08c47fec0942fa0
+google.com, pub-1523574028992283, DIRECT, f08c47fec0942fa0
+google.com, pub-1582772649618911, DIRECT, f08c47fec0942fa0
+google.com, pub-1593895318137521, DIRECT, f08c47fec0942fa0
+google.com, pub-1598038091589965, DIRECT, f08c47fec0942fa0
+google.com, pub-1608251018762974, DIRECT, f08c47fec0942fa0
+google.com, pub-1631819241896469, DIRECT, f08c47fec0942fa0
+google.com, pub-1637505879335934, DIRECT, f08c47fec0942fa0
+google.com, pub-1639502689644299, DIRECT, f08c47fec0942fa0
+google.com, pub-1668083753955064, DIRECT, f08c47fec0942fa0
+google.com, pub-1684798917496576, DIRECT, f08c47fec0942fa0
+google.com, pub-1769166687765966, DIRECT, f08c47fec0942fa0
+google.com, pub-1779308614534618, DIRECT, f08c47fec0942fa0
+google.com, pub-1788851373955923, DIRECT, f08c47fec0942fa0
+google.com, pub-1824537685021854, DIRECT, f08c47fec0942fa0
+google.com, pub-1831268898791078, DIRECT, f08c47fec0942fa0
+google.com, pub-1916450496229387, DIRECT, f08c47fec0942fa0
+google.com, pub-1923919311108890, DIRECT, f08c47fec0942fa0
+google.com, pub-1928534704501935, DIRECT, f08c47fec0942fa0
+google.com, pub-1931197969300798, DIRECT, f08c47fec0942fa0
+google.com, pub-1936306736059212, DIRECT, f08c47fec0942fa0
+google.com, pub-1938332083860578, DIRECT, f08c47fec0942fa0
+google.com, pub-1987602943195037, DIRECT, f08c47fec0942fa0
+google.com, pub-2039831607200620, DIRECT, f08c47fec0942fa0
+google.com, pub-2060694042745406, DIRECT, f08c47fec0942fa0
+google.com, pub-2075297176204182, DIRECT, f08c47fec0942fa0
+google.com, pub-2087848179319834, DIRECT, f08c47fec0942fa0
+google.com, pub-2116330444041998, DIRECT, f08c47fec0942fa0
+google.com, pub-2117515359822933, DIRECT, f08c47fec0942fa0
+google.com, pub-2118468146748282, DIRECT, f08c47fec0942fa0
+google.com, pub-2118528709061243, RESELLER, f08c47fec0942fa0
+google.com, pub-2120068138946264, DIRECT, f08c47fec0942fa0
+google.com, pub-2121430309187002, DIRECT, f08c47fec0942fa0
+google.com, pub-2162586328569420, DIRECT, f08c47fec0942fa0
+google.com, pub-2187691701822287, DIRECT, f08c47fec0942fa0
+google.com, pub-2201612985812848, DIRECT, f08c47fec0942fa0
+google.com, pub-2234993515620899, DIRECT, f08c47fec0942fa0
+google.com, pub-2235342635275361, RESELLER, f08c47fec0942fa0
+google.com, pub-2251226511444363, DIRECT, f08c47fec0942fa0
+google.com, pub-2262905264804962, DIRECT, f08c47fec0942fa0
+google.com, pub-2274919909390846, DIRECT, f08c47fec0942fa0
+google.com, pub-2276895616928022, DIRECT, f08c47fec0942fa0
+google.com, pub-2313945823761826, DIRECT, f08c47fec0942fa0
+google.com, pub-2316764737249265, DIRECT, f08c47fec0942fa0
+google.com, pub-2354151944608192, DIRECT, f08c47fec0942fa0
+google.com, pub-2354151944608192, RESELLER, f08c47fec0942fa0
+google.com, pub-2360988094116020, DIRECT, f08c47fec0942fa0
+google.com, pub-2393320645055022, RESELLER, f08c47fec0942fa0
+google.com, pub-2422962212265338, DIRECT, f08c47fec0942fa0
+google.com, pub-2427271696000777, DIRECT, f08c47fec0942fa0
+google.com, pub-2429055986091043, DIRECT, f08c47fec0942fa0
+google.com, pub-2436175384783030, DIRECT, f08c47fec0942fa0
+google.com, pub-2465650636745295, DIRECT, f08c47fec0942fa0
+google.com, pub-2561821895901976, DIRECT, f08c47fec0942fa0
+google.com, pub-2561821895901976, RESELLER, f08c47fec0942fa0
+google.com, pub-2573397528195416, DIRECT, f08c47fec0942fa0
+google.com, pub-2585718544189045, DIRECT, f08c47fec0942fa0
+google.com, pub-2603664881560000, RESELLER, f08c47fec0942fa0
+google.com, pub-2607305956015586, DIRECT, f08c47fec0942fa0
+google.com, pub-2610964203515025, DIRECT, f08c47fec0942fa0
+google.com, pub-2629098574878715, DIRECT, f08c47fec0942fa0
+google.com, pub-2637871315274204, DIRECT, f08c47fec0942fa0
+google.com, pub-2642668119797225, DIRECT, f08c47fec0942fa0
+google.com, pub-2651048278678791, DIRECT, f08c47fec0942fa0
+google.com, pub-2662313338642824, DIRECT, f08c47fec0942fa0
+google.com, pub-2715500008882470, DIRECT, f08c47fec0942fa0
+google.com, pub-2720429596810093, DIRECT, f08c47fec0942fa0
+google.com, pub-2720529644880550, DIRECT, f08c47fec0942fa0
+google.com, pub-2730369626957245, DIRECT, f08c47fec0942fa0
+google.com, pub-2769414524136907, DIRECT, f08c47fec0942fa0
+google.com, pub-2780835888181503, DIRECT, f08c47fec0942fa0
+google.com, pub-2792766063255746, DIRECT, f08c47fec0942fa0
+google.com, pub-2811246983060082, DIRECT, f08c47fec0942fa0
+google.com, pub-2812875474365995, DIRECT, f08c47fec0942fa0
+google.com, pub-2813705704069075, DIRECT, f08c47fec0942fa0
+google.com, pub-2817463551085491, DIRECT, f08c47fec0942fa0
+google.com, pub-2839319092171472, DIRECT, f08c47fec0942fa0
+google.com, pub-2878323652138083, DIRECT, f08c47fec0942fa0
+google.com, pub-2898364133336382, DIRECT, f08c47fec0942fa0
+google.com, pub-2932787790028131, DIRECT, f08c47fec0942fa0
+google.com, pub-2975719694365967, DIRECT, f08c47fec0942fa0
+google.com, pub-2975719694365967, RESELLER, f08c47fec0942fa0
+google.com, pub-2994671719100745, DIRECT, f08c47fec0942fa0
+google.com, pub-3017140769457176, DIRECT, f08c47fec0942fa0
+google.com, pub-3047990639178452, DIRECT, f08c47fec0942fa0
+google.com, pub-3047990639178452, RESELLER, f08c47fec0942fa0
+google.com, pub-3051389529800532, DIRECT, f08c47fec0942fa0
+google.com, pub-3052575470643222, DIRECT, f08c47fec0942fa0
+google.com, pub-3063591546752310, DIRECT, f08c47fec0942fa0
+google.com, pub-308938104247761, DIRECT, f08c47fec0942fa0
+google.com, pub-3091824222951390, DIRECT, f08c47fec0942fa0
+google.com, pub-3132893725603935, RESELLER, f08c47fec0942fa0
+google.com, pub-3191289882045155, RESELLER, f08c47fec0942fa0
+google.com, pub-3192757935240660, DIRECT, f08c47fec0942fa0
+google.com, pub-3210226261095299, DIRECT, f08c47fec0942fa0
+google.com, pub-3228340748322585, DIRECT, f08c47fec0942fa0
+google.com, pub-3228340748322585, RESELLER, f08c47fec0942fa0
+google.com, pub-3256312184181416, DIRECT, f08c47fec0942fa0
+google.com, pub-3284575780445546, DIRECT, f08c47fec0942fa0
+google.com, pub-3288334931302501, DIRECT, f08c47fec0942fa0
+google.com, pub-3296873646539014, DIRECT, f08c47fec0942fa0
+google.com, pub-3302907584813342, DIRECT, f08c47fec0942fa0
+google.com, pub-3335880142290902, DIRECT, f08c47fec0942fa0
+google.com, pub-3355606461647740, DIRECT, f08c47fec0942fa0
+google.com, pub-3356731474283767, DIRECT, f08c47fec0942fa0
+google.com, pub-3359247298760133, DIRECT, f08c47fec0942fa0
+google.com, pub-3385923311062178, DIRECT, f08c47fec0942fa0
+google.com, pub-3392850683302501, DIRECT, f08c47fec0942fa0
+google.com, pub-3396384733798720, DIRECT, f08c47fec0942fa0
+google.com, pub-3397443327344993, RESELLER, f08c47fec0942fa0
+google.com, pub-3402741843934170, DIRECT, f08c47fec0942fa0
+google.com, pub-3402741843934170, RESELLER, f08c47fec0942fa0
+google.com, pub-3404112520884668, DIRECT, f08c47fec0942fa0
+google.com, pub-3404112520884668, RESELLER, f08c47fec0942fa0
+google.com, pub-3435474504298701, DIRECT, f08c47fec0942fa0
+google.com, pub-3447265496881655, DIRECT, f08c47fec0942fa0
+google.com, pub-3459652289984368, DIRECT, f08c47fec0942fa0
+google.com, pub-3527749159097821, DIRECT, f08c47fec0942fa0
+google.com, pub-3588596871250438, DIRECT, f08c47fec0942fa0
+google.com, pub-3598433915268473, DIRECT, f08c47fec0942fa0
+google.com, pub-3616054517182621, DIRECT, f08c47fec0942fa0
+google.com, pub-3648100049913507, DIRECT, f08c47fec0942fa0
+google.com, pub-3669408677211056, DIRECT, f08c47fec0942fa0
+google.com, pub-3669659753175730, DIRECT, f08c47fec0942fa0
+google.com, pub-3690534485164634, RESELLER, f08c47fec0942fa0
+google.com, pub-3700011705422030, RESELLER, f08c47fec0942fa0
+google.com, pub-3720604449040470, DIRECT, f08c47fec0942fa0
+google.com, pub-3721181802340914, DIRECT, f08c47fec0942fa0
+google.com, pub-3769010358500643, RESELLER, f08c47fec0942fa0
+google.com, pub-3774214888996803, DIRECT, f08c47fec0942fa0
+google.com, pub-3774635975117519, DIRECT, f08c47fec0942fa0
+google.com, pub-3797786902175872, DIRECT, f08c47fec0942fa0
+google.com, pub-3828678344606720, DIRECT, f08c47fec0942fa0
+google.com, pub-3867673473883043, DIRECT, f08c47fec0942fa0
+google.com, pub-3867673473883043, RESELLER, f08c47fec0942fa0
+google.com, pub-3903360044155242, DIRECT, f08c47fec0942fa0
+google.com, pub-3929227166977887, DIRECT, f08c47fec0942fa0
+google.com, pub-3943752135480739, DIRECT, f08c47fec0942fa0
+google.com, pub-3952278674169835, DIRECT, f08c47fec0942fa0
+google.com, pub-3952278674169835, RESELLER, f08c47fec0942fa0
+google.com, pub-3954380481016944, DIRECT, f08c47fec0942fa0
+google.com, pub-3954436713027208, DIRECT, f08c47fec0942fa0
+google.com, pub-3962059547979472, DIRECT, f08c47fec0942fa0
+google.com, pub-3986840375823196, DIRECT, f08c47fec0942fa0
+google.com, pub-3996283588775324, DIRECT, f08c47fec0942fa0
+google.com, pub-4007040304212401, DIRECT, f08c47fec0942fa0
+google.com, pub-4037738980885633, DIRECT, f08c47fec0942fa0
+google.com, pub-4038526939513221, DIRECT, f08c47fec0942fa0
+google.com, pub-4061397910006674, DIRECT, f08c47fec0942fa0
+google.com, pub-4088234564227032, DIRECT, f08c47fec0942fa0
+google.com, pub-4094893481604157, DIRECT, f08c47fec0942fa0
+google.com, pub-4116463302746816, DIRECT, f08c47fec0942fa0
+google.com, pub-4126962620655484, DIRECT, f08c47fec0942fa0
+google.com, pub-4140404503086792, DIRECT, f08c47fec0942fa0
+google.com, pub-4165938024837199, DIRECT, f08c47fec0942fa0
+google.com, pub-4182613187399137, DIRECT, f08c47fec0942fa0
+google.com, pub-4192137653427922, DIRECT, f08c47fec0942fa0
+google.com, pub-4198590040426435, DIRECT, f08c47fec0942fa0
+google.com, pub-4207995034577589, DIRECT, f08c47fec0942fa0
+google.com, pub-4233593897276868, DIRECT, f08c47fec0942fa0
+google.com, pub-4235247951574190, DIRECT, f08c47fec0942fa0
+google.com, pub-4243766371831011, DIRECT, f08c47fec0942fa0
+google.com, pub-4269253857982395, DIRECT, f08c47fec0942fa0
+google.com, pub-4269253857982395, RESELLER, f08c47fec0942fa0
+google.com, pub-4296323923531411, DIRECT, f08c47fec0942fa0
+google.com, pub-4299156005397946, DIRECT, f08c47fec0942fa0
+google.com, pub-4299156005397946, RESELLER, f08c47fec0942fa0
+google.com, pub-4307244781166031, DIRECT, f08c47fec0942fa0
+google.com, pub-4339241116258633, DIRECT, f08c47fec0942fa0
+google.com, pub-4348501675932749, DIRECT, f08c47fec0942fa0
+google.com, pub-4359973024161577, DIRECT, f08c47fec0942fa0
+google.com, pub-4431492439161801, DIRECT, f08c47fec0942fa0
+google.com, pub-4431492439161801, RESELLER, f08c47fec0942fa0
+google.com, pub-4464966746024432, DIRECT, f08c47fec0942fa0
+google.com, pub-4464966746024432, RESELLER, f08c47fec0942fa0
+google.com, pub-4470435449530311, DIRECT, f08c47fec0942fa0
+google.com, pub-4502808564586959, DIRECT, f08c47fec0942fa0
+google.com, pub-4515939904941110, DIRECT, f08c47fec0942fa0
+google.com, pub-4542068001321436, DIRECT, f08c47fec0942fa0
+google.com, pub-4553241983075719, DIRECT, f08c47fec0942fa0
+google.com, pub-4573887940622346, DIRECT, f08c47fec0942fa0
+google.com, pub-4605647632298338, DIRECT, f08c47fec0942fa0
+google.com, pub-4629288887764218, DIRECT, f08c47fec0942fa0
+google.com, pub-4644974337064678, DIRECT, f08c47fec0942fa0
+google.com, pub-4665910326549619, DIRECT, f08c47fec0942fa0
+google.com, pub-4666958885987373, DIRECT, f08c47fec0942fa0
+google.com, pub-4686677804748727, DIRECT, f08c47fec0942fa0
+google.com, pub-4699622042982670, DIRECT, f08c47fec0942fa0
+google.com, pub-4743333578256631, DIRECT, f08c47fec0942fa0
+google.com, pub-4750183883127518, DIRECT, f08c47fec0942fa0
+google.com, pub-4778376722293650, DIRECT, f08c47fec0942fa0
+google.com, pub-4803564468606898, DIRECT, f08c47fec0942fa0
+google.com, pub-4803564468606898, RESELLER, f08c47fec0942fa0
+google.com, pub-4829788906881978, DIRECT, f08c47fec0942fa0
+google.com, pub-4833229277974912, DIRECT, f08c47fec0942fa0
+google.com, pub-4841194122799138, DIRECT, f08c47fec0942fa0
+google.com, pub-4859895078523732, DIRECT, f08c47fec0942fa0
+google.com, pub-4910284206008215, DIRECT, f08c47fec0942fa0
+google.com, pub-4918429717393875, DIRECT, f08c47fec0942fa0
+google.com, pub-4919463349080703, DIRECT, f08c47fec0942fa0
+google.com, pub-4925141732218331, DIRECT, f08c47fec0942fa0
+google.com, pub-4930730613287434, DIRECT, f08c47fec0942fa0
+google.com, pub-4931804102992437, DIRECT, f08c47fec0942fa0
+google.com, pub-4965142132232173, DIRECT, f08c47fec0942fa0
+google.com, pub-4967709402498318, DIRECT, f08c47fec0942fa0
+google.com, pub-4975993047684210, DIRECT, f08c47fec0942fa0
+google.com, pub-5010104871048045, DIRECT, f08c47fec0942fa0
+google.com, pub-5024700719013221, DIRECT, f08c47fec0942fa0
+google.com, pub-5029257013560698, RESELLER, f08c47fec0942fa0
+google.com, pub-5098499585373612, DIRECT, f08c47fec0942fa0
+google.com, pub-5099281179382627, DIRECT, f08c47fec0942fa0
+google.com, pub-5099281179382627, RESELLER, f08c47fec0942fa0
+google.com, pub-5129608085714776, DIRECT, f08c47fec0942fa0
+google.com, pub-5149451328717640, DIRECT, f08c47fec0942fa0
+google.com, pub-5168254807958021, DIRECT, f08c47fec0942fa0
+google.com, pub-5168656683283512, DIRECT, f08c47fec0942fa0
+google.com, pub-5172053597012420, DIRECT, f08c47fec0942fa0
+google.com, pub-5201319652380473, DIRECT, f08c47fec0942fa0
+google.com, pub-5289985627731322, RESELLER, f08c47fec0942fa0
+google.com, pub-5351292096354163, DIRECT, f08c47fec0942fa0
+google.com, pub-5353668874054283, DIRECT, f08c47fec0942fa0
+google.com, pub-5384052051362194, DIRECT, f08c47fec0942fa0
+google.com, pub-5387958298790548, DIRECT, f08c47fec0942fa0
+google.com, pub-5396537695886938, DIRECT, 08c47fec0942fa0
+google.com, pub-5397107087527824, DIRECT, f08c47fec0942fa0
+google.com, pub-5397107087527824, RESELLER, f08c47fec0942fa0
+google.com, pub-5420352323177087, DIRECT, f08c47fec0942fa0
+google.com, pub-5431839624175533, DIRECT, f08c47fec0942fa0
+google.com, pub-5499071872473706, DIRECT, f08c47fec0942fa0
+google.com, pub-5506191200081385, DIRECT, f08c47fec0942fa0
+google.com, pub-5524544812624573, DIRECT, f08c47fec0942fa0
+google.com, pub-5549723401598621, DIRECT, f08c47fec0942fa0
+google.com, pub-5549723401598621, RESELLER, f08c47fec0942fa0
+google.com, pub-5603664218240002, DIRECT, f08c47fec0942fa0
+google.com, pub-5610940478712910, DIRECT, f08c47fec0942fa0
+google.com, pub-5700071043120296, DIRECT, f08c47fec0942fa0
+google.com, pub-5717974867517238, DIRECT, f08c47fec0942fa0
+google.com, pub-5724085681561443, DIRECT, f08c47fec0942fa0
+google.com, pub-5739202134462520, DIRECT, f08c47fec0942fa0
+google.com, pub-5745330385177452, DIRECT, f08c47fec0942fa0
+google.com, pub-5753312630347727, DIRECT, f08c47fec0942fa0
+google.com, pub-5814152998657098, DIRECT, f08c47fec0942fa0
+google.com, pub-5826255064374818, DIRECT, f08c47fec0942fa0
+google.com, pub-5853367720478384, DIRECT, f08c47fec0942fa0
+google.com, pub-5868773216252823, DIRECT, f08c47fec0942fa0
+google.com, pub-5870707334457212, DIRECT, f08c47fec0942fa0
+google.com, pub-5883724639281277, DIRECT, f08c47fec0942fa0
+google.com, pub-5928318118875118, DIRECT, f08c47fec0942fa0
+google.com, pub-5934493317525245, DIRECT, f08c47fec0942fa0
+google.com, pub-5964927434322281, RESELLER, f08c47fec0942fa0
+google.com, pub-5990459652233554, DIRECT, f08c47fec0942fa0
+google.com, pub-5995202563537249, RESELLER, f08c47fec0942fa0
+google.com, pub-6000646182753732, DIRECT, f08c47fec0942fa0
+google.com, pub-6008326112899733, DIRECT, f08c47fec0942fa0
+google.com, pub-6101191187036600, DIRECT, f08c47fec0942fa0
+google.com, pub-6114123982738771, DIRECT, f08c47fec0942fa0
+google.com, pub-6152039445426856, DIRECT, f08c47fec0942fa0
+google.com, pub-6152039445426856, RESELLER, f08c47fec0942fa0
+google.com, pub-6162668888566092, DIRECT, f08c47fec0942fa0
+google.com, pub-6162668888566092, RESELLER, f08c47fec0942fa0
+google.com, pub-6193066905452263, DIRECT, f08c47fec0942fa0
+google.com, pub-6194314735154581, DIRECT, f08c47fec0942fa0
+google.com, pub-6194658109242535, DIRECT, f08c47fec0942fa0
+google.com, pub-6195355367362060, DIRECT, f08c47fec0942fa0
+google.com, pub-6195355367362060, RESELLER, f08c47fec0942fa0
+google.com, pub-6198515682203083, DIRECT, f08c47fec0942fa0
+google.com, pub-6211726639222770, DIRECT, f08c47fec0942fa0
+google.com, pub-6239498086163077, DIRECT, f08c47fec0942fa0
+google.com, pub-6239498086163077, RESELLER, f08c47fec0942fa0
+google.com, pub-6254787104358464, DIRECT, f08c47fec0942fa0
+google.com, pub-6257058167936942, DIRECT, f08c47fec0942fa0
+google.com, pub-6263980901062399, DIRECT, f08c47fec0942fa0
+google.com, pub-6266044180489051, DIRECT, f08c47fec0942fa0
+google.com, pub-6271610282612383, DIRECT, f08c47fec0942fa0
+google.com, pub-6282801281028626, RESELLER, f08c47fec0942fa0
+google.com, pub-6288715552655964, DIRECT, f08c47fec0942fa0
+google.com, pub-6290727184735778, DIRECT, f08c47fec0942fa0
+google.com, pub-6294276776886180, DIRECT, f08c47fec0942fa0
+google.com, pub-6295259146008249, DIRECT, f08c47fec0942fa0
+google.com, pub-6328788811426884, DIRECT, f08c47fec0942fa0
+google.com, pub-6352828074612862, DIRECT, f08c47fec0942fa0
+google.com, pub-6388296060273708, DIRECT, f08c47fec0942fa0
+google.com, pub-6421795673952795, DIRECT, f08c47fec0942fa0
+google.com, pub-6461920974213077, DIRECT, f08c47fec0942fa0
+google.com, pub-6469066721803649, DIRECT, f08c47fec0942fa0
+google.com, pub-6472335814311579, DIRECT, f08c47fec0942fa0
+google.com, pub-6475253679499293, DIRECT, f08c47fec0942fa0
+google.com, pub-6493772548010976, DIRECT, f08c47fec0942fa0
+google.com, pub-6493772548010976, RESELLER, f08c47fec0942fa0
+google.com, pub-6508526058471856, DIRECT, f08c47fec0942fa0
+google.com, pub-6508526058471856, RESELLER, f08c47fec0942fa0
+google.com, pub-6509756063412894, DIRECT, f08c47fec0942fa0
+google.com, pub-6569283873873097, DIRECT, f08c47fec0942fa0
+google.com, pub-6574863112151393, DIRECT, f08c47fec0942fa0
+google.com, pub-6577952497258161, DIRECT, f08c47fec0942fa0
+google.com, pub-6580317092939159, RESELLER, f08c47fec0942fa0
+google.com, pub-6582237977191585, DIRECT, f08c47fec0942fa0
+google.com, pub-6602113767260860, DIRECT, f08c47fec0942fa0
+google.com, pub-6644768516973607, DIRECT, f08c47fec0942fa0
+google.com, pub-6656345878908595, DIRECT, f08c47fec0942fa0
+google.com, pub-6686849160464987, DIRECT, f08c47fec0942fa0
+google.com, pub-6702042304942547, DIRECT, f08c47fec0942fa0
+google.com, pub-6750849678976461, DIRECT, f08c47fec0942fa0
+google.com, pub-6763358809995990, DIRECT, f08c47fec0942fa0
+google.com, pub-6766306529003967, DIRECT, f08c47fec0942fa0
+google.com, pub-6777179951839183, DIRECT, f08c47fec0942fa0
+google.com, pub-6777452326294144, DIRECT, f08c47fec0942fa0
+google.com, pub-6799620027245763, DIRECT, f08c47fec0942fa0
+google.com, pub-6801966798426719, DIRECT, f08c47fec0942fa0
+google.com, pub-6813067629432342, DIRECT, f08c47fec0942fa0
+google.com, pub-6839538674288735, DIRECT, f08c47fec0942fa0
+google.com, pub-6847553466133458, DIRECT, f08c47fec0942fa0
+google.com, pub-6863475586762542, DIRECT, f08c47fec0942fa0
+google.com, pub-6863475586762542, RESELLER, f08c47fec0942fa0
+google.com, pub-6869131539349364, DIRECT, f08c47fec0942fa0
+google.com, pub-6872828395023392, DIRECT, f08c47fec0942fa0
+google.com, pub-6872828395023392, RESELLER, f08c47fec0942fa0
+google.com, pub-6876925819516792, DIRECT, f08c47fec0942fa0
+google.com, pub-6898910470309244, DIRECT, f08c47fec0942fa0
+google.com, pub-6903615100133256, RESELLER, f08c47fec0942fa0
+google.com, pub-6938417039280092, DIRECT, f08c47fec0942fa0
+google.com, pub-6940553248449886, DIRECT, f08c47fec0942fa0
+google.com, pub-6946060500232848, DIRECT, f08c47fec0942fa0
+google.com, pub-6975662683844281, DIRECT, f08c47fec0942fa0
+google.com, pub-7026431251527825, RESELLER, f08c47fec0942fa0
+google.com, pub-7037116249433104, DIRECT, f08c47fec0942fa0
+google.com, pub-7050729721561426, DIRECT, f08c47fec0942fa0.
+google.com, pub-7089242107378384, DIRECT, f08c47fec0942fa0
+google.com, pub-7090991248929701, DIRECT, f08c47fec0942fa0
+google.com, pub-7224175479508540, DIRECT, f08c47fec0942fa0
+google.com, pub-7268321544421304, DIRECT, f08c47fec0942fa0
+google.com, pub-7275736149141608, DIRECT, f08c47fec0942fa0
+google.com, pub-7280473917322726, DIRECT, f08c47fec0942fa0
+google.com, pub-7280473917322726, RESELLER, f08c47fec0942fa0
+google.com, pub-7316951291471130, DIRECT, f08c47fec0942fa0
+google.com, pub-7351013619672536, DIRECT, f08c47fec0942fa0
+google.com, pub-7364113607649213, DIRECT, f08c47fec0942fa0
+google.com, pub-7403916705220746, DIRECT, f08c47fec0942fa0
+google.com, pub-7465984010393919, DIRECT, f08c47fec0942fa0
+google.com, pub-7477023121913244, DIRECT, f08c47fec0942fa0
+google.com, pub-7491023963495012, DIRECT, f08c47fec0942fa0
+google.com, pub-7491267142020512, RESELLER, f08c47fec0942fa0
+google.com, pub-7497178019206238, DIRECT, f08c47fec0942fa0
+google.com, pub-7544891014197571, DIRECT, f08c47fec0942fa0
+google.com, pub-7573439054392612, DIRECT, f08c47fec0942fa0
+google.com, pub-7580027711336553, DIRECT, f08c47fec0942fa0
+google.com, pub-7583445014647589, DIRECT, f08c47fec0942fa0
+google.com, pub-7586034606508192, DIRECT, f08c47fec0942fa0
+google.com, pub-7586366186943995, DIRECT, f08c47fec0942fa0
+google.com, pub-7595036536676118, DIRECT, f08c47fec0942fa0
+google.com, pub-7609009652389611, RESELLER, f08c47fec0942fa0
+google.com, pub-7610510806448427, DIRECT, f08c47fec0942fa0
+google.com, pub-7612738114777168, RESELLER, f08c47fec0942fa0
+google.com, pub-7619402271491772, DIRECT, f08c47fec0942fa0
+google.com, pub-7623640463996775, DIRECT, f08c47fec0942fa0
+google.com, pub-7624939927149471, DIRECT, f08c47fec0942fa0
+google.com, pub-7640767322132300, DIRECT, f08c47fec0942fa0
+google.com, pub-7647830328527157, DIRECT, f08c47fec0942fa0
+google.com, pub-7663439023217344, DIRECT, f08c47fec0942fa0
+google.com, pub-7666880257825682, DIRECT, f08c47fec0942fa0
+google.com, pub-7680271392614492, DIRECT, f08c47fec0942fa0
+google.com, pub-7681493395796768, DIRECT, f08c47fec0942fa0
+google.com, pub-7686725019204890, DIRECT, f08c47fec0942fa0
+google.com, pub-7698091738194777, DIRECT, f08c47fec0942fa0
+google.com, pub-7709698725597179, DIRECT, f08c47fec0942fa0
+google.com, pub-7733626117287363, RESELLER, f08c47fec0942fa0
+google.com, pub-7746302938597168, DIRECT, f08c47fec0942fa0
+google.com, pub-7758562099485484, DIRECT, f08c47fec0942fa0
+google.com, pub-7762404118093604, DIRECT, f08c47fec0942fa0
+google.com, pub-7765382479083416, DIRECT, f08c47fec0942fa0
+google.com, pub-7769364015556718, DIRECT, f08c47fec0942fa0
+google.com, pub-7782545053471182, RESELLER, f08c47fec0942fa0
+google.com, pub-7800101367749268, DIRECT, f08c47fec0942fa0
+google.com, pub-7802852498870540, DIRECT, f08c47fec0942fa0
+google.com, pub-7840514977032478, DIRECT, f08c47fec0942fa0
+google.com, pub-7869112526710946, DIRECT, f08c47fec0942fa0
+google.com, pub-7909323864410630, DIRECT, f08c47fec0942fa0
+google.com, pub-7909323864410630, RESELLER, f08c47fec0942fa0
+google.com, pub-7912940990831686, DIRECT, f08c47fec0942fa0
+google.com, pub-7931099854988781, DIRECT, f08c47fec0942fa0
+google.com, pub-7931114895085051, DIRECT, f08c47fec0942fa0
+google.com, pub-8032212840539236, DIRECT, f08c47fec0942fa0
+google.com, pub-8044325977744162, DIRECT, f08c47fec0942fa0
+google.com, pub-8051306569294353, DIRECT, f08c47fec0942fa0
+google.com, pub-8056412890464911, DIRECT, f08c47fec0942fa0
+google.com, pub-8059382005565776, DIRECT, f08c47fec0942fa0
+google.com, pub-8060120942491533, DIRECT, f08c47fec0942fa0
+google.com, pub-8060120942491533, RESELLER, f08c47fec0942fa0
+google.com, pub-8061977128410879, DIRECT, f08c47fec0942fa0
+google.com, pub-8083403750280831, DIRECT, f08c47fec0942fa0
+google.com, pub-8084939496762559, DIRECT, f08c47fec0942fa0
+google.com, pub-8085471958905714, DIRECT, f08c47fec0942fa0
+google.com, pub-8133702067176258, DIRECT, f08c47fec0942fa0
+google.com, pub-8137953949632877, DIRECT, f08c47fec0942fa0
+google.com, pub-8172075232839153, DIRECT, f08c47fec0942fa0
+google.com, pub-8172268348509349, RESELLER, f08c47fec0942fa0
+google.com, pub-8203918896755512, DIRECT, f08c47fec0942fa0
+google.com, pub-8206575120502051, DIRECT, f08c47fec0942fa0
+google.com, pub-8234970370457170, DIRECT, f08c47fec0942fa0
+google.com, pub-8237754207621302, DIRECT, f08c47fec0942fa0
+google.com, pub-8252902407962658, DIRECT, f08c47fec0942fa0
+google.com, pub-8260802524538941, DIRECT, f08c47fec0942fa0
+google.com, pub-8334024373234013, DIRECT, f08c47fec0942fa0
+google.com, pub-8346315316443754, DIRECT, f08c47fec0942fa0
+google.com, pub-8376169300140203, RESELLER, f08c47fec0942fa0
+google.com, pub-8391851169292027, DIRECT, f08c47fec0942fa0
+google.com, pub-8409158813765118, DIRECT, f08c47fec0942fa0
+google.com, pub-8430136291030865, DIRECT, f08c47fec0942fa0
+google.com, pub-8469780561678774, RESELLER, f08c47fec0942fa0
+google.com, pub-8476258757217916, DIRECT, f08c47fec0942fa0
+google.com, pub-8478475579377394, DIRECT, f08c47fec0942fa0
+google.com, pub-8481648967140825, DIRECT, f08c47fec0942fa0
+google.com, pub-8504924817748336, DIRECT, f08c47fec0942fa0
+google.com, pub-8557376046414961, DIRECT, f08c47fec0942fa0
+google.com, pub-8573856495407977, DIRECT, f08c47fec0942fa0
+google.com, pub-8581403898967956, DIRECT, f08c47fec0942fa0
+google.com, pub-8589192260890233, DIRECT, f08c47fec0942fa0
+google.com, pub-8599303069120583, DIRECT, f08c47fec0942fa0
+google.com, pub-8633882392545481, DIRECT, f08c47fec0942fa0
+google.com, pub-8687058960320508, DIRECT, f08c47fec0942fa0
+google.com, pub-8691352117474423, DIRECT, f08c47fec0942fa0
+google.com, pub-8701533494438424, RESELLER, f08c47fec0942fa0
+google.com, pub-8718758233829350, DIRECT, f08c47fec0942fa0
+google.com, pub-8776339374546680, DIRECT, f08c47fec0942fa0
+google.com, pub-8780762927741338, DIRECT, f08c47fec0942fa0
+google.com, pub-8882775619557361, DIRECT, f08c47fec0942fa0
+google.com, pub-8886586567851906, DIRECT, f08c47fec0942fa0
+google.com, pub-8887969178148076, DIRECT, f08c47fec0942fa0
+google.com, pub-8894042673907091, DIRECT, f08c47fec0942fa0
+google.com, pub-8916695806831318, DIRECT, f08c47fec0942fa0
+google.com, pub-8916695806831318, RESELLER, f08c47fec0942fa0
+google.com, pub-8953862530894109, DIRECT, f08c47fec0942fa0
+google.com, pub-896059541350117, DIRECT, f08c47fec0942fa0
+google.com, pub-8960595413501177, DIRECT, f08c47fec0942fa0
+google.com, pub-8965929751662097, DIRECT, f08c47fec0942fa0
+google.com, pub-9013360550583124, DIRECT, f08c47fec0942fa0
+google.com, pub-9042662323826881, DIRECT, f08c47fec0942fa0
+google.com, pub-9057504406955521, DIRECT, f08c47fec0942fa0
+google.com, pub-9079172657902546, DIRECT, f08c47fec0942fa0
+google.com, pub-9098591975935669, DIRECT, f08c47fec0942fa0
+google.com, pub-9109798234610084, DIRECT, f08c47fec0942fa0
+google.com, pub-9142165636083426, DIRECT, f08c47fec0942fa0
+google.com, pub-9152031639184783, DIRECT, f08c47fec0942fa0
+google.com, pub-9156551761827487, DIRECT, f08c47fec0942fa0
+google.com, pub-9174329152931797, RESELLER, f08c47fec0942fa0
+google.com, pub-9188611310931389, DIRECT, f08c47fec0942fa0
+google.com, pub-9274899168935373, DIRECT, f08c47fec0942fa0
+google.com, pub-9277500552153221, DIRECT, f08c47fec0942fa0
+google.com, pub-9277568254567119, DIRECT, f08c47fec0942fa0
+google.com, pub-9283019116575265, DIRECT, f08c47fec0942fa0
+google.com, pub-9302846822915189, DIRECT, f08c47fec0942fa0
+google.com, pub-9314288485848349, DIRECT, f08c47fec0942fa0
+google.com, pub-9343957743338427, DIRECT, f08c47fec0942fa0
+google.com, pub-9349532603205393, DIRECT, f08c47fec0942fa0
+google.com, pub-9351065664722123, DIRECT, f08c47fec0942fa0
+google.com, pub-9417902589934731, DIRECT, f08c47fec0942fa0
+google.com, pub-9430458848162198, DIRECT, f08c47fec0942fa0
+google.com, pub-9430458848162198, RESELLER, f08c47fec0942fa0
+google.com, pub-9468965229913624, DIRECT, f08c47fec0942fa0
+google.com, pub-9469051825307629, DIRECT, f08c47fec0942fa0
+google.com, pub-9476799470168884, RESELLER, f08c47fec0942fa0
+google.com, pub-9491021014780649, DIRECT, f08c47fec0942fa0
+google.com, pub-9508825025323605, RESELLER, f08c47fec0942fa0
+google.com, pub-9596227083295214, DIRECT, f08c47fec0942fa0
+google.com, pub-9596395866656667, DIRECT, f08c47fec0942fa0
+google.com, pub-9621603690732326, DIRECT, f08c47fec0942fa0
+google.com, pub-9684505442522235, DIRECT, f08c47fec0942fa0
+google.com, pub-9687745401798308, DIRECT, f08c47fec0942fa0
+google.com, pub-9728196218421374, DIRECT, f08c47fec0942fa0
+google.com, pub-9739204998383789, DIRECT, f08c47fec0942fa0
+google.com, pub-9779155142288793, DIRECT, f08c47fec0942fa0
+google.com, pub-9779155142288793, RESELLER, f08c47fec0942fa0
+google.com, pub-9824752586951236, DIRECT, f08c47fec0942fa0
+google.com, pub-9824752586951236, RESELLER, f08c47fec0942fa0
+google.com, pub-9936297068607346, DIRECT, f08c47fec0942fa0
+google.com, pub-9967401103541570, DIRECT, f08c47fec0942fa0
+google.com, pub-9975482378863503, DIRECT, f08c47fec0942fa0
+google.com, pub-9984986300131223, DIRECT, f08c47fec0942fa0
+google.com, pub-9985492882557931, DIRECT, f08c47fec0942fa0
+google.com, pub-9998854603671996, DIRECT, f08c47fec0942fa0
+google.com, pub-9998854603671996, RESELLER, f08c47fec0942fa0
+groundtruth.com, 107, RESELLER, 81cbf0a75a5e0e9a
+gumgum.com, 11645, RESELLER, ffdef49475d318a9
+gumgum.com, 13244, RESELLER, ffdef49475d318a9
+gumgum.com, 13318, RESELLER, ffdef49475d318a9
+improvedigital.com, 1010, RESELLER
+improvedigital.com, 1017, RESELLER
+improvedigital.com, 1028, RESELLER
+improvedigital.com, 1033, RESELLER
+improvedigital.com, 1216, RESELLER
+improvedigital.com, 185, RESELLER
+improvedigital.com, 335, RESELLER
+indexexchange.com, 179394, DIRECT, 50b1c356f2c5c8fc
+indexexchange.com, 179394, RESELLER, 50b1c356f2c5c8fc
+indexexchange.com, 182257, RESELLER, 50b1c356f2c5c8fc
+indexexchange.com, 183756, RESELLER, 50b1c356f2c5c8fc
+indexexchange.com, 184311, RESELLER, 50b1c356f2c5c8fc
+indexexchange.com, 185506, RESELLER, 50b1c356f2c5c8fc
+indexexchange.com, 186329, RESELLER, 50b1c356f2c5c8fc
+indexexchange.com, 190856, RESELLER, 50b1c356f2c5c8fc
+Infolinks.com, 2227908, DIRECT
+Infolinks.com, 2227908, RESELLER
+Infolinks.com, 3070396, DIRECT
+Infolinks.com, 3070396, RESELLER
+Infolinks.com, 3088591, DIRECT
+Infolinks.com, 3163419, DIRECT
+Infolinks.com, 3186052, DIRECT
+justpremium.com, 2976, DIRECT
+lijit.com, 246013, RESELLER, fafdf38b16bf6b2b
+lijit.com, 249705, DIRECT, fafdf38b16bf6b2b
+lijit.com, 262973, RESELLER, fafdf38b16bf6b2b
+lijit.com, 268479, DIRECT, fafdf38b16bf6b2b
+lkqd.com, 295, RESELLER, 59c49fa9598a0117
+lkqd.net, 295, RESELLER, 59c49fa9598a0117
+lkqd.net, 450, RESELLER, 59c49fa9598a0117
+loopme.com, 5679, RESELLER, 6c8d5f95897a5a3b
+loopme.com, s-2411, RESELLER, 6c8d5f95897a5a3b
+Masterserv.fr, 2603200027032000, DIRECT
+mellowads.com, 1869eb337c1c22ac62e8f51320e19cd9, DIRECT
+mellowads.com, 54a4dbf1158ab047be1e27e7208d4839, DIRECT
+mgid.com, 318619, DIRECT, d4c29acad76ce94f
+mgid.com, 5703532, DIRECT
+mgid.com, 5703535, DIRECT
+mgid.com, 5703536, DIRECT
+onetag.com, 2a897e3f18e6769, DIRECT
+openx.com, 118151, DIRECT, 6a698e2ec38604c6
+openx.com, 537120960, RESELLER, 6a698e2ec38604c6
+openx.com, 537125356, RESELLER, a698e2ec38604c6
+openx.com, 537143344, RESELLER, 6a698e2ec38604c6
+openx.com, 537145117, RESELLER, 6a698e2ec38604c6
+openx.com, 537145117, RESELLER, a698e2ec38604c6
+openx.com, 537149888, DIRECT, a698e2ec38604c6
+openx.com, 537149888, RESELLER, 6a698e2ec38604c6
+openx.com, 538959099, RESELLER, 6a698e2ec38604c6
+openx.com, 539078156, RESELLER, 6a698e2ec38604c6
+openx.com, 539154393, RESELLER, 6a698e2ec38604c6
+openx.com, 539924617, RESELLER, 6a698e2ec38604c6
+openx.com, 540118184, DIRECT, 6a698e2ec38604c6
+openx.com, 540118184, RESELLER, 6a698e2ec38604c6
+openx.com, 540393169, RESELLER, 6a698e2ec38604c6
+openx.com, 540433242, RESELLER, 6a698e2ec38604c6
+otm-r.com, 23, DIRECT
+outbrain.com, 0059852b724f4abd5a71eba4b4391d9eea, RESELLER
+outbrain.com, 00d4a4d361220099819ef58e22bc426eaa, DIRECT
+outbrain.com, 00d7086fd332d7706212a4e1efcc99fb18, DIRECT
+outbrain.com, 00ffa565e98c0e5f16708e7b1e3918290e, DIRECT
+outbrain.com, 01bdd99e5496b7573e1f9de24f6e961107, RESELLER
+potxchange.com, 74964, RESELLER, 7842df1d2fe2db34
+pubdirecte.com, 120237, RESELLER
+pubmatic.com, 137711, RESELLER, 5d62403b186f2ace
+pubmatic.com, 154037, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156077, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156078, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156108, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156212, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156307, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156377, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156410, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156423, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156439, DIRECT, 5d62403b186f2ace
+pubmatic.com, 156439, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156547, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156700, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156830, RESELLER, 5d62403b186f2ace
+Pubmatic.com, 156872, RESELLER, 5d62403b186f2ace
+Pubmatic.com, 158270, RESELLER, 5d62403b186f2ace
+pubmatic.com, 158615, DIRECT, 5d62403b186f2ace
+pubmatic.com, 158615, RESELLER, 5d62403b186f2ace
+pubmatic.com, 60809, DIRECT, 5d62403b186f2ace
+pubmatic.com, 60809, RESELLER, 5d62403b186f2ace
+pubmatic.com, 62483, RESELLER, 5d62403b186f2ace
+pulsepoint.com, 558158, RESELLER
+pulsepoint.com, 560288, DIRECT
+quantum-advertising.com, 683, RESELLER
+revcontent.com, 29124, RESELLER
+rhythmone.com, 1166984029, RESELLER, a670c89d4a324e47
+rhythmone.com, 2221906906, DIRECT, a670c89d4a324e47
+rhythmone.com, 2221906906, RESELLER, a670c89d4a324e47
+rhythmone.com, 2439829435, RESELLER, a670c89d4a324e47
+rhythmone.com, 3184058373, RESELLER, a670c89d4a324e47
+rtbhouse.com, da39a3ee5e6b4b0d, RESELLER
+rubiconproject.com, 11006, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 11740, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 12554, DIRECT, 0bfd66d529a55807
+rubiconproject.com, 15268, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 156042, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 16114, DIRECT, 0bfd66d529a55807
+rubiconproject.com, 16114, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 16414, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 16904, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 17130, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 17130, RESELLER, 59c49fa9598a0117
+rubiconproject.com, 17262, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 17270, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 17504, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 17960, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 19668, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 19724, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 19814, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 20322, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 20736, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 20848, RESELLER, 0bfd66d529a55807
+smartadserver.com, 1097, RESELLER
+smartadserver.com, 1641, RESELLER
+smartadserver.com, 1827, RESELLER
+smartadserver.com, 2399, RESELLER
+smartadserver.com, 2491, RESELLER
+smartadserver.com, 2554, RESELLER
+smartadserver.com, 2776, RESELLER
+Smartadserver.com, 3238, RESELLER
+smartclip.net, 9316, RESELLER
+smartyads.com, 16, RESELLER
+sonobi.com, f0e1159c80, RESELLER
+sovrn.com, 246013, RESELLER, fafdf38b16bf6b2b
+sovrn.com, 249705, DIRECT, fafdf38b16bf6b2b
+sovrn.com, 257611, RESELLER, fafdf38b16bf6b2b
+sovrn.com, 262973, RESELLER, fafdf38b16bf6b2b
+sovrn.com, 268479, DIRECT, fafdf38b16bf6b2b
+spotx.tv, 108933, RESELLER, 7842df1d2fe2db34
+spotx.tv, 151986, RESELLER, 7842df1d2fe2db34
+spotx.tv, 169199, RESELLER, 7842df1d2fe2db34
+spotx.tv, 178357, RESELLER, 7842df1d2fe2db34
+spotx.tv, 212153, RESELLER, 7842df1d2fe2db34
+spotx.tv, 213038, RESELLER, 7842df1d2fe2db34
+spotx.tv, 230037, RESELLER, 7842df1d2fe2db34
+spotx.tv, 238936, RESELLER, 7842df1d2fe2db34
+spotx.tv, 74964, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 108933, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 151986, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 169199, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 178357, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 212153, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 213038, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 222153, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 225721, DIRECT, 7842df1d2fe2db34
+spotxchange.com, 225721, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 230037, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 238936, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 74964, RESELLER, 7842df1d2fe2db34
+taboola.com, 1043567, DIRECT, c228e6794e811952
+taboola.com, 1095999, RESELLER, c228e6794e811952
+taboola.com, 1196805, DIRECT, c228e6794e811952
+taboola.com, 1223135, DIRECT, c228e6794e811952
+taboola.com, c228e6794e811952, DIRECT
+teads.tv, 11392, RESELLER, 15a9c44f6d26cbe1
+teads.tv, 11398, RESELLER, 15a9c44f6d26cbe1
+teads.tv, 15429, RESELLER, 15a9c44f6d26cbe1
+teads.tv, 9764, RESELLER, 15a9c44f6d26cbe1
+Verify.bing.com, BB4FB2887E0A74354011C72E5247EA72, RESELLER

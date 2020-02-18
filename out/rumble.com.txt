@@ -1,0 +1,64 @@
+#ads.txt
+
+indexexchange.com, 184032, DIRECT
+indexexchange.com, 187675, DIRECT
+
+openx.com, 538808047, DIRECT
+openx.com, 538808048, DIRECT
+openx.com, 538808049, DIRECT
+openx.com, 538808050, DIRECT
+openx.com, 540344750, DIRECT, 6a698e2ec38604c6
+
+google.com, pub-7026201757273977, DIRECT, f08c47fec0942fa0
+google.com, pub-7353644945201577, DIRECT, f08c47fec0942fa0
+
+facebook.com, 248949092245779, DIRECT
+facebook.com, 1796576440558835, DIRECT
+facebook.com, 358719497878746, DIRECT
+
+conversantmedia.com, 112604, DIRECT
+
+appnexus.com, 8288, DIRECT
+
+adtech.com, 11336, DIRECT #Oath
+
+# Amazon
+aps.amazon.com,9e7e791f-0f87-46b0-92ab-26a5054853c4,DIRECT
+pubmatic.com,157150,RESELLER,5d62403b186f2ace
+openx.com,540191398,RESELLER,6a698e2ec38604c6
+rubiconproject.com,18020,RESELLER,0bfd66d529a55807
+appnexus.com,1908,RESELLER,f5ab79cb980f11d1
+yldbt.com,5b522cc167f6b300b89dc6d3,RESELLER,cd184cb30abaabb5
+coxmt.com,2000068024302,RESELLER
+districtm.io,100962,RESELLER
+
+
+
+########
+google.com, pub-6250726578680113, RESELLER, f08c47fec0942fa0
+adtech.com, 10871, RESELLER
+smartadserver.com, 2313, RESELLER
+pubmatic, 153752, RESELLER, 5d62403b186f2ace
+anthemx.tv, 3011, DIRECT
+####
+
+
+#334997
+google.com, pub-8001072827248783, DIRECT, f08c47fec0942fa0
+
+
+#######
+rhythmone.com, 752824437,DIRECT,a670c89d4a324e47
+rhythmone.com,3526250853,DIRECT,a670c89d4a324e47
+rhythmone.com,3312463993,DIRECT,a670c89d4a324e47
+
+
+######
+chocolateplatform.com, 13062, DIRECT #video
+vdopia.com, 14057, DIRECT
+chocolateplatform.com, 14057, DIRECT
+
+
+#####
+spotxchange.com,252547,DIRECT,7842df1d2fe2db34
+spotx.tv,252547,DIRECT,7842df1d2fe2db34

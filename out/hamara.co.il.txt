@@ -1,0 +1,156 @@
+﻿# ads.txt file for PMP's, PG's PD's and DD's apply Amir@adipolo.com 11.2.2018
+
+google.com, pub-5139533155245693, DIRECT, f08c47fec0942fa0 
+
+google.com, pub-2351600059494713, DIRECT, f08c47fec0942fa0 
+
+google.com, pub-4947302610818361, RESELLER, f08c47fec0942fa0 
+
+google.com, pub-9599081886768408, RESELLER, f08c47fec0942fa0 
+
+google.com, pub-4903453974745530, RESELLER, f08c47fec0942fa0 
+
+google.com, pub-6470133476625556, RESELLER, f08c47fec0942fa0 
+
+teads.tv, 10460, RESELLER #outstream
+
+teads.tv, 10051, RESELLER #outstream
+
+indexexchange.com, 185620, RESELLER
+
+openx.com, 538957782, RESELLER
+
+appnexus.com, 3627, RESELLER
+
+sonobi.com, d081571d2d, RESELLER
+
+amazon-adsystem.com, 9967, RESELLER 
+
+sovrn.com, 249608, RESELLER, fafdf38b16bf6b2b
+
+lijit.com, 249608, RESELLER, fafdf38b16bf6b2b
+
+adipolovideo.com, 675369, RESELLER, ffdef46237d318h7
+
+adipolo.com, 675368, RESELLER, ffdef46237d318h7
+
+gumgum.com, 11645, RESELLER, ffdef49475d318a9
+
+openx.com, 537120960, RESELLER
+
+openx.com, 83499, RESELLER
+
+openx.com, 538959099, RESELLER
+
+pubmatic.com, 137711, RESELLER
+
+pubmatic.com, 156212, RESELLER
+
+pubmatic.com, 62483, RESELLER
+
+contextweb.com, 558511, RESELLER
+
+google.com, pub-8573325940152694, RESELLER, f08c47fec0942fa0 
+
+google.com, pub-4983172728561290, RESELLER, f08c47fec0942fa0 #stacy
+
+openx.com, 537139983, RESELLER, 6a698e2ec38604c6
+
+tremorhub.com, 0kq41, RESELLER, 1a4e959a1b50034a
+
+spotxchange.com, 74844, RESELLER, 7842df1d2fe2db34
+
+contextweb.com, 559971, RESELLER, 89ff185a4c4e857c
+
+btrll.com, 6835300, RESELLER
+
+lkqd.net, 74, DIRECT, 59c49fa9598a0117
+
+Advertising.com, 3500, DIRECT
+
+pubmatic.com, 156305, RESELLER, 5d62403b186f2ace
+
+freewheel.tv, 106841, RESELLER
+
+freewheel.tv, 106849, RESELLER
+
+appnexus.com, 2720, RESELLER
+
+selectmedia.asia,58fcbed1073ef420086c9d08, DIRECT 
+
+anyclip-media.com, 5666a6fd2a61260002000001, DIRECT
+
+springserve.com, 316, DIRECT, a24eb641fc82e93d
+
+lkqd.com, 74, DIRECT, 59c49fa9598a0117
+
+spotx.tv, 74844, RESELLER, 7842df1d2fe2db34
+
+appnexus.com, 3911, RESELLER, f5ab79cb980f11d1 #nexuscot
+
+rteebee.com, 5a30412179619, RESELLER #CA
+
+
+
+districtm.io, 101160, DIRECT
+
+appnexus.com, 1908, RESELLER, f5ab79cb980f11d1
+
+appnexus.com, 7944, RESELLER, f5ab79cb980f11d1
+
+google.com, pub-9685734445476814, RESELLER, f08c47fec0942fa0
+
+
+
+#Rvideo 7.2.2018
+
+spotxchange.com, 82810, RESELLER, 7842df1d2fe2db34
+
+spotx.tv, 82810, RESELLER, 7842df1d2fe2db34
+
+smartadserver.com, 2499, RESELLER
+
+fyber.com, ddecc38b3799786a1637d5176e204431, RESELLER
+
+Advertising.com, 7060, RESELLER
+
+adtech.com, 7060, RESELLER
+
+beachfront.com, 2779, RESELLER
+
+freewheel.tv, 144617, RESELLER
+
+freewheel.tv, 144633, RESELLER
+
+improvedigital.com, 1091, DIRECT
+
+improvedigital.com, 1091, RESELLER
+
+google.com, pub-1980737274132185, RESELLER, f08c47fec0942fa0 #gal.sb
+
+sekindo.com, 8808, DIRECT
+sekindo.com, 24318, DIRECT
+
+
+outbrain.com, 00e9c18980451da6ab148d6dc06f0056e7, DIRECT
+appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
+tremorhub.com, q017o-78mlk, RESELLER, 1a4e959a1b50034a # Premium video demand aka "Telaria"
+teads.tv, 15429, RESELLER, 15a9c44f6d26cbe1 # Premium video demand
+advertising.com, 26154, RESELLER # Premium video demand
+spotxchange.com, 225721, RESELLER # Premium video demand
+Freewheel.tv, 741650, RESELLER # Premium video demand
+rubiconproject.com, 17130, RESELLER, 0bfd66d529a55807 # Premium video demand
+lkqd.net, 450, RESELLER, 59c49fa9598a0117 # Premium video demand
+openx.com, 540393169, RESELLER, 6a698e2ec38604c6 # Premium video demand
+spotx.tv, 238936, RESELLER, 7842df1d2fe2db34 # Premium video demand
+spotxchange.com, 238936, RESELLER, 7842df1d2fe2db34 # Premium Video Demand
+advertising.com, 28038, RESELLER # Premium Video Demand
+rubiconproject.com, 19668, RESELLER, 0bfd66d529a55807
+contextweb.com, 562145, RESELLER, 89ff185a4c4e857c  # Premium Video Demand
+indexexchange.com, 190856, RESELLER, 50b1c356f2c5c8fc  # Premium Video Demand
+pubmatic.com, 158615, RESELLER, 5d62403b186f2ace # Premium video & display demand
+vidazoo.com, 1773068026, RESELLER, b6ada874b4d7d0b2 # Premium Video Demand
+
+
+
+

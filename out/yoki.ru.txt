@@ -1,0 +1,51 @@
+# Thrive Plus ID Integration
+thrive.plus, 190, DIRECT, a24eb641fc82e93d
+google.com, pub-6373315980741255, DIRECT, f08c47fec0942fa0
+spotxchange.com, 156078, DIRECT, 7842df1d2fe2db34
+spotx.tv, 156078, DIRECT, 7842df1d2fe2db34
+contextweb.com, 560800, DIRECT, 89ff185a4c4e857c
+lkqd.net, 295, DIRECT, 59c49fa9598a0117
+lkqd.com, 295, DIRECT, 59c49fa9598a0117
+springserve.com, 190, DIRECT, a24eb641fc82e93d
+aol.com, 6202, DIRECT
+aol.com, 17744, DIRECT
+advertising.com, 6202, DIRECT
+advertising.com, 17744, DIRECT
+vi.ai, 913453223927387, DIRECT # 41b5eef6
+spotxchange.com, 74964, RESELLER, 7842df1d2fe2db34
+spotx.tv, 74964, RESELLER, 7842df1d2fe2db34
+freewheel.tv, 364193, RESELLER
+freewheel.tv, 369249, RESELLER
+
+Spot.IM
+Spotim.Market, 266658, Direct
+Spot.IM, 266658, Direct
+contextweb.com, 560571, RESELLER
+fyber.com, 42a3ff98fefe677016da0f87403a11cf, RESELLER
+fyber.com, 42a3ff98fefe677016da0f87403a11cf, DIRECT
+google.com, pub-5616046187545019, DIRECT, f08c47fec0942fa0
+advertising.com, 21364, RESELLER
+freewheel.tv, 319201, RESELLER
+freewheel.tv, 325521, RESELLER
+tremorhub.com, p4dt2-jhelk, RESELLER
+openx.com, 539466082, RESELLER, 6a698e2ec38604c6
+rhythmone.com, 449400134, DIRECT, a670c89d4a324e47
+spotxchange.com, 211945, RESELLER, 7842df1d2fe2db34
+spotx.tv, 211945, RESELLER, 7842df1d2fe2db34
+rubiconproject.com, 17184, DIRECT
+rubiconproject.com, 18728, DIRECT, 0bfd66d529a55807
+appnexus.com, 6933, RESELLER
+PubMatic.com, 156758, RESELLER, 5d62403b186f2ace
+PubMatic.com, 156813, RESELLER, 5d62403b186f2ace
+lkqd.net, 369, RESELLER, 59c49fa9598a0117
+adtech.com, 11465.1, RESELLER
+
+# our adsense
+google.com, pub-9823569451097165, DIRECT, f08c47fec0942fa0
+# WMG
+google.com, pub-8309773808661346, DIRECT, f08c47fec0942fa0
+# stick of pravda
+criteo.com, 148322, DIRECT
+mediawayss.com, 269, DIRECT
+google.com, pub-1965383259143495, RESELLER, f08c47fec0942fa0
+google.com, pub-6864402317197092, RESELLER, f08c47fec0942fa0

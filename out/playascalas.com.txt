@@ -1,0 +1,40 @@
+# ADS PLAYAS CALAS
+
+# -- @adman
+admanmedia.com, 90758e3e, RESELLER
+admanmedia.com, 11d0df5f, RESELLER
+freewheel.tv, 234585, RESELLER
+google.com, pub-9404419171574902, RESELLER, f08c47fec0942fa
+spotxchange.com, 135285, RESELLER, 7842df1d2fe2db34
+spotx.tv, 135285, RESELLER, 7842df1d2fe2db34
+smartadserver.com,3187,RESELLER
+richaudience.com, sZn9xIbZzF, DIRECT
+appnexus.com, 8233, DIRECT
+
+# -- @adsense
+google.com, pub-9902691970529102, DIRECT, f08c47fec0942fa0
+
+#Seedtag ES
+seedtag.com, 3985-3242-01, DIRECT
+pubmatic.com, 157743, RESELLER, 5d62403b186f2acea
+spotxchange.com, 249286, RESELLER, 7842df1d2fe2db34
+spotx.tv, 249286, RESELLER, 7842df1d2fe2db34
+rubiconproject.com, 17280, DIRECT, 0bfd66d529a55807
+smartadserver.com, 3050, RESELLER
+groundtruth.com, 107, RESELLER, 81cbf0a75a5e0e9a
+contextweb.com, 560288, RESELLER, 89ff185a4c4e857c
+openx.com, 537149888, RESELLER, 6a698e2ec38604c6
+sovrn.com, 257611, RESELLER, fafdf38b16bf6b2b
+districtm.io, 101760, RESELLER, 3fd707be9c4527c3
+appnexus.com, 4009, RESELLER
+richaudience.com, ns9qrKJLKD, DIRECT
+adform.com, 1942, DIRECT
+advertising.com, 7574, DIRECT
+aerserv.com, 2750, RESELLER, 2ce496b9f80eb9fa
+aolcloud.net, 4687, RESELLER
+mobfox.com, 74240, RESELLER
+openx.com, 539625136, RESELLER
+smaato.com, 1100037086, RESELLER
+tremorhub.com, s2t3y-r3ofd, RESELLER, 1a4e959a1b50034a
+smartadserver.com, 2938, RESELLER
+google.com, pub-2859204820585993, DIRECT, f08c47fec0942fa0

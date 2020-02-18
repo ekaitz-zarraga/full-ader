@@ -1,0 +1,55 @@
+# ads.txt for downdetector.com
+
+indexexchange.com, 186813, DIRECT
+rubiconproject.com, 12042, DIRECT, 0bfd66d529a55807
+google.com, pub-8642148860303121, DIRECT, f08c47fec0942fa0
+appnexus.com, 329, RESELLER, f5ab79cb980f11d1
+conversantmedia.com, 38839, DIRECT
+
+#openX
+openx.com, 539074089, DIRECT, 6a698e2ec38604c6
+openx.com, 539164681, DIRECT, 6a698e2ec38604c6
+openx.com, 537127704, DIRECT, 6a698e2ec38604c6
+openx.com, 539079344, DIRECT, 6a698e2ec38604c6
+openx.com,538904910,DIRECT,6a698e2ec38604c6
+
+#appnexus
+appnexus.com, 3427, DIRECT, f5ab79cb980f11d1
+appnexus.com, 650147, DIRECT, f5ab79cb980f11d1
+
+#index
+indexexchange.com, 183785, DIRECT, 50b1c356f2c5c8fc
+indexexchange.com, 185019, DIRECT, 50b1c356f2c5c8fc
+
+#google
+google.com, pub-1884113863780622, DIRECT, f08c47fec0942fa0
+google.com, pub-9914992914910847, DIRECT, f08c47fec0942fa0
+google.com, pub-1273248303616359, DIRECT, f08c47fec0942fa0
+
+#rubicon
+rubiconproject.com, 11576, DIRECT, 0bfd66d529a55807
+rubiconproject.com, 11796, DIRECT, 0bfd66d529a55807
+rubiconproject.com, 18576, DIRECT, 0bfd66d529a55807
+
+#districtM
+districtm.io, 100298, DIRECT
+appnexus.com, 1908, RESELLER
+appnexus.com, 7944, RESELLER
+
+#aol
+adtech.com, 10404, DIRECT
+aolcloud.net, 10404, DIRECT
+
+#pulsepoint
+contextweb.com, 560022, DIRECT, 89ff185a4c4e857c
+
+#bRealTime
+emxdgt.com, 82, DIRECT
+google.com,  pub-5995202563537249, RESELLER
+appnexus.com, 1356, RESELLER
+
+#media.net
+media.net, 8CUYEJ1S6, DIRECT
+media.net, 8CUI141E6, DIRECT
+google.com, pub-7439041255533808, RESELLER
+openx.com, 537100188, RESELLER

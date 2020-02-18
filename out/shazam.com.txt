@@ -1,0 +1,25 @@
+#Ads.txt shazam.com
+
+google.com,pub-1769648890980388,DIRECT,f08c47fec0942fa0 #(primary Google AdX)
+google.com,pub-4049302449601269,RESELLER,f08c47fec0942fa0 #(Reseller Google AdX 365 Digital)
+google.com,pub-0928917523760106,RESELLER,f08c47fec0942fa0 #(Reseller Google AdX Belgacom)
+google.com,pub-4188807138211503,RESELLER,f08c47fec0942fa0 #(Reseller Google AdX MediaMond)
+google.com,pub-7051612085276246,RESELLER,f08c47fec0942fa0 #(Reseller Google AdX Tapped)
+google.com,pub-5950292004069591,RESELLER,f08c47fec0942fa0 #(Reseller Google AdX USMC)
+google.com,pub-8572040456674904,RESELLER,f08c47fec0942fa0 #(Reseller Google AdX YOC)
+google.com,pub-5668774179595841,DIRECT,f08c47fec0942fa0 #(AdSense/AdMob)
+coxmt.com,2000068019002,DIRECT # (COMET EBDA)
+indexexchange.com,184967,DIRECT # (Index EBDA)
+rubiconproject.com,13928,DIRECT,0bfd66d529a55807 #(Rubicon US)
+rubiconproject.com,13990,DIRECT,0bfd66d529a55807 #(Rubicon EMEA)
+smaato.com,1100014082,DIRECT #(Smaato SPX)
+smaato.com,1100033526,DIRECT #(Smaato EBDA)
+openx.com,538964818,DIRECT,6a698e2ec38604c6 #(OpenX EBDA)
+openx.com,537138950,DIRECT,6a698e2ec38604c6 #(OpenX)
+rhythmone.com,1562050039,DIRECT,a670c89d4a324e47 #(RhythmOne EBDA)
+rhythmone.com,2919493362,DIRECT,a670c89d4a324e47 #(RhythmOne EBDA)
+appnexus.com,994,RESELLER,f5ab79cb980f11d1  #WebAds Reseller Partner
+rubiconproject.com,11394,RESELLER,0bfd66d529a55807  #WebAds Reseller Partner
+pubmatic.com,156487,RESELLER,5d62403b186f2ace   #WebAds Reseller Partner
+adform.com,648,RESELLER #WebAds Reseller Partner
+rubiconproject.com,18462,DIRECT,0bfd66d529a55807

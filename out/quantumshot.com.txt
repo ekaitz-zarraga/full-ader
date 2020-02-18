@@ -1,0 +1,212 @@
+object(Zend_Controller_Dispatcher_Exception)#304 (8) {
+  ["_previous":"Zend_Exception":private]=>
+  NULL
+  ["message":protected]=>
+  string(38) "Invalid controller specified (ads.txt)"
+  ["string":"Exception":private]=>
+  string(0) ""
+  ["code":protected]=>
+  int(0)
+  ["file":protected]=>
+  string(80) "/opt/cpanel/ea-php55/root/usr/share/pear/Zend/Controller/Dispatcher/Standard.php"
+  ["line":protected]=>
+  int(242)
+  ["trace":"Exception":private]=>
+  array(4) {
+    [0]=>
+    array(6) {
+      ["file"]=>
+      string(66) "/opt/cpanel/ea-php55/root/usr/share/pear/Zend/Controller/Front.php"
+      ["line"]=>
+      int(954)
+      ["function"]=>
+      string(8) "dispatch"
+      ["class"]=>
+      string(35) "Zend_Controller_Dispatcher_Standard"
+      ["type"]=>
+      string(2) "->"
+      ["args"]=>
+      array(2) {
+        [0]=>
+        object(Zend_Controller_Request_Http)#51 (15) {
+          ["_paramSources":protected]=>
+          array(2) {
+            [0]=>
+            string(4) "_GET"
+            [1]=>
+            string(5) "_POST"
+          }
+          ["_requestUri":protected]=>
+          string(8) "/ads.txt"
+          ["_baseUrl":protected]=>
+          string(0) ""
+          ["_basePath":protected]=>
+          NULL
+          ["_pathInfo":protected]=>
+          string(8) "/ads.txt"
+          ["_params":protected]=>
+          array(4) {
+            ["controller"]=>
+            string(7) "ads.txt"
+            ["action"]=>
+            string(5) "index"
+            ["module"]=>
+            string(7) "default"
+            ["error_handler"]=>
+            object(ArrayObject)#303 (1) {
+              ["storage":"ArrayObject":private]=>
+              array(3) {
+                ["exception"]=>
+                *RECURSION*
+                ["type"]=>
+                string(23) "EXCEPTION_NO_CONTROLLER"
+                ["request"]=>
+                object(Zend_Controller_Request_Http)#302 (15) {
+                  ["_paramSources":protected]=>
+                  array(2) {
+                    [0]=>
+                    string(4) "_GET"
+                    [1]=>
+                    string(5) "_POST"
+                  }
+                  ["_requestUri":protected]=>
+                  string(8) "/ads.txt"
+                  ["_baseUrl":protected]=>
+                  string(0) ""
+                  ["_basePath":protected]=>
+                  NULL
+                  ["_pathInfo":protected]=>
+                  string(8) "/ads.txt"
+                  ["_params":protected]=>
+                  array(3) {
+                    ["controller"]=>
+                    string(7) "ads.txt"
+                    ["action"]=>
+                    string(5) "index"
+                    ["module"]=>
+                    string(7) "default"
+                  }
+                  ["_rawBody":protected]=>
+                  NULL
+                  ["_aliases":protected]=>
+                  array(0) {
+                  }
+                  ["_dispatched":protected]=>
+                  bool(true)
+                  ["_module":protected]=>
+                  string(7) "default"
+                  ["_moduleKey":protected]=>
+                  string(6) "module"
+                  ["_controller":protected]=>
+                  string(7) "ads.txt"
+                  ["_controllerKey":protected]=>
+                  string(10) "controller"
+                  ["_action":protected]=>
+                  string(5) "index"
+                  ["_actionKey":protected]=>
+                  string(6) "action"
+                }
+              }
+            }
+          }
+          ["_rawBody":protected]=>
+          NULL
+          ["_aliases":protected]=>
+          array(0) {
+          }
+          ["_dispatched":protected]=>
+          bool(true)
+          ["_module":protected]=>
+          string(7) "default"
+          ["_moduleKey":protected]=>
+          string(6) "module"
+          ["_controller":protected]=>
+          string(5) "error"
+          ["_controllerKey":protected]=>
+          string(10) "controller"
+          ["_action":protected]=>
+          string(5) "error"
+          ["_actionKey":protected]=>
+          string(6) "action"
+        }
+        [1]=>
+        object(Zend_Controller_Response_Http)#52 (8) {
+          ["_body":protected]=>
+          array(0) {
+          }
+          ["_exceptions":protected]=>
+          array(1) {
+            [0]=>
+            *RECURSION*
+          }
+          ["_headers":protected]=>
+          array(0) {
+          }
+          ["_headersRaw":protected]=>
+          array(0) {
+          }
+          ["_httpResponseCode":protected]=>
+          int(200)
+          ["_isRedirect":protected]=>
+          bool(false)
+          ["_renderExceptions":protected]=>
+          bool(false)
+          ["headersSentThrowsException"]=>
+          bool(true)
+        }
+      }
+    }
+    [1]=>
+    array(6) {
+      ["file"]=>
+      string(66) "/opt/cpanel/ea-php55/root/usr/share/pear/Zend/Controller/Front.php"
+      ["line"]=>
+      int(212)
+      ["function"]=>
+      string(8) "dispatch"
+      ["class"]=>
+      string(21) "Zend_Controller_Front"
+      ["type"]=>
+      string(2) "->"
+      ["args"]=>
+      array(0) {
+      }
+    }
+    [2]=>
+    array(6) {
+      ["file"]=>
+      string(29) "/home/quantum/kosmos/init.php"
+      ["line"]=>
+      int(66)
+      ["function"]=>
+      string(3) "run"
+      ["class"]=>
+      string(21) "Zend_Controller_Front"
+      ["type"]=>
+      string(2) "::"
+      ["args"]=>
+      array(1) {
+        [0]=>
+        &string(32) "/home/quantum/kosmos/controllers"
+      }
+    }
+    [3]=>
+    array(6) {
+      ["file"]=>
+      string(35) "/home/quantum/public_html/index.php"
+      ["line"]=>
+      int(13)
+      ["function"]=>
+      string(7) "execute"
+      ["class"]=>
+      string(6) "kosmos"
+      ["type"]=>
+      string(2) "->"
+      ["args"]=>
+      array(0) {
+      }
+    }
+  }
+  ["previous":"Exception":private]=>
+  NULL
+}

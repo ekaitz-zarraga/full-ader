@@ -1,0 +1,10 @@
+#ads.txt symptome.ch
+#contact= https://www.symptome.ch/misc/contact/
+
+appnexus.com, 1504, RESELLER, f5ab79cb980f11d1
+rubiconproject.com, 14892, DIRECT
+google.com, pub-8560840933830995, DIRECT, f08c47fec0942fa0
+
+
+
+

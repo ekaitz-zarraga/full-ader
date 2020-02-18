@@ -1,0 +1,14 @@
+#Ads.txt file for DPLAY.NO:
+
+#Google SSP
+google.com, pub-3298888449298533, DIRECT, f08c47fec0942fa0
+
+#Smartclip
+smartclip.net,9148,DIRECT
+smartclip.net,838,DIRECT
+
+#FW SSP/StickyAds
+freewheel.tv, 649410, DIRECT
+freewheel.tv, 926529, RESELLER
+
+contact=DNI_AdOps@discovery.com

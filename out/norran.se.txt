@@ -1,0 +1,26 @@
+smartclip.net,1299,DIRECT
+pubmatic.com, 79505, DIRECT, 5d62403b186f2ace
+
+#Leeads SE
+rubiconproject.com, 12032, RESELLER
+adform.com,125, RESELLER
+google.com, pub-4270686160673198, RESELLER
+improvedigital.com, 227, RESELLER
+pubmatic.com, 157349, RESELLER, 5d62403b186f2ace
+appnexus.com, 10281, DIRECT, f5ab79cb980f11d1
+appnexus.com, 8806, RESELLER, f5ab79cb980f11d1
+
+
+widespace.com, 147, DIRECT
+pubmatic.com, 156098, RESELLER, 5d62403b186f2ace
+
+rubiconproject.com, 11508, DIRECT, 0bfd66d529a55807
+
+#Keymobile
+adform.com, 582, RESELLER, 9f5210a2f0999e32
+rubiconproject.com, 17310, RESELLER, 0bfd66d529a55807
+google.com, pub-1483186529645269, RESELLER, f08c47fec0942fa0
+
+#Mediakompaniet
+adform.com, 2509, DIRECT, 9f5210a2f0999e32
+google.com, pub-8443675373555952, RESELLER, f08c47fec0942fa0

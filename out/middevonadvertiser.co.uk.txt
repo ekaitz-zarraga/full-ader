@@ -1,0 +1,29 @@
+# Ads.txt file for TindleNewsGroup.com:
+
+adform.com, 183, RESELLER
+appnexus.com, 1360, RESELLER, f5ab79cb980f11d1
+appnexus.com, 7118, RESELLER
+freewheel.tv, 33081, RESELLER
+freewheel.tv, 33601, RESELLER
+google.com, pub-5705527037882298, DIRECT, f08c47fec0942fa0
+google.com, pub-8172268348509349, RESELLER, f08c47fec0942fa0
+gumgum.com, 11645, RESELLER, ffdef49475d318a9
+improvedigital.com, 185, RESELLER
+indexexchange.com, 185246, DIRECT
+indexexchange.com, 188800, DIRECT
+lijit.com, 266164, DIRECT, fafdf38b16bf6b2b
+lijit.com, 266164-eb, DIRECT, fafdf38b16bf6b2b
+openx.com, 538959099, RESELLER, 6a698e2ec38604c6
+openx.com, 539924617, RESELLER, 6a698e2ec38604c6
+openx.com, 539521606, RESELLER, 6a698e2ec38604c6
+openx.com, 540298543, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 157769, RESELLER, 5d62403b186f2ace
+pubmatic.com, 137711, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156212, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156700, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 17960, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 18240, RESELLER, 0bfd66d529a55807
+sovrn.com, 266164, DIRECT, fafdf38b16bf6b2b
+spotx.tv, 108933, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 108933, RESELLER, 7842df1d2fe2db34
+teads.tv, 19998, DIRECT, 15a9c44f6d26cbe1

@@ -1,0 +1,19 @@
+#ads.txt for ebay.it
+
+adtech.com, 4837, DIRECT
+adyoulike.com, b06db1cf4c215850740a566fe0e2cabd, RESELLER
+aolcloud.net, 4837, DIRECT
+appnexus.com, 3341, DIRECT
+google.com, pub-9484220241660327, DIRECT, f08c47fec0942fa0
+google.com, pub-4595003186997444, DIRECT, f08c47fec0942fa0
+indexexchange.com, 184299, DIRECT, 50b1c356f2c5c8fc
+openx.com, 537105892, DIRECT, 6a698e2ec38604c6
+pubmatic.com, 43044, DIRECT, 5d62403b186f2ace
+rubiconproject.com, 206807, DIRECT, 0bfd66d529a55807
+rubiconproject.com, 8100, DIRECT, 0bfd66d529a55807
+smartadserver.com, 2841, DIRECT
+indexexchange.com, 186785, DIRECT
+aolcloud.net, 4889, DIRECT
+adtech.com, 4889, DIRECT
+
+# Generated: 10/31/2018 13:54 -0500

@@ -1,0 +1,8 @@
+# ads.txt OMCON24
+google.com, pub-2463933962219177, DIRECT, f08c47fec0942fa0
+google.com, pub-2314793408715853, DIRECT, f08c47fec0942fa0
+appnexus.com, 3702, RESELLER, f5ab79cb980f11d1
+appnexus.com, 2154, RESELLER
+indexexchange.com, 184543, RESELLER
+freewheel.tv,200809,RESELLER
+freewheel.tv,200177,RESELLER

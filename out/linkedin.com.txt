@@ -1,0 +1,6 @@
+#
+# Ads.txt file for LinkedIn Marketing Solutions (LMS)
+# File is used to confirm authorized resellers of LinkedIn Advertising Inventory
+#
+appnexus.com, 232, DIRECT, f5ab79cb980f11d1
+google.com, pub-5846180339472338, DIRECT, f08c47fec0942fa0

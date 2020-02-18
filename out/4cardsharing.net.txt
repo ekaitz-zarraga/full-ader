@@ -1,0 +1,33 @@
+google.com, pub-5092017799051794, DIRECT, f08c47fec0942fa0
+rubiconproject.com, 15336, DIRECT, 0bfd66d529a55807
+rubiconproject.com, 17934, DIRECT, 0bfd66d529a55807
+appnexus.com, 8182, DIRECT, f5ab79cb980f11d1
+aps.amazon.com,3379, DIRECT #display
+aps.amazon.com,3570, DIRECT #display
+adtech.com, 10571, DIRECT
+adtech.com, 12037, DIRECT
+openx.com, 537144808, DIRECT, 6a698e2ec38604c6
+openx.com, 539378221, DIRECT, 6a698e2ec38604c6
+openx.com, 537115568, DIRECT, 6a698e2ec38604c6
+openx.com, 539119475, DIRECT, 6a698e2ec38604c6
+openx.com, 539936212, DIRECT, 6a698e2ec38604c6
+pubmatic.com, 156234, DIRECT, 5d62403b186f2ace
+pubmatic.com, 156597, DIRECT, 5d62403b186f2ace
+pubmatic.com, 157380, DIRECT, 5d62403b186f2ace
+pubmatic.com, 158260, RESELLER, 5d62403b186f2ace
+pubmatic.com, 158261, RESELLER, 5d62403b186f2ace
+aax.media, AAX763KC6, DIRECT
+media.net, 8CUFDS56E, DIRECT
+districtm.io, 100600, RESELLER
+EMXDGT.com, 920, RESELLER, 1e1d41537f7cad7f
+appnexus.com, 1908, RESELLER, f5ab79cb980f11d1
+Appnexus.com, 1356, RESELLER, f5ab79cb980f11d1
+sonobi.com, 83729e979b, RESELLER
+indexexchange.com, 188531, DIRECT
+appnexus.com, 3153, RESELLER, f5ab79cb980f11d1
+rubiconproject.com, 16414, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 20616, RESELLER, 0bfd66d529a55807
+openx.com, 537100188, RESELLER, 6a698e2ec38604c6
+sharethrough.com, 0d60edd5, RESELLER
+33across.com, 0010b00002AQUQFAA5, Reseller, bbea06d9c4d2853c
+indexexchange.com, 189372, RESELLER, 50b1c356f2c5c8fc

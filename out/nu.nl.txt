@@ -1,0 +1,149 @@
+appnexus.com, 7463, DIRECT
+google.com, pub-5854238349292660, DIRECT, f08c47fec0942fa0
+google.com, pub-0886136579750068, DIRECT, f08c47fec0942fa0
+google.com, pub-7024374936965210, DIRECT, f08c47fec0942fa0
+google.com, pub-7205535355976271, DIRECT, f08c47fec0942fa0
+google.com, pub-4377530499363465, DIRECT, f08c47fec0942fa0
+
+#startpagina dochters
+google.com, pub-7822329372350220, DIRECT, f08c47fec0942fa0
+google.com, pub-7627063063875903, DIRECT, f08c47fec0942fa0
+google.com, pub-7800955082546302, DIRECT, f08c47fec0942fa0
+google.com, pub-6642913685960168, DIRECT, f08c47fec0942fa0
+google.com, pub-5092131172665130, DIRECT, f08c47fec0942fa0
+google.com, pub-4174403901699773, DIRECT, f08c47fec0942fa0
+google.com, pub-2574563035274129, DIRECT, f08c47fec0942fa0
+google.com, pub-9441609748869923, DIRECT, f08c47fec0942fa0
+google.com, pub-1122007976859462, DIRECT, f08c47fec0942fa0
+google.com, pub-0097443439991992, DIRECT, f08c47fec0942fa0
+google.com, pub-3307370514436834, DIRECT, f08c47fec0942fa0
+google.com, pub-3653404122346257, DIRECT, f08c47fec0942fa0
+google.com, pub-3498797738719105, DIRECT, f08c47fec0942fa0
+google.com, pub-6764561141618753, DIRECT, f08c47fec0942fa0
+google.com, pub-1702196185600660, DIRECT, f08c47fec0942fa0
+google.com, pub-9582620197750533, DIRECT, f08c47fec0942fa0
+google.com, pub-5452099218550119, DIRECT, f08c47fec0942fa0
+google.com, pub-8104922028410185, DIRECT, f08c47fec0942fa0
+google.com, pub-4492758088594150, DIRECT, f08c47fec0942fa0
+
+#Video Talpa
+freewheel.tv, 203057, RESELLER
+freewheel.tv, 213226, RESELLER
+freewheel.tv, 213234, RESELLER
+freewheel.tv, 213266, RESELLER
+freewheel.tv, 213274, RESELLER
+freewheel.tv, 213282, RESELLER
+freewheel.tv, 213290, RESELLER
+freewheel.tv, 213298, RESELLER
+freewheel.tv, 213306, RESELLER
+freewheel.tv, 213322, RESELLER
+freewheel.tv, 213338, RESELLER
+freewheel.tv, 213362, RESELLER
+freewheel.tv, 370001, RESELLER
+freewheel.tv, 435553, RESELLER
+freewheel.tv, 821121, DIRECT
+freewheel.tv, 968801, RESELLER
+freewheel.tv, 276626, RESELLER
+freewheel.tv, 276786, RESELLER
+freewheel.tv, 276802, RESELLER
+freewheel.tv, 276866, RESELLER
+freewheel.tv, 276882, RESELLER
+freewheel.tv, 276898, RESELLER
+freewheel.tv, 276914, RESELLER
+freewheel.tv, 276930, RESELLER
+freewheel.tv, 276946, RESELLER
+freewheel.tv, 276978, RESELLER
+freewheel.tv, 277010, RESELLER
+freewheel.tv, 277058, RESELLER
+freewheel.tv, 370033, RESELLER
+freewheel.tv, 435585, RESELLER
+freewheel.tv, 821137, RESELLER
+freewheel.tv, 968817, RESELLER
+
+#Zoomin.TV ads.txt
+freewheel.tv, 270642, RESELLER
+freewheel.tv, 270658, RESELLER
+google.com, pub-2468262778002506, DIRECT, f08c47fec0942fa0
+fyber.com, e346417a5d08969fc16db728b6ea919e, RESELLER
+
+smartadserver.com, 2256, DIRECT
+contextweb.com,560288,RESELLER,89ff185a4c4e857c
+pubmatic.com,156439,RESELLER
+pubmatic.com, 154037,RESELLER
+rubiconproject.com,16114,RESELLER, 0bfd66d529a55807
+openx.com,537149888,RESELLER,6a698e2ec38604c6
+sovrn.com, 257611,RESELLER, fafdf38b16bf6b2b
+appnexus.com,3703,RESELLER,f5ab79cb980f11d1
+
+videmob.com, 1621335485, RESELLER, 0de284bf2d40bd06
+spotxchange.com, 220321, RESELLER, 7842df1d2fe2db34
+Contextweb.com,560875,RESELLER,89ff185a4c4e857c
+pubmatic.com,156783, RESELLER, 5d62403b186f2ace
+google.com, pub-2697483239283649, RESELLER, f08c47fec0942fa0
+openx.com, 540563396, DIRECT, 6a698e2ec38604c6
+
+video.unrulymedia.com, UNRX-PUB-58b038d8-6dd6-4453-8049-f8232bb8c5f3, DIRECT
+indexexchange.com, 182257, RESELLER 
+appnexus.com, 6849, RESELLER 
+rubiconproject.com, 15268, RESELLER
+yieldlab.net, 8295301, RESELLER
+yieldlab.net, 227224, RESELLER
+
+#outstream sanoma
+smartclip.net, 753, RESELLER
+
+improvedigital.com, 73, DIRECT
+improvedigital.com, 1077, RESELLER
+spotxchange.com, 207379, DIRECT, 7842df1d2fe2db34
+spotx.tv, 207379, DIRECT, 7842df1d2fe2db34
+
+appnexus.com, 3723, RESELLER
+
+#Plista
+plista.com, 39084, DIRECT
+plista.com, 238546, DIRECT
+plista.com, 237844, DIRECT
+plista.com, 241666, DIRECT
+plista.com, 39083, DIRECT
+plista.com, 241665, DIRECT
+plista.com, 36189, DIRECT
+appnexus.com,7456, DIRECT
+appnexus.com, 7790, DIRECT
+
+#pubmatic
+pubmatic.com, 157368,DIRECT,5d62403b186f2ace
+
+#Weborama
+improvedigital.com, 1069, RESELLER
+
+# Openx HB Sanoma
+openx.com, 540646876, DIRECT, 6a698e2ec38604c6
+
+#Adfactor
+google.com, pub-7939627363540437, RESELLER, f08c47fec0942fa0
+spotxchange.com, 220214, RESELLER, 7842df1d2fe2db34
+spotx.tv, 220214, RESELLER, 7842df1d2fe2db34
+improvedigital.com, 81, RESELLER
+spotxchange.com, 102387, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 150897, RESELLER, 7842df1d2fe2db34
+spotx.tv, 102387, RESELLER, 7842df1d2fe2db34
+spotx.tv, 150897, RESELLER, 7842df1d2fe2db34
+
+#NLProfiel 
+pubmatic.com, 158680, DIRECT, 5d62403b186f2ace
+
+#Dentsu Aegis Network
+themediagrid.com,  FO2HIU, RESELLER, 35d5010d7789b49d
+
+#spotx (HB)
+spotxchange.com, 271308, RESELLER, 7842df1d2fe2db34 
+spotx.tv, 271308, RESELLER, 7842df1d2fe2db34
+
+#facebook (HB)
+facebook.com, 1466419380334373, RESELLER, c3e20eee3f780d68
+
+
+
+
+
+

@@ -1,0 +1,32 @@
+h12-media.com, 17827, DIRECT
+contextweb.com, 557779, RESELLER, 89ff185a4c4e857c
+contextweb.com, 557723, RESELLER, 89ff185a4c4e857c
+criteo.com, 22270, RESELLER
+sovrn.com, 261575, RESELLER, fafdf38b16bf6b2b
+lijit.com, 261575, RESELLER, fafdf38b16bf6b2b
+gumgum.com, 11645, RESELLER, ffdef49475d318a9
+openx.com, 537120960, RESELLER
+openx.com, 83499, RESELLER
+openx.com, 538959099, RESELLER
+pubmatic.com, 137711, RESELLER
+pubmatic.com, 156212, RESELLER
+pubmatic.com, 62483, RESELLER
+
+vdo.ai, 1035, DIRECT
+google.com, pub-7094677798399606, RESELLER, f08c47fec0942fa0
+appnexus.com, 8148, RESELLER
+advertising.com, 25264, DIRECT, e1a5b5b6e3255540
+beachfront.com, 12484, RESELLER, e2541279e8e2ca4d
+indexexchange.com, 189205, DIRECT, 50b1c356f2c5c8fc
+pubmatic.com, 158017, DIRECT, 5d62403b186f2ace
+rhythmone.com, 1222734754, DIRECT, a670c89d4a324e47
+districtm.io, 100428, DIRECT
+appnexus.com, 1908, RESELLER
+appnexus.com, 7944, RESELLER
+
+#Ad.Plus
+
+Ad.Plus, 3536489, DIRECT #video
+google.com, pub-2610964203515025, DIRECT, f08c47fec0942fa0 
+google.com, pub-2393320645055022, RESELLER, f08c47fec0942fa0
+

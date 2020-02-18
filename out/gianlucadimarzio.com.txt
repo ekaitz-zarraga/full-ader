@@ -1,0 +1,81 @@
+#hellodi
+google.com, pub-6878795089598989, RESELLER
+
+#dimarziochannel
+google.com, pub-5011462243420363, DIRECT, f08c47fec0942fa0
+
+#4stroke
+openx.com, 540233840, DIRECT, 6a698e2ec38604c6
+
+
+#SKY - INIZIO
+google.com, pub-8711244316083070, DIRECT, f08c47fec0942fa0
+pubmatic.com, 73111, DIRECT, 5d62403b186f2ace
+pubmatic.com, 157436, DIRECT, 5d62403b186f2ace
+adform.com, 258, DIRECT
+triplelift.com, 3569, DIRECT, 6c33edb13117fd86
+appnexus.com, 1785, RESELLER, f5ab79cb980f11d1
+improvedigital.com, 1088, DIRECT
+rubiconproject.com, 19618, DIRECT, 0bfd66d529a55807
+openx.com, 540233840, DIRECT, 6a698e2ec38604c6
+indexexchange.com, 188789, DIRECT
+appnexus.com, 10487, DIRECT, f5ab79cb980f11d1
+improvedigital.com, 1309, DIRECT
+rubiconproject.com, 16534, DIRECT, 0bfd66d529a55807
+vdopia.com, 14627, DIRECT, 49a66ce31a704197
+chocolateplatform.com, 14627, DIRECT, 49a66ce31a704197
+sovrn.com, 272455, DIRECT, fafdf38b16bf6b2b
+openx.com, 540858363, DIRECT, 6a698e2ec38604c6
+
+
+adform.com, 1226, DIRECT
+adform.com, 1943, DIRECT
+adform.com, 622, DIRECT
+adform.com, 2110, DIRECT
+adform.com, 2112, DIRECT
+
+
+#SKY - FINE
+
+
+
+#Seedtag IT
+
+appnexus.com, 4009, RESELLER #ST1
+smartadserver.com, 2699, RESELLER #ST1
+smartadserver.com, 2938, RESELLER #ST1
+advertising.com, 23286, RESELLER #ST1
+appnexus.com, 4009, RESELLER #ST1
+smartadserver.com, 3051, RESELLER #ST1
+smartadserver.com, 3050, RESELLER #ST1
+rubiconproject.com, 17280, DIRECT, 0bfd66d529a55807 #ST1
+smartadserver.com, 2699, RESELLER #ST2
+smartadserver.com, 2938, RESELLER #ST2
+contextweb.com,560288,RESELLER,89ff185a4c4e857c #ST2
+indexexchange.com,179394,RESELLER,50b1c356f2c5c8fc #ST2
+richaudience.com, ns9qrKJLKD, DIRECT #ST2
+tremorhub.com, s2t3y-r3ofd, RESELLER, 1a4e959a1b50034a #ST2
+adform.com, 1942, DIRECT #ST3
+advertising.com, 7574, DIRECT #ST3
+aerserv.com, 2750, RESELLER, 2ce496b9f80eb9fa #ST3
+aolcloud.net, 4687, RESELLER #ST3
+mobfox.com, 74240, RESELLER #ST3
+openx.com, 539625136, RESELLER #ST3
+pubmatic.com, 156538, DIRECT, 5d62403b186f2ace #ST3
+rubiconproject.com, 13510, DIRECT #ST3
+smaato.com, 1100037086, RESELLER #ST3
+spotx.tv, 173175, DIRECT #ST3
+spotxchange.com, 173175, DIRECT #ST3
+
+advertising.com, 23286, RESELLER  #ST2
+seedtag.com, 6975-7342-01, DIRECT #ST0
+
+pubmatic.com, 157743, RESELLER, 5d62403b186f2acea #ST2
+spotxchange.com, 249286, RESELLER, 7842df1d2fe2db34 #ST2
+spotx.tv, 249286, RESELLER, 7842df1d2fe2db34 #ST2
+groundtruth.com, 107, RESELLER, 81cbf0a75a5e0e9a #ST2
+openx.com, 537149888, RESELLER, 6a698e2ec38604c6 #ST2
+sovrn.com, 257611, RESELLER, fafdf38b16bf6b2b #ST2
+districtm.io, 101760, RESELLER, 3fd707be9c4527c3 #ST2
+
+google.com, pub-2859204820585993, DIRECT, f08c47fec0942fa #ST1

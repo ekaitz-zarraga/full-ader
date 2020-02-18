@@ -1,0 +1,74 @@
+#Humanoid -> Index Exchange
+indexexchange.com, 187155, DIRECT
+#
+#Humanoid -> Improve
+improvedigital.com, 1442, DIRECT
+#
+#Humanoid -> Ligatus (maj 27/12/2018)
+ligadx.com,17495,DIRECT 
+ligadx.com,f3e322a6b7b1d50c,DIRECT 
+spotxchange.com,206177,RESELLER,7842df1d2fe2db34
+spotx.tv,206177,RESELLER,7842df1d2fe2db34
+AppNexus.com,3723,DIRECT
+#
+#Humanoid -> DFP
+google.com, pub-6448873839562951, DIRECT, f08c47fec0942fa0
+google.com, pub-6448873839562951, RESELLER, f08c47fec0942fa0
+google.com, pub-4987251187205487, DIRECT, f08c47fec0942fa0
+#
+#Humanoid -> OpenX
+openx.com, 540310768, DIRECT, 6a698e2ec38604c6
+openx.com, 540310768, RESELLER, 6a698e2ec38604c6
+#
+#Humanoid -> Rubicon
+rubiconproject.com, 20262, DIRECT, 0bfd66d529a55807
+rubiconproject.com, 20260, DIRECT, 0bfd66d529a55807
+#
+#Humanoid -> MediaSquare
+rubiconproject.com, 9585, RESELLER, 0bfd66d529a55807
+appnexus.com, 1608, RESELLER, f5ab79cb980f11d1
+appnexus.com, 3500, RESELLER, f5ab79cb980f11d1
+appnexus.com, 8494, RESELLER, f5ab79cb980f11d1
+indexexchange.com, 187149, DIRECT, 50b1c356f2c5c8fc
+#
+# START SublimeSkinz Network 2019-02-15
+smartadserver.com, 1827, RESELLER
+improvedigital.com, 335, RESELLER
+appnexus.com, 3538, RESELLER
+appnexus.com, 3539, RESELLER
+appnexus.com, 3540, RESELLER
+# END SublimeSkinz Network
+
+# OptiDigital
+teads.tv, 18514, DIRECT, 15a9c44f6d26cbe1 
+rubiconproject.com, 20336, RESELLER, 0bfd66d529a55807
+smartadserver.com, 3379, DIRECT
+
+# Gravity
+appnexus.com, 9124, DIRECT, f5ab79cb980f11d1
+
+#Humanoid -> APS (GWB did 11/9)
+aps.amazon.com,5330551a-ea82-4b40-84b9-ee31cd84e1d3,DIRECT
+pubmatic.com,157150,RESELLER,5d62403b186f2ace
+openx.com,540191398,RESELLER,6a698e2ec38604c6
+rubiconproject.com,18020,RESELLER,0bfd66d529a55807
+appnexus.com,1908,RESELLER,f5ab79cb980f11d1
+adtech.com,12068,RESELLER,e1a5b5b6e3255540
+districtm.io,100962,RESELLER,3fd707be9c4527c3
+rhythmone.com,1654642120,RESELLER,a670c89d4a324e47
+
+#Humanoid -> outbrain
+outbrain.com, 0057bcca168f1e61c948bcd03dd864fd95, DIRECT
+appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
+tremorhub.com, q017o-78mlk, RESELLER, 1a4e959a1b50034a # Premium video demand aka "Telaria"
+teads.tv, 15429, RESELLER, 15a9c44f6d26cbe1 # Premium video demand
+advertising.com, 26154, RESELLER # Premium video demand
+spotxchange.com, 225721, RESELLER # Premium video demand
+Freewheel.tv, 741650, RESELLER # Premium video demand
+rubiconproject.com, 17130, RESELLER, 0bfd66d529a55807 # Premium video demand
+lkqd.net, 450, RESELLER, 59c49fa9598a0117 # Premium video demand
+openx.com, 540393169, RESELLER, 6a698e2ec38604c6 # Premium video demand
+spotx.tv, 238936, RESELLER, 7842df1d2fe2db34 # Premium video demand
+spotxchange.com, 238936, RESELLER, 7842df1d2fe2db34 # Premium Video Demand
+advertising.com, 28038, RESELLER # Premium Video Demand
+rubiconproject.com, 19668, RESELLER, 0bfd66d529a55807

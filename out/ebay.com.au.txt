@@ -1,0 +1,17 @@
+#ads.txt for ebay.com.au
+
+appnexus.com, 1314, RESELLER
+appnexus.com, 7092, DIRECT
+google.com, pub-8166582934876876, DIRECT, f08c47fec0942fa0
+indexexchange.com, 185480, DIRECT
+indexexchange.com, 185752, DIRECT
+indexexchange.com, 189256, DIRECT
+openx.com, 540447801, DIRECT, 6a698e2ec38604c6
+pubmatic.com, 53353, DIRECT
+pubmatic.com, 156269, DIRECT
+pubmatic.com, 157768, DIRECT, 5d62403b186f2ace
+rubiconproject.com, 20364, DIRECT, 0bfd66d529a55807
+rubiconproject.com, 10077, DIRECT, 0bfd66d529a55807
+triplelift.com, 6499-EB, DIRECT, 6c33edb13117fd86
+
+# Generated: 11/07/2019 10:30 -0500

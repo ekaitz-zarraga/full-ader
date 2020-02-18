@@ -1,0 +1,17 @@
+#
+# Authorized Digital Sellers
+#
+#
+# Ubifish
+appnexus.com, 994, DIRECT, f5ab79cb980f11d1
+rubiconproject.com, 11394, DIRECT, 0bfd66d529a55807
+adform.com, 648, DIRECT
+spotxchange.com, 155391, DIRECT, 7842df1d2fe2db34
+spotx.tv, 155391, DIRECT, 7842df1d2fe2db34
+freewheel.tv, 17625, DIRECT
+freewheel.tv, 18349, RESELLER
+#
+# Google / adsense
+google.com, pub-2528871629200530, DIRECT, f08c47fec0942fa0
+
+

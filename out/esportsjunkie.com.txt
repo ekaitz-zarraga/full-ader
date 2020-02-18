@@ -1,0 +1,29 @@
+google.com, pub-1956856209985681, RESELLER, f08c47fec0942fa0 
+spotxchange.com, 82069, RESELLER, 7842df1d2fe2db34 
+spotx.tv, 82069, RESELLER, 7842df1d2fe2db34
+freewheel.tv, 762737, DIRECT
+freewheel.tv, 762769, DIRECT
+Appnexus.com, 1356, RESELLER, f5ab79cb980f11d1
+rubiconproject.com, 17598, RESELLER, 0bfd66d529a55807
+springserve.com, 581, DIRECT, a24eb641fc82e93d
+beachfront.com, 4969, RESELLER, e2541279e8e2ca4d
+advertising.com, 26282, RESELLER
+somoaudience.com,baf4006e2cf0c06478aa5d2e2097d109, DIRECT 
+mobileadtrading.com,baf4006e2cf0c06478aa5d2e2097d109, DIRECT
+pubmatic.com, 157310, RESELLER, 5d62403b186f2ace
+advertising.com, 5801, DIRECT
+google.com, pub-5717092533913515, DIRECT, f08c47fec0942fa0 #Primary
+google.com, pub-5717092533913515, RESELLER, f08c47fec0942fa0 #NPMpartners 
+indexexchange.com, 185192, DIRECT #EBDA
+openx.com, 538929384, DIRECT, 6a698e2ec38604c6 #EBDA
+rubiconproject.com, 17346, DIRECT, 0bfd66d529a55807 #EBDA
+spotx.tv, 108706, DIRECT, 7842df1d2fe2db34
+spotxchange.com,108706, DIRECT, 7842df1d2fe2db34
+tremorhub.com, ag0sk, DIRECT, 1a4e959a1b50034a #VideoSSP
+tremorhub.com, jrkl5-0ac26, DIRECT, 1a4e959a1b50034a
+openx.com, , DIRECT, 6a698e2ec38604c6
+spotxchange.com, 239904, RESELLER, 7842df1d2fe2db34
+spotx.tv, 239904, RESELLER, 7842df1d2fe2db34
+tremorhub.com, kpnsg-3g124, RESELLER, 1a4e959a1b50034a
+advertising.com, 7610, RESELLER 
+rhythmone.com, 2968119028, RESELLER, a670c89d4a324e47

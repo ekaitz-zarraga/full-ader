@@ -1,0 +1,8 @@
+bebi.com, 5bee0e759749f90ca902219fb0c32c6864e78b32, DIRECT
+advertising.com, 25308, RESELLER
+adtech.com, 10466, RESELLER
+spotxchange.com, 211738, RESELLER, 7842df1d2fe2db34
+spotx.tv, 211738, RESELLER, 7842df1d2fe2db34
+xapads.com, 1104, DIRECT
+beachfront.com, 4945, DIRECT, e2541279e8e2ca4d
+pubmatic.com, 157535, RESELLER

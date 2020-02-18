@@ -1,0 +1,31 @@
+#FloSportsAds.txt
+google.com, pub-2513284701509791, DIRECT #FloAdx
+rhythmone.com,1955794380,DIRECT,a670c89d4a324e47 #R1EB
+rhythmone.com,2061927114,DIRECT,a670c89d4a324e47 #R1Tag
+sovrn.com, 266548, DIRECT, fafdf38b16bf6b2b #SovrnEB
+lijit.com, 266548, DIRECT, fafdf38b16bf6b2b #SovrnEB
+lijit.com, 266548-eb, DIRECT, fafdf38b16bf6b2b #SovrnEB
+sonobi.com, 410fbed2a3, DIRECT, d1a215d9eb5aee9e SonobiEB
+districtm.io, 101925, DIRECT, 3fd707be9c4527c3 #DistrictM
+appnexus.com, 1908, RESELLER, f5ab79cb980f11d1 #DistrictM
+indexexchange.com, 189242, DIRECT #EB
+indexexchange.com, 190249, DIRECT #IXWrapper
+aps.amazon.com, 2e897944-3457-4bd4-87d9-700e22317ff4, DIRECT #A9APS
+spotxchange.com, 251478, DIRECT, 7842df1d2fe2db34 #SpotX
+spotx.tv, 251478, DIRECT, 7842df1d2fe2db34 #SpotX
+openx.com, 540922802, DIRECT, 6a698e2ec38604c6 #OpenXEB
+EMXDGT.com, 1424, DIRECT, 1e1d41537f7cad7f #EMX
+Appnexus.com, 1356, RESELLER, f5ab79cb980f11d1 #EMX
+telaria.com,n92cp-ooy34,DIRECT,1a4e959a1b50034a #Telaria
+tremorhub.com,n92cp-ooy34,DIRECT,1a4e959a1b50034a  #Telaria
+
+#SynacorMedia
+synacor.com, 82240, DIRECT, e108f11b2cdf7d5b #Synacor
+advertising.com, 19623, RESELLER #Synacor
+appnexus.com, 310, RESELLER, f5ab79cb980f11d1 #Synacor
+appnexus.com, 9316, RESELLER, f5ab79cb980f11d1 #Synacor
+pubmatic.com, 156344, RESELLER, 5d62403b186f2ace #Synacor
+rubiconproject.com, 13344, RESELLER, 0bfd66d529a55807 #Synacor
+springserve.com, 278, RESELLER, a24eb641fc82e93d #Synacor
+
+google.com, pub-7165160458962611, RESELLER, f08c47fec0942fa0 #OpsCo

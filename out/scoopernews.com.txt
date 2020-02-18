@@ -1,0 +1,43 @@
+# Transsion ads.txt [Updated:July 26, 2019]
+# Contact = rtb.ads@transsion.com 
+
+#Google
+google.com, pub-8676320440594600, DIRECT, f08c47fec0942fa0
+
+#Transsion
+mobadvent.com, 6cad3d53a752ec67b757399b2c7fd6521432f49a, DIRECT, 6000
+
+#AlgoriX
+algorix.co, 54652, DIRECT
+loopme.com, 11119, RESELLER, 6c8d5f95897a5a3b
+openx.com, 540838151, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 157941, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 20050, RESELLER, 0bfd66d529a55807
+ucfunnel.com, par-E2B2BB3E89BE87A2F774B768BEED62A2, RESELLER
+
+#Mars Media
+mars.media, 102754, DIRECT
+advertising.com, 6814, RESELLER
+beachfront.com, 805, RESELLER, e2541279e8e2ca4d
+contextweb.com, 558827, RESELLER, 89ff185a4c4e857c
+contextweb.com, 561961, RESELLER, 89ff185a4c4e857c
+contextweb.com, 562067, RESELLER, 89ff185a4c4e857c
+exponential.com, 176980, RESELLER, afac06385c445926
+freewheel.tv, 30189, RESELLER
+freewheel.tv, 30269, RESELLER
+freewheel.tv, 64289, RESELLER
+freewheel.tv, 64305, RESELLER
+google.com, pub-3805568091292313, RESELLER, f08c47fec0942fa0
+improvedigital.com, 1210, RESELLER
+improvedigital.com, 1221, RESELLER
+improvedigital.com, 1341, RESELLER
+indexexchange.com, 176980, RESELLER, 50b1c356f2c5c8fc
+inmobi.com, 2ce3487332a74ffdbf734480429de58d, RESELLER, 83e75a7ae333ca9d
+mediabong.com, 2657, RESELLER
+resultsmedia.com, 82754, RESELLER
+rubiconproject.com, 18230, RESELLER, 0bfd66d529a55807
+spotx.tv, 246977, RESELLER, 7842df1d2fe2db34
+spotx.tv, 78856, RESELLER
+spotxchange.com, 246977, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 78856, RESELLER
+tribalfusion.com, 176980, RESELLER, afac06385c445926

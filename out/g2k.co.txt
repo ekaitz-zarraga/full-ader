@@ -1,0 +1,38 @@
+# Adsense
+google.com, pub-7764651829595274, DIRECT, f08c47fec0942fa0
+
+# GD
+cpmstar.com, 50553, DIRECT
+appnexus.com, 9624, RESELLER, f5ab79cb980f11d1
+google.com, pub-7020262665364086, RESELLER, f08c47fec0942fa0
+adtech.com, 11506, DIRECT
+indexexchange.com, 175407, RESELLER
+pubmatic.com, 156078 , RESELLER
+openx.com, 537143344, RESELLER
+coxmt.com, 2000067907202, RESELLER
+advertising.com, 25218, RESELLER
+beachfront.com, 9065, RESELLER
+contextweb.com, 559969, DIRECT, 89ff185a4c4e857c
+indexexchange.com, 189455, DIRECT
+openx.com, 540471883, RESELLER, 6a698e2ec38604c6
+spotxchange.com, 153598, RESELLER, 7842df1d2fe2db34
+spotx.tv, 153598, RESELLER, 7842df1d2fe2db34
+google.com, pub-1313834454494130, RESELLER, f08c47fec0942fa0
+google.com, pub-5192618204358860, RESELLER, f08c47fec0942fa0
+improvedigital.com, 545, RESELLER
+improvedigital.com, 1394, RESELLER
+improvedigital.com, 1299, RESELLER
+appnexus.com, 9994, RESELLER
+indexexchange.com, 188249, RESELLER
+pubmatic.com, 156946, RESELLER, 5d62403b186f2ace
+pubmatic.com, 158452, RESELLER, 5d62403b186f2ace
+advertising.com, 27287, RESELLER
+rubiconproject.com, 17394, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 21426, RESELLER, 0bfd66d529a55807
+openx.com, 539366975, RESELLER, 6a698e2ec38604c6
+
+#VitalityGames
+google.com, pub-7630682384839773, RESELLER, f08c47fec0942fa0
+google.com, pub-3401626414644467, RESELLER, f08c47fec0942fa0
+google.com, pub-9427048641572074, RESELLER, f08c47fec0942fa0
+google.com, pub-4529402052683454, RESELLER, f08c47fec0942fa0

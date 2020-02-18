@@ -1,0 +1,71 @@
+google.com, pub-8380580761190214, DIRECT, f08c47fec0942fa0
+google.com, pub-9033050254363012, DIRECT, f08c47fec0942fa0
+google.com, pub-1135235964086500, RESELLER, f08c47fec0942fa0
+telaria.com, 79wc6, DIRECT, 1a4e959a1b50034a
+tremorhub.com, 79wc6, DIRECT, 1a4e959a1b50034a
+tremorhub.com, 9rmjh-684hr, DIRECT, 1a4e959a1b50034a
+tremorhub.com, 9rmjh-9jnbk, DIRECT, 1a4e959a1b50034a
+tremorhub.com, 9rmjh-gtezn, DIRECT, 1a4e959a1b50034a
+tremorhub.com, 9rmjh-nnqnb, DIRECT, 1a4e959a1b50034a
+tremorhub.com, 9rmjh-v4p2q, DIRECT, 1a4e959a1b50034a
+tremorhub.com, 9rmjh-ym81e, DIRECT, 1a4e959a1b50034a
+tremorhub.com, 9rmjh-zf9xt, DIRECT, 1a4e959a1b50034a
+tremorhub.com, 9rmjh-sclfp, DIRECT, 1a4e959a1b50034a
+tremorhub.com, 9rmjh-ykli8, DIRECT, 1a4e959a1b50034a
+tremorhub.com, 9rmjh-6espw, DIRECT, 1a4e959a1b50034a
+tremorhub.com, 9rmjh-ke8gd, DIRECT, 1a4e959a1b50034a
+tremorhub.com, 9rmjh-jj0a0, DIRECT, 1a4e959a1b50034a
+tremorhub.com, 9rmjh-9lyft, DIRECT, 1a4e959a1b50034a
+tremorhub.com, 9rmjh-23dta, DIRECT, 1a4e959a1b50034a
+tremorhub.com, 9rmjh-0opgb, DIRECT, 1a4e959a1b50034a
+tremorhub.com, 9rmjh-4b6rl, DIRECT, 1a4e959a1b50034a
+tremorhub.com, 9rmjh-z58mn, RESELLER, 1a4e959a1b50034a
+tremorhub.com, 9rmjh-trvb4, RESELLER, 1a4e959a1b50034a
+tremorhub.com, 9rmjh-trvb4, DIRECT, 1a4e959a1b50034a
+tremorhub.com, 9rmjh-z58mn, DIRECT, 1a4e959a1b50034a
+tremorhub.com, 9rmjh-kcokg, RESELLER, 1a4e959a1b50034a
+tremorhub.com, 9rmjh-qyne4, RESELLER, 1a4e959a1b50034a
+tremorhub.com, 9rmjh-ym81e, RESELLER, 1a4e959a1b50034a
+
+
+lkqd.net, 408, RESELLER, 59c49fa9598a0117
+lkqd.com, 408, RESELLER, 59c49fa9598a0117
+beachfront.com, publisher_5472, RESELLER
+beachfront.com, 13880, DIRECT, e2541279e8e2ca4d
+contextweb.com, 561198, RESELLER, 89ff185a4c4e857c
+advertising.com, 22021, RESELLER
+rhythmone.com,801350294,DIRECT,a670c89d4a324e47
+springserve.com, 672, RESELLER, a24eb641fc82e93d
+appnexus.com, 8142, RESELLER, f5ab79cb980f11d1
+springserve.com, 613, DIRECT, a24eb641fc82e93d
+beachfront.com, 4969, RESELLER, e2541279e8e2ca4d
+advertising.com, 26282, RESELLER
+pubmatic.com, 157310, RESELLER, 5d62403b186f2ace
+rhythmone.com, 2968119028, RESELLER, a670c89d4a324e47
+spotxchange.com, 239904, RESELLER, 7842df1d2fe2db34
+spotx.tv, 239904, RESELLER, 7842df1d2fe2db34
+contextweb.com, 561910, RESELLER, 89ff185a4c4e857c
+
+
+connatix.com, 129404711080275, DIRECT, 2af98acdee0e81ed
+tremorhub.com, cd009, RESELLER, 1a4e959a1b50034a
+advertising.com, 3679, RESELLER
+advertising.com, 14564, RESELLER
+spotxchange.com, 136839, RESELLER, 7842df1d2fe2db34
+spotx.tv, 136839, RESELLER, 7842df1d2fe2db34
+openx.com, 539496816, RESELLER, 6a698e2ec38604c6
+google.com, pub-1929615694373103, RESELLER, f08c47fec0942fa0
+rubiconproject.com, 19564, RESELLER, 0bfd66d529a55807
+appnexus.com, 9733, RESELLER
+
+sovrn.com, 220997, DIRECT, fafdf38b16bf6b2b
+lijit.com, 220997, DIRECT, fafdf38b16bf6b2b
+lijit.com, 220997-eb, DIRECT, fafdf38b16bf6b2b
+appnexus.com, 1360, RESELLER, f5ab79cb980f11d1
+gumgum.com, 11645, RESELLER, ffdef49475d318a9
+openx.com, 538959099, RESELLER, 6a698e2ec38604c6
+openx.com, 539924617, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 137711, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156212, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156700, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 17960, RESELLER, 0bfd66d529a55807

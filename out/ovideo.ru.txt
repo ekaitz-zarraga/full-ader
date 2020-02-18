@@ -1,0 +1,9 @@
+videonow.ru, vn-177, DIRECT
+google.com, pub-6038027899573286, RESELLER
+google.com, pub-8811613846694081, DIRECT, f08c47fec0942fa0
+
+mox.tv, 177, DIRECT #where 177 is your user id in MOX.tv SSP.
+google.com, pub-1965383259143495, RESELLER, f08c47fec0942fa0 #for dfp pixels
+google.com, pub-6864402317197092, RESELLER, f08c47fec0942fa0
+freewheel.tv, 286994, RESELLER
+freewheel.tv, 291505, RESELLER 

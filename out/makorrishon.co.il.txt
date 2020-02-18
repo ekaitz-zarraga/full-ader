@@ -1,0 +1,58 @@
+#Ads.txt makorrishon.co.il
+google.com, pub-1420539090378627, DIRECT, f08c47fec0942fa0
+sekindo.com, 12799, DIRECT
+sekindo.com, 1296, DIRECT
+sekindo.com, 25004, DIRECT
+google.com, pub-1272746832294935, DIRECT, f08c47fec0942fa0
+firstimpression.io, 7121, DIRECT, a960877e77e58dd6 #FI
+google.com, pub-3622156405313063, RESELLER, f08c47fec0942fa0 #FI - AdX
+openx.com, 537104992, RESELLER, 6a698e2ec38604c6 #FI - OpenX
+openx.com, 539819368, RESELLER, 6a698e2ec38604c6 #FI - OpenX
+sovrn.com, 243408, RESELLER, fafdf38b16bf6b2b #FI - Sovrn
+lijit.com, 243408, RESELLER, fafdf38b16bf6b2b #FI - Sovrn
+sovrn.com, 256420, RESELLER, fafdf38b16bf6b2b #FI - Sovrn
+lijit.com, 256420, RESELLER, fafdf38b16bf6b2b #FI - Sovrn
+adtech.com, 10297, RESELLER #FI - Oath
+aolcloud.net, 10297, RESELLER #FI - Oath
+contextweb.com, 558377, RESELLER, 89ff185a4c4e857c #FI - PulsePoint
+outbrain.com, 0043e7a761d92337b9269c2b10d9835c8d, RESELLER #FI - Outbrain
+aps.amazon.com, 4cd01fd0-0780-4b33-a4da-c39467660185, RESELLER #FI - Amazon
+contextweb.com, 561562, RESELLER, 89ff185a4c4e857 #FI - Amazon (PulsePoint)
+c1exchange.com, c1x_a9_uampubs, RESELLER #FI - Amazon (C1X)
+
+taboola.com,1122365,DIRECT,c228e6794e811952
+spotx.tv,71451,RESELLER
+spotxchange.com, 71451, RESELLER
+advertising.com, 8603, RESELLER
+advertising.com, 3531, RESELLER
+pubmatic.com, 156307, RESELLER, 5d62403b186f2ace
+appnexus.com, 3364, RESELLER
+Indexexchange.com, 183756, RESELLER
+contextweb.com, 560382, RESELLER
+openx.com, 539154393, RESELLER
+tremorhub.com, z87wm, RESELLER, 1a4e959a1b50034a
+rubiconproject.com, 16698, RESELLER, 0bfd66d529a55807
+fyber.com, ad9de41d28d494354b23133f26f83122, RESELLER
+fyber.com, 1a12a7e3f84fe560ccf95a3a73043abb, RESELLER
+
+pubmatic.com, 156888, RESELLER, 5d62403b186f2ace #FI - PubMatic
+rubiconproject.com, 18438, RESELLER, 0bfd66d529a55807 #FI - Rubicon Project
+appnexus.com, 10478, RESELLER, f5ab79cb980f11d1 #FI - AppNexus
+
+google.com, pub-9315736241484204, DIRECT, f08c47fec0942fa0
+
+taboola.com,1122365,DIRECT,c228e6794e811952
+spotx.tv,71451,RESELLER
+spotxchange.com, 71451, RESELLER
+advertising.com, 8603, RESELLER
+pubmatic.com, 156307, RESELLER, 5d62403b186f2ace
+appnexus.com, 3364, RESELLER
+Indexexchange.com, 183756, RESELLER
+contextweb.com, 560382, RESELLER
+openx.com, 539154393, RESELLER
+tremorhub.com, z87wm, RESELLER, 1a4e959a1b50034a
+rubiconproject.com, 16698, RESELLER, 0bfd66d529a55807
+freewheel.tv, 799841, RESELLER
+freewheel.tv, 799921, RESELLER
+aol.com, 53392, RESELLER
+rhythmone.com, 1166984029, RESELLER, a670c89d4a324e47

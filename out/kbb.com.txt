@@ -1,0 +1,21 @@
+google.com, pub-3780986197425251, DIRECT, f08c47fec0942fa0
+google.com, pub-8735558908976194, DIRECT, f08c47fec0942fa0
+aps.amazon.com, 3726, DIRECT
+openx.com, 540074872, DIRECT, 6a698e2ec38604c6
+openx.com, 540105376, DIRECT, 6a698e2ec38604c6
+openx.com, 540691271, DIRECT, 6a698e2ec38604c6
+Appnexus.com, 9557, DIRECT
+pubmatic.com, 157221, DIRECT, 5d62403b186f2ace
+triplelift.com, 5923, DIRECT, 6c33edb13117fd86
+pubmatic.com, 157461, DIRECT, 5d62403b186f2ace
+pubmatic.com, 158485, DIRECT, 5d62403b186f2ace
+adtech.com, 12063, DIRECT, e1a5b5b6e3255540
+adtech.com, 12092, DIRECT, e1a5b5b6e3255540
+indexexchange.com, 188851, DIRECT
+Indexexchange.com, 189245, DIRECT 
+districtm.io, 101874, DIRECT, 3fd707be9c4527c3
+appnexus.com, 1908, RESELLER, f5ab79cb980f11d1 
+google.com, pub-9685734445476814, RESELLER, f08c47fec0942fa0
+gumgum.com,13764,DIRECT,ffdef49475d318a9
+yieldmo.com, 2237059835479361530, DIRECT
+yieldmo.com, 2237061104407316476, DIRECT

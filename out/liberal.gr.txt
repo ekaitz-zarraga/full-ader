@@ -1,0 +1,98 @@
+google.com, pub-4161694526145512, DIRECT, f08c47fec0942fa0
+google.com, pub-3866902925730977, DIRECT, f08c47fec0942fa0
+
+#engageya
+
+google.com, pub-1937576406332709, RESELLER, f08c47fec0942fa0 #video
+google.com, pub-5512390705137507, RESELLER, f08c47fec0942fa0 #video
+google.com, pub-2393320645055022, RESELLER, f08c47fec0942fa0 #video
+advertising.com, 22840, RESELLER
+freewheel.tv, 447345, RESELLER
+freewheel.tv, 480497, RESELLER
+beachfront.com, beachfront_2268, RESELLER
+lkqd.com, 238, RESELLER
+freewheel.tv, 346657, RESELLER
+freewheel.tv, 346673, RESELLER
+advertising.com, 10329, RESELLER
+optimatic.com, 205229482800, RESELLER
+beachfront.com, beachfront_1354, RESELLER
+contextweb.com, 560708, RESELLER, 89ff185a4c4e857c
+lkqd.net, 63, RESELLER, 59c49fa9598a0117
+lkqd.com, 63, RESELLER, 59c49fa9598a0117
+freewheel.tv, 387729, RESELLER
+freewheel.tv, 484049, RESELLER
+freewheel.tv, 484065, RESELLER
+freewheel.tv, 484081, RESELLER
+freewheel.tv, 484097, RESELLER
+freewheel.tv, 484113, RESELLER
+freewheel.tv, 423937, RESELLER
+freewheel.tv, 484129, RESELLER
+freewheel.tv, 424033, RESELLER
+freewheel.tv, 484145, RESELLER
+freewheel.tv, 484161, RESELLER
+freewheel.tv, 484177, RESELLER
+freewheel.tv, 423969, RESELLER
+freewheel.tv, 484193, RESELLER
+freewheel.tv, 484209, RESELLER
+freewheel.tv, 484225, RESELLER
+freewheel.tv, 424129, RESELLER
+teads.tv, 14769, RESELLER
+altitudedigital.com, 146321, RESELLER
+oath.com, 5702, RESELLER
+brightroll.com, 6836317, RESELLER
+openx.com, 537141219, RESELLER, 20041fe3-accf-fff1-8123-bc75af
+pubmatic.com, 93915, RESELLER
+rubicon.com, 14410, RESELLER
+smartadserver.com, 1316, RESELLER
+sovrn.com, 245955, RESELLER
+spotxchange.com,152198,RESELLER,7842df1d2fe2db34
+spotx.tv,152198,RESELLER,7842df1d2fe2db34
+freewheel.tv, 86681, RESELLER
+freewheel.tv, 86673, RESELLER
+platform.videologygroup.com, 2982, RESELLER
+publishers.teads.tv, 12888, RESELLER
+publishers.teads.tv, 13183, RESELLER
+contextweb.com, 560496, RESELLER, 89ff185a4c4e857c
+lkqd.com, 267, RESELLER, 59c49fa9598a0117
+
+### Ads.txt for Project Agora ###
+appnexus.com, 2725, RESELLER, f5ab79cb980f11d1
+appnexus.com, 7164, RESELLER, f5ab79cb980f11d1
+rubiconproject.com, 11498, RESELLER, 0bfd66d529a55807
+smartadserver.com, 2289, RESELLER
+smartadserver.com, 2281, RESELLER
+contextweb.com, 560288, RESELLER
+pubmatic.com, 156439, RESELLER, 5d62403b186f2ace
+pubmatic.com, 154037, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156030, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 16114, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 13132, RESELLER, 0bfd66d529a55807
+openx.com, 537149888, RESELLER, 6a698e2ec38604c6
+appnexus.com, 3703, RESELLER, f5ab79cb980f11d1
+groundtruth.com, 107, RESELLER, 81cbf0a75a5e0e9a
+districtm.io, 101760, RESELLER, 3fd707be9c4527c3
+loopme.com, s-2411, RESELLER, 6c8d5f95897a5a3b
+loopme.com, 5679, RESELLER, 6c8d5f95897a5a3b
+google.com, pub-2500372977609723, RESELLER, f08c47fec0942fa0
+google.com, pub-5047281084957012, RESELLER, f08c47fec0942fa1
+pubmatic.com, 156400, RESELLER, 5d62403b186f2ace
+teads.tv, 14250, RESELLER, 15a9c44f6d26cbe1
+taboola.com, 1218109, DIRECT, c228e6794e811952
+spotx.tv, 71451, RESELLER
+spotxchange.com, 71451, RESELLER
+advertising.com, 8603, RESELLER
+pubmatic.com, 156307, RESELLER, 5d62403b186f2ace
+appnexus.com, 3364, RESELLER
+indexexchange.com, 183756, RESELLER
+contextweb.com, 560382, RESELLER
+openx.com, 539154393, RESELLER
+tremorhub.com, z87wm, RESELLER, 1a4e959a1b50034a
+rubiconproject.com, 16698, RESELLER, 0bfd66d529a55807
+freewheel.tv, 799841, RESELLER
+freewheel.tv, 799921, RESELLER
+aol.com, 53392, RESELLER
+rhythmone.com, 1166984029, RESELLER, a670c89d4a324e47
+vi.ai, 573653530726003, RESELLER
+adocean-global.com, 80365, RESELLER
+adform.com, 2464, RESELLER, 9f5210a2f0999e32
+### End of Ads.txt for Project Agora ###

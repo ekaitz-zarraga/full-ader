@@ -1,0 +1,41 @@
+#eboundservices
+google.com, pub-7733626117287363, RESELLER, f08c47fec0942fa0
+google.com, pub-5454875279695201, RESELLER, f08c47fec0942fa0
+google.com, pub-8834194653550774, RESELLER, f08c47fec0942fa0
+google.com, pub-8834194653550774, DIRECT, f08c47fec0942fa0
+google.com, pub-6070398767421094, RESELLER, f08c47fec0942fa0
+google.com, pub-8933329999391104, RESELLER, f08c47fec0942fa0
+google.com, pub-7352654209508375, DIRECT, f08c47fec0942fa0
+google.com, pub-2027121672738964, DIRECT, f08c47fec0942fa0
+
+#reklamstore
+rekmob.com,  11396,DIRECT
+reklamstore.com, 122392, DIRECT
+appnexus.com, 1619, DIRECT
+EMXDGT.com, 71, RESELLER
+appnexus.com, 1356, RESELLER
+adform.com, 1431, RESELLER
+pubmatic.com, 156547, RESELLER
+rubiconproject.com, 17270, RESELLER, 0bfd66d529a55807
+
+# ad4game
+sekindo.com, 21856, DIRECT
+spotxchange.com, 84294, RESELLER, 7842df1d2fe2db34
+spotx.tv, 84294, RESELLER, 7842df1d2fe2db34
+advertising.com, 7372, RESELLER
+advertising.com, 24410, RESELLER
+lkqd.net, 244, RESELLER, 59c49fa9598a0117
+lkqd.com, 244, RESELLER, 59c49fa9598a0117
+tremorhub.com, mb9eo-oqsbf, RESELLER, 1a4e959a1b50034a
+freewheel.tv, 19129, RESELLER
+freewheel.tv, 621569, RESELLER
+adform.com, 2078, RESELLER
+improvedigital.com, 1065, RESELLER
+tidaltv.com, 32071, RESELLER
+pubmatic.com, 156380, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156595, RESELLER, 5d62403b186f2ace
+appnexus.com, 1940, RESELLER
+smartadserver.com, 2137, RESELLER
+vi.ai, 474289066697842, RESELLER
+fyber.com, f14d40df2568b6df4eed292a5ad93716, RESELLER
+fyber.com, 3238c1661ce2914845a986d98baf7d59, RESELLER

@@ -1,0 +1,37 @@
+
+rubiconproject.com, 16658, DIRECT, 0bfd66d529a55807
+spotxchange.com, 208332, DIRECT, 7842df1d2fe2db34
+spotx.tv, 208332, DIRECT, 7842df1d2fe2db34
+google.com, pub-2516360019918345, DIRECT, f08c47fec0942fa0
+google.com, pub-4654942058377555, DIRECT, f08c47fec0942fa0
+
+firstimpression.io, 7074, DIRECT, a960877e77e58dd6 #FI
+google.com, pub-3622156405313063, RESELLER, f08c47fec0942fa0 #FI - AdX
+openx.com, 537104992, RESELLER, 6a698e2ec38604c6 #FI - OpenX
+openx.com, 539819368, RESELLER, 6a698e2ec38604c6 #FI - OpenX
+sovrn.com, 243408, RESELLER, fafdf38b16bf6b2b #FI - Sovrn
+lijit.com, 243408, RESELLER, fafdf38b16bf6b2b #FI - Sovrn
+sovrn.com, 256420, RESELLER, fafdf38b16bf6b2b #FI - Sovrn
+lijit.com, 256420, RESELLER, fafdf38b16bf6b2b #FI - Sovrn
+adtech.com, 10297, RESELLER #FI - Oath
+aolcloud.net, 10297, RESELLER #FI - Oath
+contextweb.com, 558377, RESELLER, 89ff185a4c4e857c #FI - PulsePoint
+outbrain.com, 0043e7a761d92337b9269c2b10d9835c8d, RESELLER #FI - Outbrain
+aps.amazon.com, 4cd01fd0-0780-4b33-a4da-c39467660185, RESELLER #FI - Amazon
+contextweb.com, 561562, RESELLER, 89ff185a4c4e857 #FI - Amazon (PulsePoint)
+c1exchange.com, c1x_a9_uampubs, RESELLER #FI - Amazon (C1X)
+
+nextmillennium.io, 5565, DIRECT
+liqwid.com, 2147483484, DIRECT, 26d4db6b04ea5182
+advertising.com, 22153, RESELLER
+adtech.com, 10861, RESELLER
+aolcloud.net, 10861, RESELLER
+openx.com, 537106719, RESELLER, 6a698e2ec38604c6
+contextweb.com, 561481, RESELLER
+indexexchange.com, 183071, RESELLER
+google.com, pub-7269238500499280, RESELLER, f08c47fec0942fa0
+c.amazon-adsystem.com, 3352, RESELLER, #banner
+districtm.io, 101200, DIRECT
+appnexus.com, 1908, RESELLER, f5ab79cb980f11d1
+appnexus.com, 7944, RESELLER, f5ab79cb980f11d1
+gumgum.com, 13165, DIRECT, ffdef49475d318a9

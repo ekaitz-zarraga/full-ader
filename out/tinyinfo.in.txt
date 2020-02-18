@@ -1,0 +1,7 @@
+google.com, pub-1079879814218331, DIRECT #video, banner, native, app
+
+googlesyndication.com, 1079879814218331, DIRECT
+doubleclick.net, 1079879814218331, DIRECT
+googletagservices.com, 1079879814218331, DIRECT
+
+google.com, pub-1079879814218331, RESELLER #native

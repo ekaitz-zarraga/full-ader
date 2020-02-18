@@ -1,0 +1,17 @@
+#Ads.txt ideon media last updated 06.20.18
+
+google.com, pub-8628554434531345, DIRECT, f08c47fec0942fa0 #ideon
+appnexus.com, 6958, DIRECT #ideon
+
+districtm.io, 100618, DIRECT #districtm
+appnexus.com, 1908, RESELLER #districtm
+appnexus.com, 7944, RESELLER #districtm
+google.com, pub-9685734445476814, DIRECT, f08c47fec0942fa0 #districtm
+
+freeskreen.com, 166, DIRECT, fe119a6acfd19070 #slimcut
+slimcut.media, 166, DIRECT, fe119a6acfd19070 #slimcut
+indexexchange.com, 184088, RESELLER #slimcut
+
+juicenectar.com, 947, DIRECT, c845d3a44ab706c5 #juice
+
+

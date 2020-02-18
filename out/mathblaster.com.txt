@@ -1,0 +1,36 @@
+advertising.com, 25001, RESELLER
+aol.com, 47230, RESELLER
+appnexus.com, 3703, RESELLER, f5ab79cb980f11d1
+appnexus.com, 3911, RESELLER, f5ab79cb980f11d1
+beachfront.com, 5003, RESELLER
+cedato.com, 1886342256, RESELLER
+contextweb.com, 557461, RESELLER, 89ff185a4c4e857c
+contextweb.com, 559969, RESELLER, 89ff185a4c4e857c
+contextweb.com, 560288, RESELLER, 89ff185a4c4e857c
+dynadmic.com, 1074937138, RESELLER
+dyntrk.com, 1074937138, RESELLER
+google.com, pub-5060663379040713, DIRECT, f08c47fec0942fa0
+google.com, pub-7612738114777168, RESELLER, f08c47fec0942fa0
+google.com, pub-8641915702400684, DIRECT, f08c47fec0942fa0
+google.com, pub-9590051103480226, DIRECT, f08c47fec0942fa0
+# Indexexchange.com is part of Kargo
+Indexexchange.com, 184081, RESELLER
+lkqd.com, 170, RESELLER
+lkqd.net, 170, RESELLER
+Monetize, 104631, Direct
+Monetize, 104631, Reseller
+openx.com, 537149888, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 154037, RESELLER
+pubmatic.com, 156439, RESELLER
+rubiconproject.com, 16114, RESELLER, 0bfd66d529a55807
+rubiconproject.com, Rubicon Project account ID, DIRECT, 0bfd66d529a55807
+smartadserver.com, 1894, RESELLER
+sovrn.com, 257611, RESELLER, fafdf38b16bf6b2b
+spotxchange.com, 119135, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 149886, DIRECT, 7842df1d2fe2db34
+spotxchange.com, 151986, RESELLER, 7842df1d2fe2db34
+# SpotXchange, spotx.tv are related
+spotx.tv, 119135, RESELLER, 7842df1d2fe2db34
+spotx.tv, 151986, RESELLER, 7842df1d2fe2db34
+spotx.tv, 71426, RESELLER, 7842df1d2fe2db34
+yumenetworks.com, 2823, RESELLER, 0f8d7efd0c6b9c3e

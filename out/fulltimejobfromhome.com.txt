@@ -1,0 +1,93 @@
+gumgum.com, 11483, DIRECT, ffdef49475d318a9      #for GUMGUM
+openx.com, 537120960, RESELLER   #Sovrn
+lijit.com, 211941, DIRECT, fafdf38b16bf6b2b
+sovrn.com, 220054, DIRECT, fafdf38b16bf6b2b
+lijit.com, 220054, DIRECT, fafdf38b16bf6b2b
+sovrn.com, 227117, DIRECT, fafdf38b16bf6b2b
+lijit.com, 227117, DIRECT, fafdf38b16bf6b2b
+sovrn.com, 231199, DIRECT, fafdf38b16bf6b2b
+lijit.com, 231199, DIRECT, fafdf38b16bf6b2b
+sovrn.com, 232537, DIRECT, fafdf38b16bf6b2b
+openx.com, 83499, RESELLER        #sovrn
+sovrn.com, 233156, DIRECT, fafdf38b16bf6b2b
+lijit.com, 233156, DIRECT, fafdf38b16bf6b2b
+sovrn.com, 233865, DIRECT, fafdf38b16bf6b2b
+lijit.com, 233865, DIRECT, fafdf38b16bf6b2b
+sovrn.com, 235329, DIRECT, fafdf38b16bf6b2b
+lijit.com, 235329, DIRECT, fafdf38b16bf6b2b
+sovrn.com, 237451, DIRECT, fafdf38b16bf6b2b
+lijit.com, 237451, DIRECT, fafdf38b16bf6b2b
+sovrn.com, 240462, DIRECT, fafdf38b16bf6b2b
+lijit.com, 240462, DIRECT, fafdf38b16bf6b2b
+sovrn.com, 249252, DIRECT, fafdf38b16bf6b2b
+lijit.com, 249252, DIRECT, fafdf38b16bf6b2b
+sovrn.com, 249902, DIRECT, fafdf38b16bf6b2b
+lijit.com, 249902, DIRECT, fafdf38b16bf6b2b
+sovrn.com, 231887, DIRECT, fafdf38b16bf6b2b
+lijit.com, 231887, DIRECT, fafdf38b16bf6b2b      #upto/for SOVRN
+lijit.com, 232537, DIRECT, fafdf38b16bf6b2b
+sovrn.com, 211941, DIRECT, fafdf38b16bf6b2b      #for SOVRN
+contextweb.com, 558511, RESELLER   #sovrn
+pubmatic.com, 62483, RESELLER   #sovrn
+pubmatic.com, 156212, RESELLER    #sovrn
+pubmatic.com, 137711, RESELLER   #sovrn
+openx.com, 538959099, RESELLER  #sovrn
+appnexus.com, 2854, RESELLER                     #for APPNEXUS
+openx.com, 537125314, DIRECT, 6a698e2ec38604c6   #for OPENX
+EMXDGT.com, 40, Reseller #banner, video          #for BREALTIME
+Appnexus.com, 1356, Reseller, #banner, video     #for BREALTIME
+indexexchange.com, 182762, DIRECT                #for INDEXEXCHANGE
+districtm.io, 100570, DIRECT                 #for DISTRICTM
+appnexus.com, 1908, RESELLER       #for DISTRICTM
+appnexus.com, 7944, RESELLER                 #for DISTRICTM
+connatix.com, 100625, DIRECT                     #for CONNATIX
+contextweb.com, 558886, DIRECT                   #for PULSEPOINT
+aolcloud.net, 9505, DIRECT                       #for AOL
+adtech.com, 9505, DIRECT                         #for AOL
+google.com, pub-9557089510405422, RESELLER, f08c47fec0942fa0
+aolcloud.net, 9993, RESELLER
+rubiconproject.com, 16414, RESELLER
+criteo.com, 3450, RESELLER
+indexexchange.com, 185506, RESELLER
+33across.com, 33, DIRECT                         #upto/for TYNT/33ACROSS
+appnexus.com, 1001, RESELLER
+adtech.com, 9993, RESELLER
+33across.com, 33, DIRECT                         #for TYNT/33ACROSS
+lkqd.net, 293, RESELLER
+lkqd.com, 293, RESELLER
+amazon.com, 3411, RESELLER
+openx.com, 537120563, RESELLER
+spotx.tv, 139883, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 139883, RESELLER, 7842df1d2fe2db34
+appnexus.com, 3135, RESELLER
+sonobi.com, 4ba74d4dae, DIRECT                   #for SONOBI
+tremorhub.com, mb9eo-ej2jm, RESELLER, 1a4e959a1b50034a     #for SEKINDO
+smartadserver.com, 2137, RESELLER    #for SEKINDO
+tidaltv.com, 23034, RESELLER      #for SEKINDO
+tidaltv.com, 32071, RESELLER     #for SEKINDO
+pubmatic.com, 156380, RESELLER, 5d62403b186f2ace   #for SEKINDO
+fyber.com, f14d40df2568b6df4eed292a5ad93716, DIRECT      #for SEKINDO
+fyber.com, 3238c1661ce2914845a986d98baf7d59, DIRECT     #for SEKINDO
+tremorhub.com, mb9eo-oqsbf, RESELLER, 1a4e959a1b50034a     #for SEKINDO
+appnexus.com, 1940, RESELLER                 #for SEKINDO
+sekindo.com, XXXXXXXXXX, DIRECT      #for SEKINDO
+spotxchange.com, 84294, RESELLER, 7842df1d2fe2db34      #for SEKINDO
+spotx.tv, 84294, RESELLER, 7842df1d2fe2db34    #for SEKINDO
+advertising.com, 7372, RESELLER      #for SEKINDO
+adtech.com, 10397, RESELLER       #for SEKINDO
+aolcloud.net, 10397, RESELLER   #for SEKINDO
+inner-active.com, 206396, RESELLER   #for SEKINDO
+contextweb.com, 560453, RESELLER     #for SEKINDO
+lkqd.net, 244, RESELLER, 59c49fa9598a0117     #for SEKINDO
+lkqd.com, 244, RESELLER, 59c49fa9598a0117       #for SEKINDO
+sovrn.com, 251255, RESELLER, fafdf38b16bf6b2b       #for SEKINDO
+sovrn.com, 246937, RESELLER, fafdf38b16bf6b2b    #for SEKINDO
+lijit.com, 251255, RESELLER, fafdf38b16bf6b2b    #for SEKINDO
+lijit.com, 246937, RESELLER, fafdf38b16bf6b2b     #for SEKINDO
+vertamedia.com,30629, DIRECT, 7de89dc7742b5b11   #for VERTAMEDIA
+1rx.io,2067799303,RESELLER,a670c89d4a324e47         #for RHYTHMONE
+rhythmone.com,2067799303,DIRECT,a670c89d4a324e47 #for RHYTHMONE
+beachfront.com, publisher_5880, DIRECT          #for BEACHFRONT
+google.com, pub-3944954862316283, RESELLER, f08c47fec0942fa0   #AdEx
+google.com, pub-8203063731231781, DIRECT                       #for Adsense
+coxmt.com, 2000068007102, DIRECT            #for Cox

@@ -1,0 +1,24 @@
+#geargods.net/ads.txt
+
+google.com, pub-7527124198316235, DIRECT, f08c47fec0942fa0
+google.com, pub-7527124198316235, RESELLER, f08c47fec0942fa0
+google.com, pub-2510298828815834, DIRECT, f08c47fec0942fa0
+
+teads.com, 10208, DIRECT, 15a9c44f6d26cbe1
+
+#slimcut
+freeskreen.com, 2815, DIRECT, fe119a6acfd19070
+indexexchange.com, 184088, RESELLER
+
+#amazon
+amazon-adsystem.com, 320, DIRECT
+
+#tribal
+exponential.com, 169850, DIRECT, afac06385c445926
+exponential.com, 169860, DIRECT, afac06385c445926
+exponential.com, 169810, DIRECT, afac06385c445926
+tribalfusion.com, 169810, DIRECT, afac06385c445926
+tribalfusion.com, 169850, DIRECT, afac06385c445926
+tribalfusion.com, 169860, DIRECT, afac06385c445926
+indexexchange.com, 176280, RESELLER, 50b1c356f2c5c8fc
+google.com, pub-2051007210431666, RESELLER, f08c47fec0942fa0

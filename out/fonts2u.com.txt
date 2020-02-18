@@ -1,0 +1,15 @@
+google.com, pub-9966263275903096, DIRECT, f08c47fec0942fa0
+
+subdomain=de.fonts2u.com
+subdomain=fr.fonts2u.com
+subdomain=es.fonts2u.com
+subdomain=pt.fonts2u.com
+subdomain=it.fonts2u.com
+subdomain=pl.fonts2u.com
+subdomain=cs.fonts2u.com
+subdomain=sk.fonts2u.com
+subdomain=ru.fonts2u.com
+subdomain=ua.fonts2u.com
+subdomain=ja.fonts2u.com
+subdomain=zh.fonts2u.com
+subdomain=ar.fonts2u.com

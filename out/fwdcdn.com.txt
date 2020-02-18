@@ -1,0 +1,4 @@
+#only one sub domain
+subdomain=jail.fwdcdn.com
+subdomain=upst.fwdcdn.com
+subdomain=pd.fwdcdn.com

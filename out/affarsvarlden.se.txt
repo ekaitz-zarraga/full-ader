@@ -1,0 +1,16 @@
+improvedigital.com, 227, RESELLER
+widespace.com, 2981, DIRECT
+pubmatic.com, 156098, RESELLER, 5d62403b186f2ace
+adtech.com, 1253, DIRECT
+aolcloud.net, 1253, DIRECT
+google.com, pub-5002094515318070, RESELLER, f08c47fec0942fa0
+rubiconproject.com, 16474, RESELLER, 0bfd66d529a55807
+adform.com, 629, RESELLER
+
+#adprofit
+
+adtech.com, 868, RESELLER
+aolcloud.net, 868, RESELLER
+pubmatic.com, 156585, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 21174, RESELLER, 0bfd66d529a55807
+google.com, pub-5998497508199491, RESELLER, f08c47fec0942fa0

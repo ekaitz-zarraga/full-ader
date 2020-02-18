@@ -1,0 +1,13 @@
+google.com, pub-3832879087569499, DIRECT, f08c47fec0942fa0
+google.com, pub-9766344338645365, DIRECT, f08c47fec0942fa0
+google.com, pub-9766344338645365, RESELLER, f08c47fec0942fa0
+google.com, pub-1902129255757910, DIRECT, f08c47fec0942fa0
+google.com, pub-1902129255757910, RESELLER, f08c47fec0942fa0
+google.com, pub-9631551288550605, DIRECT, f08c47fec0942fa0 # 16465640f723caf8
+google.com, pub-8041276685344424, DIRECT, f08c47fec0942fa0 # 16542783ec98087a
+google.com, pub-9354358989096193, DIRECT, f08c47fec0942fa0 # FMfcgxwBWSxktZZgflQCtHhJHMXhpTDr
+
+teads.tv, 16578, DIRECT, 15a9c44f6d26cbe1 #outstream
+
+appnexus.com, 8847, RESELLER # 1634f3750f77f34d m 1
+

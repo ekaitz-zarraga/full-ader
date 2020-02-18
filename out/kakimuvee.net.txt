@@ -1,0 +1,30 @@
+Insticator.com, d25c3eaa-ba54-4583-97c1-1272a344b01e, DIRECT
+openx.com, 537117488, RESELLER, a698e2ec38604c6
+openx.com, 537102524, RESELLER, a698e2ec38604c6
+pubmatic.com, 95054, RESELLER
+pulsepoint.com, 560854, RESELLER
+appnexus.com, 1940, RESELLER
+appnexus.com, 1613, RESELLER
+appnexus.com, 1908, RESELLER
+appnexus.com, 1026081, RESELLER
+appnexus.com, 3695, RESELLER
+appnexus.com, 4052, RESELLER
+appnexus.com, 1356, DIRECT, f5ab79cb980f11d1
+sonobi.com, e315a43aa9, RESELLER
+rhythmone.com, 136898039, RESELLER, a670c89d4a324e47
+1rx.io, 136898039, RESELLER, a670c89d4a324e47
+sekindo.com, 22683, DIRECT
+districtm.io, 100683, DIRECT
+EMXDGT.com, 22, DIRECT, 1e1d41537f7cad7f
+google.com, pub-7630961163643137, RESELLER, f08c47fec0942fa0
+rubiconproject.com, 12156, DIRECT, 0bfd66d529a55807
+cedato.com, 501446106, RESELLER
+cedato.com, 800083359, RESELLER
+freewheel.tv, 425233, DIRECT
+freewheel.tv, 425249, DIRECT
+freewheel.tv, 425185, DIRECT
+freewheel.tv, 425201, DIRECT
+sovrn.com, 257618, RESELLER, fafdf38b16bf6b2b
+lijit.com, 257618, RESELLER, fafdf38b16bf6b2b
+
+google.com, pub-7277114414781772, DIRECT, f08c47fec0942fa0

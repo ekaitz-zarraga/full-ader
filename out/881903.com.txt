@@ -1,0 +1,18 @@
+google.com, pub-2279474408466448, DIRECT, f08c47fec0942fa0
+google.com, pub-1127308416073647, DIRECT, f08c47fec0942fa0
+
+# ucfunnel
+ucfunnel.com, par-6277B8438A84D79E0E9A78DEAE68D448, DIRECT
+aralego.com, par-6277B8438A84D79E0E9A78DEAE68D448, DIRECT
+
+#Innity 
+innity.com, 4893, DIRECT, 47ea16374dff1d69
+Appnexus.com, 3058 , RESELLER
+
+#Davinci11
+adsfactor.net, 2038, RESELLER
+adsfactor.net, 2039, RESELLER
+appnexus.com , 3925 , RESELLER
+
+#Hotmob
+google.com, pub-2052502816154519, DIRECT, f08c47fec0942fa0

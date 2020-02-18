@@ -1,0 +1,29 @@
+# google
+google.com,pub-6141873844557643,DIRECT,f08c47fec0942fa0
+
+# adstir
+ad-stir.com,6064,RESELLER
+google.com,pub-2801326990568508,RESELLER,f08c47fec0942fa0
+
+# AdGeneration
+ad-generation.jp,12338,RESELLER
+
+# verizon
+adtech.com,15089,Reseller
+
+# Yahoo
+appnexus.com,3663,RESELLER
+
+# AJA
+as.amanad.adtdp.com,2306,RESELLER
+pubmatic.com,157141,RESELLER,5d62403b186f2ace
+aja.vision,2306,RESELLER
+
+# MicroAd
+microad.co.jp,21965,RESELLER
+
+# Rubicon
+rubiconproject.com,20510,RESELLER,0bfd66d529a55807
+
+# Logicad
+publishers.logicad.jp,XZxD,DIRECT

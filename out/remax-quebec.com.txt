@@ -1,0 +1,14 @@
+smartadserver.com,3161,RESELLER
+openx.com,537149888,RESELLER,6a698e2ec38604c6
+appnexus.com,3703,RESELLER,f5ab79cb980f11d1
+google.com,pub-1172870656034468, RESELLER, f08c47fec0942fa0
+pubmatic.com,156439,RESELLER
+pubmatic.com,154037,RESELLER
+rubiconproject.com,16114,RESELLER, 0bfd66d529a55807
+contextweb.com,560288,RESELLER,89ff185a4c4e857c
+sovrn.com,257611,RESELLER, fafdf38b16bf6b2b
+adgear.com,1186, RESELLER
+indexexchange.com,179394,RESELLER
+districtm.io, 101760, DIRECT, 3fd707be9c4527c3
+appnexus.com, 1908, RESELLER, f5ab79cb980f11d1
+google.com, pub-9685734445476814, RESELLER, f08c47fec0942fa0

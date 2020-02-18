@@ -1,0 +1,16 @@
+#watson.chads.txt
+#contact:ad@watson.ch
+
+google.com, pub-5715825984452445, DIRECT, f08c47fec0942fa0
+google.com, pub-3057818873023700, RESELLER
+teads.tv, 10022, DIRECT, 15a9c44f6d26cbe1
+teads.tv, 7620, DIRECT, 15a9c44f6d26cbe1
+appnexus.com, 3741, RESELLER
+appnexus.com, 3528, RESELLER
+appnexus.com, 1851, RESELLER
+appnexus.com, 9242, RESELLER
+appnexus.com, 11010, RESELLER #Goldbach
+appnexus.com, 3927, RESELLER #Audienzz
+plista.com, 31047, RESELLER #Plista
+appnexus.com, 3563, RESELLER #Plista
+appnexus.com, 7790, RESELLER #Plista

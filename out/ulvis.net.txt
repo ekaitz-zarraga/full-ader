@@ -1,0 +1,4 @@
+#< SSP/Exchange Domain >, < SellerAccountID >, < PaymentsType >, < TAGID >
+a-ads.com , 995186 ,DIRECT 
+bidvertiser.com ,789014 ,DIRECT ,1912837
+google.com, pub-3515879970651119, DIRECT, f08c47fec0942fa0

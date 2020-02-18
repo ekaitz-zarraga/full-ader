@@ -1,0 +1,32 @@
+google.com, pub-4775867325027312, RESELLER, f08c47fec0942fa0
+google.com, pub-0451708911660279, DIRECT, f08c47fec0942fa0
+sovrn.com, 232930, direct, fafdf38b16bf6b2b
+lijit.com, 232930, direct, fafdf38b16bf6b2b
+gumgum.com, 11645, reseller, ffdef49475d318a9
+openx.com, 537120960, RESELLER
+openx.com, 83499, RESELLER
+openx.com, 538959099, RESELLER
+pubmatic.com, 137711, RESELLER
+pubmatic.com, 156212, RESELLER
+pubmatic.com, 62483, RESELLER
+contextweb.com, 558511, RESELLER
+openx.com, 537085948, DIRECT, 6a698e2ec38604c6
+ads.kiosked.com, 11404, DIRECT
+appnexus.com, 2721, DIRECT, f5ab79cb980f11d1
+openx.com, 537142881, DIRECT, 6a698e2ec38604c6
+adtech.com, 9573, DIRECT
+aolcloud.net, 9573, DIRECT
+pubmatic.com, 156195, DIRECT, 5d62403b186f2ace
+sovrn.com, 254001, DIRECT, fafdf38b16bf6b2b
+lijit.com, 254001, DIRECT, fafdf38b16bf6b2b
+criteo.net, 145673, DIRECT
+criteo.net, 138122, DIRECT
+google.com, pub-9042063282075774, DIRECT, f08c47fec0942fa0
+contextweb.com, 558626, DIRECT, 89ff185a4c4e857c
+rubiconproject.com, 17558, DIRECT, 0bfd66d529a55807
+
+udmserve.net, 2045, DIRECT
+
+udmserve.net, 2078, DIRECT
+spotxchange.com, 238463, RESELLER, 7842df1d2fe2db34
+spotx.tv, 238463, RESELLER, 7842df1d2fe2db34

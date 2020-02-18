@@ -1,0 +1,119 @@
+#Ads.txt www.popbuzz.com
+
+#AdX
+google.com, pub-6731086630176652, DIRECT, f08c47fec0942fa0
+
+#Xaxis
+appnexus.com, 2127, Reseller, f5ab79cb980f11d1
+appnexus.com, 3310, Reseller, f5ab79cb980f11d1
+appnexus.com, 7490, Reseller, f5ab79cb980f11d1
+
+#Videology
+tidaltv.com, 1727, DIRECT
+
+#Teads
+teads.tv, 6005, DIRECT, 15a9c44f6d26cbe1
+
+#Rubicon
+rubiconproject.com, 15802, DIRECT, 0bfd66d529a55807
+
+#Spot X
+spotxchange.com, 203087, DIRECT, 7842df1d2fe2db34
+spotx.tv, 203087, DIRECT, 7842df1d2fe2db34
+
+#Sublime
+smartadserver.com, 1827, RESELLER
+improvedigital.com, 335, RESELLER
+appnexus.com, 3538, RESELLER
+appnexus.com, 3539, RESELLER
+appnexus.com, 3540, RESELLER
+#PlayBuzz
+ssp.playbuzz.com, 10268, DIRECT, 9f36efba07b2294e
+google.com, pub-9790762811057699, RESELLER, f08c47fec0942fa0
+appnexus.com, 2992, RESELLER
+rubiconproject.com, 17136, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 18220, RESELLER, 0bfd66d529a55807
+spotxchange.com, 126022, RESELLER, 7842df1d2fe2db34
+spotx.tv, 126022, RESELLER, 7842df1d2fe2db34
+aol.com, 21581, RESELLER
+freewheel.tv, 302257, RESELLER
+freewheel.tv, 302225, RESELLER
+freewheel.tv, 424257, RESELLER
+freewheel.tv, 399697, RESELLER
+freewheel.tv, 434401, RESELLER
+freewheel.tv, 424849, RESELLER
+freewheel.tv, 424689, RESELLER
+google.com, pub-1062972861553303 , RESELLER, f08c47fec0942fa0
+pubmatic.com, 156026, RESELLER, 5d62403b186f2ace
+advertising.com, 10773, RESELLER
+smartadserver.com, 3039, RESELLER
+tremorhub.com, 6uigs, RESELLER, 1a4e959a1b50034a
+
+#AYL
+adyoulike.com, 1d039206d558fca0a9e07bfa2484b5df, DIRECT, 4ad745ead2958bf7
+freewheel.tv, 745362, RESELLER
+freewheel.tv, 745378, RESELLER
+spotxchange.com, 230037, RESELLER, 7842df1d2fe2db34
+spotx.tv, 230037, RESELLER, 7842df1d2fe2db34
+
+#GSGM
+appnexus.com, 2127, Reseller, f5ab79cb980f11d1
+appnexus.com, 3310, Reseller, f5ab79cb980f11d1
+
+#DAX
+adswizz,dax,DIRECT
+
+#Seedtag GB
+seedtag.com, 8062-3337-01, DIRECT
+pubmatic.com, 157743, DIRECT, 5d62403b186f2ace
+spotxchange.com, 249286, DIRECT, 7842df1d2fe2db34
+spotx.tv, 249286, DIRECT, 7842df1d2fe2db34
+rubiconproject.com, 17280, DIRECT, 0bfd66d529a55807
+yieldnexus.com, 96204, DIRECT
+33across.com, 0010b00002MptHCAAZ, DIRECT, bbea06d9c4d2853c
+smartadserver.com, 3050, DIRECT
+groundtruth.com, 107, DIRECT, 81cbf0a75a5e0e9a
+contextweb.com, 560288, DIRECT, 89ff185a4c4e857c
+openx.com, 537149888, DIRECT, 6a698e2ec38604c6
+sovrn.com, 257611, DIRECT, fafdf38b16bf6b2b
+districtm.io, 101760, DIRECT, 3fd707be9c4527c3
+appnexus.com, 4009, DIRECT
+richaudience.com, ns9qrKJLKD, DIRECT
+adform.com, 1942, DIRECT
+advertising.com, 7574, DIRECT
+aerserv.com, 2750, DIRECT, 2ce496b9f80eb9fa
+aolcloud.net, 4687, DIRECT
+mobfox.com, 74240, DIRECT
+openx.com, 539625136, DIRECT
+smaato.com, 1100037086, DIRECT
+tremorhub.com, s2t3y-r3ofd, DIRECT, 1a4e959a1b50034a
+smartadserver.com, 2938, DIRECT
+
+# 33Across 
+33across.com,0010b00002CpfuHAAR,DIRECT,bbea06d9c4d2853c #display #hb #tag
+# 33Across - Rubicon
+rubiconproject.com,16414,RESELLER,0bfd66d529a55807 #display #hb #tag
+# 33Across - PubMatic
+pubmatic.com,156423,RESELLER,5d62403b186f2ace #display #hb #tag
+# 33Across - AppNexus
+appnexus.com,10239,RESELLER,f5ab79cb980f11d1 #display #hb #tag
+appnexus.com,1001,RESELLER,f5ab79cb980f11d1 #display #tag
+appnexus.com,3135,RESELLER,f5ab79cb980f11d1 #display #tag
+# 33Across - OpenX
+openx.com,537120563,RESELLER,6a698e2ec38604c6 #display #hb #tag
+openx.com,539392223,RESELLER,6a698e2ec38604c6 #display #tag
+# 33Across - RhythmOne
+rhythmone.com,2439829435,RESELLER,a670c89d4a324e47 #display #hb #tag
+# 33Across - EMX
+emxdgt.com,326,RESELLER,1e1d41537f7cad7f #display #hb #tag
+# 33Across - GumGum
+gumgum.com,13318,RESELLER,ffdef49475d318a9 #display #hb #tag
+# 33Across - Oath
+adtech.com,12094,RESELLER #display #hb #tag
+adtech.com,9993,RESELLER #display #tag
+aolcloud.net,9993,RESELLER #display #tag
+# 33Across - Google
+google.com,pub-9557089510405422,RESELLER,f08c47fec0942fa0 #display #tag
+
+#Pubmatic buying through marketplace
+pubmatic.com, 156377, RESELLER, 5d62403b186f2ace

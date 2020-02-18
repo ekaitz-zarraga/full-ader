@@ -1,0 +1,31 @@
+adform.com, 9, RESELLER
+adform.com, 90, DIRECT
+adform.com, 638, RESELLER
+appnexus.com, 2954, RESELLER
+appnexus.com, 10346, DIRECT
+google.com, pub-4307100767376023, RESELLER, f08c47fec0942fa0
+google.com, pub-8675365792324050, DIRECT
+improvedigital.com, 1166, RESELLER
+improvedigital.com, 1401, DIRECT
+indexexchange.com, 188938, RESELLER
+indexexchange.com, 189039, DIRECT
+indexexchange.com, 189892, DIRECT
+openx.com, 540158399, RESELLER, 6a698e2ec38604c6
+rubiconproject.com, 13730, DIRECT, 0bfd66d529a55807
+rubiconproject.com, 17246, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 19272, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 19956, DIRECT, 0bfd66d529a55807
+spotx.tv, 190531, DIRECT
+spotxchange.com, 190531, DIRECT
+widespace.com, 9403, DIRECT
+pubmatic.com, 158542 , DIRECT, 5d62403b186f2ace
+pubmatic.com, 158543 , DIRECT, 5d62403b186f2ace
+#Behrentz Medier
+google.com, pub-4468771410062805, RESELLER
+google.com, pub-3910281248157208, RESELLER, f08c47fec0942fa0
+google.com, pub-8172268348509349, RESELLER, f08c47fec0942fa0
+adform.com, 47, RESELLER, 9f5210a2f0999e3
+adform.com, 183, RESELLER
+appnexus.com, 7118, RESELLER
+appnexus.com, 10917, RESELLER
+rubiconproject.com, 11344, RESELLER

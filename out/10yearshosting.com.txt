@@ -1,0 +1,196 @@
+    <!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        
+<title>Web Hosting Unlimited
+ | 5 Best Web Hosting Companies
+</title><meta name="description" contents=Web Hosting Unlimited
+ | 5 Best Web Hosting Companies
+>                <link rel="stylesheet" href="style.css" type="text/css">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="https://use.edgefonts.net/source-sans-pro:n2:default.js" type="text/javascript"></script>
+<!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+<style>
+img {
+  width: auto ;
+  max-width: 100% ;
+  height: auto ;
+} 
+body {
+    font-family: 'Lato', sans-serif;
+}
+.video-responsive{
+    overflow:hidden;
+    padding-bottom:56.25%;
+    padding-left:1%;
+
+    position:relative;
+    height:0;
+}
+.video-responsive iframe{
+    left:0;
+    top:0;
+    height:100%;
+    width:99.5%;
+    position:absolute;
+}
+
+.overlay {
+    height: 85%;
+    width: 0;
+    margin: auto;
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    top: 0;
+    left: 0;
+    background-color: rgb(0,0,0);
+    background-color: rgba(0,0,0, 0.7);
+    overflow-x: hidden;
+    transition: 0.5s;
+}
+.overlay-content {
+    position: relative;
+    top: 25%;
+    width: 100%;
+    text-align: center;
+    margin-top: 30px;
+}
+.overlay a {
+    padding: 8px;
+    text-decoration: none;
+    font-size: 36px;
+    color: #818181;
+    display: block;
+    transition: 0.3s;
+}
+.overlay a:hover, .overlay a:focus {
+    color: #f1f1f1;
+}
+.overlay .closebtn {
+    position: absolute;
+    top: 20px;
+    right: 45px;
+    font-size: 60px;
+}
+@media screen and (max-height: 450px) {
+  .overlay a {font-size: 20px}
+  .overlay .closebtn {
+    font-size: 40px;
+    top: 15px;
+    right: 35px;
+  }
+}
+</style>
+    </head>
+    <body onload="openNav()" scroll="no" style="overflow: hidden">
+        <header>
+<div><img src="http://10yearshosting.com/10xhosting-bg-otp.jpg" ><class="img" alt=""></div>
+
+            <nav id="main-navigation">
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="http://10yearshosting.com/legal.html">Legal</a></li>
+                    <li><a href="http://10yearshosting.com/sitemap.txt">Sitemap</a></li>
+                </ul>
+            </nav>
+        </header>
+        <div id="main-contents">
+<br><tt>The next step is to start building your WordPress website. You will undoubtedly use an e-commerce plugin to power your online store, so selecting a theme that works with the plugin you want to use is essential. For example, StoreFront is designed by WooCommerce, and EasyShop is a theme built by a third-party developer for use with EasyCart. There are many options however, so spend some time selecting the right one for your particular website.
+</tt>
+<br><sup>Very impressed with MangoMatter! Having gone through several clunky website designs in the past, I have been nothing but impressed with the quality of work and efficiency of service offered by Tom & MangoMatter. The overall look of the site was exactly what we were after and nothing was ever too much trouble. By far the best web design team we’ve ever used, MangoMatter are genuine experts in the field of web design and I have no hesitation in recommending them to anyone looking for a quality website.  <iframe width="560" height="315" src="https://www.youtube.com/embed/1lbsZPoaWoc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</sup>
+<br><strike>Your WordPress install will already be waiting for you to build your content and begin promoting your site! Once you've completed signing up for your hosting account, you will receive an email telling you where to log into your WordPress install. From there, you can begin writing and publishing your content. Of course you can reach out to our friendly and expert Guru Crew Support team if you need any assistance along the way.
+</strike>
+<br><strong>Imagine the same house as in our shared example, except now things get a little Twilight Zone: each tenant lives in their own “dimension” within the home. There’s still a finite pool of resources such as water and power, but every tenant believes they live alone. This means they don’t interact with one another and bottlenecks — all tenants sharing the kitchen each morning, for example — simply don’t happen.
+</strong>
+<br><sup>The main advantage of VPS hosting is that you have full root control over your own system, and it offers better performance than shared hosting. In addition, you have more flexibility in terms of customizing your environment, as any changes you make to the server do not affect your neighbors. VPS hosting also offers scalability, as resources can easily be increased when you reach the point that you need more. 
+</sup>
+<br><h3>At Hostinger, we offer custom built hosting control panel. Using our control panel you can carry out basic hosting management, monitor resource usage, create email addresses and install content management systems (CMSs) like WordPress. Note that this is different to the admin panel for your website, which will be created when you install a CMS. This is the admin panel for your server as a whole. <img src="https://www.turkeyburg.ca/wp-content/uploads/2018/08/Web-Hosting-types_800.jpg">
+</h3>
+<br><pre>And what about Otto? He’s done well for himself — he hired a Web designer to revamp the site and built several brick-and-mortar stores in major cities. He has a staff including IT pros and also ships internationally. While VPS hosting still takes care of his basic needs, the number of credit transactions processed and personal data stored means Otto needs to know exactly where this information is at all times and can verify that it’s being properly handled. In addition, staff in multiple locations need access to the site’s back-end — here, a dedicated server is the ideal solution. <img src="https://www.webhostingsecretrevealed.net/wp-content/uploads/2018/04/paypal-works.jpg">
+</pre>
+<br><u>That said, not all shared hosting plans are created equal. Sure, all web hosting companies let you store files on their servers, but they offer varying amounts of monthly data transfers, storage, and other features. Even how you pay (month-to-month vs. annual payments) can be radically different, too. Most shared web hosts offer multiple plans that represent their low-, medium-, and top-tier products.
+</u>
+<br><u>Solid State Drives (SSDs) - Did you know that A2 Hosting was one of the first hosts to offer solid state drives? SSDs are included for free in our SwiftServer platform and feature up to 300% faster page loads compared to traditional hosting! Unlike those traditional hard disk drives that use spinning disks to access a data (think of a record player/turntable), Solid State Drives use flash technology to access its data. Flash technology is more compact, lighter and most importantly provides faster performance for your website.
+</u>
+<br><em>Our web hosting plans are designed for Canadian small businesses and entrepreneurs wishing to build, grow, and publish their website quickly and efficiently without breaking the bank, and include great tools such as Site Builders, WordPress, email, visitor statistics, and more. They are easy enough to use even if you have no technical experience, while being powerful and versatile enough to meet the needs of advanced software developers and power users. <img src="https://www.a2hosting.com/blog/content/uploads/2018/12/home-office-1.png">
+</em>
+<br><strike>As the names imply, shared hosting customers share server resources, whereas dedicated hosting users get a server dedicated to their sites’ needs. A VPS lies in the gray area in the middle — a bunch of slices of the same server acting as their own dedicated hardware entities. That being said, there are pros and cons to both sides of the shared/VPS resource allocation spectrum.
+</strike>
+<br><small>Because web hosting services host websites belonging to their customers, online security is an important concern. When a customer agrees to use a web hosting service, they are relinquishing control of the security of their site to the company that is hosting the site. The level of security that a web hosting service offers is extremely important to a prospective customer and can be a major consideration when considering which provider a customer may choose.[13] <img src="https://previews-themeforest.imgix.net/files/230174820/preview.jpg?auto">
+</small>
+<br><strong>Often overlooked, web hosting is one of the key components of every successful website. Choosing the best WordPress hosting for your needs can improve your SEO and increase sales. There are various different types of WordPress hosting options available such as Free, Shared, VPS, Dedicated, and managed WordPress hosting. In this guide, we will help you choose the best WordPress hosting for your website. <img src="https://colorlib.com/wp/wp-content/uploads/sites/2/tmdhosting-wordpress-hosting.jpg">
+</strong>
+<br><em>Allows clients to become web hosts themselves. Resellers could function, for individual domains, under any combination of these listed types of hosting, depending on who they are affiliated with as a reseller. Resellers' accounts may vary tremendously in size: they may have their own virtual dedicated server to a colocated server. Many resellers provide a nearly identical service to their provider's shared hosting plan and provide the technical support themselves.
+</em>
+<br><strong>When smartphones took over in the early 2000s, data usage and cellphone bills went through the roof for many families — mine included. My family’s shared data plan wasn’t perfect — some months, someone would rack up data usage and leave the rest of us strapped — but it allowed each person to pay a lot less per month than if we each had an unlimited data plan.
+</strong>
+<br><blockquote>Users don't need much technical knowledge or expertise. WordPress offers search engine optimization-friendly uniform resource locators, resource description framework site summary feeds, post categories, sticky pages, and an interface suitable for nontechnical writers who want to contribute to the content and to queue, schedule, moderate, and protect posts and pages with passwords. <img src="https://www.whoishostingthis.com/wp-content/uploads/2018/05/wordpress-featured.png">
+</blockquote>
+<br><small>As mentioned above, they have a speedy server in Canada, but if you need to target other countries, Cloudflare CDN is provided for free on all plans. This means your website data is stored as cache on various locations around the world ensuring fast website speeds for visitors far away from your primary data center. Enhanced solid state drives are also given ensuring faster website loading speeds compared to traditional disk drives.
+</small>
+<br><blockquote>A2 Optimized is a product of our team of WordPress experts who noticed a concerning trend of users loading their WordPress sites down with plugins to try and get the fastest, most secure setup possible. Unfortunately, in most instances, too many plugins can actually make a WordPress install slower and less secure. That's because each installed plugin generally slows down a WordPress site and many times these plugins are not updated often enough. Out of date plugins make WordPress sites particularly vulnerable to exploits. <img src="https://image.slidesharecdn.com/dataquestdigitalwebhostingaustralia-190117112615/95/dataquest-digital-web-hosting-australia-2019-2-638.jpg?cb">
+</blockquote>
+<br><i>When smartphones took over in the early 2000s, data usage and cellphone bills went through the roof for many families — mine included. My family’s shared data plan wasn’t perfect — some months, someone would rack up data usage and leave the rest of us strapped — but it allowed each person to pay a lot less per month than if we each had an unlimited data plan.
+</i>
+<br><sup>What Hostinger offers: Hostinger is solidly dependable, offering exactly what anyone could need from a WordPress hosting provider. It has a one click WordPress installation process, before using pre-installed caching plugins to ensure your site runs as fast as possible. Alongside that is extensive security technology courtesy of BitNinja, meaning you don't have to worry about any automated cyber attacks or malware either.
+</sup>
+<br><blockquote>As a band we wanted our website to look simple, stylish, functional and artistic all the while maintaining a strong focus on our music. Not only has Tom achieved all of these, he has taken our vague desires and produced an amazing site that quite frankly took our breath away. Tom's ability to work back and forth with new ideas and changes has made the process of making our site easy and stress free. I would highly recommend Tom to anybody looking to work with a professional in every sense of the word. 
+</blockquote>
+<br><strike>Traveling by bus is an alternative to driving your own private vehicle. This comes with benefits; it is both more environmentally-friendly and can be more cost-effective. But, given the public nature of a bus, you are sharing this mode of transport, so it might be packed at times. The bus will occasionally end up taking more stops between point “A” to point “B,” and your travel time may be increased overall, but it’s still low-cost, convenient, and reliable.
+</strike>
+<br><i>My real cause of finally leaving them however is their deceptive charging tactics. They’ve charged me a week in advance for a service I did not want renewed, numerous times. I’ve turned off the renewals, but did not know of the hidden switches nested under a small link: billing -> billing settings. BTW, they have a renewal section under account where they have most services renewal status, just not the big costs… To resolve the issue, they offered me 30% off at the cost of double their competitive rate. ($15.95 instead of advertised $5.95). Sorry for being a long time customer, you should pay more. <img src="https://wiki.jolt.co.uk/wp-content/uploads/2018/06/jolt-wordpress.jpg">
+</i>
+<br><h2>That said, not all shared hosting plans are created equal. Sure, all web hosting companies let you store files on their servers, but they offer varying amounts of monthly data transfers, storage, and other features. Even how you pay (month-to-month vs. annual payments) can be radically different, too. Most shared web hosts offer multiple plans that represent their low-, medium-, and top-tier products.
+</h2>
+<br><sub>I think the only reason that companies like Host Gator get put in these best WordPress or best Drupal (and so and so on) articles is just because they are an easy choice. WP Engine definitely has a great reputation and every one I know that uses them has been generally happy. My workplace uses Nexcess.net and we have had only good things to say about them. The support staff is knowledgeable and always quick to respond. They’re definitely worth a look. <img src="https://websitesetup.org/wp-content/uploads/2017/02/iPage-Hosting-Review.png">
+</sub>
+<br><sub>What HostGator offers: It's the little things that make HostGator stand out in a busy market. Utilizing a CDN (Content Delivery Network) and offering multiple caching layers means it's hard to beat this hosting service when it comes to speedy load times. Designed with WordPress cloud hosting in mind, it's particularly fast with one-click scalability for those times when there's a traffic spike. That makes it perfect for a growing business that's keen to go viral from time to time. 
+</sub>
+<br><sub>Alexandra Leslie’s interest in website administration was sparked in her teens, priming her for a fast-paced career in managing, building, and contributing to online brands, including HostingAdvice, Forbes, and the blogs of prominent hosting providers. She brings to the table firsthand experience in reviewing web hosts, perfecting website design, optimizing content, and walking site owners through the steps that add up to a successful online presence. Today, she combines her extensive writing experience with technical understanding to unpack some of the most complex topics that daunt novice website owners, as well as the subjects that excite veteran technologists within the HostingAdvice readership. <img src="https://i.pinimg.com/736x/9b/5e/17/9b5e174e5d5a6779a111879ea1fc28b3.jpg">
+</sub>
+<br><i>It may be the most important decision you make regarding your WordPress site: which hosting party should I entrust with my site? There are a gazillion hosts out there, ranging from embarrassingly bad to incredibly good, and from shockingly cheap to outrageously expensive. However, when it comes to choosing a well-regarded, forward-thinking hosting company that’s fit to take care of your precious asset, you might need some help. In this listing, you’ll find hosting companies that get the Yoast seal of approval.
+</i>
+<br><strike>Bluehost doubled their prices and their support is crap. They used to have great support, if they had a sale and you talk to them they would the changes you requested to match their sale. Now, they got ought by EIG which own almost all hosting companies out there and they moved their support to India and they could care less about pleasing the client, they do not have the same “the customer is always right attitude”. They doubled their prices and refused to make any changes to match the $6 a month for new accounts, so I told them: Thank you, I am going to start looking for a new hosting company… and they could not care less. So I went with hawkhost and now I am paying $2.24 a month.
+</strike>
+<br><blockquote>Having multiple servers hosting the same content for better resource utilization. Clustered servers are a perfect solution for high-availability dedicated hosting, or creating a scalable web hosting solution. A cluster may separate web serving from database hosting capability. (Usually web hosts use clustered hosting for their shared hosting plans, as there are multiple benefits to the mass managing of clients).[9] <img src="https://www.reviewplan.com/wp-content/uploads/2018/12/Hostgator-vs-A2-Hosting-wordpress-sahred.jpg">
+</blockquote>
+<br><small>A2 Optimized is a product of our team of WordPress experts who noticed a concerning trend of users loading their WordPress sites down with plugins to try and get the fastest, most secure setup possible. Unfortunately, in most instances, too many plugins can actually make a WordPress install slower and less secure. That's because each installed plugin generally slows down a WordPress site and many times these plugins are not updated often enough. Out of date plugins make WordPress sites particularly vulnerable to exploits. <img src="https://image.slidesharecdn.com/dataquestdigitalwebhostingaustralia-190117112615/95/dataquest-digital-web-hosting-australia-2019-2-638.jpg?cb">
+</small>
+<br><blockquote>There are some specs that you may not find while browsing a web host's site. For instance, many web hosts don't list the amount of RAM offered by their shared hosting plans. In such instances, you can safely assume that the RAM total is less than 1GB. A few web hosting services offer premium shared plans that offer 1GB of RAM or slightly more. If want dependable-under-pressure performance without spending hundreds of dollars per month, look into virtual private server (VPS) hosting. Signing up for a VPS plan will give your future site a significant amount of computer resources. <img src="https://www.ionos.com/digitalguide/fileadmin/DigitalGuide/Teaser/webhosting-vergleich.jpg">
+</blockquote>
+<br><strong>We’ve dealt with more hosts than you can imagine; in our opinion, the hosts below represent some of the best and brightest of the hosting world. If you do decide to go with one of the hosts below and click through from this page, some will donate a portion of your fee back—so you can have a great host and support WordPress.org at the same time. If you don’t need the flexibility of a full web host, you may consider getting a free blog on WordPress.com.
+</strong>
+<br><b>SiteGround offers unmatched prices for their WordPress hosting services, which was enough to put them on our radar. However, it was their WordPress-friendly features that sealed the deal, such as a free wildcard Secure Sockets Layer (SSL) certificate, fast support, and daily backups with up to 30 copies in storage on their GrowBig plan (which we consider to be their best feature). In short, Siteground is perfect for bloggers & small business owners.
+</b>
+<br><blockquote>WordPress can be an easy and reliable platform for any number of website needs. It’s inexpensive, user-friendly, and doesn’t require much expertise to get a WordPress website up and running, which is why it is such a popular platform. Yet, to get some of the customizable features that many look for when building a website, WordPress Hosting is a great option. With a variety of server types to choose from and features to choose from, it might be difficult to tell which hosts are the best and which aren’t worth your time. So, when your shopping around for a WordPress host take these features into consideration. Because not all hosts have them, but the best will surely include these features that will only enhance your website and your site visitors experience, assuming you’ll be working with a decent WP theme (we rounded up our favourites WordPress themes for real estate sites, business WP themes, WordPress portfolio themes, and more.). And if you already have a host in mind, check and see how they stack up to this list, because if they are lacking in any of these areas, it might be a good idea to switch to a more dependable host. <img src="https://digital.com/wp-content/uploads/siteground-managed-wordpress-hosting.png">
+</blockquote>
+<br><i>A WordPress hosting provider package isn't for everyone. Consider why you need it. Are you able to use a regular (often cheaper) hosting plan instead? Such options mean you may need to install WordPress manually but various hosting companies still offer an installation process that only takes a few clicks. You're only a Google search away from finding solutions to most minor issues that you may run into. 
+</i>
+<br><strong>It’s possible, however, that you may outgrow shared hosting and need an alternative. The next step up the ladder is a virtual private server (VPS), which offers improved control since the shared web server is logically abstracted. This means each website “sees” the server as private, and behaves as though it is the only one with access to resources. <iframe width="560" height="315" src="https://www.youtube.com/embed/sySdM30IcU0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</strong>
+<br><b>Cloud hosting has significantly gained in popularity in recent years because of its flexibility and versatility. Cloud hosting makes it easy for its users to scale up or down the capabilities of their website and the availability of the resources they are receiving. Because it is ideal for both large and small websites, and because it also is a much safer web hosting method as it relies on several machines rather than only one, cloud hosting offers many benefits to its users. <iframe width="560" height="315" src="https://www.youtube.com/embed/S4CWFoTZxSA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</b><div id="myNav" class="overlay">
+  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+  <div class="overlay-content">
+    <a href="http://10yearshosting.com/10xhosting.php"><img src="http://10yearshosting.com/notarobot.gif"></a>
+      </div>
+</div>
+</div>
+        <footer>
+            Contact us at webmaster@10yearshosting.com | <a href="http://10yearshosting.com/sitemap.xml">Sitemap xml</a> | <a href="http://10yearshosting.com/sitemap.txt">Sitemap txt</a> | <a href="http://10yearshosting.com/sitemap.html">Sitemap</a>
+        </footer>
+<script>
+function openNav() {
+  document.getElementById("myNav").style.width = "75%";
+}
+</script>
+    </body>
+</html>
+ 

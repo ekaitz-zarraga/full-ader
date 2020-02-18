@@ -1,0 +1,11 @@
+google.com, pub-5102700246211992, DIRECT, f08c47fec0942fa0
+google.com, pub-5102700246211992, RESELLER, f08c47fec0942fa0
+#adform.com, 1357, DIRECT
+#adform.com, 1357, RESELLER
+smartadserver.com, 1878, DIRECT
+smartadserver.com, 1878, RESELLER
+#adunity.com, 1000040, DIRECT
+#adunity.com, 1000040, RESELLER
+indexexchange.com, 183775, RESELLER
+openx.com, 537101597, RESELLER
+teads.tv, 17640, DIRECT, 15a9c44f6d26cbe1

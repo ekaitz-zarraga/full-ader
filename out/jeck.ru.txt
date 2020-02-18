@@ -1,0 +1,53 @@
+#ads.txt
+google.com, pub-7683628640306220, RESELLER, f08c47fec0942fa0
+smartadserver.com, 2581, RESELLER
+smartadserver.com, 1079, RESELLER
+adtech.com, 4582.1, RESELLER
+aolcloud.net, 4582.1, RESELLER
+EMXDGT.com, 166, RESELLER, 1e1d41537f7cad7f
+appnexus.com, 1356, RESELLER, f5ab79cb980f11d1
+openx.com, 537140006, RESELLER, 6a698e2ec38604c6
+sovrn.com, 256830, RESELLER, fafdf38b16bf6b2b
+lijit.com, 256830, RESELLER, fafdf38b16bf6b2b
+contextweb.com, 561450, RESELLER, 89ff185a4c4e857c
+adform.com, 279, RESELLER
+#komoona
+openx.com, 126686, RESELLER, a698e2ec38604c6
+openx.com, 537120224, RESELLER, a698e2ec38604c6
+pubmatic.com, 32702, RESELLER, 5d62403b186f2ace
+pubmatic.com, 51048, RESELLER, 5d62403b186f2ace
+pubmatic.com, 116164, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156262, RESELLER, 5d62403b186f2ace
+contextweb.com, 558567, RESELLER
+contextweb.com, 558479, RESELLER
+contextweb.com, 558256, RESELLER
+contextweb.com, 558805, RESELLER
+contextweb.com, 558746, RESELLER
+contextweb.com, 558486, RESELLER
+contextweb.com, 558393, RESELLER
+contextweb.com, 558806, RESELLER
+contextweb.com, 558478, RESELLER
+contextweb.com, 558841, RESELLER
+contextweb.com, 558395, RESELLER
+contextweb.com, 557931, RESELLER
+contextweb.com, 558394, RESELLER
+contextweb.com, 558741, RESELLER
+contextweb.com, 558396, RESELLER
+contextweb.com, 558255, RESELLER
+contextweb.com, 558389, RESELLER
+contextweb.com, 558032, RESELLER
+contextweb.com, 558301, RESELLER
+contextweb.com, 558575, RESELLER
+contextweb.com, 558390, RESELLER
+contextweb.com, 558300, RESELLER
+contextweb.com, 558305, RESELLER
+contextweb.com, 558843, RESELLER
+contextweb.com, 558869, RESELLER
+contextweb.com, 558867, RESELLER
+contextweb.com, 558680, RESELLER
+contextweb.com, 558304, RESELLER
+rhythmone.com, 3068080230, RESELLER, a670c89d4a324e47
+smaato.com, 1100001651, RESELLER
+inner-active.com, 206458, RESELLER
+komoona.com, 256093, RESELLER
+rhythmone.com, 1634956812, RESELLER, a670c89d4a324e47

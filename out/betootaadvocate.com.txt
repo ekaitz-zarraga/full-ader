@@ -1,0 +1,31 @@
+
+
+pubmatic.com, 158250, RESELLER, 5d62403b186f2ace # ocelot.studio
+teads.tv, 18116, DIRECT, 15a9c44f6d26cbe1
+google.com, pub-3864883856904856, DIRECT, f08c47fec0942fa0
+google.com, pub-1552509015295897, RESELLER, f08c47fec0942fa0 # ocelot.studio
+indexexchange.com, 186155, RESELLER # ocelot.studio
+indexexchange.com, 188731, DIRECT # EB
+rubiconproject.com, 17198, RESELLER # ocelot.studio
+rubiconproject.com, 19812, RESELLER, 0bfd66d529a55807 # EB
+adtech.com, 11345, RESELLER # ocelot.studio
+aolcloud.net, 11345, RESELLER # ocelot.studio
+appnexus.com, 9551, RESELLER # ocelot.studio
+districtm.io, 101334, RESELLER # ocelot.studio
+appnexus.com, 1908, RESELLER, f5ab79cb980f11d1 # ocelot.studio
+google.com, pub-9685734445476814, RESELLER, f08c47fec0942fa0 # ocelot.studio
+sovrn.com, 263475, DIRECT, fafdf38b16bf6b2b # ocelot.studio
+lijit.com, 263475, DIRECT, fafdf38b16bf6b2b # ocelot.studio
+gumgum.com, 13655, RESELLER, ffdef49475d318a9 # ocelot.studio
+smaato.com, 1100041774, RESELLER # ocelot.studio
+aol.com, 52222, DIRECT
+outbrain.com, 002fc2bc2f57296cbd6a8d5675d46f9e89, DIRECT
+outbrain.com, 002fc2bc2f57296cbd6a8d5675d46f9e89, RESELLER
+appnexus.com, 7597, RESELLER, f5ab79cb980f11d1 # outbrain
+tremorhub.com, q017o-78mlk, RESELLER, 1a4e959a1b50034a # outbrain
+teads.tv, 19337, DIRECT, 15a9c44f6d26cbe1
+advertising.com, 26154, RESELLER # outbrain
+spotxchange.com, 225721, RESELLER # outbrain
+Freewheel.tv, 741650, RESELLER # outbrain
+kargo.com, 8378, DIRECT
+indexexchange.com, 184081, RESELLER # kargo

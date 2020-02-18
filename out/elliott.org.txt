@@ -1,0 +1,71 @@
+#Ads.txt for elliott.org
+
+google.com, pub-3153065230153281, RESELLER
+deployads.com, 1423, DIRECT
+appnexus.com, 3484, RESELLER
+adtech.com, 10217, RESELLER
+sonobi.com, fb9580c293, RESELLER
+contextweb.com, 558346, RESELLER
+lijit.com, 82507, RESELLER, fafdf38b16bf6b2b
+openx.com, 537102065, RESELLER, a698e2ec38604c6
+c1exchange.com, C1X201401, RESELLER
+rubiconproject.com, 13380, RESELLER, 0bfd66d529a55807
+indexexchange.com, 185073, RESELLER, 50b1c356f2c5c8fc
+openx.com, 537133236, RESELLER, 6a698e2ec38604c6
+google.com, pub-6650322601660058, RESELLER, f08c47fec0942fa0
+adtech.com, 10383, RESELLER
+aolcloud.net, 10383, RESELLER
+sovrn.com, 2870, RESELLER
+tremorhub.com, k7snt, RESELLER, 1a4e959a1b50034a #matomyvideo
+spotxchange.com, 87906, RESELLER, 7842df1d2fe2db34 #matomyvideo
+spotx.tv, 87906, RESELLER, 7842df1d2fe2db34 #matomyvideo
+fyber.com, 7e5ca5e243c336d8d0de5c334dba5ed3, RESELLER #matomyvideo
+lkqd.com, 137, RESELLER #matomyvideo
+lkqd.net, 137, RESELLER #matomyvideo
+advertising.com, 19978, RESELLER #matomyvideo
+advertising.com, 6713, RESELLER #matomyvideo
+beachfront.com, beachfront_2558, RESELLER #matomyvideo
+vertamedia.com, 14214, reseller, 7de89dc7742b5b11 #matomyvideo
+cedato.com, 66600214, RESELLER #matomyvideo
+optimatic.com, 322107356072, RESELLER #matomyvideo
+appnexus.com, 2637, RESELLER #matomyvideo
+connectad.io, 191, DIRECT #connectad
+pubmatic.com, 156077, RESELLER, 5d62403b186f2ace #connectad
+pubmatic.com, 55990, RESELLER, 5d62403b186f2ace #connectad
+pulsepoint.com, 560489, RESELLER #connectad
+openx.com, 537145117, RESELLER, a698e2ec38604c6 #connectad
+google.com, pub-9467340974789471, RESELLER, f08c47fec0942fa0 #connectad
+adform.com, 768, RESELLER #connectad
+thetimmedia.com, 318, DIRECT #Memevideo
+memevideoad.com, 318, DIRECT #Memevideo
+spotxchange.com,98033, RESELLER,7842df1d2fe2db34 #Memevideo
+freewheel.tv, 151177, RESELLER #Memevideo
+freewheel.tv, 414097, RESELLER #Memevideo
+vidazoo.com, 6635729, RESELLER #vidazoo
+vidazoo.com, 4967162112, DIRECT #vidazoo
+admarvel.com, 163669, RESELLER #vidazoo
+advertising.com, 7873, RESELLER #vidazoo
+beachfront.com, beachfront_5708, RESELLER #vidazoo
+afy11.net, 2885, RESELLER #vidazoo
+freewheel.tv, 204529, RESELLER #vidazoo
+freewheel.tv, 33049, RESELLER #vidazoo
+freewheel.tv, 324945, RESELLER #vidazoo
+freewheel.tv, 31893, RESELLER #vidazoo
+freewheel.tv, 324961, RESELLER #vidazoo
+freewheel.tv, 24565, RESELLER #vidazoo
+freewheel.tv, 398257, RESELLER #vidazoo
+fyber.com, dcec88ad88c1d7756473211fb0cbdaa9, RESELLER #vidazoo
+pubmatic.com, 156145, RESELLER #vidazoo
+rhythmone.com, 2128760332, RESELLER, a670c89d4a324e47 #vidazoo
+spotxchange.com, 92299, RESELLER #vidazoo
+tidaltv.com, 3990, RESELLER #vidazoo
+rubiconproject.com, 17130, RESELLER, 0bfd66d529a55807 #vidazoo
+distroscale.com, MjIzMjE, DIRECT #distroscale
+advertising.com, 10152, DIRECT #distroscale
+appnexus.com, 7259, DIRECT #distroscale
+google.com, pub-3851171199385532, RESELLER, f08c47fec0942fa0 #distroscale
+openx.com, 537139075, RESELLER, 6a698e2ec38604c6 #distroscale
+rubiconproject.com, 16578, RESELLER, 0bfd66d529a55807 #distroscale
+spotxchange.com,119003, RESELLER,7842df1d2fe2db34 #distroscale
+spotx.tv,119003, RESELLER,7842df1d2fe2db34 #distroscale
+tremorhub.com, 2g9h1, RESELLER, 1a4e959a1b50034a #distroscale

@@ -1,0 +1,24 @@
+#ads.txt for ebay.co.uk
+
+adtech.com, 4826, DIRECT
+adtech.com, 4872, DIRECT
+aolcloud.net, 4826, DIRECT
+aolcloud.net, 4872, DIRECT
+appnexus.com, 2127, RESELLER, f5ab79cb980f11d1
+appnexus.com, 3310, RESELLER, f5ab79cb980f11d1
+appnexus.com, 3340, DIRECT
+experian.com, EXP_474155_A, RESELLER
+google.com, pub-0110902453665107, DIRECT, f08c47fec0942fa0
+google.com, pub-6343048417853097, DIRECT, f08c47fec0942fa0
+indexexchange.com, 184181, DIRECT, 50b1c356f2c5c8fc
+indexexchange.com, 184202, DIRECT, 50b1c356f2c5c8fc
+openx.com, 537093837, DIRECT, 6a698e2ec38604c6
+openx.com, 537102462, DIRECT, 6a698e2ec38604c6
+pubmatic.com, 155212, DIRECT
+pubmatic.com, 39741, DIRECT
+rubiconproject.com, 207729, DIRECT, 0bfd66d529a55807
+rubiconproject.com, 9456, DIRECT, 0bfd66d529a55807
+themediagrid.com, HTSN94, DIRECT, 35d5010d7789b49d
+triplelift.com, 4208, DIRECT, 6c33edb13117fd86
+
+# Generated: 09/30/2019 09:29 -0500

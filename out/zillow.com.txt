@@ -1,0 +1,18 @@
+aolcloud.net, 9934, DIRECT
+Appnexus.com, 1356, RESELLER, f5ab79cb980f11d1
+appnexus.com, 3820, DIRECT
+EMXDGT.com, 271, DIRECT, 1e1d41537f7cad7f
+google.com, pub-2400833883574909, DIRECT, f08c47fec0942fa0
+google.com, pub-5995202563537249, RESELLER, f08c47fec0942fa2
+google.com, pub-7306991417631736, DIRECT, f08c47fec0942fa0
+indexexchange.com, 182276, DIRECT
+indexexchange.com, 184043, DIRECT
+openx.com, 537116600, DIRECT, 6a698e2ec38604c6
+openx.com, 537150854, DIRECT, 6a698e2ec38604c6
+openx.com, 539910323, DIRECT, 6a698e2ec38604c6
+openx.com, 540773186, DIRECT, 6a698e2ec38604c6
+pubmatic.com, 157030, DIRECT, 5d62403b186f2ace
+pubmatic.com, 32637, DIRECT, 5d62403b186f2ace
+rubiconproject.com, 12222, DIRECT, 0bfd66d529a55808
+rubiconproject.com, 16240, DIRECT, 0bfd66d529a55807
+triplelift.com, 4466, DIRECT, 6c33edb13117fd86

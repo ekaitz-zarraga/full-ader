@@ -1,0 +1,18 @@
+google.com, pub-9400491636423130, DIRECT, f08c47fec0942fa0
+
+#dunno
+google.com, pub-5029257013560698, RESELLER, f08c47fec0942fa0
+
+#Softgames
+google.com, pub-5846800249286047, RESELLER, f08c47fec0942fa0
+
+#GamePix
+google.com, pub-5285623249468085, RESELLER, f08c47fec0942fa0
+google.com, pub-8435989769185680, RESELLER, f08c47fec0942fa0
+google.com, pub-2365506394227806, RESELLER, f08c47fec0942fa0
+
+# mediafarm
+adform.com, 1509, RESELLER
+adform.com, 2238, RESELLER
+Appnexus.com, 1789, RESELLER
+Appnexus.com, 7491, RESELLER

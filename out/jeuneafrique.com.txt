@@ -1,0 +1,23 @@
+teads.tv, 12917, DIRECT, 15a9c44f6d26cbe1
+teads.tv, 13719, DIRECT, 15a9c44f6d26cbe1
+google.com, pub-2060893485468351, DIRECT, f08c47fec0942fa0
+google.com, pub-8473821942994478, DIRECT, f08c47fec0942fa0
+coxmt.com, 2000067907202, RESELLER
+pubmatic.com, 156078, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156377, RESELLER, 5d62403b186f2ace
+openx.com, 537143344, RESELLER
+indexexchange.com, 175407, RESELLER, 50b1c356f2c5c8fc
+taboola.com,1135201,DIRECT,c228e6794e811952
+smartclip.net, 9316, RESELLER
+smartclip.net, 9316, DIRECT
+spotxchange.com, 212153, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 212153, DIRECT, 7842df1d2fe2db34
+spotx.tv, 212153, RESELLER, 7842df1d2fe2db34
+spotx.tv, 212153, DIRECT, 7842df1d2fe2db34
+google.com, pub-3700011705422030, RESELLER, f08c47fec0942fa0
+google.com, pub-3700011705422030, DIRECT, f08c47fec0942fa0
+freewheel.tv, 336241, RESELLER
+freewheel.tv, 422017, RESELLER
+freewheel.tv, 336241, DIRECT
+freewheel.tv, 422017, DIRECT
+rhythmone.com, 1166984029, RESELLER, a670c89d4a324e47

@@ -1,0 +1,12 @@
+#<SSP/Exchange Domain>, <SellerAccountID>, <PaymentsType>, <TAGID>
+google.com, pub-1463765907185802, DIRECT, f08c47fec0942fa0
+google.com, pub-8987058057256604, DIRECT, f08c47fec0942fa0
+google.com, pub-5249858899054622, DIRECT, f08c47fec0942fa0
+indexexchange.com, 185904, DIRECT
+indexexchange.com, 190109, DIRECT
+openx.com, 539363256, DIRECT, a698e2ec38604c6
+rubiconproject.com, 18436, DIRECT, 0bfd66d529a55807
+subdomain=ch.jobtome.com
+subdomain=uk.jobtome.com
+subdomain=ru.jobtome.com
+subdomain=br.jobtome.com

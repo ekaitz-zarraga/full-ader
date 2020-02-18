@@ -1,0 +1,84 @@
+#Google
+google.com, pub-4775867325027312, DIRECT, f08c47fec0942fa0
+google.com, pub-1261992444803875, DIRECT, f08c47fec0942fa0
+
+#Sovrn
+sovrn.com, 251676, DIRECT, fafdf38b16bf6b2b
+lijit.com, 251676, DIRECT, fafdf38b16bf6b2b
+appnexus.com, 1360, RESELLER, f5ab79cb980f11d1
+gumgum.com, 11645, RESELLER, ffdef49475d318a9
+openx.com, 538959099, RESELLER, 6a698e2ec38604c6
+openx.com, 539924617, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 137711, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156212, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156700, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 17960, RESELLER, 0bfd66d529a55807
+
+#AppNexus
+appnexus.com, 8055, DIRECT, f5ab79cb980f11d1
+
+#OpenX
+openx.com, 539836945, DIRECT, 6a698e2ec38604c6
+openx.com, 539836736, DIRECT, 6a698e2ec38604c6
+openx.com, 539836846, DIRECT, 6a698e2ec38604c6
+openx.com, 539836914, DIRECT, 6a698e2ec38604c6
+openx.com, 539836612, DIRECT, 6a698e2ec38604c6
+openx.com, 539836860, DIRECT, 6a698e2ec38604c6
+openx.com, 536872187, DIRECT, 6a698e2ec38604c6
+openx.com, 539918110, DIRECT, 6a698e2ec38604c6
+openx.com, 539918130, DIRECT, 6a698e2ec38604c6
+openx.com, 539918128, DIRECT, 6a698e2ec38604c6
+openx.com, 539918148, DIRECT, 6a698e2ec38604c6
+openx.com, 539918171, DIRECT, 6a698e2ec38604c6
+openx.com, 539921497, DIRECT, 6a698e2ec38604c6
+openx.com, 539915057, DIRECT, 6a698e2ec38604c6
+openx.com, 539918388, DIRECT, 6a698e2ec38604c6
+openx.com, 539918371, DIRECT, 6a698e2ec38604c6
+openx.com, 539918348, DIRECT, 6a698e2ec38604c6
+openx.com, 539921567, DIRECT, 6a698e2ec38604c6
+openx.com, 539921519, DIRECT, 6a698e2ec38604c6
+openx.com, 539918060, DIRECT, 6a698e2ec38604c6
+openx.com, 539921559, DIRECT, 6a698e2ec38604c6
+openx.com, 539921542, DIRECT, 6a698e2ec38604c6
+openx.com, 539918030, DIRECT, 6a698e2ec38604c6
+openx.com, 539918085, DIRECT, 6a698e2ec38604c6
+openx.com, 539918335, DIRECT, 6a698e2ec38604c6
+openx.com, 539921532, DIRECT, 6a698e2ec38604c6
+openx.com, 539915099, DIRECT, 6a698e2ec38604c6
+openx.com, 539836792, DIRECT, 6a698e2ec38604c6
+openx.com, 539836979, DIRECT, 6a698e2ec38604c6
+openx.com, 539836794, DIRECT, 6a698e2ec38604c6
+openx.com, 539836963, DIRECT, 6a698e2ec38604c6
+openx.com, 539836888, DIRECT, 6a698e2ec38604c6
+openx.com, 539836827, DIRECT, 6a698e2ec38604c6
+
+#Rubicon
+rubiconproject.com, 18154, DIRECT, 0bfd66d529a55807
+
+#LiveIntent
+liveintent.com,	13310, DIRECT
+liveintent.com,	13305, DIRECT
+liveintent.com,	13308, DIRECT
+liveintent.com,	13311, DIRECT
+liveintent.com,	14414, DIRECT
+liveintent.com,	13315, DIRECT
+liveintent.com,	13313, DIRECT
+liveintent.com,	13314, DIRECT
+liveintent.com,	13306, DIRECT
+liveintent.com,	14416, DIRECT
+liveintent.com,	43151, DIRECT
+liveintent.com,	13303, DIRECT
+liveintent.com,	13312, DIRECT
+liveintent.com,	42927, DIRECT
+liveintent.com,	20104, DIRECT
+liveintent.com,	13304, DIRECT
+liveintent.com,	41891, DIRECT
+liveintent.com,	14417, DIRECT
+liveintent.com,	41901, DIRECT
+liveintent.com,	13307, DIRECT
+liveintent.com,	13309, DIRECT
+liveintent.com,	14419, DIRECT
+liveintent.com,	14413, DIRECT
+liveintent.com,	14415, DIRECT
+liveintent.com,	45108, DIRECT
+liveintent.com,	36475, DIRECT

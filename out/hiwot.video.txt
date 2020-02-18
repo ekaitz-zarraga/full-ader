@@ -1,0 +1,83 @@
+#Flowplayer
+google.com, pub-1256482085642647, RESELLER, f08c47fec0942fa0
+
+#MAHIMETA.COM NETWORKS
+google.com, pub-7733626117287363, RESELLER, f08c47fec0942fa0
+google.com, pub-5454875279695201, RESELLER, f08c47fec0942fa0
+google.com, pub-8834194653550774, RESELLER, f08c47fec0942fa0
+google.com, pub-7002491002409919, RESELLER, f08c47fec0942fa0
+google.com, pub-9378724246417115, RESELLER, f08c47fec0942fa0
+
+google.com, pub-1100694952916855, DIRECT, f08c47fec0942fa0
+google.com, pub-7363809219244122, RESELLER, f08c47fec0942fa0
+google.com, pub-7733626117287363, RESELLER
+taboola.com,1112013,DIRECT,c228e6794e811952
+taboola.com,1112013,RESELLER,c228e6794e811952
+spotxchange.com, 71451, RESELLER
+advertising.com, 8603, RESELLER
+advertising.com, 3531, RESELLER
+pubmatic.com, 156307, RESELLER, 5d62403b186f2ace
+appnexus.com, 3364, RESELLER
+Indexexchange.com, 183756, RESELLER
+contextweb.com, 560382, RESELLER
+openx.com, 539154393, RESELLER
+tremorhub.com, z87wm, RESELLER, 1a4e959a1b50034a
+rubiconproject.com, 16698, RESELLER, 0bfd66d529a55807
+fyber.com, ad9de41d28d494354b23133f26f83122, RESELLER
+fyber.com, 1a12a7e3f84fe560ccf95a3a73043abb, RESELLER
+
+#TotalMedia Ads.txt Inclusion list please integrate into your ads.txt file as is
+#Last modified: 15/04/18
+totalmediasolutions.com, 7122094, DIRECT
+google.com, pub-2127333773716092, RESELLER, f08c47fec0942fa0
+google.com, pub-1420539090378627, RESELLER, f08c47fec0942fa0
+google.com, pub-7462546778979920, RESELLER, f08c47fec0942fa0
+google.com, pub-1246810218868905, RESELLER, f08c47fec0942fa0
+advertising.com, 12178, RESELLER
+beachfront.com, 3375, RESELLER, e2541279e8e2ca4d
+freewheel.tv, 195233, RESELLER
+freewheel.tv, 195225, RESELLER
+freewheel.tv, 212257, RESELLER
+freewheel.tv, 212249, RESELLER
+freewheel.tv, 183273, RESELLER
+freewheel.tv, 183265, RESELLER
+freewheel.tv, 118873, RESELLER
+freewheel.tv, 118865, RESELLER
+freewheel.tv, 146193, RESELLER
+freewheel.tv, 146145, RESELLER
+freewheel.tv, 226513, RESELLER
+freewheel.tv, 226497, RESELLER
+freewheel.tv, 193545, RESELLER
+freewheel.tv, 193537, RESELLER
+fyber.com, 0697ea49b57a706a1ef221a02b0c2b1b, RESELLER
+lkqd.net, 362, RESELLER, 59c49fa9598a0117
+lkqd.com, 362, RESELLER, 59c49fa9598a0117
+spotxchange.com, 123518, RESELLER, 7842df1d2fe2db34
+spotx.tv, 123518, RESELLER, 7842df1d2fe2db34
+tremorhub.com, akojo-5ms9s, RESELLER, 1a4e959a1b50034a
+tremorhub.com, akojo-wq9rq, RESELLER, 1a4e959a1b50034a
+tremorhub.com, akojo-s9qub, RESELLER, 1a4e959a1b50034a
+tremorhub.com, akojo-cqbnq, RESELLER, 1a4e959a1b50034a
+tremorhub.com, akojo-rzdv1, RESELLER, 1a4e959a1b50034a
+tremorhub.com, akojo-liutm, RESELLER, 1a4e959a1b50034a
+tremorhub.com, akojo-01xvw, RESELLER, 1a4e959a1b50034a
+tremorhub.com, akojo-7vr9i, RESELLER, 1a4e959a1b50034a
+tremorhub.com, akojo-hy1mu, RESELLER, 1a4e959a1b50034a
+tremorhub.com, akojo-9j1rg, RESELLER, 1a4e959a1b50034a
+tremorhub.com, akojo-0j0dt, RESELLER, 1a4e959a1b50034a
+smartadserver.com,57405,RESELLER
+indexexchange.com,179394,RESELLER
+contextweb.com,560288,RESELLER
+contextweb.com,561367,RESELLER
+pubmatic.com,156439,RESELLER
+rubiconproject.com,16114,RESELLER
+openx.com,537149888,RESELLER,a698e2ec38604c6
+cedato.com, 501446106, RESELLER
+cedato.com, 31796602, RESELLER
+#Last modified: 15/04/18
+
+
+
+	
+ 
+

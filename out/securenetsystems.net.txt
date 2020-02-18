@@ -1,0 +1,52 @@
+adtech.com, 10068, DIRECT
+aolcloud.net, 10068, DIRECT
+pubmatic.com, 156078, RESELLER
+openx.com, 537143344, RESELLER
+indexexchange.com, 175407, RESELLER
+appnexus.com, 3775, DIRECT
+EMXDGT.com, 48, DIRECT, 1e1d41537f7cad7f
+emxdgt.com, 891, DIRECT, 1e1d41537f7cad7f
+appnexus.com, 1356, DIRECT, f5ab79cb980f11d1
+google.com, pub-5995202563537249, DIRECT, f08c47fec0942fa0
+conversantmedia.com, 30559, DIRECT, 03113cd04947736d
+appnexus.com, 4052, RESELLER
+criteo.com, 139188, DIRECT
+districtm.io, 100738, DIRECT
+appnexus.com, 7944, RESELLER
+appnexus.com, 1908, RESELLER
+google.com, pub-9685734445476814, RESELLER, f08c47fec0942fa0
+google.com, pub-1765905809912405, DIRECT
+indexexchange.com, 182438, DIRECT, 50b1c356f2c5c8fc
+openx.com, 537154004, DIRECT, a698e2ec38604c6
+openx.com, 537112090, DIRECT, a698e2ec38604c6
+sovrn.com, 99915, DIRECT, fafdf38b16bf6b2b
+lijit.com, 99915, DIRECT, fafdf38b16bf6b2b
+lijit.com, 99915-eb, DIRECT, fafdf38b16bf6b2b
+gumgum.com, 11645, RESELLER, ffdef49475d318a9
+openx.com, 537120960, RESELLER
+openx.com, 83499, RESELLER
+openx.com, 538959099, RESELLER
+pubmatic.com, 137711, RESELLER
+pubmatic.com, 156212, RESELLER
+pubmatic.com, 62483, RESELLER
+contextweb.com, 558511, RESELLER
+pubmatic.com, 157074, DIRECT, 5d62403b186f2ace
+sonobi.com, a4cad4d5b4, DIRECT, d1a215d9eb5aee9e
+engagebdr.com, 10084, RESELLER, 
+pubmatic.com, 156183, RESELLER
+pubmatic.com, 156120, RESELLER
+gothamads.com, 260, RESELLER
+emxdgt.com, 547, RESELLER, 1e1d41537f7cad7f
+appnexus.com, 1356, RESELLER, f5ab79cb980f11d1
+rhythmone.com, 1059622079, RESELLER, a670c89d4a324e47
+openx.com, 537149762, RESELLER, 6a698e2ec38604c6
+contextweb.com, 560606, RESELLER, 89ff185a4c4e857c
+coxmt.com, 2000067997702, RESELLER
+google.com, pub-9101028344120439, DIRECT, f08c47fec0942fa0
+google.com, pub-4611899935608089, DIRECT, f08c47fec0942fa0
+google.com, pub-8212509451800358, DIRECT, f08c47fec0942fa0
+google.com, pub-4803189627699573, DIRECT, f08c47fec0942fa0
+google.com, pub-7375296681334816, DIRECT, f08c47fec0942fa0
+google.com, pub-9911415310076034, DIRECT, f08c47fec0942fa0
+google.com, pub-2129058704185656, DIRECT, f08c47fec0942fa0
+google.com, pub-1715114032045365, DIRECT, f08c47fec0942fa0

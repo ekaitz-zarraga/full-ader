@@ -1,0 +1,35 @@
+#ads.txt for tvgids.nl
+contact=salesinfo@tvgids.nl
+contact=//www.tvgids.nl/pagina/contact/
+improvedigital.com, 57, DIRECT
+appnexus.com, 7463, RESELLER
+google.com, pub-5854238349292660, RESELLER, f08c47fec0942fa0
+
+#Kalooga
+rubiconproject.com, 8335, RESELLER, 0bfd66d529a55807
+appnexus.com, 7463, RESELLER
+google.com, pub-5854238349292660, RESELLER, f08c47fec0942fa0
+appnexus.com, 329, RESELLER, f5ab79cb980f11d1
+
+#VMG
+vmg.host, 23, DIRECT
+
+#Seedtag
+appnexus.com, 4009, RESELLER #ST1
+smartadserver.com, 2699, RESELLER #ST1
+smartadserver.com, 2938, RESELLER #ST1
+advertising.com, 23286, RESELLER #ST1
+
+improvedigital.com, 73, DIRECT
+improvedigital.com, 1069, RESELLER
+
+pubmatic.com, 157368,DIRECT,5d62403b186f2ace
+seedtag.com, 3049-6011-01, DIRECT #ST0
+smartadserver.com, 3050, RESELLER #ST1
+rubiconproject.com, 17280, DIRECT, 0bfd66d529a55807 #ST1
+google.com, pub-8926653707597038, DIRECT, f08c47fec0942fa0
+google.com, pub-2859204820585993, DIRECT, f08c47fec0942fa
+
+#spotx (HB)
+spotxchange.com, 271308, RESELLER, 7842df1d2fe2db34
+spotx.tv, 271308, RESELLER, 7842df1d2fe2db34

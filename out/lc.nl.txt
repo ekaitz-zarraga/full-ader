@@ -1,0 +1,59 @@
+#Ads.txt NDC
+google.com, pub-8067784895638940, DIRECT
+google.com, pub-6658827813452693, DIRECT
+ligadx.com, 21122, DIRECT
+ligadx.com, 5a6272b671991b23, DIRECT
+rubiconproject.com, 17200, DIRECT
+google.com, pub-2678732374147763, DIRECT, f08c47fec0942fa0
+spotxchange.com, 140330, DIRECT, 7842df1d2fe2db34
+spotx.tv, 140330, DIRECT, 7842df1d2fe2db34
+pubmatic.com, 158647, DIRECT, 5d62403b186f2ace
+freewheel.tv, 796529, RESELLER
+freewheel.tv, 874417, RESELLER
+freewheel.tv, 837441, RESELLER
+freewheel.tv, 875137, RESELLER
+google.com, pub-6314268417882445, DIRECT, f08c47fec0942fa0
+google.com, pub-7945573751597009, DIRECT, f08c47fec0942fa0
+google.com, pub-5573040838680710, DIRECT, f08c47fec0942fa0
+google.com, pub-8076754774830443, DIRECT, f08c47fec0942fa0
+google.com, pub-6457413588024500, DIRECT, f08c47fec0942fa0
+spotxchange.com, 102387, DIRECT, 7842df1d2fe2db34
+spotxchange.com, 150897, DIRECT, 7842df1d2fe2db34
+spotx.tv, 102387,DIRECT, 7842df1d2fe2db34
+spotx.tv, 150897,DIRECT, 7842df1d2fe2db34
+Appnexus.com, 6924, RESELLER, f5ab79cb980f11d1
+advertising.com, 23286, RESELLER #ST1
+Appnexus.com, 2837, RESELLER
+appnexus.com, 4009, RESELLER #ST1
+exponential.com, 113970, RESELLER, afac06385c445926
+exponential.com, 134280, RESELLER, afac06385c445926 
+google.com, 11692722, RESELLER
+google.com, 188641398, RESELLER
+google.com, 222318952, RESELLER
+google.com, pub-1125154752855420, RESELLER
+google.com, pub-1999229258332821, RESELLER, f08c47fec0942fa0
+google.com, pub-2051007210431666, RESELLER, f08c47fec0942fa0
+google.com, pub-4632457065422564, RESELLER
+google.com, pub-8361984535421836, RESELLER, f08c47fec0942fa0
+improvedigital.com, 261, RESELLER
+indexexchange.com, 176280, RESELLER, 50b1c356f2c5c8fc
+pubmatic.com, 156098, RESELLER, 5d62403b186f2ace
+quantum-advertising.com, 953, RESELLER
+seedtag.com, 5780-9276-01, RESELLER #ST1
+smartadserver.com, 2699, RESELLER #ST1
+smartadserver.com, 2938, RESELLER #ST1
+smartclip.net, 8644, RESELLER
+spotx.tv, 109999, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 109999, RESELLER, 7842df1d2fe2db34
+teads.tv, 11212, RESELLER, 15a9c44f6d26cbe1
+teads.tv, 5579, RESELLER, 15a9c44f6d26cbe1
+teads.tv, 7364, RESELLER, 15a9c44f6d26cbe1
+tribalfusion.com, 113970, RESELLER, afac06385c445926
+tribalfusion.com, 134280, RESELLER, afac06385c445926 
+widespace.com, 3192, RESELLER
+openx.com, 540717744, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 158138, RESELLER, 5d62403b186f2ace
+google.com, pub-9386789909068249, RESELLER, f08c47fec0942fa0
+google.com, pub-7595310692783781, RESELLER, f08c47fec0942fa0
+pubmatic.com, 158374,DIRECT,5d62403b186f2ace
+themediagrid.com, BUCKJA, DIRECT, 35d5010d7789b49d

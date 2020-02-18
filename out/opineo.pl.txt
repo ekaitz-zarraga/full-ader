@@ -1,0 +1,49 @@
+# NT-1746213
+
+google.com, pub-1641094773980998, DIRECT, f08c47fec0942fa0
+pubmatic.com, 157199, DIRECT, 5d62403b186f2ace
+google.com, pub-4314242355228518, DIRECT, f08c47fec0942fa0
+google.com, pub-7793577536995585, DIRECT, f08c47fec0942fa0
+google.com, pub-5310645159024207, DIRECT, f08c47fec0942fa0
+google.com, pub-3179454501132977, DIRECT, f08c47fec0942fa0
+google.com, pub-4069369533017132, DIRECT, f08c47fec0942fa0
+google.com, pub-8329097311586633, DIRECT, f08c47fec0942fa0
+smartadserver.com, 386, DIRECT
+facebook.com, 10152810599233013, DIRECT, c3e20eee3f780d68
+pubmatic.com, 157177, DIRECT, 5d62403b186f2ace
+criteo.com, 957, RESELLER
+appnexus.com, 7823, RESELLER
+google.com, pub-5786819153313314, RESELLER
+teads.tv, 5632, RESELLER, 15a9c44f6d26cbe1
+teads.tv, 8674, RESELLER, 15a9c44f6d26cbe1
+smartadserver.com, 251, RESELLER
+yieldlab.net, 453131, RESELLER
+yieldlab.net, 227224, RESELLER
+freewheel.tv, 187377, RESELLER
+freewheel.tv, 212025, RESELLER
+amazon-adsystem.com, 3135, RESELLER
+google.com, pub-9378634550872293, DIRECT, f08c47fec0942fa0
+appnexus.com, 1789, RESELLER # GroupM
+appnexus.com, 2853, RESELLER # GroupM
+appnexus.com, 7338, RESELLER # GroupM
+google.com, pub-6124817398165792, DIRECT, f08c47fec0942fa0 # mlecznepodroze
+rubiconproject.com, 10163, DIRECT, 0bfd66d529a55807
+rubiconproject.com, 16114, RESELLER # tvn
+adform.com, 1305, RESELLER # tvn
+adform.com, 1933, RESELLER # tvn
+google.com, pub-4278860704973981, RESELLER, f08c47fec0942fa0 # tvn
+indexexchange.com, 179394, RESELLER # tvn
+smartadserver.com, 1740, RESELLER # tvn
+pubmatic.com, 156439, RESELLER # tvn
+pulsepoint.com, 560288, RESELLER # tvn
+openx.com, 537149888, RESELLER, a698e2ec38604c6 # tvn
+appnexus.com, 3958, DIRECT, f5ab79cb980f11d1
+adform.com, 2119, DIRECT, 9f5210a2f0999e32 # newPLN
+indexexchange.com, 185500, DIRECT
+teads.tv, 11511, RESELLER, 15a9c44f6d26cbe1
+netsprint.eu, 2, DIRECT
+netsprint.eu, 5138, DIRECT
+appnexus.com, 7491, RESELLER # GroupM
+indexexchange.com, 186436, DIRECT
+rubiconproject.com, 19076, DIRECT
+google.com, pub-5790708768696933, DIRECT, f08c47fec0942fa0

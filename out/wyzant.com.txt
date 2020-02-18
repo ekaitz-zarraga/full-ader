@@ -1,0 +1,21 @@
+#Ads.txt Wyzant.com
+
+google.com, pub-9590475550419649, DIRECT, f08c47fec0942fa0
+indexexchange.com, 183549, DIRECT
+rubiconproject.com, 13708, DIRECT
+openx.com, 537119862, DIRECT, 6a698e2ec38604c6
+appnexus.com, 3781, DIRECT
+sovrn.com, 237742, DIRECT, fafdf38b16bf6b2b
+lijit.com, 237742, DIRECT, fafdf38b16bf6b2b
+adtech.com, 10062, DIRECT
+aolcloud.net, 10062, DIRECT
+conversantmedia.com, 41132, DIRECT
+sharethrough.com, a43ce5ab, DIRECT, d53b998a7bd4ecd2
+
+#DistrictM
+districtm.io, 100721, DIRECT
+appnexus.com, 1908, RESELLER, f5ab79cb980f11d1
+
+#EBDA
+rubiconproject.com, 19556, DIRECT, 0bfd66d529a55807
+indexexchange.com, 188469, DIRECT, 50b1c356f2c5c8fc

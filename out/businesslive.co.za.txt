@@ -1,0 +1,30 @@
+#businesslive
+google.com, pub-4210548651990521, DIRECT, f08c47fec0942fa0
+google.com, pub-1624384907986172, DIRECT, f08c47fec0942fa0
+teads.tv, 11096, DIRECT, 15a9c44f6d26cbe1
+teads.tv, 11982, DIRECT, 15a9c44f6d26cbe1
+iow.thenewsroom.io, 1288508569, RESELLER
+google.com, pub-1676654324618609, RESELLER, f08c47fec0942fa0
+google.com, pub-7604846383524396, RESELLER, f08c47fec0942fa0
+appnexus.com, 1019, RESELLER
+appnexus.com, 2688, RESELLER
+openx.com, 537103367, RESELLER
+openx.com, 539707195, RESELLER
+sovrn.com, 231317, RESELLER, fafdf38b16bf6b2b
+lijit.com, 231317, RESELLER, fafdf38b16bf6b2b
+contextweb.com, 560621, RESELLER
+google.com, pub-1076181631997634, RESELLER, f08c47fec0942fa0
+google.com, pub-6205083306620034, RESELLER, f08c47fec0942fa0 
+rubiconproject.com, 15380, RESELLER
+pubmatic.com,157059,RESELLER,5d62403b186f2ace
+pubmatic.com,32223,RESELLER,5d62403b186f2ace
+rubiconproject.com, 7716, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 16696, RESELLER, 0bfd66d529a55807
+rubiconproject.com , 15202, RESELLER, 0bfd66d529a55807
+google.com, pub-2891925235861261, RESELLER, f08c47fec0942fa0
+
+#new vicinity
+indexexchange.com, 190473, RESELLER
+
+#oovvuu
+rubiconproject.com, 20246, RESELLER, 0bfd66d529a55807

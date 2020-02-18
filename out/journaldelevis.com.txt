@@ -1,0 +1,30 @@
+appnexus.com, 2437, DIRECT, f5ab79cb980f11d1
+
+google.com, pub-2632235952972226, DIRECT, f08c47fec0942fa0
+
+google.com, pub-1847030151454431, DIRECT, f08c47fec0942fa0
+
+google.com, pub-6873606674919521, DIRECT, f08c47fec0942fa0
+
+indexexchange.com, 184884, DIRECT, 50b1c356f2c5c8fc
+
+districtm.io, 101151, DIRECT
+appnexus.com, 1908, RESELLER, f5ab79cb980f11d1
+
+adtech.com, 10895, DIRECT
+coxmt.com, 2000067907202, RESELLER
+pubmatic.com, 156078, RESELLER
+pubmatic.com, 156377, RESELLER
+pubmatic.com, 155967, RESELLER
+openx.com, 537143344, RESELLER
+indexexchange.com, 175407, RESELLER
+openx.com, 537125356, RESELLER
+
+appnexus.com, 3153, RESELLER, f5ab79cb980f11d1
+adtech.com, 11095, Reseller
+connectad.io, 73, DIRECT
+pubmatic.com, 156077, RESELLER, 5d62403b186f2ace
+adform.com, 768, RESELLER
+contextweb.com, 560489, RESELLER, 89ff185a4c4e857c
+
+openx.com, 540471645, DIRECT, 6a698e2ec38604c6

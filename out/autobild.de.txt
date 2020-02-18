@@ -1,0 +1,113 @@
+######## Ads.txt 24.01.20
+freewheel.tv, 799841, RESELLER
+freewheel.tv, 799921, RESELLER
+aol.com, 53392, RESELLER
+rhythmone.com, 1166984029, RESELLER, a670c89d4a324e47
+smartadserver.com, 3563, RESELLER
+beachfront.com, 13749, RESELLER, e2541279e8e2ca4d
+advertising.com, 28458, RESELLER
+admanmedia.com, 556, RESELLER
+######## 
+
+
+######### Ads.txt Media Impact 28.1.20
+
+appnexus.com,7823,DIRECT,f5ab79cb980f11d1
+google.com,pub-5786819153313314,DIRECT,f08c47fec0942fa0
+teads.tv,5632,RESELLER,15a9c44f6d26cbe1
+teads.tv,8674,RESELLER,15a9c44f6d26cbe1
+yieldlab.net,453131,DIRECT
+yieldlab.net,227224,RESELLER
+aps.amazon.com, 3135, DIRECT #display
+aps.amazon.com, 3135, DIRECT #video
+openx.com,539948074,DIRECT,6a698e2ec38604c6
+openx.com, 540038340, DIRECT, 6a698e2ec38604c6
+smartadserver.com,251,DIRECT
+smartadserver.com,3571,DIRECT
+pubmatic.com,157222, DIRECT
+pubmatic.com, 156678, DIRECT
+indexexchange.com, 188480, DIRECT
+indexexchange.com, 188479, DIRECT
+rubiconproject.com, 19248, DIRECT, 0bfd66d529a55807
+rubiconproject.com, 10113, DIRECT, 0bfd66d529a55807
+triplelift.com, 5791-EB, DIRECT, 6c33edb13117fd86
+triplelift.com, 5791, DIRECT, 6c33edb13117fd86
+districtm.io, 101940, DIRECT, 3fd707be9c4527c3
+smaato.com, 1100004890, DIRECT, 07bcf65f187117b4
+
+smartclip.net, 8225, DIRECT #IPD
+smartclip.net, 11333, RESELLER #smartclip IPA
+google.com, pub-3057818873023700, RESELLER #Goldbach CH
+appnexus.com, 3741, RESELLER # Goldbach Appnexus
+appnexus.com, 9242, RESELLER # Goldbach Appnexus
+
+yieldlab.net, 2172218, RESELLER
+smartstream.tv,4135,RESELLER
+smartstream.tv,4137,RESELLER
+smartstream.tv,4133,RESELLER
+smartstream.tv,4747,RESELLER
+smartstream.tv,4371,RESELLER
+########
+
+######## Google Publisher ID 26.10.17
+google.com, pub-2557501611105071, DIRECT, f08c47fec0942fa0 
+########
+
+
+######## Google Publisher ID Vertical-Konto 21.1.19
+google.com, pub-4652277944828936, DIRECT, f08c47fec0942fa0
+########
+
+
+######## Taboola 21.12.2018
+taboola.com,1171643,DIRECT,c228e6794e811952
+spotx.tv,71451,RESELLER
+spotxchange.com, 71451, RESELLER
+advertising.com, 8603, RESELLER
+advertising.com, 3531, RESELLER
+pubmatic.com, 156307, RESELLER, 5d62403b186f2ace
+appnexus.com, 3364, RESELLER
+Indexexchange.com, 183756, RESELLER
+contextweb.com, 560382, RESELLER
+openx.com, 539154393, RESELLER
+tremorhub.com, z87wm, RESELLER, 1a4e959a1b50034a
+rubiconproject.com, 16698, RESELLER, 0bfd66d529a55807
+fyber.com, ad9de41d28d494354b23133f26f83122, RESELLER
+fyber.com, 1a12a7e3f84fe560ccf95a3a73043abb, RESELLER
+##########
+
+
+######## Addefend 15.3.19
+yieldlab.net, 2510891, RESELLER
+plista.com, 1023595, DIRECT 
+appnexus.com, 9999, DIRECT 
+appnexus.com, 7790, DIRECT
+########
+
+
+######## Ligatus 28.11.18
+ligadx.com,20216,DIRECT
+ligadx.com,e9124dc0db393207,DIRECT
+spotxchange.com,206177,RESELLER,7842df1d2fe2db34
+spotx.tv,206177,RESELLER,7842df1d2fe2db34
+########
+
+
+######## Outbrain 2.7.2018
+outbrain.com, 00d45c23c9906fc0170e710a7b69c9ab42, DIRECT
+outbrain.com, 00d45c23c9906fc0170e710a7b69c9ab42, RESELLER
+appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
+tremorhub.com, q017o-78mlk, RESELLER, 1a4e959a1b50034a # Premium video demand aka "Telaria"
+teads.tv, 15429, RESELLER, 15a9c44f6d26cbe1 # Premium video demand
+advertising.com, 26154, RESELLER # Premium video demand
+spotxchange.com, 225721, RESELLER # Premium video demand
+Freewheel.tv, 741650, RESELLER # Premium video demand
+########
+
+######## Vibrant 7.11.18
+vibrantmedia.com,19809,reseller
+appnexus.com,2154,reseller
+contextweb.com,561689,reseller,89ff185a4c4e857c
+criteo.com,146785,direct
+indexexchange.com, 184543, RESELLER
+########

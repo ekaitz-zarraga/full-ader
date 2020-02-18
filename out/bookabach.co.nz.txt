@@ -1,0 +1,28 @@
+google.com, pub-2294600853136549, DIRECT, f08c47fec0942fa0
+rubiconproject.com, 9286, DIRECT, 0bfd66d529a55807
+districtm.io, 101037, DIRECT
+districtm.io, 100505, DIRECT
+appnexus.com, 7944, RESELLER
+appnexus.com, 1908, RESELLER
+google.com, pub-9685734445476814, RESELLER, f08c47fec0942fa0
+indexexchange.com, 164445, DIRECT
+indexexchange.com, 185081, DIRECT
+sovrn.com, 46454, DIRECT, fafdf38b16bf6b2b
+lijit.com, 46454, DIRECT, fafdf38b16bf6b2b
+pubmatic.com, 28173, DIRECT, 5d62403b186f2ace
+pubmatic.com, 156263, DIRECT, 5d62403b186f2ace
+appnexus.com, 8536, DIRECT, f5ab79cb980f11d1
+aps.amazon.com, 3096, DIRECT #video
+aps.amazon.com, 3096, DIRECT #display
+openx.com, 539337061, DIRECT, 6a698e2ec38604c6
+openx.com, 539156871, DIRECT, 6a698e2ec38604c6
+google.com, pub-7917131156665881, RESELLER, f08c47fec0942fa0 #AdX MD
+google.com, pub-4183327129361780, RESELLER, f08c47fec0942fa0  #Adx NETLETIX MD - DFP EMEA 133475686
+yieldlab.net, 7238, RESELLER #Yieldlab MD
+yieldlab.net, 227224, RESELLER #Yieldlab Premium MD
+rubiconproject.com, 10888, RESELLER, 0bfd66d529a55807 #Rubicon MD
+openx.com, 539011885, RESELLER, 6a698e2ec38604c6 #OpenX MD
+c.amazon-adsystem.com, 3557, RESELLER #Amazon Werbenetzwerk MDM
+appnexus.com, 7158, RESELLER, f5ab79cb980f11d1 #NX AppNexus
+improvedigital.com, 807, RESELLER #Improve Digital NX
+indexexchange.com, 185978, RESELLER #Index Exchange NX

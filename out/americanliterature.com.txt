@@ -1,0 +1,18 @@
+# google -- original
+google.com, pub-2911220475939638, DIRECT, f08c47fec0942fa0
+google.com, pub-2911220475939638, RESELLER, f08c47fec0942fa0
+# amazon
+#amzn_assoc_linkid = "e695c1c152caf7aa3c3ebf7ea72298b7";
+amazon-adsystem.com, ####, DIRECT
+# sovrn section
+sovrn.com, 234529, DIRECT, fafdf38b16bf6b2b
+lijit.com, 234529, DIRECT, fafdf38b16bf6b2b
+openx.com, 537120960, RESELLER
+openx.com, 83499, RESELLER
+openx.com, 538959099, RESELLER
+pubmatic.com, 137711, RESELLER
+pubmatic.com, 156212, RESELLER
+pubmatic.com, 62483, RESELLER
+contextweb.com, 558511, RESELLER
+
+# ADD ANY CUSTOM ENTRY BELOW THIS LINE ONLY

@@ -1,0 +1,40 @@
+google.com, pub-1937576406332709, RESELLER, f08c47fec0942fa0
+google.com, pub-9113503962104695, DIRECT, f08c47fec0942fa0
+google.com, pub-7475939466736018, RESELLER, f08c47fec0942fa0
+google.com, pub-4485239425924787, DIRECT, f08c47fec0942fa0
+google.com, pub-4126554779393986, DIRECT, f08c47fec0942fa0
+google.com, pub-5501684430850655, RESELLER, f08c47fec0942fa0
+ucfunnel, par-D77BD382D27662DFBB6A2A9EA43EBB, DIRECT
+aralego.com, par-D77BD382D27662DFBB6A2A9EA43EBB, DIRECT
+clickforce.com.tw, 335, DIRECT
+appnexus.com, 7409, RESELLER
+rubiconproject.com, 17122, RESELLER, 0bfd66d529a55807
+google.com, pub-1937576406332709, DIRECT, f08c47fec0942fa0
+google.com, pub-8371749267191729, DIRECT, f08c47fec0942fa0
+google.com, pub-8371749267191729, RESELLER, f08c47fec0942fa0
+
+
+subdomain=supertaste.tvbs.com.tw
+subdomain=woman.tvbs.com.tw
+subdomain=shop.tvbs.com.tw
+subdomain=vip.tvbs.com.tw
+subdomain=campaign.tvbs.com.tw
+subdomain=2100.tvbs.com.tw
+subdomain=bellesshow.tvbs.com.tw
+subdomain=change.tvbs.com.tw
+subdomain=chinaing.tvbs.com.tw
+subdomain=drama.tvbs.com.tw
+subdomain=focus.tvbs.com.tw
+subdomain=girlsontour.tvbs.com.tw
+subdomain=gold-line.tvbs.com.tw
+subdomain=health.tvbs.com.tw
+subdomain=news.tvbs.com.tw
+subdomain=new-taiwan.tvbs.com.tw
+subdomain=people.tvbs.com.tw
+subdomain=people-like.tvbs.com.tw
+subdomain=showbiz.tvbs.com.tw
+subdomain=thessshow.tvbs.com.tw
+subdomain=t-viewpoint.tvbs.com.tw
+subdomain=weekendbirdmanshow.tvbs.com.tw
+subdomain=work.tvbs.com.tw
+subdomain=graphics.tvbs.com.tw

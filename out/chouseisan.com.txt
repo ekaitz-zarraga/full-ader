@@ -1,0 +1,96 @@
+# Mixtend Adsense
+google.com, pub-7514229464428510, DIRECT, f08c47fec0942fa0
+
+# fluct
+adingo.jp, 19132, DIRECT
+pubmatic.com, 156313, RESELLER, 5d62403b186f2ace
+google.com, pub-3859050685269056, RESELLER
+rubiconproject.com, 19064, RESELLER, 0bfd66d529a55807
+adingo.jp, 20070, RESELLER
+openx.com, 540397708, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 157589, RESELLER, 5d62403b186f2ace
+appnexus.com, 7044, RESELLER
+
+rubiconproject.com,11582,RESELLER,0bfd66d529a55807
+pubmatic.com,117297,RESELLER,5d62403b186f2ace
+pubmatic.com, 157486, RESELLER, 5d62403b186f2ace
+ad-generation.jp,10661,RESELLER
+google.com,pub-7391176573988274,RESELLER,f08c47fec0942fa0
+google.com,pub-5629443941074900,RESELLER,f08c47fec0942fa0
+adtech.com,9668,RESELLER
+aolcloud.net,9668,RESELLER
+openx.com,537143344,RESELLER
+appnexus.com,1226,RESELLER
+indexexchange.com,175407,RESELLER,50b1c356f2c5c8fc
+pubmatic.com,156530,RESELLER,5d62403b186f2ace
+appnexus.com,3663,RESELLER
+adingo.jp,11032,DIRECT
+microad.co.jp,11096,RESELLER
+openx.com,539468036,RESELLER
+ad-stir.com,1757,RESELLER
+rubiconproject.com,14032,RESELLER
+gmossp-sp.jp, 2000505, RESELLER
+proparm.jp,1811,RESELLER
+adtdp.com,2292,RESELLER
+as.amanad.adtdp.com,2292,RESELLER
+pubmatic.com, 157141, RESELLER, 5d62403b186f2ace
+
+indexexchange.com, 189575, RESELLER
+adingo.jp, 23317, RESELLER
+pubmatic.com, 156313, RESELLER, 5d62403b186f2ace
+
+ad-generation.jp,12283,RESELLER
+indexexchange.com,189076,RESELLER
+
+aps.amazon.com,138f2e02-8341-4255-b4f3-872c3ced0f91,DIRECT
+pubmatic.com,157150,RESELLER,5d62403b186f2ace
+openx.com,540191398,RESELLER,6a698e2ec38604c6
+rubiconproject.com,18020,RESELLER,0bfd66d529a55807
+appnexus.com,1908,RESELLER,f5ab79cb980f11d1
+adtech.com,12068,RESELLER,e1a5b5b6e3255540
+ad-generation.jp,12474,RESELLER
+districtm.io,100962,RESELLER,3fd707be9c4527c3
+rhythmone.com,1654642120,RESELLER,a670c89d4a324e47
+
+aja.vision,2292,RESELLER
+publishers.logicad.jp,XqMX,DIRECT
+
+# Geniee
+genieesspv.jp, 7477, DIRECT
+openx.com, 74938, RESELLER, 6a698e2ec38604c6
+openx.com, 140525, RESELLER, 6a698e2ec38604c6
+ad-stir.com, 5033, RESELLER
+adtech.com, 9715, RESELLER
+aolcloud.net,9715, RESELLER
+google.com, pub-5897179876377792, RESELLER, f08c47fec0942fa0
+google.com, pub-5897179876377792, RESELLER, f08c47fec0942fa0
+
+# i-mobile
+google.com, pub-2067800044730756, RESELLER , f08c47fec0942fa0
+i-mobile.co.jp,70160,DIRECT
+
+uliza.jp, 1439, DIRECT
+rubiconproject.com, 21088, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 21090, RESELLER, 0bfd66d529a55807
+pubmatic.com, 158338, RESELLER, 5d62403b186f2ace
+pubmatic.com, 158466, RESELLER, 5d62403b186f2ace
+adingo.jp, 20206, RESELLER
+ad-generation.jp, 12558, RESELLER
+
+# Outbrain
+outbrain.com, 005d75793f736f9042e188fa2f7c9ded68, DIRECT
+appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
+tremorhub.com, q017o-78mlk, RESELLER, 1a4e959a1b50034a # Premium video demand aka "Telaria"
+teads.tv, 15429, RESELLER, 15a9c44f6d26cbe1 # Premium video demand
+advertising.com, 26154, RESELLER # Premium video demand
+spotxchange.com, 225721, RESELLER # Premium video demand
+Freewheel.tv, 741650, RESELLER # Premium video demand
+rubiconproject.com, 17130, RESELLER, 0bfd66d529a55807 # Premium video demand
+lkqd.net, 450, RESELLER, 59c49fa9598a0117 # Premium video demand
+openx.com, 540393169, RESELLER, 6a698e2ec38604c6 # Premium video demand
+spotx.tv, 238936, RESELLER, 7842df1d2fe2db34 # Premium video demand
+spotxchange.com, 238936, RESELLER, 7842df1d2fe2db34 # Premium Video Demand
+advertising.com, 28038, RESELLER # Premium Video Demand
+rubiconproject.com, 19668, RESELLER, 0bfd66d529a55807
+
+

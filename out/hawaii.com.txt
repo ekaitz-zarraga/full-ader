@@ -1,0 +1,26 @@
+# Google DFP
+google.com, pub-9695435974299667, DIRECT, f08c47fec0942fa0
+google.com, pub-3238555218588439, RESELLER, f08c47fec0942fa0
+
+# Distroscale
+distroscale.com, 7268262490, DIRECT
+advertising.com, 10152, DIRECT
+appnexus.com, 7259, DIRECT
+contextweb.com, 560840, DIRECT, 89ff185a4c4e857c
+google.com, pub-3851171199385532, DIRECT, f08c47fec0942fa0
+google.com, pub-5028215366626589, DIRECT, f08c47fec0942fa0
+lkqd.net, 598, DIRECT, 59c49fa9598a0117
+openx.com, 537139075, DIRECT, 6a698e2ec38604c6
+openx.com, 540884769, DIRECT, 6a698e2ec38604c6
+openx.com, 540911068, DIRECT, 6a698e2ec38604c6
+pubmatic.com, 158001, DIRECT, 5d62403b186f2ace
+rubiconproject.com, 16578, DIRECT, 0bfd66d529a55807
+spotx.tv,119003, DIRECT, 7842df1d2fe2db34
+spotxchange.com, 119003, DIRECT,7842df1d2fe2db34
+telaria.com,2g9h1, DIRECT, 1a4e959a1b50034a
+tremorhub.com, 2g9h1, DIRECT, 1a4e959a1b50034a
+
+# Undertone
+undertone.com, 3820, DIRECT
+appnexus.com, 2234, RESELLER 
+openx.com, 537153564, RESELLER, 6a698e2ec38604c6

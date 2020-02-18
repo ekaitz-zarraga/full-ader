@@ -1,0 +1,87 @@
+#Ads.txt for Eye Popper Digital partners v.5
+google.com, pub-6545336992021839, DIRECT, f08c47fec0942fa0
+
+#Ads.txt DEFY Media
+appnexus.com, 1613, RESELLER
+appnexus.com, 3326, RESELLER
+google.com, pub-1409765517756851, RESELLER
+google.com, pub-4075894099602271, RESELLER
+freewheel.tv, 146081, RESELLER
+rubiconproject.com, 8861, RESELLER, 0bfd66d529a55807
+
+#Ads.txt IndexExchange:
+indexexchange.com, 183191, DIRECT, 50b1c356f2c5c8fc
+
+#Ads.txt 33across.com:
+33across.com, 33, DIRECT
+google.com, pub-9557089510405422, RESELLER, f08c47fec0942fa0
+appnexus.com, 1001, RESELLER
+appnexus.com, 3135, RESELLER
+spotxchange.com, 139883, RESELLER, 7842df1d2fe2db34
+spotx.tv, 139883, RESELLER, 7842df1d2fe2db34
+openx.com, 537120563, RESELLER
+amazon.com, 3411, RESELLER
+lkqd.com, 293, RESELLER
+lkqd.net, 293, RESELLER
+adtech.com, 9993, RESELLER
+aolcloud.net, 9993, RESELLER
+rubiconproject.com, 16414, RESELLER
+criteo.com, 3450, RESELLER
+indexexchange.com, 185506, RESELLER
+
+#Ads.txt bRealtime:
+emxdgt.com, 85, DIRECT, 1e1d41537f7cad7f
+google.com,  pub-5995202563537249, DIRECT, f5ab79cb980f11d1
+appnexus.com, 1356, DIRECT, f08c47fec0942fa0
+
+#Ads.txt Sovrn:
+sovrn.com, 231883, RESELLER, fafdf38b16bf6b2b
+lijit.com, 231883, RESELLER, fafdf38b16bf6b2b
+
+#Ads.txt RhythmOne:
+rhythmone.com,3709112943,RESELLER,a670c89d4a324e47
+1rx.io,3709112943,RESELLER,a670c89d4a324e47
+
+#Ads.txt Aol-Oath:
+adtech.com, 9872, DIRECT
+aolcloud.net, 9872, DIRECT
+
+#Ads.txt District M:
+districtm.io, 100355, DIRECT
+appnexus.com, 7944, RESELLER
+appnexus.com, 1908, RESELLER
+google.com, pub-9685734445476814, RESELLER, f08c47fec0942fa0
+
+#Ads.txt OpenX:
+openx.com, 537100777, DIRECT, a698e2ec38604c6
+
+#Ads.txt Pulsepoint:
+contextweb.com, 560755, DIRECT
+
+#Ads.txt Underdog Media:
+adtech.com, 10483, RESELLER
+aolcloud.net, 10483, RESELLER
+appnexus.com, 1610, RESELLER, f5ab79cb980f11d1
+appnexus.com, 7874, RESELLER, f5ab79cb980f11d1
+contextweb.com, 508738, RESELLER
+lijit.com, 57529, RESELLER, fafdf38b16bf6b2b
+openx.com, 537124574, RESELLER, 6a698e2ec38604c6
+sonobi.com, 5fa6044d8d, RESELLER
+sovrn.com, 57529, RESELLER, fafdf38b16bf6b2b
+udmserve.net, 12111, DIRECT
+
+#Ads.txt Conversant:
+conversantmedia.com, 39463, DIRECT
+
+#Ads.txt Sharethrough:
+sharethrough.com, faf82520, DIRECT, d53b998a7bd4ecd2
+
+#Ads.txt SublimeSkinz Network
+smartadserver.com, 1827, RESELLER
+improvedigital.com, 335, RESELLER
+appnexus.com, 3538, RESELLER
+appnexus.com, 3539, RESELLER
+appnexus.com, 3540, RESELLER
+
+#Ads.txt JustPremium
+improvedigital.com, 185, RESELLER	spotx.tv, 108933, RESELLER, 7842df1d2fe2db34spotxchange.com, 108933, RESELLER, 7842df1d2fe2db34appnexus.com, 7118, RESELLER	openx.com, 537117145, RESELLER,	6a698e2ec38604c6

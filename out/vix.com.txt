@@ -1,0 +1,522 @@
+google.com, pub-8221655596435860, DIRECT, f08c47fec0942fa0    # Google Adx - Vix (US) - display & video
+google.com, pub-6673256698280085, DIRECT, f08c47fec0942fa0    # Google Adsense - Vix (US) - banner
+google.com, pub-8305163343394545, DIRECT, f08c47fec0942fa0    # Google Adsense - Vix Crovat (US) - banner
+
+appnexus.com, 2532, DIRECT    # AppNexus (US) - display & video
+
+indexexchange.com, 183695, DIRECT    # IndexExchange (US) - display & video
+indexexchange.com, 187796, DIRECT, 50b1c356f2c5c8fc    # IndexExchange (US) - display & video
+
+rubiconproject.com, 13274, DIRECT, 0bfd66d529a55807    # Rubicon (US) - display & video
+
+rubiconproject.com, 13024, DIRECT, 0bfd66d529a55807    # Rubicon (BR) - display & video
+
+rubiconproject.com, 18724, DIRECT, 0bfd66d529a55807    # Rubicon EB - display & video
+
+aps.amazon.com,0b488fee-bbab-4f9f-bb41-a4437f3578e2,DIRECT    # Amazon - display
+pubmatic.com,157150,RESELLER,5d62403b186f2ace    # Amazon - display
+openx.com,540191398,RESELLER,6a698e2ec38604c6    # Amazon - display
+rubiconproject.com,18020,RESELLER,0bfd66d529a55807    # Amazon - display
+appnexus.com,1908,RESELLER,f5ab79cb980f11d1    # Amazon - display
+adtech.com,12068,RESELLER,e1a5b5b6e3255540    # Amazon - display
+ad-generation.jp,12474,RESELLER    # Amazon - display
+districtm.io,100962,RESELLER,3fd707be9c4527c3    # Amazon - display
+appnexus.com,3663,RESELLER,f5ab79cb980f11d1    # Amazon - display
+rhythmone.com,1654642120,RESELLER,a670c89d4a324e47    # Amazon - display
+
+spotxchange.com, 227214, DIRECT, 7842df1d2fe2db34    # SpotX - US - video
+spotx.tv, 227214, DIRECT, 7842df1d2fe2db34    # SpotX - US - video
+
+teads.tv, 15664, DIRECT, 15a9c44f6d26cbe1    # Teads (BR) - display & video
+teads.tv, 11540, DIRECT, 15a9c44f6d26cbe1    # Teads (US) - display & video
+teads.tv, 15434, DIRECT, 15a9c44f6d26cbe1    # Teads (US) - display & video
+
+taboola.com,1135696,DIRECT,c228e6794e811952    # Taboola (VIX PT) - native
+spotx.tv,71451,RESELLER    # Taboola (VIX PT) - video
+spotxchange.com, 71451, RESELLER    # Taboola (VIX PT) - video
+advertising.com, 8603, RESELLER    # Taboola (VIX PT) - video
+advertising.com, 3531, RESELLER    # Taboola (VIX PT) - video
+pubmatic.com, 156307, RESELLER, 5d62403b186f2ace    # Taboola (VIX PT) - video
+appnexus.com, 3364, RESELLER    # Taboola (VIX PT) - video
+Indexexchange.com, 183756, RESELLER    # Taboola (VIX PT) - video
+contextweb.com, 560382, RESELLER    # Taboola (VIX PT) - video
+openx.com, 539154393, RESELLER    # Taboola (VIX PT) - video
+tremorhub.com, z87wm, RESELLER, 1a4e959a1b50034a    # Taboola (VIX PT) - video
+rubiconproject.com, 16698, RESELLER, 0bfd66d529a55807    # Taboola (VIX PT) - video
+fyber.com, ad9de41d28d494354b23133f26f83122, RESELLER    # Taboola (VIX PT) - video
+fyber.com, 1a12a7e3f84fe560ccf95a3a73043abb, RESELLER    # Taboola (VIX PT) - video
+freewheel.tv, 799841, RESELLER    # Taboola (VIX PT) - video
+freewheel.tv, 799921, RESELLER    # Taboola (VIX PT) - video
+inmobi.com, a985e39014a94721a8e97c929d32ef9d, RESELLER, 83e75a7ae333ca9d    # Taboola (VIX PT) - video
+smartadserver.com, 3563, RESELLER    # Taboola (VIX PT) - video
+pubnative.net, 1007180, RESELLER, d641df8625486a7b    # Taboola (VIX PT) - video
+beachfront.com, 13749, RESELLER, e2541279e8e2ca4d    # Taboola (VIX PT) - video
+advertising.com, 28458, RESELLER    # Taboola (VIX PT) - video
+admanmedia.com, 556, RESELLER    # Taboola (VIX PT) - video
+aol.com, 53392, RESELLER    # Taboola (VIX PT) - video
+rhythmone.com, 1166984029, RESELLER, a670c89d4a324e47    # Taboola (VIX PT) - video
+
+taboola.com,1157984,DIRECT,c228e6794e811952    # Taboola (VIX ES) - video
+
+openx.com, 540208222,DIRECT, 6a698e2ec38604c6    # OpenX HB - display & video
+openx.com, 540224058, DIRECT, 6a698e2ec38604c6    # OpenX EB - display & video
+openx.com, 540334861,DIRECT, 6a698e2ec38604c6    # OpenX HB - video
+
+pubmatic.com, 157162, DIRECT, 5d62403b186f2ace    # Pubmatic - display & video
+pubmatic.com, 157167, DIRECT, 5d62403b186f2ace    # Pubmatic - display & video
+
+sovrn.com, 263718, DIRECT, fafdf38b16bf6b2b    # Sovrn (US) - display & video
+lijit.com, 263718, DIRECT, fafdf38b16bf6b2b    # Sovrn (US) - banner
+appnexus.com, 1360, RESELLER, f5ab79cb980f11d1    # Sovrn (US) - banner
+gumgum.com, 11645, RESELLER, ffdef49475d318a9    # Sovrn (US) - banner
+openx.com, 538959099, RESELLER, 6a698e2ec38604c6    # Sovrn (US) - banner
+openx.com, 539924617, RESELLER, 6a698e2ec38604c6    # Sovrn (US) - banner
+pubmatic.com, 137711, RESELLER, 5d62403b186f2ace    # Sovrn (US) - banner
+pubmatic.com, 156212, RESELLER, 5d62403b186f2ace    # Sovrn (US) - banner
+pubmatic.com, 156700, RESELLER, 5d62403b186f2ace    # Sovrn (US) - banner
+rubiconproject.com, 17960, RESELLER, 0bfd66d529a55807    # Sovrn (US) - banner
+
+media.net, 8CUAJO85Y, Direct    # Media.net (US) - display & video
+
+triplelift.com, 5784, DIRECT, 6c33edb13117fd86    # TripleLift - banner
+appnexus.com, 1314, RESELLER    # TripleLift - banner
+spotxchange.com, 228454, RESELLER, 7842df1d2fe2db34    # TripleLift - banner
+spotx.tv, 228454, RESELLER, 7842df1d2fe2db34    # TripleLift - banner
+lkqd.net, 504, RESELLER, 59c49fa9598a0117    # TripleLift - banner
+
+google.com, pub-1108628623474346, DIRECT, f08c47fec0942fa0    # Discovery Latam & Brasil - banner & video
+
+altitude-arena.com, V1D1UVPQED5R76GVFST77ETJTK, DIRECT    # Column6 - Altitude-Arena - video
+
+google.com, pub-8469965667274063, RESELLER, f08c47fec0942fa0 #display #video    # Relap.pro - Display & Video
+google.com, pub-1724616865008460, RESELLER, f08c47fec0942fa0 #display #video    # Relap.pro - Display & Video
+advertising.com, 21777, RESELLER #video    # Relap.pro - Display & Video
+adtech.com, 10990, RESELLER #display    # Relap.pro - Display & Video
+aps.amazon.com, cbd6f0c1-b37c-4bfa-8a01-8d245df70c15, DIRECT #display    # Relap.pro - Display & Video
+pubmatic.com,157150, RESELLER, 5d62403b186f2ace #display    # Relap.pro - Display & Video
+openx.com, 540191398, RESELLER, 6a698e2ec38604c6 #display    # Relap.pro - Display & Video
+rubiconproject.com,18020, RESELLER, 0bfd66d529a55807  #display    # Relap.pro - Display & Video
+appnexus.com, 1908, RESELLER, f5ab79cb980f11d1 #display    # Relap.pro - Display & Video
+rhythmone.com,1654642120, RESELLER, a670c89d4a324e47  #display    # Relap.pro - Display & Video
+adtech.com,12068,RESELLER #display    # Relap.pro - Display & Video
+districtm.io, 100962, RESELLER #display    # Relap.pro - Display & Video
+ad-generation.jp, 12474, RESELLER #display    # Relap.pro - Display & Video
+appnexus.com, 9867, DIRECT, f5ab79cb980f11d1 #display #video    # Relap.pro - Display & Video
+spotxchange.com, 230805, DIRECT, 7842df1d2fe2db34 #video    # Relap.pro - Display & Video
+spotx.tv, 230805, DIRECT, 7842df1d2fe2db34 #video    # Relap.pro - Display & Video
+pubmatic.com, 158120, DIRECT, 5d62403b186f2ace #display #video    # Relap.pro - Display & Video
+criteo.com, 179713, DIRECT #display    # Relap.pro - Display & Video
+contextweb.com, 561115, RESELLER, 89ff185a4c4e857c    # Relap.pro - Display & Video
+smartadserver.com, 3286, RESELLER    # Relap.pro - Display & Video
+contextweb.com, 560288, RESELLER, 89ff185a4c4e857c    # Relap.pro - Display & Video
+pubmatic.com, 156439, RESELLER, 5d62403b186f2ace    # Relap.pro - Display & Video
+pubmatic.com, 154037, RESELLER, 5d62403b186f2ace    # Relap.pro - Display & Video
+pubmatic.com, 156030, RESELLER, 5d62403b186f2ace    # Relap.pro - Display & Video
+rubiconproject.com, 16114, RESELLER, 0bfd66d529a55807    # Relap.pro - Display & Video
+rubiconproject.com, 13132, RESELLER, 0bfd66d529a55807    # Relap.pro - Display & Video
+openx.com, 537149888, RESELLER, 6a698e2ec38604c6    # Relap.pro - Display & Video
+sovrn.com, 257611, RESELLER, fafdf38b16bf6b2b    # Relap.pro - Display & Video
+appnexus.com, 3703, RESELLER, f5ab79cb980f11d1    # Relap.pro - Display & Video
+groundtruth.com, 107, RESELLER, 81cbf0a75a5e0e9a    # Relap.pro - Display & Video
+districtm.io, 101760, RESELLER, 3fd707be9c4527c3    # Relap.pro - Display & Video
+loopme.com, s-2411, RESELLER, 6c8d5f95897a5a3b    # Relap.pro - Display & Video
+loopme.com, 5679, RESELLER, 6c8d5f95897a5a3b    # Relap.pro - Display & Video
+sunmedia.tv, 101, DIRECT, 24794F6    # Relap.pro - Display & Video
+spotxchange.com, 202100, RESELLER, 7842df1d2fe2db34    # Relap.pro - Display & Video
+spotx.tv, 202100, RESELLER, 7842df1d2fe2db34    # Relap.pro - Display & Video
+google.com, pub-8221793852898543, RESELLER, f08c47fec0942fa0    # Relap.pro - Display & Video
+google.com, pub-1968276357835282, RESELLER, f08c47fec0942fa0    # Relap.pro - Display & Video
+tremorhub.com, cpu32-92xut, RESELLER, 1a4e959a1b50034a    # Relap.pro - Display & Video
+pubmatic.com, 156136, RESELLER, 5d62403b186f2ace    # Relap.pro - Display & Video
+pubmatic.com, 156509, RESELLER, 5d62403b186f2ace    # Relap.pro - Display & Video
+smartadserver.com, 1999, RESELLER    # Relap.pro - Display & Video
+smartadserver.com, 3374, RESELLER    # Relap.pro - Display & Video
+richaudience.com, 06EhCbcfZK, DIRECT    # Relap.pro - Display & Video
+smartadserver.com, 2951, RESELLER    # Relap.pro - Display & Video
+freewheel.tv, 435713, RESELLER    # Relap.pro - Display & Video
+freewheel.tv, 435777, RESELLER    # Relap.pro - Display & Video
+adform.com, 1941, RESELLER    # Relap.pro - Display & Video
+adform.com, 1942, RESELLER    # Relap.pro - Display & Video
+advertising.com, 7574, RESELLER    # Relap.pro - Display & Video
+aol.com, 46658, RESELLER    # Relap.pro - Display & Video
+aol.com, 27093, RESELLER    # Relap.pro - Display & Video
+aolcloud.net, 4687, RESELLER    # Relap.pro - Display & Video
+appnexus.com, 8233, RESELLER, f5ab79cb980f11d1    # Relap.pro - Display & Video
+appnexus.com, 2928, RESELLER, f5ab79cb980f11d1    # Relap.pro - Display & Video
+mobfox.com, 74240, RESELLER    # Relap.pro - Display & Video
+mobfox.com, 45499, RESELLER    # Relap.pro - Display & Video
+openx.com, 539625136, RESELLER, 6a698e2ec38604c6    # Relap.pro - Display & Video
+pubmatic.com, 81564, RESELLER, 5d62403b186f2ace    # Relap.pro - Display & Video
+pubmatic.com, 156538, RESELLER, 5d62403b186f2ace    # Relap.pro - Display & Video
+smartadserver.com, 2640, RESELLER    # Relap.pro - Display & Video
+smartadserver.com, 2441, RESELLER    # Relap.pro - Display & Video
+rubiconproject.com, 13510, RESELLER, 0bfd66d529a55807    # Relap.pro - Display & Video
+google.com, pub-4673227357197067, RESELLER, f08c47fec0942fa0    # Relap.pro - Display & Video
+google.com, pub-9115524111147081, RESELLER, f08c47fec0942fa0    # Relap.pro - Display & Video
+appnexus.com, 1199, RESELLER, f5ab79cb980f11d1    # Relap.pro - Display & Video
+openx.com, 540796952, RESELLER, 6a698e2ec38604c6    # Relap.pro - Display & Video
+google.com, pub-5041886492880162, RESELLER, f08c47fec0942fa0    # Relap.pro - Display & Video
+google.com, pub-1490961421801363, RESELLER, f08c47fec0942fa0    # Relap.pro - Display & Video
+smartadserver.com, 2597, RESELLER    # Relap.pro - Display & Video
+smartadserver.com, 3459, RESELLER    # Relap.pro - Display & Video
+spotxchange.com, 149668, RESELLER, 7842df1d2fe2db34    # Relap.pro - Display & Video
+spotx.tv, 149668, RESELLER, 7842df1d2fe2db34    # Relap.pro - Display & Video
+advertising.com, 12171, RESELLER    # Relap.pro - Display & Video
+tremorhub.com, 51vtw, RESELLER, 1a4e959a1b50034a    # Relap.pro - Display & Video
+google.com, pub-5405744859927315, RESELLER, f08c47fec0942fa0    # Relap.pro - Display & Video
+lkqd.net, 464, RESELLER, 59c49fa9598a0117    # Relap.pro - Display & Video
+lkqd.com, 464, RESELLER, 59c49fa9598a0117    # Relap.pro - Display & Video
+freewheel.tv, 867601, RESELLER    # Relap.pro - Display & Video
+freewheel.tv, 867617, RESELLER    # Relap.pro - Display & Video
+google.com, pub-1719633316796094, DIRECT, f08c47fec0942fa0    # Relap.pro - Display & Video
+rubiconproject.com, 16720, RESELLER, 0bfd66d529a55807    # Relap.pro - Display & Video
+undertone.com, 3734, DIRECT    # Relap.pro - Display & Video
+appnexus.com, 2234, RESELLER, f5ab79cb980f11d1    # Relap.pro - Display & Video
+openx.com, 537153564, RESELLER, 6a698e2ec38604c6    # Relap.pro - Display & Video
+appnexus, 2764, RESELLER    # Relap.pro - Display & Video
+rhythmone.com, 4107953657, RESELLER, a670c89d4a324e47    # Relap.pro - Display & Video
+google.com, pub-7995104076770938, DIRECT, f08c47fec0942fa0    # Relap.pro - Display & Video
+appnexus.com, 8790, DIRECT, f5ab79cb980f11d1    # Relap.pro - Display & Video
+indexexchange.com, 187924, DIRECT, 50b1c356f2c5c8fc    # Relap.pro - Display & Video
+indexexchange.com, 189458, DIRECT, 50b1c356f2c5c8fc    # Relap.pro - Display & Video
+lkqd.net, 282, RESELLER, 59c49fa9598a0117    # Relap.pro - Display & Video
+lkqd.com, 282, RESELLER, 59c49fa9598a0117    # Relap.pro - Display & Video
+openx.com, 540322758, DIRECT, 6a698e2ec38604c6    # Relap.pro - Display & Video
+pubmatic.com, 157102, DIRECT, 5d62403b186f2ace    # Relap.pro - Display & Video
+pubmatic.com, 157163, DIRECT, 5d62403b186f2ace    # Relap.pro - Display & Video
+pubmatic.com, 157752, DIRECT, 5d62403b186f2ace    # Relap.pro - Display & Video
+rubiconproject.com, 13894, RESELLER, 0bfd66d529a55807    # Relap.pro - Display & Video
+rubiconproject.com, 18008, RESELLER, 0bfd66d529a55807    # Relap.pro - Display & Video
+sovrn.com, 247572, DIRECT, fafdf38b16bf6b2b    # Relap.pro - Display & Video
+lijit.com, 247572, DIRECT, fafdf38b16bf6b2b    # Relap.pro - Display & Video
+spotxchange.com, 148395, RESELLER, 7842df1d2fe2db34    # Relap.pro - Display & Video
+spotx.tv, 148395, RESELLER, 7842df1d2fe2db34    # Relap.pro - Display & Video
+tremorhub.com, ey5io-qyxzx, RESELLER, 1a4e959a1b50034a    # Relap.pro - Display & Video
+telaria.com, ey5io-qyxzx, RESELLER, 1a4e959a1b50034a    # Relap.pro - Display & Video
+telaria.com, ey5io-lh3dl, RESELLER, 1a4e959a1b50034a    # Relap.pro - Display & Video
+tremorhub.com, ey5io-lh3dl, RESELLER, 1a4e959a1b50034a    # Relap.pro - Display & Video
+
+adtech.com, 10775, Direct    # Verizon - Display & Video
+Advertising.com, 24946, Direct    # Verizon - Display & Video
+
+smartadserver.com, 3600, DIRECT    # Smart - Display & Video
+contextweb.com, 560288, RESELLER, 89ff185a4c4e857c    # Smart - Display & Video
+pubmatic.com, 156439, RESELLER    # Smart - Display & Video
+pubmatic.com, 154037, RESELLER    # Smart - Display & Video
+rubiconproject.com, 16114, RESELLER, 0bfd66d529a55807    # Smart - Display & Video
+openx.com, 537149888, RESELLER, 6a698e2ec38604c6    # Smart - Display & Video
+appnexus.com, 3703, RESELLER, f5ab79cb980f11d1    # Smart - Display & Video
+districtm.io, 101760, RESELLER, 3fd707be9c4527c3    # Smart - Display & Video
+loopme.com, s-2411, RESELLER, 6c8d5f95897a5a3b    # Smart - Display & Video
+loopme.com, 5679, RESELLER, 6c8d5f95897a5a3b    # Smart - Display & Video
+xad.com, 958, RESELLER, 81cbf0a75a5e0e9a    # Smart - Display & Video
+rhythmone.com, 2564526802, RESELLER, a670c89d4a324e47    # Smart - Display & Video
+smaato.com, 1100044045, RESELLER, 07bcf65f187117b4    # Smart - Display & Video
+pubnative.net, 1006576, RESELLER, d641df8625486a7b    # Smart - Display & Video
+adyoulike.com, b4bf4fdd9b0b915f746f6747ff432bde, RESELLER    # Smart - Display & Video
+
+rubiconproject.com, 18224, RESELLER, 0bfd66d529a55807    # Scroller Ads - Display & Video
+beachfront.com, 5003, DIRECT, e2541279e8e2ca4d    # Scroller Ads - Display & Video
+contextweb.com, 559969, RESELLER, 89ff185a4c4e857c    # Scroller Ads - Display & Video
+pubmatic.com, 157562, DIRECT, 5d62403b186f2ace    # Scroller Ads - Display & Video
+pubmatic.com, 158364, DIRECT, 5d62403b186f2ace    # Scroller Ads - Display & Video
+pubmatic.com, 158364, RESELLER, 5d62403b186f2ace    # Scroller Ads - Display & Video
+telaria.com, qc8tl-ehp3i, RESELLER, 1a4e959a1b50034a    # Scroller Ads - Display & Video
+tremorhub.com, qc8tl-ehp3i, RESELLER, 1a4e959a1b50034a    # Scroller Ads - Display & Video
+improvedigital.com, 1202, RESELLER    # Scroller Ads - Display & Video
+spotxchange.com, 119135, RESELLER, 7842df1d2fe2db34    # Scroller Ads - Display & Video
+spotx.tv, 119135, RESELLER, 7842df1d2fe2db34    # Scroller Ads - Display & Video
+advertising.com, 25001, RESELLER, e1a5b5b6e3255540    # Scroller Ads - Display & Video
+contextweb.com, 557461, DIRECT, 89ff185a4c4e857c    # Scroller Ads - Display & Video
+smartadserver.com, 1894, RESELLER    # Scroller Ads - Display & Video
+smartadserver.com, 3445, RESELLER    # Scroller Ads - Display & Video
+contextweb.com, 560288, RESELLER, 89ff185a4c4e857c    # Scroller Ads - Display & Video
+rubiconproject.com, 16114, RESELLER, 0bfd66d529a55807    # Scroller Ads - Display & Video
+rubiconproject.com, 13132, RESELLER, 0bfd66d529a55807    # Scroller Ads - Display & Video
+openx.com, 537149888, RESELLER, 6a698e2ec38604c6    # Scroller Ads - Display & Video
+sovrn.com, 257611, RESELLER, fafdf38b16bf6b2b    # Scroller Ads - Display & Video
+appnexus.com, 3703, RESELLER, f5ab79cb980f11d1    # Scroller Ads - Display & Video
+google.com,pub-4770346047043508,RESELLER    # Scroller Ads - Display & Video
+spotxchange.com, 243239, RESELLER, 7842df1d2fe2db34    # Scroller Ads - Display & Video
+spotx.tv, 243239, RESELLER, 7842df1d2fe2db34    # Scroller Ads - Display & Video
+tritondigital.com, 25853, DIRECT, 19b4454d0b87b58b    # Scroller Ads - Display & Video
+smartadserver.com, 2703, RESELLER    # Scroller Ads - Display & Video
+entravision.com, 000600, DIRECT    # Scroller Ads - Display & Video
+
+rhythmone.com,944192521,DIRECT,a670c89d4a324e47    # RythmOne - video
+
+viads.co, 101865, DIRECT    # Viads - video
+adtelligent.com, 304426, direct, 7de89dc7742b5b11    # Viads - video
+adtelligent.com, 304426, reseller, 7de89dc7742b5b11    # Viads - video
+adform.com, 622, RESELLER    # Viads - video
+adform.com, 1226, RESELLER    # Viads - video
+adform.com, 1721, RESELLER, 9f5210a2f0999e32    # Viads - video
+adform.com, 1819, RESELLER, 9f5210a2f0999e32    # Viads - video
+adform.com, 1943, RESELLER    # Viads - video
+adform.com, 2110, RESELLER    # Viads - video
+adform.com, 2112, RESELLER    # Viads - video
+adtech.com, 4812, RESELLER    # Viads - video
+adtech.com, 11262, RESELLER    # Viads - video
+advertising.com, 24324, RESELLER    # Viads - video
+aolcloud.net, 4812, RESELLER    # Viads - video
+appnexus.com, 956, RESELLER, f5ab79cb980f11d1    # Viads - video
+appnexus.com, 1785, RESELLER, f5ab79cb980f11d1    # Viads - video
+appnexus.com, 3703, RESELLER, f5ab79cb980f11d1    # Viads - video
+appnexus.com, 3723, RESELLER    # Viads - video
+appnexus.com, 9986, RESELLER, f5ab79cb980f11d1    # Viads - video
+appnexus.com, 10039, RESELLER    # Viads - video
+contextweb.com, 560288, RESELLER, 89ff185a4c4e857c    # Viads - video
+contextweb.com, 560577, RESELLER, 89ff185a4c4e857c    # Viads - video
+coull.com, 13704, RESELLER    # Viads - video
+coxmt.com, 2000067907202, RESELLER    # Viads - video
+freewheel.tv, 13755, RESELLER    # Viads - video
+freewheel.tv, 13945, RESELLER    # Viads - video
+freewheel.tv, 328705, RESELLER    # Viads - video
+freewheel.tv, 328721, RESELLER    # Viads - video
+freewheel.tv, 709730, RESELLER    # Viads - video
+freewheel.tv, 770769, RESELLER    # Viads - video
+freewheel.tv, 770785, RESELLER    # Viads - video
+freewheel.tv, 962145, RESELLER    # Viads - video
+freewheel.tv, 962209, RESELLER    # Viads - video
+freewheel.tv, 1000577, RESELLER    # Viads - video
+improvedigital.com, 907, RESELLER    # Viads - video
+improvedigital.com, 1057, RESELLER    # Viads - video
+improvedigital.com, 1225, RESELLER    # Viads - video
+improvedigital.com, 1227, RESELLER    # Viads - video
+indexexchange.com, 175407, RESELLER    # Viads - video
+indexexchange.com, 186765, RESELLER    # Viads - video
+ligadx.com, 22630, RESELLER    # Viads - video
+ligadx.com, e17a1544ba3bdb8d, RESELLER    # Viads - video
+lkqd.com, 423, RESELLER, 59c49fa9598a0117    # Viads - video
+lkqd.net, 140, RESELLER, 59c49fa9598a0117    # Viads - video
+mediabong.com, 2752, RESELLER    # Viads - video
+mgid.com, 399641, RESELLER, d4c29acad76ce94f    # Viads - video
+onetag.com, 38980b46b0, RESELLER    # Viads - video
+openx.com, 537125356, RESELLER    # Viads - video
+openx.com, 537143344, RESELLER    # Viads - video
+openx.com, 537149888, RESELLER, 6a698e2ec38604c6    # Viads - video
+openx.com, 540022851, RESELLER, 6a698e2ec38604c6    # Viads - video
+pubmatic.com, 73785, RESELLER, 5d62403b186f2ace    # Viads - video
+pubmatic.com, 120391, RESELLER, 5d62403b186f2ace    # Viads - video
+pubmatic.com, 154037, RESELLER    # Viads - video
+pubmatic.com, 156078, RESELLER    # Viads - video
+pubmatic.com, 156377, RESELLER    # Viads - video
+pubmatic.com, 156439, RESELLER    # Viads - video
+pubmatic.com, 156962, RESELLER, 5d62403b186f2ace    # Viads - video
+rubiconproject.com, 13258, RESELLER, 0bfd66d529a55807    # Viads - video
+rubiconproject.com, 16114, RESELLER, 0bfd66d529a55807    # Viads - video
+rubiconproject.com, 16568, RESELLER, 0bfd66d529a55807    # Viads - video
+rubiconproject.com, 16824, RESELLER, 0bfd66d529a55807    # Viads - video
+rubiconproject.com, 19620, RESELLER, 0bfd66d529a55807    # Viads - video
+rubiconproject.com, 21070, RESELLER, 0bfd66d529a55807    # Viads - video
+smartadserver.com, 2058, RESELLER    # Viads - video
+smartadserver.com, 3094, RESELLER    # Viads - video
+smartadserver.com, 3296, RESELLER    # Viads - video
+smartclip.net, 10720, RESELLER    # Viads - video
+sovrn.com, 257611, RESELLER, fafdf38b16bf6b2b    # Viads - video
+springserve.com, 124, RESELLER, a24eb641fc82e93d    # Viads - video
+tremorhub.com, 0cc6w-h2tvh, RESELLER, 1a4e959a1b50034a    # Viads - video
+tremorhub.com, 0cc6w-stphr, RESELLER, 1a4e959a1b50034a    # Viads - video
+viralize.com, 4704, DIRECT    # Viads - video
+springserve.com, 1031, DIRECT, a24eb641fc82e93d    # Viads - video
+beachfront.com, 4969, RESELLER, e2541279e8e2ca4d    # Viads - video
+advertising.com, 26282, RESELLER    # Viads - video
+pubmatic.com, 157310, RESELLER, 5d62403b186f2ace    # Viads - video
+contextweb.com, 561910, RESELLER, 89ff185a4c4e857c    # Viads - video
+openx.com, 540226160, RESELLER, 6a698e2ec38604c6    # Viads - video
+undertone.com, 3817, DIRECT    # Viads - video
+appnexus.com, 2234, RESELLER    # Viads - video
+openx.com, 537153564, RESELLER, 6a698e2ec38604c6    # Viads - video
+synacor.com, 82101, DIRECT, e108f11b2cdf7d5b    # Viads - video
+advertising.com, 19623, RESELLER    # Viads - video
+openx.com, 540634634, DIRECT, 6a698e2ec38604c6    # Viads - video
+EMXDGT.com, 1251, RESELLER, 1e1d41537f7cad7f    # Viads - video
+appnexus.com, 1356, RESELLER, f5ab79cb980f11d1    # Viads - video
+districtm.io, 101856, DIRECT, 3fd707be9c4527c3    # Viads - video
+appnexus.com, 1908, RESELLER,    # Viads - video
+aniview.com, 5d906bbf28a06178e435c202, DIRECT, 78b21b97965ec3f8    # Viads - video
+aniview.com, 5d41fc6128a0614d6316234a, DIRECT, 78b21b97965ec3f8    # Viads - video
+openx.com, 540862677, RESELLER, 6a698e2ec38604c6    # Viads - video
+advertising.com, 23089, RESELLER    # Viads - video
+districtm.io, 101661, DIRECT    # Viads - video
+appnexus.com, 1908, RESELLER, f5ab79cb980f11d1    # Viads - video
+admixer.net, b81743f7-b474-4c19-8479-8697021abdd2, DIRECT    # Viads - video
+synacor.com,82171, DIRECT, e108f11b2cdf7d5b    # Viads - video
+rubiconproject.com, 18222, RESELLER, 0bfd66d529a55807    # Viads - video
+pubmatic.com, 156344, RESELLER, 5d62403b186f2ace    # Viads - video
+rubiconproject.com, 13344, RESELLER, 0bfd66d529a55807    # Viads - video
+kubient.com,56f58bdd446e9,DIRECT,4f12311e6ed900a3    # Viads - video
+yieldnexus.com, 96204, DIRECT    # Viads - video
+audience.media, 100358, DIRECT    # Viads - video
+appnexus.com, 10617, RESELLER    # Viads - video
+appnexus.com, 9393, RESELLER    # Viads - video
+advertising.com, 25034, RESELLER    # Viads - video
+sonobi.com, 783272317b, RESELLER, d1a215d9eb5aee9e    # Viads - video
+indexexchange.com, 186684, RESELLER    # Viads - video
+smartadserver.com, 2537, RESELLER    # Viads - video
+google.com, pub-8241049497608997, DIRECT, f08c47fec0942fa0    # Viads - video
+adform.com, 637, RESELLER, 9f5210a2f0999e32    # Viads - video
+adtech.com, 4713.1, RESELLER    # Viads - video
+advertising.com, 4713.1, RESELLER    # Viads - video
+aol.com, 4713.1, RESELLER    # Viads - video
+aolcloud.net, 4713.1, RESELLER    # Viads - video
+appnexus.com, 3783, RESELLER, f5ab79cb980f11d1    # Viads - video
+contextweb.com, 560125, RESELLER    # Viads - video
+google.com, pub-8241049497608997, RESELLER, f08c47fec0942fa0    # Viads - video
+pubmatic.com, 155949, RESELLER, 5d62403b186f2ace    # Viads - video
+smartadserver.com, 2861, RESELLER    # Viads - video
+freewheel.tv, 347137, RESELLER    # Viads - video
+freewheel.tv, 358609, RESELLER    # Viads - video
+indexexchange.com, 186075, RESELLER    # Viads - video
+districtm.io, 101096, RESELLER, 3fd707be9c4527c3    # Viads - video
+appnexus.com, 1908, RESELLER, f5ab79cb980f11d1    # Viads - video
+appnexus.com, 7944, RESELLER, f5ab79cb980f11d1    # Viads - video
+google.com, pub-9685734445476814, RESELLER, f08c47fec0942fa0    # Viads - video
+rubiconproject.com, 11734, RESELLER, 0bfd66d529a55807    # Viads - video
+appnexus.com, 3911, RESELLER, f5ab79cb980f11d1    # Viads - video
+teads.tv, 11973, RESELLER, 15a9c44f6d26cbe1    # Viads - video
+smartadserver.com, 2860, RESELLER    # Viads - video
+indexexchange.com, 179394, RESELLER    # Viads - video
+contextweb.com, 560288, RESELLER, 89ff185a4c4e857c    # Viads - video
+pubmatic.com, 156439, RESELLER    # Viads - video
+pubmatic.com, 156437, RESELLER    # Viads - video
+rubiconproject.com, 16114, RESELLER, 0bfd66d529a55807    # Viads - video
+openx.com, 537149888, RESELLER, 6a698e2ec38604c6    # Viads - video
+sovrn.com, 257611, RESELLER, fafdf38b16bf6b2b    # Viads - video
+appnexus.com, 3703, RESELLER, f5ab79cb980f11d1    # Viads - video
+groundtruth.com, 107, RESELLER, 81cbf0a75a5e0e9a    # Viads - video
+districtm.io, 101760, RESELLER, 3fd707be9c4527c3    # Viads - video
+loopme.com, s-2411, RESELLER, 6c8d5f95897a5a3b    # Viads - video
+loopme.com, 5679, RESELLER, 6c8d5f95897a5a3b    # Viads - video
+EMXDGT.com, 143, RESELLER, 1e1d41537f7cad7f    # Viads - video
+appnexus.com, 1356, RESELLER, f5ab79cb980f11d1    # Viads - video
+genieesspv.jp, 23502, RESELLER    # Viads - video
+sovrn.com, 258698, RESELLER, fafdf38b16bf6b2b    # Viads - video
+lijit.com, 258698, RESELLER, fafdf38b16bf6b2b    # Viads - video
+gumgum.com, 11645, RESELLER, ffdef49475d318a9    # Viads - video
+openx.com, 537120960, RESELLER, 6a698e2ec38604c6    # Viads - video
+openx.com, 83499, RESELLER, 6a698e2ec38604c6    # Viads - video
+openx.com, 538959099, RESELLER, 6a698e2ec38604c6    # Viads - video
+pubmatic.com, 137711, RESELLER, 5d62403b186f2ace    # Viads - video
+pubmatic.com, 156212, RESELLER, 5d62403b186f2ace    # Viads - video
+pubmatic.com, 62483, RESELLER, 5d62403b186f2ace    # Viads - video
+springserve.com, 1, RESELLER, a24eb641fc82e93d    # Viads - video
+tremorhub.com, cdgfn, RESELLER, 1a4e959a1b50034a    # Viads - video
+google.com, pub-6512936480753445, RESELLER, f08c47fec0942fa0    # Viads - video
+appnexus.com, 926, RESELLER, f5ab79cb980f11d1    # Viads - video
+appnexus.com, 1538, RESELLER, f5ab79cb980f11d1    # Viads - video
+advertising.com, 9008, RESELLER    # Viads - video
+freewheel.tv, 208505, RESELLER    # Viads - video
+freewheel.tv, 327377, RESELLER    # Viads - video
+btrll.com, 6836428, RESELLER    # Viads - video
+contextweb.com, 560580, RESELLER    # Viads - video
+pubmatic.com, 156108, RESELLER, 5d62403b186f2ace    # Viads - video
+pubmatic.com, 156410, RESELLER, 5d62403b186f2ace    # Viads - video
+contextweb.com, 561503, RESELLER, 89ff185a4c4e857c    # Viads - video
+openx.com, 539078156, RESELLER, 6a698e2ec38604c6    # Viads - video
+rtbhouse.com, da39a3ee5e6b4b0d, RESELLER    # Viads - video
+admixer.net, 948b0c83-09b7-4275-b224-cffb1de6ea1e, reseller    # Viads - video
+contextweb.com, 561623, reseller, 89ff185a4c4e857c    # Viads - video
+smartyads.com, 16, reseller    # Viads - video
+connectad.io, 19, DIRECT    # Viads - video
+pubmatic.com, 156077, RESELLER, 5d62403b186f2ace    # Viads - video
+pubmatic.com, 55990, RESELLER, 5d62403b186f2ace    # Viads - video
+openx.com, 537145117, RESELLER, 6a698e2ec38604c6    # Viads - video
+adform.com, 768, RESELLER    # Viads - video
+rubiconproject.com, 14598, RESELLER, 0bfd66d529a55807    # Viads - video
+rubiconproject.com, 18486, RESELLER, 0bfd66d529a55807    # Viads - video
+appnexus.com, 8738, RESELLER    # Viads - video
+EMXDGT.com, 1138, DIRECT, 1e1d41537f7cad7f    # Viads - video
+appnexus.com, 1356, RESELLER, f5ab79cb980f11d1    # Viads - video
+google.com, pub-5995202563537249, RESELLER, f08c47fec0942fa0    # Viads - video
+sovrn.com, 244287, DIRECT, fafdf38b16bf6b2b    # Viads - video
+lijit.com, 244287, DIRECT, fafdf38b16bf6b2b    # Viads - video
+lijit.com, 244287-eb, DIRECT, fafdf38b16bf6b2b    # Viads - video
+appnexus.com, 1360, RESELLER, f5ab79cb980f11d1    # Viads - video
+gumgum.com, 11645, RESELLER, ffdef49475d318a9    # Viads - video
+openx.com, 538959099, RESELLER, 6a698e2ec38604c6    # Viads - video
+openx.com, 539924617, RESELLER, 6a698e2ec38604c6    # Viads - video
+pubmatic.com, 137711, RESELLER, 5d62403b186f2ace    # Viads - video
+pubmatic.com, 156212, RESELLER, 5d62403b186f2ace    # Viads - video
+pubmatic.com, 156700, RESELLER, 5d62403b186f2ace    # Viads - video
+rubiconproject.com, 17960, RESELLER, 0bfd66d529a55807    # Viads - video
+33across.com, 0010b00002OE4AFAA1, DIRECT, bbea06d9c4d2853c    # Viads - video
+rubiconproject.com, 16414, RESELLER, 0bfd66d529a55807    # Viads - video
+pubmatic.com, 156423, RESELLER, 5d62403b186f2ace    # Viads - video
+appnexus.com, 10239, RESELLER, f5ab79cb980f11d1    # Viads - video
+appnexus.com, 1001, RESELLER, f5ab79cb980f11d1    # Viads - video
+appnexus.com, 3135, RESELLER, f5ab79cb980f11d1    # Viads - video
+openx.com, 537120563, RESELLER, 6a698e2ec38604c6    # Viads - video
+openx.com, 539392223, RESELLER, 6a698e2ec38604c6    # Viads - video
+rhythmone.com, 2439829435, RESELLER, a670c89d4a324e47    # Viads - video
+emxdgt.com, 326, RESELLER, 1e1d41537f7cad7f    # Viads - video
+gumgum.com, 13318, RESELLER, ffdef49475d318a9    # Viads - video
+adtech.com, 12094, RESELLER    # Viads - video
+adtech.com, 9993, RESELLER    # Viads - video
+advangelists.com, 8d3bba7425e7c98c50f52ca1b52d3735, RESELLER, 60d26397ec060f98    # Viads - video
+google.com, pub-9557089510405422, RESELLER, f08c47fec0942fa0    # Viads - video
+aps.amazon.com,1b6b6ee4-305f-4ae1-8439-8b136c9cdf6e,DIRECT    # Viads - video
+pubmatic.com,157150,RESELLER,5d62403b186f2ace    # Viads - video
+openx.com,540191398,RESELLER,6a698e2ec38604c6    # Viads - video
+yldbt.com,5b522cc167f6b300b89dc6d3,RESELLER,cd184cb30abaabb5    # Viads - video
+districtm.io,100962,RESELLER    # Viads - video
+gumgum.com, 13586, RESELLER, ffdef49475d318a9    # Viads - video
+33across.com, 0013300001r0t9mAAA, RESELLER    # Viads - video
+adtech.com, 9904, RESELLER    # Viads - video
+Advertising.com, 16736, RESELLER    # Viads - video
+aolcloud.net, 9904, RESELLER    # Viads - video
+appnexus.com, 1001, RESELLER, f5ab79cb980f11d1    # Viads - video
+appnexus.com, 1942, RESELLER, f5ab79cb980f11d1    # Viads - video
+appnexus.com, 2758, RESELLER, f5ab79cb980f11d1    # Viads - video
+appnexus.com, 3135, RESELLER, f5ab79cb980f11d1    # Viads - video
+appnexus.com, 7597, RESELLER, f5ab79cb980f11d1    # Viads - video
+bidtellect.com, 1407, RESELLER, 1c34aa2d85d45e93    # Viads - video
+contextweb.com, 558355, RESELLER    # Viads - video
+criteo.com, 109412, DIRECT, 9fac4a4a87c2a44f    # Viads - video
+google.com, pub-3848273848634341, RESELLER, f08c47fec0942fa0    # Viads - video
+google.com, pub-9557089510405422, RESELLER, f08c47fec0942fa0    # Viads - video
+indexexchange.com, 177754, RESELLER, 50b1c356f2c5c8fc    # Viads - video
+lkqd.com, 470, RESELLER, 59c49fa9598a0117    # Viads - video
+lkqd.net, 470, RESELLER, 59c49fa9598a0117    # Viads - video
+openx.com, 537120563, RESELLER, 6a698e2ec38604c6    # Viads - video
+openx.com, 537149485, RESELLER, 6a698e2ec38604c6    # Viads - video
+openx.com, 540003333, RESELLER, 6a698e2ec38604c6    # Viads - video
+outbrain.com, 01a755b08c8c22b15d46a8b753ab6955d4, RESELLER    # Viads - video
+pubmatic.com, 50758, RESELLER, 5d62403b186f2ace    # Viads - video
+revcontent.com, 76611, RESELLER    # Viads - video
+rhythmone.com, 78519861, RESELLER    # Viads - video
+sciencenotes.org, 11483, RESELLER, ffdef49475d318a9    # Viads - video
+smaato.com, 1100033117, RESELLER    # Viads - video
+springserve.com, 686, RESELLER, a24eb641fc82e93d    # Viads - video
+worksheetplace.com, 11483, RESELLER, ffdef49475d318a9    # Viads - video
+indexexchange.com, 186079, RESELLER    # Viads - video
+openx.com, 540066557, RESELLER, 6a698e2ec38604c6    # Viads - video
+rubiconproject.com, 18518, RESELLER, 0bfd66d529a55807    # Viads - video
+pubmatic.com, 157590, RESELLER, 5d62403b186f2ace    # Viads - video
+clickonometrics.pl,19089,RESELLER    # Viads - video
+triplelift.com, 6478, DIRECT, 6c33edb13117fd86    # Viads - video
+appnexus.com, 1314, RESELLER    # Viads - video
+lkqd.net, 504, RESELLER, 59c49fa9598a0117    # Viads - video
+rhythmone.com,2125894044,DIRECT,a670c89d4a324e47    # Viads - video
+synacor.com, 82151, RESELLER, e108f11b2cdf7d5b    # Viads - video
+coxmt.com, 2000067995202, RESELLER    # Viads - video
+appnexus.com, 9316, RESELLER, f5ab79cb980f11d1    # Viads - video
+pubmatic.com, 156344, RESELLER, 5d62403b186f2ace    # Viads - video
+rubiconproject.com, 13344, RESELLER, 0bfd66d529a55807    # Viads - video
+EMXDGT.com, 1284, RESELLER, 1e1d41537f7cad7f    # Viads - video
+appnexus.com, 1356, RESELLER, f5ab79cb980f11d1    # Viads - video
+pubmatic.com, 157897, RESELLER, 5d62403b186f2ace    # Viads - video
+otm-r.com,63,DIRECT    # Viads - video
+google.com, pub-8241049497608997, DIRECT, f08c47fec0942fa0    # Viads - video
+spotxchange.com, 273596, RESELLER, 7842df1d2fe2db34    # Viads - video
+spotx.tv, 273596, RESELLER, 7842df1d2fe2db34    # Viads - video
+
+google.com, pub-2224625513254808, RESELLER, f08c47fec0942fa0    # Barons Media - video
+google.com, pub-3883055527414806, RESELLER, f08c47fec0942fa0    # Barons Media - video
+rubiconproject.com, 11618, RESELLER, 0bfd66d529a55807    # Barons Media - video
+tremorhub.com, 0whmr, RESELLER, 1a4e959a1b50034a    # Barons Media - video
+lkqd.com, 108, RESELLER, 59c49fa9598a0117    # Barons Media - video
+lkqd.net, 108, RESELLER, 59c49fa9598a0117    # Barons Media - video
+beachfront.com, 13166, RESELLER, e2541279e8e2ca4d    # Barons Media - video
+
+#2020-01-21 1900 BRT

@@ -1,0 +1,27 @@
+adform.com, 125, RESELLER
+adform.com, 582, RESELLER, 9f5210a2f0999e32
+adform.com, 629, RESELLER
+adform.com, 592, DIRECT
+appnexus.com, 8806, RESELLER, f5ab79cb980f11d1
+appnexus.com, 10281, DIRECT
+appnexus.com, 11310, DIRECT
+google.com, pub-2580884348520619, DIRECT, f08c47fec0942fa0
+google.com, pub-4270686160673198, RESELLER
+google.com, pub-5002094515318070, RESELLER, f08c47fec0942fa0
+google.com, pub-6617904538835735, DIRECT, f08c47fec0942fa0
+improvedigital.com, 227, RESELLER
+indexexchange.com, 190926, DIRECT
+pubmatic.com, 156098, RESELLER, 5d62403b186f2ace
+pubmatic.com, 157349, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156434, DIRECT, 5d62403b186f2ace
+pubmatic.com, 158186, DIRECT, 5d62403b186f2ace
+rubiconproject.com, 12032, RESELLER
+rubiconproject.com, 12524, DIRECT
+rubiconproject.com, 16474, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 17310, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 20620, DIRECT, 0bfd66d529a55807
+rubiconproject.com, 20622, DIRECT, 0bfd66d529a55807
+smartclip.net, 798, RESELLER
+spotx.tv, 227631, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 227631, RESELLER, 7842df1d2fe2db34
+widespace.com, 3333, RESELLER

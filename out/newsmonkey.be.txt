@@ -1,0 +1,12 @@
+# ads.txt - newsmonkey.be
+
+# Ligatus
+ligadx.com,21000,DIRECT
+ligadx.com,92150ca45d07dcb5,DIRECT
+spotxchange.com,206177,RESELLER,7842df1d2fe2db34
+spotx.tv,206177,RESELLER,7842df1d2fe2db34
+google.com,pub-1165248531791804,DIRECT,f08c47fec0942fa0
+AppNexus.com,3723,DIRECT
+vmg.host, 2443, DIRECT
+
+google.com, pub-2073975365497591, DIRECT, f08c47fec0942fa0

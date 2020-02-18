@@ -1,0 +1,101 @@
+#AS
+google.com, pub-6621863446997496, DIRECT, f08c47fec0942fa0
+
+#MP
+freewheel.tv,338161, RESELLER
+freewheel.tv,339329, RESELLER
+google.com, pub-3992393056167515, RESELLER, f08c47fec0942fa0
+rubiconproject.com, 14106, RESELLER , 0bfd66d529a55807
+spotx.tv,108933,Reseller,7842df1d2fe2db34
+spotxchange.com,108933,Reseller,7842df1d2fe2db34
+openx.com,537120584,Reseller,6a698e2ec38604c6
+openx.com,537123540,Reseller,6a698e2ec38604c6
+openx.com,537117444,Reseller,6a698e2ec38604c6
+openx.com,537120117,Reseller,6a698e2ec38604c6
+openx.com,537119311,Reseller,6a698e2ec38604c6
+openx.com,537120571,Reseller,6a698e2ec38604c6
+openx.com,537116746,Reseller,6a698e2ec38604c6
+openx.com,537118780,Reseller,6a698e2ec38604c6
+openx.com,537117448,Reseller,6a698e2ec38604c6
+openx.com,537117436,Reseller,6a698e2ec38604c6
+openx.com,537117434,Reseller,6a698e2ec38604c6
+openx.com,537143660,Reseller,6a698e2ec38604c6
+openx.com,537117297,Reseller,6a698e2ec38604c6
+openx.com,537118040,Reseller,6a698e2ec38604c6
+openx.com,539167032,Reseller,6a698e2ec38604c6
+openx.com,537120570,Reseller,6a698e2ec38604c6
+openx.com,537145991,Reseller,6a698e2ec38604c6
+openx.com,537120572,Reseller,6a698e2ec38604c6
+openx.com,537117497,Reseller,6a698e2ec38604c6
+openx.com,537118043,Reseller,6a698e2ec38604c6
+openx.com,537117365,Reseller,6a698e2ec38604c6
+openx.com,537143661,Reseller,6a698e2ec38604c6
+openx.com,537118048,Reseller,6a698e2ec38604c6
+openx.com,537139815,Reseller,6a698e2ec38604c6
+openx.com,537120573,Reseller,6a698e2ec38604c6
+openx.com,537117364,Reseller,6a698e2ec38604c6
+openx.com,537120574,Reseller,6a698e2ec38604c6
+openx.com,537123495,Reseller,6a698e2ec38604c6
+openx.com,537120575,Reseller,6a698e2ec38604c6
+openx.com,537120576,Reseller,6a698e2ec38604c6
+openx.com,537149830,Reseller,6a698e2ec38604c6
+openx.com,537120578,Reseller,6a698e2ec38604c6
+openx.com,537118056,Reseller,6a698e2ec38604c6
+openx.com,537117371,Reseller,6a698e2ec38604c6
+openx.com,537116744,Reseller,6a698e2ec38604c6
+openx.com,537118047,Reseller,6a698e2ec38604c6
+openx.com,537120579,Reseller,6a698e2ec38604c6
+openx.com,537123577,Reseller,6a698e2ec38604c6
+openx.com,537117435,Reseller,6a698e2ec38604c6
+openx.com,537147016,Reseller,6a698e2ec38604c6
+openx.com,537117441,Reseller,6a698e2ec38604c6
+openx.com,537117983,Reseller,6a698e2ec38604c6
+openx.com,537120581,Reseller,6a698e2ec38604c6
+openx.com,537120195,Reseller,6a698e2ec38604c6
+openx.com,537120568,Reseller,6a698e2ec38604c6
+openx.com,537118039,Reseller,6a698e2ec38604c6
+openx.com,537120583,Reseller,6a698e2ec38604c6
+openx.com,537118053,Reseller,6a698e2ec38604c6
+openx.com,537116751,Reseller,6a698e2ec38604c6
+openx.com,537117145,Reseller,6a698e2ec38604c6
+openx.com,537120194,Reseller,6a698e2ec38604c6
+indexexchange.com, 187558, RESELLER
+rubiconproject.com, 19512, RESELLER, 0bfd66d529a55807
+
+#JP
+openx.com, 537120584, RESELLER, 6a698e2ec38604c6     #AE
+openx.com, 537120579, RESELLER, 6a698e2ec38604c6     #OM
+openx.com, 537120578, RESELLER, 6a698e2ec38604c6     #MA
+openx.com, 537120575, RESELLER, 6a698e2ec38604c6     #KW
+openx.com, 537120574, RESELLER, 6a698e2ec38604c6     #JO
+openx.com, 537120572, RESELLER, 6a698e2ec38604c6     #EG
+openx.com, 537120571, RESELLER, 6a698e2ec38604c6     #BH
+openx.com, 537120570, RESELLER, 6a698e2ec38604c6     #DZ
+openx.com, 537120568, RESELLER, 6a698e2ec38604c6     #SA
+openx.com, 537117145, RESELLER, 6a698e2ec38604c6     #US
+openx.com, 539521800, RESELLER, 6a698e2ec38604c6
+improvedigital.com, 185, Reseller
+spotxchange.com, 108933, Reseller, 7842df1d2fe2db34
+appnexus.com, 7118, Reseller
+spotx.tv, 108933, Reseller, 7842df1d2fe2db34
+openx.com, 539521800, RESELLER, 6a698e2ec38604c6
+appnexus.com, 7118, RESELLER
+spotx.tv, 108933, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 108933, RESELLER, 7842df1d2fe2db34
+improvedigital.com, 185, RESELLER
+adform.com, 183, RESELLER
+freewheel.tv, 33081, RESELLER
+freewheel.tv, 33601, RESELLER
+google.com, pub-8172268348509349, RESELLER, f08c47fec0942fa0
+
+#CA
+google.com, pub-4939207172719226, DIRECT, f08c47fec0942fa0
+sharethrough.com, 75e1a062, DIRECT, d53b998a7bd4ecd2
+indexexchange.com, 184665, RESELLER, 50b1c356f2c5c8fc
+spotxchange.com, 212457, RESELLER
+spotx.tv, 212457, RESELLER
+
+#BF
+teads.tv, 11909, DIRECT, 15a9c44f6d26cbe1
+teads.tv, 14529, RESELLER, 15a9c44f6d26cbe1
+teads.tv, 17925, DIRECT, 15a9c44f6d26cbe1

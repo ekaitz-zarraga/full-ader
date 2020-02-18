@@ -1,0 +1,50 @@
+google.com, pub-1736508715146793, DIRECT, f08c47fec0942fa0
+
+media.net, 8CU53K7G0 , DIRECT
+rubiconproject.com, 19398, DIRECT, 0bfd66d529a55807 
+pubmatic.com, 157599, DIRECT, 5d62403b186f2ace
+pubmatic.com, 157599, RESELLER, 5d62403b186f2ace
+openx.com, 537100188, RESELLER, 6a698e2ec38604c6 
+google.com, pub-7439041255533808, RESELLER, f08c47fec0942fa0
+districtm.io, 100600, DIRECT
+
+content-ad.net, 129309, DIRECT
+
+sovrn.com, 232612, DIRECT, fafdf38b16bf6b2b
+lijit.com, 232612, DIRECT, fafdf38b16bf6b2b
+lijit.com, 232612-eb, DIRECT, fafdf38b16bf6b2b
+appnexus.com, 1360, RESELLER, f5ab79cb980f11d1
+gumgum.com, 11645, RESELLER, ffdef49475d318a9
+openx.com, 538959099, RESELLER, 6a698e2ec38604c6
+openx.com, 539924617, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 137711, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156212, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156700, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 17960, RESELLER, 0bfd66d529a55807
+
+## For theprayingwoman.com ##
+adversal.com,171948,DIRECT,5e8b19682ab8853a
+appnexus.com,8754,RESELLER,f5ab79cb980f11d1
+contextweb.com,560897,RESELLER,89ff185a4c4e857c
+spotxchange.com,84294,RESELLER,7842df1d2fe2db34
+spotx.tv,84294,RESELLER,7842df1d2fe2db34
+sekindo.com,22457,RESELLER,b6b21d256ef43532
+advertising.com,7372,RESELLER
+advertising.com,24410,RESELLER
+lkqd.net,244,RESELLER,59c49fa9598a0117
+lkqd.com,244,RESELLER,59c49fa9598a0117
+freewheel.tv,19129,RESELLER
+adform.com,2078,RESELLER
+improvedigital.com,1065,RESELLER
+pubmatic.com,156595,RESELLER,5d62403b186f2ace
+districtm.io,101359,RESELLER
+appnexus.com,1908,RESELLER,f5ab79cb980f11d1
+freewheel.tv,19133,RESELLER
+openx.com,540258065,RESELLER,6a698e2ec38604c6
+google.com,pub-1320774679920841,RESELLER,f08c47fec0942fa0
+loopme.com,10520,RESELLER,6c8d5f95897a5a3b
+rubiconproject.com,20130,RESELLER,0bfd66d529a55807
+tremorhub.com,mb9eo-oqsbf,RESELLER,1a4e959a1b50034a
+rhythmone.com,1897319827,RESELLER,a670c89d4a324e47
+# Added 11/07/19 #
+adversal.com,1091702,DIRECT,5e8b19682ab8853a

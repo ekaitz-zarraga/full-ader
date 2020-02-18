@@ -1,0 +1,15 @@
+#Ads.txt goodmorningamerica.com/
+
+indexexchange.com, 181495, RESELLER
+spotxchange.com, 228164, DIRECT, 7842df1d2fe2db34
+spotx.tv, 228164, DIRECT, 7842df1d2fe2db34
+pubmatic.com, 51217, DIRECT, 5d62403b186f2ace
+rubiconproject.com, 8829, DIRECT, 0bfd66d529a55807 #News Display
+rubiconproject.com, 207416, DIRECT, 0bfd66d529a55807
+google.com, pub-3430841406405112, DIRECT #News Display
+indexexchange.com, 181495, RESELLER
+appnexus.com, 9901, DIRECT
+google.com, pub-5653662817748324, DIRECT #Dev
+google.com, pub-7154879651992621, DIRECT #Prod
+
+#Last Modified: 03/13/2019 : 7:18 PM PST

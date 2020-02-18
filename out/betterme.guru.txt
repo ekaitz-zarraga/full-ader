@@ -1,0 +1,14 @@
+# Ads.txt file for betterme.guru:
+
+appnexus.com, 8476, DIRECT
+appnexus.com, 1908, RESELLER
+appnexus.com, 7944, RESELLER
+contextweb.com, 561601, DIRECT, 89ff185a4c4e857c
+districtm.io, 1001001, DIRECT
+facebook.com, 1824644767821382, DIRECT
+google.com, pub-8860864903120012, DIRECT, f08c47fec0942fa0
+google.com, pub-8095939199768966, DIRECT, f08c47fec0942fa0
+google.com, pub-6072491919121235, DIRECT
+google.com, pub-3879553777370961, DIRECT
+rubiconproject.com, 13524, DIRECT, 0bfd66d529a55807
+sonobi.com, 9a1f287e0d, DIRECT

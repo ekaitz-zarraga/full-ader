@@ -1,0 +1,12 @@
+<div class="nav">
+
+	<?php if(function_exists('wp_pagenavi')) {
+		wp_pagenavi();
+	} else { ?>
+
+	<div class="next"><?php next_posts_link('Older Posts &rarr;') ?></div>
+	<div class="previous"><?php previous_posts_link('&larr; Newer Posts') ?></div>
+	
+	<? } ?>
+	
+</div>

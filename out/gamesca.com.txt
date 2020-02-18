@@ -1,0 +1,29 @@
+#fmxSSP
+x.fidelity-media.com, 9593, DIRECT
+
+#lifestreet
+lifestreet.com, 286170, DIRECT
+indexexchange.com, 179974, RESELLER
+indexexchange.com, 184847, RESELLER
+contextweb.com, 561091, RESELLER
+contextweb.com, 561302, RESELLER
+appnexus.com, 1475, RESELLER
+mediamath.com, 18, RESELLER
+openx.com, 539439921, RESELLER
+adtech.com, 9508, RESELLER
+criteo.com, 151468, RESELLER
+
+
+adtech.com, 10483, RESELLER
+aolcloud.net, 10483, RESELLER
+appnexus.com, 1610, RESELLER, f5ab79cb980f11d1
+appnexus.com, 7874, RESELLER, f5ab79cb980f11d1
+bidfluence.com, 88b55b49-98f5-42e5-ac43-22cff79711a4, DIRECT
+contextweb.com, 508738, RESELLER
+lijit.com, 57529, RESELLER, fafdf38b16bf6b2b
+openx.com, 537124574, RESELLER, 6a698e2ec38604c6
+sonobi.com, 5fa6044d8d, RESELLER
+sovrn.com, 57529, RESELLER, fafdf38b16bf6b2b
+pubmatic.com, 156505, RESELLER, <5d62403b186f2ace>
+Mobfox.com, 74050, RESELLER
+udmserve.net, 2286, DIRECT

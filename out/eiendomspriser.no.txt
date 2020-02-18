@@ -1,0 +1,9 @@
+﻿#Ads.txt for 1881.no
+
+contact=kampanje@1881.no
+subdomain=kart.1881.no,siste.eiendomspriser.no,regnskapstall.no
+
+improvedigital.com, 711, DIRECT #banner, video
+google.com, pub-9242496004573646, DIRECT, #banner, video
+widespace.com, 3314, DIRECT #banner, video
+pubmatic.com, 156098, RESELLER, 5d62403b186f2ace #banner, video

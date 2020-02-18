@@ -1,0 +1,95 @@
+# Managed by ADOP START #
+impactify.io, 1328, DIRECT
+advertising.com, 4465, RESELLER
+adtech.com, 9516, RESELLER
+advertising.com, 4465, RESELLER
+adtech.com, 9516, RESELLER
+advertising.com, 9008, RESELLER
+altitudedigital.com, 146321, RESELLER
+appnexus.com, 1538, RESELLER
+appnexus.com, 1613, RESELLER
+appnexus.com, 3326, RESELLER
+appnexus.com, 926, RESELLER
+beachfront.com, publisher_4ef085c5-921d-4f46-9c55-ab3b5ebfe76c, RESELLER
+brightroll.com, 6836317, RESELLER
+brightroll.com, 6836428, RESELLER
+contextweb.com, 557877, RESELLER
+contextweb.com, 560496, RESELLER, 89ff185a4c4e857c
+contextweb.com, 560580, RESELLER
+freewheel.tv, 146081, RESELLER
+freewheel.tv, 208505, RESELLER
+freewheel.tv, 232937, RESELLER
+freewheel.tv, 282546, RESELLER
+freewheel.tv, 282562, RESELLER
+freewheel.tv, 282578, RESELLER
+freewheel.tv, 282594, RESELLER
+freewheel.tv, 282610, RESELLER
+freewheel.tv, 282626, RESELLER
+freewheel.tv, 282770, RESELLER
+freewheel.tv, 282786, RESELLER
+freewheel.tv, 282802, RESELLER
+freewheel.tv, 282818, RESELLER
+freewheel.tv, 282834, RESELLER
+freewheel.tv, 282850, RESELLER
+freewheel.tv, 327377, RESELLER
+freewheel.tv, 378993, RESELLER
+freewheel.tv, 86673, RESELLER
+freewheel.tv, 86681, RESELLER
+google.com, pub-9242135695870166, RESELLER
+google.com, pub-1409765517756851, RESELLER
+google.com, pub-4075894099602271, RESELLER
+google.com, pub-5512390705137507, RESELLER, f08c47fec0942fa0
+google.com, pub-6512936480753445, RESELLER
+google.com, pub-8586767572152426, DIRECT, f08c47fec0942fa0
+improvedigital.com, 1058, RESELLER
+lkqd.com, 124, RESELLER, 59c49fa9598a0117
+lkqd.com, 124, RESELLER, 59c49fa9598a0117
+lkqd.com, 217, RESELLER, 59c49fa9598a0117
+lkqd.com, 252, RESELLER, 59c49fa9598a0117
+lkqd.com, 267, RESELLER, 59c49fa9598a0117
+lkqd.net, 124, RESELLER, 59c49fa9598a0117
+lkqd.net, 124, RESELLER, 59c49fa9598a0117
+lkqd.net, 217, RESELLER, 59c49fa9598a0117
+lkqd.net, 252, RESELLER, 59c49fa9598a0117
+oath.com, 5702, RESELLER
+openx.com, 537141219, RESELLER, 20041fe3-accf-fff1-8123-bc75af
+platform.videologygroup.com, 2982, RESELLER
+publishers.teads.tv, 12888, RESELLER
+publishers.teads.tv, 13183, RESELLER
+pubmatic.com, 156241, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156241, RESELLER, 5d62403b186f2ace
+pubmatic.com, 93915, RESELLER
+rubicon.com, 14410, RESELLER
+rubiconproject.com, 8861, RESELLER, 0bfd66d529a55807
+smartadserver.com, 1316, RESELLER
+sovrn.com, 245955, RESELLER
+spotx.tv, 111271, RESELLER
+spotx.tv, 72878, RESELLER
+spotxchange.com, 111271, RESELLER
+spotxchange.com, 152198, RESELLER, 7842df1d2fe2db34
+springserve.com, 1, RESELLER
+springserve.com, 105, RESELLER
+synacor.com, 73945, RESELLER
+tremorhub.com, 60629, RESELLER
+tremorhub.com, PD18127-ul3wv, RESELLER, 1a4e959a1b50034a
+tremorhub.com, ludxd-cxo0e, RESELLER, 1a4e959a1b50034a
+appnexus.com, 3703, RESELLER, f5ab79cb980f11d1
+contextweb.com, 560288, RESELLER, 89ff185a4c4e857c
+indexexchange.com, 179394, RESELLER
+lkqd.net, 252, RESELLER, 59c49fa9598a011
+openx.com, 537149888, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 154037, RESELLER
+pubmatic.com, 156439, RESELLER
+rubiconproject.com, 16114, RESELLER, 0bfd66d529a55807
+smartadserver.com, 2974, RESELLER
+sovrn.com, 257611, RESELLER, fafdf38b16bf6b2b
+mediawayss.com, 510, DIRECT
+google.com, pub-1965383259143495, RESELLER, f08c47fec0942fa0
+google.com, pub-6864402317197092, RESELLER, f08c47fec0942fa0
+freewheel.tv, 286994, RESELLER
+freewheel.tv, 291505, RESELLER
+google.com, pub-3533864070776314, DIRECT, f08c47fec0942fa0
+openx.com, 539510763, RESELLER, 6a698e2ec38604c6
+google.com, pub-5422671659717523, RESELLER, f08c47fec0942fa0
+mgid.com, 5614144, DIRECT
+# Managed by ADOP END # Create Date : 2018-07-24 17:15:18

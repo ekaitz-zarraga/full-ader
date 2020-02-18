@@ -1,0 +1,16 @@
+#ads.txt kohls.com
+
+google.com, pub-1077917634234396, DIRECT, f08c47fec0942fa0
+rubiconproject.com, 11448, DIRECT, 0bfd66d529a55807
+rubiconproject.com, 17734, DIRECT, 0bfd66d529a55807
+openx.com, 537142587, DIRECT, 6a698e2ec38604c6
+openx.com, 538995731, DIRECT, 6a698e2ec38604c6
+indexexchange.com, 184399, DIRECT
+indexexchange.com, 185075, DIRECT
+appnexus.com, 8237, DIRECT, f5ab79cb980f11d1
+adtech.com, 9844, DIRECT
+LiveIntent.com, 7478, DIRECT
+sovrn.com, 265736, DIRECT, fafdf38b16bf6b2b
+lijit.com, 265736, DIRECT, fafdf38b16bf6b2b
+EMXDGT.com, 1122, DIRECT, 1e1d41537f7cad7f
+Appnexus.com, 1356, RESELLER, f5ab79cb980f11d1

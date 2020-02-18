@@ -1,0 +1,159 @@
+# Google
+google.com, pub-7800690805106209, DIRECT, f08c47fec0942fa0
+google.com, pub-9277398655035409, DIRECT, f08c47fec0942fa0
+
+# fluct
+Freewheel.tv, 741650, RESELLER
+adcolony.com, 1efc6603710003ea, RESELLER, 1ad675c9de6b5176
+adcolony.com, 801e49d1be83b5f9, RESELLER, 1ad675c9de6b5176
+ad-generation.jp, 12283, RESELLER
+adingo.jp, 20070, RESELLER
+adingo.jp, 9771, DIRECT
+admixer.net, 3bc509b2-6568-4bd8-a997-9859ba0c9118, RESELLER
+adm.shinobi.jp,21957,DIRECT
+advertising.com, 26154, RESELLER
+advertising.com, 28038, RESELLER
+appnexus.com, 7044, RESELLER
+appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
+appnexus.com, 8178, RESELLER, f5ab79cb980f11d1
+contextweb.com, 561884, RESELLER, 89ff185a4c4e857c
+google.com, pub-3859050685269056, RESELLER
+indexexchange.com, 189076, RESELLER
+lkqd.net, 450, RESELLER, 59c49fa9598a0117
+mintegral.com, 16124, RESELLER
+openx.com, 537152826, RESELLER, 6a698e2ec38604c6
+openx.com, 539294033, RESELLER, 6a698e2ec38604c6
+openx.com, 540393169, RESELLER, 6a698e2ec38604c6
+openx.com, 540397708, RESELLER, 6a698e2ec38604c6
+openx.com, 540679900, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 155975, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156313, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156851, RESELLER, 5d62403b186f2ace
+pubmatic.com, 157589, RESELLER, 5d62403b186f2ace
+pubmatic.com, 157741, RESELLER, 5d62403b186f2ace
+pubmatic.com, 158060, RESELLER, 5d62403b186f2ace
+pubnative.net, 1007243, RESELLER, d641df8625486a7b
+rubiconproject.com, 12286, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 15794, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 17130, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 17328, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 19064, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 19668, RESELLER, 0bfd66d529a55807
+spotxchange.com, 225721, RESELLER
+spotxchange.com, 238936, RESELLER, 7842df1d2fe2db34
+spotx.tv, 238936, RESELLER, 7842df1d2fe2db34
+tapjoy.com, 58de38e72c93457696e53fc6e52295c3, DIRECT, 29e595b1aeb5904d
+teads.tv, 15429, RESELLER, 15a9c44f6d26cbe1
+tremorhub.com, q017o-78mlk, RESELLER, 1a4e959a1b50034a
+webeyemob.com, 70080, RESELLER
+
+# Geniee
+ad-stir.com, 1757, RESELLER
+adingo.jp, 14347 , DIRECT
+adtech.com, 15032, RESELLER
+aolcloud.net,15032, RESELLER
+genieesspv.jp, 20, DIRECT
+gmossp-sp.jp, 2000505, RESELLER
+i-mobile.co.jp,14087,RESELLER
+i-mobile.co.jp,49575,RESELLER
+microad.co.jp, 14852,DIRECT
+openx.com, 539468036, RESELLER, 6a698e2ec38604c6
+proparm.jp,1811,RESELLER
+rubiconproject.com, 14032, RESELLER, 0bfd66d529a55807
+
+# via Geniee
+ad-stir.com, 5033, RESELLER
+ad-stir.com, 5344, RESELLER
+ad-stir.com, 7666, RESELLER
+ad-stir.com, 7938, RESELLER
+adm.shinobi.jp, 169883, RESELLER
+adtech.com, 9670, RESELLER
+adtech.com, 9715, RESELLER
+advertising.com, 14558, RESELLER
+amoad.com, 105499, RESELLER
+aolcloud.net, 9670, RESELLER
+aolcloud.net, 9715, RESELLER
+appnexus.com, 7122, RESELLER
+appnexus.com, 7702, RESELLER, f5ab79cb980f11d1
+appvador.com, 1145, RESELLER
+fivecdm.com, 337459, RESELLER
+google.com, pub-4094152962392845, RESELLER, f08c47fec0942fa0
+google.com, pub-4231984443817768, RESELLER, f08c47fec0942fa0
+google.com, pub-5897179876377792, RESELLER, f08c47fec0942fa0
+google.com, pub-6582910611188121, RESELLER, f08c47fec0942fa0
+i-mobile.co.jp, 12601, RESELLER
+i-mobile.co.jp, 25572, RESELLER
+i-mobile.co.jp, 25588, RESELLER
+i-mobile.co.jp, 36157, RESELLER
+i-mobile.co.jp, 47772, RESELLER
+i-mobile.co.jp, 57985, RESELLER
+i-mobile.co.jp, 62395, RESELLER
+impact-ad.jp, 1064, RESELLER
+impact-ad.jp, 1635, RESELLER
+impact-ad.jp, 1636, RESELLER
+impact-ad.jp, 1680, RESELLER
+impact-ad.jp, 1718, RESELLER
+impact-ad.jp, 2081, RESELLER
+impact-ad.jp, 2082, RESELLER
+impact-ad.jp, 2586, RESELLER
+impact-ad.jp, 2817, RESELLER
+openx.com, 140525, RESELLER, 6a698e2ec38604c6
+openx.com, 537141605, RESELLER, 6a698e2ec38604c6
+openx.com, 539294039, RESELLER, 6a698e2ec38604c6
+openx.com, 539320132, RESELLER, 6a698e2ec38604c6
+openx.com, 74938, RESELLER, 6a698e2ec38604c6
+proparm.jp, 1214, RESELLER
+proparm.jp, 564, RESELLER
+pubmatic.com, 156493, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156530, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156704, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156899, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 11534, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 14486, RESELLER, 0bfd66d529a55807
+smaato.com, 1100037870, RESELLER
+
+# AJA
+adtdp.com, 2056, DIRECT
+as.amanad.adtdp.com, 2056, DIRECT
+
+# brainy
+ad-generation.jp, 9168, RESELLER
+ad-stir.com, 5196, RESELLER
+adingo.jp, 17496, RESELLER
+aps.amazon.com,a3e4c7ef-96b9-4316-96b7-986885a2be83,DIRECT
+districtm.io,100962,RESELLER
+gmossp-sp.jp, 2000420, RESELLER
+proparm.jp, 1978, DIRECT
+rubiconproject.com, 12498, RESELLER, 0bfd66d529a55807
+teads.tv, 14893, RESELLER, 15a9c44f6d26cbe1
+yldbt.com,5b522cc167f6b300b89dc6d3,RESELLER,cd184cb30abaabb5
+
+# OpenX
+openx.com, 540233900, DIRECT, 6a698e2ec38604c6
+
+# Rubicon
+rubiconproject.com, 12046, DIRECT, 0bfd66d529a55807
+rubiconproject.com, 20002, DIRECT, 0bfd66d529a55807
+
+# AdGeneration
+ad-generation.jp, 10349, DIRECT
+
+# Y1
+impact-ad.jp,2574,DIRECT
+impact-ad.jp,2808,DIRECT
+impact-ad.jp,3512,DIRECT
+impact-ad.jp,4125,DIRECT
+nend.net,11072,RESELLER
+openx.com,540233901,RESELLER,6a698e2ec38604c6
+pubmatic.com,122325,RESELLER,5d62403b186f2ace
+pubmatic.com,156959,RESELLER,5d62403b186f2ace
+pubmatic.com,157746,RESELLER,5d62403b186f2ace
+rubiconproject.com,20004,RESELLER,0bfd66d529a55807
+uliza.jp,1815,RESELLER
+uliza.jp,2118,RESELLER
+
+# Pubmatic
+pubmatic.com, 158332, DIRECT, 5d62403b186f2ace
+
+# INDEX EXCHANGE
+indexexchange.com, 190239, DIRECT

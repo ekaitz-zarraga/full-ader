@@ -1,0 +1,89 @@
+33across.com,0013300001qjCkpAAE,RESELLER,bbea06d9c4d2853c
+adtech.com,10334,RESELLER
+adtech.com,10468,RESELLER
+adtech.com,11686, DIRECT, e1a5b5b6e3255540
+adtech.com,12068,RESELLER,e1a5b5b6e3255540
+adtech.com,9993,RESELLER
+advertising.com, 28370, DIRECT, e1a5b5b6e3255540
+aol.com, 54441, DIRECT, e1a5b5b6e3255540
+appnexus.com, 1314, RESELLER,f5ab79cb980f11d1
+appnexus.com, 1908, RESELLER,f5ab79cb980f11d1
+appnexus.com,1001,RESELLER,f5ab79cb980f11d1
+appnexus.com,10239,RESELLER,f5ab79cb980f11d1
+appnexus.com,1356,RESELLER,f5ab79cb980f11d1
+appnexus.com,1360,RESELLER,f5ab79cb980f11d1
+appnexus.com,3135,RESELLER,f5ab79cb980f11d1
+appnexus.com,4052,RESELLER,f5ab79cb980f11d1
+appnexus.com,7396,RESELLER,f5ab79cb980f11d1
+aps.amazon.com, df9057a1-1338-45ee-89a5-cbd29b25455c, DIRECT
+carambo.la, shrc64, DIRECT, 08a6b436f8183ac9
+contextweb.com, 558299, RESELLER, 89ff185a4c4e857c
+contextweb.com, 561707, RESELLER, 89ff185a4c4e857c
+contextweb.com,561516,RESELLER,89ff185a4c4e857c
+contextweb.com, 558299, RESELLER, 89ff185a4c4e857
+conversantmedia.com,40917,RESELLER,03113cd04947736d
+coxmt.com,2000067907202,RESELLER
+districtm.io, 100712, RESELLER
+districtm.io, 100962, RESELLER
+emxdgt.com,326,RESELLER,1e1d41537f7cad7f
+emxdgt.com,407,RESELLER,1e1d41537f7cad7f
+google.com, pub-6785624193279883, DIRECT, f08c47fec0942fa0
+google.com,pub-2053057622751661,RESELLER,f08c47fec0942fa0
+google.com,pub-5995202563537249,RESELLER,f08c47fec0942fa0
+google.com,pub-9557089510405422,RESELLER,f08c47fec0942fa0
+gumgum.com,11645,RESELLER,ffdef49475d318a9
+indexexchange.com, 175407, RESELLER, 50b1c356f2c5c8fc
+indexexchange.com, 183965, RESELLER, 50b1c356f2c5c8fc
+indexexchange.com, 184110, RESELLER, 50b1c356f2c5c8fc
+indexexchange.com, 188345, DIRECT,50b1c356f2c5c8fc
+indexexchange.com, 188346, DIRECT,50b1c356f2c5c8fc
+indexexchange.com,175407,RESELLER,50b1c356f2c5c8fc
+indexexchange.com,185506,RESELLER,50b1c356f2c5c8fc
+lijit.com,249474,RESELLER,fafdf38b16bf6b2b
+lijit.com,260980,RESELLER,fafdf38b16bf6b2b
+media.net, 8CUR8JQ6Z, DIRECT
+openx.com, 537143344, RESELLER
+openx.com, 539959224, RESELLER
+openx.com, 540191398, RESELLER,6a698e2ec38604c6
+openx.com, 540236670, RESELLER
+openx.com,537111514,RESELLER,6a698e2ec38604c6
+openx.com,537120563,RESELLER,6a698e2ec38604c6
+openx.com,537120960,RESELLER,6a698e2ec38604c6
+openx.com,537140323,RESELLER,6a698e2ec38604c6
+openx.com,537143344,RESELLER,6a698e2ec38604c6
+openx.com,538959099,RESELLER,6a698e2ec38604c6
+openx.com,539392223,RESELLER,6a698e2ec38604c6
+openx.com,539924617,RESELLER,6a698e2ec38604c6
+openx.com,540031703,RESELLER,6a698e2ec38604c6
+openx.com,83499,RESELLER,6a698e2ec38604c6
+pubmatic.com, 156078, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156138, RESELLER
+pubmatic.com, 156458, RESELLER, 5d62403b186f2ace 
+pubmatic.com, 157150, RESELLER,5d62403b186f2ace
+pubmatic.com,156078,RESELLER,5d62403b186f2ace
+pubmatic.com,156212,RESELLER,5d62403b186f2ace
+pubmatic.com,156423,RESELLER,5d62403b186f2ace
+pubmatic.com,156612,RESELLER,5d62403b186f2ace
+pubmatic.com,156700,RESELLER,5d62403b186f2ace
+pubmatic.com,62483,RESELLER,5d62403b186f2ace
+rhythmone.com,1654642120,RESELLER,a670c89d4a324e47
+rhythmone.com,2088589623,RESELLER,a670c89d4a324e47
+rhythmone.com,2439829435,RESELLER,a670c89d4a324e47
+rubiconproject.com, 15408, DIRECT, 0bfd66d529a55807
+rubiconproject.com, 18020, RESELLER,0bfd66d529a55807
+rubiconproject.com, 18222, RESELLER, 0bfd66d529a55807
+rubiconproject.com,16414,RESELLER,0bfd66d529a55807
+rubiconproject.com,17174,RESELLER,0bfd66d529a55807
+rubiconproject.com,17960,RESELLER,0bfd66d529a55807
+rubiconproject.com,211585,RESELLER,0bfd66d529a55807
+rubiconproject.com, 21664, DIRECT, 0bfd66d529a55807 
+rubiconproject.com, 21664, RESELLER, 0bfd66d529a55807
+somoaudience.com,d27329acf5d6e8ee347f60c09a7d0e52,RESELLER
+sonobi.com,f0e1159c80,RESELLER
+sovrn.com,249474,RESELLER,fafdf38b16bf6b2b
+sovrn.com,260980,RESELLER,fafdf38b16bf6b2b
+spotx.tv, 223842, DIRECT,7842df1d2fe2db34
+spotxchange.com, 228454, RESELLER, 7842df1d2fe2db34
+teads.tv, 14821, DIRECT,15a9c44f6d26cbe1
+triplelift.com, 3411, DIRECT,6c33edb13117fd86
+yldbt.com, 5b522cc167f6b300b89dc6d3, RESELLER,cd184cb30abaabb5

@@ -1,0 +1,6 @@
+<script type="text/javascript" language="javascript">
+    var fileref=document.createElement('script');
+    fileref.setAttribute("type","text/javascript");
+    fileref.setAttribute("src", document.location.protocol + '//click.sabavision.com/get_camp.php?id=38025,38024,38023,38022&banner_position=left-top');
+    document.getElementsByTagName("head")[0].appendChild(fileref);
+</script>

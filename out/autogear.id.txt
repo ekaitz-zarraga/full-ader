@@ -1,0 +1,19 @@
+google.com, pub-3480491886902395, DIRECT, f08c47fec0942fa0
+google.com, pub-3691932860218931, DIRECT, f08c47fec0942fa0
+google.com, pub-9134075993162501, RESELLER, f08c47fec0942fa0
+google.com, pub-8138113671389799, RESELLER, f08c47fec0942fa0
+google.com, pub-6314168058065736, RESELLER, f08c47fec0942fa0
+#Genie
+google.com, pub-1237260803267758, DIRECT, f08c47fec0942fa0
+
+#dailymotion-v1.02-2019-11-05
+indexexchange.com,189855,DIRECT
+EMXDGT.com,1289,DIRECT,1e1d41537f7cad7f
+appnexus.com,1356,RESELLER,f5ab79cb980f11d1
+advertising.com,28335,DIRECT,e1a5b5b6e3255540
+openx.com,540463144,DIRECT,6a698e2ec38604c6
+loopme.com,10876,RESELLER,6c8d5f95897a5a3b
+rubiconproject.com,20744,RESELLER,0bfd66d529a55807
+openx.com,540298543,RESELLER,6a698e2ec38604c6
+pubmatic.com,158154,RESELLER,5d62403b186f2ace
+#end

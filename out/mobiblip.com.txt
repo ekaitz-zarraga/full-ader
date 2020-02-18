@@ -1,0 +1,13 @@
+advertising.com, 25308, RESELLER
+adtech.com, 10466, RESELLER
+pubmatic.com, 157535, RESELLER
+pubmatic.com, 157704, RESELLER
+xapads.com, 1104, DIRECT
+contextweb.com, 561844, DIRECT, 89ff185a4c4e857c
+spotxchange.com, 211738, RESELLER, 7842df1d2fe2db34
+spotx.tv, 211738, RESELLER, 7842df1d2fe2db34
+#gamezop-spm
+google.com, pub-3452022011371122, RESELLER, f08c47fec0942fa0
+google.com, pub-6968738577620513, RESELLER
+google.com, pub-2506150943914125, RESELLER, f08c47fec0942fa0
+pubmatic.com, 157906, RESELLER, 5d62403b186f2ace

@@ -1,0 +1,59 @@
+google.com, pub-7009186996524597, DIRECT, f08c47fec0942fa0
+taboola.com,1161648,DIRECT,c228e6794e811952
+spotx.tv,71451,RESELLER
+spotxchange.com, 71451, RESELLER
+advertising.com, 8603, RESELLER
+advertising.com, 3531, RESELLER
+pubmatic.com, 156307, RESELLER, 5d62403b186f2ace
+appnexus.com, 3364, RESELLER
+Indexexchange.com, 183756, RESELLER
+contextweb.com, 560382, RESELLER
+openx.com, 539154393, RESELLER
+tremorhub.com, z87wm, RESELLER, 1a4e959a1b50034a
+rubiconproject.com, 16698, RESELLER, 0bfd66d529a55807
+fyber.com, ad9de41d28d494354b23133f26f83122, RESELLER
+fyber.com, 1a12a7e3f84fe560ccf95a3a73043abb, RESELLER
+vidoomy.com, 52530, DIRECT
+advertising.com, 22762, RESELLER
+aol.com, 22762, RESELLER
+advertising.com, 26631, RESELLER
+appnexus.com, 997, DIRECT, f5ab79cb980f11d1
+appnexus.com, 1908, RESELLER, f5ab79cb980f11d1
+appnexus.com, 3703,RESELLER, f5ab79cb980f11d1
+beachfront.com, 6547, RESELLER
+contextweb.com, 560288, RESELLER, 89ff185a4c4e857c
+contextweb.com, 561252, RESELLER, 89ff185a4c4e857c
+districtm.io, 101540, DIRECT 
+fyber.com, 1236fbff61fdf8859e37831848a42ee5, RESELLER
+lkqd.net, 430, RESELLER, 59c49fa9598a0117
+openx.com, 537149888, RESELLER, 6a698e2ec38604c6 
+pubmatic.com, 154037, RESELLER
+pubmatic.com, 156498, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156439, RESELLER
+tremorhub.com, 4cywq-a04wk, RESELLER, 1a4e959a1b50034a
+rubiconproject.com, 16114, RESELLER, 0bfd66d529a55807
+smartadserver.com, 3136, RESELLER 
+smartclip.net, 10180, DIRECT
+spotxchange.com, 218443, RESELLER, 7842df1d2fe2db34
+spotx.tv, 218443, RESELLER, 7842df1d2fe2db34
+sovrn.com, 257611, RESELLER, fafdf38b16bf6b2b 
+smartadserver.com,1963,reseller
+freewheel.tv, 872257, RESELLER
+freewheel.tv, 894193, RESELLER
+vi.ai, 351530871009226, DIRECT # 41b5eef6
+spotxchange.com, 74964, RESELLER, 7842df1d2fe2db34 # 41b5eef6
+spotx.tv, 74964, RESELLER, 7842df1d2fe2db34 # 41b5eef6
+spotxchange.com, 104684, RESELLER, 7842df1d2fe2db34 # 41b5eef6
+spotx.tv, 104684, RESELLER, 7842df1d2fe2db34 # 41b5eef6
+spotxchange.com, 122515, RESELLER, 7842df1d2fe2db34 # 41b5eef6
+spotx.tv, 122515, RESELLER, 7842df1d2fe2db34 # 41b5eef6
+freewheel.tv, 440657, RESELLER # 41b5eef6
+freewheel.tv, 440673, RESELLER # 41b5eef6
+freewheel.tv, 364193, RESELLER # 41b5eef6
+freewheel.tv, 369249, RESELLER # 41b5eef6
+rubiconproject.com, 15476, RESELLER, 0bfd66d529a55807 # 41b5eef6
+smartadserver.com, 2776, RESELLER # 41b5eef6
+pubmatic.com, 156830, RESELLER # 41b5eef6
+google.com, pub-5617098146054077, RESELLER, f08c47fec0942fa0 # 41b5eef6
+advertising.com, 24831, RESELLER # 41b5eef6
+openx.com, 540362347, RESELLER, 6a698e2ec38604c6

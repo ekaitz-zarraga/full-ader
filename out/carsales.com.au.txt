@@ -1,0 +1,5 @@
+# Ads.txt file for carsales.com.au
+# Ver 3.0
+# 14 February 2020
+
+appnexus.com, 2991, DIRECT, f5ab79cb980f11d1

@@ -1,0 +1,77 @@
+#contact: programmatic@optad360.com
+
+google.com, pub-5512390705137507, RESELLER, f08c47fec0942fa0
+appnexus.com, 6850, RESELLER
+ad.afy11.net, 2000100939380, RESELLER
+coxmt.com, 2000100939380, RESELLER
+nativeads.com, 61734, RESELLER
+adtech.com, 11152, RESELLER
+aolcloud.net, 11152, RESELLER
+aol.com, 46229, RESELLER
+coxmt.com, 2000067907202, RESELLER
+pubmatic.com, 156078, RESELLER
+openx.com, 537143344, RESELLER
+indexexchange.com, 175407, RESELLER
+sovrn.com, 241198, RESELLER
+lijit.com, 241198, RESELLER
+openx.com, 537153897, RESELLER
+rubiconproject.com, 14002, RESELLER
+EMXDGT.com, 49, RESELLER
+Appnexus.com, 1356, RESELLER
+springserve.com, 1, RESELLER
+appnexus.com, 1538, RESELLER
+
+#CLICKIO
+google.com, pub-3104790387792468, RESELLER, f08c47fec0942fa0
+clickio.com, 123765, DIRECT
+openx.com, 537119011, RESELLER, 6a698e2ec38604c6
+aolcloud.net, 4662, RESELLER
+adtech.com, 4662, RESELLER
+contextweb.com, 560182, RESELLER, 89ff185a4c4e857c
+contextweb.com, 561136, RESELLER, 89ff185a4c4e857c
+districtm.io, 101028, RESELLER
+openx.com, 540158170, RESELLER, 6a698e2ec38604c6
+teads.tv, 15389, RESELLER, 15a9c44f6d26cbe1
+appnexus.com, 9954, RESELLER
+pubmatic.com, 157685, RESELLER, 5d62403b186f2ace
+pubmatic.com, 157687, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 19944, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 19942, RESELLER, 0bfd66d529a55807
+betweendigital.com, 35566, RESELLER
+google.com, pub-7168377611570943, RESELLER, f08c47fec0942fa0
+
+#1WorldOnline
+rtk.io, 500, DIRECT
+adtech.com, 10365, RESELLER
+aolcloud.com, 10365, RESELLER
+adtech.com, 5524, RESELLER
+aolcloud.com, 5524, RESELLER
+sekindo.com, 19345, DIRECT, b6b21d256ef43532
+spotxchange.com, 84294, RESELLER, 7842df1d2fe2db34
+spotx.tv, 84294, RESELLER, 7842df1d2fe2db34
+advertising.com, 7372, RESELLER
+advertising.com, 24410, RESELLER
+lkqd.net, 244, RESELLER, 59c49fa9598a0117
+lkqd.com, 244, RESELLER, 59c49fa9598a0117
+freewheel.tv, 19129, RESELLER
+adform.com, 2078, RESELLER
+improvedigital.com, 1065, RESELLER
+pubmatic.com, 156595, RESELLER, 5d62403b186f2ace
+districtm.io, 101359, DIRECT
+appnexus.com, 1908, RESELLER, f5ab79cb980f11d1
+EMXDGT.com, 473, DIRECT, 1e1d41537f7cad7f
+Appnexus.com, 1356, RESELLER, f5ab79cb980f11d1
+Google.com, pub-5995202563537249, RESELLER, f08c47fec0942fa0
+contextweb.com, 560942, RESELLER, 89ff185a4c4e857c
+appnexus.com, 3153, DIRECT
+appnexus.com, 3287, RESELLER
+districtm.io, 100808, DIRECT
+appnexus.com, 7944, RESELLER
+appnexus.com, 1908, RESELLER
+openx.com, 537127577, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 79136 , RESELLER, 5d62403b186f2ace
+rubiconproject.com, 17790, RESELLER, 0bfd66d529a55807
+Smartyads.com, 168, RESELLER
+Sonobi.com, c9dbf3cd67, RESELLER
+
+google.com, pub-1773748611323023, DIRECT, f08c47fec0942fa0

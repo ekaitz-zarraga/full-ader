@@ -1,0 +1,44 @@
+google.com, pub-5392375984254932, DIRECT, f08c47fec0942fa0
+
+#monetizemore
+google.com, pub-7620071422727774, RESELLER, f08c47fec0942fa0 #MMCAD
+google.com, pub-5278973888786334, RESELLER, f08c47fec0942fa0 #MMUSD
+google.com, pub-1142323411777001, RESELLER, f08c47fec0942fa0 #MMAdsense
+
+#aol
+adtech.com, 10513, DIRECT #aol
+aolcloud.net, 10513, DIRECT #aol
+
+#smartadserver
+smartadserver.com, 3198, RESELLER #smartadserver
+contextweb.com, 560288, RESELLER, 89ff185a4c4e857c #smartadserver
+pubmatic.com, 156439, RESELLER #smartadserver
+pubmatic.com, 154037, RESELLER #smartadserver
+rubiconproject.com, 16114, RESELLER, 0bfd66d529a55807 #smartadserver
+openx.com, 537149888, RESELLER, 6a698e2ec38604c6 #smartadserver
+sovrn.com, 257611, RESELLER, fafdf38b16bf6b2b #smartadserver
+appnexus.com, 3703, RESELLER, f5ab79cb980f11d1 #smartadserver
+
+#gtr
+rubiconproject.com, 18450, RESELLER, 0bfd66d529a55807 #gtr
+pubmatic.com, 157530, RESELLER, 5d62403b186f2ace #gtr
+openx.com, 540338038, RESELLER, 6a698e2ec38604c6 #gtr
+
+#appnexus
+appnexus.com, 3573, DIRECT #appnexus
+
+#SmartAdServer
+smartadserver.com, 3198, DIRECT #SmartAdServer
+smartadserver.com, 3198, RESELLER #SmartAdServer
+contextweb.com, 560288, RESELLER, 89ff185a4c4e857c #SmartAdServer
+pubmatic.com, 156439, RESELLER #SmartAdServer
+pubmatic.com, 154037, RESELLER #SmartAdServer
+pubmatic.com, 156030, RESELLER, 5d62403b186f2ace #SmartAdServer
+rubiconproject.com, 16114, RESELLER, 0bfd66d529a55807 #SmartAdServer
+rubiconproject.com, 13132, RESELLER, 0bfd66d529a55807 #SmartAdServer
+openx.com, 537149888, RESELLER, 6a698e2ec38604c6 #SmartAdServer
+appnexus.com, 3703, RESELLER, f5ab79cb980f11d1 #SmartAdServer
+groundtruth.com, 107, RESELLER, 81cbf0a75a5e0e9a #SmartAdServer
+districtm.io, 101760, RESELLER, 3fd707be9c4527c3 #SmartAdServer
+loopme.com, s-2411, RESELLER, 6c8d5f95897a5a3b #SmartAdServer
+loopme.com, 5679, RESELLER, 6c8d5f95897a5a3b #SmartAdServer

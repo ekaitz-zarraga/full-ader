@@ -1,0 +1,17 @@
+bebi.com, ec695a199a9bd2fec43f45c3403d89ff944608a7, DIRECT
+advertising.com, 25308, RESELLER
+adtech.com, 10466, RESELLER
+spotxchange.com, 211738, RESELLER, 7842df1d2fe2db34
+spotx.tv, 211738, RESELLER, 7842df1d2fe2db34
+xapads.com, 1104, DIRECT
+beachfront.com, 4945, DIRECT, e2541279e8e2ca4d
+pubmatic.com, 157535, RESELLER
+
+rekmob.com,  ,DIRECT
+reklamstore.com, , DIRECT
+appnexus.com, 1619, DIRECT
+adform.com, 1431, RESELLER
+pubmatic.com, 156547, RESELLER
+improvedigital.com, 1216, RESELLER
+rubiconproject.com, 17270, RESELLER, 0bfd66d529a55807
+                                

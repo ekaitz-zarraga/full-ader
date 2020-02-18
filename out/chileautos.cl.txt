@@ -1,0 +1,6 @@
+# Archivo de Ads.txt para chileautos.cl
+#
+# El inventario de visualizaci�n de chileautos.cl solo se puede comprar directamente a trav�s Chileautos SpA.
+# El inventario no est� disponible en intercambios abiertos ni en acuerdos de mercado privado.
+# No se enumeran revendedores en este archivo ads.txt por este motivo.
+contact = https://www.chileautos.cl/Estaticas/Contactenos

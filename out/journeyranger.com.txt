@@ -1,0 +1,163 @@
+#Google
+google.com, pub-8052765270242285, DIRECT, f08c47fec0942fa0
+
+#Appnexus
+appnexus.com, 9254, DIRECT, f5ab79cb980f11d1
+
+#OpenX
+openx.com, 540351973, DIRECT, 6a698e2ec38604c6
+
+#IndexExchange
+indexexchange.com, 188905, DIRECT
+
+#Rubicon
+rubiconproject.com, 19224, DIRECT, 0bfd66d529a55807
+rubiconproject.com, 19224, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 19800, DIRECT, 0bfd66d529a55807
+
+#Teads
+teads.tv, 17095, DIRECT, 15a9c44f6d26cbe1
+
+#Vidible
+advertising.com, 3679, DIRECT #video
+advertising.com, 5831, DIRECT #video
+advertising.com, 8044, DIRECT #video
+advertising.com, 8022, DIRECT #video
+spotxchange.com, 161519, DIRECT, 7842df1d2fe2db34
+spotx.tv, 161519, DIRECT, 7842df1d2fe2db34
+google.com, pub-1301581561755234, RESELLER, f08c47fec0942fa0
+appnexus.com, 7287, RESELLER, f5ab79cb980f11d1 #hearst, video
+google.com, pub-3844877863303739, DIRECT, f08c47fec0942fa0
+
+#DisctrictM
+districtm.io, 100699, DIRECT, 3fd707be9c4527c3
+appnexus.com, 1908, RESELLER, f5ab79cb980f11d1
+google.com, pub-9685734445476814, RESELLER, f08c47fec0942fa0
+
+#AOL
+adtech.com, 11194, DIRECT, e1a5b5b6e3255540 
+coxmt.com, 2000067907202, RESELLER
+pubmatic.com, 156078, RESELLER #banner
+pubmatic.com, 156377, RESELLER, 5d62403b186f2ace 
+openx.com, 537143344, RESELLER #banner
+indexexchange.com, 175407, RESELLER, 50b1c356f2c5c8fc
+advertising.com, 28319, DIRECT 
+
+#Sharethrough
+sharethrough.com, 0aeeeff7, DIRECT, d53b998a7bd4ecd2
+indexexchange.com, 186046, RESELLER
+spotxchange.com, 212457, RESELLER
+spotx.tv, 212457, RESELLER
+pubmatic.com, 156557, RESELLER
+rubiconproject.com, 18694, RESELLER, 0bfd66d529a55807
+openx.com, 540274407, RESELLER, 6a698e2ec38604c6
+
+#Yieldmo
+yieldmo.com, 2185645622928508045, DIRECT
+
+#Outbrain
+outbrain.com, 00cc4d8e15065c75376f3e1dd7fcac682e, DIRECT
+appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
+tremorhub.com, q017o-78mlk, RESELLER, 1a4e959a1b50034a # Premium video demand aka "Telaria"
+teads.tv, 15429, RESELLER, 15a9c44f6d26cbe1 # Premium video demand
+advertising.com, 26154, RESELLER # Premium video demand
+spotxchange.com, 225721, RESELLER # Premium video demand
+Freewheel.tv, 741650, RESELLER # Premium video demand
+rubiconproject.com, 17130, RESELLER, 0bfd66d529a55807 # Premium video demand
+lkqd.net, 450, RESELLER, 59c49fa9598a0117 # Premium video demand
+openx.com, 540393169, RESELLER, 6a698e2ec38604c6 # Premium video demand
+spotx.tv, 238936, RESELLER, 7842df1d2fe2db34 # Premium video demand
+spotxchange.com, 238936, RESELLER, 7842df1d2fe2db34 # Premium Video Demand
+advertising.com, 28038, RESELLER # Premium Video Demand
+rubiconproject.com, 19668, RESELLER, 0bfd66d529a55807
+contextweb.com, 562145, RESELLER, 89ff185a4c4e857c  # Premium Video Demand
+indexexchange.com, 190856, RESELLER, 50b1c356f2c5c8fc  # Premium Video Demand
+pubmatic.com, 158615, RESELLER, 5d62403b186f2ace # Premium video & display demand
+vidazoo.com, 1773068026, RESELLER, b6ada874b4d7d0b2 # Premium Video Demand
+
+#UnderdogMedia
+udmserve.net, 2476, DIRECT, 0cf60ed62b5f3e40
+adtech.com, 10483, RESELLER
+advertising.com, 28251, RESELLER, e1a5b5b6e3255540
+aolcloud.net, 10483, RESELLER
+appnexus.com, 1356, RESELLER, f5ab79cb980f11d1
+appnexus.com, 1610, RESELLER, f5ab79cb980f11d1
+appnexus.com, 1908, RESELLER, f5ab79cb980f11d1
+appnexus.com, 7874, RESELLER, f5ab79cb980f11d1
+appnexus.com, 7944, RESELLER, f5ab79cb980f11d1
+appnexus.com, 9316, RESELLER, f5ab79cb980f11d1
+contextweb.com, 508738, RESELLER, 89ff185a4c4e857c
+contextweb.com, 560606, RESELLER, 89ff185a4c4e857c
+coxmt.com, 2000067907202, RESELLER
+districtm.io, 100885, RESELLER
+emxdgt.com, 993, RESELLER, 1e1d41537f7cad7f
+google.com, pub-5278973888786334, RESELLER, f08c47fec0942fa0
+google.com, pub-5995202563537249, RESELLER, f08c47fec0942fa0
+google.com, pub-7620071422727774, RESELLER, f08c47fec0942fa0
+google.com, pub-9148265802523938, RESELLER, f08c47fec0942fa0
+indexexchange.com, 175407, RESELLER, 50b1c356f2c5c8fc
+lkqd.net, 531, RESELLER, 59c49fa9598a0117
+mantisadnetwork.com, 5c8679e8d419e30012d8cb46, RESELLER
+openx.com, 537124574, RESELLER, 6a698e2ec38604c6
+openx.com, 537143344, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 156078, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156344, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156505, RESELLER, 5d62403b186f2ace
+pubmatic.com, 158142, RESELLER, 5d62403b186f2ace
+rhythmone.com, 1059622079, RESELLER, a670c89d4a324e47
+rhythmone.com, 2497923403, RESELLER, a670c89d4a324e47
+rhythmone.com, 4000889998, RESELLER, a670c89d4a324e47
+rhythmone.com, 964214154, RESELLER, a670c89d4a324e47
+rubiconproject.com, 13344, RESELLER, 0bfd66d529a55807
+sonobi.com, 5fa6044d8d, RESELLER
+spotx.tv, 238463, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 238463, RESELLER, 7842df1d2fe2db34
+synacor.com, 82078, RESELLER
+
+#MinuteMedia
+google.com, pub-1956856209985681, DIRECT, f08c47fec0942fa0 #AdX
+indexexchange.com, 188838, DIRECT
+openx.com, 540447746, DIRECT, 6a698e2ec38604c6 
+spotxchange.com, 82069, DIRECT, 7842df1d2fe2db34
+spotx.tv, 82069, DIRECT, 7842df1d2fe2db34
+undertone.com, 3231, DIRECT
+appnexus.com, 2234, RESELLER
+openx.com, 537153564, RESELLER, 6a698e2ec38604c6
+undertone.com, 3802, DIRECT
+adtech.com, 11574, DIRECT
+coxmt.com, 2000067907202, RESELLER
+pubmatic.com, 156078, RESELLER
+sovrn.com, 264726, DIRECT, fafdf38b16bf6b2b
+lijit.com, 264726, DIRECT, fafdf38b16bf6b2b
+media.net, 8CU713ZQC, DIRECT 
+media.net, 8CU6YC6OW, DIRECT
+rhythmone.com, 203808374, DIRECT, a670c89d4a324e47 
+yieldmo.com, 2230484298816456318, DIRECT 
+sonobi.com, f22036b5f1, DIRECT, d1a215d9eb5aee9e
+telaria.com, 32jid-ohl8i, RESELLER, 1a4e959a1b50034a
+tremorhub.com, 32jid-ohl8i, RESELLER, 1a4e959a1b50034a
+pubmatic.com, 158541, DIRECT, 5d62403b186f2ace
+vdopia.com, 14546, DIRECT, 49a66ce31a704197 #video
+chocolateplatform.com, 14546, DIRECT, 49a66ce31a704197 #video
+vdopia.com, 14546, DIRECT, 49a66ce31a704197 #banner
+chocolateplatform.com, 14546, DIRECT, 49a66ce31a704197 #banner
+adtech.com, 11574, DIRECT #EBDA
+advertising.com, 28488, DIRECT #EBDA
+emxdgt.com, 1369, DIRECT, 1e1d41537f7cad7f #TESTING
+openx.com, 540780517, DIRECT, 6a698e2ec38604c6
+improvedigital.com, 1530, RESELLER #EBDA
+sovrn.com, 239163, RESELLER, fafdf38b16bf6b2b
+lijit.com, 239163, RESELLER, fafdf38b16bf6b2b
+appnexus.com, 3391, RESELLER, f5ab79cb980f11d1
+google.com, pub-2024690810381654, RESELLER, f08c47fec0942fa0
+google.com, pub-5717092533913515, DIRECT, f08c47fec0942fa0 #Primary
+google.com, pub-5717092533913515, RESELLER, f08c47fec0942fa0 #NPMpartners
+indexexchange.com, 185192, RESELLER #EBDA
+openx.com, 538929384, RESELLER, 6a698e2ec38604c6 #EBDA
+rubiconproject.com, 17346, RESELLER, 0bfd66d529a55807 #EBDA
+spotx.tv, 108706, RESELLER, 7842df1d2fe2db34
+spotxchange.com,108706, RESELLER, 7842df1d2fe2db34
+tremorhub.com, ag0sk, RESELLER, 1a4e959a1b50034a #VideoSSP
+tremorhub.com, jrkl5-0ac26, RESELLER, 1a4e959a1b50034a
+media.net, 8CUZ310G2, RESELLER #EBDA
+pubmatic.com, 157904, RESELLER, 5d62403b186f2ace

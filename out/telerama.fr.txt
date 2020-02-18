@@ -1,0 +1,124 @@
+# 14.01.2020
+# TRA
+google.com, pub-9273264035880389, DIRECT, f08c47fec0942fa0 #Admanager
+appnexus.com, 8253, DIRECT, f5ab79cb980f11d1 #SKL
+appnexus.com, 8499, DIRECT, f5ab79cb980f11d1 #HB
+appnexus.com, 1608, RESELLER, f5ab79cb980f11d1 #MSQ
+appnexus.com, 3500, RESELLER, f5ab79cb980f11d1 #MSQ
+appnexus.com, 8494, RESELLER, f5ab79cb980f11d1 #MSQ
+smartadserver.com, 1338, RESELLER
+triplelift.com, 5950-EB, DIRECT, 6c33edb13117fd86 #EB
+appnexus.com, 1314, RESELLER #EBTL
+google.com, pub-3391936129161967, RESELLER, f08c47fec0942fa0
+google.com, pub-2366164365855963, RESELLER, f08c47fec0942fa0
+indexexchange.com, 186542, DIRECT #EB
+rubiconproject.com, 19360, DIRECT, 0bfd66d529a55807 #EB
+rubiconproject.com, 19358, DIRECT, 0bfd66d529a55807 #HB
+triplelift.com, 5950, DIRECT, 6c33edb13117fd86
+rubiconproject.com, 9585, RESELLER, 0bfd66d529a55807
+openx.com, 540233828, DIRECT, 6a698e2ec38604c6
+openx.com, 540420228, DIRECT, 6a698e2ec38604c6 #HB
+openx.com, 540701414, DIRECT, 6a698e2ec38604c6 #A9
+indexexchange.com, 189918, DIRECT #HB
+spotxchange.com, 262124, DIRECT, 7842df1d2fe2db34 #A9
+spotx.tv, 262124, DIRECT, 7842df1d2fe2db34 #A9
+
+#Ligatus
+ligadx.com, 21908, DIRECT
+ligadx.com, b99c26e0253a0683, DIRECT
+
+#Outbrain
+outbrain.com, 00bc68ea9e2143c66c0e0ce80b8436b0ce, DIRECT
+appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
+tremorhub.com, q017o-78mlk, RESELLER, 1a4e959a1b50034a # Premium video demand aka "Telaria"
+teads.tv, 15429, RESELLER, 15a9c44f6d26cbe1 # Premium video demand
+advertising.com, 26154, RESELLER # Premium video demand
+spotxchange.com, 225721, RESELLER # Premium video demand
+Freewheel.tv, 741650, RESELLER # Premium video demand
+rubiconproject.com, 17130, RESELLER, 0bfd66d529a55807 # Premium video demand
+lkqd.net, 450, RESELLER, 59c49fa9598a0117 # Premium video demand
+openx.com, 540393169, RESELLER, 6a698e2ec38604c6 # Premium video demand
+spotx.tv, 238936, RESELLER, 7842df1d2fe2db34 # Premium video demand
+spotxchange.com, 238936, RESELLER, 7842df1d2fe2db34 # Premium Video Demand
+advertising.com, 28038, RESELLER # Premium Video Demand
+rubiconproject.com, 19668, RESELLER, 0bfd66d529a55807
+
+#Fuel
+smartadserver.com,3161,RESELLER #fuel
+openx.com,537149888,RESELLER,6a698e2ec38604c6 #fuel
+appnexus.com,3703,RESELLER,f5ab79cb980f11d1 #fuel
+google.com,pub-1172870656034468, RESELLER, f08c47fec0942fa0 #fuel
+pubmatic.com,156439,RESELLER #fuel
+pubmatic.com,154037,RESELLER #fuel
+rubiconproject.com,16114,RESELLER, 0bfd66d529a55807 #fuel
+contextweb.com,560288,RESELLER,89ff185a4c4e857c #fuel
+sovrn.com,257611,RESELLER, fafdf38b16bf6b2b #fuel
+indexexchange.com,179394,RESELLER #fuel
+districtm.io,101760, RESELLER, 3fd707be9c4527c3 #fuel
+
+#MNT
+adyoulike.com, 4506651901d02d97be2bcfbefae279b8, DIRECT, 4ad745ead2958bf7 #MNT
+adyoulike.com, 4506651901d02d97be2bcfbefae279b8, RESELLER, 4ad745ead2958bf7 #MNT
+freewheel.tv, 745362, RESELLER #MNT
+freewheel.tv, 745378, RESELLER #MNT
+spotxchange.com, 230037, RESELLER, 7842df1d2fe2db34 #MNT
+spotx.tv, 230037, RESELLER, 7842df1d2fe2db34 #MNT
+tremorhub.com, ewut4-b6zwq, RESELLER, 1a4e959a1b50034a #MNT
+appnexus.com, 6925, DIRECT #MNT
+appnexus.com, 884, RESELLER #MNT
+districtm.io, 100334, DIRECT, 3fd707be9c4527c3 #MNT
+appnexus.com, 1908, RESELLER, f5ab79cb980f11d1 #MNT
+google.com, pub-2163792983970113, DIRECT, f08c47fec0942fa0 #MNT
+improvedigital.com, 1102, RESELLER #MNT
+google.com, pub-0942427266003794, RESELLER, f08c47fec0942fa0 #MNT
+indexexchange.com, 184315, RESELLER, 50b1c356f2c5c8fc #MNT
+indexexchange.com, 182960, RESELLER, 50b1c356f2c5c8fc #MNT
+indexexchange.com, 181202, RESELLER, 50b1c356f2c5c8fc #MNT
+indexexchange.com, 184601, RESELLER, 50b1c356f2c5c8fc #MNT
+smartadserver.com,2900,RESELLER #MNT
+contextweb.com,560288,RESELLER,89ff185a4c4e857c #MNT
+pubmatic.com,156439,RESELLER #MNT
+pubmatic.com,154037,RESELLER #MNT
+rubiconproject.com,16114,RESELLER,0bfd66d529a55807 #MNT
+openx.com,537149888,RESELLER,6a698e2ec38604c6 #MNT
+sovrn.com,257611,RESELLER,fafdf38b16bf6b2b #MNT
+appnexus.com,3703,RESELLER,f5ab79cb980f11d1 #MNT
+smartadserver.com, 2900, DIRECT #MNT
+smartadserver.com, 2900, RESELLER #MNT
+contextweb.com, 560288, RESELLER, 89ff185a4c4e857c #MNT
+pubmatic.com, 156439, RESELLER #MNT
+pubmatic.com, 154037, RESELLER #MNT
+pubmatic.com, 156030, RESELLER, 5d62403b186f2ace #MNT
+rubiconproject.com, 16114, RESELLER, 0bfd66d529a55807 #MNT
+rubiconproject.com, 13132, RESELLER, 0bfd66d529a55807 #MNT
+openx.com, 537149888, RESELLER, 6a698e2ec38604c6 #MNT
+appnexus.com, 3703, RESELLER, f5ab79cb980f11d1 #MNT
+groundtruth.com, 107, RESELLER, 81cbf0a75a5e0e9a #MNT
+districtm.io, 101760, RESELLER, 3fd707be9c4527c3 #MNT
+loopme.com, s-2411, RESELLER, 6c8d5f95897a5a3b #MNT
+loopme.com, 5679, RESELLER, 6c8d5f95897a5a3b #MNT
+appnexus.com, 884,RESELLER #MNT
+
+#Spot.IM
+springserve.com, 1, RESELLER
+springserve.com, 15924, RESELLER
+contextweb.com, 560571, RESELLER
+fyber.com, 42a3ff98fefe677016da0f87403a11cf, RESELLER
+fyber.com, 42a3ff98fefe677016da0f87403a11cf, DIRECT
+google.com, pub-6746653557725812, DIRECT
+google.com, pub-5616046187545019, DIRECT
+advertising.com, 21364, RESELLER
+freewheel.tv, 319201, RESELLER
+freewheel.tv, 325521, RESELLER
+optimatic.com, 655036715457, RESELLER
+optimatic.com, 655036715457, DIRECT
+tremorhub.com, p4dt2-jhelk, RESELLER
+openx.com, 539293181, RESELLER
+openx.com,539466082, RESELLER
+rhythmone.com, 449400134, DIRECT, a670c89d4a324e47
+spotxchange.com, 211945, RESELLER, 7842df1d2fe2db34
+spotx.tv, 211945, RESELLER, 7842df1d2fe2db34
+rubiconproject.com, 17184, DIRECT
+vertamedia.com, 267755, RESELLER
+vertamedia.com, 268114, RESELLER
+appnexus.com, 6933, RESELLER

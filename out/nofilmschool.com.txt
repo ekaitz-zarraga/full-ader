@@ -1,0 +1,7 @@
+google.com, pub-2630461322663943, DIRECT, f08c47fec0942fa0
+google.com, pub-1552509015295897, RESELLER, f08c47fec0942fa0 # ocelot.studio
+indexexchange.com, 186155, RESELLER # ocelot.studio
+indexexchange.com, 188731, RESELLER # ocelot.studio / EB
+rubiconproject.com, 17198, RESELLER # ocelot.studio
+rubiconproject.com, 19812, RESELLER, 0bfd66d529a55807 # ocelot.studio / EB
+appnexus.com, 9551, RESELLER # ocelot.studio

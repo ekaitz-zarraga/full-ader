@@ -1,0 +1,75 @@
+# Ads.txt for flippa.com
+# Last updated 12-12-2019
+
+#adx
+google.com, pub-8473763341054993, RESELLER, f08c47fec0942fa0
+
+#BJPadx
+google.com, pub-3998640455247108, RESELLER, f08c47fec0942fa0
+
+#appnexus
+appnexus.com, 8438, DIRECT
+
+#ix
+indexexchange.com, 186268, DIRECT
+
+#districtm
+districtm.io, 100893, DIRECT, 3fd707be9c4527c3
+appnexus.com, 1908, RESELLER, f5ab79cb980f11d1
+google.com, pub-9685734445476814, RESELLER, f08c47fec0942fa0
+
+#emx
+EMXDGT.com, 1101, DIRECT, 1e1d41537f7cad7f
+appnexus.com, 1356, RESELLER, f5ab79cb980f11d1
+google.com, pub-5995202563537249, RESELLER, f08c47fec0942fa0
+
+#lockerdome
+lockerdome.com, 6508062643068417, DIRECT
+
+#rubicon
+rubiconproject.com, 17544, DIRECT, 0bfd66d529a55807
+
+#sharethrough
+sharethrough.com, 651d22ba, DIRECT, d53b998a7bd4ecd2
+indexexchange.com, 186046, RESELLER
+spotxchange.com, 212457, RESELLER
+spotx.tv, 212457, RESELLER
+pubmatic.com, 156557, RESELLER
+rubiconproject.com, 18694, RESELLER, 0bfd66d529a55807
+openx.com, 540274407, RESELLER, 6a698e2ec38604c6
+
+#sovrn
+sovrn.com, 251916, DIRECT, fafdf38b16bf6b2b
+lijit.com, 251916, DIRECT, fafdf38b16bf6b2b
+lijit.com, 251916-eb, DIRECT, fafdf38b16bf6b2b
+appnexus.com, 1360, RESELLER, f5ab79cb980f11d1
+gumgum.com, 11645, RESELLER, ffdef49475d318a9
+openx.com, 538959099, RESELLER, 6a698e2ec38604c6
+openx.com, 539924617, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 137711, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156212, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156700, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 17960, RESELLER, 0bfd66d529a55807
+
+#revcontent
+revcontent.com, 77588, DIRECT
+appnexus.com, 7666, RESELLER, f5ab79cb980f11d1
+rubiconproject.com, 156042, RESELLER, 0bfd66d529a55807
+my6sense.com, 9732, RESELLER
+criteo.com, 7822, RESELLER
+connatix.com, 101600, DIRECT, 2af98acdee0e81ed
+tremorhub.com, cd009, RESELLER, 1a4e959a1b50034a
+advertising.com, 3679, RESELLER
+advertising.com, 14564, RESELLER
+spotxchange.com, 136839, RESELLER, 7842df1d2fe2db34
+spotx.tv, 136839, RESELLER, 7842df1d2fe2db34
+openx.com, 539496816, RESELLER, 6a698e2ec38604c6
+google.com, pub-5480205708168063, RESELLER, f08c47fec0942fa0
+google.com, pub-9914992914910847, DIRECT, f08c47fec0942fa0
+
+#triplelift
+triplelift.com, 8032, DIRECT, 6c33edb13117fd86
+appnexus.com, 1314, RESELLER
+
+#rhythmone
+rhythmone.com, 3403014119, DIRECT, a670c89d4a324e47

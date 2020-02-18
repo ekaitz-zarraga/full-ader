@@ -1,0 +1,31 @@
+google.com, pub-1738284215641521, DIRECT
+google.com, pub-2758646641912684, DIRECT
+innity.com, pub ID, DIRECT, 47ea16374dff1d69
+google.com, pub-1738284215641521, DIRECT, f08c47fec0942fa0 
+google.com, pub-1738284215641521, RESELLER, f08c47fec0942fa0
+google.com, pub-2186101008500724, DIRECT, f08c47fec0942fa0
+innity.com, pub ID, DIRECT, 47ea16374dff1d69
+Appnexus.com, 3058 , RESELLER
+video.unrulymedia.com, UNRX_0181f9a0-dc44-49a4-9928-dd7e9e70e4a2, DIRECT
+video.unrulymedia.com, UNRX_f3cbd8b2-fce4-4c36-b3fb-412fc26da65b, DIRECT
+video.unrulymedia.com, UNRX_90d63cbe-c508-4764-acc4-86ac945dbb28, DIRECT
+video.unrulymedia.com, UNRX_d7c0d171-4c20-4a4a-b909-c44dd8bab855, DIRECT
+video.unrulymedia.com, UNRX_fdf4ef6e-c1df-45a1-980b-902ab68a134e, DIRECT
+video.unrulymedia.com, UNRX_dcb8fb43-03ab-43f5-8e74-008a0b3d701f, DIRECT
+video.unrulymedia.com, UNRX_cf958858-8443-4ff4-b1a4-c865dbcd03ab, DIRECT
+video.unrulymedia.com, UNRX_f3c9bf20-18a9-4be2-8636-628307effea9, DIRECT
+indexexchange.com, 182257, RESELLER
+appnexus.com, 6849, RESELLER
+rubiconproject.com, 15268, RESELLER
+smaato.com,1100032432,DIRECT
+gammassp.com, 1533319673, DIRECT
+
+#Innity
+innity.com, 4588, DIRECT, 47ea16374dff1d69
+appnexus.com, 3058, RESELLER
+google.com, pub-7002491002409919, DIRECT, f08c47fec0942fa0
+google.com, pub-7002491002409919, RESELLER, f08c47fec0942fa0
+google.com, pub-9378724246417115, DIRECT, f08c47fec0942fa0
+
+#Rubicon
+rubiconproject.com, 21436, RESELLER, 0bfd66d529a55807

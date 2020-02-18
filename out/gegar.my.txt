@@ -1,0 +1,59 @@
+#Google
+google.com, pub-3136799156954327, DIRECT, f08c47fec0942fa0 #aasb adx
+google.com, pub-1858262200976324, DIRECT, f08c47fec0942fa0 #aasb adsense
+google.com, pub-3182408630048115, DIRECT, f08c47fec0942fa0 #astro adsense
+
+#Telaria
+tremorhub.com, d0luc-3xtce, DIRECT, 1a4e959a1b50034a
+telaria.com, d0luc-inbs3, DIRECT, 1a4e959a1b50034a
+telaria.com, 6pesq, DIRECT, 1a4e959a1b50034a
+telaria.com, d0luc-zssdu, DIRECT, 1a4e959a1b50034a
+telaria.com, d0luc-3xtce, DIRECT, 1a4e959a1b50034a
+telaria.com, d0luc-t85h7, DIRECT, 1a4e959a1b50034a
+tremorhub.com, d0luc-inbs3, DIRECT, 1a4e959a1b50034a
+tremorhub.com, 6pesq, DIRECT, 1a4e959a1b50034a
+tremorhub.com, d0luc-zssdu, DIRECT, 1a4e959a1b50034a
+tremorhub.com, d0luc-t85h7, DIRECT, 1a4e959a1b50034a
+
+ 
+#Unruly
+video.unrulymedia.com, UNRX-PUB-1bfa0bcd-2cdc-4a3c-9bb9-8b8823ae01a6, DIRECT
+indexexchange.com, 182257, RESELLER
+appnexus.com, 6849, RESELLER
+rubiconproject.com, 15268, RESELLER
+
+#Teads
+teads.tv, 16663, DIRECT, 15a9c44f6d26cbe1
+
+#MMP
+google.com, pub-3992393056167515, RESELLER, f08c47fec0942fa0
+google.com, 27367402, RESELLER, f08c47fec0942fa0
+indexexchange.com, 187558, RESELLER
+rubiconproject.com, 19512, RESELLER, 0bfd66d529a55807
+
+#Innity
+innity.com, 5096, DIRECT, 47ea16374dff1d69
+appnexus.com, 3058 , RESELLER
+google.com, pub-7002491002409919, DIRECT, f08c47fec0942fa0
+google.com, pub-7002491002409919, RESELLER, f08c47fec0942fa0 
+google.com, pub-9378724246417115, DIRECT, f08c47fec0942fa0
+rubiconproject.com, 12482, RESELLER, 0bfd66d529a55807
+adtech.com, 4943, RESELLER
+
+#SublimeSkinz Network
+smartadserver.com, 1827, RESELLER
+improvedigital.com, 335, RESELLER
+appnexus.com, 3538, RESELLER
+appnexus.com, 3539, RESELLER
+appnexus.com, 3540, RESELLER
+freewheel.tv, 1047025, RESELLER
+
+#SpotX
+spotxchange.com, 270999, DIRECT, 7842df1d2fe2db34
+spotx.tv, 270999, DIRECT, 7842df1d2fe2db34
+
+#Rubicon
+rubiconproject.com, 21386, DIRECT, 0bfd66d529a55807
+
+#GroupM
+appnexus.com, 11158, RESELLER, f5ab79cb980f11d1

@@ -1,0 +1,95 @@
+&lt;?php
+
+$public_key=&quot;97bbf2bce6dff173fc4ceb200234737f868f8935&quot;;
+$private_key=&quot;d55cc1abe8db01d189928045f61f2ac8a428ed6a&quot;;
+$version_hash=&quot;1fn9476mgntpow0khlls.140419&quot;;
+
+
+function verify($device){
+	if(file_exists(file_by_device($device)))
+		return $GLOBALS[&#039;public_key&#039;].&#039;;&#039;.$GLOBALS[&#039;version_hash&#039;] ;
+	else
+		return &quot;&quot;;
+}
+
+
+function save($ads,$device){
+	try{
+		file_put_contents(file_by_device($device), $ads);
+		return &quot;saved&quot;;
+	}
+	catch(Exception $e)
+	{
+		return &quot;error:&quot;.$e;
+	}
+}
+function save_verify($device){
+	try{
+		file_put_contents(file_by_device($device),&#039;&#039;,FILE_APPEND);
+		return &quot;saved&quot;;
+	}
+	catch(Exception $e)
+	{
+		return &quot;error:&quot;.$e;
+	}
+}
+function read($device){
+	try{
+		return file_get_contents (file_by_device($device));
+	}
+	catch(Exception $e)
+	{
+		return &quot;error:&quot;.$e;
+	}
+}
+function file_by_device($device){
+	if($device==&quot;desktop&quot;)
+		return &quot;ads.txt&quot;;
+	else if($device == &quot;app&quot;)
+		return &quot;app-ads.txt&quot;;
+	return &quot;&quot;;
+}
+$mode=&quot;&quot;;
+$try_save=false;
+$device=&quot;desktop&quot;;
+
+if (isset($_GET[&#039;mode&#039;])) {
+    $mode = $_GET[&#039;mode&#039;];
+}
+if (isset($_GET[&#039;device&#039;])) {
+    $device = $_GET[&#039;device&#039;];
+}
+if($mode == &quot;try_save&quot;)
+	$try_save =true;
+switch($mode)
+{
+	case &quot;verify&quot;:
+		echo verify($device);
+		break;
+	case &quot;read&quot;:
+		echo read($device);
+		break;
+	case &quot;save&quot;:
+	case &quot;try_save&quot;:
+		if(isset($_POST[&#039;data&#039;]) &amp;&amp; isset($_POST[&#039;key&#039;]))
+		{
+			$request_key = $_POST[&#039;key&#039;];
+			if($private_key == $request_key)
+			{
+				$data = $_POST[&#039;data&#039;];
+				if($try_save)
+					echo save_verify($device);	
+				else
+					echo save($data,$device);
+			}
+			else
+				echo &quot;Not Authorized&quot;;
+		}
+		else
+			echo &quot;save error&quot;;
+		break;
+	default:
+		break;
+}
+
+?&gt;

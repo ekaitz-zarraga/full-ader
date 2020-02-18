@@ -1,0 +1,62 @@
+# Ads.txt file for http://peacefmonline.com
+
+
+#google
+google.com, pub-9851803229604827, DIRECT, f08c47fec0942fa0  	#adsense
+google.com, pub-2623005858729319, DIRECT, f08c47fec0942fa0	#adx
+
+
+#amazon
+aps.amazon.com,366411d7-d906-4433-bd51-9d2527df8ac9,DIRECT
+pubmatic.com,157150,RESELLER,5d62403b186f2ace
+openx.com,540191398,RESELLER,6a698e2ec38604c6
+rubiconproject.com,18020,RESELLER,0bfd66d529a55807
+appnexus.com,1908,RESELLER,f5ab79cb980f11d1
+yldbt.com,5b522cc167f6b300b89dc6d3,RESELLER,cd184cb30abaabb5
+adtech.com,12068,RESELLER
+districtm.io,100962,RESELLER
+rhythmone.com,1001,RESELLER
+rhythmone.com,1654642120,RESELLER,a670c89d4a324e47
+
+
+
+#chitika
+chitika.net, peacefmonline, DIRECT
+contextweb.com, 560544, RESELLER
+google.com, pub-6282801281028626, RESELLER, f08c47fec0942fa0
+appnexus.com, 1888, RESELLER
+adtech.com, 10475, RESELLER
+
+
+#exponential
+exponential.com, 161310, DIRECT, afac06385c445926
+tribalfusion.com, 161310, DIRECT, afac06385c445926
+google.com, pub-2051007210431666, RESELLER, f08c47fec0942fa0
+appnexus.com, 983, RESELLER
+
+
+
+#medianet
+media.net, 8CU2CCE5O, DIRECT
+rubiconproject.com, 19398, DIRECT, 0bfd66d529a55807
+rubiconproject.com, 19398, RESELLER, 0bfd66d529a55807
+pubmatic.com, 157599, DIRECT, 5d62403b186f2ace
+pubmatic.com, 157599, RESELLER, 5d62403b186f2ace
+openx.com, 537100188, RESELLER, 6a698e2ec38604c6
+google.com, pub-7439041255533808, RESELLER, f08c47fec0942fa0
+districtm.io, 100600, DIRECT
+rubiconproject.com, 17054, RESELLER
+pubmatic.com, 156181, RESELLER
+spotxchange.com, 211156, RESELLER, 7842df1d2fe2db34
+spotx.tv, 211156, RESELLER, 7842df1d2fe2db34
+
+
+
+
+
+contact=michael@peacefmonline.com
+
+
+
+
+#Last Modified: 2019.12.10

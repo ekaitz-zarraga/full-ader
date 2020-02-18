@@ -1,0 +1,51 @@
+media.net, 8CUQW2RCF, DIRECT #MND 
+rubiconproject.com, 19398, DIRECT, 0bfd66d529a55807 #MND 
+rubiconproject.com, 19398, RESELLER, 0bfd66d529a55807 #MND 
+pubmatic.com, 157599, DIRECT, 5d62403b186f2ace #MND 
+pubmatic.com, 157599, RESELLER, 5d62403b186f2ace #MND 
+openx.com, 537100188, RESELLER, 6a698e2ec38604c6 #MND 
+google.com, pub-7439041255533808, RESELLER, f08c47fec0942fa0 #MND 
+districtm.io, 100600, DIRECT #MND 
+rubiconproject.com, 17054, RESELLER #MND 
+pubmatic.com, 156181, RESELLER #MND 
+spotxchange.com, 211156, RESELLER, 7842df1d2fe2db34 #MND 
+spotx.tv, 211156, RESELLER, 7842df1d2fe2db34 #MND
+springserve.com, 437, DIRECT, a24eb641fc82e93d #SD
+advertising.com, 26282, RESELLER #SD 
+beachfront.com, 4969, DIRECT, e2541279e8e2ca4d #SD
+rhythmone.com, 2968119028, DIRECT, a670c89d4a324e47 #SD
+pubmatic.com, 157310, RESELLER, 5d62403b186f2ace #SD
+contextweb.com, 561910, RESELLER, 89ff185a4c4e857c #SD
+spotxchange.com, 239904, RESELLER, 7842df1d2fe2db34 #SD 
+spotx.tv, 239904, RESELLER, 7842df1d2fe2db34 #SD 
+contextweb.com, 561910, RESELLER, 89ff185a4c4e857c #SD 
+openx.com, 540454059, RESELLER, 6a698e2ec38604c6 #SD 
+ssp.ynxs.io, 185, RESELLER #SD 
+advertising.com, 22432, DIRECT, e1a5b5b6e3255540 #VMGD 
+indexexchange.com, 183965, RESELLER, 50b1c356f2c5c8fc #VMGD 
+Pubmatic.com, 156458, RESELLER, 5d62403b186f2ace #VMGD 
+Pubmatic.com, 156325, RESELLER, 5d62403b186f2ace #VMGD 
+Pubmatic.com, 156084, RESELLER, 5d62403b186f2ace #VMGD 
+coxmt.com, 2000067995202, RESELLER #VMGD 
+rubiconproject.com, 18222, RESELLER, 0bfd66d529a55807 #VMGD 
+adtech.com, 11151, DIRECT, e1a5b5b6e3255540 #VMGD 
+aol.com, 41620, DIRECT #VMGD 
+aolcloud.net, 11151, DIRECT #VMGD 
+coxmt.com, 2000067907202, RESELLER #VMGD 
+pubmatic.com, 156078, RESELLER #VMGD 
+pubmatic.com, 156377, RESELLER #VMGD 
+pubmatic.com, 155967, RESELLER #VMGD 
+openx.com, 537143344, RESELLER #VMGD 
+indexexchange.com, 175407, RESELLER #VMGD
+appnexus.com, 9237, DIRECT #APND
+Mediabong.com, 2645, DIRECT #MBD
+Mediabong.com, 2645, RESELLER #MBD 
+google.com, pub-4775867325027312, RESELLER, f08c47fec0942fa0 #YBR
+districtm.io, 101566, DIRECT #DID
+appnexus.com, 1908, RESELLER, f5ab79cb980f11d1 #DID 
+google.com, pub-9685734445476814, RESELLER, f08c47fec0942fa0 #DID
+EMXDGT.com, 863, DIRECT, 1e1d41537f7cad7f #EXD
+Appnexus.com, 1356, RESELLER, f5ab79cb980f11d1 #EXD 
+Google.com, pub-5995202563537249, RESELLER, f08c47fec0942fa0 #EXD
+beachfront.com, 13067, DIRECT, e2541279e8e2ca4d #BFD
+adtech.com,11151, DIRECT, e1a5b5b6e3255540 #VMGD

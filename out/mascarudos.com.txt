@@ -1,0 +1,446 @@
+aps.amazon.com, 3661, DIRECT #display
+indexexchange.com, 188211, DIRECT #bluemedia #ebda
+rubiconproject.com, 19198, DIRECT, 0bfd66d529a55807 #bluemedia #ebda
+appnexus.com, 956, RESELLER, f5ab79cb980f11d1
+google.com, pub-4979986541055910, RESELLER, f08c47fec0942fa0
+rubiconproject.com, 13258, RESELLER, 0bfd66d529a55807
+openx.com, 539368278, RESELLER, 6a698e2ec38604c6 #Desktop
+openx.com, 539368282, RESELLER, 6a698e2ec38604c6 #Mobile
+pubmatic.com, 73785, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156026, RESELLER, <5d62403b186f2ace>
+adtech.com, 4812, RESELLER
+aolcloud.net, 4812, RESELLER
+aol.com, 21581, RESELLER
+adform.com, 1721, RESELLER
+teads.tv, 10133, DIRECT, 15a9c44f6d26cbe1
+teads.tv, 10006, DIRECT, 15a9c44f6d26cbe1
+google.com, pub-9404419171574902, RESELLER, f08c47fec0942fa0
+smartadserver.com, 2664, DIRECT
+indexexchange.com,179394,RESELLER #st3
+appnexus.com, 8509, DIRECT
+openx.com, 537117497, Reseller, 6a698e2ec38604c6
+spotx.tv, 126022, RESELLER, 7842df1d2fe2db34
+spotx.com, 108933, Reseller, 7842df1d2fe2db34
+openx.com, 537123540, Reseller, 6a698e2ec38604c6
+openx.com, 537117448, Reseller, 6a698e2ec38604c6
+openx.com, 537117434, Reseller, 6a698e2ec38604c6
+openx.com, 537145991, Reseller, 6a698e2ec38604c6
+openx.com, 537117371, Reseller, 6a698e2ec38604c6
+openx.com, 537117435, Reseller, 6a698e2ec38604c6
+openx.com, 537123577, Reseller, 6a698e2ec38604c6
+openx.com, 537117145, Reseller, 6a698e2ec38604c6
+freewheel.tv, 42209, RESELLER
+freewheel.tv, 302257, RESELLER
+freewheel.tv, 302225, RESELLER
+freewheel.tv, 424257, RESELLER
+freewheel.tv, 399697, RESELLER
+freewheel.tv, 434401, RESELLER
+freewheel.tv, 424849, RESELLER
+freewheel.tv, 424689, RESELLER
+google.com, pub-3840896709880083, DIRECT, f08c47fec0942fa0
+google.com, pub-3117709661232544, DIRECT, f08c47fec0942fa0
+google.com, pub-9790762811057699, RESELLER, f08c47fec0942fa0
+appnexus.com, 2992, RESELLER
+google.com, pub-7747436378556651, RESELLER, f08c47fec0942fa0
+spotxchange.com, 126022, RESELLER, 7842df1d2fe2db34
+
+google.com, pub-5602217405417227, DIRECT, f08c47fec0942fa0
+google.com, pub-1263356348319782, DIRECT, f08c47fec0942fa0
+rubiconproject.com, 17212, DIRECT, 0bfd66d529a55807
+rubiconproject.com, 8861, RESELLER, 0bfd66d529a55807
+indexexchange.com, 184665, RESELLER, 50b1c356f2c5c8fc
+smartadserver.com,1689,RESELLER
+pubmatic.com,156437,RESELLER
+appnexus.com,3703,RESELLER,f5ab79cb980
+advertising.com,14930,RESELLER
+cedato.com,501446106,RESELLER
+cedato.com,25242397,RESELLER
+google.com, pub-8970051714901096, RESELLER
+tidaltv.com, 5150,RESELLER #ST1
+tidaltv.com, 4764,RESELLER #ST1
+pubmatic.com, 114634, RESELLER #ST3
+pubmatic.com, 81564, DIRECT, 5d62403b186f2ace#ST3
+pubmatic.com, 156241, RESELLER #ST3
+spotxchange.com, 173177, RESELLER #ST3
+spotxchange.com, 173175, RESELLER #ST3
+fyber.com, 02d54c63f17ab1407e1ab9bf16aa883c, RESELLER #ST3
+fyber.com, 70f8ec805088dbbfd73d8c68ee47bbfc, RESELLER #ST3
+adform.com, 1941, RESELLER #ST3
+adtech.com, 4687, RESELLER #ST3
+google.com, pub-4673227357197067, RESELLER, f08c47fec0942fa0 #ST3
+lijit.com, 249425, RESELLER #ST3
+mobfox.com, 45499, RESELLER #ST3
+pulsepoint.com, 560520, RESELLER #ST3
+sovrn.com, 249425, RESELLER #ST3
+adyoulike.com, 3048ebbdf1329389c47e537c68b89e32, DIRECT #adyoulike
+smartadserver.com, 1827, RESELLER #sublimeskinz
+improvedigital.com, 335, RESELLER #sublimeskinz
+appnexus.com, 3538, RESELLER #sublimeskinz
+appnexus.com, 3539, RESELLER #sublimeskinz
+appnexus.com, 3540, RESELLER #sublimeskinz
+freewheel.tv, 67465, RESELLER #sublimeskinz
+freewheel.tv, 67401, RESELLER #sublimeskinz
+freewheel.tv, 68361, RESELLER #sublimeskinz
+freewheel.tv, 67257, RESELLER #sublimeskinz
+freewheel.tv, 68393, RESELLER #sublimeskinz
+freewheel.tv, 595841, RESELLER #sublimeskinz
+freewheel.tv, 731602, RESELLER #sublimeskinz
+openx.com, 539515637, RESELLER, 6a698e2ec38604c6 #justpremium
+improvedigital.com, 185, RESELLER #justpremium
+appnexus.com, 7118, Reseller #justpremium
+spotx.tv, 108933, RESELLER, 7842df1d2fe2db34 #justpremium
+spotxchange.com, 108933, RESELLER, 7842df1d2fe2db34 #justpremium
+vidoomy.com, 46582, DIRECT #vidoomy
+lkqd.com, 430, RESELLER, 59c49fa9598a0117 #vidoomy
+fyber.com, 1236fbff61fdf8859e37831848a42ee5, RESELLER #vidoomy
+tremorhub.com, 4cywq-a04wk, RESELLER, 1a4e959a1b50034a #vidoomy
+spotx.tv, 218947, RESELLER, 7842df1d2fe2db34 #vidoomy
+spotx.tv, 218945, RESELLER, 7842df1d2fe2db34 #vidoomy
+google.com, pub-5512390705137507, RESELLER, f08c47fec0942fa0 #vidoomy
+smartadserver.com, 2079, RESELLER #vidoomy
+Aol.com, 8982, RESELLER #vidoomy
+Freewheel.tv, 195713, RESELLER #vidoomy
+spotx.tv, 137584, RESELLER, 7842df1d2fe2db34 #vidoomy
+contextweb.com, 561252, RESELLER, 89ff185a4c4e857c #vidoomy
+spotxchange.com, 218443, RESELLER, 7842df1d2fe2db34 #vidoomy
+spotx.tv, 218443, RESELLER, 7842df1d2fe2db34 #vidoomy #29ago
+districtm.io, 101540, DIRECT #vidoomy 329ago
+smartclip.net, 10180, DIRECT #vidoomy #29ago
+appnexus.com,3703,RESELLER,f5ab79cb980f11d1 #vidoomy #29ago #antipodes
+appnexus.com, 997, DIRECT, f5ab79cb980f11d1 #vidoomy #29ago
+
+
+#Ad6media
+ad6media.fr, 5653, DIRECT #Ad6media
+smartadserver.com, 1641, RESELLER #Ad6media
+adtech.com, 4741, RESELLER #Ad6media
+improvedigital.com, 1028, RESELLER #Ad6media
+coxmt.com, 2000067907202, RESELLER #Ad6media
+pubmatic.com, 156078, RESELLER, 5d62403b186f2ace #Ad6media
+pubmatic.com, 156377, RESELLER, 5d62403b186f2ace #Ad6media
+openx.com, 537143344, RESELLER #Ad6media
+indexexchange.com, 175407, RESELLER, 50b1c356f2c5c8fc #ad6media
+openx.com, 537125356, RESELLER, a698e2ec38604c6 #Ad6media
+districtm.io, 101397, RESELLER #Ad6media
+appnexus.com, 1908, RESELLER, f5ab79cb980f11d1  #Ad6media #vidoomy #29ago
+google.com, pub-9685734445476814, RESELLER, f08c47fec0942fa0  #Ad6media
+sovrn.com, 262973, RESELLER, fafdf38b16bf6b2b #Ad6media
+lijit.com, 262973, RESELLER, fafdf38b16bf6b2b #Ad6media
+appnexus.com, 1360, RESELLER, f5ab79cb980f11d1 #Ad6media
+gumgum.com, 11645, RESELLER, ffdef49475d318a9 #Ad6media
+openx.com, 538959099, RESELLER, 6a698e2ec38604c6 #Ad6media
+openx.com, 539924617, RESELLER, 6a698e2ec38604c6 #Ad6media #Ad6media
+pubmatic.com, 137711, RESELLER, 5d62403b186f2ace #Ad6media
+pubmatic.com, 156212, RESELLER, 5d62403b186f2ace #Ad6media
+pubmatic.com, 156700, RESELLER, 5d62403b186f2ace #Ad6media
+rubiconproject.com, 17960, RESELLER, 0bfd66d529a55807 #Ad6media
+seedtag.com, 6838-6991-01, RESELLER #Ad6media
+appnexus.com, 4009, RESELLER #Ad6media #st1
+smartadserver.com, 3051, RESELLER #Ad6media
+smartadserver.com, 3050, RESELLER #Ad6media
+rubiconproject.com, 17280, RESELLER, 0bfd66d529a55807  #Ad6media
+smartadserver.com, 2699, RESELLER #Ad6media #st1
+smartadserver.com, 2938, RESELLER #Ad6media #st1
+contextweb.com,560288,RESELLER,89ff185a4c4e857c #Ad6media #antipodes
+indexexchange.com,179394,RESELLER,50b1c356f2c5c8fc #Ad6media
+richaudience.com, ns9qrKJLKD, RESELLER #Ad6media #st1
+advertising.com, 23286, RESELLER #Ad6media #ST1
+adform.com, 1942, RESELLER #Ad6media #st3
+advertising.com, 7574, RESELLER #Ad6media #ST3
+aerserv.com, 2750, RESELLER, 2ce496b9f80eb9fa #Ad6media #ST3
+aolcloud.net, 4687, RESELLER #Ad6media
+mobfox.com, 74240, RESELLER #Ad6media #ST3
+openx.com, 539625136, RESELLER #Ad6media
+pubmatic.com, 156538, RESELLER, 5d62403b186f2ace  #Ad6media
+rubiconproject.com, 13510, RESELLER  #Ad6media #st3
+smaato.com, 1100037086, RESELLER #Ad6media
+
+
+smartadserver.com,2664,DIRECT #hb_smartadserver
+contextweb.com,560288,RESELLER,89ff185a4c4e857c #hb_smartadserver
+pubmatic.com,156439,RESELLER #hb_smartadserver
+pubmatic.com,154037,RESELLER #hb_smartadserver
+rubiconproject.com,16114,RESELLER,0bfd66d529a55807  #hb_smartadserver
+openx.com,537149888,RESELLER,6a698e2ec38604c6 #hb_smartadserver
+sovrn.com,257611,RESELLER,fafdf38b16bf6b2b #hb_smartadserver
+appnexus.com,3703,RESELLER,f5ab79cb980f11d1 #hb_smartadserver
+
+#SUNMEDIA
+pubmatic.com, 156030, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 16114, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 13132, RESELLER, 0bfd66d529a55807
+openx.com, 537149888, RESELLER, 6a698e2ec38604c6
+appnexus.com, 3703, RESELLER, f5ab79cb980f11d1
+groundtruth.com, 107, RESELLER, 81cbf0a75a5e0e9a
+districtm.io, 101760, RESELLER, 3fd707be9c4527c3
+loopme.com, s-2411, RESELLER, 6c8d5f95897a5a3b
+loopme.com, 5679, RESELLER, 6c8d5f95897a5a3b
+adform.com, 1941, RESELLER
+adform.com, 1942, RESELLER
+advertising.com, 7574, RESELLER
+aol.com, 46658, RESELLER
+aol.com, 27093, RESELLER
+aolcloud.net, 4687, RESELLER
+appnexus.com, 8233, RESELLER
+appnexus.com, 2928, RESELLER
+mobfox.com, 74240, RESELLER
+mobfox.com, 45499, RESELLER
+openx.com, 539625136, RESELLER
+pubmatic.com, 81564, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156538, RESELLER, 5d62403b186f2ace
+smartadserver.com, 2640, RESELLER
+smartadserver.com, 2441, RESELLER
+rubiconproject.com, 13510, RESELLER
+google.com, pub-4673227357197067, RESELLER, f08c47fec0942fa0
+google.com, pub-9115524111147081, RESELLER, f08c47fec0942fa0
+google.com, pub-9404419171574902, RESELLER, f08c47fec0942fa0
+admanmedia.com, 94ad5728, RESELLER
+spotxchange.com, 135285, RESELLER, 7842df1d2fe2db34
+spotx.tv, 135285, RESELLER, 7842df1d2fe2db34
+smartadserver.com, 3187, RESELLER
+google.com, pub-8469965667274063, RESELLER, f08c47fec0942fa0 
+google.com, pub-1724616865008460, RESELLER, f08c47fec0942fa0 
+advertising.com, 21777, RESELLER 
+pubmatic.com, 158120, RESELLER, 5d62403b186f2ace
+google.com, pub-5041886492880162, RESELLER, f08c47fec0942fa0
+google.com, pub-1490961421801363, RESELLER, f08c47fec0942fa0
+smartadserver.com, 2597, RESELLER
+smartadserver.com, 3459, RESELLER  
+
+experian.com, EXP_415116_A, RESELLER #experian
+
+pubmatic.com, 157799, RESELLER, 5d62403b186f2ace #pubmaticexchangebidding
+
+openx.com, 540233838, DIRECT, 6a698e2ec38604c6 #openxexchangebidding
+
+freewheel.tv, 38609, RESELLER #oz
+indexexchange.com, 186765, RESELLER #oz
+smartadserver.com,3094,RESELLER #oz
+
+google.com, pub-9939010157957152, DIRECT, f08c47fec0942fa0 #yosoytuprofe
+
+google.com, pub-8674340505315230, DIRECT, f08c47fec0942fa0 #smartclip
+google.com, pub-7197632655386039, DIRECT, f08c47fec0942fa0 #smartclip
+smartclip.net, 9254, DIRECT #smartclip #videopreroll
+
+
+richaudience.com, 1mzQiA1h6o, DIRECT #richaudience 
+adform.com, 1941, DIRECT #richaudience 
+adform.com, 1942, DIRECT #richaudience 
+adtech.com, 4687, RESELLER #richaudience 
+advertising.com, 7574, DIRECT #richaudience 
+aerserv.com, 2750, RESELLER, 2ce496b9f80eb9fa #richaudience
+aol.com, 46658, RESELLER #richaudience 
+aol.com, 27093, RESELLER #richaudience 
+aolcloud.net, 4687, RESELLER #richaudience 
+appnexus.com, 8233, DIRECT #richaudience 
+appnexus.com, 2928, DIRECT #richaudience 
+contextweb.com, 560520, RESELLER #richaudience 
+google.com, pub-4673227357197067, RESELLER, f08c47fec0942fa0 #richaudience 
+google.com, pub-9115524111147081, RESELLER, f08c47fec0942fa0 #richaudience 
+indexexchange.com, 179394, RESELLER #richaudience 
+lijit.com, 249425, RESELLER #richaudience 
+mobfox.com, 74240, RESELLER #richaudience 
+mobfox.com, 45499, RESELLER #richaudience 
+openx.com, 539625136, RESELLER #richaudience 
+pubmatic.com, 81564, DIRECT, 5d62403b186f2ace #richaudience 
+pubmatic.com, 156538, DIRECT, 5d62403b186f2ace #richaudience 
+rubiconproject.com, 13510, DIRECT #richaudience 
+smaato.com, 1100000579, RESELLER #richaudience 
+smaato.com, 1100037086, RESELLER #richaudience 
+smartadserver.com, 2640, RESELLER #richaudience 
+smartadserver.com, 2441, RESELLER #richaudience 
+sovrn.com, 249425, RESELLER #richaudience 
+spotx.tv, 173175, DIRECT #richaudience 
+spotx.tv, 173177, DIRECT #richaudience 
+spotxchange.com, 173175, DIRECT #richaudience 
+spotxchange.com, 173177, DIRECT #richaudience 
+
+outbrain.com, 0087ead36189cf87fbea10bc43bfe517de, DIRECT
+appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
+tremorhub.com, q017o-78mlk, RESELLER, 1a4e959a1b50034a # Premium video demand aka "Telaria"
+teads.tv, 15429, RESELLER, 15a9c44f6d26cbe1 # Premium video demand
+advertising.com, 26154, RESELLER # Premium video demand
+spotxchange.com, 225721, RESELLER # Premium video demand
+Freewheel.tv, 741650, RESELLER # Premium video demand
+rubiconproject.com, 17130, RESELLER, 0bfd66d529a55807 # Premium video demand
+lkqd.net, 450, RESELLER, 59c49fa9598a0117 # Premium video demand
+openx.com, 540393169, RESELLER, 6a698e2ec38604c6 # Premium video demand
+spotx.tv, 238936, RESELLER, 7842df1d2fe2db34 # Premium video demand
+spotxchange.com, 238936, RESELLER, 7842df1d2fe2db34 # Premium Video Demand
+advertising.com, 28038, RESELLER # Premium Video Demand
+rubiconproject.com, 19668, RESELLER, 0bfd66d529a55807
+
+# marfeel
+pubmatic.com, 157138, reseller, 5d62403b186f2ace #marfeel
+districtm.io, 100962, reseller #marfeel
+google.com, pub-2117324400584663, reseller, f08c47fec0942fa0 #marfeel
+rhythmone.com, 1654642120, reseller, a670c89d4a324e47 #marfeel
+aps.amazon.com, 713b5f85-602b-49d9-a3b8-33750c16a4fc, direct #marfeel
+adtech.com, 12068, reseller, e1a5b5b6e3255540 #marfeel
+rubiconproject.com, 18020, reseller, 0bfd66d529a55807 #marfeel
+pubmatic.com, 157150, reseller, 5d62403b186f2ace #marfeel
+openx.com, 540191398, reseller, 6a698e2ec38604c6 #marfeel
+google.com, pub-3733785150938669, reseller, f08c47fec0942fa0 #marfeel
+
+#sovrn
+sovrn.com, 270110, DIRECT, fafdf38b16bf6b2b #EBDA
+lijit.com, 270110, DIRECT, fafdf38b16bf6b2b #EBDA
+
+#adman
+spotxchange.com, 135285, RESELLER, 7842df1d2fe2db34 #RESELLER#
+spotx.tv, 135285, RESELLER, 7842df1d2fe2db34 #RESELLER
+smartadserver.com, 3187, RESELLER #RESELLER
+rubiconproject.com, 20854, RESELLER, 0bfd66d529a55807 #RESELLER
+pubmatic.com, 157362 , RESELLER, 5d62403b186f2ace #RESELLER
+richaudience.com, sZn9xIbZzF, RESELLER #RESELLER
+appnexus.com, 8233, RESELLER #RESELLER
+freewheel.tv, 42209, RESELLER #RESELLER
+google.com, pub-9404419171574902, RESELLER, f08c47fec0942fa0 #RESELLER
+admanmedia.com, b55cbe98, RESELLER #RESELLER
+admanmedia.com, 2134ca56, RESELLER #RESELLER
+
+#HISPANIC EXCHANGE
+google.com, pub-7747436378556651, RESELLER, f08c47fec0942fa0 #RESELLER#HISPANIC EXCHANGE
+google.com, pub-6666617297902156, RESELLER, f08c47fec0942fa0 #RESELLER#HISPANIC EXCHANGE
+rubiconproject.com, 16946, RESELLER, 0bfd66d529a55807 #RESELLER#HISPANIC EXCHANGE
+rubiconproject.com, 20740, RESELLER, 0bfd66d529a55807 #RESELLER#HISPANIC EXCHANGE
+appnexus.com, 8774, RESELLER, f5ab79cb980f11d1 #RESELLER#HISPANIC EXCHANGE
+altitude-arena.com, GH4HES9JA15O928NE4PL0IS41G, RESELLER #RESELLER#HISPANIC EXCHANGE
+rubiconproject.com,16946, RESELLER, 0bfd66d529a55807 #RESELLER#HISPANIC EXCHANGE
+freewheel.tv, 903713, RESELLER #RESELLER#HISPANIC EXCHANGE
+freewheel.tv, 903729, RESELLER #RESELLER#HISPANIC EXCHANGE
+google.com, pub-4769180667814197,RESELLER #RESELLER#HISPANIC EXCHANGE
+appnexus.com, 8774, RESELLER #RESELLER#HISPANIC EXCHANGE
+google.com, pub-1013427933050866, RESELLER #RESELLER#HISPANIC EXCHANGE
+contextweb.com, 558719, RESELLER #RESELLER#HISPANIC EXCHANGE
+indexexchange.com,179394, RESELLER #RESELLER#HISPANIC EXCHANGE
+pubmatic.com,156439,RESELLER #RESELLER#HISPANIC EXCHANGE
+pubmatic.com, 154037,RESELLER #RESELLER#HISPANIC EXCHANGE
+rubiconproject.com,16114, RESELLER, 0bfd66d529a55807 #RESELLER#HISPANIC EXCHANGE
+openx.com,537149888, RESELLER, 6a698e2ec38604c6 #RESELLER#HISPANIC EXCHANGE
+sovrn.com, 257611,RESELLER, fafdf38b16bf6b2b #RESELLER#HISPANIC EXCHANGE
+appnexus.com,3703,RESELLER,f5ab79cb980f11d1 #RESELLER#HISPANIC EXCHANGE
+openx.com, 537120960, RESELLER #RESELLER#HISPANIC EXCHANGE
+openx.com, 83499, RESELLER #RESELLER#HISPANIC EXCHANGE
+openx.com, 538959099, RESELLER #RESELLER#HISPANIC EXCHANGE
+pubmatic.com, 137711, RESELLER #RESELLER#HISPANIC EXCHANGE
+pubmatic.com, 156212, RESELLER #RESELLER#HISPANIC EXCHANGE
+pubmatic.com, 62483, RESELLER #RESELLER#HISPANIC EXCHANGE
+contextweb.com, 558511, RESELLER #RESELLER#HISPANIC EXCHANGE
+google.com, pub-1160842213201584, RESELLER #RESELLER#HISPANIC EXCHANGE
+openx.com, 537120631, RESELLER #RESELLER#HISPANIC EXCHANGE
+rubiconproject.com, 12500, RESELLER #RESELLER#HISPANIC EXCHANGE
+appnexus.com, 1130, RESELLER #RESELLER#HISPANIC EXCHANGE
+sovrn.com, 256492, RESELLER, fafdf38b16bf6b2b #RESELLER#HISPANIC EXCHANGE
+lijit.com, 256492, RESELLER, fafdf38b16bf6b2b #RESELLER#HISPANIC EXCHANGE
+rubiconproject.com, 11678, RESELLER, 0bfd66d529a55807 #RESELLER#HISPANIC EXCHANGE
+kargo.com, 1161, RESELLER #RESELLER#HISPANIC EXCHANGE
+admanmedia.com, 6aa1bcd4, RESELLER #RESELLER#HISPANIC EXCHANGE
+admanmedia, e9ca10a4, RESELLER #RESELLER#HISPANIC EXCHANGE
+admanmedia.com, 73433abf, RESELLER #RESELLER#HISPANIC EXCHANGE
+teads.tv, 18126, RESELLER, 15a9c44f6d26cbe1 #RESELLER#HISPANIC EXCHANGE
+smartadserver.com, 3489, RESELLER #RESELLER#HISPANIC EXCHANGE
+pubmatic.com, 156030, RESELLER, 5d62403b186f2ace #RESELLER#HISPANIC EXCHANGE
+rubiconproject.com, 13132, RESELLER, 0bfd66d529a55807 #RESELLER#HISPANIC EXCHANGE
+groundtruth.com, 107, RESELLER, 81cbf0a75a5e0e9a #RESELLER#HISPANIC EXCHANGE
+rubiconproject.com, 16414, RESELLER, 0bfd66d529a55807 #RESELLER#HISPANIC EXCHANGE
+pubmatic.com, 156423, RESELLER, 5d62403b186f2ace #RESELLER#HISPANIC EXCHANGE
+pubmatic.com, 156832, RESELLER, 5d62403b186f2ace #video #RESELLER#HISPANIC EXCHANGE
+indexexchange.com, 185506, RESELLER #RESELLER#HISPANIC EXCHANGE
+google.com, pub-9557089510405422, RESELLER, f08c47fec0942fa0 #RESELLER#HISPANIC EXCHANGE
+appnexus.com, 1001, RESELLER #RESELLER#HISPANIC EXCHANGE
+appnexus.com, 3135, RESELLER #RESELLER#HISPANIC EXCHANGE
+google.com, pub-1301581561755234, RESELLER, f08c47fec0942fa0 #RESELLER#HISPANIC EXCHANGE
+google.com, pub-1956856209985681, RESELLER, f08c47fec0942fa0 #RESELLER#HISPANIC EXCHANGE
+spotxchange.com, 82069, RESELLER, 7842df1d2fe2db34 #RESELLER#HISPANIC EXCHANGE
+spotx.tv, 82069, RESELLER, 7842df1d2fe2db34 #RESELLER#HISPANIC EXCHANGE
+freewheel.tv, 762737, RESELLER #RESELLER#HISPANIC EXCHANGE
+freewheel.tv, 762769, RESELLER #RESELLER#HISPANIC EXCHANGE
+lkqd.net, 493, RESELLER, 59c49fa9598a0117 #RESELLER#HISPANIC EXCHANGE
+EMXDGT.com, 527, RESELLER, 1e1d41537f7cad7f #RESELLER#HISPANIC EXCHANGE
+Appnexus.com, 1356, RESELLER, f5ab79cb980f11d1 #RESELLER#HISPANIC EXCHANGE
+rubiconproject.com, 17598, RESELLER, 0bfd66d529a55807 #RESELLER#HISPANIC EXCHANGE
+springserve.com, 581, RESELLER, a24eb641fc82e93d #RESELLER#HISPANIC EXCHANGE
+beachfront.com, 4969, RESELLER, e2541279e8e2ca4d #RESELLER#HISPANIC EXCHANGE
+advertising.com, 26282, RESELLER #RESELLER#HISPANIC EXCHANGE
+somoaudience.com, baf4006e2cf0c06478aa5d2e2097d109, RESELLER #RESELLER#HISPANIC EXCHANGE
+mobileadtrading.com, baf4006e2cf0c06478aa5d2e2097d109, RESELLER #RESELLER#HISPANIC EXCHANGE
+pubmatic.com, 157310, RESELLER, 5d62403b186f2ace #RESELLER#HISPANIC EXCHANGE
+adtech.com, 10440 , reseller #RESELLER#HISPANIC EXCHANGE
+Advertising.com, 20535, reseller #RESELLER#HISPANIC EXCHANGE
+google.com, pub-7995104076770938, RESELLER, f08c47fec0942fa0 #RESELLER#HISPANIC EXCHANGE
+aps.amazon.com, ea05d466-f785-4b9a-a030-6fdc6a39498f, RESELLER #RESELLER#HISPANIC EXCHANGE
+openx.com, 540191398, RESELLER, 6a698e2ec38604c6 #RESELLER#HISPANIC EXCHANGE
+pubmatic.com, 157150, RESELLER, 5d62403b186f2ace #RESELLER#HISPANIC EXCHANGE
+districtm.io, 100962, RESELLER #RESELLER#HISPANIC EXCHANGE
+appnexus.com, 1908, RESELLER, f5ab79cb980f11d1 #RESELLER#HISPANIC EXCHANGE
+rubiconproject.com, 18020, RESELLER, 0bfd66d529a55807 #RESELLER#HISPANIC EXCHANGE
+adtech.com, 12068, RESELLER #RESELLER#HISPANIC EXCHANGE
+appnexus.com, 8790, RESELLER, f5ab79cb980f11d1 #RESELLER#HISPANIC EXCHANGE
+connatix.com, 101557, RESELLER, 2af98acdee0e81ed #RESELLER#HISPANIC EXCHANGE
+tremorhub.com, cd009, RESELLER, 1a4e959a1b50034a #RESELLER#HISPANIC EXCHANGE
+advertising.com, 3679, RESELLER #RESELLER#HISPANIC EXCHANGE
+advertising.com, 14564, RESELLER #RESELLER#HISPANIC EXCHANGE
+spotxchange.com, 136839, RESELLER, 7842df1d2fe2db34 #RESELLER#HISPANIC EXCHANGE
+spotx.tv, 136839, RESELLER, 7842df1d2fe2db34 #RESELLER#HISPANIC EXCHANGE
+openx.com, 539496816, RESELLER, 6a698e2ec38604c6 #RESELLER#HISPANIC EXCHANGE
+google.com, pub-1929615694373103, RESELLER, f08c47fec0942fa0 #RESELLER#HISPANIC EXCHANGE
+rubiconproject.com, 19564, RESELLER, 0bfd66d529a55807 #RESELLER#HISPANIC EXCHANGE
+gumgum.com, 13085, RESELLER, ffdef49475d318a9 #RESELLER#HISPANIC EXCHANGE
+openx.com, 537149485, RESELLER, 6a698e2ec38604c6 #RESELLER#HISPANIC EXCHANGE
+rhythmone.com, 78519861, RESELLER #RESELLER#HISPANIC EXCHANGE
+33across.com, 0013300001r0t9mAAA, RESELLER #RESELLER#HISPANIC EXCHANGE
+google.com, pub-3848273848634341, RESELLER, f08c47fec0942fa0 #RESELLER#HISPANIC EXCHANGE
+appnexus.com, 1942, RESELLER, f5ab79cb980f11d1 #RESELLER#HISPANIC EXCHANGE
+indexexchange.com, 187924, RESELLER #RESELLER#HISPANIC EXCHANGE
+kargo.com, 120, RESELLER #RESELLER#HISPANIC EXCHANGE
+indexexchange.com, 184081, RESELLER #RESELLER#HISPANIC EXCHANGE
+lkqd.net, 282, RESELLER, 59c49fa9598a0117 #RESELLER#HISPANIC EXCHANGE
+lkqd.com, 282, RESELLER, 59c49fa9598a0117 #RESELLER#HISPANIC EXCHANGE
+nativo.com, 5322, RESELLER, 59521ca7cc5e9fee #RESELLER#HISPANIC EXCHANGE
+rubiconproject.com, 16156, RESELLER, 0bfd66d529a55807 #RESELLER#HISPANIC EXCHANGE
+appnexus.com, 8035, RESELLER, f5ab79cb980f11d1 #RESELLER#HISPANIC EXCHANGE
+pubmatic.com, 156500, RESELLER, 5d62403b186f2ace #RESELLER#HISPANIC EXCHANGE
+openx.com, 540322758, RESELLER, 6a698e2ec38604c6 #RESELLER#HISPANIC EXCHANGE
+pubmatic.com, 157102, RESELLER, 5d62403b186f2ace #RESELLER#HISPANIC EXCHANGE
+pubmatic.com, 157163, RESELLER, 5d62403b186f2ace #RESELLER#HISPANIC EXCHANGE
+pubmatic.com, 157752, RESELLER, 5d62403b186f2ace #RESELLER#HISPANIC EXCHANGE
+rubiconproject.com, 13894, RESELLER, 0bfd66d529a55807 #RESELLER#HISPANIC EXCHANGE
+rubiconproject.com,18008, RESELLER, 0bfd66d529a55807 #RESELLER#HISPANIC EXCHANGE
+sharethrough.com, 4aa37fe0, RESELLER, d53b998a7bd4ecd2 #RESELLER#HISPANIC EXCHANGE
+spotxchange.com, 212457, RESELLER #RESELLER#HISPANIC EXCHANGE
+spotx.tv, 212457, RESELLER #RESELLER#HISPANIC EXCHANGE
+pubmatic.com, 156557, RESELLER #RESELLER#HISPANIC EXCHANGE
+sovrn.com, 232757, RESELLER, fafdf38b16bf6b2b #RESELLER#HISPANIC EXCHANGE
+lijit.com, 232757, RESELLER, fafdf38b16bf6b2b #RESELLER#HISPANIC EXCHANGE
+openx.com, 538959099, RESELLER, 6a698e2ec38604c6 #RESELLER#HISPANIC EXCHANGE
+pubmatic.com, 137711, RESELLER, 5d62403b186f2ace #RESELLER#HISPANIC EXCHANGE
+pubmatic.com, 156212, RESELLER, 5d62403b186f2ace #RESELLER#HISPANIC EXCHANGE
+sovrn.com, 247572, RESELLER, fafdf38b16bf6b2b #RESELLER#HISPANIC EXCHANGE
+lijit.com, 247572, RESELLER, fafdf38b16bf6b2b #RESELLER#HISPANIC EXCHANGE
+appnexus.com, 1360, RESELLER, f5ab79cb980f11d1 #RESELLER#HISPANIC EXCHANGE
+gumgum.com, 11645, RESELLER, ffdef49475d318a9 #RESELLER#HISPANIC EXCHANGE
+openx.com, 539924617, RESELLER, 6a698e2ec38604c6 #RESELLER#HISPANIC EXCHANGE
+pubmatic.com, 156700, RESELLER, 5d62403b186f2ace #RESELLER#HISPANIC EXCHANGE
+rubiconproject.com, 17960, RESELLER, 0bfd66d529a55807 #RESELLER#HISPANIC EXCHANGE
+spotxchange.com, 148395, RESELLER, 7842df1d2fe2db34 #RESELLER#HISPANIC EXCHANGE
+spotx.tv, 148395, RESELLER, 7842df1d2fe2db34 #RESELLER#HISPANIC EXCHANGE
+tremorhub.com, ey5io-qyxzx, RESELLER, 1a4e959a1b50034a #RESELLER#HISPANIC EXCHANGE
+triplelift.com, 4777, RESELLER, 6c33edb13117fd86 #RESELLER#HISPANIC EXCHANGE
+appnexus.com, 1314, RESELLER #RESELLER#HISPANIC EXCHANGE
+spotxchange.com, 228454, RESELLER, 7842df1d2fe2db34 #RESELLER#HISPANIC EXCHANGE
+spotx.tv, 228454, RESELLER, 7842df1d2fe2db34 #RESELLER#HISPANIC EXCHANGE
+lkqd.net, 504, RESELLER, 59c49fa9598a0117 #RESELLER#HISPANIC EXCHANGE
+undertone.com, 3648, RESELLER #RESELLER#HISPANIC EXCHANGE
+appnexus.com, 2234, RESELLER #RESELLER#HISPANIC EXCHANGE
+openx.com, 537153564, RESELLER, 6a698e2ec38604c6 #RESELLER#HISPANIC EXCHANGE
+google.com, pub-7747436378556651,RESELLER, f08c47fec0942fa0 #RESELLER#HISPANIC EXCHANGE
+google.com, pub-6666617297902156,RESELLER, f08c47fec0942fa0 #RESELLER#HISPANIC EXCHANGE
+rubiconproject.com, 16946,RESELLER, 0bfd66d529a55807 #RESELLER#HISPANIC EXCHANGE
+appnexus.com, 8774,RESELLER, f5ab79cb980f11d1 #RESELLER#HISPANIC EXCHANGE
+sovrn.com, 260624,RESELLER, fafdf38b16bf6b2b #RESELLER#HISPANIC EXCHANGE
+lijit.com, 260624, RESELLER, fafdf38b16bf6b2b #RESELLER#HISPANIC EXCHANGE
+smartadserver.com,3187,RESELLER #RESELLER#HISPANIC EXCHANGE
+admanmedia.com, 4abc437c,RESELLER #RESELLER#HISPANIC EXCHANGE
+admanmedia, f85b1c0a,RESELLER   #RESELLER#HISPANIC EXCHANGE

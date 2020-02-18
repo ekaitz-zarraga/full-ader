@@ -1,0 +1,20 @@
+﻿#clickforce
+clickforce.com.tw, 225, DIRECT
+google.com, pub-4485239425924787, RESELLER, f08c47fec0942fa0
+google.com, pub-4126554779393986, RESELLER, f08c47fec0942fa0
+ucfunnel, par-D77BD382D27662DFBB6A2A9EA43EBB, RESELLER
+aralego.com, par-D77BD382D27662DFBB6A2A9EA43EBB, RESELLER
+freewheel.tv, 204561, RESELLER
+freewheel.tv, 204569, RESELLER
+innity.com, 3754, DIRECT, 47ea16374dff1d69
+PREBID RTBHOUSE.COM, iGzitmsGNYVfOD73DF5e, DIRECT
+
+#salesfrontier
+google.com, pub-6593841588691759, DIRECT, f08c47fec0942fa0
+google.com, pub-1937576406332709, RESELLER, f08c47fec0942fa0
+
+#MGID
+mgid.com, 5777887, DIRECT
+mgid.com, 5777890, DIRECT
+mgid.com, 5783989, DIRECT
+mgid.com, 5783991, DIRECT

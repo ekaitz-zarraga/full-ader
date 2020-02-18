@@ -1,0 +1,61 @@
+#MinuteMedia
+google.com, pub-1956856209985681, DIRECT, f08c47fec0942fa0 #AdX
+indexexchange.com, 188838, DIRECT
+openx.com, 540447746, DIRECT, 6a698e2ec38604c6 
+spotxchange.com, 82069, DIRECT, 7842df1d2fe2db34
+spotx.tv, 82069, DIRECT, 7842df1d2fe2db34
+undertone.com, 3231, DIRECT
+appnexus.com, 2234, RESELLER
+openx.com, 537153564, RESELLER, 6a698e2ec38604c6
+undertone.com, 3802, DIRECT
+adtech.com, 11574, DIRECT
+coxmt.com, 2000067907202, RESELLER
+pubmatic.com, 156078, RESELLER
+sovrn.com, 264726, DIRECT, fafdf38b16bf6b2b
+lijit.com, 264726, DIRECT, fafdf38b16bf6b2b
+media.net, 8CU713ZQC, DIRECT 
+media.net, 8CU6YC6OW, DIRECT
+rhythmone.com, 203808374, DIRECT, a670c89d4a324e47 
+yieldmo.com, 2230484298816456318, DIRECT 
+sonobi.com, f22036b5f1, DIRECT, d1a215d9eb5aee9e
+telaria.com, 32jid-ohl8i, RESELLER, 1a4e959a1b50034a
+tremorhub.com, 32jid-ohl8i, RESELLER, 1a4e959a1b50034a
+pubmatic.com, 158541, DIRECT, 5d62403b186f2ace
+vdopia.com, 14546, DIRECT, 49a66ce31a704197 #video
+chocolateplatform.com, 14546, DIRECT, 49a66ce31a704197 #video
+vdopia.com, 14546, DIRECT, 49a66ce31a704197 #banner
+chocolateplatform.com, 14546, DIRECT, 49a66ce31a704197 #banner
+adtech.com, 11574, DIRECT #EBDA
+advertising.com, 28488, DIRECT #EBDA
+emxdgt.com, 1369, DIRECT, 1e1d41537f7cad7f #TESTING
+openx.com, 540780517, DIRECT, 6a698e2ec38604c6
+improvedigital.com, 1530, RESELLER #EBDA
+sovrn.com, 239163, RESELLER, fafdf38b16bf6b2b
+lijit.com, 239163, RESELLER, fafdf38b16bf6b2b
+appnexus.com, 3391, RESELLER, f5ab79cb980f11d1
+google.com, pub-2024690810381654, RESELLER, f08c47fec0942fa0
+google.com, pub-5717092533913515, DIRECT, f08c47fec0942fa0 #Primary
+google.com, pub-5717092533913515, RESELLER, f08c47fec0942fa0 #NPMpartners
+indexexchange.com, 185192, RESELLER #EBDA
+openx.com, 538929384, RESELLER, 6a698e2ec38604c6 #EBDA
+rubiconproject.com, 17346, RESELLER, 0bfd66d529a55807 #EBDA
+spotx.tv, 108706, RESELLER, 7842df1d2fe2db34
+spotxchange.com,108706, RESELLER, 7842df1d2fe2db34
+tremorhub.com, ag0sk, RESELLER, 1a4e959a1b50034a #VideoSSP
+tremorhub.com, jrkl5-0ac26, RESELLER, 1a4e959a1b50034a
+media.net, 8CUZ310G2, RESELLER #EBDA
+pubmatic.com, 157904, RESELLER, 5d62403b186f2ace
+google.com, pub-3761898590934776, RESELLER, f08c47fec0942fa0
+indexexchange.com, 188397, DIRECT #Prebid
+yieldmo.com, 2240559316355155321, DIRECT #Prebid
+sonobi.com, f22036b5f1, RESELLER, d1a215d9eb5aee9e 
+lijit.com, 264726-eb, DIRECT, fafdf38b16bf6b2b
+appnexus.com, 1360, RESELLER, f5ab79cb980f11d1
+gumgum.com, 11645, RESELLER, ffdef49475d318a9
+openx.com, 538959099, RESELLER, 6a698e2ec38604c6
+openx.com, 539924617, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 137711, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156212, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156700, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 17960, RESELLER, 0bfd66d529a55807
+triplelift.com, 8237, DIRECT, 6c33edb13117fd86

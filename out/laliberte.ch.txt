@@ -1,0 +1,10 @@
+#Ads.txt laliberte.ch
+
+smartadserver.com, 886, RESELLER
+teads.tv, 2727, DIRECT, 15a9c44f6d26cbe1
+teads.tv, 9965, DIRECT, 15a9c44f6d26cbe1
+adtech.com, 1135.1, RESELLER
+aolcloud.net, 1135.1, RESELLER
+appnexus.com, 3927, RESELLER
+yieldlab.net, 521617, RESELLER
+google.com, pub-9750289106552688, DIRECT, f08c47fec0942fa0

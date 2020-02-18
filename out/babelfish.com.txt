@@ -1,0 +1,59 @@
+
+#sulvo
+sulvo.com, 5W7gyfjwrw3JuuPso, DIRECT
+demand.supply, 5W7gyfjwrw3JuuPso, DIRECT
+surgeprice.com, 5W7gyfjwrw3JuuPso, DIRECT
+sulvo.co, 5W7gyfjwrw3JuuPso, DIRECT
+relabe.com, 5W7gyfjwrw3JuuPso, DIRECT
+google.com, pub-3831894559014614, DIRECT, f08c47fec0942fa0
+aps.amazon.com, 66ef05f7-ad53-48f6-873a-ac7543370392, DIRECT #display
+openx.com, 540191398, DIRECT, 6a698e2ec38604c6 #display
+pubmatic.com, 157150, DIRECT, 5d62403b186f2ace #display
+districtm.io, 100962, DIRECT #display
+appnexus.com, 1908, DIRECT, f5ab79cb980f11d1 #display
+yldbt.com, 5b522cc167f6b300b89dc6d3, DIRECT, cd184cb30abaabb5 #display
+rubiconproject.com, 19820, DIRECT, 0bfd66d529a55807
+adtech.com, 12068, DIRECT
+rubiconproject.com, 18020, DIRECT, 0bfd66d529a55807
+
+#revcont
+revcontent.com, 44315, DIRECT
+appnexus.com, 7666, RESELLER, f5ab79cb980f11d1
+rubiconproject.com, 156042, RESELLER, 0bfd66d529a55807
+my6sense.com, 9732, RESELLER
+criteo.com, 7822, RESELLER
+connatix.com, 101600, DIRECT, 2af98acdee0e81ed
+tremorhub.com, cd009, RESELLER, 1a4e959a1b50034a
+advertising.com, 3679, RESELLER
+advertising.com, 14564, RESELLER
+spotxchange.com, 136839, RESELLER, 7842df1d2fe2db34
+spotx.tv, 136839, RESELLER, 7842df1d2fe2db34
+openx.com, 539496816, RESELLER, 6a698e2ec38604c6
+google.com, pub-5480205708168063, RESELLER, f08c47fec0942fa0
+google.com, pub-9914992914910847, DIRECT, f08c47fec0942fa0
+
+#sovrn
+sovrn.com, 249727, DIRECT, fafdf38b16bf6b2b
+lijit.com, 249727, DIRECT, fafdf38b16bf6b2b
+appnexus.com, 1360, RESELLER, f5ab79cb980f11d1
+gumgum.com, 11645, RESELLER, ffdef49475d318a9
+openx.com, 538959099, RESELLER, 6a698e2ec38604c6
+openx.com, 539924617, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 137711, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156212, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156700, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 17960, RESELLER, 0bfd66d529a55807
+
+#clknt
+google.com, pub-3342885608923480, RESELLER, f08c47fec0942fa0
+
+#adsense
+google.com, pub-1542128716684235, DIRECT, f08c47fec0942fa0
+
+#amazon?
+#criteo?
+#mgid? 
+
+#CLICKIO
+google.com, pub-3104790387792468, RESELLER, f08c47fec0942fa0
+clickio.com, 108987, DIRECT

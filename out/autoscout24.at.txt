@@ -1,0 +1,41 @@
+google.com, pub-7521299175489937, DIRECT
+google.com, pub-7283658889341792, DIRECT
+google.com, pub-9122897314564909, DIRECT
+openx.com, 537137506,DIRECT, 6a698e2ec38604c6
+openx.com, 539716733, DIRECT, 6a698e2ec38604c6
+openx.com, 539854067, DIRECT, 6a698e2ec38604c6
+openx.com,539876743, DIRECT
+indexexchange.com, 185725, DIRECT
+indexexchange.com, 186957, DIRECT
+Aps.amazon.com, 3620, DIRECT
+appnexus.com, 7177, DIRECT
+rubiconproject.com, 14982, DIRECT, 0bfd66d529a55807
+rubiconproject.com, 17836, DIRECT
+Smaato.com, 1100039416, DIRECT
+districtm.io, 101671,DIRECT 
+appnexus.com, 1908, RESELLER, f5ab79cb980f11d1 
+google.com, pub-9685734445476814, RESELLER, f08c47fec0942fa0 
+pubmatic.com, 157967, DIRECT
+triplelift.com, 6670, Direct, 6c33edb13117fd86
+sovrn.com, 268530, DIRECT, fafdf38b16bf6b2b
+lijit.com, 268530, DIRECT, fafdf38b16bf6b2b
+yoc.com, 5387, DIRECT
+spotxchange.com, 228454, RESELLER, 7842df1d2fe2db34
+spotx.tv, 228454, RESELLER, 7842df1d2fe2db34
+lkqd.net, 504, RESELLER, 59c49fa9598a0117
+facebook.com, 226229457721084, DIRECT
+smartadserver.com, 3096, DIRECT
+triplelift.com, 6670-EB, DIRECT, 6c33edb13117fd86
+adtech.com, 4967, DIRECT
+
+# Yoc IDs
+google.com, pub-8572040456674904, RESELLER
+google.com, pub-7095332606745705, RESELLER
+smartadserver.com, 2103, RESELLER
+# Purpur IDs
+improvedigital.com, 863, RESELLER
+Google.com, pub-2059717901976005, RESELLER
+teads.tv, 9925, DIRECT, 15a9c44f6d26cbe1
+teads.tv, 2906, DIRECT, 15a9c44f6d26cbe1
+yoc.com, 5386, DIRECT
+improvedigital.com, 1078, DIRECT

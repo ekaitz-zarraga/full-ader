@@ -1,0 +1,270 @@
+# TEN Universal
+google.com, pub-0967264523714460, DIRECT
+indexexchange.com, 183805, DIRECT
+indexexchange.com, 185044, DIRECT
+indexexchange.com, 185449, RESELLER, 50b1c356f2c5c8fc
+openx.com, 538904907, DIRECT, 6a698e2ec38604c6
+rubiconproject.com, 8795, DIRECT, 0bfd66d529a55807
+trustx.org, 31, DIRECT
+tremorhub.com, zesvg-vqyoc, DIRECT, 1a4e959a1b50034a
+gumgum.com, 12684, DIRECT, ffdef49475d318a9
+
+# LiveIntent.com (MT Brand-Specific)
+liveintent.com, 11504, DIRECT # Motor Trend
+
+#Nativo
+nativo.com, 730, DIRECT, 59521ca7cc5e9fee
+rubiconproject.com, 16156, RESELLER, 0bfd66d529a55807
+appnexus.com, 8035, RESELLER, f5ab79cb980f11d1
+pubmatic.com, 156500, RESELLER, 5d62403b186f2ace
+
+#Nativo Video
+google.com, pub-3844877863303739, RESELLER, f08c47fec0942fa0
+advertising.com, 3679, RESELLER
+advertising.com, 5831, RESELLER 
+advertising.com, 8044, RESELLER 
+advertising.com, 8022, RESELLER 
+spotxchange.com, 150015, RESELLER, 7842df1d2fe2db34
+spotx.tv, 150015, RESELLER, 7842df1d2fe2db34
+google.com, pub-7363566645038776, RESELLER, f08c47fec0942fa0 
+google.com, pub-3519627678776838, RESELLER, f08c47fec0942fa0
+
+# Outbrain (Autos Brand-Specific)
+outbrain.com, 00274fc20e187cc430ee4a14ac98fe9289, DIRECT # Motor Trend (TEN - The Enthusiast Network)
+outbrain.com, 00274fc20e187cc430ee4a14ac98fe9289, RESELLER # Motor Trend (TEN - The Enthusiast Network)
+outbrain.com, 00e4ab5dc67964c15094186887db462c79, DIRECT # AutomobileMag (TEN - The Enthusiast Network)
+outbrain.com, 00e4ab5dc67964c15094186887db462c79, RESELLER # AutomobileMag (TEN - The Enthusiast Network)
+outbrain.com, 0029422ee7b3ed8067eb91b0f54ebcfdf5, DIRECT # Four Wheeler (TEN - The Enthusiast Network)
+outbrain.com, 0029422ee7b3ed8067eb91b0f54ebcfdf5, RESELLER # Four Wheeler (TEN - The Enthusiast Network)
+outbrain.com, 00a26764c8be498d11f4fa9d3ddb0e5d49, DIRECT # HotRod (TEN - The Enthusiast Network)
+outbrain.com, 00a26764c8be498d11f4fa9d3ddb0e5d49, RESELLER # HotRod (TEN - The Enthusiast Network)
+outbrain.com, 007f1052efe5d88c3fc1233d31507f67dd, DIRECT # MustangandFords (TEN - The Enthusiast Network)
+outbrain.com, 007f1052efe5d88c3fc1233d31507f67dd, RESELLER # MustangandFords (TEN - The Enthusiast Network)
+outbrain.com, 00599cba1f92af953c568d4dbd14f4751e, DIRECT # SuperChevy (TEN - The Enthusiast Network)
+outbrain.com, 00599cba1f92af953c568d4dbd14f4751e, RESELLER # SuperChevy (TEN - The Enthusiast Network)
+outbrain.com, 00e0735c9b2f76bb577d0312241bfba900, DIRECT # SuperStreetOnline (TEN - The Enthusiast Network)
+outbrain.com, 00e0735c9b2f76bb577d0312241bfba900, RESELLER # SuperStreetOnline (TEN - The Enthusiast Network)
+outbrain.com, 006f4e77656173d28a265748e727df952f, DIRECT # Truck Trend (TEN - The Enthusiast Network)
+outbrain.com, 006f4e77656173d28a265748e727df952f, RESELLER # Truck Trend (TEN - The Enthusiast Network)
+appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
+tremorhub.com, q017o-78mlk, RESELLER, 1a4e959a1b50034a # Premium video demand aka "Telaria"
+teads.tv, 15429, RESELLER, 15a9c44f6d26cbe1 # Premium video demand
+advertising.com, 26154, RESELLER # Premium video demand
+spotxchange.com, 225721, RESELLER # Premium video demand
+Freewheel.tv, 741650, RESELLER # Premium video demand
+
+
+# Sharethrough
+sharethrough.com, 3fb45db0, DIRECT, d53b998a7bd4ecd2
+indexexchange.com, 186046, RESELLER 
+pubmatic.com, 156557, RESELLER 
+spotxchange.com, 212457, RESELLER
+spotx.tv, 212457, RESELLER 
+
+# Suite66
+google.com, pub-2970466365638442, RESELLER, f08c47fec0942fa0 
+indexexchange.com, 182706, RESELLER
+appnexus.com, 928, RESELLER
+appnexus.com, 2935, RESELLER
+
+# Synacor
+Synacor.com, 81865, RESELLER #Synacor Media
+google.com, pub-9242135695870166, RESELLER, f08c47fec0942fa0 #Ad Exchange
+adblade.com, 39600, RESELLER #AdBlade
+advertising.com, 19623, RESELLER #AdapTV
+google.com, pub-4983172728561290, RESELLER, f08c47fec0942fa0 #Anyclip
+openx.com, 537139983, RESELLER, 6a698e2ec38604c6 #Anyclip
+appnexus.com, 2720, RESELLER #Anyclip
+tremorhub.com, 0kq41, RESELLER, 1a4e959a1b50034a #Anyclip
+spotxchange.com, 74844, RESELLER, 7842df1d2fe2db34 #Anyclip
+contextweb.com, 559971, RESELLER, 89ff185a4c4e857c #Anyclip
+advertising.com, 3500, RESELLER #Anyclip
+pubmatic.com, 156610, RESELLER, 5d62403b186f2ace #Anyclip
+springserve.com, 316, RESELLER, a24eb641fc82e93d #Anyclip
+anyclip-media.com, 5666a6fd2a61260002000001, DIRECT #Anyclip
+freewheel.tv, 106841, RESELLER #Anyclip
+freewheel.tv, 106849, RESELLER #Anyclip
+spotx.tv, 74844, RESELLER, 7842df1d2fe2db34 #Anyclip
+adtech.com, 9446, RESELLER #AOL
+aolcloud.net, 9446, RESELLER #AOL
+adtech.com, 10529, RESELLER #AOL
+aolcloud.net, 10529, RESELLER #AOL
+coxmt.com, 2000067907202, RESELLER #AOL
+openx.com, 537143344, RESELLER #AOL
+indexexchange.com, 175407, RESELLER #AOL
+appnexus.com, 310, RESELLER, f5ab79cb980f11d1 #AppNexus
+appnexus.com, 9316, RESELLER, f5ab79cb980f11d1 #AppNexus
+adtech.com, 10871, RESELLER #Blue Water Ads
+smartadserver.com, 2313, RESELLER #Blue Water Ads
+pilotx.tv, 3018, RESELLER #Blue Water Ads
+freewheel.tv, 470641, RESELLER #Blue Water Ads
+advertising.com, 3597, RESELLER #Blue Water Ads
+fyber.com, 87e6c205797b093531996432a6e2f16a, RESELLER #Blue Water Ads
+coxmt.com, 2000068000102, RESELLER #Cox
+indexexchange.com, 186669, RESELLER #Index Exchange
+indexexchange.com, 181630, RESELLER #Index Exchange
+smartadserver.com, 2148, RESELLER #Media 122
+pubmatic.com, 93940, RESELLER #Media 122
+openx.com, 537141118, RESELLER, 6a698e2ec38604c6 #Media 122
+contextweb.com, 560175, RESELLER, 89ff185a4c4e857c #Media 122
+fyber.com, 8d80fd4af47abb757a868ecef9f98df7, RESELLER #Media 122
+advertising.com, 10162, RESELLER #Media 122
+adtech.com, 10162, RESELLER #Media 122
+openx.com, 537139680, RESELLER, 6a698e2ec38604c6 #OpenX
+pubmatic.com, 6846, RESELLER, 5d62403b186f2ace #Pubmatic
+pubmatic.com, 156344, RESELLER, 5d62403b186f2ace #Pubmatic
+google.com, pub-9148265802523938, RESELLER, f08c47fec0942fa0 #Rhythm One
+google.com, pub-7620071422727774, RESELLER, f08c47fec0942fa0 #Rhythm One
+google.com, pub-5278973888786334, RESELLER, f08c47fec0942fa0 #Rhythm One
+districtm.io, 100885, RESELLER #Rhythm One
+appnexus.com, 1908, RESELLER #Rhythm One
+appnexus.com, 7944, RESELLER #Rhythm One
+rhythmone.com, 2497923403, RESELLER, a670c89d4a324e47 #Rhythm One
+rockyou.net, ry303642, RESELLER #RockYou
+advertising.com, 3531, RESELLER #RockYou
+spotx.tv, 75574, RESELLER, 7842df1d2fe2db34 #RockYou
+spotxchange.com, 75574, RESELLER, 7842df1d2fe2db34 #RockYou
+tremorhub.com, 5sqfs-bqeuv, RESELLER, 1a4e959a1b50034a #RockYou
+tremorhub.com, 5sqfs-fip7t, RESELLER, 1a4e959a1b50034a #RockYou
+tremorhub.com, 5sqfs-qre5s, RESELLER, 1a4e959a1b50034a #RockYou
+tremorhub.com, n29gi, RESELLER, 1a4e959a1b50034a #RockYou
+tremorhub.com, qmw7q, RESELLER, 1a4e959a1b50034a #RockYou
+tremorhub.com, yt4p2, RESELLER, 1a4e959a1b50034a #RockYou
+advertising.com, 11844, RESELLER #RollMob
+springserve.com, 402, RESELLER, a24eb641fc82e93d #RollMob
+beachfront.com, 4971, RESELLER #RollMob
+spotxchange.com, 94592, RESELLER, 7842df1d2fe2db34 #RollMob
+spotx.tv, 94592, RESELLER, 7842df1d2fe2db34 #RollMob
+smartadserver.com, 2452, RESELLER #RollMob
+indexexchange.com, 179394, RESELLER #RollMob
+contextweb.com, 560288, RESELLER, 89ff185a4c4e857c #RollMob
+pubmatic.com, 156439, RESELLER #RollMob
+pubmatic.com, 154037, RESELLER #RollMob
+rubiconproject.com, 16114, RESELLER, 0bfd66d529a55807 #RollMob
+openx.com, 537149888, RESELLER, 6a698e2ec38604c6 #RollMob
+sovrn.com, 257611, RESELLER, fafdf38b16bf6b2b #RollMob
+appnexus.com, 3703, RESELLER, f5ab79cb980f11d1 #RollMob
+appnexus.com, 4052, RESELLER #RollMob
+conversantmedia.com, 40770, RESELLER #RollMob
+contextweb.com, 561531, RESELLER, 89ff185a4c4e857c #RollMob
+freewheel.tv, 395937, RESELLER #RollMob
+freewheel.tv, 395953, RESELLER #RollMob
+rubiconproject.com, 13344, RESELLER, 0bfd66d529a55807 #Rubicon
+spotxchange.com, 94794, RESELLER, 7842df1d2fe2db34 #SpotX
+spotx.tv, 94794, RESELLER, 7842df1d2fe2db34 #SpotX
+aralego.com, par-488A3E6BD8D997D0ED8B3BD34D8BA4B, RESELLER #ucFunnel
+contextweb.com, 561134, RESELLER #VideoTela
+fyber.com, 709f3464ad72cc4641aff759b1dc01f5, RESELLER #VideoTela
+springserve.com, 1, RESELLER, a24eb641fc82e93d #YellowHammer
+tremorhub.com, cdgfn, RESELLER, 1a4e959a1b50034a #YellowHammer
+google.com, pub-6512936480753445, RESELLER, f08c47fec0942fa0 #YellowHammer
+spotx.tv, 111271, RESELLER #YellowHammer
+spotxchange.com, 111271, RESELLER #YellowHammer
+spotxchange.com, 147949, RESELLER, 7842df1d2fe2db34 #YellowHammer
+appnexus.com, 926, RESELLER #YellowHammer
+appnexus.com, 1538, RESELLER #YellowHammer 
+advertising.com, 3531, RESELLER #YellowHammer
+advertising.com, 9008, RESELLER #YellowHammer
+advertising.com, 1003, RESELLER #YellowHammer
+freewheel.tv, 327377, RESELLER #YellowHammer
+freewheel.tv, 482721, RESELLER #YellowHammer
+freewheel.tv, 482753, RESELLER #YellowHammer
+freewheel.tv, 482785, RESELLER #YellowHammer
+freewheel.tv, 482769, RESELLER #YellowHammer
+freewheel.tv, 482801, RESELLER #YellowHammer 
+freewheel.tv, 482705, RESELLER #YellowHammer 
+freewheel.tv, 482737, RESELLER #YellowHammer
+btrll.com, 6836428, RESELLER #YellowHammer
+contextweb.com, 560580, RESELLER #YellowHammer
+contextweb.com, 561503, RESELLER, 89ff185a4c4e857c #YellowHammer
+pubmatic.com, 156108, RESELLER, 5d62403b186f2ace #YellowHammer
+pubmatic.com, 156410, RESELLER, 5d62403b186f2ace #YellowHammer
+pubmatic.com, 93915, RESELLER, 5d62403b186f2ace #YellowHammer
+beachfront.com, 4969, RESELLER #YellowHammer
+rockyou.com, ry303642, RESELLER #YellowHammer
+rockyou.net, ry303642, RESELLER #YellowHammer
+openx.com, 537141219, RESELLER, 6a698e2ec38604c6 #YellowHammer
+rubiconproject.com, 14410, RESELLER, 0bfd66d529a55807 #YellowHammer
+gumgum.com, 12932, RESELLER, ffdef49475d318a9 #YellowHammer
+contextweb.com, 561668, RESELLER, 89ff185a4c4e857c #YellowHammer
+
+# TripleLift.com (Autos Brand-Specific)
+triplelift.com, 4065, DIRECT, 6c33edb13117fd86 # Automobile
+triplelift.com, 4071, DIRECT, 6c33edb13117fd86 # Four Wheeler
+triplelift.com, 4054, DIRECT, 6c33edb13117fd86 # Hot Rod
+triplelift.com, 4647, DIRECT, 6c33edb13117fd86 # Lowrider
+triplelift.com, 2343, DIRECT, 6c33edb13117fd86 # Motortrend
+triplelift.com, 4743, DIRECT, 6c33edb13117fd86 # Motortrend Canada
+triplelift.com, 4646, DIRECT, 6c33edb13117fd86 # Motortrend Espanol
+triplelift.com, 4741, DIRECT, 6c33edb13117fd86 # Mustang 360
+triplelift.com, 4077, DIRECT, 6c33edb13117fd86 # Super Chevy
+triplelift.com, 4742, DIRECT, 6c33edb13117fd86 # Superstreet
+triplelift.com, 4047, DIRECT, 6c33edb13117fd86 # Truck Trend
+
+# Zedo outstream
+zedo.com, 1275, DIRECT #ZINCbyZEDO
+openx.com, 537133201, RESELLER, 6a698e2ec38604c6
+EMXDGT.com, 51, DIRECT, 1e1d41537f7cad7f
+Appnexus.com, 1356, DIRECT, f5ab79cb980f11d1
+gumgum.com, 12910, RESELLER, ffdef49475d318a9
+appnexus.com, 1899, DIRECT
+sovrn.com, 251203, DIRECT, fafdf38b16bf6b2b
+33across.com, 33, DIRECT
+google.com, pub-9557089510405422, RESELLER, f08c47fec0942fa0
+appnexus.com, 1001, RESELLER
+appnexus.com, 3135, RESELLER
+spotxchange.com, 139883, RESELLER, 7842df1d2fe2db34
+spotx.tv, 139883, RESELLER, 7842df1d2fe2db34
+openx.com, 537120563, RESELLER, 6a698e2ec38604c6
+amazon.com, 3411, RESELLER
+lkqd.com, 293, RESELLER
+lkqd.net, 293, RESELLER
+adtech.com, 9993, RESELLER
+aolcloud.net, 9993, RESELLER
+rubiconproject.com, 16414, RESELLER
+criteo.com, 3450, RESELLER
+indexexchange.com, 185506, RESELLER
+google.com, pub-9329782710590870, RESELLER
+google.com, pub-6314168058065736, RESELLER
+contextweb.com, 561119, RESELLER
+appnexus.com, 2007, RESELLER
+adtech.com, 5359, RESELLER
+adcloud.net, 5359, RESELLER
+pubmatic.com, 32987, RESELLER
+x.fidelity-media.com, 7665, RESELLER
+conversantmedia.com, 32082, DIRECT
+appnexus.com, 4052, RESELLER
+"c1exchange.com,    C1X201401, reseller #display "
+pubmatic.com, 28575, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156396, RESELLER, 5d62403b186f2ace
+smartadserver.com, 2486, RESELLER
+tremorhub.com, 0kq41, RESELLER, 1a4e959a1b50034a
+spotxchange.com, 74844, RESELLER, 7842df1d2fe2db34
+spotx.tv, 74844, RESELLER, 7842df1d2fe2db34
+appnexus.com, 2720, RESELLER
+google.com, pub-4983172728561290, RESELLER, f08c47fec0942fa0
+openx.com, 537139983, RESELLER, 6a698e2ec38604c6
+rubiconproject.com, 11406, DIRECT, 0bfd66d529a55807
+tremorhub.com, xqale, RESELLER, 1a4e959a1b50034a
+freewheel.tv, 280914, RESELLER
+freewheel.tv, 280930, RESELLER
+optimatic.com, 945127212009, RESELLER
+optimatic.com, 945127212009, DIRECT
+appnexus.com, 1899, DIRECT
+lkqd.net, 123, RESELLER, 59c49fa9598a0117
+lkqd.com, 123, RESELLER, 59c49fa9598a0117
+google.com, pub-9242135695870166, Reseller
+vertamedia.com, 19960, RESELLER, 7de89dc7742b5b11
+brightcom.com, 653706, DIRECT
+openx.com, 537153208, RESELLER
+google.com, 5231479214411897, RESELLER
+aolcloud.net, 11099.1, RESELLER
+advertising.com, 2270, RESELLER
+appnexus.com, 2669, RESELLER
+smartadserver.com, 1879, RESELLER
+smartadserver.com, 2586, RESELLER
+tremorhub.com, 8v8wy-777wa, RESELLER
+tremorhub.com, 8v8wy-4ill4, RESELLER
+freewheel.tv, 118529, RESELLER
+vertamedia.com, 14091, RESELLER, 7de89dc7742b5b11
+zedo.com, 901, DIRECT #ZINCbyZEDO

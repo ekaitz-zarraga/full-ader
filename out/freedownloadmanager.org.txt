@@ -1,0 +1,29 @@
+# freedownloadmanager.org ads.txt
+# SSP/Exchange Domain, SellerAccountID, PaymentsType, TAGID
+
+# Google
+google.com, pub-6229621628186488, DIRECT, f08c47fec0942fa0
+# Media.net
+media.net, 8CUHS239H, DIRECT
+# appTV
+apptv.com, 3322, DIRECT
+app.tv, 3322, DIRECT
+# Velis Media
+velismedia.com, 725, DIRECT
+smartadserver.com, 2675, RESELLER
+google.com, pub-8804303781641925, RESELLER, f08c47fec0942fa0
+freewheel.tv, 209809, RESELLER
+freewheel.tv, 210137, RESELLER
+fyber.com, 0e7404a25cbd5e48b35120f32efdc03c, RESELLER
+fyber.com, 096a960aed529e32d5811010c95b1e9b, RESELLER
+advertising.com, 9377, RESELLER
+adtech.com, 9377, DIRECT
+aolcloud.net, 9377, DIRECT
+lkqd.net, 181, RESELLER, 59c49fa9598a0117
+lkqd.com, 181, RESELLER, 59c49fa9598a0117
+spotxchange.com, 128917,RESELLER,7842df1d2fe2db34
+spotx.tv, 128917, RESELLER, 7842df1d2fe2db34
+tremorhub.com, e8okc, RESELLER, 1a4e959a1b50034a
+contextweb.com, 561073, RESELLER
+cedato.com, 49029963, RESELLER
+

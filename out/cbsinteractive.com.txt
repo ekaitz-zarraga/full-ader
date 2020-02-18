@@ -1,0 +1,10 @@
+#Ads.txt file for cbsinteractive.com
+contact=adstxt@cbsinteractive.com
+
+placeholder.example.com, placeholder, DIRECT, placeholder
+
+# This site is not for sale on any exchange.
+# Therefore there are no authorized sellers or resellers
+# listed in this cbsinteractive.com/ads.txt file.
+
+#Last modified: 2020.01.07-11.59.43

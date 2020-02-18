@@ -1,0 +1,34 @@
+adform.com, 127, DIRECT
+admanmedia.com, 556, RESELLER
+advertising.com, 28458, RESELLER
+advertising.com, 8603, RESELLER
+aol.com, 53392, RESELLER
+appnexus.com, 10663, RESELLER, f5ab79cb980f11d1
+appnexus.com, 3364, RESELLER
+beachfront.com, 13749, RESELLER, e2541279e8e2ca4d
+contextweb.com, 560382, RESELLER
+freewheel.tv, 799841, RESELLER
+freewheel.tv, 799921, RESELLER
+google.com, pub-1796957519866972, DIRECT, f08c47fec0942fa0
+google.com, pub-3935411212295655, DIRECT, f08c47fec0942fa0
+google.com, pub-5403859490855580, DIRECT
+google.com, pub-7280800760232183, DIRECT, f08c47fec0942fa0
+google.com, pub-9331074230981762, RESELLER
+improvedigital.com, 1166, RESELLER
+improvedigital.com, 227, RESELLER
+Indexexchange.com, 183756, RESELLER
+openx.com, 539154393, RESELLER
+pubmatic.com, 156098, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156307, RESELLER, 5d62403b186f2ace
+pubmatic.com, 157707, DIRECT, 5d62403b186f2ace
+pubmatic.com, 158572, DIRECT, 5d62403b186f2ace
+rhythmone.com, 1166984029, RESELLER, a670c89d4a324e47
+rubiconproject.com, 14110, DIRECT, 0bfd66d529a55807
+rubiconproject.com, 16698, RESELLER, 0bfd66d529a55807
+rubiconproject.com,21444, DIRECT, 0bfd66d529a55807
+smartadserver.com, 3563, RESELLER
+spotx.tv,71451,RESELLER
+spotxchange.com, 71451, RESELLER
+taboola.com, 1223638 , DIRECT,c228e6794e811952
+tremorhub.com, z87wm, RESELLER, 1a4e959a1b50034a
+widespace.com, 12600, DIRECT

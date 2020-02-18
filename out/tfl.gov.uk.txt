@@ -1,0 +1,85 @@
+# Transport for London [November 2019] - tfl@govadvertising.co.uk
+
+google.com, pub-1577960007411076, DIRECT, f08c47fec0942fa0
+
+adtech.com, 4640, DIRECT, e1a5b5b6e3255540
+aolcloud.net, 4640, DIRECT, e1a5b5b6e3255540
+adyoulike.com, 728c1d447b281c87825d346a8726f3d3, DIRECT, 4ad745ead2958bf7
+aps.amazon.com, 9547a513-f2e5-4004-bd92-dc734efe7cf2, DIRECT
+contextweb.com, 561712, DIRECT, 89ff185a4c4e857c
+contextweb.com, 561727, DIRECT, 89ff185a4c4e857c
+criteo.com, 7282, DIRECT, 9fac4a4a87c2a44f
+criteo.com, 77566, DIRECT, 9fac4a4a87c2a44f
+districtm.io, 101321, DIRECT, 3fd707be9c4527c3
+emxdgt.com, 560, DIRECT, 1e1d41537f7cad7f
+indexexchange.com, 183778, DIRECT, 50b1c356f2c5c8fc
+indexexchange.com, 186601, DIRECT, 50b1c356f2c5c8fc
+indexexchange.com, 188965, DIRECT, 50b1c356f2c5c8fc
+lijit.com, 231317, DIRECT, fafdf38b16bf6b2b
+lijit.com, 250241, DIRECT, fafdf38b16bf6b2b
+openx.com, 539898635, DIRECT, 6a698e2ec38604c6
+openx.com, 540447744, DIRECT, 6a698e2ec38604c6
+pubmatic.com, 156752, DIRECT, 5d62403b186f2ace
+pubmatic.com, 157515, DIRECT, 5d62403b186f2ace
+rhythmone.com, 444941962, DIRECT, a670c89d4a324e47
+rhythmone.com, 2942947806, DIRECT, a670c89d4a324e47
+rubiconproject.com, 13950, DIRECT, 0bfd66d529a55807
+rubiconproject.com, 19590, DIRECT, 0bfd66d529a55807
+sonobi.com, 234290c125, DIRECT, d1a215d9eb5aee9e
+sovrn.com, 231317, DIRECT, fafdf38b16bf6b2b
+sovrn.com, 250241, DIRECT, fafdf38b16bf6b2b
+teads.tv, 85018, DIRECT, 15a9c44f6d26cbe1
+
+adform.com, 183, RESELLER, 9f5210a2f0999e32
+adtech.com, 12068, RESELLER, e1a5b5b6e3255540
+appnexus.com, 1019, RESELLER, f5ab79cb980f11d1
+appnexus.com, 1356, RESELLER, f5ab79cb980f11d1
+appnexus.com, 1360, RESELLER, f5ab79cb980f11d1
+appnexus.com, 1908, RESELLER, f5ab79cb980f11d1
+appnexus.com, 2688, RESELLER, f5ab79cb980f11d1
+appnexus.com, 3538, RESELLER, f5ab79cb980f11d1
+appnexus.com, 3539, RESELLER, f5ab79cb980f11d1
+appnexus.com, 3540, RESELLER, f5ab79cb980f11d1
+appnexus.com, 7118, RESELLER, f5ab79cb980f11d1
+appnexus.com, 9733, RESELLER, f5ab79cb980f11d1
+contextweb.com, 558511, RESELLER, 89ff185a4c4e857c
+contextweb.com, 560606, RESELLER, 89ff185a4c4e857c
+contextweb.com, 560621, RESELLER, 89ff185a4c4e857c
+districtm.io, 100962, RESELLER, 3fd707be9c4527c3
+freewheel.tv, 33081, RESELLER
+freewheel.tv, 33601, RESELLER
+freewheel.tv, 71529, RESELLER
+google.com, pub-1076181631997634, RESELLER, f08c47fec0942fa0
+google.com, pub-2842730937553730, RESELLER, f08c47fec0942fa0
+google.com, pub-5995202563537249, RESELLER, f08c47fec0942fa0
+google.com, pub-6205083306620034, RESELLER, f08c47fec0942fa0
+google.com, pub-8172268348509349, RESELLER, f08c47fec0942fa0
+gumgum.com, 11645, RESELLER, ffdef49475d318a9
+improvedigital.com, 185, RESELLER
+improvedigital.com, 335, RESELLER
+indexexchange.com, 184665, RESELLER, 50b1c356f2c5c8fc
+openx.com, 83499, RESELLER, 6a698e2ec38604c6
+openx.com, 537103367, RESELLER, 6a698e2ec38604c6
+openx.com, 537116751, RESELLER, 6a698e2ec38604c6
+openx.com, 537120960, RESELLER, 6a698e2ec38604c6
+openx.com, 538959099, RESELLER, 6a698e2ec38604c6
+openx.com, 539045885, RESELLER, 6a698e2ec38604c6
+openx.com, 539530877, RESELLER, 6a698e2ec38604c6
+openx.com, 539861377, RESELLER, 6a698e2ec38604c6
+openx.com, 539924617, RESELLER, 6a698e2ec38604c6
+openx.com, 540119021, RESELLER, 6a698e2ec38604c6
+openx.com, 540191398, RESELLER, 6a698e2ec38604c6
+openx.com, 540773942, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 62483, RESELLER, 5d62403b186f2ace
+pubmatic.com, 137711, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156212, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156700, RESELLER, 5d62403b186f2ace
+pubmatic.com, 157150, RESELLER, 5d62403b186f2ace
+rhythmone.com, 1059622079, RESELLER, a670c89d4a324e47
+rhythmone.com, 1654642120, RESELLER, a670c89d4a324e47
+rubiconproject.com, 15380, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 17960, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 18020, RESELLER, 0bfd66d529a55807
+smartadserver.com, 1827, RESELLER
+spotx.tv, 108933, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 108933, RESELLER, 7842df1d2fe2db34

@@ -1,0 +1,14 @@
+#< Exchange Domain >, < SellerAccountID >, < PaymentsType >, < TAGID >
+appnexus.com, 2914, RESELLER, f5ab79cb980f11d1
+google.com, pub-7474616265337612, DIRECT, f08c47fec0942fa0
+google.com, pub-1216855263840948, DIRECT, f08c47fec0942fa0
+outbrain.com, 00a42d9e1cd3f6e81227c61586e664ea8f, DIRECT
+outbrain.com, 00a42d9e1cd3f6e81227c61586e664ea8f, RESELLER
+tremorhub.com, q017o-78mlk, RESELLER, 1a4e959a1b50034a # Premium video demand aka "Telaria"
+teads.tv, 15429, RESELLER, 15a9c44f6d26cbe1 # Premium video demand
+teads.tv, 19452, DIRECT, 15a9c44f6d26cbe1 # pub en footer LR
+advertising.com, 26154, RESELLER # Premium video demand
+spotxchange.com, 225721, RESELLER # Premium video demand
+Freewheel.tv, 741650, RESELLER # Premium video demand
+rubiconproject.com, 17130, RESELLER, 0bfd66d529a55807 # Premium video demand
+lkqd.net, 450, RESELLER, 59c49fa9598a0117 # Premium video demand

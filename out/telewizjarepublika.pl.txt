@@ -1,0 +1,186 @@
+#ads.txt telewizjarepublika.pl
+
+google.com, pub-9328633604439863, reseller, f08c47fec0942fa0
+google.com, pub-3268638132077067, reseller, f08c47fec0942fa0
+google.com, pub-3246198676716403, DIRECT, f08c47fec0942fa0
+appnexus.com, 205704, reseller
+openx.com, 539646619, RESELLER, 6a698e2ec38604c6
+
+google.com, pub-3000582343842169, DIRECT, f08c47fec0942fa0
+
+taboola.com, 1099306,RESELLER,c228e6794e811952 
+spotx.tv,71451,RESELLER 
+spotxchange.com, 71451, RESELLER 
+advertising.com, 8603, RESELLER 
+advertising.com, 3531, RESELLER 
+pubmatic.com, 156307, RESELLER, 5d62403b186f2ace 
+google.com, pub-3191894791526522, RESELLER, f08c47fec0942fa0
+springserve.com, 1, RESELLER, a24eb641fc82e93d
+tremorhub.com, cdgfn, RESELLER, 1a4e959a1b50034a
+google.com, pub-6512936480753445, RESELLER, f08c47fec0942fa0
+spotx.tv, 111271, RESELLER 
+spotxchange.com, 111271, RESELLER
+advertising.com, 9008, RESELLER
+google.com, pub-8655001720710332, RESELLER, f08c47fec0942fa0
+freewheel.tv, 208505, RESELLER
+media.net,8CUP4SP78, RESELLER
+freewheel.tv, 327377, RESELLER
+btrll.com, 6836428, RESELLER
+pubmatic.com, 156108, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156410, RESELLER, 5d62403b186f2ace
+contextweb.com, 561503, RESELLER, 89ff185a4c4e857c
+c1exchange.com, 14335, RESELLER
+c1exchange.com, 14924, RESELLER
+tremorhub.com, z87wm, RESELLER, 1a4e959a1b50034a 
+rubiconproject.com, 16698, RESELLER, 0bfd66d529a55807 
+fyber.com, ad9de41d28d494354b23133f26f83122, RESELLER 
+fyber.com, 1a12a7e3f84fe560ccf95a3a73043abb, RESELLER
+
+netsprint.eu, 502568, reseller
+netsprint.eu, 2793, reseller
+google.com, pub-4910050017906143, RESELLER, f08c47fec0942fa0
+
+smartadserver.com,1175,RESELLER
+sovrn.com,257611,RESELLER,fafdf38b16bf6b2b
+appnexus.com,3703,RESELLER,f5ab79cb980f11d1
+
+smartadserver.com, 2611, RESELLER
+
+smartadserver.com, 1057, RESELLER
+google.com, pub-8049433319572150, RESELLER
+google.com, pub-9287803764714515, RESELLER
+appnexus.com, 7828, RESELLER
+adform.com, 281, RESELLER
+indexexchange.com, 179394, RESELLER, 50b1c356f2c5c8fc
+contextweb.com, 560288, RESELLER, 89ff185a4c4e857c
+rubiconproject.com, 16114, RESELLER
+openx.com, 537149888, RESELLER, a698e2ec38604c6
+pubmatic.com, 156488, RESELLER, 5d62403b186f2ace
+freewheel.tv, 665218, RESELLER
+
+# PMP campaigns: pmp@idmnet.pl
+# direct campaigns: idmnet.handlowy@grupazpr.pl
+
+google.com, pub-3391297137506159, RESELLER, f08c47fec0942fa0
+adform.com, 1019, RESELLER
+adform.com, 2036, RESELLER
+rubiconproject.com, 13998, RESELLER, 0bfd66d529a55807
+ibillboard.com, 349, DIRECT
+ibillboard.com, 33980, DIRECT
+indexexchange.com, 180179, RESELLER, 50b1c356f2c5c8fc
+stroeer.com, 14214 ,DIRECT
+indexexchange.com, 183592, RESELLER, 50b1c356f2c5c8fc
+Appnexus.com, 1371, RESELLER, f5ab79cb980f11d1
+contextweb.com, 558750, DIRECT, 89ff185a4c4e857c
+appnexus.com, 8851, RESELLER, f5ab79cb980f11d1
+
+# ströer digital media: zakup@stroeer.pl
+
+#OPTAD:
+
+netsprint.eu, 2776, DIRECT
+netsprint.eu, 5956, DIRECT
+google.com, pub-4910050017906143, RESELLER, f08c47fec0942fa0
+
+adform.com, 1509, RESELLER
+Appnexus.com, 1789, RESELLER
+Appnexus.com, 7491, RESELLER
+
+google.com, pub-3000582343842169, DIRECT, f08c47fec0942fa0
+google.com, pub-8241049497608997, RESELLER, f08c47fec0942fa0
+
+optad360.com, 325474, DIRECT
+google.com, pub-5512390705137507, RESELLER, f08c47fec0942fa0
+smartadserver.com, 2079, RESELLER
+adform.com, 1109, RESELLER
+appnexus.com, 1019, RESELLER
+appnexus.com, 2688, RESELLER
+lijit.com, 231317, RESELLER, fafdf38b16bf6b2b
+openx.com, 537103367, RESELLER, a698e2ec38604c6
+rubiconproject.com, 15380, RESELLER
+sovrn.com, 231317, RESELLER, fafdf38b16bf6b2b
+openx.com, 539620057, RESELLER, a698e2ec38604c6
+contextweb.com, 560961, RESELLER
+sovrn.com, 259602, RESELLER, fafdf38b16bf6b2b
+lijit.com, 259602, RESELLER, fafdf38b16bf6b2b
+gumgum.com, 11645, RESELLER, ffdef49475d318a9
+criteo.com, waytogrow/Janusz.michalik@waytogrow.pl, RESELLER
+adform.com, 306, RESELLER, 9f5210a2f0999e32
+openx.com, 537120048, RESELLER, 6a698e2ec38604c6
+google.com, pub-3191894791526522, DIRECT, f08c47fec0942fa0
+appnexus.com, 3364, RESELLER, f5ab79cb980f11d1
+appnexus.com, 926, RESELLER, f5ab79cb980f11d1
+appnexus.com, 1538, RESELLER, f5ab79cb980f11d1
+google.com, pub-8655001720710332, DIRECT, f08c47fec0942fa0
+media.net, 8CUP4SP78, DIRECT
+contextweb.com, 560580, RESELLER, 89ff185a4c4e857c
+indexexchange.com, 183756, RESELLER, 50b1c356f2c5c8fc
+contextweb.com, 560382, RESELLER, 89ff185a4c4e857c
+openx.com, 539154393, RESELLER, 6a698e2ec38604c6
+google.com, pub-8572040456674904, RESELLER, f08c47fec0942fa0
+google.com, pub-7095332606745705, RESELLER, f08c47fec0942fa0
+sovrn.com, 236441, DIRECT, fafdf38b16bf6b2b
+lijit.com, 236441, DIRECT, fafdf38b16bf6b2b
+openx.com, 537120960, RESELLER, 6a698e2ec38604c6
+openx.com, 83499, RESELLER, 6a698e2ec38604c6
+openx.com, 538959099, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 137711, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156212, RESELLER, 5d62403b186f2ace
+pubmatic.com, 62483, RESELLER, 5d62403b186f2ace
+appnexus.com, 7837, RESELLER, f5ab79cb980f11d1
+contextweb.com, 561670, DIRECT, 89ff185a4c4e857c
+adform.com, 1906, RESELLER, 9f5210a2f0999e32
+pubmatic.com, 156701, DIRECT, 5d62403b186f2ace
+pubmatic.com, 156439, RESELLER, 5d62403b186f2ace
+pubmatic.com, 154037, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 16114, RESELLER, 0bfd66d529a55807
+openx.com, 537149888, RESELLER, 6a698e2ec38604c6
+contextweb.com, 560703, RESELLER
+appnexus.com, 3911, RESELLER, f5ab79cb980f11d1
+rubiconproject.com, 17862, DIRECT, 0bfd66d529a55807
+indexexchange.com, 186512, RESELLER
+appnexus.com, 7492, RESELLER
+freewheel.tv, 665602, RESELLER
+appnexus.com, 7492, DIRECT
+appnexus.com, 7790, DIRECT
+plista.com, 240690, DIRECT
+plista.com, 37911, DIRECT
+appnexus.com, 9156, RESSELER
+smartadserver.com, 2964, RESSELER
+adform.com, 1635, RESSELER
+criteo.com, waytogrow/dominik.czarnota@waytogrow.eu, RESELLER
+teads.tv, 15715, DIRECT, 15a9c44f6d26cbe1
+yoc.com, 5443, DIRECT
+rtbhouse.com, DPvmdEIcN6xczqVEVpOV, DIRECT
+contextweb.com, 560684, RESELLER, 89ff185a4c4e857c
+dochase.com, 196, DIRECT
+google.com, pub-2661110152693426, RESELLER, f08c47fec0942fa0
+google.com, pub-7002491002409919, RESELLER
+nativeads.com, 68150, RESELLER
+smartyads.com, 144, RESELLER
+somoaudience.com, 7ec0502f670ef0899a5ae35e08b0ba0c, RESELLER
+mobileadtrading.com, 7ec0502f670ef0899a5ae35e08b0ba0c, DIRECT
+monetize.com, 1188, RESELLER
+vhbx.co, vhbx-4544257094683345, RESELLER, 47e78270c9860438
+advertising.com, 21405, RESELLER
+pubmatic.com, 156560, RESELLER, 5d62403b186f2ace
+contextweb.com, 561349, RESELLER
+google.com, pub-1869172611345701, RESELLER, f08c47fec0942fa0
+lkqd.net, 398, RESELLER, 59c49fa9598a0117
+spotxchange.com, 199019, RESELLER, 7842df1d2fe2db34
+spotx.tv, 199019, RESELLER, 7842df1d2fe2db34
+stroeer.com, 17370, DIRECT
+indexexchange.com, 179394, RESELLER
+indexexchange.com, 188673, RESELLER
+contextweb.com, 558511, RESELLER
+experian.com, 0001, RESELLER
+
+adform.com, 2185, RESELLER
+freewheel.tv, 152385, RESELLER
+freewheel.tv, 152569, RESELLER
+adform.com, 1472, RESELLER, 9f5210a2f0999e32
+smartadserver.com, 2770, RESSELER
+
+#contact: programmatic@optad360.com
+
+adform.com, 2238, RESELLER

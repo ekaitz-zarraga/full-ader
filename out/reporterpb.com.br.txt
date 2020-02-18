@@ -1,0 +1,14 @@
+#ReporterPB
+google.com, pub-3082164857253954, DIRECT, f08c47fec0942fa0
+#Denakop
+denakop.com, pub-356, DIRECT
+google.com, pub-8170966538152543, RESELLER, f08c47fec0942fa0
+adtech.com, 11627, RESELLER
+contextweb.com, 560821, RESELLER
+appnexus.com, 2081, RESELLER, f5ab79cb980f11d1
+appnexus.com, 10528, RESELLER, f5ab79cb980f11d1
+indexexchange.com, 175407, RESELLER, 50b1c356f2c5c8fc
+openx.com, 537143344, RESELLER
+pubmatic.com, 156078, RESELLER, 5d62403b186f2ace
+contextweb.com, 558299, RESELLER, 89ff185a4c4e857c
+

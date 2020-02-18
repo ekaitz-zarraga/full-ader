@@ -1,0 +1,94 @@
+subdomain= www.mwed.jp
+google.com, pub-4770848148373212, DIRECT
+google.com, pub-3846271310706723, RESELLER
+openx.com,537126366,RESELLER,6a698e2ec38604c6
+adingo.jp,11032,DIRECT
+rubiconproject.com,11582,RESELLER,0bfd66d529a55807
+pubmatic.com,117297,RESELLER,5d62403b186f2ace
+ad-generation.jp,2145,RESELLER
+google.com,pub-7391176573988274,RESELLER,f08c47fec0942fa0
+adtech.com,9668,RESELLER
+aolcloud.net,9668,RESELLER
+microad.co.jp,11291,DIRECT
+openx.com,69353,RESELLER
+openx.com,113534,RESELLER
+openx.com,113178,RESELLER
+openx.com,539000000,RESELLER
+ad-stir.com,1757,RESELLER
+rubiconproject.com,14032,RESELLER
+gmossp.jp,2000505,RESELLER
+proparm.jp,1811,RESELLER
+adingo.jp, 8652, DIRECT
+google.com, pub-3859050685269056, RESELLER
+pubmatic.com, 156313, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 19064, RESELLER, 0bfd66d529a55807
+adingo.jp, 20070, RESELLER
+openx.com, 540397708, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 157589, RESELLER, 5d62403b186f2ace
+appnexus.com, 7044, RESELLER
+impact-ad.jp,1064,RESELLER
+impact-ad.jp,1635,RESELLER
+impact-ad.jp,1636,RESELLER
+impact-ad.jp,1680,RESELLER
+impact-ad.jp,1718,RESELLER
+impact-ad.jp,2081,RESELLER
+impact-ad.jp,2082,RESELLER
+impact-ad.jp,2586,RESELLER
+impact-ad.jp,2817,RESELLER
+proparm.jp,564,RESELLER
+proparm.jp,1214,RESELLER
+rubiconproject.com, 11534, RESELLER, 0bfd66d529a55807
+pubmatic.com, 156493, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156704 , RESELLER, 5d62403b186f2ace
+openx.com, 539320132, RESELLER, 6a698e2ec38604c6
+openx.com, 537141605, RESELLER, 6a698e2ec38604c6
+adtech.com, 9715, RESELLER
+aolcloud.net,9715, RESELLER
+ad-stir.com, 5033, RESELLER
+ad-stir.com, 5344, RESELLER
+ad-stir.com, 7666, RESELLER
+ad-stir.com, 7938, RESELLER
+appnexus.com, 7122, RESELLER
+smaato.com, 1100037870, RESELLER
+google.com, pub-2067800044730756, RESELLER , f08c47fec0942fa0
+i-mobile.co.jp, 59483, DIRECT
+ad.caprofitx.adtdp.com, 587, DIRECT
+uliza.jp, 1439, DIRECT
+ad-generation.jp, 12283, RESELLER
+indexexchange.com, 189076, RESELLER
+adm.shinobi.jp,21957,DIRECT
+openx.com, 539294033, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 156851, RESELLER, 5d62403b186f2ace
+pubmatic.com, 157741, RESELLER, 5d62403b186f2ace
+openx.com, 540679900, RESELLER, 6a698e2ec38604c6
+webeyemob.com, 70080, RESELLER
+appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
+tremorhub.com, q017o-78mlk, RESELLER, 1a4e959a1b50034a
+teads.tv, 15429, RESELLER, 15a9c44f6d26cbe1
+advertising.com, 26154, RESELLER
+spotxchange.com, 225721, RESELLER
+Freewheel.tv, 741650, RESELLER
+rubiconproject.com, 17130, RESELLER, 0bfd66d529a55807
+lkqd.net, 450, RESELLER, 59c49fa9598a0117
+openx.com, 540393169, RESELLER, 6a698e2ec38604c6
+spotx.tv, 238936, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 238936, RESELLER, 7842df1d2fe2db34
+advertising.com, 28038, RESELLER
+rubiconproject.com, 19668, RESELLER, 0bfd66d529a55807
+ad-generation.jp, 12474, RESELLER
+adtech.com, 12068, RESELLER, e1a5b5b6e3255540
+appnexus.com, 1908, RESELLER, f5ab79cb980f11d1
+appnexus.com, 3663, RESELLER, f5ab79cb980f11d1
+aps.amazon.com, c06cc614-f284-4373-8e7b-e334e4dcb9d3, DIRECT
+districtm.io, 100962, RESELLER, 3fd707be9c4527c3
+openx.com, 540191398, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 157150, RESELLER, 5d62403b186f2ace
+rhythmone.com, 1654642120, RESELLER, a670c89d4a324e47
+rubiconproject.com, 18020, RESELLER, 0bfd66d529a55807
+ad-generation.jp, 12558, RESELLER
+adingo.jp, 23664, RESELLER
+pubmatic.com, 158338, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 21090, RESELLER, 0bfd66d529a55807
+pubmatic.com, 158466, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 21088, RESELLER, 0bfd66d529a55807
+relaido.jp, 1439, DIRECT

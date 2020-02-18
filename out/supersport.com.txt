@@ -1,0 +1,8 @@
+# Ads.txt file generic:
+google.com, pub-7779027078698074, DIRECT
+google.com, pub-6302319228768877, DIRECT
+google.com, pub-0710600889784454, DIRECT
+appnexus.com, 2365, DIRECT
+indexexchange.com, 185053, DIRECT
+openx.com, 539906709, DIRECT
+google.com, pub-0136569799485990, DIRECT, f08c47fec0942fa

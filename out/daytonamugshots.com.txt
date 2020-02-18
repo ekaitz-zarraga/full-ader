@@ -1,0 +1,740 @@
+#Exchange,Seller Account ID,Type of Account (Direct or Reseller),TAG
+ID (optional)
+#GOOGLE ADX
+google.com,pub-2008769003953399,DIRECT,f08c47fec0942fa0
+google.com,pub-4658617146444345,DIRECT,f08c47fec0942fa0
+#GOOGLE ADSENSE
+google.com,pub-3269881829519502,DIRECT,f08c47fec0942fa0
+#INDEX EXCHANGE
+indexexchange.com,183763,DIRECT
+indexexchange.com,178372,RESELLER
+indexexchange.com,184969,DIRECT
+indexexchange.com,165897,DIRECT,
+#APPNEXUS
+appnexus.com,4022,DIRECT,
+appnexus.com,1944,RESELLER,
+#CRITEO
+criteo.com,144857,DIRECT,
+#CENTRO
+t.brand-server.com,5607,DIRECT,
+#AMAZON
+amazon-adsystem.com,3252,DIRECT,
+#TEADS
+teads.tv,11508,DIRECT,15a9c44f6d26cbe1
+teads.tv,12087,DIRECT,15a9c44f6d26cbe1
+connatix.com,100610,DIRECT,
+#DISTROSCALE
+distroscale.com, 8569321769, DIRECT
+advertising.com, 10152, DIRECT
+appnexus.com, 7259, DIRECT
+contextweb.com, 560840, DIRECT, 89ff185a4c4e857c
+google.com, pub-3851171199385532, DIRECT, f08c47fec0942fa0
+google.com, pub-5028215366626589, DIRECT, f08c47fec0942fa0
+lkqd.net, 598, DIRECT, 59c49fa9598a0117
+openx.com, 537139075, DIRECT, 6a698e2ec38604c6
+openx.com, 540884769, DIRECT, 6a698e2ec38604c6
+openx.com, 540911068, DIRECT, 6a698e2ec38604c6
+pubmatic.com, 158001, DIRECT, 5d62403b186f2ace
+rubiconproject.com, 16578, DIRECT, 0bfd66d529a55807
+spotx.tv,119003, DIRECT, 7842df1d2fe2db34
+spotxchange.com, 119003, DIRECT,7842df1d2fe2db34
+telaria.com,2g9h1, DIRECT, 1a4e959a1b50034a
+tremorhub.com, 2g9h1, DIRECT, 1a4e959a1b50034a
+#Gannett video
+google.com, pub-5717092533913515, DIRECT, f08c47fec0942fa0
+appnexus.com, 7155, DIRECT
+openx.com, 537152847, DIRECT, a698e2ec38604c6
+
+openx.com, 539581282, DIRECT, 6a698e2ec38604c6
+indexexchange.com, 185182, DIRECT
+indexexchange.com, 184808, DIRECT
+pubmatic.com, 156719, DIRECT, 5d62403b186f2ace
+pubmatic.com, 157904, DIRECT, 5d62403b186f2ace
+rubiconproject.com, 11324, DIRECT, 0bfd66d529a55807
+rubiconproject.com, 17816, DIRECT, 0bfd66d529a55807
+rubiconproject.com, 17346, DIRECT, 0bfd66d529a55807
+aol.com, 4941, DIRECT
+#TABOOLA
+taboola.com,1256736,DIRECT,c228e6794e811952
+taboola.com,1261136,DIRECT,c228e6794e811952
+taboola.com,1261137,DIRECT,c228e6794e811952
+taboola.com,1261138,DIRECT,c228e6794e811952
+taboola.com,1261139,DIRECT,c228e6794e811952
+taboola.com,1261140,DIRECT,c228e6794e811952
+taboola.com,1261141,DIRECT,c228e6794e811952
+taboola.com,1261142,DIRECT,c228e6794e811952
+taboola.com,1261143,DIRECT,c228e6794e811952
+taboola.com,1261144,DIRECT,c228e6794e811952
+taboola.com,1261145,DIRECT,c228e6794e811952
+taboola.com,1261146,DIRECT,c228e6794e811952
+taboola.com,1261147,DIRECT,c228e6794e811952
+taboola.com,1261148,DIRECT,c228e6794e811952
+taboola.com,1261149,DIRECT,c228e6794e811952
+taboola.com,1261150,DIRECT,c228e6794e811952
+taboola.com,1261151,DIRECT,c228e6794e811952
+taboola.com,1261153,DIRECT,c228e6794e811952
+taboola.com,1261154,DIRECT,c228e6794e811952
+taboola.com,1261155,DIRECT,c228e6794e811952
+taboola.com,1261156,DIRECT,c228e6794e811952
+taboola.com,1261157,DIRECT,c228e6794e811952
+taboola.com,1261158,DIRECT,c228e6794e811952
+taboola.com,1261159,DIRECT,c228e6794e811952
+taboola.com,1261160,DIRECT,c228e6794e811952
+taboola.com,1261161,DIRECT,c228e6794e811952
+taboola.com,1261162,DIRECT,c228e6794e811952
+taboola.com,1261163,DIRECT,c228e6794e811952
+taboola.com,1261164,DIRECT,c228e6794e811952
+taboola.com,1261165,DIRECT,c228e6794e811952
+taboola.com,1261166,DIRECT,c228e6794e811952
+taboola.com,1261167,DIRECT,c228e6794e811952
+taboola.com,1261168,DIRECT,c228e6794e811952
+taboola.com,1261169,DIRECT,c228e6794e811952
+taboola.com,1261170,DIRECT,c228e6794e811952
+taboola.com,1261172,DIRECT,c228e6794e811952
+taboola.com,1261173,DIRECT,c228e6794e811952
+taboola.com,1261174,DIRECT,c228e6794e811952
+taboola.com,1261175,DIRECT,c228e6794e811952
+taboola.com,1261176,DIRECT,c228e6794e811952
+taboola.com,1261177,DIRECT,c228e6794e811952
+taboola.com,1261178,DIRECT,c228e6794e811952
+taboola.com,1261179,DIRECT,c228e6794e811952
+taboola.com,1261180,DIRECT,c228e6794e811952
+taboola.com,1261181,DIRECT,c228e6794e811952
+taboola.com,1261182,DIRECT,c228e6794e811952
+
+taboola.com,1261183,DIRECT,c228e6794e811952
+taboola.com,1261184,DIRECT,c228e6794e811952
+taboola.com,1261185,DIRECT,c228e6794e811952
+taboola.com,1261186,DIRECT,c228e6794e811952
+taboola.com,1265636,DIRECT,c228e6794e811952
+taboola.com,1265637,DIRECT,c228e6794e811952
+taboola.com,1265638,DIRECT,c228e6794e811952
+taboola.com,1265639,DIRECT,c228e6794e811952
+taboola.com,1265640,DIRECT,c228e6794e811952
+taboola.com,1265641,DIRECT,c228e6794e811952
+taboola.com,1265642,DIRECT,c228e6794e811952
+taboola.com,1265643,DIRECT,c228e6794e811952
+taboola.com,1265644,DIRECT,c228e6794e811952
+taboola.com,1265645,DIRECT,c228e6794e811952
+taboola.com,1265646,DIRECT,c228e6794e811952
+taboola.com,1265647,DIRECT,c228e6794e811952
+taboola.com,1265648,DIRECT,c228e6794e811952
+taboola.com,1265649,DIRECT,c228e6794e811952
+taboola.com,1265650,DIRECT,c228e6794e811952
+taboola.com,1265651,DIRECT,c228e6794e811952
+taboola.com,1265652,DIRECT,c228e6794e811952
+taboola.com,1265653,DIRECT,c228e6794e811952
+taboola.com,1265654,DIRECT,c228e6794e811952
+taboola.com,1265655,DIRECT,c228e6794e811952
+taboola.com,1265656,DIRECT,c228e6794e811952
+taboola.com,1265657,DIRECT,c228e6794e811952
+taboola.com,1265658,DIRECT,c228e6794e811952
+taboola.com,1265659,DIRECT,c228e6794e811952
+taboola.com,1265660,DIRECT,c228e6794e811952
+taboola.com,1265661,DIRECT,c228e6794e811952
+taboola.com,1265662,DIRECT,c228e6794e811952
+taboola.com,1265663,DIRECT,c228e6794e811952
+taboola.com,1265664,DIRECT,c228e6794e811952
+taboola.com,1265665,DIRECT,c228e6794e811952
+taboola.com,1265666,DIRECT,c228e6794e811952
+taboola.com,1265667,DIRECT,c228e6794e811952
+taboola.com,1265668,DIRECT,c228e6794e811952
+taboola.com,1265669,DIRECT,c228e6794e811952
+taboola.com,1265670,DIRECT,c228e6794e811952
+taboola.com,1265671,DIRECT,c228e6794e811952
+taboola.com,1265672,DIRECT,c228e6794e811952
+taboola.com,1265673,DIRECT,c228e6794e811952
+taboola.com,1265674,DIRECT,c228e6794e811952
+taboola.com,1265675,DIRECT,c228e6794e811952
+taboola.com,1265676,DIRECT,c228e6794e811952
+taboola.com,1265677,DIRECT,c228e6794e811952
+taboola.com,1265678,DIRECT,c228e6794e811952
+taboola.com,1265679,DIRECT,c228e6794e811952
+taboola.com,1265680,DIRECT,c228e6794e811952
+taboola.com,1265681,DIRECT,c228e6794e811952
+taboola.com,1265682,DIRECT,c228e6794e811952
+taboola.com,1265683,DIRECT,c228e6794e811952
+taboola.com,1265684,DIRECT,c228e6794e811952
+taboola.com,1265685,DIRECT,c228e6794e811952
+taboola.com,1265686,DIRECT,c228e6794e811952
+taboola.com,1265687,DIRECT,c228e6794e811952
+taboola.com,1265688,DIRECT,c228e6794e811952
+
+taboola.com,1265689,DIRECT,c228e6794e811952
+taboola.com,1265690,DIRECT,c228e6794e811952
+taboola.com,1265691,DIRECT,c228e6794e811952
+taboola.com,1265692,DIRECT,c228e6794e811952
+taboola.com,1265693,DIRECT,c228e6794e811952
+taboola.com,1265694,DIRECT,c228e6794e811952
+taboola.com,1265695,DIRECT,c228e6794e811952
+taboola.com,1265696,DIRECT,c228e6794e811952
+taboola.com,1265697,DIRECT,c228e6794e811952
+taboola.com,1265698,DIRECT,c228e6794e811952
+taboola.com,1265699,DIRECT,c228e6794e811952
+taboola.com,1265700,DIRECT,c228e6794e811952
+taboola.com,1265701,DIRECT,c228e6794e811952
+taboola.com,1265702,DIRECT,c228e6794e811952
+taboola.com,1265703,DIRECT,c228e6794e811952
+taboola.com,1265704,DIRECT,c228e6794e811952
+taboola.com,1265705,DIRECT,c228e6794e811952
+taboola.com,1265706,DIRECT,c228e6794e811952
+taboola.com,1265707,DIRECT,c228e6794e811952
+taboola.com,1265708,DIRECT,c228e6794e811952
+taboola.com,1265709,DIRECT,c228e6794e811952
+taboola.com,1265710,DIRECT,c228e6794e811952
+taboola.com,1265711,DIRECT,c228e6794e811952
+taboola.com,1265712,DIRECT,c228e6794e811952
+taboola.com,1265713,DIRECT,c228e6794e811952
+taboola.com,1265714,DIRECT,c228e6794e811952
+taboola.com,1265715,DIRECT,c228e6794e811952
+taboola.com,1265716,DIRECT,c228e6794e811952
+taboola.com,1265717,DIRECT,c228e6794e811952
+taboola.com,1265718,DIRECT,c228e6794e811952
+taboola.com,1265719,DIRECT,c228e6794e811952
+taboola.com,1265720,DIRECT,c228e6794e811952
+taboola.com,1265721,DIRECT,c228e6794e811952
+taboola.com,1265722,DIRECT,c228e6794e811952
+taboola.com,1265723,DIRECT,c228e6794e811952
+taboola.com,1265724,DIRECT,c228e6794e811952
+taboola.com,1265725,DIRECT,c228e6794e811952
+taboola.com,1265726,DIRECT,c228e6794e811952
+taboola.com,1265727,DIRECT,c228e6794e811952
+taboola.com,1265728,DIRECT,c228e6794e811952
+taboola.com,1265729,DIRECT,c228e6794e811952
+taboola.com,1265730,DIRECT,c228e6794e811952
+taboola.com,1265731,DIRECT,c228e6794e811952
+taboola.com,1265732,DIRECT,c228e6794e811952
+taboola.com,1265733,DIRECT,c228e6794e811952
+taboola.com,1265734,DIRECT,c228e6794e811952
+taboola.com,1265735,DIRECT,c228e6794e811952
+taboola.com,1265736,DIRECT,c228e6794e811952
+taboola.com,1265737,DIRECT,c228e6794e811952
+taboola.com,1265738,DIRECT,c228e6794e811952
+taboola.com,1265739,DIRECT,c228e6794e811952
+taboola.com,1265740,DIRECT,c228e6794e811952
+taboola.com,1265741,DIRECT,c228e6794e811952
+taboola.com,1265742,DIRECT,c228e6794e811952
+taboola.com,1265743,DIRECT,c228e6794e811952
+taboola.com,1265744,DIRECT,c228e6794e811952
+taboola.com,1265745,DIRECT,c228e6794e811952
+
+taboola.com,1265746,DIRECT,c228e6794e811952
+taboola.com,1265747,DIRECT,c228e6794e811952
+taboola.com,1265748,DIRECT,c228e6794e811952
+taboola.com,1265749,DIRECT,c228e6794e811952
+taboola.com,1265750,DIRECT,c228e6794e811952
+taboola.com,1265751,DIRECT,c228e6794e811952
+taboola.com,1265752,DIRECT,c228e6794e811952
+taboola.com,1265753,DIRECT,c228e6794e811952
+taboola.com,1265754,DIRECT,c228e6794e811952
+taboola.com,1265755,DIRECT,c228e6794e811952
+taboola.com,1265756,DIRECT,c228e6794e811952
+taboola.com,1265757,DIRECT,c228e6794e811952
+taboola.com,1265758,DIRECT,c228e6794e811952
+taboola.com,1265759,DIRECT,c228e6794e811952
+taboola.com,1265760,DIRECT,c228e6794e811952
+taboola.com,1265761,DIRECT,c228e6794e811952
+taboola.com,1265762,DIRECT,c228e6794e811952
+taboola.com,1265763,DIRECT,c228e6794e811952
+taboola.com,1265764,DIRECT,c228e6794e811952
+taboola.com,1265765,DIRECT,c228e6794e811952
+taboola.com,1265766,DIRECT,c228e6794e811952
+taboola.com,1265767,DIRECT,c228e6794e811952
+taboola.com,1265768,DIRECT,c228e6794e811952
+taboola.com,1265769,DIRECT,c228e6794e811952
+taboola.com,1265770,DIRECT,c228e6794e811952
+taboola.com,1265771,DIRECT,c228e6794e811952
+taboola.com,1265772,DIRECT,c228e6794e811952
+taboola.com,1265773,DIRECT,c228e6794e811952
+taboola.com,1265774,DIRECT,c228e6794e811952
+taboola.com,1265775,DIRECT,c228e6794e811952
+taboola.com,1265776,DIRECT,c228e6794e811952
+taboola.com,1265777,DIRECT,c228e6794e811952
+taboola.com,1265778,DIRECT,c228e6794e811952
+taboola.com,1265779,DIRECT,c228e6794e811952
+taboola.com,1265780,DIRECT,c228e6794e811952
+taboola.com,1265781,DIRECT,c228e6794e811952
+taboola.com,1265782,DIRECT,c228e6794e811952
+taboola.com,1265783,DIRECT,c228e6794e811952
+taboola.com,1265784,DIRECT,c228e6794e811952
+taboola.com,1265785,DIRECT,c228e6794e811952
+taboola.com,1265786,DIRECT,c228e6794e811952
+taboola.com,1265787,DIRECT,c228e6794e811952
+taboola.com,1265788,DIRECT,c228e6794e811952
+taboola.com,1265789,DIRECT,c228e6794e811952
+taboola.com,1265790,DIRECT,c228e6794e811952
+taboola.com,1265791,DIRECT,c228e6794e811952
+taboola.com,1265792,DIRECT,c228e6794e811952
+taboola.com,1265793,DIRECT,c228e6794e811952
+taboola.com,1265794,DIRECT,c228e6794e811952
+taboola.com,1265795,DIRECT,c228e6794e811952
+taboola.com,1265796,DIRECT,c228e6794e811952
+taboola.com,1265797,DIRECT,c228e6794e811952
+taboola.com,1265798,DIRECT,c228e6794e811952
+taboola.com,1265799,DIRECT,c228e6794e811952
+taboola.com,1265800,DIRECT,c228e6794e811952
+taboola.com,1265801,DIRECT,c228e6794e811952
+taboola.com,1265802,DIRECT,c228e6794e811952
+
+taboola.com,1265803,DIRECT,c228e6794e811952
+taboola.com,1265804,DIRECT,c228e6794e811952
+taboola.com,1265805,DIRECT,c228e6794e811952
+taboola.com,1265806,DIRECT,c228e6794e811952
+taboola.com,1265807,DIRECT,c228e6794e811952
+taboola.com,1265808,DIRECT,c228e6794e811952
+taboola.com,1265809,DIRECT,c228e6794e811952
+taboola.com,1265810,DIRECT,c228e6794e811952
+taboola.com,1265811,DIRECT,c228e6794e811952
+taboola.com,1265812,DIRECT,c228e6794e811952
+taboola.com,1265813,DIRECT,c228e6794e811952
+taboola.com,1265814,DIRECT,c228e6794e811952
+taboola.com,1265815,DIRECT,c228e6794e811952
+taboola.com,1265816,DIRECT,c228e6794e811952
+taboola.com,1265817,DIRECT,c228e6794e811952
+taboola.com,1265818,DIRECT,c228e6794e811952
+taboola.com,1265819,DIRECT,c228e6794e811952
+taboola.com,1265820,DIRECT,c228e6794e811952
+taboola.com,1265821,DIRECT,c228e6794e811952
+taboola.com,1265822,DIRECT,c228e6794e811952
+taboola.com,1265823,DIRECT,c228e6794e811952
+taboola.com,1265824,DIRECT,c228e6794e811952
+taboola.com,1265825,DIRECT,c228e6794e811952
+taboola.com,1265826,DIRECT,c228e6794e811952
+taboola.com,1265827,DIRECT,c228e6794e811952
+taboola.com,1265828,DIRECT,c228e6794e811952
+taboola.com,1265829,DIRECT,c228e6794e811952
+taboola.com,1265830,DIRECT,c228e6794e811952
+taboola.com,1265831,DIRECT,c228e6794e811952
+taboola.com,1265832,DIRECT,c228e6794e811952
+taboola.com,1265833,DIRECT,c228e6794e811952
+taboola.com,1265834,DIRECT,c228e6794e811952
+taboola.com,1265835,DIRECT,c228e6794e811952
+taboola.com,1265836,DIRECT,c228e6794e811952
+taboola.com,1265837,DIRECT,c228e6794e811952
+taboola.com,1265838,DIRECT,c228e6794e811952
+taboola.com,1265839,DIRECT,c228e6794e811952
+taboola.com,1265840,DIRECT,c228e6794e811952
+taboola.com,1265841,DIRECT,c228e6794e811952
+taboola.com,1265842,DIRECT,c228e6794e811952
+taboola.com,1265843,DIRECT,c228e6794e811952
+taboola.com,1265844,DIRECT,c228e6794e811952
+taboola.com,1265845,DIRECT,c228e6794e811952
+taboola.com,1265846,DIRECT,c228e6794e811952
+taboola.com,1265847,DIRECT,c228e6794e811952
+taboola.com,1265848,DIRECT,c228e6794e811952
+taboola.com,1265849,DIRECT,c228e6794e811952
+taboola.com,1265850,DIRECT,c228e6794e811952
+taboola.com,1265851,DIRECT,c228e6794e811952
+taboola.com,1265852,DIRECT,c228e6794e811952
+taboola.com,1265853,DIRECT,c228e6794e811952
+taboola.com,1265854,DIRECT,c228e6794e811952
+taboola.com,1265855,DIRECT,c228e6794e811952
+taboola.com,1265856,DIRECT,c228e6794e811952
+taboola.com,1265857,DIRECT,c228e6794e811952
+taboola.com,1265858,DIRECT,c228e6794e811952
+taboola.com,1265859,DIRECT,c228e6794e811952
+
+taboola.com,1265860,DIRECT,c228e6794e811952
+taboola.com,1265861,DIRECT,c228e6794e811952
+taboola.com,1265862,DIRECT,c228e6794e811952
+taboola.com,1265863,DIRECT,c228e6794e811952
+taboola.com,1265864,DIRECT,c228e6794e811952
+taboola.com,1265866,DIRECT,c228e6794e811952
+taboola.com,1265867,DIRECT,c228e6794e811952
+taboola.com,1265868,DIRECT,c228e6794e811952
+taboola.com,1265869,DIRECT,c228e6794e811952
+taboola.com,1265870,DIRECT,c228e6794e811952
+taboola.com,1265871,DIRECT,c228e6794e811952
+taboola.com,1265872,DIRECT,c228e6794e811952
+taboola.com,1265873,DIRECT,c228e6794e811952
+taboola.com,1265874,DIRECT,c228e6794e811952
+taboola.com,1265875,DIRECT,c228e6794e811952
+taboola.com,1265876,DIRECT,c228e6794e811952
+taboola.com, 1270843,DIRECT,c228e6794e811952
+taboola.com, 1270844,DIRECT,c228e6794e811952
+taboola.com, 1270845,DIRECT,c228e6794e811952
+spotx.tv,71451,RESELLER
+spotxchange.com, 71451, RESELLER
+advertising.com, 8603, RESELLER
+pubmatic.com, 156307, RESELLER, 5d62403b186f2ace
+appnexus.com, 3364, RESELLER
+Indexexchange.com, 183756, RESELLER
+contextweb.com, 560382, RESELLER
+openx.com, 539154393, RESELLER
+tremorhub.com, z87wm, RESELLER, 1a4e959a1b50034a
+rubiconproject.com, 16698, RESELLER, 0bfd66d529a55807
+freewheel.tv, 799841, RESELLER
+freewheel.tv, 799921, RESELLER
+aol.com, 53392, RESELLER
+rhythmone.com, 1166984029, RESELLER, a670c89d4a324e47
+smartadserver.com, 3563, RESELLER
+beachfront.com, 13749, RESELLER, e2541279e8e2ca4d
+advertising.com, 28458, RESELLER
+admanmedia.com, 556, RESELLER
+
+#OPENX
+openx.com,539819088,DIRECT,6a698e2ec38604c6
+openx.com,539363595,DIRECT,6a698e2ec38604c6
+openx.com, 540461923, DIRECT, 6a698e2ec38604c6
+
+#RevContent
+revcontent.com,24728,DIRECT
+appnexus.com,7666,RESELLER,f5ab79cb980f11d1
+rubiconproject.com,156042,RESELLER,0bfd66d529a55807
+teads.tv,15898,DIRECT,15a9c44f6d26cbe1
+#Sovrn
+sovrn.com, 246298, DIRECT, fafdf38b16bf6b2b
+lijit.com, 246298, DIRECT, fafdf38b16bf6b2b
+lijit.com, 246298-eb, DIRECT, fafdf38b16bf6b2b
+
+#Triton Digital audio
+tritondigital.com, 25023, DIRECT, 19b4454d0b87b58b
+#NATIVO
+nativo.com, 5042, DIRECT, 59521ca7cc5e9fee
+nativo.com, 5043, DIRECT, 59521ca7cc5e9fee
+nativo.com, 2326, DIRECT, 59521ca7cc5e9fee
+nativo.com, 5041, DIRECT, 59521ca7cc5e9fee
+33across.com, 0010b00002OCUmCAAX, RESELLER, bbea06d9c4d2853c
+appnexus.com, 8035, RESELLER, f5ab79cb980f11d1
+districtm.io, 101810, RESELLER, 3fd707be9c4527c3
+indexexchange.com, 190025, RESELLER
+lkqd.net, 519, RESELLER, 59c49fa9598a0117
+openx.com, 540709535, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 156500, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 16156, RESELLER, 0bfd66d529a55807
+spotx.tv, 150015, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 150015, RESELLER, 7842df1d2fe2db34
+#NATIVO - Programmatic
+advertising.com, 3679, RESELLER
+advertising.com, 5831, RESELLER
+advertising.com, 8044, RESELLER
+advertising.com, 8022, RESELLER
+freewheel.tv, 713154, RESELLER
+freewheel.tv, 215570, RESELLER
+freewheel.tv, 215602, RESELLER
+freewheel.tv, 470113, RESELLER
+freewheel.tv, 470145, RESELLER
+freewheel.tv, 470129, RESELLER
+freewheel.tv, 470161, RESELLER
+freewheel.tv, 717186, RESELLER
+google.com, pub-1301581561755234, RESELLER, f08c47fec0942fa0
+google.com, pub-4177862836555934, RESELLER, f08c47fec0942fa0
+google.com, pub-1991679624331369, RESELLER, f08c47fec0942fa0
+google.com, pub-3015538794163384, RESELLER, f08c47fec0942fa0
+google.com, pub-3230759608956247, RESELLER, f08c47fec0942fa0
+google.com, pub-2679103605715789, RESELLER, f08c47fec0942fa0
+google.com, pub-2846699686180177, RESELLER, f08c47fec0942fa0
+google.com, pub-6209086188495781, RESELLER, f08c47fec0942fa0
+google.com, pub-5628310764637319, RESELLER, f08c47fec0942fa0
+google.com, pub-5480205708168063, RESELLER, f08c47fec0942fa0
+google.com, pub-9914992914910847, RESELLER, f08c47fec0942fa0
+google.com, pub-2557900687859377, RESELLER, f08c47fec0942fa0
+google.com, pub-2468262778002506, RESELLER, f08c47fec0942fa0
+google.com, pub-0978064532142215, RESELLER, f08c47fec0942fa0
+google.com, pub-3844877863303739, RESELLER, f08c47fec0942fa0
+google.com, pub-1869172611345701, RESELLER, f08c47fec0942fa0
+google.com, pub-7363566645038776, RESELLER, f08c47fec0942fa0
+google.com, pub-3519627678776838, RESELLER, f08c47fec0942fa0
+lkqd.net, 454, RESELLER, 59c49fa9598a0117
+openx.com, 540367819, RESELLER, 6a698e2ec38604c6
+Spotx.tv, 111853, RESELLER
+Spotxchange.com, 111853, RESELLER
+springserve.com, 1, RESELLER, a24eb641fc82e93d
+vhbx.co, vhbx-8718256505923256, RESELLER, 47e78270c9860438
+
+vindicosuite.com, 6624, RESELLER
+nativo.com, 5041, DIRECT, 59521ca7cc5e9fee
+nativo.com,1086,DIRECT,59521ca7cc5e9fee
+
+#Triplelift
+triplelift.com, 7204, DIRECT, 6c33edb13117fd86
+triplelift.com, 7204-EB, DIRECT, 6c33edb13117fd86
+#YieldMo
+yieldmo.com,2277508038371779290, DIRECT
+
+#RUBICON
+rubiconproject.com,10047, DIRECT, 0bfd66d529a55807
+#RUBICON EXCHANGE BIDDING
+rubiconproject.com,21544, DIRECT, 0bfd66d529a55807
+#OATH VERIZON
+adtech.com,9408,DIRECT
+pubmatic.com,156078,RESELLER
+
+#SHARETHROUGH
+sharethrough.com, a78c0f0e, DIRECT, d53b998a7bd4ecd2
+indexexchange.com, 186046, RESELLER
+spotxchange.com, 212457, RESELLER
+spotx.tv, 212457, RESELLER
+pubmatic.com, 156557, RESELLER
+rubiconproject.com, 18694, RESELLER, 0bfd66d529a55807
+openx.com, 540274407, RESELLER, 6a698e2ec38604c6
+
+#CONSUMABLE
+adtech.com, 10947, DIRECT
+aolcloud.net, 10947, DIRECT
+appnexus.com, 1356, DIRECT
+appnexus.com, 7556, DIRECT
+emxdgt.com, 20, DIRECT, 1e1d41537f7cad7f
+google.com, pub-6694481294649483, DIRECT
+indexexchange.com, 184914, DIRECT
+indexexchange.com, 186248, DIRECT, 50b1c356f2c5c8fc
+openx.com, 537150004, DIRECT
+pubmatic.com, 156319, DIRECT
+sonobi.com, e55fb5d7c2, DIRECT, d1a215d9eb5aee9e
+sovrn.com, 248396, DIRECT, fafdf38b16bf6b2b
+rubiconproject.com, 17632, DIRECT, 0bfd66d529a55807
+openx.com, 539699341, DIRECT, 6a698e2ec38604c6
+rubiconproject.com, 18890, DIRECT, 0bfd66d529a55807
+pubmatic.com, 157367, DIRECT
+indexexchange.com, 187454, DIRECT
+sonobi.com, 6e5cfb5420, DIRECT, d1a215d9eb5aee9e
+consumable.com, 2000969, DIRECT
+#Legacy.com
+subdomain=obits.newsherald.com
+
+subdomain=obits.thetimesnews.com
+subdomain=obits.nwfdailynews.com
+subdomain=obits.chipleypaper.com
+subdomain=obits.crestviewbulletin.com
+subdomain=obits.apalachtimes.com
+subdomain=obituaries.galesburg.com
+subdomain=obituaries.mpnnow.com
+subdomain=obits.newschief.com
+#Puzzles Palace, Kings Features
+google.com, pub-1995032544933848, DIRECT, f08c47fec0942fa0
+subdomain=games.adelnews.com
+subdomain=games.advocatepress.com
+subdomain=games.agjournalonline.com
+subdomain=games.aledotimesrecord.com
+subdomain=games.alicetx.com
+subdomain=games.amestrib.com
+subdomain=games.amtrib.com
+subdomain=games.apalachtimes.com
+subdomain=games.ardmoreite.com
+subdomain=games.arkansasnews.com
+subdomain=games.auroraadvertiser.net
+subdomain=games.bastropenterprise.com
+subdomain=games.bcdemocratonline.com
+subdomain=games.beauregarddailynews.net
+subdomain=games.bedfordnow.com
+subdomain=games.blueridgenow.com
+subdomain=games.boonevilledemocrat.com
+subdomain=games.boonvilledailynews.com
+subdomain=games.brightonpittsfordpost.com
+subdomain=games.brownwoodtx.com
+subdomain=games.butlercountytimesgazette.com
+subdomain=games.cambridgechron.com
+subdomain=games.cantondailyledger.com
+subdomain=games.cantonrep.com
+subdomain=games.carmitimes.com
+subdomain=games.carthagepress.com
+subdomain=games.charlestonexpress.com
+subdomain=games.cheboygannews.com
+subdomain=games.chillicothenews.com
+subdomain=games.chillicothetimesbulletin.com
+subdomain=games.chipleypaper.com
+subdomain=games.chronicle-express.com
+subdomain=games.columbiadailyherald.com
+subdomain=games.columbiatribune.com
+subdomain=games.columbusalive.com
+subdomain=games.columbusceo.com
+subdomain=games.columbusmonthly.com
+subdomain=games.columbusparent.com
+subdomain=games.courier-tribune.com
+subdomain=games.crestviewbulletin.com
+subdomain=games.crookstontimes.com
+subdomain=games.dailycomet.com
+subdomain=games.dailycommercial.com
+subdomain=games.dansvilleonline.com
+subdomain=games.devilslakejournal.com
+subdomain=games.dispatch.com
+
+subdomain=games.dodgeglobe.com
+subdomain=games.donaldsonvillechief.com
+subdomain=games.doverpost.com
+subdomain=games.eastpeoriatimescourier.com
+subdomain=games.echo-pilot.com
+subdomain=games.edinburgreview.com
+subdomain=games.enterprisenews.com
+subdomain=games.eveningtribune.com
+subdomain=games.examiner-enterprise.com
+subdomain=games.examiner.net
+subdomain=games.fairport-erpost.com
+subdomain=games.fosters.com
+subdomain=games.fowlertribune.com
+subdomain=games.gadsdentimes.com
+subdomain=games.gainesville.com
+subdomain=games.galesburg.com
+subdomain=games.galvanews.com
+subdomain=games.gastongazette.com
+subdomain=games.gateschilipost.com
+subdomain=games.geneseorepublic.com
+subdomain=games.goerie.com
+subdomain=games.goupstate.com
+subdomain=games.grandlakenews.com
+subdomain=games.granitefallsnews.com
+subdomain=games.greecepost.com
+subdomain=games.greenwooddemocrat.com
+subdomain=games.gridleyherald.com
+subdomain=games.grimestoday.com
+subdomain=games.hamburgreporter.com
+subdomain=games.hannibal.net
+subdomain=games.havenews.com
+subdomain=games.helena-arkansas.com
+subdomain=games.henriettapost.com
+subdomain=games.heralddemocrat.com
+subdomain=games.heraldnews.com
+subdomain=games.heraldtribune.com
+subdomain=games.hillsdale.net
+subdomain=games.hockessincommunitynews.com
+subdomain=games.hollandsentinel.com
+subdomain=games.hopestar.com
+subdomain=games.houmatoday.com
+subdomain=games.hsvvoice.com
+subdomain=games.hutchnews.com
+subdomain=games.indeonline.com
+subdomain=games.irondequoitpost.com
+subdomain=games.jacksonnewspapers.com
+subdomain=games.jdnews.com
+subdomain=games.journaldemocrat.com
+subdomain=games.journalstandard.com
+subdomain=games.kinston.com
+subdomain=games.kiowacountysignal.com
+subdomain=games.kirksvilledailyexpress.com
+subdomain=games.lajuntatribunedemocrat.com
+subdomain=games.lakenewsonline.com
+subdomain=games.leavenworthtimes.com
+subdomain=games.leesvilledailyleader.com
+subdomain=games.lenconnect.com
+
+subdomain=games.lincolncourier.com
+subdomain=games.linncountyleader.com
+subdomain=games.lonokenews.net
+subdomain=games.masspoliticalnews.com
+subdomain=games.mcdonoughvoice.com
+subdomain=games.mcphersonsentinel.com
+subdomain=games.metrowestdailynews.com
+subdomain=games.mexicoledger.com
+subdomain=games.miamiok.com
+subdomain=games.middletowntranscript.com
+subdomain=games.milfordbeacon.com
+subdomain=games.milforddailynews.com
+subdomain=games.moberlymonitor.com
+subdomain=games.monroecopost.com
+subdomain=games.monroenews.com
+subdomain=games.montenews.com
+subdomain=games.morningsun.net
+subdomain=games.mortontimesnews.com
+subdomain=games.moscowvillager.com
+subdomain=games.mpnnow.com
+subdomain=games.mtshastanews.com
+subdomain=games.ncnewspress.com
+subdomain=games.neagle.com
+subdomain=games.neoshodailynews.com
+subdomain=games.nevadaiowajournal.com
+subdomain=games.newbernsj.com
+subdomain=games.newportindependent.com
+subdomain=games.news-journalonline.com
+subdomain=games.news-star.com
+subdomain=games.newschief.com
+subdomain=games.newsherald.com
+subdomain=games.newsrepublican.com
+subdomain=games.newstribune.info
+subdomain=games.northneighbornews.com
+subdomain=games.norwichbulletin.com
+subdomain=games.nwfdailynews.com
+subdomain=games.oakridger.com
+subdomain=games.ocala.com
+subdomain=games.olneydailymail.com
+subdomain=games.oriongazette.com
+subdomain=games.paris-express.com
+subdomain=games.patriotledger.com
+subdomain=games.pawhuskajournalcapital.com
+subdomain=games.pbcommercial.com
+subdomain=games.pekintimes.com
+subdomain=games.penfieldpost.com
+subdomain=games.picayune-times.com
+subdomain=games.pjstar.com
+subdomain=games.pontiacdailyleader.com
+subdomain=games.postsouth.com
+subdomain=games.pratttribune.com
+subdomain=games.pressargus.com
+subdomain=games.pressmentor.com
+subdomain=games.progress-index.com
+subdomain=games.prosperpressnews.com
+subdomain=games.pulaskinews.net
+subdomain=games.recordstar.com
+
+subdomain=games.redwoodfallsgazette.com
+subdomain=games.reviewatlas.com
+subdomain=games.ridgecrestca.com
+subdomain=games.rrstar.com
+subdomain=games.runnelscountyregister.com
+subdomain=games.scsuntimes.com
+subdomain=games.sekvoice.com
+subdomain=games.sentinel-standard.com
+subdomain=games.shelbystar.com
+subdomain=games.siftingsherald.com
+subdomain=games.siskiyoudaily.com
+subdomain=games.sj-r.com
+subdomain=games.sjnewsonline.com
+subdomain=games.sleepyeyenews.com
+subdomain=games.sooeveningnews.com
+subdomain=games.southlakepress.com
+subdomain=games.srpressgazette.com
+subdomain=games.starcourier.com
+subdomain=games.starfl.com
+subdomain=games.starnewsonline.com
+subdomain=games.steubencourier.com
+subdomain=games.stjamesnews.com
+subdomain=games.storycityherald.com
+subdomain=games.sturgisjournal.com
+subdomain=games.stuttgartdailyleader.com
+subdomain=games.sussexcountian.com
+subdomain=games.swtimes.com
+subdomain=games.taftmidwaydriller.com
+subdomain=games.tauntongazette.com
+subdomain=games.telegram.com
+subdomain=games.teutopolispress.com
+subdomain=games.the-dispatch.com
+subdomain=games.the-leader.com
+subdomain=games.thecarbondalenews.com
+subdomain=games.thedailyreporter.com
+subdomain=games.thedestinlog.com
+subdomain=games.thegurdontimes.com
+subdomain=games.thekansan.com
+subdomain=games.theledger.com
+subdomain=games.theperrychief.com
+subdomain=games.therecordherald.com
+subdomain=games.therolladailynews.com
+subdomain=games.thesuburbanite.com
+subdomain=games.thesuntimes.com
+subdomain=games.thetimesnews.com
+subdomain=games.thisweeknews.com
+subdomain=games.timesreporter.com
+subdomain=games.timestelegram.com
+subdomain=games.topsailadvertiser.com
+subdomain=games.tricountytimes.com
+subdomain=games.tuscaloosanews.com
+subdomain=games.uticaod.com
+subdomain=games.uticaod.com
+subdomain=games.vanalstyneleader.com
+subdomain=games.vanburencountydem.com
+subdomain=games.victorpost.com
+subdomain=games.waltonsun.com
+
+subdomain=games.washingtontimesreporter.com
+subdomain=games.waxahachietx.com
+subdomain=games.wayneindependent.com
+subdomain=games.waynepost.com
+subdomain=games.waynesvilledailyguide.com
+subdomain=games.websterpost.com
+subdomain=games.weeklycitizen.com
+subdomain=games.wellingtondailynews.com
+subdomain=games.wellsvilledaily.com
+subdomain=games.whitehalljournal.com
+subdomain=games.wickedlocal.com
+subdomain=games.woodfordtimes.com
+subdomain=games.yourglenrosetx.com
+subdomain=games.yourstephenvilletx.com
+subdomain=games.yourvalleyvoice.com

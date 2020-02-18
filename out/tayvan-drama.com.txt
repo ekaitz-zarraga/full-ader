@@ -1,0 +1,17 @@
+#AdUnity AUX
+adunity.com, 1000001, RESELLER
+indexexchange.com, 183775, RESELLER
+openx.com, 537101597, RESELLER
+contextweb.com, 558315, RESELLER, 89ff185a4c4e857c
+#AdSpruce
+adspruce.com, 3047-2, DIRECT
+admixer.net, 25c70b1b-c669-4530-95b4-04ba0a01b1f4, DIRECT
+advertising.com, 21994, RESELLER
+appnexus.com, 8689, RESELLER, f5ab79cb980f11d1
+google.com, pub-9134075993162501, RESELLER, f08c47fec0942fa0
+freewheel.tv, 887665, DIRECT
+freewheel.tv, 887681, RESELLER
+freewheel.tv, 887633, DIRECT
+freewheel.tv, 887649, RESELLER
+freewheel.tv, 451857, DIRECT
+freewheel.tv, 478785, RESELLER

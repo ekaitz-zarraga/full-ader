@@ -1,0 +1,74 @@
+﻿# ads.txt datumprikker.nl
+
+# SEMILO
+appnexus.com, 2579, RESELLER
+appnexus.com, 2737, RESELLER
+freewheel.tv, 3231, RESELLER
+freewheel.tv, 836881, RESELLER
+freewheel.tv, 874545, RESELLER
+freewheel.tv, 875265, RESELLER
+google.com, 15648200, RESELLER
+google.com, 2015032, DIRECT
+google.com, 4217, RESELLER
+google.com, pub-0628739307328861, RESELLER, f08c47fec0942fa0
+google.com, pub-8536066741654249, RESELLER
+improvedigital.com, 1069, RESELLER
+improvedigital.com, 1166, RESELLER
+improvedigital.com, 1220, RESELLER
+improvedigital.com, 575, RESELLER
+pubmatic.com, 156098, RESELLER, 5d62403b186f2ace
+quantum-advertising.com, 308, RESELLER
+quantum-advertising.com, 3356, RESELLER
+teads.tv, 5579, RESELLER
+widespace.com, 12385, DIRECT
+
+# MANNENMEDIA
+improvedigital.com, 261, RESELLER
+Appnexus.com, 2837, RESELLER
+teads.tv, 5579, RESELLER, 15a9c44f6d26cbe1
+teads.tv, 11212, RESELLER, 15a9c44f6d26cbe1
+teads.tv, 7364, RESELLER, 15a9c44f6d26cbe1
+quantum-advertising.com, 953, RESELLER
+smartclip.net, 8644, RESELLER
+spotxchange.com, 109999, RESELLER, 7842df1d2fe2db34
+spotx.tv, 109999, RESELLER, 7842df1d2fe2db34
+google.com, pub-4632457065422564, RESELLER
+google.com, 11692722, RESELLER
+google.com, pub-1125154752855420, RESELLER
+google.com, 188641398, RESELLER
+google.com, 222318952, RESELLER
+widespace.com, 3192, RESELLER
+pubmatic.com, 156098, RESELLER, 5d62403b186f2ace
+exponential.com, 113970, DIRECT, afac06385c445926
+exponential.com, 134280, DIRECT, afac06385c445926
+tribalfusion.com, 113970, DIRECT, afac06385c445926
+tribalfusion.com, 134280, DIRECT, afac06385c445926
+indexexchange.com, 176280, RESELLER, 50b1c356f2c5c8fc
+google.com, pub-2051007210431666, RESELLER, f08c47fec0942fa0
+freewheel.tv, 281858, RESELLER
+freewheel.tv, 281890, RESELLER
+google.com, pub-2468262778002506, RESELLER, f08c47fec0942fa0
+seedtag.com, 8264-9708-01, DIRECT #ST1
+smartadserver.com, 2699, RESELLER #ST1
+advertising.com, 23286, RESELLER #ST1
+smartadserver.com, 2938, RESELLER #ST1
+appnexus.com, 4009, RESELLER #ST1
+quantum-advertising.com, 12047, DIRECT
+google.com, pub-8361984535421836, DIRECT, f08c47fec0942fa0
+google.com, pub-1999229258332821, DIRECT, f08c47fec0942fa0
+Freewheel.tv, 27253, RESELLER
+Freewheel.tv, 837297, RESELLER
+Freewheel.tv, 874369, RESELLER
+Freewheel.tv, 875089, RESELLER
+google.com, pub-2859204820585993, DIRECT, f08c47fec0942fa0
+google.com, pub-4968471729820724, DIRECT, f08c47fec0942fa0
+openx.com, 540717744, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 158138, RESELLER, 5d62403b186f2ace
+google.com, pub-9386789909068249, RESELLER, f08c47fec0942fa0
+google.com, pub-7595310692783781, RESELLER, f08c47fec0942fa0
+pubmatic.com, 158374,DIRECT,5d62403b186f2ace
+themediagrid.com, BUCKJA, DIRECT, 35d5010d7789b49d
+quantum-advertising.com, 3366, RESELLER
+appnexus.com, 2579, RESELLER	
+improvedigital.com, 1220, RESELLER  
+teads.tv, 19376, DIRECT, 15a9c44f6d26cbe1

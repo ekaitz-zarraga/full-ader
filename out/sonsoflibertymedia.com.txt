@@ -1,0 +1,67 @@
+# lockerdome
+lockerdome.com,8020385791752193,direct
+
+# adsupply
+addroplet.com,1599,direct
+pubmatic.com,51616,reseller,5d62403b186f2ace
+
+# revcontent
+revcontent.com, 899, DIRECT
+appnexus.com, 7666, RESELLER, f5ab79cb980f11d1
+rubiconproject.com, 156042, RESELLER, 0bfd66d529a55807
+my6sense.com, 9732, RESELLER
+criteo.com, 7822, RESELLER
+
+# taboola
+taboola.com,1015717,direct,c228e6794e811952
+spotx.tv,71451,reseller
+spotxchange.com,71451,reseller
+advertising.com,8603,reseller
+pubmatic.com,156307,reseller,5d62403b186f2ace
+appnexus.com,3364,reseller
+indexexchange.com,183756,reseller
+contextweb.com,560382,reseller
+openx.com,539154393,reseller
+tremorhub.com,z87wm,reseller,1a4e959a1b50034a
+rubiconproject.com,16698,reseller,0bfd66d529a55807
+freewheel.tv,799841,reseller
+freewheel.tv,799921,reseller
+aol.com,53392,reseller
+rhythmone.com,1166984029,reseller,a670c89d4a324e47
+
+# spot.im
+adtech.com,11465,reseller
+adtelligent.com,283366,reseller
+advertising.com,21364,reseller
+adyoulike.com,e5ae8cdbe88e1f889aae7ee0c672ca30,direct,4ad745ead2958bf7
+appnexus.com,6933,reseller
+districtm.io,101784,direct
+emxdgt.com,669,direct,1e1d41537f7cad7f
+freewheel.tv,848385,reseller
+freewheel.tv,848401,reseller
+freewheel.tv,961937,reseller
+freewheel.tv,961953,reseller
+google.com,pub-5616046187545019,direct,f08c47fec0942fa0
+google.com,pub-9685734445476814,reseller,f08c47fec0942fa0
+gumgum.com,13579,direct,ffdef49475d318a9
+indexexchange.com,189478,direct
+indexexchange.com,189529,direct
+lijit.com,250745,reseller,fafdf38b16bf6b2b
+lockerdome.com,11201047612067584,direct
+media.net,8cuu04s3f,direct
+openx.com,539466082,reseller,6a698e2ec38604c6
+openx.com,540362110,reseller,6a698e2ec38604c6
+pubmatic.com,156758,reseller,5d62403b186f2ace
+pubmatic.com,156813,reseller,5d62403b186f2ace
+pubmatic.com,157679,reseller,5d62403b186f2ace
+rhythmone.com,449400134,direct,a670c89d4a324e47
+rhythmone.com,915882568,direct,a670c89d4a324e47
+rubiconproject.com,17184,direct,0bfd66d529a55807
+rubiconproject.com,18728,direct,0bfd66d529a55807
+sharethrough.com,d5183e17,direct,d53b998a7bd4ecd2
+sovrn.com,250745,reseller,fafdf38b16bf6b2b
+spot.im,266658,direct
+spotim.market,266658,direct
+spotx.tv,211945,reseller,7842df1d2fe2db34
+spotxchange.com,211945,reseller,7842df1d2fe2db34
+tremorhub.com,p4dt2-jhelk,reseller

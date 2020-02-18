@@ -1,0 +1,86 @@
+#BOLA
+google.com, pub-4179229551923760, DIRECT, f08c47fec0942fa0
+google.com, pub-8167067246684810, DIRECT, f08c47fec0942fa0
+google.com, pub-2702521701994562, DIRECT, f08c47fec0942fa0
+
+#contacts
+publicidvd@abola.pt
+contact=https://www.abola.pt/Info/Publicidade
+
+#SAPO
+smartadserver.com, 1510, DIRECT
+google.com, pub-4939634212290203, DIRECT, f08c47fec0942fa0
+appnexus.com, 9795, DIRECT
+
+
+#SMART
+indexexchange.com,179394, RESELLER
+contextweb.com,560288, RESELLER,89ff185a4c4e857c
+pubmatic.com,156439, RESELLER
+pubmatic.com,154037, RESELLER
+rubiconproject.com,16114, RESELLER,0bfd66d529a55807
+openx.com,537149888, RESELLER,6a698e2ec38604c6
+sovrn.com,257611, RESELLER,fafdf38b16bf6b2b
+
+#GroupM
+appnexus.com, 2964, RESELLER
+appnexus.com, 7167, RESELLER
+
+#TEADS
+teads.tv, 13696, DIRECT, 15a9c44f6d26cbe1
+
+#TABOOLA
+taboola.com,1184653,DIRECT,c228e6794e811952
+spotx.tv,71451,RESELLER
+spotxchange.com, 71451, RESELLER
+advertising.com, 8603, RESELLER
+pubmatic.com, 156307, RESELLER, 5d62403b186f2ace
+appnexus.com, 3364, RESELLER
+Indexexchange.com, 183756, RESELLER
+contextweb.com, 560382, RESELLER
+openx.com, 539154393, RESELLER
+tremorhub.com, z87wm, RESELLER, 1a4e959a1b50034a
+rubiconproject.com, 16698, RESELLER, 0bfd66d529a55807
+freewheel.tv, 799841, RESELLER 
+freewheel.tv, 799921, RESELLER 
+aol.com, 53392, RESELLER 
+rhythmone.com, 1166984029, RESELLER, a670c89d4a324e47
+
+#contacts
+contact=pds@telecom.pt
+contact=http://sobre.sapo.pt/pt-pt/contactos
+
+#AMAZON
+aps.amazon.com,7046d657-31ef-4394-964e-805033a84142,DIRECT
+pubmatic.com,157150,RESELLER,5d62403b186f2ace
+openx.com,540191398,RESELLER,6a698e2ec38604c6
+rubiconproject.com,18020,RESELLER,0bfd66d529a55807
+appnexus.com,1908,RESELLER,f5ab79cb980f11d1
+adtech.com,12068,RESELLER,e1a5b5b6e3255540
+ad-generation.jp,12474,RESELLER
+districtm.io,100962,RESELLER,3fd707be9c4527c3
+appnexus.com,3663,RESELLER,f5ab79cb980f11d1
+rhythmone.com,1654642120,RESELLER,a670c89d4a324e47
+
+
+# GameDistribution
+spotxchange.com, 153598, RESELLER, 7842df1d2fe2db34
+spotx.tv, 153598, RESELLER, 7842df1d2fe2db34
+freewheel.tv, 215714, RESELLER
+freewheel.tv, 216634, RESELLER 
+google.com, pub-1313834454494130, RESELLER, f08c47fec0942fa0
+google.com, pub-2316275586951220, RESELLER, f08c47fec0942fa0
+improvedigital.com, 545, RESELLER
+improvedigital.com, 1101, RESELLER
+tremorhub.com, ztx03-iaj07, RESELLER, 1a4e959a1b50034a
+aolcloud.net, 21410, RESELLER
+appnexus.com, 9994, DIRECT
+indexexchange.com, 188249, DIRECT
+pubmatic.com, 156946, DIRECT, 5d62403b186f2ace
+advertising.com, 27287, RESELLER
+
+
+
+
+
+

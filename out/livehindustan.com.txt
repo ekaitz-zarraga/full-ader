@@ -1,0 +1,48 @@
+#Google
+google.com, pub-6453680425766689, DIRECT, f08c47fec0942fa0
+google.com, pub-9783515403541006, DIRECT, f08c47fec0942fa0
+google.com, pub-5317723601985028, DIRECT, f08c47fec0942fa0
+google.com, pub-7491439242520231, DIRECT, f08c47fec0942fa0
+google.com, pub-3519012463091331, DIRECT, f08c47fec0942fa0
+google.com, pub-8689788042544137, DIRECT, f08c47fec0942fa0
+google.com, pub-7074981215098344, DIRECT, f08c47fec0942fa0
+google.com, pub-9249387667015878, DIRECT, f08c47fec0942fa0
+
+#Appnexus
+appnexus.com, 8938, DIRECT
+
+#Oath
+adtech.com, 11486, DIRECT
+advertising.com, 26982, DIRECT
+
+#PubMatic
+pubmatic.com, 156370, DIRECT, 5d62403b186f2ace
+
+#Rubicon
+rubiconproject.com, 17094, DIRECT, 0bfd66d529a55807
+
+#EB Test
+indexexchange.com, 187699, DIRECT
+pubmatic.com, 157015, DIRECT, 5d62403b186f2ace
+rubiconproject.com, 17926, DIRECT, 0bfd66d529a55807
+
+#Affinity
+google.com, pub-6314168058065736, RESELLER, f08c47fec0942fa0
+google.com, pub-9329782710590870, RESELLER, f08c47fec0942fa0
+advertising.com, 25308, RESELLER
+adtech.com, 10466, RESELLER
+spotxchange.com, 211738, RESELLER, 7842df1d2fe2db34
+spotx.tv, 211738, RESELLER, 7842df1d2fe2db34
+xapads.com, 1104, DIRECT
+contextweb.com, 561844, DIRECT, 89ff185a4c4e857c
+adyoulike.com, 9f14a0ea05b1772110f4b8707d1c2f07, DIRECT, 4ad745ead2958bf7
+freewheel.tv, 745362, RESELLER
+freewheel.tv, 745378, RESELLER
+spotxchange.com, 230037, RESELLER, 7842df1d2fe2db34
+spotx.tv, 230037, RESELLER, 7842df1d2fe2db34
+tremorhub.com, ewut4-b6zwq, RESELLER, 1a4e959a1b50034a
+motionspots.com , 93, DIRECT
+ucfunnel.com, par-BE7EE4944736DA66C726B6B687329284, DIRECT 
+aralego.com, par-BE7EE4944736DA66C726B6B687329284, DIRECT
+
+# Last Updated: 19/12/2019

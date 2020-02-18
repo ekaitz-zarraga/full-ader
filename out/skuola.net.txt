@@ -1,0 +1,136 @@
+#######################################
+
+# MEDIAMOND
+
+#######################################
+freewheel.tv, 511854, DIRECT
+pubmatic.com, 76492, DIRECT, 5d62403b186f2ace
+teads.tv, 7287, DIRECT, 15a9c44f6d26cbe1
+teads.tv, 9827, DIRECT, 15a9c44f6d26cbe1
+google.com, pub-9819290187769604, DIRECT, f08c47fec0942fa0
+google.com, pub-9280273811890686, DIRECT, f08c47fec0942fa0
+google.com, pub-8968579289092626, DIRECT, f08c47fec0942fa0
+google.com, pub-8528408865467182, DIRECT, f08c47fec0942fa0
+google.com, pub-7700622635422739, DIRECT, f08c47fec0942fa0
+google.com, pub-7070663109163572, DIRECT, f08c47fec0942fa0
+google.com, pub-6742847375211163, DIRECT, f08c47fec0942fa0
+google.com, pub-4188807138211503, DIRECT, f08c47fec0942fa0
+google.com, pub-4025514031741383, DIRECT, f08c47fec0942fa0
+google.com, pub-3117665631519113, DIRECT, f08c47fec0942fa0
+google.com, pub-3107885440173338, DIRECT, f08c47fec0942fa0
+google.com, pub-3070309377952178, DIRECT, f08c47fec0942fa0
+google.com, pub-2510909248503378, DIRECT, f08c47fec0942fa0
+google.com, pub-1775435378108388, DIRECT, f08c47fec0942fa0
+google.com, pub-1328391099844780, DIRECT, f08c47fec0942fa0
+google.com, pub-0820544532937748, DIRECT, f08c47fec0942fa0
+google.com, pub-3571138806942943, DIRECT, f08c47fec0942fa0
+google.com, pub-5623698869845345, DIRECT, f08c47fec0942fa0
+google.com, pub-5559216030227343, DIRECT, f08c47fec0942fa0
+google.com, pub-5047846656872149, DIRECT, f08c47fec0942fa0
+google.com, pub-6503675412982831, DIRECT, f08c47fec0942fa0
+indexexchange.com, 186194, DIRECT, 50b1c356f2c5c8fc
+openx.com, 537124428, DIRECT, 6a698e2ec38604c6
+openx.com, 539584558, DIRECT, 6a698e2ec38604c6
+rubiconproject.com, 17930, DIRECT, 0bfd66d529a55807
+freewheel.tv, 15661, DIRECT
+freewheel.tv, 181129, DIRECT
+freewheel.tv, 225457, DIRECT
+freewheel.tv, 225497, DIRECT
+freewheel.tv, 745186, RESELLER
+freewheel.tv, 745202, RESELLER
+freewheel.tv, 745234, RESELLER
+freewheel.tv, 755186, RESELLER
+freewheel.tv, 106857, RESELLER
+freewheel.tv, 181137, RESELLER
+freewheel.tv, 225465, RESELLER
+freewheel.tv, 225505, RESELLER
+freewheel.tv, 745250, RESELLER
+freewheel.tv, 745266, RESELLER
+freewheel.tv, 745298, RESELLER
+freewheel.tv, 755202, RESELLER
+pubmatic.com, 157160, DIRECT, 5d62403b186f2ace
+widespace.com, 3226, DIRECT
+improvedigital.com, 1166, RESELLER
+pubmatic.com, 156098, RESELLER, 5d62403b186f2ace
+sovrn.com, 267646, DIRECT, fafdf38b16bf6b2b
+lijit.com, 267646, DIRECT, fafdf38b16bf6b2b
+google.com, pub-4222981553549196, RESELLER, f08c47fec0942fa0
+# INIZIO SEEDTAG-MEDIAMOND
+seedtag.com, 8270-0038-01, DIRECT #ST0
+appnexus.com, 4009, RESELLER, f5ab79cb980f11d1 #ST1
+smartadserver.com, 3051, RESELLER #ST1
+smartadserver.com, 3050, RESELLER #ST1
+rubiconproject.com, 17280, DIRECT, 0bfd66d529a55807 #ST1
+smartadserver.com, 2699, RESELLER #ST2
+smartadserver.com, 2938, RESELLER #ST2
+contextweb.com,560288,RESELLER,89ff185a4c4e857c #ST2
+indexexchange.com,179394,RESELLER,50b1c356f2c5c8fc #ST2
+richaudience.com, ns9qrKJLKD, DIRECT #ST2
+tremorhub.com, s2t3y-r3ofd, RESELLER, 1a4e959a1b50034a #ST2
+adform.com, 1942, DIRECT #ST3
+advertising.com, 7574, DIRECT #ST3
+aerserv.com, 2750, RESELLER, 2ce496b9f80eb9fa #ST3
+aolcloud.net, 4687, RESELLER #ST3
+mobfox.com, 74240, RESELLER #ST3
+openx.com, 539625136, RESELLER, 6a698e2ec38604c6 #ST3
+pubmatic.com, 156538, DIRECT, 5d62403b186f2ace #ST3
+rubiconproject.com, 13510, DIRECT, 0bfd66d529a55807 #ST3
+smaato.com, 1100037086, RESELLER #ST3
+spotx.tv, 173175, DIRECT, 7842df1d2fe2db34 #ST3
+spotxchange.com, 173175, DIRECT, 7842df1d2fe2db34 #ST3
+advertising.com, 12624, RESELLER
+fyber.com, f2a848067b5fe77e73205e8024940cbf, RESELLER
+freewheel.tv, 484721, RESELLER
+appnexus.com, 9456, DIRECT, f5ab79cb980f11d1
+spotxchange.com, 249286, RESELLER, 7842df1d2fe2db34
+spotx.tv, 249286, RESELLER, 7842df1d2fe2db34
+groundtruth.com, 107, RESELLER, 81cbf0a75a5e0e9a
+openx.com, 537149888, RESELLER, 6a698e2ec38604c6
+sovrn.com, 257611, RESELLER, fafdf38b16bf6b2b
+districtm.io, 101760, RESELLER, 3fd707be9c4527c3
+# FINE SEEDTAG-MEDIAMOND
+# INIZIO OUTBRAIN-MEDIAMOND
+appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
+tremorhub.com, q017o-78mlk, RESELLER, 1a4e959a1b50034a # Premium video demand aka "Telaria"
+teads.tv, 15429, RESELLER, 15a9c44f6d26cbe1 # Premium video demand
+advertising.com, 26154, RESELLER # Premium video demand
+spotxchange.com, 225721, RESELLER, 7842df1d2fe2db34 # Premium video demand
+freewheel.tv, 741650, RESELLER # Premium video demand
+rubiconproject.com, 17130, RESELLER, 0bfd66d529a55807 # Premium video demand
+lkqd.net, 450, RESELLER, 59c49fa9598a0117 # Premium video demand
+openx.com, 540393169, RESELLER, 6a698e2ec38604c6 # Premium video demand
+spotx.tv, 238936, RESELLER, 7842df1d2fe2db34 # Premium video demand
+spotxchange.com, 238936, RESELLER, 7842df1d2fe2db34 # Premium Video Demand
+advertising.com, 28038, RESELLER # Premium Video Demand
+rubiconproject.com, 19668, RESELLER, 0bfd66d529a55807
+outbrain.com, 0084e23b44b5b1953646e3b6b9f4241ffd, DIRECT
+outbrain.com, 00afb96a6321f94323ec92e7140f0c4475, DIRECT
+outbrain.com, 001a6d003de56939b0a19ba0b32addfcbe, DIRECT
+outbrain.com, 00037f1c6b1ca12acfe0efab0103aec0c5, DIRECT
+outbrain.com, 0022d34096e9dcdba4ed00bf9928047194, DIRECT
+outbrain.com, 0051355e2426700bc31ecf8dfb96a03821, DIRECT
+outbrain.com, 0009aefbc3472fbb0fb2021777052a5c83, DIRECT
+outbrain.com, 0040a0e3dc819aef4ea6a724fbc8cdaf0a, DIRECT
+outbrain.com, 0074fea3e250d386141212ab905ca275bb, DIRECT
+outbrain.com, 00428f7bae0507662d8557f38ae1eaa2e9, DIRECT
+outbrain.com, 002a488e23ed6bd52347eb484721d4015b, DIRECT
+outbrain.com, 007cab09b7f3e4050a39df7318b4ae8382, DIRECT
+outbrain.com, 006be243c49b68478915f4183d26c4102a, DIRECT
+outbrain.com, 00a5e60c47de9fceca591aba959282a349, DIRECT
+outbrain.com, 00c78bd741e432b47faeb649fb09fe7b9e, DIRECT
+outbrain.com, 0053919559d01074b59c318d6a0dd60bbd, DIRECT
+outbrain.com, 005728d4e7ef27282f71978bfbad5f6f72, DIRECT
+outbrain.com, 0089bee9c9beb57b6d9cc23b633c73c690, DIRECT
+outbrain.com, 00732eb502c235a4299baf8087844fbff1, DIRECT
+outbrain.com, 00e54309ab8b341a0016a07640956dcca9, DIRECT
+outbrain.com, 00c316bbf0a34728468d71b42ee45f9063, DIRECT
+outbrain.com, 001472ee566d896d4bbbf4efed7da7349e, DIRECT
+outbrain.com, 006160d92e63a5f092413b25a1395c5307, DIRECT
+outbrain.com, 004cae995390878eed7cfaa77b71f42095, DIRECT
+outbrain.com, 002a1cb34ed023aab56d902a5037bc93ac, DIRECT
+outbrain.com, 00e5d9a36b9642ca2c8b5b0ad545d2c52d, DIRECT
+outbrain.com, 00d310f72860316aebc0c349c990cbae30, DIRECT
+outbrain.com, 00dcb6fd2aa0f95d17af5bec2b5b10aef6, DIRECT
+outbrain.com, 00181dcedcbe3b0bb40ee6edd7c2eec25d, DIRECT
+outbrain.com, 0040a465e41ace1ae9ac89297426c1d6e5, DIRECT
+# FINE OUTBRAIN-MEDIAMOND

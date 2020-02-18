@@ -1,0 +1,10 @@
+# Ads.txt file for http://www.ekiten.jp:
+
+# google adsense
+google.com, pub-8566695180104071, DIRECT, f08c47fec0942fa0
+
+# Google Ad Managar
+google.com, pub-2127063258385229, DIRECT, f08c47fec0942fa0
+
+# fluct(EBDA)
+adingo.jp, 18376, RESELLER

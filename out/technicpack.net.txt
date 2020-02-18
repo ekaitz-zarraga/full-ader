@@ -1,0 +1,45 @@
+# NitroPay
+nitropay.com, 73, DIRECT
+contact=https://nitropay.com
+
+# Google
+google.com, pub-9872233689689746, DIRECT, f08c47fec0942fa0
+
+#AdSense 
+google.com, pub-7514620359360958, DIRECT, f08c47fec0942fa0
+
+# Amazon UAM
+aps.amazon.com,da657530-03e5-4306-95bc-d4eb370426c9,DIRECT
+ad-generation.jp,12474,RESELLER
+
+# AppNexus
+appnexus.com, 7795, DIRECT
+
+# Conversant
+conversantmedia.com, 40888, DIRECT
+
+# DistrictM
+districtm.io, 100727, DIRECT
+
+# EMX Digital
+EMXDGT.com, 446, DIRECT, 1e1d41537f7cad7f
+
+# Index Exchange
+indexexchange.com, 185177, DIRECT
+
+# OpenX
+openx.com, 539609083, DIRECT, 6a698e2ec38604c6
+
+# PubMatic
+pubmatic.com, 156737, DIRECT, 5d62403b186f2ace
+
+# PulsePoint
+contextweb.com, 561112, DIRECT, 89ff185a4c4e857
+
+# Sovrn
+sovrn.com, 251959, DIRECT, fafdf38b16bf6b2b
+lijit.com, 251959, DIRECT, fafdf38b16bf6b2b
+gumgum.com, 11645, RESELLER, ffdef49475d318a9
+
+# Verizon
+adtech.com, 11015, DIRECT

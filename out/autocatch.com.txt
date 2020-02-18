@@ -1,0 +1,108 @@
+# Ads.txt file for Metroland Media:
+
+appnexus.com, 9586, DIRECT
+indexexchange.com, 181778, DIRECT, 50b1c356f2c5c8fc
+indexexchange.com, 186187, DIRECT, 50b1c356f2c5c8fc
+openx.com, 539801891, DIRECT, 6a698e2ec38604c6
+openx.com, 540273760, DIRECT, 6a698e2ec38604c6
+rubiconproject.com, 18512, DIRECT, 0bfd66d529a55807
+rubiconproject.com, 18488, DIRECT, 0bfd66d529a55807
+google.com, pub-8188431425509997, DIRECT
+districtm.io, 101660, DIRECT, 3fd707be9c4527c3
+appnexus.com, 1908, RESELLER, f5ab79cb980f11d1
+google.com, pub-9685734445476814, RESELLER, f08c47fec0942fa0
+tremorhub.com, saris-g8hal, DIRECT, 1a4e959a1b50034a
+telaria.com, saris-g8hal, DIRECT, 1a4e959a1b50034a
+indexexchange.com, 184088, RESELLER
+freeskreen.com, 22, DIRECT, fe119a6acfd19070
+smartadserver.com, 1772, RESELLER
+advertising.com, 22118, RESELLER
+pubmatic.com, 158426, DIRECT, 5d62403b186f2ace
+triplelift.com, 4318, DIRECT, 6c33edb13117fd86
+appnexus.com, 1314, RESELLER
+freewheel.tv, 19129, RESELLER
+freewheel.tv, 19133, RESELLER
+indexexchange.com, 186046, RESELLER 
+openx.com, 540274407, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 156557, RESELLER 
+rubiconproject.com, 18694, RESELLER, 0bfd66d529a55807 
+sharethrough.com, 764d1c3c, RESELLER, d53b998a7bd4ecd2 
+sharethrough.com, ba913491, RESELLER, d53b998a7bd4ecd2
+spotx.tv, 212457, RESELLER 
+spotxchange.com, 212457, RESELLER 
+tremorhub.com, mb9eo-oqsbf, RESELLER, 1a4e959a1b50034a
+vi.ai, 474289066697842, RESELLER
+# Begin Sortable Lines
+appnexus.com, 4052, RESELLER #Conversant
+conversantmedia.com, 40583, RESELLER, 03113cd04947736d #Conversant
+openx.com, 540031703, RESELLER, 6a698e2ec38604c6 #Conversant
+appnexus.com, 1356, RESELLER, f5ab79cb980f11d1 #EMX
+emxdgt.com, 42, RESELLER, 1e1d41537f7cad7f #EMX
+contextweb.com, 562041, RESELLER, 89ff185a4c4e857c #Pulsepoint
+rhythmone.com, 630876328, RESELLER, a670c89d4a324e47 #RhythmOne
+pubmatic.com, 156961, RESELLER, 5d62403b186f2ace #Pubmatic
+appnexus.com, 3484, RESELLER #AppNexus
+openx.com, 537125695, RESELLER, 6a698e2ec38604c6 #OpenX
+openx.com, 538963248, RESELLER, 6a698e2ec38604c6 #OpenX
+adtech.com, 10217, RESELLER, #Oath
+indexexchange.com, 175407, RESELLER, 50b1c356f2c5c8fc #Oath
+openx.com, 537125356, RESELLER, 6a698e2ec38604c6 #Oath
+pubmatic.com, 155967, RESELLER, 5d62403b186f2ace #Oath
+pubmatic.com, 156078, RESELLER, 5d62403b186f2ace #Oath
+appnexus.com, 1908, RESELLER, f5ab79cb980f11d1 #DistrictM
+districtm.io, 100775, RESELLER #DistrictM
+rubiconproject.com, 13218, RESELLER, 0bfd66d529a55807 #Rubicon
+rubiconproject.com, 10278, RESELLER, 0bfd66d529a55807 #Sheknows
+improvedigital.com, 1481, RESELLER #Improve Digital
+indexexchange.com, 182645, RESELLER, 50b1c356f2c5c8fc #Index
+indexexchange.com, 185176, RESELLER, 50b1c356f2c5c8fc #Index
+indexexchange.com, 186046, RESELLER #Sharethrough
+openx.com, 540274407, RESELLER, 6a698e2ec38604c6 #Sharethrough
+pubmatic.com, 156557, RESELLER #Sharethrough
+rubiconproject.com, 18694, RESELLER, 0bfd66d529a55807 #Sharethrough
+sharethrough.com, ba913491, RESELLER, d53b998a7bd4ecd2 #Sharethrough
+spotxchange.com, 212457, RESELLER #Sharethrough
+spotx.tv, 212457, RESELLER #Sharethrough
+contextweb.com, 560606, RESELLER #Sonobi
+rhythmone.com, 1059622079, RESELLER #Sonobi
+sonobi.com, fb9580c293, RESELLER #Sonobi
+deployads.com, 985, RESELLER
+sortable.com, 985, RESELLER
+appnexus.com, 1360, RESELLER, f5ab79cb980f11d1 #Sovrn
+gumgum.com, 11645, RESELLER, ffdef49475d318a9 #Sovrn
+lijit.com, 203268, RESELLER, fafdf38b16bf6b2b #Sovrn
+lijit.com, 203268-eb, RESELLER, fafdf38b16bf6b2b #Sovrn
+lijit.com, 239053, RESELLER, fafdf38b16bf6b2b #Sovrn
+lijit.com, 247572, RESELLER, fafdf38b16bf6b2b #Sovrn
+lijit.com, 82507, RESELLER, fafdf38b16bf6b2b #Sovrn
+openx.com, 538959099, RESELLER, 6a698e2ec38604c6 #Sovrn
+openx.com, 539924617, RESELLER, 6a698e2ec38604c6 #Sovrn
+pubmatic.com, 137711, RESELLER, 5d62403b186f2ace #Sovrn
+pubmatic.com, 156212, RESELLER, 5d62403b186f2ace #Sovrn
+pubmatic.com, 156700, RESELLER, 5d62403b186f2ace #Sovrn
+rubiconproject.com, 17960, RESELLER, 0bfd66d529a55807 #Sovrn
+sovrn.com, 203268, RESELLER, fafdf38b16bf6b2b #Sovrn
+sovrn.com, 239053, RESELLER, fafdf38b16bf6b2b #Sovrn
+sovrn.com, 247572, RESELLER, fafdf38b16bf6b2b #Sovrn
+sovrn.com, 82507, RESELLER, fafdf38b16bf6b2b #Sovrn
+triplelift.com, 2960, RESELLER, 6c33edb13117fd86 #Triplelift
+appnexus.com, 7911, RESELLER #Yieldmo
+rubiconproject.com, 17070, RESELLER, 0bfd66d529a55807 #Yieldmo
+yieldmo.com, 2077570232935417324, RESELLER #Yieldmo
+aps.amazon.com, 82ced0ff-f996-4780-a317-3a867a4dc64d, RESELLER #UAM
+teads.tv, 9856, RESELLER, 15a9c44f6d26cbe1 #Teads
+appnexus.com, 2234, RESELLER #Undertone
+openx.com, 537153564, RESELLER, 6a698e2ec38604c6 #Undertone
+undertone.com, 3834, RESELLER #Undertone
+33across.com, 0013300001kSHekAAG, RESELLER, bbea06d9c4d2853c #33across
+adtech.com, 12094, RESELLER #33across
+appnexus.com, 10239, RESELLER, f5ab79cb980f11d1 #33across
+openx.com, 537120563, RESELLER, 6a698e2ec38604c6 #33across
+pubmatic.com, 156423, RESELLER, 5d62403b186f2ace #33across
+rubiconproject.com, 16414, RESELLER, 0bfd66d529a55807 #33across
+google.com, pub-3153065230153281, RESELLER, f08c47fec0942fa0 #Google
+google.com, pub-3693684048097240, RESELLER #Google
+spotxchange.com, 228693, RESELLER, 7842df1d2fe2db34 #SpotX
+spotx.tv, 228693, RESELLER, 7842df1d2fe2db34 #SpotX
+gumgum.com, 12319, RESELLER, ffdef49475d318a9 #Gumgum
+# End Sortable Lines

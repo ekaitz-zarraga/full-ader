@@ -1,0 +1,18 @@
+google.com, pub-7420809296059746, DIRECT, f08c47fec0942fa0
+google.com, pub-8108224075232734, DIRECT, f08c47fec0942fa0
+google.com, pub-7363809219244122, RESELLER, f08c47fec0942fa0
+switchadhub.com, 29, RESELLER
+pagead2.googlesyndication.com, ca-pub-3443918307802676, RESELLER
+pagead2.googlesyndication.com, ca-pub-8101658338626046, RESELLER
+google.com, ca-pub-3443918307802676, RESELLER
+google.com, ca-pub-8101658338626046, RESELLER
+pubmine.com, 3, DIRECT
+criteo.net, 45205, RESELLER
+criteo.net, 96498, RESELLER
+appnexus.com, 7766, RESELLER
+ib.adnxs.com, 7766, RESELLER
+adnx.com, 7766, RESELLER
+amazon-adsystem.com, 9240792, RESELLER
+ads.pubmatic.com, 156204, RESELLER
+adserver.adtech.de, 5071.1, RESELLER
+ads.adaptv.advertising.com, 5071.1, RESELLER

@@ -1,0 +1,88 @@
+google.com, pub-9116742417323953, DIRECT, f08c47fec0942fa0
+google.com, pub-5512390705137507, RESELLER, f08c47fec0942fa0
+optad360.com, 325474, DIRECT
+smartadserver.com, 2079, RESELLER
+teads.tv, 15763, DIRECT, 15a9c44f6d26cbe1
+contextweb.com, 560288, RESELLER
+pubmatic.com, 156439, RESELLER
+pubmatic.com, 154037, RESELLER
+rubiconproject.com, 16114, RESELLER, 0bfd66d529a55807
+openx.com, 537149888, RESELLER, 6a698e2ec38604c6
+sovrn.com, 257611, RESELLER, fafdf38b16bf6b2b
+appnexus.com, 3703, RESELLER, f5ab79cb980f11d1
+adform.com, 1109, RESELLER
+appnexus.com, 1019, RESELLER
+appnexus.com, 2688, RESELLER
+lijit.com, 231317, RESELLER, fafdf38b16bf6b2b
+openx.com, 537103367, RESELLER
+rubiconproject.com, 15380, RESELLER
+sovrn.com, 231317, RESELLER, fafdf38b16bf6b2b
+openx.com, 539620057, RESELLER
+contextweb.com, 560961, RESELLER
+sovrn.com, 259602, RESELLER, fafdf38b16bf6b2b
+lijit.com, 259602, RESELLER, fafdf38b16bf6b2b
+gumgum.com, 11645, RESELLER, ffdef49475d318a9
+openx.com, 537120960, RESELLER
+openx.com, 83499, RESELLER
+openx.com, 538959099, RESELLER
+pubmatic.com, 137711, RESELLER
+pubmatic.com, 156212, RESELLER
+pubmatic.com, 62483, RESELLER
+contextweb.com, 558511, RESELLER
+experian.com, 0001, RESELLER
+
+taboola.com,1135718,DIRECT,c228e6794e811952
+spotx.tv,71451,RESELLER
+spotxchange.com, 71451, RESELLER
+advertising.com, 8603, RESELLER
+advertising.com, 3531, RESELLER
+pubmatic.com, 156307, RESELLER, 5d62403b186f2ace
+appnexus.com, 3364, RESELLER
+Indexexchange.com, 183756, RESELLER
+contextweb.com, 560382, RESELLER
+openx.com, 539154393, RESELLER
+tremorhub.com, z87wm, RESELLER, 1a4e959a1b50034a
+rubiconproject.com, 16698, RESELLER, 0bfd66d529a55807
+fyber.com, ad9de41d28d494354b23133f26f83122, RESELLER
+fyber.com, 1a12a7e3f84fe560ccf95a3a73043abb, RESELLER
+
+#CLICKIO
+google.com, pub-3104790387792468, RESELLER, f08c47fec0942fa0
+clickio.com, 129493, DIRECT
+
+#CLICKIO
+clickio.com, 129792, DIRECT
+
+#CLICKIO
+contextweb.com, 560182, RESELLER, 89ff185a4c4e857c
+contextweb.com, 561136, RESELLER, 89ff185a4c4e857c
+
+#CLICKIO
+adtech.com, 4662, RESELLER
+aolcloud.net, 4662, RESELLERER
+
+districtm.io, 101028, RESELLER
+appnexus.com, 1908, RESELLER
+appnexus.com, 7944, RESELLER
+smartadserver.com, 3070, RESELLER
+contextweb.com, 560288, RESELLER, 89ff185a4c4e857c
+teads.tv, 15389, RESELLER, 15a9c44f6d26cbe1
+appnexus.com, 9954, RESELLER
+indexexchange.com, 179394, RESELLER
+
+pubmatic.com, 157685, RESELLER, 5d62403b186f2ace
+pubmatic.com, 157687, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 19944, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 19942, RESELLER, 0bfd66d529a55807
+
+groundtruth.com, 107, RESELLER, 81cbf0a75a5e0e9a
+rubiconproject.com, 13132, RESELLER, 0bfd66d529a55807
+pubmatic.com, 156030, RESELLER, 5d62403b186f2ace
+
+#Denakop
+denakop.com, pub-124, DIRECT
+google.com, pub-8170966538152543, RESELLER, f08c47fec0942fa0
+adtech.com, 11627, RESELLER
+contextweb.com, 560821, RESELLER
+appnexus.com, 2081, RESELLER, f5ab79cb980f11d1
+appnexus.com, 10528, RESELLER, f5ab79cb980f11d1

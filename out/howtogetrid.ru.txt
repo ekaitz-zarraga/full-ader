@@ -1,0 +1,20 @@
+google.com, pub-1889938392623509, DIRECT, f08c47fec0942fa0
+#CLICKIO
+google.com, pub-3104790387792468, RESELLER, f08c47fec0942fa0
+clickio.com, 129491, DIRECT
+#CLICKIO
+appnexus.com, 1908, RESELLER
+appnexus.com, 3703, RESELLER, f5ab79cb980f11d1
+appnexus.com, 7944, RESELLER
+contextweb.com, 560288, RESELLER, 89ff185a4c4e857c
+districtm.io, 101028, RESELLER
+openx.com, 537149888, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 154037, RESELLER
+pubmatic.com, 156439, RESELLER
+rubiconproject.com, 16114, RESELLER, 0bfd66d529a55807
+smartadserver.com, 3070, RESELLER
+sovrn.com, 257611, RESELLER, fafdf38b16bf6b2b
+adtech.com, 4662, RESELLER
+aolcloud.net, 4662, RESELLER
+contextweb.com, 560182, RESELLER, 89ff185a4c4e857c
+contextweb.com, 561136, RESELLER, 89ff185a4c4e857c

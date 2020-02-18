@@ -1,0 +1,58 @@
+google.com, pub-8015608036305667, DIRECT, f08c47fec0942fa0
+google.com, pub-5610649146674306, RESELLER, f08c47fec0942fa0
+
+# AdTarget, Native Advertising
+my6sense.com, 10745, DIRECT
+google.com, pub-4903453974745530, RESELLER, f08c47fec0942fa0
+google.com, pub-9599081886768408, RESELLER, f08c47fec0942fa0
+google.com, pub-4947302610818361, RESELLER, f08c47fec0942fa0
+google.com, pub-1980737274132185, RESELLER, f08c47fec0942fa0
+improvedigital.com, 1223, RESELLER
+beachfront.com, 3442, RESELLER, e2541279e8e2ca4d
+lkqd.net, 379, RESELLER, 59c49fa9598a0117
+beachfront.com, 2892, RESELLER, e2541279e8e2ca4d
+improvedigital.com, 1234, RESELLER
+rhythmone.com,269095530,RESELLER,a670c89d4a324e47
+springserve.com, 730, RESELLER, a24eb641fc82e93d
+beachfront.com, 4969, RESELLER, e2541279e8e2ca4d
+advertising.com, 26282, RESELLER
+pubmatic.com, 157310, RESELLER, 5d62403b186f2ace
+rhythmone.com, 2968119028, RESELLER, a670c89d4a324e47
+spotxchange.com, 239904, RESELLER, 7842df1d2fe2db34
+spotx.tv, 239904, RESELLER, 7842df1d2fe2db34
+contextweb.com, 561910, RESELLER, 89ff185a4c4e857c
+openx.com, 540454059, RESELLER, 6a698e2ec38604c6
+districtm.io, 101856, RESELLER, 3fd707be9c4527c3
+appnexus.com, 1908, RESELLER, f5ab79cb980f11d1
+google.com, pub-9685734445476814, RESELLER, f08c47fec0942fa0
+undertone.com, 3817, RESELLER
+appnexus.com, 2234, RESELLER
+openx.com, 537153564, RESELLER, 6a698e2ec38604c6
+synacor.com, 82101, RESELLER, e108f11b2cdf7d5b
+advertising.com, 19623, RESELLER
+openx.com, 540634634, RESELLER, 6a698e2ec38604c6
+cedato.com, 501446106, RESELLER
+cedato.com, 159323656, RESELLER
+cedato.com, 25944061, RESELLER
+cedato.com, 67407424, RESELLER
+cedato.com, 70851404, RESELLER
+
+admatic.com.tr, adm-pub-182529578466, DIRECT
+improvedigital.com, 912, RESELLER
+indexexchange.com, 187872, DIRECT
+connectad.io, 432, DIRECT
+pubmatic.com, 156077, RESELLER, 5d62403b186f2ace
+openx.com, 537145117, RESELLER, a698e2ec38604c6
+google.com, pub-9467340974789471, RESELLER, f08c47fec0942fa0
+adform.com, 768, RESELLER
+contextweb.com, 560489, RESELLER, 89ff185a4c4e857c
+ibillboard.com, 32868, DIRECT
+indexexchange.com, 180179, RESELLER, 50b1c356f2c5c8fc
+indexexchange.com, 183592, RESELLER, 50b1c356f2c5c8fc
+contextweb.com, 558750, DIRECT, 89ff185a4c4e857c
+Appnexus.com, 1371, RESELLER, f5ab79cb980f11d1
+stroeer.com, 14214 ,DIRECT
+stroeer.com, 17362 ,DIRECT
+adform.com, 2083, DIRECT
+contextweb.com, 560017, RESELLER
+

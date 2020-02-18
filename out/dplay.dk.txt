@@ -1,0 +1,23 @@
+#Ads.txt for DPLAY.DK:
+
+#Google SSP
+google.com, pub-8171678694454677, DIRECT, f08c47fec0942fa0
+ 
+#Smartclip
+smartclip.net,786,DIRECT
+smartclip.net,838,DIRECT
+ 
+#Adform
+adform.com, 1243, RESELLER
+ 
+#Appnexus
+appnexus.com, 2954, RESELLER
+
+#FW SSP/StickyAds
+freewheel.tv, 592177, DIRECT
+freewheel.tv, 654322, DIRECT
+freewheel.tv, 654338, DIRECT
+freewheel.tv, 926401, RESELLER
+ 
+contact=DNI_AdOps@discovery.com
+ 

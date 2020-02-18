@@ -1,0 +1,39 @@
+#Ads.txt mtvuutiset.fi & luukku.com & studio55.fi & lumijapyry.fi & suomiareena.fi
+
+# Display & Video ads
+adform.com, 30, DIRECT, 9f5210a2f0999e32
+adform.com, 1169, DIRECT, 9f5210a2f0999e32
+freewheel.tv, 593169, DIRECT
+freewheel.tv, 1048097, DIRECT
+freewheel.tv, 667010, RESELLER
+freewheel.tv, 1050145, RESELLER
+indexexchange.com, 183529, RESELLER, 50b1c356f2c5c8fc
+adform.com, 1714, DIRECT
+rubiconproject.com, 11728, DIRECT, 0bfd66d529a55807 
+appnexus.com, 8727, DIRECT, f5ab79cb980f11d1
+improvedigital.com , 1049, DIRECT
+pubmatic.com, 157502, DIRECT, 5d62403b186f2ace
+widespace.com, 2373, DIRECT
+pubmatic.com, 156098, RESELLER, 5d62403b186f2ace
+improvedigital.com, 1166, RESELLER
+adform.com, 38, RESELLER
+teads.tv, 8208, RESELLER, 15a9c44f6d26cbe1
+teads.tv, 7714, DIRECT, 15a9c44f6d26cbe1
+google.com, pub-2230583669607913, RESELLER, f08c47fec0942fa0
+rubiconproject.com, 19586, RESELLER, 0bfd66d529a55807
+pubmatic.com, 157409, RESELLER, 5d62403b186f2ace
+google.com, pub-5738190132262162, RESELLER, f08c47fec0942fa0
+
+# Native ads
+smartadserver.com,2245,RESELLER
+contextweb.com,560288,RESELLER,89ff185a4c4e857c
+pubmatic.com,156439,RESELLER
+pubmatic.com,154037,RESELLER
+rubiconproject.com,16114,RESELLER,0bfd66d529a55807
+openx.com,537149888,RESELLER,6a698e2ec38604c6
+sovrn.com,257611,RESELLER,fafdf38b16bf6b2b
+appnexus.com,3703,RESELLER,f5ab79cb980f11d1
+app.readpeak.com, 60, DIRECT
+
+
+contact=programmatic@mtv.fi

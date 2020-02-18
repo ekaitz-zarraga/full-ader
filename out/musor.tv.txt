@@ -1,0 +1,44 @@
+google.com, pub-4400279450377132, DIRECT, f08c47fec0942fa0
+google.com, pub-2515958071978083, DIRECT, f08c47fec0942fa0
+
+33across.com, 33, DIRECT
+adform.com, 830, DIRECT
+adtech.com, 9993, RESELLER
+amazon.com, 3411, RESELLER
+aolcloud.net, 9993, RESELLER
+appnexus.com, 1001, RESELLER, f5ab79cb980f11d1
+appnexus.com, 3135, RESELLER, f5ab79cb980f11d1
+appnexus.com, 3703, RESELLER, f5ab79cb980f11d1
+contextweb.com, 558511, RESELLER, 89ff185a4c4e857c
+contextweb.com, 560288, RESELLER, 89ff185a4c4e857c
+criteo.com, 3450, RESELLER
+google.com, pub-4128941097367676, DIRECT, f08c47fec0942fa0
+google.com, pub-6565753374157429, DIRECT, f08c47fec0942fa0
+google.com, pub-9557089510405422, RESELLER, f08c47fec0942fa0
+gumgum.com, 11645, RESELLER, ffdef49475d318a9
+indexexchange.com, 179394, RESELLER
+indexexchange.com, 185506, RESELLER
+lijit.com, 251666, DIRECT, fafdf38b16bf6b2b
+lkqd.com, 293, RESELLER
+lkqd.net, 293, RESELLER
+my6sense.com, 5658, DIRECT
+openx.com, 537120563, RESELLER, 6a698e2ec38604c6
+openx.com, 537120960, RESELLER, 6a698e2ec38604c6
+openx.com, 537149888, RESELLER, 6a698e2ec38604c6
+openx.com, 538959099, RESELLER, 6a698e2ec38604c6
+openx.com, 83499, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 137711, RESELLER
+pubmatic.com, 154037, RESELLER
+pubmatic.com, 156212, RESELLER
+pubmatic.com, 156439, RESELLER
+pubmatic.com, 62483, RESELLER
+rubiconproject.com, 14030, DIRECT, 0bfd66d529a55807
+rubiconproject.com, 16114, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 16414, RESELLER, 0bfd66d529a55807
+smartadserver.com, 2859, DIRECT
+sovrn.com, 251666, DIRECT, fafdf38b16bf6b2b
+sovrn.com, 257611, RESELLER, fafdf38b16bf6b2b
+spotx.tv, 139883, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 139883, RESELLER, 7842df1d2fe2db34
+
+#last modified: 2018.01.04

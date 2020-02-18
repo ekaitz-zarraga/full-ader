@@ -1,0 +1,57 @@
+#Google AdX
+google.com,pub-6042373951237502, DIRECT,f08c47fec0942fa0
+
+#AppNexus
+appnexus.com, 7045, DIRECT
+
+#Pubmatic
+pubmatic.com, 156037, DIRECT, 5d62403b186f2ace
+
+#Yieldmo
+yieldmo.com, Frankly, DIRECT
+yieldmo.com, 1368873995434572741, DIRECT
+
+
+#Rubicon Project
+rubiconproject.com, 13140, DIRECT, 0bfd66d529a55807
+rubiconproject.com, 18274, DIRECT, 0bfd66d529a55807
+
+#Undertone
+undertone.com, 198, DIRECT
+appnexus.com, 2234, RESELLER 
+openx.com, 537153564, RESELLER, 6a698e2ec38604c6
+
+
+#RythmOne
+rhythmone.com,1145766910,DIRECT,a670c89d4a324e47
+rhythmone.com,4269631836,DIRECT,a670c89d4a324e47
+
+ 
+#Frankly-Sovrn-EB
+sovrn.com, 267034, DIRECT, fafdf38b16bf6b2b
+lijit.com, 267034, DIRECT, fafdf38b16bf6b2b
+appnexus.com, 1360, RESELLER, f5ab79cb980f11d1
+gumgum.com, 11645, RESELLER, ffdef49475d318a9
+openx.com, 538959099, RESELLER, 6a698e2ec38604c6
+openx.com, 539924617, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 137711, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156212, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156700, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 17960, RESELLER, 0bfd66d529a55807
+
+
+#comsumables
+consumable.com, 2000363, DIRECT 
+indexexchange.com, 186248, RESELLER 
+indexexchange.com, 187454, RESELLER 
+rubiconproject.com, 17632, RESELLER 
+rubiconproject.com, 18890, RESELLER 
+openx.com, 539699341, RESELLER 
+pubmatic.com, 157367, RESELLER
+
+# INFRAS-1181  YeildMo Footer
+yieldmo.com, 1368873995434572741, DIRECT
+
+#indexexchange
+indexexchange.com, 187833, DIRECT
+

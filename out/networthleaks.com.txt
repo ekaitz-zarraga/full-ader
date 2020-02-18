@@ -1,0 +1,64 @@
+google.com, pub-7280614879573744, DIRECT, f08c47fec0942fa0
+
+mgid.com, 257258, DIRECT, d4c29acad76ce94f
+
+mgid.com, 5736389, DIRECT
+mgid.com, 5737715, DIRECT
+mgid.com, 5740112, DIRECT
+mgid.com, 5740113, DIRECT
+mgid.com, 5740114, DIRECT
+
+### UDM START ###
+udmserve.net, 2612, DIRECT, 0cf60ed62b5f3e40
+adtech.com, 10483, RESELLER
+advertising.com, 28251, RESELLER, e1a5b5b6e3255540
+aolcloud.net, 10483, RESELLER
+appnexus.com, 1356, RESELLER, f5ab79cb980f11d1
+appnexus.com, 1610, RESELLER, f5ab79cb980f11d1
+appnexus.com, 1908, RESELLER, f5ab79cb980f11d1
+appnexus.com, 7874, RESELLER, f5ab79cb980f11d1
+appnexus.com, 7944, RESELLER, f5ab79cb980f11d1
+appnexus.com, 9316, RESELLER, f5ab79cb980f11d1
+contextweb.com, 508738, RESELLER, 89ff185a4c4e857c
+contextweb.com, 560606, RESELLER, 89ff185a4c4e857c
+coxmt.com, 2000067907202, RESELLER
+districtm.io, 100885, RESELLER
+emxdgt.com, 993, RESELLER, 1e1d41537f7cad7f
+google.com, pub-5278973888786334, RESELLER, f08c47fec0942fa0
+google.com, pub-5995202563537249, RESELLER, f08c47fec0942fa0
+google.com, pub-7620071422727774, RESELLER, f08c47fec0942fa0
+google.com, pub-9148265802523938, RESELLER, f08c47fec0942fa0
+indexexchange.com, 175407, RESELLER, 50b1c356f2c5c8fc
+lkqd.net, 531, RESELLER, 59c49fa9598a0117
+openx.com, 537124574, RESELLER, 6a698e2ec38604c6
+openx.com, 537143344, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 156078, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156344, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156505, RESELLER, 5d62403b186f2ace
+pubmatic.com, 158142, RESELLER, 5d62403b186f2ace
+rhythmone.com, 1059622079, RESELLER, a670c89d4a324e47
+rhythmone.com, 2497923403, RESELLER, a670c89d4a324e47
+rhythmone.com, 4000889998, RESELLER, a670c89d4a324e47
+rhythmone.com, 964214154, RESELLER, a670c89d4a324e47
+rubiconproject.com, 13344, RESELLER, 0bfd66d529a55807
+sonobi.com, 5fa6044d8d, RESELLER
+spotx.tv, 238463, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 238463, RESELLER, 7842df1d2fe2db34
+synacor.com, 82078, RESELLER
+### UDM END ###
+
+#revcontent
+revcontent.com, 54663, DIRECT
+appnexus.com, 7666, RESELLER, f5ab79cb980f11d1
+rubiconproject.com, 156042, RESELLER, 0bfd66d529a55807
+my6sense.com, 9732, RESELLER
+criteo.com, 7822, RESELLER
+connatix.com, 101600, DIRECT, 2af98acdee0e81ed
+tremorhub.com, cd009, RESELLER, 1a4e959a1b50034a
+advertising.com, 3679, RESELLER
+advertising.com, 14564, RESELLER
+spotxchange.com, 136839, RESELLER, 7842df1d2fe2db34
+spotx.tv, 136839, RESELLER, 7842df1d2fe2db34
+openx.com, 539496816, RESELLER, 6a698e2ec38604c6
+google.com, pub-5480205708168063, RESELLER, f08c47fec0942fa0
+google.com, pub-9914992914910847, DIRECT, f08c47fec0942fa0

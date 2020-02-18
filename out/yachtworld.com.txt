@@ -1,0 +1,248 @@
+# Boats Group
+aps.amazon.com,ee393b02-d378-4f29-bcf1-8f511cc9fa92,DIRECT
+appnexus.com,7920,DIRECT,f5ab79cb980f11d1
+conversantmedia.com,41089,DIRECT,03113cd04947736d
+districtm.io,101828,DIRECT,3fd707be9c4527c3
+google.com,pub-4314065930621510,DIRECT,f08c47fec0942fa0
+media.net,8CU7PN9JY,DIRECT
+openx.com,537148401,DIRECT,6a698e2ec38604c6
+openx.com,540587780,DIRECT,6a698e2ec38604c6
+openx.com,537149012,DIRECT,6a698e2ec38604c6
+rubiconproject.com,16902,DIRECT,0bfd66d529a55807
+lijit.com,250692,DIRECT,fafdf38b16bf6b2b
+sabio.us,10026,DIRECT,96ed93aaa9795702
+sovrn.com,250692,DIRECT,fafdf38b16bf6b2b
+synacor.com,81965,DIRECT,e108f11b2cdf7d5b
+synacor.com,82123,DIRECT,e108f11b2cdf7d5b
+adtech.com,11564,DIRECT,e1a5b5b6e3255540
+adtech.com,11698,DIRECT,e1a5b5b6e3255540
+
+# Amazon
+appnexus.com,1908,RESELLER,f5ab79cb980f11d1
+openx.com,540191398,RESELLER,6a698e2ec38604c6
+pubmatic.com,157150,RESELLER,5d62403b186f2ace
+rubiconproject.com,18020,RESELLER,0bfd66d529a55807
+rhythmone.com,1654642120,RESELLER,a670c89d4a324e47
+
+# Conversant
+appnexus.com,4052,RESELLER,
+contextweb.com,561998,RESELLER,89ff185a4c4e857c
+openx.com,540031703,RESELLER,6a698e2ec38604c6
+pubmatic.com,158100,RESELLER,5d62403b186f2ace
+
+# District M
+appnexus.com,1908,RESELLER,f5ab79cb980f11d1
+google.com,pub-9685734445476814,RESELLER,f08c47fec0942fa0
+
+# Media net
+appnexus.com,1356,RESELLER,f5ab79cb980f11d1
+appnexus.com,1908,RESELLER
+districtm.io,100600,RESELLER
+emxdgt.com,200,RESELLER,1e1d41537f7cad7f
+google.com,pub-5995202563537249,RESELLER,f08c47fec0942fa0
+google.com,pub-7439041255533808,RESELLER,f08c47fec0942fa0
+pubmatic.com,156181,RESELLER,5d62403b186f2ace
+sharethrough.com,0d60edd5,RESELLER
+sonobi.com,83729e979b,RESELLER
+Media.net, 8CUPY7XJG, DIRECT
+
+# Verizon Media
+contextweb.com,558299,RESELLER
+indexexchange.com,175407,RESELLER
+openx.com,537143344,RESELLER
+pubmatic.com,156078,RESELLER
+
+# Sabio
+rubiconproject.com,16990,RESELLER,0bfd66d529a55807
+
+# Sovrn
+appnexus.com,1360,RESELLER,f5ab79cb980f11d1
+gumgum.com,11645,RESELLER,ffdef49475d318a9
+openx.com,538959099,RESELLER,6a698e2ec38604c6
+openx.com,539924617,RESELLER,6a698e2ec38604c6
+pubmatic.com,137711,RESELLER,5d62403b186f2ace
+pubmatic.com,156212,RESELLER,5d62403b186f2ace
+pubmatic.com,156700,RESELLER,5d62403b186f2ace
+rubiconproject.com,17960,RESELLER,0bfd66d529a55807
+lijit.com, 250692-eb, DIRECT, fafdf38b16bf6b2b
+
+# Synacor Media
+33across.com,0014000001aXjnGAAS,RESELLER,bbea06d9c4d2853c # 33 Across
+advangelists.com,8d3bba7425e7c98c50f52ca1b52d3735,RESELLER,60d26397ec060f98 # 33 Across
+advangelists.com,a666587afda6e89aec274a3657558a27,RESELLER,60d26397ec060f98 # Viant
+appnexus.com,10239,RESELLER,f5ab79cb980f11d1 # 33 Across
+appnexus.com,310,RESELLER,f5ab79cb980f11d1 # AppNexus
+appnexus.com,9316,RESELLER,f5ab79cb980f11d1 # AppNexus
+appnexus.com,4052,RESELLER,f5ab79cb980f11d1 # Conversant
+appnexus.com,1908,RESELLER,f5ab79cb980f11d1 # RhythmOne
+appnexus.com,7944,RESELLER,f5ab79cb980f11d1 # RhythmOne
+appnexus.com,10039,RESELLER,f5ab79cb980f11d1 # YellowHammer
+appnexus.com,1908,RESELLER,f5ab79cb980f11d1 # YellowHammer
+appnexus.com,2234,RESELLER,f5ab79cb980f11d1 # YellowHammer
+appnexus.com,6849,RESELLER,f5ab79cb980f11d1 # YellowHammer
+beachfront.com,4969,RESELLER,e2541279e8e2ca4d # SpringServe
+contextweb.com,561502,RESELLER,89ff185a4c4e857c # YellowHammer
+contextweb.com,561503,RESELLER,89ff185a4c4e857c # YellowHammer
+districtm.io,101769,RESELLER,3fd707be9c4527c3 # DistrictM
+districtm.io,101323,RESELLER,3fd707be9c4527c3 # YellowHammer
+emxdgt.com,326,RESELLER,1e1d41537f7cad7f # 33 Across
+google.com,pub-9557089510405422,RESELLER,f08c47fec0942fa0 # 33 Across
+google.com,pub-9242135695870166,RESELLER,f08c47fec0942fa0 # Google
+google.com,pub-5278973888786334,RESELLER,f08c47fec0942fa0 # RhythmOne
+google.com,pub-7620071422727774,RESELLER,f08c47fec0942fa0 # RhythmOne
+google.com,pub-9148265802523938,RESELLER,f08c47fec0942fa0 # RhythmOne
+google.com,pub-0978064532142215,RESELLER,f08c47fec0942fa0 # Viant
+google.com,pub-2393320645055022,RESELLER,f08c47fec0942fa0 # Viant
+google.com,pub-4207323757133151,RESELLER,f08c47fec0942fa0 # Viant
+google.com,pub-5231479214411897,RESELLER,f08c47fec0942fa0 # Viant
+google.com,pub-6512936480753445,RESELLER,f08c47fec0942fa0 # YellowHammer
+google.com,pub-9685734445476814,RESELLER,f08c47fec0942fa0 # YellowHammer
+gumgum.com,13318,RESELLER,ffdef49475d318a9 # 33 Across
+indexexchange.com,175407,RESELLER,50b1c356f2c5c8fc # AOL - One
+indexexchange.com,183965,RESELLER,50b1c356f2c5c8fc # AOL - One
+indexexchange.com,184110,RESELLER,50b1c356f2c5c8fc # AOL - One - Mobile
+indexexchange.com,181630,RESELLER,50b1c356f2c5c8fc # Index Exchange
+indexexchange.com,186669,RESELLER,50b1c356f2c5c8fc # Index Exchange
+indexexchange.com,182257,RESELLER,50b1c356f2c5c8fc # YellowHammer
+openx.com,537120563,RESELLER,6a698e2ec38604c6 # 33 Across
+openx.com,537143344,RESELLER,6a698e2ec38604c6 # AOL - One
+openx.com,537126269,RESELLER,6a698e2ec38604c6 # AOL - One - Mobile
+openx.com,540031703,RESELLER,6a698e2ec38604c6 # Conversant
+openx.com,537153564,RESELLER,6a698e2ec38604c6 # YellowHammer
+pubmatic.com,156423,RESELLER,5d62403b186f2ace # 33 Across
+pubmatic.com,156078,RESELLER,5d62403b186f2ace # AOL - One
+pubmatic.com,156084,RESELLER,5d62403b186f2ace # AOL - One
+pubmatic.com,156325,RESELLER,5d62403b186f2ace # AOL - One
+pubmatic.com,156377,RESELLER,5d62403b186f2ace # AOL - One
+pubmatic.com,156458,RESELLER,5d62403b186f2ace # AOL - One
+pubmatic.com,156138,RESELLER,5d62403b186f2ace # AOL - One - Mobile
+pubmatic.com,156556,RESELLER,5d62403b186f2ace # AOL - One - Mobile
+pubmatic.com,156344,RESELLER,5d62403b186f2ace # Pubmatic
+pubmatic.com,157310,RESELLER,5d62403b186f2ace # SpringServe
+rhythmone.com,2439829435,RESELLER,a670c89d4a324e47 # 33 Across
+rhythmone.com,2497923403,RESELLER,a670c89d4a324e47 # RhythmOne
+rhythmone.com,3845386507,RESELLER,a670c89d4a324e47 # YellowHammer
+rubiconproject.com,16414,RESELLER,0bfd66d529a55807 # 33 Across
+rubiconproject.com,18222,RESELLER,0bfd66d529a55807 # AOL - One
+rubiconproject.com,13344,RESELLER,0bfd66d529a55807 # Rubicon
+rubiconproject.com,12738,RESELLER,0bfd66d529a55807 # Viant
+rubiconproject.com,18034,RESELLER,0bfd66d529a55807 # Viant
+rubiconproject.com,15268,RESELLER,0bfd66d529a55807 # YellowHammer
+rubiconproject.com,18542,RESELLER,0bfd66d529a55807 # YellowHammer
+rubiconproject.com,18980,RESELLER,0bfd66d529a55807 # YellowHammer
+spotx.tv,94794,RESELLER,7842df1d2fe2db34 # SpotX
+spotx.tv,111271,RESELLER,7842df1d2fe2db34 # YellowHammer
+spotxchange.com,94794,RESELLER,7842df1d2fe2db34 # SpotX
+spotxchange.com,111271,RESELLER,7842df1d2fe2db34 # YellowHammer
+springserve.com,278,RESELLER,a24eb641fc82e93d # SpringServe
+springserve.com,1,RESELLER,a24eb641fc82e93d # YellowHammer
+telaria.com,b1m42-izznf,RESELLER,1a4e959a1b50034a # Telaria
+tremorhub.com,b1m42-izznf,RESELLER,1a4e959a1b50034a # Telaria
+adtech.com,12094,RESELLER # 33 Across
+adtech.com,10529,RESELLER # AOL - One
+advertising.com,19623,RESELLER # AOL - One
+coxmt.com,2000067995202,RESELLER # AOL - One
+aol.com,52027,RESELLER # AOL - One - Mobile
+coxmt.com,2000067997102,RESELLER # AOL - One - Mobile
+conversantmedia.com,20923,RESELLER # Conversant
+districtm.io,100885,RESELLER # RhythmOne
+advertising.com,26282,RESELLER # SpringServe
+mobileadtrading.com,baf4006e2cf0c06478aa5d2e2097d109,RESELLER # SpringServe
+somoaudience.com,baf4006e2cf0c06478aa5d2e2097d109,RESELLER # SpringServe
+aralego.com,par-488A3E6BD8D997D0ED8B3BD34D8BA4B,RESELLER # ucFunnel
+ucfunnel.com,par-488A3E6BD8D997D0ED8B3BD34D8BA4B,RESELLER # ucFunnel
+advertising.com,2270,RESELLER # Viant
+advertising.com,23302,RESELLER # Viant
+advertising.com,26347,RESELLER # Viant
+beachfront.com,1333,RESELLER # Viant
+brightcom.com,15800,RESELLER # Viant
+vindicosuite.com,6621,RESELLER # Viant
+advertising.com,9008,RESELLER # YellowHammer
+freewheel.tv,709730,RESELLER # YellowHammer
+ssp.ynxs.io,185,RESELLER # YellowHammer
+undertone.com,3753,RESELLER # YellowHammer
+video.unrulymedia.com,UNRX-PUB-4935debe-692e-408b-9ea2-5ddf854e2353,RESELLER # YellowHammer
+vindicosuite.com,6653,RESELLER # YellowHammer
+vindicosuite.com,6655,RESELLER # YellowHammer
+
+# Brightcom
+brightcom.com, 10458, DIRECT
+google.com, pub-5231479214411897, RESELLER, f08c47fec0942fa0
+google.com, pub-4207323757133151, RESELLER, f08c47fec0942fa0
+indexexchange.com, 189744, RESELLER
+openx.com, 537153209, RESELLER, 6a698e2ec38604c6
+33across.com, 0013300001qkdlwAAA, RESELLER
+google.com, pub-9557089510405422, RESELLER, f08c47fec0942fa0
+adtech.com, 11208, RESELLER
+rubiconproject.com, 20416, RESELLER, 0bfd66d529a55807
+sovrn.com, 270524, RESELLER, fafdf38b16bf6b2b
+lijit.com, 270524, RESELLER, fafdf38b16bf6b2b
+appnexus.com, 3153, RESELLER, f5ab79cb980f11d1
+smartadserver.com, 2995, RESELLER
+rubiconproject.com, 16114, RESELLER, 0bfd66d529a55807
+appnexus.com, 3703, RESELLER, f5ab79cb980f11d1
+districtm.io, 101080, DIRECT, 3fd707be9c4527c3
+33across.com, 0010b00001u6f1nAAA, RESELLER
+rhythmone.com,869591749,RESELLER,a670c89d4a324e47
+
+
+# Saambaa
+saambaa.com, 71021020, DIRECT
+google.com, pub-6552175488733768, RESELLER, f08c47fec0942fa0
+sovrn.com, 252623, RESELLER, fafdf38b16bf6b2b
+lijit.com, 252623, RESELLER, fafdf38b16bf6b2b
+appnexus.com, 1360, RESELLER, f5ab79cb980f11d1
+gumgum.com, 11645, RESELLER, ffdef49475d318a9
+openx.com, 538959099, RESELLER, 6a698e2ec38604c6
+openx.com, 539924617, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 137711, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156212, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156700, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 17960, RESELLER, 0bfd66d529a55807
+EMXDGT.com, 485, DIRECT, 1e1d41537f7cad7f
+Google.com, pub-5995202563537249, RESELLER, f08c47fec0942fa0
+Appnexus.com, 1356, RESELLER, f5ab79cb980f11d1
+sonobi.com, 8b725e5cd3, DIRECT, d1a215d9eb5aee9e
+rhythmone.com, 1059622079, RESELLER, a670c89d4a324e47
+contextweb.com, 560606, RESELLER, 89ff185a4c4e857c
+33across.com, 0010b00001shFQpAAM, DIRECT, bbea06d9c4d2853c
+rubiconproject.com, 16414, RESELLER, 0bfd66d529a55807
+appnexus.com, 10239, RESELLER, f5ab79cb980f11d1
+openx.com, 537120563, RESELLER, 6a698e2ec38604c6
+adtech.com, 12094, RESELLER
+rhythmone.com, 2439829435, RESELLER, a670c89d4a324e47
+pubmatic.com, 156423, RESELLER, 5d62403b186f2ace
+advangelists.com, 8d3bba7425e7c98c50f52ca1b52d3735, RESELLER, 60d26397ec060f98
+emxdgt.com, 326, RESELLER, 1e1d41537f7cad7f
+pubmatic.com, 158569, RESELLER, 5d62403b186f2ace
+pubmatic.com, 158136, RESELLER, 5d62403b186f2ace
+appnexus.com, 1001, RESELLER, f5ab79cb980f11d1
+appnexus.com, 3135, RESELLER, f5ab79cb980f11d1
+openx.com, 539392223, RESELLER, 6a698e2ec38604c6
+adtech.com, 9993, RESELLER
+google.com, pub-9557089510405422, RESELLER, f08c47fec0942fa0
+rubiconproject.com, 21434, RESELLER, 0bfd66d529a55807
+districtm.io, 101187, DIRECT
+appnexus.com, 1908, RESELLER, f5ab79cb980f11d1
+pubmatic.com, 156917, RESELLER, 5d62403b186f2ace
+indexexchange.com, 188146, RESELLER, 50b1c356f2c5c8fc
+openx.com, 540384936, RESELLER, 6a698e2ec38604c6
+appnexus.com, 3153, RESELLER, f5ab79cb980f11d1
+contextweb.com, 562089, DIRECT, 89ff185a4c4e857c
+conversantmedia.com, 41685, DIRECT, 03113cd04947736d
+appnexus.com, 4052, RESELLER
+contextweb.com, 561998, RESELLER, 89ff185a4c4e857c
+openx.com, 540031703, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 158100, RESELLER, 5d62403b186f2ace
+yieldnexus.com, 96204, DIRECT
+audience.media, 100358, DIRECT
+appnexus.com, 10617, RESELLER
+appnexus.com, 9393, RESELLER
+advertising.com, 25034, RESELLER
+indexexchange.com, 186684, RESELLER
+beachfront.com, 13750, DIRECT, e2541279e8e2ca4d
+Spotxchange.com, 181067, RESELLER, 7842df1d2fe2db34
+spotx.tv, 181067, RESELLER, 7842df1d2fe2db34
+lkqd.net, 437, RESELLER, 59c49fa9598a0117
+
+

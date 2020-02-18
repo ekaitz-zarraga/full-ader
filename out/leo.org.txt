@@ -1,0 +1,11 @@
+# Ads.txt file for leo.org
+
+openx.com, 537148604, RESELLER, 6a698e2ec38604c6
+ad.yieldlab.net, 830726, DIRECT
+ad.yieldlab.net, 227224, RESELLER
+appnexus.com, 2252, DIRECT, f5ab79cb980f11d1
+google.com, pub-7422122516893366, DIRECT,f08c47fec0942fa0
+rubiconproject.com, 13286, DIRECT, 0bfd66d529a55807
+pubmatic.com, 142525, DIRECT, 5d62403b186f2ace
+aps.amazon.com, 3265, DIRECT
+indexexchange.com, 186321, DIRECT

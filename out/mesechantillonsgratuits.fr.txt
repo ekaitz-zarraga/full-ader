@@ -1,0 +1,41 @@
+# affilinet-performance-module-start
+# Do not modify the following lines
+# Ver. 1.9.1
+appnexus.com, 8332, RESELLER, f5ab79cb980f11d1
+appnexus.com, 8327, RESELLER, f5ab79cb980f11d1
+appnexus.com, 8334, RESELLER, f5ab79cb980f11d1
+appnexus.com, 8333, RESELLER, f5ab79cb980f11d1
+# affilinet-performance-module-end
+
+google.com, pub-8242892469275844, DIRECT, f08c47fec0942fa0
+
+
+google.com, pub-2024690810381654, RESELLER, f08c47fec0942fa0
+appnexus.com, 3391, RESELLER, f5ab79cb980f11d1
+contextweb.com, 558801, RESELLER
+adtech.com, 10844, RESELLER 
+seedtag.com, 5872-9694-01, DIRECT
+appnexus.com, 4009, RESELLER
+smartadserver.com, 3051, RESELLER
+smartadserver.com, 3050, RESELLER
+rubiconproject.com, 17280, DIRECT, 0bfd66d529a55807
+smartadserver.com, 2699, RESELLER
+smartadserver.com, 2938, RESELLER
+contextweb.com,560288,RESELLER,89ff185a4c4e857c
+indexexchange.com,179394,RESELLER,50b1c356f2c5c8fc
+richaudience.com, ns9qrKJLKD, DIRECT
+advertising.com, 23286, RESELLER 
+freewheel.tv, 595393, RESELLER
+freewheel.tv, 595377, RESELLER
+tremorhub.com, s2t3y-r3ofd, RESELLER, 1a4e959a1b50034a
+adform.com, 1942, DIRECT
+advertising.com, 7574, DIRECT
+aerserv.com, 2750, RESELLER, 2ce496b9f80eb9fa
+aolcloud.net, 4687, RESELLER
+mobfox.com, 74240, RESELLER
+openx.com, 539625136, RESELLER
+pubmatic.com, 156538, DIRECT, 5d62403b186f2ace
+rubiconproject.com, 13510, DIRECT
+smaato.com, 1100037086, RESELLER
+spotx.tv, 173175, DIRECT
+spotxchange.com, 173175, DIRECT

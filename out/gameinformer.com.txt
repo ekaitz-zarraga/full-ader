@@ -1,0 +1,23 @@
+# Triad Retail Media 
+# last updated: 12/6/18
+
+# Google
+google.com, pub-2243823733587609, DIRECT, f08c47fec0942fa0
+
+# April 2018 change
+indexexchange.com, 187089, DIRECT
+
+# May 2018 change
+indexexchange.com, 187161, DIRECT
+appnexus.com, 9432, DIRECT, f5ab79cb980f11d1
+rubiconproject.com, 18114, DIRECT, 0bfd66d529a55807
+rubiconproject.com, 18112, DIRECT, 0bfd66d529a55807 
+openx.com, 540006998, DIRECT, 6a698e2ec38604c6
+
+# June 2018 change
+adtech.com, 11459, DIRECT
+openx.com, 540105403, DIRECT, 6a698e2ec38604c6
+
+# December 2018 change
+sovrn.com, 265741, DIRECT, fafdf38b16bf6b2b
+lijit.com, 265741, DIRECT, fafdf38b16bf6b2b

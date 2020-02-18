@@ -1,0 +1,15 @@
+google.com, pub-5539166824185958, DIRECT, f08c47fec0942fa0
+
+# ad2games START
+google.com, pub-7238868895107293, RESELLER, f08c47fec0942fa0
+google.com, pub-7454498665150754, RESELLER, f08c47fec0942fa0
+appnexus.com, 2445, RESELLER, f5ab79cb980f11d1
+# ad2games END
+
+# vibrant START
+vibrantmedia.com,5619,RESELLER,None
+appnexus.com,2154,reseller,None
+contextweb.com,561689,reseller,89ff185a4c4e857c
+criteo.com,146785,direct,None
+indexexchange.com, 184543, RESELLER
+# vibrant END

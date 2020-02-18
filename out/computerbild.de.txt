@@ -1,0 +1,66 @@
+#Ads.txt Media Impact
+
+appnexus.com,7823,DIRECT,f5ab79cb980f11d1
+google.com,pub-5786819153313314,DIRECT,f08c47fec0942fa0
+teads.tv,5632,RESELLER,15a9c44f6d26cbe1
+teads.tv,8674,RESELLER,15a9c44f6d26cbe1
+yieldlab.net,453131,DIRECT
+yieldlab.net,227224,RESELLER
+aps.amazon.com, 3135, DIRECT #display
+aps.amazon.com, 3135, DIRECT #video
+openx.com,539948074,DIRECT,6a698e2ec38604c6
+openx.com, 540038340, DIRECT, 6a698e2ec38604c6
+smartadserver.com,251,DIRECT
+smartadserver.com,3571,DIRECT
+pubmatic.com,157222, DIRECT
+pubmatic.com, 156678, DIRECT
+indexexchange.com, 188480, DIRECT
+indexexchange.com, 188479, DIRECT
+rubiconproject.com, 19248, DIRECT, 0bfd66d529a55807
+rubiconproject.com, 10113, DIRECT, 0bfd66d529a55807
+triplelift.com, 5791-EB, DIRECT, 6c33edb13117fd86
+triplelift.com, 5791, DIRECT, 6c33edb13117fd86
+districtm.io, 101940, DIRECT, 3fd707be9c4527c3
+smaato.com, 1100004890, DIRECT, 07bcf65f187117b4
+
+smartclip.net, 8225, DIRECT #IPD
+smartclip.net, 11333, RESELLER #smartclip IPA
+google.com, pub-3057818873023700, RESELLER #Goldbach CH
+appnexus.com, 3741, RESELLER # Goldbach Appnexus
+appnexus.com, 9242, RESELLER # Goldbach Appnexus
+
+yieldlab.net, 2172218, RESELLER
+smartstream.tv,4135,RESELLER
+smartstream.tv,4137,RESELLER
+smartstream.tv,4133,RESELLER
+smartstream.tv,4747,RESELLER
+smartstream.tv,4371,RESELLER
+
+#######
+google.com,pub-4347119884249993,DIRECT
+google.com,pub-4652277944828936,DIRECT
+vibrantmedia.com,19809,reseller
+appnexus.com,2154,reseller
+contextweb.com,561689,reseller,89ff185a4c4e857c
+criteo.com,146785,direct
+
+#######
+taboola.com,1157623,DIRECT,c228e6794e811952
+spotx.tv,71451,RESELLER
+spotxchange.com, 71451, RESELLER
+advertising.com, 8603, RESELLER
+pubmatic.com, 156307, RESELLER, 5d62403b186f2ace
+appnexus.com, 3364, RESELLER
+Indexexchange.com, 183756, RESELLER
+contextweb.com, 560382, RESELLER
+openx.com, 539154393, RESELLER
+tremorhub.com, z87wm, RESELLER, 1a4e959a1b50034a
+rubiconproject.com, 16698, RESELLER, 0bfd66d529a55807
+freewheel.tv, 799841, RESELLER
+freewheel.tv, 799921, RESELLER
+aol.com, 53392, RESELLER
+rhythmone.com, 1166984029, RESELLER, a670c89d4a324e47
+smartadserver.com, 3563, RESELLER
+beachfront.com, 13749, RESELLER, e2541279e8e2ca4d
+advertising.com, 28458, RESELLER
+admanmedia.com, 556, RESELLER

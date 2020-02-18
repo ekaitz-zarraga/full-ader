@@ -1,0 +1,363 @@
+#v2.2.1
+#Rivals
+
+# - - Begin Rivals specific
+
+#Outbrain
+outbrain.com, 018020b099efd9c7540be69ed21604d319, DIRECT
+outbrain.com, 018020b099efd9c7540be69ed21604d319, RESELLER
+appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
+tremorhub.com, q017o-78mlk, RESELLER, 1a4e959a1b50034a # Outbrain outstream video
+advertising.com, 12624, RESELLER # Outbrain outstream video
+fyber.com, f2a848067b5fe77e73205e8024940cbf, RESELLER # Outbrain outstream video
+freewheel.tv, 484721, RESELLER # Outbrain outstream video
+#Outbrain END
+
+#distroscale
+distroscale.com, 2578061670, DIRECT
+appnexus.com, 7259, DIRECT
+contextweb.com, 560840, DIRECT, 89ff185a4c4e857c
+google.com, pub-3851171199385532, DIRECT, f08c47fec0942fa0
+google.com, pub-5028215366626589, DIRECT, f08c47fec0942fa0
+lkqd.net, 598, DIRECT, 59c49fa9598a0117
+openx.com, 537139075, DIRECT, 6a698e2ec38604c6
+openx.com, 540884769, DIRECT, 6a698e2ec38604c6
+openx.com, 540911068, DIRECT, 6a698e2ec38604c6
+pubmatic.com, 158001, DIRECT, 5d62403b186f2ace
+rubiconproject.com, 16578, DIRECT, 0bfd66d529a55807
+spotx.tv,119003, DIRECT, 7842df1d2fe2db34
+spotxchange.com, 119003, DIRECT,7842df1d2fe2db34
+telaria.com,2g9h1, DIRECT, 1a4e959a1b50034a
+tremorhub.com, 2g9h1, DIRECT, 1a4e959a1b50034a
+rubiconproject.com, 21916, DIRECT, 0bfd66d529a55807
+indexexchange.com, 191231, DIRECT
+telaria.com,5ew8d-zzcof, DIRECT, 1a4e959a1b50034a
+tremorhub.com,5ew8d-zzcof, DIRECT, 1a4e959a1b50034a
+#distroscale END
+
+#YouTube - Warchant.com
+google.com, pub-1149267881025331, DIRECT, f08c47fec0942fa0
+#YouTube - Warchant.com END
+
+#insticator
+Insticator.com, 4b5397ac-027c-4a43-921d-f5e4585d2311, DIRECT
+openx.com, 537117488, RESELLER, a698e2ec38604c6
+openx.com, 537102524, RESELLER, a698e2ec38604c6
+pubmatic.com, 95054, RESELLER
+pulsepoint.com, 560854, RESELLER
+appnexus.com, 1940, RESELLER
+appnexus.com, 1613, RESELLER
+appnexus.com, 1908, RESELLER
+appnexus.com, 1026081, RESELLER
+appnexus.com, 3695, RESELLER
+appnexus.com, 4052, RESELLER
+appnexus.com, 1356, DIRECT, f5ab79cb980f11d1
+sonobi.com, e315a43aa9, RESELLER
+rhythmone.com, 136898039, RESELLER, a670c89d4a324e47
+1rx.io, 136898039, RESELLER, a670c89d4a324e47
+sekindo.com, 22683, DIRECT
+districtm.io, 100683, DIRECT
+EMXDGT.com, 22, DIRECT, 1e1d41537f7cad7f
+google.com, pub-7630961163643137, RESELLER, f08c47fec0942fa0
+rubiconproject.com, 17062, DIRECT, 0bfd66d529a55807
+cedato.com, 501446106, RESELLER
+cedato.com, 800083359, RESELLER
+freewheel.tv, 425233, RESELLER
+freewheel.tv, 425249, RESELLER
+freewheel.tv, 425185, RESELLER
+freewheel.tv, 425201, RESELLER
+sovrn.com, 240735, RESELLER, fafdf38b16bf6b2b
+lijit.com, 240735, RESELLER, fafdf38b16bf6b2b
+#insticator END
+
+#HUDL START
+google.com, pub-2525213804851735, DIRECT, f08c47fec0942fa0
+#HUDL END
+
+# - - Begin AOL/Yahoo/Oath 
+
+#NAR
+adtech.com, 12000, DIRECT #banner, US
+adtech.com, 12001, DIRECT #banner, CA
+adtech.com, 12002, DIRECT #banner, CA
+adtech.com, 12003, DIRECT #banner, US
+adtech.com, 12004, DIRECT #banner, US
+advertising.com, 3679, DIRECT #video, US
+appnexus.com, 273, RESELLER #banner, Global
+appnexus.com, 7824, RESELLER #video, Global
+google.com, pub-6245227841947028, RESELLER, f08c47fec0942fa0 #video, US
+google.com, pub-5482278706573796, RESELLER #banner, video CA
+google.com, pub-5786243031610172, RESELLER #banner, video US
+indexexchange.com, 175407, RESELLER, 50b1c356f2c5c8fc #video, US
+indexexchange.com, 183875, RESELLER, 50b1c356f2c5c8fc #banner, US
+indexexchange.com, 183965, RESELLER, 50b1c356f2c5c8fc #video, US
+indexexchange.com, 184110, RESELLER, 50b1c356f2c5c8fc #video, US
+indexexchange.com, 184866, RESELLER, 50b1c356f2c5c8fc #video, US
+openx.com, 537125356, RESELLER, 6a698e2ec38604c6 #banner, video, US
+openx.com, 537143344, RESELLER, 6a698e2ec38604c6 #Video, US, 1V
+pubmatic.com, 133799, RESELLER, 5d62403b186f2ace #banner, US
+pubmatic.com, 156020, RESELLER, 5d62403b186f2ace #video, US
+yahoo.com, 2c44cbf8d10e3e7e1a28056c484eac0bde0af585, DIRECT #native
+yahoo.com, 29284317594, DIRECT #banner
+yahoo.com, 20459933223, DIRECT #banner, US
+yahoo.com, 20764982904, DIRECT #banner, US
+yahoo.com, 25980889636, DIRECT #banner, CA
+yahoo.com, 26720242308, DIRECT #banner, CA
+yahoo.com, 29284317576, DIRECT #banner, US
+yahoo.com, 29284317581, DIRECT #banner, video, US
+yahoo.com, 29228548013, DIRECT #banner, US
+btrll.com, 6836013, DIRECT #video, US
+btrll.com, 6836439, DIRECT #video, US
+rubiconproject.com, 17250, RESELLER, 0bfd66d529a55807 #banner, US
+google.com, pub-4177862836555934, RESELLER, f08c47fec0942fa0 #video, US
+google.com, pub-7363566645038776, RESELLER, f08c47fec0942fa0 #video, US
+pubmatic.com, 156198, RESELLER, 5d62403b186f2ace #banner, US
+
+adtech.com, 11353, DIRECT #banner
+
+#EMEA
+adtech.com, 12016, DIRECT #banner, EMEA
+advertising.com, 5831, DIRECT #video, EMEA
+advertising.com, 8022, DIRECT #video, EMEA
+advertising.com, 8044, DIRECT #video, EMEA
+btrll.com, 6836225, DIRECT #video, EMEA
+google.com, pub-7382640443023261, RESELLER, f08c47fec0942fa0 #banner, video, EMEA
+indexexchange.com, 184349, RESELLER, 50b1c356f2c5c8fc #banner, EMEA
+indexexchange.com, 185232, RESELLER, 50b1c356f2c5c8fc #video, EMEA
+openx.com, 539088779, RESELLER, 6a698e2ec38604c6 #banner, video, EMEA
+pubmatic.com, 155967, RESELLER, 5d62403b186f2ace #banner, EMEA
+pubmatic.com, 156275, RESELLER, 5d62403b186f2ace #video, EMEA
+rubiconproject.com, 9061, RESELLER, 0bfd66d529a55807 #banner, EMEA
+rubiconproject.com, 10061, RESELLER, 0bfd66d529a55807 #banner, DE
+yahoo.com, 22978591428, DIRECT #banner, DE
+yahoo.com, 25066524914, DIRECT #banner, RO
+yahoo.com, 25082361049, DIRECT #banner, AT
+yahoo.com, 25228164329, DIRECT #banner, NL
+yahoo.com, 25309916134, DIRECT #banner, IT
+yahoo.com, 25351902027, DIRECT #banner, FI
+yahoo.com, 25469906770, DIRECT #banner, SE
+yahoo.com, 25485742905, DIRECT #banner, HR
+yahoo.com, 25620564984, DIRECT #banner, LV
+yahoo.com, 25873288626, DIRECT #banner, NO
+yahoo.com, 26235095577, DIRECT #banner, IL
+yahoo.com, 26276670482, DIRECT #banner, DK
+yahoo.com, 26369917656, DIRECT #banner, SI
+yahoo.com, 26638477433, DIRECT #banner, BG
+yahoo.com, 26783299512, DIRECT #banner, UA
+yahoo.com, 26794280713, DIRECT #banner, GR
+yahoo.com, 26876032518, DIRECT #banner, FR
+yahoo.com, 27196681368, DIRECT #banner, RS
+yahoo.com, 27371993970, DIRECT #banner, TR
+yahoo.com, 27397830105, DIRECT #banner, EE
+yahoo.com, 27533633386, DIRECT #banner, BE
+yahoo.com, 27775375826, DIRECT #banner, RU
+yahoo.com, 27801211961, DIRECT #banner, HU
+yahoo.com, 27936034040, DIRECT #banner, SK
+yahoo.com, 28038767046, DIRECT #banner, UK
+yahoo.com, 28055019985, DIRECT #banner, Maktoob ENG
+yahoo.com, 28204593817, DIRECT #banner, CZ
+yahoo.com, 28339415896, DIRECT #banner, LT
+yahoo.com, 28592139538, DIRECT #banner, PL
+yahoo.com, 28752797752, DIRECT #banner, PT
+yahoo.com, 28788119718, DIRECT #banner, ES
+yahoo.com, 28871783696, DIRECT #banner, Maktoob ARA
+yahoo.com, 29005521394, DIRECT #banner, ZA
+yahoo.com, 29284317533, DIRECT #banner, US Red
+yahoo.com, 29284317534, DIRECT #banner, EMEA
+yahoo.com, 29284317559, DIRECT #banner, EMEA
+yieldlab.net, 72723, RESELLER #video, EMEA
+yieldlab.net, 788758, RESELLER #banner, EMEA
+adtech.com, 1065, DIRECT #banner
+pubmatic.com, 156377, RESELLER, 5d62403b186f2ace #banner
+openx.com, 537143344, RESELLER, a698e2ec38604c6 #banner
+openx.com, 537143344, RESELLER, a698e2ec38604c6 #video
+indexexchange.com, 175407, RESELLER #banner
+indexexchange.com, 175407, RESELLER #video
+adtech.com, 4842, DIRECT #banner, DE
+adtech.com, 4843, DIRECT #banner, RO
+adtech.com, 4844, DIRECT #banner, AT
+adtech.com, 4845, DIRECT #banner, NL
+adtech.com, 4846, DIRECT #banner, IT
+adtech.com, 4847, DIRECT #banner, FR
+adtech.com, 4848, DIRECT #banner, UK
+adtech.com, 4849, DIRECT #banner, ES
+adtech.com, 4850, DIRECT #banner, US
+adtech.com, 4851, DIRECT #banner, FI
+adtech.com, 4852, DIRECT #banner, SE
+adtech.com, 4853, DIRECT #banner, HR
+adtech.com, 4854, DIRECT #banner, LV
+adtech.com, 4855, DIRECT #banner, NO
+adtech.com, 4856, DIRECT #banner, IL
+adtech.com, 4857, DIRECT #banner, DK
+adtech.com, 4858, DIRECT #banner, SI
+adtech.com, 4859, DIRECT #banner, BG
+adtech.com, 4860, DIRECT #banner, UA
+adtech.com, 4861, DIRECT #banner, GR
+adtech.com, 4862, DIRECT #banner, RS
+adtech.com, 4863, DIRECT #banner, TR
+adtech.com, 4864, DIRECT #banner, EE
+adtech.com, 4865, DIRECT #banner, BE
+adtech.com, 4866, DIRECT #banner, RU
+adtech.com, 4867, DIRECT #banner, MAKTOOB
+adtech.com, 4868, DIRECT #banner, CZ
+adtech.com, 4869, DIRECT #banner, LT
+adtech.com, 4870, DIRECT #banner, MAKTOOB ARABIC
+adtech.com, 4871, DIRECT #banner, ZA
+adtech.com, 4873, DIRECT #banner, PL
+adtech.com, 4874, DIRECT #banner, PT
+adtech.com, 4877, DIRECT #banner, HU
+adtech.com, 4878, DIRECT #banner, SK
+advertising.com, 22577, DIRECT #video, EMEA
+pubmatic.com, 156325, RESELLER #video, EMEA
+
+#LATAM
+adtech.com,12007, DIRECT #banner, MEXICO
+adtech.com,12008, DIRECT #banner, BRAZIL
+adtech.com,12009, DIRECT #banner, MEXICO
+adtech.com,12010, DIRECT #banner, ARGENTINA
+adtech.com,12011, DIRECT #banner, CHILE
+adtech.com,12012, DIRECT #banner, VENEZUELA
+adtech.com,12013, DIRECT #banner, COLOMBIA
+adtech.com,12014, DIRECT #banner, PERU
+google.com, pub-6473827730281113, RESELLER #banner, video, LATAM
+rubiconproject.com, 12052, DIRECT, 0bfd66d529a55807 #banner, BRAZIL
+rubiconproject.com, 14060, DIRECT, 0bfd66d529a55807 #banner, LATAM
+btrll.com, 6836418, DIRECT #video, LATAM
+yahoo.com, 25012495257, DIRECT #banner, ARGENTINA
+yahoo.com, 25147317336, DIRECT #banner, VENEZUELA
+yahoo.com, 25358466073, DIRECT #banner, PERU
+yahoo.com, 25771847929, DIRECT #banner, MEXICO
+yahoo.com, 25799949562, DIRECT #banner, ESPANOL
+yahoo.com, 26578611641, DIRECT #banner, BRAZIL
+yahoo.com, 28049787252, DIRECT #banner, COLOMBIA
+advertising.com, 23751, DIRECT #video, BR
+advertising.com, 24568, DIRECT #video, LATAM
+adtech.com, 11330, DIRECT #banner, LATAM
+adtech.com, 11196, DIRECT #banner, BRAZIL
+
+#AUNZ
+tremorhub.com, c7jl1, DIRECT, 1a4e959a1b50034a
+tremorhub.com, uv40d, DIRECT, 1a4e959a1b50034a
+tremorhub.com, qyksj, DIRECT, 1a4e959a1b50034a
+tremorhub.com, v92x9, DIRECT, 1a4e959a1b50034a
+google.com, pub-2149773675369613, RESELLER #banner,video AU
+google.com, pub-6763722328147142, RESELLER #banner,video NZ
+advertising.com, 23443, DIRECT #video, AU
+yahoo.com, 27900383901, DIRECT #banner, AU
+yahoo.com, 26157456305, DIRECT #banner, NZ
+
+
+#APAC
+yahoo.com, 28261959434, DIRECT #banner, TW
+yahoo.com, 29284317588, DIRECT #banner, APAC
+yahoo.com, 25533108522, DIRECT #banner, HK
+yahoo.com, 29284317511, DIRECT #banner, APAC
+pubmatic.com, 156107, RESELLER, 5d62403b186f2ace #banner, APAC
+indexexchange.com, 184626, RESELLER, 50b1c356f2c5c8fc #banner, APAC
+indexexchange.com, 185267, RESELLER, 50b1c356f2c5c8fc #video, APAC
+openx.com, 539129292, RESELLER, 6a698e2ec38604c6 #banner, APAC
+google.com, pub-6785382607161389, RESELLER, #banner, APAC
+rubiconproject.com, 16086, RESELLER, 0bfd66d529a55807 #banner, APAC
+yahoo.com, 26532719555, DIRECT #banner, IN
+yahoo.com, 27340194012, DIRECT #banner, PH
+yahoo.com, 29284317589, DIRECT #banner, APAC
+yahoo.com, 27743575868, DIRECT #banner, ID
+yahoo.com, 28906310396, DIRECT #banner, MY
+yahoo.com, 26177459484, DIRECT #banner, VN
+yahoo.com, 25225873693, DIRECT #banner, SG
+yahoo.com, 25306537877, DIRECT #banner, TH
+yahoo.com, 26055890550, DIRECT #banner, APAC
+yahoo.com, 29284317564, DIRECT #banner, SG
+yahoo.com, 29284317592, DIRECT #banner, APAC
+yahoo.com, 29284317525, DIRECT #banner, APAC
+btrll.com, 6836232, DIRECT #video, APAC
+btrll.com, 6836231, DIRECT #video, APAC
+adtech.com, 12015, DIRECT #banner, APAC
+adtech.com, 15016, DIRECT #banner, APAC
+advertising.com, 24444, DIRECT #video, APAC
+adtech.com, 12015, DIRECT #Banner, SINGAPORE
+adtech.com, 12017, DIRECT #Banner, SINGAPORE
+adtech.com, 15016, DIRECT #Banner, SINGAPORE
+adtech.com, 9663, DIRECT #JP, banner
+advertising.com, 8232, DIRECT #JP, video
+adingo.jp, 1311, RESELLER #JP, banner
+taboola.com, 1059798, DIRECT, c228e6794e811952 #JP, native
+taboola.com, 1114569, DIRECT, c228e6794e811952 #JP, native
+taboola.com, 1059794, DIRECT, c228e6794e811952 #JP, native
+pubmatic.com, 156530, RESELLER, 5d62403b186f2ace #JP, banner
+advertising.com, 24855, RESELLER #TW, video
+advertising.com, 24755, RESELLER #TW, video
+advertising.com, 25487, RESELLER #TW, video
+
+#AOL
+adtech.com, 5071, DIRECT #banner
+adtech.com, 1065, DIRECT #banner
+aol.com, 4577, DIRECT #banner, app
+advertising.com, 3679, DIRECT #banner, video
+advertising.com, 5831, DIRECT #video
+advertising.com, 8044, DIRECT #video
+advertising.com, 8022, DIRECT #video
+indexexchange.com, 175407, RESELLER #banner
+indexexchange.com, 183965, RESELLER #banner
+indexexchange.com, 184110, RESELLER #banner
+pubmatic.com, 156078, RESELLER, 5d62403b186f2ace #banner
+pubmatic.com, 156458, RESELLER #video
+pubmatic.com, 156248, RESELLER #banner
+openx.com, 537143344, RESELLER, a698e2ec38604c6 #banner
+yahoo.com, 2c44cbf8d10e3e7e1a28056c484eac0bde0af585, DIRECT #native
+coxmt.com, 2000067907202, RESELLER #banner
+coxmt.com, 2000067995202, RESELLER #video
+taboola.com, 1040526, DIRECT #native
+taboola.com, 1050097, DIRECT #native
+taboola.com, 1061071, DIRECT #native
+taboola.com, 1064871, DIRECT #native
+taboola.com, 1064872, DIRECT #native
+taboola.com, 1064873, DIRECT #native
+taboola.com, 1064875, DIRECT #native
+appnexus.com, 1226, RESELLER #banner
+appnexus.com, 1868, RESELLER #banner
+appnexus.com, 3292, RESELLER #video
+springserve.com, 1, RESELLER, a24eb641fc82e93d #video
+tremorhub.com, cdgfn, RESELLER, 1a4e959a1b50034a #video
+tremorhub.com, vfunb-9xo99, RESELLER, 1a4e959a1b50034a #video
+lkqd.net, 454, RESELLER, 59c49fa9598a0117 #video
+adtech.com, 12000, DIRECT #banner
+adtech.com, 12001, DIRECT #CA, banner
+adtech.com, 12002, DIRECT #CA, banner
+adtech.com, 12003, DIRECT #banner
+adtech.com, 12004, DIRECT #banner
+appnexus.com, 273, RESELLER #banner
+contextweb.com, 560776, RESELLER #banner
+indexexchange.com, 183875, RESELLER, 50b1c356f2c5c8fc #banner
+openx.com, 537125356, RESELLER, 6a698e2ec38604c6 #banner, video
+pubmatic.com, 133799, RESELLER, 5d62403b186f2ace #banner
+yahoo.com, 20764982904, DIRECT #banner
+yahoo.com, 25980889636, DIRECT #CA, banner
+yahoo.com, 26720242308, DIRECT #CA, banner
+yahoo.com, 29284317576, DIRECT #banner
+yahoo.com, 29284317581, DIRECT #banner, video
+google.com, pub-1301581561755234, RESELLER, f08c47fec0942fa0 #video
+spotxchange.com, 111853, RESELLER #video
+spotx.tv, 111853, RESELLER #video
+rubiconproject.com, 13116, DIRECT, 0bfd66d529a55807
+google.com, pub-3844877863303739, RESELLER, f08c47fec0942fa0, #video, Yahoo, AOL
+google.com, pub-1991679624331369, RESELLER, f08c47fec0942fa0
+google.com, pub-3015538794163384, RESELLER, f08c47fec0942fa0
+google.com, pub-3230759608956247, RESELLER, f08c47fec0942fa0
+google.com, pub-2679103605715789, RESELLER, f08c47fec0942fa0
+google.com, pub-2846699686180177, RESELLER, f08c47fec0942fa0
+google.com, pub-6209086188495781, RESELLER, f08c47fec0942fa0
+google.com, pub-5628310764637319, RESELLER, f08c47fec0942fa0
+emxdgt.com, 273, RESELLER, #banner
+appnexus.com, 1356, RESELLER #banner
+taboola.com, 1010342, DIRECT, c228e6794e811952 #CA, native
+taboola.com, 1015416, DIRECT, c228e6794e811952 #CA, native
+liveintent.com, 34948, DIRECT #banner
+taboola.com, 1040522, DIRECT, c228e6794e811952 #native
+taboola.com, 1043813, DIRECT, c228e6794e811952 #native
+taboola.com, 1069152, DIRECT, c228e6794e811952 #native
+taboola.com, 1040709, DIRECT, c228e6794e811952 #native
+taboola.com, 1040523, DIRECT, c228e6794e811952 #native
+taboola.com, 1042158, DIRECT, c228e6794e811952 #native
+taboola.com, 1040666, DIRECT, c228e6794e811952 #native
+adtech.com, 12018, DIRECT #banner

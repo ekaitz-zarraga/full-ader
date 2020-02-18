@@ -1,0 +1,5 @@
+﻿#begin AdX
+google.com, pub-6158696756238917, DIRECT, f08c47fec0942fa0
+google.com, pub-3153065230153281, RESELLER, f08c47fec0942fa0
+google.com, pub-7464385329803063, DIRECT, f08c47fec0942fa0
+#End AdX

@@ -1,0 +1,32 @@
+advertising.com, 28106, DIRECT
+advertising.com, 3187, DIRECT, e1a5b5b6e3255540
+appnexus.com, 1356, RESELLER, f5ab79cb980f11d1 #EMXDigital
+appnexus.com, 10721, DIRECT
+aps.amazon.com, 023e24a0-c916-4767-a015-903df37c785f, DIRECT
+aps.amazon.com, 59081570-f143-46a9-bd28-90e429cb642a, DIRECT
+beachfront.com, 13416, DIRECT, e2541279e8e2ca4d
+freewheel.tv, 720818, DIRECT
+freewheel.tv, 721234, RESELLER
+freewheel.tv, 872481, DIRECT
+freewheel.tv, 872497, RESELLER
+freewheel.tv, 923425, DIRECT
+freewheel.tv, 923441, DIRECT
+freewheel.tv, 923457, RESELLER
+freewheel.tv, 923473, RESELLER
+freewheel.tv, 980369, DIRECT #Samba.tv
+freewheel.tv, 980545, RESELLER #Sambta.tv
+lkqd.com, 108, RESELLER, 59c49fa9598a0117 #Barons Media
+lkqd.net, 108, RESELLER, 59c49fa9598a0117 #Barons Media
+lkqd.net, 573, DIRECT, 59c49fa9598a0117
+rhythmone.com, 792459348, DIRECT, a670c89d4a324e47
+spotxchange.com, 141052, RESELLER, 7842df1d2fe2db34 #Samba.tv
+spotxchange.com, 198919, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 239853, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 240686, DIRECT, 7842df1d2fe2db34
+spotx.tv, 141052, RESELLER, 7842df1d2fe2db34 #Samba.tv
+spotx.tv, 198919, RESELLER, 7842df1d2fe2db34
+spotx.tv, 239853, RESELLER, 7842df1d2fe2db34
+spotx.tv, 240686, DIRECT, 7842df1d2fe2db34
+telaria.com, dgvz1-b63mf, DIRECT, 1a4e959a1b50034a
+tremorhub.com, dgvz1-b63mf, DIRECT, 1a4e959a1b50034a
+vidillion.com, phi, DIRECT

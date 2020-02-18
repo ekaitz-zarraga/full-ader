@@ -1,0 +1,150 @@
+#Ads.txt baba-mail.co.il
+
+#totalmedia
+totalmediasolutions.com, 7122007, DIRECT
+google.com, pub-1420539090378627, RESELLER, f08c47fec0942fa0
+
+#ynet
+google.com, pub-5907308639549493, DIRECT, f08c47fec0942fa0
+google.com, pub-9314111824787632, DIRECT, f08c47fec0942fa0
+google.com, pub-4207657971126930, DIRECT, f08c47fec0942fa0
+google.com, pub-8573325940152694, DIRECT, f08c47fec0942fa0
+
+appnexus.com, 7161, DIRECT
+google.com, pub-1037373295371110, DIRECT
+indexexchange.com, 184081, RESELLER
+indexexchange.com, 187417, DIRECT
+openx.com, 540074835, DIRECT
+
+
+#rumble
+facebook.com, 1796576440558835, RESELLER
+facebook.com, 358719497878746, RESELLER
+google.com, pub-7026201757273977, RESELLER, f08c47fec0942fa0
+google.com, pub-7353644945201577, RESELLER, f08c47fec0942fa0
+rhythmone.com, 752824437, RESELLER, a670c89d4a324e47
+rhythmone.com, 3526250853, RESELLER, a670c89d4a324e47
+Chocolateplatform.com, 13062, RESELLER
+
+#medmob
+google.com, pub-4903453974745530, RESELLER
+sekindo.com, 19929, DIRECT
+sekindo.com, 18924, DIRECT
+sekindo.com, 21470, DIRECT
+
+#sekindo
+sekindo.com, 2056, DIRECT
+sekindo.com, 19170, DIRECT
+spotxchange.com, 84294, RESELLER, 7842df1d2fe2db34
+spotx.tv, 84294, RESELLER, 7842df1d2fe2db34
+advertising.com, 7372, RESELLER
+advertising.com, 24410, RESELLER
+lkqd.net, 244, RESELLER, 59c49fa9598a0117
+lkqd.com, 244, RESELLER, 59c49fa9598a0117
+smartadserver.com, 2137, RESELLER
+tidaltv.com, 32071, RESELLER
+pubmatic.com, 156380, RESELLER, 5d62403b186f2ace
+appnexus.com, 1940, RESELLER
+appnexus.com, 2764, RESELLER
+appnexus.com, 1908, RESELLER, f5ab79cb980f11d1
+tremorhub.com, mb9eo-oqsbf, RESELLER, 1a4e959a1b50034a
+tremorhub.com, mb9eo-ej2jm, RESELLER, 1a4e959a1b50034a
+vi.ai, 474289066697842, RESELLER
+freewheel.tv, 19129, RESELLER
+freewheel.tv, 19133, RESELLER
+adform.com, 2078, RESELLER
+improvedigital.com, 1065, RESELLER
+pubmatic.com, 156595, RESELLER, 5d62403b186f2ace
+districtm.io, 101359, RESELLER
+
+#playbuzz
+appnexus.com, 1613, RESELLER
+appnexus.com, 3326, RESELLER
+google.com, pub-1409765517756851, RESELLER
+google.com, pub-4075894099602271, RESELLER
+freewheel.tv, 146081, RESELLER
+rubiconproject.com, 8861, RESELLER, 0bfd66d529a55807
+google.com, pub-7002491002409919, RESELLER
+freewheel.tv, 136417, RESELLER
+lkqd.net, 83, RESELLER, 59c49fa9598a0117
+lkqd.com, 83, RESELLER, 59c49fa9598a0117
+onebyaol.com, 10990, RESELLER
+beachfront.com, publisher_7860, RESELLER
+tremorhub.com, 6uigs, RESELLER, 1a4e959a1b50034a
+appnexus.com, 2992, RESELLER
+aol.com, 21581, RESELLER
+advertising.com, 10773, RESELLER
+adtech.com, 10465, RESELLER
+aolcloud.net, 10465, RESELLER
+btrll.com, 3871767, RESELLER
+btrll.com, 3871774, RESELLER
+btrll.com, 3873900, RESELLER
+btrll.com, 3863897, RESELLER
+btrll.com, 3868870, RESELLER
+btrll.com, 3868828, RESELLER
+btrll.com, 3868821, RESELLER
+btrll.com, 3868827, RESELLER
+btrll.com, 3871766, RESELLER
+btrll.com, 3871765, RESELLER
+btrll.com, 3868830, RESELLER
+btrll.com, 3868826, RESELLER
+btrll.com, 3871769, RESELLER
+btrll.com, 3873238, RESELLER
+btrll.com, 3873237, RESELLER
+btrll.com, 3863900, RESELLER
+btrll.com, 3863902, RESELLER
+btrll.com, 3868831, RESELLER
+btrll.com, 3868823, RESELLER
+btrll.com, 3873122, RESELLER
+btrll.com, 3863899, RESELLER
+btrll.com, 3873244, RESELLER
+btrll.com, 3873243, RESELLER
+btrll.com, 3873121, RESELLER
+btrll.com, 3872010, RESELLER
+btrll.com, 3872009, RESELLER
+btrll.com, 3870022, RESELLER
+btrll.com, 3873919, RESELLER
+spotxchange.com, 126022, RESELLER, 7842df1d2fe2db34
+spotx.tv, 126022, RESELLER, 7842df1d2fe2db34
+google.com, pub-9790762811057699 , RESELLER
+google.com, pub-1062972861553303 , RESELLER
+google.com, pub-7371018475227526 , RESELLER
+pubmatic.com, 156026, RESELLER, <5d62403b186f2ace>
+contextweb.com, 560713, RESELLER, 89ff185a4c4e857c
+springserve.com, 1, RESELLER
+tremorhub.com, 60629, RESELLER
+google.com, pub-6512936480753445, RESELLER
+spotx.tv, 111271, RESELLER 
+spotxchange.com, 111271, RESELLER
+appnexus.com, 926, RESELLER
+appnexus.com, 1538, RESELLER 
+advertising.com, 9008, RESELLER
+freewheel.tv, 208505, RESELLER
+freewheel.tv, 327377, RESELLER
+brightroll.com, 6836428, RESELLER
+contextweb.com, 560580, RESELLER
+pubmatic.com, 156108, RESELLER, <5d62403b186f2ace>
+pubmatic.com, 156410, RESELLER, <5d62403b186f2ace>
+rubiconproject.com, 14962, RESELLER #video
+indexexchange.com, 184634, RESELLER #video
+bidswitch.com, 129, RESELLER #video
+tremorhub.com, nntek, RESELLER, 1a4e959a1b50034a
+freewheel.tv, 259634, RESELLER
+fyber.com, 47a4f8fca143542853bb6644a035d5e6, RESELLER
+beachfront.com, publisher_ 5171, RESELLER
+fyber.com, c4327836c35828ff6335d9811a7ef4b5, RESELLER
+aerserv.com, 6012, RESELLER
+loopme.com, 5937, RESELLER
+smaato.com, 1100014043, RESELLER
+spotxchange.com,202100,RESELLER,7842df1d2fe2db34
+spotx.tv,202100,RESELLER,7842df1d2fe2db34
+google.com, pub-8221793852898543, RESELLER,�f08c47fec0942fa0
+google.com, pub-1968276357835282, RESELLER,�f08c47fec0942fa0
+tremorhub.com, cpu32-92xut, RESELLER, 1a4e959a1b50034a
+pubmatic.com,�156136, RESELLER, 5d62403b186f2ace
+freewheel.tv, 199489, reseller
+freewheel.tv, 199497, reseller
+rubiconproject.com, 8861, RESELLER, 0bfd66d529a55807
+
+#taboola
+taboola.com,1151543,DIRECT,c228e6794e811952

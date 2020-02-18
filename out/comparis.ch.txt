@@ -1,0 +1,23 @@
+#comparis.ch against Adfraud
+#comparis.ch is the leading Swiss Internet comparison site.
+#Contact us for a PMP deal! werbung@comparis.ch
+#ads.txt comparis.ch
+
+google.com, pub-2909972057199646, DIRECT, f08c47fec0942fa0
+google.com, pub-4848341808994840, DIRECT, f08c47fec0942fa0
+
+appnexus.com, 3927, DIRECT
+adtech.com, 1135.1, DIRECT
+aolcloud.net, 1135.1, DIRECT
+
+google.com, pub-3057818873023700, RESELLER
+appnexus.com, 3741, RESELLER
+appnexus.com, 3528, RESELLER
+appnexus.com, 1851, RESELLER
+appnexus.com, 9242, RESELLER
+
+appnexus.com, 1504, RESELLER, f5ab79cb980f11d1
+google.com, pub-9485981123373313, RESELLER, f08c47fec0942fa0
+
+teads.tv, 17186, DIRECT, 15a9c44f6d26cbe1
+

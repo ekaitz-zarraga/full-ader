@@ -1,0 +1,153 @@
+
+#Frankly-GoogleAdX
+google.com,pub-6042373951237502,DIRECT,f08c47fec0942fa0
+
+#Frankly-IndexExchange-EB
+indexexchange.com,187833,DIRECT
+
+#Frankly-AppNexus
+appnexus.com,7045,DIRECT
+
+#Frankly-RubiconProject
+rubiconproject.com,13140,DIRECT,0bfd66d529a55807
+rubiconproject.com,18274,DIRECT,0bfd66d529a55807
+
+#Frankly-RythmOne
+rhythmone.com,1145766910,DIRECT,a670c89d4a324e47
+rhythmone.com,4269631836,DIRECT,a670c89d4a324e47
+
+#Frankly-YeildMoEB
+yieldmo.com,2134876697706267792,DIRECT
+
+#Frankly-Sovrn-EB
+sovrn.com,267034,DIRECT,fafdf38b16bf6b2b
+lijit.com,267034,DIRECT,fafdf38b16bf6b2b
+appnexus.com,1360,RESELLER,f5ab79cb980f11d1
+gumgum.com,11645,RESELLER,ffdef49475d318a9
+openx.com,538959099,RESELLER,6a698e2ec38604c6
+openx.com,539924617,RESELLER,6a698e2ec38604c6
+pubmatic.com,137711,RESELLER,5d62403b186f2ace
+pubmatic.com,156212,RESELLER,5d62403b186f2ace
+pubmatic.com,156700,RESELLER,5d62403b186f2ace
+rubiconproject.com,17960,RESELLER,0bfd66d529a55807
+
+#Frankly-SpotX
+spotxchange.com,82839,DIRECT,7842df1d2fe2db34
+spotx.tv,82839,DIRECT,7842df1d2fe2db34
+
+
+#Frankly-Consumables
+consumable.com,2000363,DIRECT
+adtech.com,10947,DIRECT#client-side
+aolcloud.net,10947,DIRECT#s2s
+appnexus.com,7556,DIRECT
+emxdgt.com,20,DIRECT#brealtime
+google.com,pub-6694481294649483,DIRECT
+indexexchange.com,184914,DIRECT
+indexexchange.com,186248,DIRECT#ebda
+indexexchange.com,187454,DIRECT#s2s
+openx.com,537150004,DIRECT
+openx.com,539699341,DIRECT#EBDA
+pubmatic.com,156319,DIRECT
+pubmatic.com,157367,DIRECT#ebda
+sonobi.com,e55fb5d7c2,DIRECT
+sonobi.com,6e5cfb5420,DIRECT#ebda
+sovrn.com,248396,DIRECT
+rubiconproject.com,17632,DIRECT
+rubiconproject.com,18890,DIRECT#ebda
+lijit.com,248396,DIRECT
+
+#Frankly-Conversant
+conversantmedia.com,41964,DIRECT,03113cd04947736d
+appnexus.com,4052,RESELLER
+contextweb.com,561998,RESELLER,89ff185a4c4e857c
+openx.com,540031703,RESELLER,6a698e2ec38604c6
+pubmatic.com,158100,RESELLER,5d62403b186f2ace
+
+
+#Frankly-Pubmatic
+pubmatic.com,158639,DIRECT,5d62403b186f2ace
+pubmatic.com,157198,DIRECT,5d62403b186f2ace 
+pubmatic.com,158641,DIRECT,5d62403b186f2ace
+
+#Frankly-OpenX
+openx.com,540888650,DIRECT,6a698e2ec38604c6 #HB
+openx.com,540717831,DIRECT,6a698e2ec38604c6 #EB
+
+#Frankly-A9UAM
+aps.amazon.com,f3c86575-2cd5-4ae4-9385-744c2c87aa48,DIRECT
+pubmatic.com,157150,RESELLER,5d62403b186f2ace
+openx.com,540191398,RESELLER,6a698e2ec38604c6
+rubiconproject.com,18020,RESELLER,0bfd66d529a55807
+appnexus.com,1908,RESELLER,f5ab79cb980f11d1
+adtech.com,12068,RESELLER,e1a5b5b6e3255540
+ad-generation.jp,12474,RESELLER
+districtm.io,100962,RESELLER,3fd707be9c4527c3
+appnexus.com,3663,RESELLER,f5ab79cb980f11d1
+rhythmone.com,1654642120,RESELLER,a670c89d4a324e47
+
+#Frankly-FreeWheel
+freewheel.tv, 1081665, DIRECT
+freewheel.tv, 1081681, RESELLER
+
+#Frankly-Brightcom
+brightcom.com, 10608, DIRECT
+google.com, pub-5231479214411897, RESELLER, f08c47fec0942fa0
+google.com, pub-4207323757133151, RESELLER, f08c47fec0942fa0
+33across.com, 0013300001qkdlwAAA, RESELLER
+google.com, pub-9557089510405422, RESELLER, f08c47fec0942fa0
+indexexchange.com, 189744, RESELLER
+openx.com, 537153209, RESELLER, 6a698e2ec38604c6
+adtech.com, 11208, RESELLER
+appnexus.com, 3153, RESELLER, f5ab79cb980f11d1
+33across.com, 0010b00001u6f1nAAA, RESELLER
+improvedigital.com, 1362, RESELLER
+smartadserver.com, 2995, RESELLER
+rubiconproject.com, 16114, RESELLER, 0bfd66d529a55807
+appnexus.com, 3703, RESELLER, f5ab79cb980f11d1
+sovrn.com, 270524, DIRECT, fafdf38b16bf6b2b
+lijit.com, 270524, DIRECT, fafdf38b16bf6b2b
+districtm.io, 101080, DIRECT, 3fd707be9c4527c3
+rhythmone.com, 869591749, RESELLER, a670c89d4a324e47
+
+lkqd.com,25,RESELLER,59c49fa9598a0117
+undertone.com,3107,DIRECT
+appnexus.com,2234,RESELLER
+openx.com,537153564,RESELLER,6a698e2ec38604c6
+springserve.com,1,RESELLER,a24eb641fc82e93d
+tremorhub.com,cdgfn,RESELLER,1a4e959a1b50034a
+google.com,pub-6512936480753445,RESELLER,f08c47fec0942fa0
+spotx.tv,111271,RESELLER
+spotxchange.com,111271,RESELLER
+appnexus.com,926,RESELLER
+appnexus.com,1538,RESELLER
+advertising.com,9008,RESELLER
+freewheel.tv,208505,RESELLER
+freewheel.tv,327377,RESELLER
+btrll.com,6836428,RESELLER
+contextweb.com,560580,RESELLER
+pubmatic.com,156108,RESELLER,5d62403b186f2ace
+pubmatic.com,156410,RESELLER,5d62403b186f2ace
+contextweb.com,561503,RESELLER,89ff185a4c4e857c
+appnexus.com,8423,DIRECT
+beachfront.com,beachfront_2558,RESELLER
+google.com,pub-6373315980741255,RESELLER
+thrive.plus,190,RESELLER
+spotxchange.com,156078,RESELLER,7842df1d2fe2db34
+spotx.tv,156078,RESELLER,7842df1d2fe2db34
+contextweb.com,560800,RESELLER,89ff185a4c4e857c
+springserve.com,190,RESELLER
+lkqd.net,295,RESELLER,59c49fa9598a0117
+lkqd.com,295,RESELLER,59c49fa9598a0117
+aol.com,6202,RESELLER
+aol.com,17744,RESELLER
+advertising.com,6202,RESELLER
+advertising.com,17744,RESELLER
+appnexus.com,1613,reseller
+appnexus.com,3326,reseller
+google.com,pub-1409765517756851,reseller
+google.com,pub-4075894099602271,reseller
+freewheel.tv,146081,reseller
+rubiconproject.com,8861,reseller,0bfd66d529a55807
+appnexus.com,2234,RESELLER
+openx.com,537153564,RESELLER,6a698e2ec38604c6

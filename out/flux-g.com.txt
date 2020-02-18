@@ -1,0 +1,31 @@
+google.com, pub-5128409559363661, DIRECT, f08c47fec0942fa0
+google.com, pub-9746655695208137, DIRECT, f08c47fec0942fa0
+adingo.jp, 19050, DIRECT
+aps.amazon.com, 3680, DIRECT #display
+ad-generation.jp, 12072, DIRECT
+appnexus.com, 3663, RESELLER
+outbrain.com, 01a755b08c8c22b15d46a8b753ab6955d4, RESELLER
+appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
+google.com, pub-3848273848634341, RESELLER, f08c47fec0942fa0
+33across.com, 0013300001r0t9mAAA, RESELLER, bbea06d9c4d2853c
+rubiconproject.com, 16414, RESELLER, 0bfd66d529a55807
+appnexus.com, 3135, RESELLER, f5ab79cb980f11d1
+outbrain.com, 00440ee7336bfbbfa42631862f7d99b0a8, DIRECT
+appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
+tremorhub.com, q017o-78mlk, RESELLER, 1a4e959a1b50034a # Premium video demand aka "Telaria"
+teads.tv, 15429, RESELLER, 15a9c44f6d26cbe1 # Premium video demand
+advertising.com, 26154, RESELLER # Premium video demand
+spotxchange.com, 225721, RESELLER # Premium video demand
+Freewheel.tv, 741650, RESELLER # Premium video demand
+rubiconproject.com, 17130, RESELLER, 0bfd66d529a55807 # Premium video demand
+lkqd.net, 450, RESELLER, 59c49fa9598a0117 # Premium video demand
+openx.com, 540393169, RESELLER, 6a698e2ec38604c6 # Premium video demand
+spotx.tv, 238936, RESELLER, 7842df1d2fe2db34 # Premium video demand
+spotxchange.com, 238936, RESELLER, 7842df1d2fe2db34 # Premium Video Demand
+advertising.com, 28038, RESELLER # Premium Video Demand
+rubiconproject.com, 19668, RESELLER, 0bfd66d529a55807
+rubiconproject.com,17612,DIRECT,0bfd66d529a55807
+adingo.jp, 20206, RESELLER
+pubmatic.com, 156313, RESELLER, 5d62403b186f2ace
+pubmatic.com, 157589, RESELLER, 5d62403b186f2ace
+microad.co.jp,21965,DIRECT

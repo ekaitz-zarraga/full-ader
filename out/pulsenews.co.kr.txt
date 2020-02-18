@@ -1,0 +1,35 @@
+# MK
+google.com, pub-8781032296971712, DIRECT, f08c47fec0942fa0
+google.com, pub-2170818796228826, DIRECT, f08c47fec0942fa0
+
+# MBN
+google.com, pub-1088379517982455, DIRECT, f08c47fec0942fa0
+
+# MKBN
+google.com, pub-3753907113307403, DIRECT, f08c47fec0942fa0
+
+# TABOOLA
+taboola.com,1130645,DIRECT,c228e6794e811952
+spotx.tv,71451,RESELLER
+spotxchange.com, 71451, RESELLER
+advertising.com, 8603, RESELLER
+advertising.com, 3531, RESELLER
+pubmatic.com, 156307, RESELLER, 5d62403b186f2ace
+appnexus.com, 3364, RESELLER
+Indexexchange.com, 183756, RESELLER
+contextweb.com, 560382, RESELLER
+openx.com, 539154393, RESELLER
+tremorhub.com, z87wm, RESELLER, 1a4e959a1b50034a
+rubiconproject.com, 16698, RESELLER, 0bfd66d529a55807
+fyber.com, ad9de41d28d494354b23133f26f83122, RESELLER
+fyber.com, 1a12a7e3f84fe560ccf95a3a73043abb, RESELLER
+
+# TEADS
+teads.tv, 12410, DIRECT, 15a9c44f6d26cbe1
+
+# INTERWORKS
+google.com, pub-3533864070776314, DIRECT, f08c47fec0942fa0
+
+# MKSPORTS
+google.com, pub-7276814968518089, DIRECT, f08c47fec0942fa0
+google.com, pub-1474238860523410, RESELLER, f08c47fec0942fa0

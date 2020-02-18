@@ -1,0 +1,36 @@
+#Ads.txt    bne.com.br
+
+
+google.com, pub-7359795877939634, DIRECT , f08c47fec0942fa0
+contextweb.com, 558894, RESELLER
+EMXDGT.com, 88, RESELLER #banner, video
+Appnexus.com, 1356, RESELLER #banner, video
+appnexus.com, 1613, RESELLER
+appnexus.com, 3326, RESELLER
+google.com, pub-1409765517756851, RESELLER
+google.com, pub-4075894099602271, RESELLER
+freewheel.tv, 146081, RESELLER
+rubiconproject.com, 8861, RESELLER, 0bfd66d529a55807
+districtm.io, 100541, DIRECT
+appnexus.com, 1908, RESELLER
+appnexus.com, 7944, RESELLER
+rhythmone.com, 2614004368, RESELLER, a670c89d4a324e47
+1rx.io, 2614004368, RESELLER, a670c89d4a324e47
+sekindo.com, 22430, DIRECT
+appnexus.com, 1940, RESELLER
+sekindo.com, 22430, DIRECT
+spotxchange.com, 84294, RESELLER, 7842df1d2fe2db34
+spotx.tv, 84294, RESELLER, 7842df1d2fe2db34
+advertising.com, 7372, RESELLER
+adtech.com, 10397, RESELLER
+springserve.com, 1, RESELLER
+growfoodsmart.com, 209, DIRECT
+stinger.memeglobal.com, 209, DIRECT
+adtech.com, 10513, RESELLER
+aolcloud.net, 10513, RESELLER
+google.com, pub-5739535157675470, DIRECT, f08c47fec0942fa0
+google.com, pub-1735744167578327, DIRECT, f08c47fec0942fa0
+google.com, pub-8327928897197923, DIRECT, f08c47fec0942fa0
+google.com, pub-4262827307746270, DIRECT, f08c47fec0942fa0
+rubiconproject.com, 20142, RESELLER, 0bfd66d529a55807 # EB
+

@@ -1,0 +1,64 @@
+# Direct Incisive
+google.com, pub-2647579529929010, DIRECT, f08c47fec0942fa0
+google.com, pub-5323441950457620, DIRECT, f08c47fec0942fa0
+freeskreen.com, 875, DIRECT, fe119a6acfd19070
+indexexchange.com, 184088, RESELLER
+
+#Taboola
+
+taboola.com,1014364,DIRECT,c228e6794e811952
+spotx.tv,71451,RESELLER
+spotxchange.com, 71451, RESELLER
+advertising.com, 8603, RESELLER
+advertising.com, 3531, RESELLER
+pubmatic.com, 156307, RESELLER, 5d62403b186f2ace
+appnexus.com, 3364, RESELLER
+Indexexchange.com, 183756, RESELLER
+contextweb.com, 560382, RESELLER
+openx.com, 539154393, RESELLER
+tremorhub.com, z87wm, RESELLER, 1a4e959a1b50034a
+rubiconproject.com, 16698, RESELLER, 0bfd66d529a55807
+fyber.com, ad9de41d28d494354b23133f26f83122, RESELLER
+fyber.com, 1a12a7e3f84fe560ccf95a3a73043abb, RESELLER
+
+#Carambola
+
+carambo.la, ncsv30, DIRECT, 08a6b436f8183ac9
+33across.com, 0013300001qjCkpAAE, RESELLER, bbea06d9c4d2853c
+adtech.com, 10334, RESELLER
+adtech.com, 9993, RESELLER
+appnexus.com, 1001, RESELLER
+appnexus.com, 1356, RESELLER, f5ab79cb980f11d1
+appnexus.com, 3135, RESELLER
+appnexus.com, 4052, RESELLER
+appnexus.com, 7396, RESELLER
+conversantmedia.com, 40917, RESELLER, 03113cd04947736d
+emxdgt.com, 407, RESELLER, 1e1d41537f7cad7f
+google.com, pub-2053057622751661, RESELLER, f08c47fec0942fa0
+google.com, pub-5995202563537249, RESELLER, f08c47fec0942fa0
+google.com, pub-9557089510405422, RESELLER, f08c47fec0942fa0
+indexexchange.com, 185506, RESELLER
+lijit.com, 231666, RESELLER, fafdf38b16bf6b2b
+lijit.com, 249474, RESELLER, fafdf38b16bf6b2b
+lijit.com, 260980, RESELLER, fafdf38b16bf6b2b
+openx.com, 537111514, RESELLER, 6a698e2ec38604c6
+openx.com, 537120563, RESELLER, 6a698e2ec38604c6
+openx.com, 537120960, RESELLER
+openx.com, 537140323, RESELLER, 6a698e2ec38604c6
+openx.com, 538959099, RESELLER
+openx.com, 540031703, RESELLER, 6a698e2ec38604c6
+openx.com, 83499, RESELLER
+pubmatic.com, 137711, RESELLER
+pubmatic.com, 156212, RESELLER
+pubmatic.com, 156612, RESELLER, 5d62403b186f2ace
+pubmatic.com, 62483, RESELLER
+rubiconproject.com, 16414, RESELLER
+rubiconproject.com, 17174, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 211585, RESELLER, 0bfd66d529a55807
+sovrn.com, 231666, RESELLER, fafdf38b16bf6b2b
+sovrn.com, 249474, RESELLER, fafdf38b16bf6b2b
+sovrn.com, 260980, RESELLER, fafdf38b16bf6b2b
+
+# Nano Interactive UK
+appnexus.com, 3623, RESELLER
+improvedigital.com, 1017, RESELLER

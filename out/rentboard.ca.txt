@@ -1,0 +1,5 @@
+# This file is recommended by Google Adsense.
+# It helps ensure your ad space is only sold through
+# sellers (e.g., AdSense) who you've identified as authorized.
+# See: https://support.google.com/adsense/answer/7532444
+google.com, pub-9598776738082352, DIRECT, f08c47fec0942fa0

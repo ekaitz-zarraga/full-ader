@@ -1,0 +1,126 @@
+    <!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        
+<title>bathroom remodel contractors tacoma bathroom remodel contractors spokane
+ | bathroom remodel lexington sc remodel kitchen table ideas
+</title><meta name="description" contents=bathroom remodel contractors tacoma bathroom remodel contractors spokane
+ | bathroom remodel lexington sc remodel kitchen table ideas
+>                <link rel="stylesheet" href="style.css" type="text/css">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="https://use.edgefonts.net/source-sans-pro:n2:default.js" type="text/javascript"></script>
+<!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+<style>
+img {
+  width: auto ;
+  max-width: 100% ;
+  height: auto ;
+} 
+body {
+    font-family: 'Lato', sans-serif;
+}
+.video-responsive{
+    overflow:hidden;
+    padding-bottom:56.25%;
+    padding-left:1%;
+
+    position:relative;
+    height:0;
+}
+.video-responsive iframe{
+    left:0;
+    top:0;
+    height:100%;
+    width:99.5%;
+    position:absolute;
+}
+
+.overlay {
+    height: 100%;
+    width: 0;
+    margin: auto;
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    top: 0;
+    left: 0;
+    background-color: rgb(250,128,114);
+    background-color: rgba(250,128,114, 1.9);
+    overflow-x: hidden;
+    transition: 0.5s;
+}
+.overlay-content {
+    position: relative;
+    top: 25%;
+    width: 100%;
+    text-align: center;
+    margin-top: 30px;
+}
+.overlay a {
+    padding: 8px;
+    text-decoration: none;
+    font-size: 36px;
+    color: #818181;
+    display: block;
+    transition: 0.3s;
+}
+.overlay a:hover, .overlay a:focus {
+    color: #f1f1f1;
+}
+.overlay .closebtn {
+    position: absolute;
+    top: 20px;
+    right: 45px;
+    font-size: 60px;
+}
+@media screen and (max-height: 450px) {
+  .overlay a {font-size: 20px}
+  .overlay .closebtn {
+    font-size: 40px;
+    top: 15px;
+    right: 35px;
+  }
+}
+</style>
+    </head>
+    <body onload="openNav()" scroll="no" style="overflow: hidden">
+        <header>
+            <nav id="main-navigation">
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="https://remodelexp.com/legal.html">Legal</a></li>
+                    <li><a href="https://remodelexp.com/sitemap.txt">Sitemap</a></li>
+                </ul>
+            </nav>
+        </header>
+        <div id="main-contents">
+<br><strong>The Home Depot is a great place to buy your kitchen appliances and remodeling materials. We also provide top-rated design and installation services for homeowners across America. Besides undergoing full background checks, our hand-selected remodeling experts are local, licensed and insured. The Home Depot also offers a great selection of flexible finance options.
+</strong>
+<br><em>Our kitchen remodeling expertise extends to most areas in the DFW Metroplex: Dallas, Northwood Hills, Lakewood, Lake Highlands, Park Cities (Highland Park, University Park), Greenway Parks, Bluffview, Uptown, Downtown Dallas, M Streets and Preston Hollow. And in these surrounding cities: Coppell, Plano, Richardson, Addison, Carrollton, Irving and Farmers Branch.
+</em>
+<br><tt>The best part about it is that there are so many ways to play around with it and be creative. You could go for white open shelving to highlight the wallpaper or the paint in or you could even mix and match it with the cabinetry. No need to get rid of cabinetry entirely — just add shelves between windows or in the corners of the kitchen to display your most prized cookbooks, pottery or teacups. Customize it with hooks to hang stuff or opt for fancy boxes and baskets to add a touch of sophistication. Undercabinetry lights are highly recommended for kitchens looking to add a bit of x-factor. We suggest opting for only one color of glassware to display on these open shelves for the best effect. There a lot of kitchen open shelves ideas that can overhaul the look of your kitchen as well as add an astonishing functionality.
+</tt>
+<br><font>The homeowners replaced the awkward upper cabinets with shelving that makes the most of the kitchen's pitched ceiling. They also ditched the lower cabinets for freestanding components, including a stainless steel rolling island and a mango-wood Crate & Barrel console fitted with a marble top. A red Aga gas stove offers a serious upgrade over the old electric model. <iframe width="560" height="315" src="https://www.youtube.com/embed/ivo1yF5GZFQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</font><div id="myNav" class="overlay">
+  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+  <div class="overlay-content">
+    <a href="https://remodelexp.com/remodelexpcom.php"><img src="https://remodelexp.com/notarobot.gif"></a>
+      </div>
+</div>
+</div>
+        <footer>
+            Contact us at webmaster@remodelexp.com | <a href="https://remodelexp.com/sitemap.xml">Sitemap xml</a> | <a href="https://remodelexp.com/sitemap.txt">Sitemap txt</a> | <a href="https://remodelexp.com/sitemap.html">Sitemap</a>
+        </footer>
+<script>
+function openNav() {
+  document.getElementById("myNav").style.width = "95%";
+}
+</script>
+    </body>
+</html>
+ 

@@ -1,0 +1,29 @@
+# mi.tv direct
+google.com, pub-4964514008044081, DIRECT, f08c47fec0942fa0
+google.com, pub-3190252107510485, DIRECT, f08c47fec0942fa0
+
+# rubicon
+rubiconproject.com, 17248, DIRECT, 0bfd66d529a55807
+
+# verizon
+adtech.com, 11738, DIRECT, e1a5b5b6e3255540
+pubmatic.com, 156377, RESELLER, 5d62403b186f2ace
+
+# amazon uam
+aps.amazon.com,4b19ed2d-0974-43e4-ba83-86742ceac6cb,DIRECT
+pubmatic.com,157150,RESELLER,5d62403b186f2ace
+openx.com,540191398,RESELLER,6a698e2ec38604c6
+rubiconproject.com,18020,RESELLER,0bfd66d529a55807
+appnexus.com,1908,RESELLER,f5ab79cb980f11d1
+adtech.com,12068,RESELLER,e1a5b5b6e3255540
+ad-generation.jp,12474,RESELLER
+districtm.io,100962,RESELLER,3fd707be9c4527c3
+appnexus.com,3663,RESELLER,f5ab79cb980f11d1
+rhythmone.com,1654642120,RESELLER,a670c89d4a324e47
+
+# ix
+indexexchange.com, 191015, DIRECT
+
+# sovrn
+sovrn.com, 275345, DIRECT, fafdf38b16bf6b2b
+lijit.com, 275345, DIRECT, fafdf38b16bf6b2b

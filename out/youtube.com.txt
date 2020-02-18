@@ -1,0 +1,5 @@
+# youtube.com/ads.txt
+#
+# YouTube inventory can be purchased from Google Ads and Display &
+# Video 360, and cannot be purchased programmatically through open exchanges.
+# Therefore there are no authorized sellers or resellers listed in this file.

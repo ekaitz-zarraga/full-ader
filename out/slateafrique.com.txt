@@ -1,0 +1,72 @@
+adgear.com, 1186, RESELLER
+adtech.com, 4803, RESELLER
+advertising.com, 21395, RESELLER
+advertising.com, 26154, RESELLER
+advertising.com, 28038, RESELLER
+appnexus.com, 1908, RESELLER
+appnexus.com, 1940, RESELLER
+appnexus.com, 2764, RESELLER
+appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
+appnexus.com, 7944, RESELLER
+btrll.com, 3871493, RESELLER
+contextweb.com, 559992, RESELLER, 89ff185a4c4e857c
+districtm.io, 100027, DIRECT
+freewheel.tv, 805, RESELLER
+freewheel.tv, 5553, RESELLER
+freewheel.tv, 143465, RESELLER
+freewheel.tv, 282482, RESELLER
+freewheel.tv, 283026, RESELLER
+freewheel.tv, 337377, RESELLER
+freewheel.tv, 367249, RESELLER
+freewheel.tv, 367265, RESELLER
+freewheel.tv, 423153, RESELLER
+freewheel.tv, 741650, RESELLER
+google.com, pub-1172870656034468, DIRECT, f08c47fec0942fa0
+google.com, pub-3700011705422030, RESELLER, f08c47fec0942fa0
+google.com, pub-4983172728561290, RESELLER, f08c47fec0942fa0
+google.com, pub-5781905551564431, RESELLER, f08c47fec0942fa0
+google.com, pub-9685734445476814, RESELLER, f08c47fec0942fa0
+improvedigital.com, 1026, RESELLER
+indexexchange.com, 180181, RESELLER
+ligadx.com, 10429, DIRECT
+ligadx.com, 2757, DIRECT
+ligadx.com, 8009, DIRECT
+ligadx.com, 8828b7842f050c8d, DIRECT
+ligadx.com, 9f4e5082b5e05cc0, DIRECT
+ligadx.com, ef5e1487a3f9acea, DIRECT
+lkqd.com, 244, RESELLER, 59c49fa9598a0117
+lkqd.net, 244, RESELLER, 59c49fa9598a0117
+lkqd.net, 450, RESELLER, 59c49fa9598a0117
+lkqd.net, 74, RESELLER, 59c49fa9598a0117
+openx.com, 537139983, RESELLER, 6a698e2ec38604c6
+openx.com, 540393169, RESELLER, 6a698e2ec38604c6
+outbrain.com, 005319b9ead9e283cfd29faeb00927b633, DIRECT
+outbrain.com, 00b504e11771f7dc7e97ccab2cfaaa7ba6, DIRECT
+piximedia.com, 21168, DIRECT
+pubmatic.com, 156098, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156305, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 9585, RESELLER
+rubiconproject.com, 16844, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 17130, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 19668, RESELLER, 0bfd66d529a55807
+sekindo.com, 19301, RESELLER
+smartadserver.com, 2136, DIRECT
+spotx.tv, 84294, RESELLER, 7842df1d2fe2db34
+spotx.tv, 238936, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 187340, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 225721, RESELLER
+spotxchange.com, 238936, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 71426, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 74844, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 75439, RESELLER
+spotxchange.com, 84294, RESELLER, 7842df1d2fe2db34
+teads.tv, 6157, DIRECT, 15a9c44f6d26cbe1
+teads.tv, 7405, DIRECT, 15a9c44f6d26cbe1
+teads.tv, 15429, RESELLER, 15a9c44f6d26cbe1
+tremorhub.com, 0kq41, RESELLER, 1a4e959a1b50034a
+tremorhub.com, q017o-78mlk, RESELLER, 1a4e959a1b50034a
+tremorhub.com, tz2ho, RESELLER, 1a4e959a1b50034a
+tremorhub.com, v7cmh-jjtcb, RESELLER, 1a4e959a1b50034a
+tremorhub.com, v7cmh-yeje9, RESELLER, 1a4e959a1b50034a
+vidazoo.com, 5969950, RESELLER
+widespace.com, 3487, DIRECT

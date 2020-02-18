@@ -1,0 +1,8 @@
+# ads.txt file for aofsoru.com
+
+google.com, pub-3095732206138064, DIRECT, f08c47fec0942fa0
+google.com, pub-2082770481192411, DIRECT, f08c47fec0942fa0
+
+# reklam9
+google.com, pub-7104543801500968, RESELLER, f08c47fec0942fa0
+google.com, pub-5610649146674306, RESELLER, f08c47fec0942fa0                              

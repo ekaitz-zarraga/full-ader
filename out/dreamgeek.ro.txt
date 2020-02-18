@@ -1,0 +1,5 @@
+#ads.txt for GOOGLE ADSENSE
+google.com, pub-2853233789406280, DIRECT
+
+#ads.txt for MGID
+mgid.com, 227325, DIRECT, d4c29acad76ce94f

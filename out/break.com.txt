@@ -1,0 +1,102 @@
+google.com, pub-6071525676516988, DIRECT, f08c47fec0942fa0
+
+# Adsolut #
+Adsolut.in, 351786 DIRECT#Playstream
+Rubiconproject.com, 17146, RESELLER, 0bfd66d529a55807
+appnexus.com, 9988, RESELLER, f5ab79cb980f11d1
+google.com, pub-3452022011371122, RESELLER, f08c47fec0942fa0 
+pubmatic.com, 156849, Direct, 5d62403b186f2ace 
+google.com, pub-6968738577620513, DIRECT, f08c47fec0942fa0
+spotxchange.com, 224795, RESELLER, 7842df1d2fe2db34 
+google.com, pub-7002491002409919, DIRECT, f08c47fec0942fa0 
+google.com, pub-9378724246417115, RESELLER, f08c47fec0942fa0
+pubmatic.com, 157569, DIRECT, 5d62403b186f2ace
+spotx.tv, 224795, RESELLER, 7842df1d2fe2db34
+
+
+# Taboola #
+taboola.com,1209402,DIRECT,c228e6794e811952
+spotx.tv,71451,RESELLER
+spotxchange.com, 71451, RESELLER
+advertising.com, 8603, RESELLER
+pubmatic.com, 156307, RESELLER, 5d62403b186f2ace
+appnexus.com, 3364, RESELLER
+Indexexchange.com, 183756, RESELLER
+contextweb.com, 560382, RESELLER
+openx.com, 539154393, RESELLER
+tremorhub.com, z87wm, RESELLER, 1a4e959a1b50034a
+rubiconproject.com, 16698, RESELLER, 0bfd66d529a55807
+freewheel.tv, 799841, RESELLER 
+freewheel.tv, 799921, RESELLER 
+aol.com, 53392, RESELLER 
+rhythmone.com, 1166984029, RESELLER, a670c89d4a324e47
+# End Taboola #
+
+# VDO #
+vdo.ai, 1219, DIRECT
+google.com, pub-7094677798399606, RESELLER, f08c47fec0942fa0
+appnexus.com, 8148, RESELLER
+advertising.com, 25264, DIRECT, e1a5b5b6e3255540
+beachfront.com, 12484, RESELLER, e2541279e8e2ca4d
+indexexchange.com, 189205, DIRECT, 50b1c356f2c5c8fc
+pubmatic.com, 158017, DIRECT, 5d62403b186f2ace
+rhythmone.com, 1222734754, DIRECT, a670c89d4a324e47
+rhythmone.com, 3736940343, DIRECT, a670c89d4a324e47
+districtm.io, 100428, DIRECT, 3fd707be9c4527c3
+appnexus.com, 1908, RESELLER, f5ab79cb980f11d1
+google.com, pub-9685734445476814, RESELLER, f08c47fec0942fa0
+appnexus.com, 7944, RESELLER
+EMXDGT.com, 524, DIRECT, 1e1d41537f7cad7f
+Appnexus.com, 1356, RESELLER, f5ab79cb980f11d1
+Google.com, pub-5995202563537249, RESELLER, f08c47fec0942fa0
+aps.amazon.com,b3d50ad3-eca1-4091-be72-de4a8bc67a3d,DIRECT
+appnexus.com,8148,DIRECT,f5ab79cb980f11d1
+appnexus.com,1356,RESELLER,f5ab79cb980f11d1
+appnexus.com,1908,RESELLER,f5ab79cb980f11d1
+districtm.io,100428,DIRECT,3fd707be9c4527c3
+pubmatic.com,157150,RESELLER,5d62403b186f2ace
+openx.com,540191398,RESELLER,6a698e2ec38604c6
+rubiconproject.com,18020,RESELLER,0bfd66d529a55807
+adtech.com,12068,RESELLER,e1a5b5b6e3255540
+ad-generation.jp,12474,RESELLER
+rhythmone.com,1654642120,RESELLER,a670c89d4a324e47
+# End VDO #
+
+# 9MO #
+9mediaonline.com,Direct, 1a34c
+adform.com, 1762, reseller
+admixer.net, 385c8c8f-3d0e-4477-8d49-db4c555c136c, DIRECT
+Advertising.com, 19011, RESELLER,
+appnexus.com, 6953, reseller
+beachfront.com, 12983, RESELLER,
+contextweb.com, 561623, reseller, 89ff185a4c4e857c
+Freewheel.tv, 295681, RESELLER,
+Freewheel.tv, 299345, RESELLER,
+google.com, pub-3346242917204955, DIRECT, f08c47fec0942fa0
+google.com, pub-3737030722290655, RESELLER, f08c47fec0942fa0
+google.com, pub-4338256439626145, DIRECT, f08c47fec0942fa0
+google.com, pub-6984659746445354, DIRECT, f08c47fec0942fa0
+google.com, pub-7002491002409919, RESELLER, f08c47fec0942fa0
+google.com, pub-7945044863874787, RESELLER, f08c47fec0942fa0
+google.com, pub-9378724246417115, DIRECT, f08c47fec0942fa0
+google.com, pub-9467144491537745, DIRECT, f08c47fec0942fa0
+google.com, pub-9328633604439863, RESELLER, f08c47fec0942fa0
+google.com, pub-9031689156885069, RESELLER, f08c47fec0942fa0
+google.com, pub-3282547114800347, RESELLER, f08c47fec0942fa0
+google.com, pub-5454875279695201, RESELLER, f08c47fec0942fa0
+
+improvedigital.com, 1154, RESELLER,
+lkqd.com, 51, RESELLER,
+lkqd.net, 51, DIRECT,
+lkqd.net, 51, RESELLER,
+Pubmatic.com, 156819, RESELLER, 5d62403b186f2ace,
+Pubmatic.com, 156820, RESELLER, 5d62403b186f2ace,
+Pubmatic.com, 39374, RESELLER, 5d62403b186f2ace,
+smartadserver.com, 1994, reseller
+smartyads.com, 16, reseller
+# End 9MO #
+
+# Spotx #
+spotxchange.com, 210888, DIRECT, 7842df1d2fe2db34
+spotx.tv, 210888, DIRECT, 7842df1d2fe2db34
+# End Spotx #

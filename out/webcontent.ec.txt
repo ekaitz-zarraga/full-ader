@@ -1,0 +1,88 @@
+google.com, pub-1246421436024940, DIRECT, f08c47fec0942fa0
+agencyorquidea.com, 1572, DIRECT
+google.com, pub-6153155412853419, RESELLER, f08c47fec0942fa0
+google.com, pub-5007270661389279, RESELLER, f08c47fec0942fa0
+google.com, pub-3633370801129289, RESELLER, f08c47fec0942fa0
+google.com, pub-3887367649849205, RESELLER
+google.com, pub-2726428685015992, RESELLER
+sovrn.com, 253564, RESELLER, fafdf38b16bf6b2b
+lijit.com, 253564, RESELLER, fafdf38b16bf6b2b
+openx.com, 537120960, RESELLER
+openx.com, 83499, RESELLER
+openx.com, 538959099, RESELLER
+pubmatic.com, 137711, RESELLER
+pubmatic.com, 156212, RESELLER
+pubmatic.com, 62483, RESELLER
+contextweb.com, 558511, RESELLER
+gumgum.com, 11645, RESELLER, ffdef49475d318a9
+adtech.com, 11315, DIRECT
+aolcloud.net, 11315, DIRECT
+appnexus.com, 3263, RESELLER
+pubmatic.com, 155986, RESELLER, 5d62403b186f2ace
+adtech.com, 4477, RESELLER
+aolcloud.net, 4477, RESELLER
+advertising.com, 17046, RESELLER
+lkqd.net, 308, RESELLER, 59c49fa9598a0117
+lkqd.com, 308, RESELLER, 59c49fa9598a0117
+cedato.com, 33858337, RESELLER
+biddr.io, 010e7c28-f645-2201-606b-fcf9e8000101, DIRECT #BidoboDirectSeat
+contextweb.com, 123456, RESELLER, 89ff185a4c4e857c #bidobo PP
+freewheel.tv, 473233, RESELLER
+freewheel.tv, 478257, RESELLER
+freewheel.tv, 473249, RESELLER
+freewheel.tv, 478273, RESELLER
+freewheel.tv, 473265, RESELLER
+freewheel.tv, 478289, RESELLER
+freewheel.tv, 502529, DIRECT
+freewheel.tv, 502561, RESELLER
+freewheel.tv, 502513, DIRECT
+freewheel.tv, 502545, RESELLER
+rhythmone.com, 3569349192, DIRECT, a670c89d4a324e47
+beachfront.com, 5679, RESELLER
+totalmediasolutions.com, 7122074, RESELLER
+google.com, pub-2127333773716092, RESELLER, f08c47fec0942fa0
+google.com, pub-1420539090378627, RESELLER, f08c47fec0942fa0
+google.com, pub-7462546778979920, RESELLER, f08c47fec0942fa0
+google.com, pub-1246810218868905, RESELLER, f08c47fec0942fa0
+advertising.com, 12178, RESELLER
+beachfront.com, beachfront_3375, RESELLER
+freewheel.tv, 195233, RESELLER
+freewheel.tv, 195225, RESELLER
+freewheel.tv, 212257, RESELLER
+freewheel.tv, 212249, RESELLER
+freewheel.tv, 183273, RESELLER, 
+freewheel.tv, 183265, RESELLER
+freewheel.tv, 118873, RESELLER
+freewheel.tv, 118865, RESELLER
+freewheel.tv, 146193, RESELLER
+freewheel.tv, 146145, RESELLER
+freewheel.tv, 226513, RESELLER
+freewheel.tv, 226497, RESELLER
+freewheel.tv, 193545, RESELLER
+freewheel.tv, 193537, RESELLER
+fyber.com, 0697ea49b57a706a1ef221a02b0c2b1b, RESELLER
+lkqd.net, 362, RESELLER, 59c49fa9598a0117
+lkqd.com, 362, RESELLER, 59c49fa9598a0117
+spotxchange.com,123518,RESELLER,7842df1d2fe2db34
+spotx.tv,123518,RESELLER,7842df1d2fe2db34
+tremorhub.com, akojo-5ms9s, RESELLER, 1a4e959a1b50034a
+tremorhub.com, akojo-wq9rq, RESELLER, 1a4e959a1b50034a
+tremorhub.com, akojo-s9qub, RESELLER, 1a4e959a1b50034a
+tremorhub.com, akojo-cqbnq, RESELLER, 1a4e959a1b50034a
+tremorhub.com, akojo-rzdv1, RESELLER, 1a4e959a1b50034a
+tremorhub.com, akojo-liutm, RESELLER, 1a4e959a1b50034a
+tremorhub.com, akojo-01xvw, RESELLER, 1a4e959a1b50034a
+tremorhub.com, akojo-7vr9i, RESELLER, 1a4e959a1b50034a
+tremorhub.com, akojo-hy1mu, RESELLER, 1a4e959a1b50034a
+tremorhub.com, akojo-9j1rg, RESELLER, 1a4e959a1b50034a
+tremorhub.com, akojo-0j0dt, RESELLER, 1a4e959a1b50034a
+smartadserver.com,57405,RESELLER
+indexexchange.com,179394,RESELLER
+contextweb.com,560288,RESELLER
+contextweb.com,561367,RESELLER
+pubmatic.com,156439,RESELLER
+rubiconproject.com,16114,RESELLER
+openx.com,537149888,RESELLER,a698e2ec38604c6
+cedato.com, 501446106, RESELLER
+cedato.com, 31796602, RESELLER
+#Last modified: 18/03/18

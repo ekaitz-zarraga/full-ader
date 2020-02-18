@@ -1,0 +1,55 @@
+﻿google.com, pub-4088525079907691, DIRECT, f08c47fec0942fa0
+google.com, pub-7659455580707781, DIRECT, f08c47fec0942fa0
+
+# BreadTime
+google.com, pub-7723326789458876, DIRECT, f08c47fec0942fa0
+google.com, pub-6616566871336756, RESELLER, f08c47fec0942fa0
+appnexus.com, 1841, RESELLER
+google.com, pub-4338256439626145, DIRECT, f08c47fec0942fa0
+ad2iction.com, 0d9a03ec-072c-11e8-93e9-f23c9173ed43,RESELLER
+logly.co.jp, 1972, DIRECT
+innity.com, 4816, DIRECT, 47ea16374dff1d69
+clickforce.com.tw, 770, DIRECT
+google.com, pub-4485239425924787, RESELLER, f08c47fec0942fa0
+google.com, pub-4126554779393986, RESELLER, f08c47fec0942fa0
+ucfunnel.com, par-D77BD382D27662DFBB6A2A9EA43EBB, RESELLER
+aralego.com, par-D77BD382D27662DFBB6A2A9EA43EBB, RESELLER
+freewheel.tv, 204561, RESELLER
+freewheel.tv, 204569, RESELLER
+innity.com, 3754, DIRECT, 47ea16374dff1d69
+PREBID RTBHOUSE.COM, iGzitmsGNYVfOD73DF5e, DIRECT
+ucfunnel.com, par-8A226A4A4EB4B42EFB26E7D6A23D369A, DIRECT
+aralego.com, par-8A226A4A4EB4B42EFB26E7D6A23D369A, DIRECT
+google.com, pub-5501684430850655, RESELLER, f08c47fec0942fa0
+google.com, pub-7968146525597976, RESELLER, f08c47fec0942fa0
+google.com, pub-1379263287149962, RESELLER, f08c47fec0942fa0
+
+# truvid
+truvid.com, 347, DIRECT
+truvidplayer.com, 347, DIRECT
+advertising.com, 7039, RESELLER
+advertising.com, 28245, DIRECT
+advertising.com, 28377, reseller #Verizon
+rubiconproject.com, 17412, RESELLER, 0bfd66d529a55807
+spotxchange.com, 79977, RESELLER, 7842df1d2fe2db34
+spotx.tv, 79977, RESELLER, 7842df1d2fe2db34
+gammassp.com, 1536546411, DIRECT
+districtm.io, 101709, DIRECT
+freewheel.tv, 914545, RESELLER
+freewheel.tv, 914561, RESELLER
+freewheel.tv, 914577, RESELLER
+freewheel.tv, 914593, RESELLER
+freewheel.tv, 914609, RESELLER
+freewheel.tv, 914625, RESELLER
+smartadserver.com, 3356, DIRECT
+contextweb.com, 560288, RESELLER, 89ff185a4c4e857c
+pubmatic.com, 156439, RESELLER
+pubmatic.com, 154037, RESELLER
+rubiconproject.com, 16114, RESELLER, 0bfd66d529a55807
+openx.com, 537149888, RESELLER, 6a698e2ec38604c6
+sovrn.com, 257611, RESELLER, fafdf38b16bf6b2b
+appnexus.com, 3703, RESELLER, f5ab79cb980f11d1
+appnexus.com, 9393, DIRECT
+google.com, pub-9341661452948405, RESELLER, f08c47fec0942fa0
+google.com, pub-4903453974745530, RESELLER, f08c47fec0942fa0
+contextweb.com, 562049, DIRECT, 89ff185a4c4e857c

@@ -1,0 +1,63 @@
+# STATnews.com ads.txt
+# Google
+google.com, pub-2378110306265632, DIRECT, f08c47fec0942fa0
+# OpenX
+openx.com, 539228155, DIRECT, 6a698e2ec38604c6
+openx.com, 539625286, DIRECT, 6a698e2ec38604c6
+openx.com, 537102483, DIRECT, 6a698e2ec38604c6
+# Index Exchange
+indexexchange.com, 189310, DIRECT
+# RhythmOne
+rhythmone.com, 2700731826, DIRECT, a670c89d4a324e47
+# Rubicon
+rubiconproject.com, 11472, DIRECT, 0bfd66d529a55807
+rubiconproject.com, 17378, DIRECT, 0bfd66d529a55807
+# Sonobi
+sonobi.com, c8600ce323, DIRECT, d1a215d9eb5aee9e
+rhythmone.com, 1059622079, RESELLER, a670c89d4a324e47
+contextweb.com, 560606, RESELLER, 89ff185a4c4e857c
+# Brightcom
+brightcom.com, 8172, DIRECT
+google.com, pub-5231479214411897, RESELLER, f08c47fec0942fa0
+google.com, pub-4207323757133151, RESELLER, f08c47fec0942fa0
+rubiconproject.com, 18034, RESELLER, 0bfd66d529a55807
+33across.com, 0013300001qkdlwAAA, RESELLER
+google.com, pub-9557089510405422, RESELLER, f08c47fec0942fa0
+33across.com,0010b00001u6f1nAAA, RESELLER
+aps.amazon.com,48266a61-b3d9-4cb7-b172-553abc6a42a4,DIRECT
+pubmatic.com,157150,RESELLER,5d62403b186f2ace
+openx.com,540191398,RESELLER,6a698e2ec38604c6
+rubiconproject.com,18020,RESELLER,0bfd66d529a55807
+appnexus.com,1908,RESELLER,f5ab79cb980f11d1
+adtech.com,12068,RESELLER
+districtm.io,100962,RESELLER
+rhythmone.com,1654642120,RESELLER,a670c89d4a324e47
+appnexus.com, 3153, RESELLER, f5ab79cb980f11d1
+smartadserver.com, 2995, RESELLER
+rubiconproject.com, 16114, RESELLER, 0bfd66d529a55807
+appnexus.com, 3703, RESELLER, f5ab79cb980f11d1
+indexexchange.com, 189744, RESELLER
+openx.com, 537153209, RESELLER, 6a698e2ec38604c6
+districtm.io, 101080, DIRECT, 3fd707be9c4527c3
+lkqd.net,49, RESELLER, 59c49fa9598a0117
+advertising.com, 23302, RESELLER
+advertising.com, 2270, RESELLER
+advertising.com, 26347, RESELLER
+rubiconproject.com, 20416, RESELLER, 0bfd66d529a55807
+adtech.com, 11208, RESELLER
+sovrn.com, 270524, RESELLER, fafdf38b16bf6b2b
+lijit.com, 270524, RESELLER, fafdf38b16bf6b2b
+improvedigital.com, 1362, RESELLER
+rhythmone.com,869591749,RESELLER,a670c89d4a324e47
+#Sovrn
+sovrn.com, 263265, DIRECT, fafdf38b16bf6b2b
+lijit.com, 263265, DIRECT, fafdf38b16bf6b2b
+lijit.com, 263265-eb, DIRECT, fafdf38b16bf6b2b
+appnexus.com, 1360, RESELLER, f5ab79cb980f11d1
+gumgum.com, 11645, RESELLER, ffdef49475d318a9
+openx.com, 538959099, RESELLER, 6a698e2ec38604c6
+openx.com, 539924617, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 137711, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156212, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156700, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 17960, RESELLER, 0bfd66d529a55807

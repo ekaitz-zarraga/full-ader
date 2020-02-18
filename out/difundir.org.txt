@@ -1,0 +1,62 @@
+google.com, pub-8012644357940981, DIRECT, f08c47fec0942fa0
+
+#MM
+google.com, pub-7620071422727774, RESELLER, f08c47fec0942fa0
+google.com, pub-5278973888786334, RESELLER, f08c47fec0942fa0
+google.com, pub-3764626397686609, DIRECT, f08c47fec0942fa0
+
+#oftmedia
+appnexus.com, 3153, RESELLER #oftmedia
+
+#appnexus
+appnexus.com, 3573, DIRECT #appnexus
+
+#rhythmone
+rhythmone.com, 2614004368, RESELLER, a670c89d4a324e47 #rhythmone
+
+#AOL
+adtech.com, 10513, DIRECT #aol
+aolcloud.net, 10513, DIRECT #aol
+
+#sovrn
+sovrn.com, 234206, RESELLER, fafdf38b16bf6b2b #sovrn
+lijit.com, 234206, RESELLER, fafdf38b16bf6b2b #sovrn
+openx.com, 537120960, RESELLER #sovrn
+openx.com, 83499, RESELLER #sovrn
+openx.com, 538959099, RESELLER #sovrn
+pubmatic.com, 137711, RESELLER #sovrn
+pubmatic.com, 156212, RESELLER #sovrn
+pubmatic.com, 62483, RESELLER #sovrn
+contextweb.com, 558511, RESELLER #sovrn
+gumgum.com, 11645, RESELLER, ffdef49475d318a9 #sovrn
+appnexus.com, 1360, RESELLER, f5ab79cb980f11d1 #sovrn
+openx.com, 539924617, RESELLER, 6a698e2ec38604c6 #sovrn
+pubmatic.com, 156700, RESELLER, 5d62403b186f2ace #sovrn
+rubiconproject.com, 17960, RESELLER, 0bfd66d529a55807 #sovrn
+
+#openX
+openx.com, 540472623, RESELLER, 6a698e2ec38604c6 #openx
+
+#indexExchange
+indexexchange.com, 184282, DIRECT, 50b1c356f2c5c8fc #indexExchange
+
+#Taboola
+taboola.com, 1027411, DIRECT, c228e6794e811952
+spotx.tv,71451,RESELLER
+spotxchange.com, 71451, RESELLER
+advertising.com, 8603, RESELLER
+pubmatic.com, 156307, RESELLER, 5d62403b186f2ace
+appnexus.com, 3364, RESELLER
+Indexexchange.com, 183756, RESELLER
+contextweb.com, 560382, RESELLER
+openx.com, 539154393, RESELLER
+tremorhub.com, z87wm, RESELLER, 1a4e959a1b50034a
+rubiconproject.com, 16698, RESELLER, 0bfd66d529a55807
+freewheel.tv, 799841, RESELLER
+freewheel.tv, 799921, RESELLER
+aol.com, 53392, RESELLER
+rhythmone.com, 1166984029, RESELLER, a670c89d4a324e47
+smartadserver.com, 3563, RESELLER
+beachfront.com, 13749, RESELLER, e2541279e8e2ca4d
+advertising.com, 28458, RESELLER
+admanmedia.com, 556, RESELLER

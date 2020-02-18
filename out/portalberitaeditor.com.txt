@@ -1,0 +1,11 @@
+google.com, <?php echo do_shortcode('[quads id=1]'); ?>, DIRECT, f08c47fec0942fa0
+
+google.com, <?php echo do_shortcode('[quads id=2]'); ?>, DIRECT, f08c47fec0942fa0
+google.com, <?php echo do_shortcode('[quads id=3]'); ?>, DIRECT, f08c47fec0942fa0
+google.com, <?php echo do_shortcode('[quads id=4]'); ?>, DIRECT, f08c47fec0942fa0
+google.com, <?php echo do_shortcode('[quads id=5]'); ?>, DIRECT, f08c47fec0942fa0
+google.com, <?php echo do_shortcode('[quads id=6]'); ?>, DIRECT, f08c47fec0942fa0
+google.com, <?php echo do_shortcode('[quads id=7]'); ?>, DIRECT, f08c47fec0942fa0
+google.com, <?php echo do_shortcode('[quads id=8]'); ?>, DIRECT, f08c47fec0942fa0
+google.com, <?php echo do_shortcode('[quads id=9]'); ?>, DIRECT, f08c47fec0942fa0
+google.com, <?php echo do_shortcode('[quads id=10]'); ?>, DIRECT, f08c47fec0942fa0

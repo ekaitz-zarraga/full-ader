@@ -1,0 +1,195 @@
+google.com, pub-1349470098454340, DIRECT, f08c47fec0942fa0
+
+sovrn.com, 271479, DIRECT, fafdf38b16bf6b2b
+lijit.com, 271479, DIRECT, fafdf38b16bf6b2b
+appnexus.com, 1360, RESELLER, f5ab79cb980f11d1
+gumgum.com, 11645, RESELLER, ffdef49475d318a9
+openx.com, 538959099, RESELLER, 6a698e2ec38604c6
+openx.com, 539924617, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 137711, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156212, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156700, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 17960, RESELLER, 0bfd66d529a55807
+
+google.com, pub-7620071422727774, RESELLER, f08c47fec0942fa0 #M2ADXCAD
+google.com, pub-5278973888786334, RESELLER, f08c47fec0942fa0 #M2ADXUSD
+google.com, pub-1142323411777001, RESELLER, f08c47fec0942fa0 #M2Adsense
+
+aps.amazon.com,6bc54345-8f2a-4a82-8027-bcbecfe095b5,DIRECT #amazon
+pubmatic.com,157150,RESELLER,5d62403b186f2ace #amazon
+openx.com,540191398,RESELLER,6a698e2ec38604c6 #amazon
+rubiconproject.com,18020,RESELLER,0bfd66d529a55807 #amazon
+appnexus.com,1908,RESELLER,f5ab79cb980f11d1 #amazon
+adtech.com,12068,RESELLER,e1a5b5b6e3255540 #amazon
+ad-generation.jp,12474,RESELLER #amazon
+districtm.io,100962,RESELLER,3fd707be9c4527c3 #amazon
+rhythmone.com,1654642120,RESELLER,a670c89d4a324e47 #amazon
+appnexus.com,3663,RESELLER,f5ab79cb980f11d1 #amazon
+
+adtech.com, 10513, DIRECT #aol
+aolcloud.net, 10513, DIRECT #aol
+
+conversantmedia.com, 40802 , DIRECT #conversant
+appnexus.com, 4052, RESELLER #conversant
+contextweb.com, 561998, RESELLER, 89ff185a4c4e857c #conversant
+openx.com, 540031703, RESELLER, 6a698e2ec38604c6 #conversant
+pubmatic.com, 158100, RESELLER, 5d62403b186f2ace #conversant
+
+sovrn.com, 234206, RESELLER, fafdf38b16bf6b2b #sovrn
+lijit.com, 234206, RESELLER, fafdf38b16bf6b2b #sovrn
+openx.com, 537120960, RESELLER #sovrn
+openx.com, 83499, RESELLER #sovrn
+openx.com, 538959099, RESELLER #sovrn
+pubmatic.com, 137711, RESELLER #sovrn
+pubmatic.com, 156212, RESELLER #sovrn
+pubmatic.com, 62483, RESELLER #sovrn
+contextweb.com, 558511, RESELLER #sovrn
+gumgum.com, 11645, RESELLER, ffdef49475d318a9 #sovrn
+appnexus.com, 1360, RESELLER, f5ab79cb980f11d1 #sovrn
+openx.com, 539924617, RESELLER, 6a698e2ec38604c6 #sovrn
+pubmatic.com, 156700, RESELLER, 5d62403b186f2ace #sovrn
+rubiconproject.com, 17960, RESELLER, 0bfd66d529a55807 #sovrn
+
+rhythmone.com, 2614004368, RESELLER, a670c89d4a324e47 #rhythmone
+rhythmone.com, 2614004368, DIRECT, a670c89d4a324e47 #rhythmone
+
+appnexus.com, 3573, DIRECT #appnexus
+pubmatic.com, 158460, DIRECT, 5d62403b186f2ace #pubmatic
+
+appnexus.com, 1908, RESELLER, f5ab79cb980f11d1 #districtm
+google.com, pub-9685734445476814, RESELLER, f08c47fec0942fa0 #districtm
+districtm.io, 100541, RESELLER, 3fd707be9c4527c3 #districtm
+
+lockerdome.com, 10852900247427328, DIRECT #lockerdome
+
+openx.com, 540472623, RESELLER, 6a698e2ec38604c6 #openx
+
+
+
+westseven.media, 7da286758847, DIRECT, cbf665107bc614c7 #westseven
+westseven.media, aeb9adb83a86, DIRECT, cbf665107bc614c7 #westseven
+westseven.media, ff48344867d9, DIRECT, cbf665107bc614c7 #westseven
+westseven.media, 056736e6bcd9, DIRECT, cbf665107bc614c7 #westseven
+westseven.media, 9355334c396c, DIRECT, cbf665107bc614c7 #westseven
+appnexus.com, 3153, RESELLER, f5ab79cb980f11d1 #westseven
+33across.com, 0010b00002Ecz1AAAR, DIRECT, bbea06d9c4d2853c #westseven
+rubiconproject.com, 16414, RESELLER, 0bfd66d529a55807 #westseven
+rubiconproject.com, 21434, RESELLER, 0bfd66d529a55807 #westseven
+pubmatic.com, 156423, RESELLER, 5d62403b186f2ace #westseven
+pubmatic.com, 158136, RESELLER, 5d62403b186f2ace #westseven
+pubmatic.com, 158569, RESELLER, 5d62403b186f2ace #westseven
+appnexus.com, 10239, RESELLER, f5ab79cb980f11d1 #westseven
+appnexus.com, 1001, RESELLER, f5ab79cb980f11d1 #westseven
+appnexus.com, 3135, RESELLER, f5ab79cb980f11d1 #westseven
+openx.com, 537120563, RESELLER, 6a698e2ec38604c6 #westseven
+openx.com, 539392223, RESELLER, 6a698e2ec38604c6 #westseven
+rhythmone.com, 2439829435, RESELLER, a670c89d4a324e47 #westseven
+emxdgt.com, 326, RESELLER, 1e1d41537f7cad7f #westseven
+adtech.com, 12094, RESELLER #westseven
+adtech.com, 9993, RESELLER #westseven
+advangelists.com, 8d3bba7425e7c98c50f52ca1b52d3735, RESELLER, 60d26397ec060f98 #westseven
+google.com, pub-9557089510405422, RESELLER, f08c47fec0942fa0 #westseven
+sonobi.com, a416546bb7, RESELLER, d1a215d9eb5aee9e #westseven
+indexexchange.com, 190966, RESELLER, 50b1c356f2c5c8fc #westseven
+rubiconproject.com, 21642, RESELLER, 0bfd66d529a55807 #westseven
+google.com, pub-7188109311604434, RESELLER, f08c47fec0942fa0 #westseven
+aps.amazon.com,180c695b-0d84-4c6e-a870-01b9e94425cf,DIRECT #westseven
+pubmatic.com,157150,RESELLER,5d62403b186f2ace #westseven
+openx.com,540191398,RESELLER,6a698e2ec38604c6 #westseven
+rubiconproject.com,18020,RESELLER,0bfd66d529a55807 #westseven
+appnexus.com,1908,RESELLER,f5ab79cb980f11d1 #westseven
+adtech.com,12068,RESELLER,e1a5b5b6e3255540 #westseven
+ad-generation.jp,12474,RESELLER #westseven
+districtm.io,100962,RESELLER,3fd707be9c4527c3 #westseven
+rhythmone.com,1654642120,RESELLER,a670c89d4a324e47 #westseven
+appnexus.com, 7113, RESELLER, f5ab79cb980f11d1 #westseven
+cedato.com, 501446106, RESELLER, 609e732d22edadf4 #westseven
+pubmatic.com, 156534, RESELLER, 5d62403b186f2ace #westseven
+contextweb.com, 561578, RESELLER, 89ff185a4c4e857c #westseven
+advertising.com, 24564, RESELLER #westseven
+rubiconproject.com, 16568, RESELLER, 0bfd66d529a55807 #westseven
+tremorhub.com, 0cc6w-h2tvh, RESELLER, 1a4e959a1b50034a #westseven
+improvedigital.com, 1225, RESELLER #westseven
+spotxchange.com, 252370, RESELLER, 7842df1d2fe2db34 #westseven
+spotx.tv, 252370, RESELLER, 7842df1d2fe2db34 #westseven
+appnexus.com, 9988, RESELLER, f5ab79cb980f11d1 #westseven
+spotxchange.com, 253293, RESELLER, 7842df1d2fe2db34 #westseven
+improvedigital.com, 1256, RESELLER #westseven
+contextweb.com, 560267, RESELLER, 89ff185a4c4e857c #westseven
+telaria.com, 0cc6w-h2tvh, RESELLER, 1a4e959a1b50034a #westseven
+conversantmedia.com, 40790, DIRECT, 03113cd04947736d #westseven
+appnexus.com, 4052, RESELLER, f5ab79cb980f11d1 #westseven
+openx.com, 540031703, RESELLER, 6a698e2ec38604c6 #westseven
+emxdgt.com, 476, DIRECT, 1e1d41537f7cad7f #westseven
+appnexus.com, 1356, RESELLER, f5ab79cb980f11d1 #westseven
+google.com, pub-5995202563537249, RESELLER, f08c47fec0942fa0 #westseven
+districtm.io, 100808, DIRECT, 3fd707be9c4527c3 #westseven
+districtm.io, 101568, RESELLER, 3fd707be9c4527c3 #westseven
+google.com, pub-9685734445476814, RESELLER, f08c47fec0942fa0 #westseven
+gumgum.com, 13504, DIRECT, ffdef49475d318a9 #westseven
+33across.com, 0013300001r0t9mAAA, RESELLER #westseven
+appnexus.com, 1942, RESELLER, f5ab79cb980f11d1 #westseven
+appnexus.com, 2758, RESELLER, f5ab79cb980f11d1 #westseven
+appnexus.com, 7597, RESELLER, f5ab79cb980f11d1 #westseven
+bidtellect.com, 1407, RESELLER, 1c34aa2d85d45e93 #westseven
+contextweb.com, 558355, RESELLER, 89ff185a4c4e857c #westseven
+google.com, pub-3848273848634341, RESELLER, f08c47fec0942fa0 #westseven
+openx.com, 537149485, RESELLER, 6a698e2ec38604c6 #westseven
+pubmatic.com, 157897, RESELLER, 5d62403b186f2ace #westseven
+rhythmone.com, 78519861, RESELLER, a670c89d4a324e47 #westseven
+spotx.tv, 147949, RESELLER, 7842df1d2fe2db34 #westseven
+spotxchange.com, 147949, RESELLER, 7842df1d2fe2db34 #westseven
+gumgum.com, 13418, RESELLER, ffdef49475d318a9 #westseven
+criteo.com, 109412, DIRECT, 9fac4a4a87c2a44f #westseven
+lkqd.com, 470, RESELLER, 59c49fa9598a0117 #westseven
+lkqd.net, 470, RESELLER, 59c49fa9598a0117 #westseven
+outbrain.com, 01a755b08c8c22b15d46a8b753ab6955d4, RESELLER #westseven
+outbrain.com, 01a755b08c8c22b15d46a8b753ab6955d4, DIRECT #westseven
+pubmatic.com, 50758, RESELLER, 5d62403b186f2ace #westseven
+indexexchange.com, 189355, DIRECT, 50b1c356f2c5c8fc #westseven
+openx.com, 540181645, RESELLER, 6a698e2ec38604c6 #westseven
+appnexus.com, 7118, RESELLER, f5ab79cb980f11d1 #westseven
+spotx.tv, 108933, RESELLER, 7842df1d2fe2db34 #westseven
+spotxchange.com, 108933, RESELLER, 7842df1d2fe2db34 #westseven
+improvedigital.com, 185, RESELLER #westseven
+adform.com, 183, RESELLER #westseven
+freewheel.tv, 33081, RESELLER #westseven
+freewheel.tv, 33601, RESELLER #westseven
+google.com, pub-8172268348509349, RESELLER, f08c47fec0942fa0 #westseven
+lockerdome.com, 11124851570367232, DIRECT #westseven
+openx.com, 537127577, RESELLER, 6a698e2ec38604c6 #westseven
+appnexus.com, 2530, RESELLER, f5ab79cb980f11d1 #westseven
+pubmatic.com, 79136, RESELLER, 5d62403b186f2ace #westseven
+rtk.io, 559, DIRECT #westseven
+conversantmedia.com, 40790, RESELLER, 03113cd04947736d #westseven
+districtm.io, 100808, RESELLER, 3fd707be9c4527c3 #westseven
+gumgum.com, 13504, RESELLER, ffdef49475d318a9 #westseven
+rhythmone.com, 1114124056, RESELLER, a670c89d4a324e47 #westseven
+rubiconproject.com, 17790, RESELLER, 0bfd66d529a55807 #westseven
+rubiconproject.com, 19984, RESELLER, 0bfd66d529a55807 #westseven
+sharethrough.com, 7e74f570, DIRECT, d53b998a7bd4ecd2 #westseven
+spotxchange.com, 212457, RESELLER, 7842df1d2fe2db34 #westseven
+spotx.tv, 212457, RESELLER, 7842df1d2fe2db34 #westseven
+pubmatic.com, 156557, RESELLER, 5d62403b186f2ace #westseven
+openx.com, 540274407, RESELLER, 6a698e2ec38604c6 #westseven
+indexexchange.com, 186046, RESELLER, 50b1c356f2c5c8fc #westseven
+rubiconproject.com, 18694, RESELLER, 0bfd66d529a55807 #westseven
+sonobi.com, cbc69701ce, DIRECT, d1a215d9eb5aee9e #westseven
+rhythmone.com, 1059622079, RESELLER, a670c89d4a324e47 #westseven
+contextweb.com, 560606, RESELLER, 89ff185a4c4e857c #westseven
+springserve.com, 999, DIRECT, a24eb641fc82e93d #westseven
+beachfront.com, 4969, RESELLER, e2541279e8e2ca4d #westseven
+advertising.com, 26282, RESELLER #westseven
+pubmatic.com, 157310, RESELLER, 5d62403b186f2ace #westseven
+spotxchange.com, 239904, RESELLER, 7842df1d2fe2db34 #westseven
+spotx.tv, 239904, RESELLER, 7842df1d2fe2db34 #westseven
+contextweb.com, 561910, RESELLER, 89ff185a4c4e857c #westseven
+openx.com, 540226160, RESELLER, 6a698e2ec38604c6 #westseven
+undertone.com, 3817, DIRECT #westseven
+appnexus.com, 2234, RESELLER, f5ab79cb980f11d1 #westseven
+openx.com, 537153564, RESELLER, 6a698e2ec38604c6 #westseven
+synacor.com, 82101, DIRECT, e108f11b2cdf7d5b #westseven
+advertising.com, 19623, RESELLER #westseven
+openx.com, 540634634, DIRECT, 6a698e2ec38604c6 #westseven
+emxdgt.com, 1251, RESELLER, 1e1d41537f7cad7f #westseven
+districtm.io, 101856, DIRECT, 3fd707be9c4527c3 #westseven

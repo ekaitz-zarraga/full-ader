@@ -1,0 +1,101 @@
+#ads.txt  nbcuniversal
+
+freewheel.tv, 453105, DIRECT
+freewheel.tv, 466177, RESELLER
+freewheel.tv, 169843, RESELLER
+freewheel.tv, 169843, DIRECT
+
+google.com, pub-5672557457834454, DIRECT, f08c47fec0942fa0
+google.com, pub-2777781493894567, DIRECT, f08c47fec0942fa0
+google.com, pub-7550777043960671, DIRECT, f08c47fec0942fa0
+spotx.tv, 111853, DIRECT
+spotxchange.com, 111853, DIRECT
+kargo.com, 136, DIRECT
+indexexchange.com, 185796, DIRECT
+indexexchange.com, 184081, RESELLER
+trustx.org, 50, DIRECT
+rubiconproject.com, 18288, RESELLER, 0bfd66d529a55807
+google.com, pub-5405132603504384, RESELLER, f08c47fec0942fa0
+aps.amazon.com,3219, DIRECT #display
+Appnexus.com, 9910, DIRECT
+indexexchange.com, 185067, DIRECT  
+contextweb.com, 562001, RESELLER, 89ff185a4c4e857c
+google.com, pub-3413754117826875, DIRECT, f08c47fec0942fa0
+google.com, pub-1155772220135153, DIRECT
+spotx.tv, 108933, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 108933, RESELLER, 7842df1d2fe2db34
+openx.com, 539523154, RESELLER, 6a698e2ec38604c6
+improvedigital.com, 185, RESELLER
+appnexus.com, 7118, Reseller
+
+appnexus.com, 1356, RESELLER
+appnexus.com, 2067, RESELLER
+appnexus.com, 3121, DIRECT
+appnexus.com, 7158, RESELLER, f5ab79cb980f11d1 #dca0c639-4940-4598-a85c-1b94ae2513fe
+appnexus.com, 1908, RESELLER, f5ab79cb980f11d1
+appnexus.com, 7290, RESELLER
+districtm.io, 101367, DIRECT
+rhythmone.com, 2592118790, DIRECT, a670c89d4a324e47
+freewheel.tv,405825,DIRECT
+google.com, pub-9162676083297313, DIRECT
+google.com, pub-0227480467683561, DIRECT, f08c47fec0942fa0
+google.com, pub-1011508009856018, RESELLER
+google.com, pub-1258851518254175, RESELLER, f08c47fec0942fa0 #f25a83e1-bc54-4116-a2da-22037512e354
+google.com, pub-2476470713677313, DIRECT
+google.com, pub-2995659801720227, DIRECT, f08c47fec0942fa0
+google.com, pub-6357263074917139, DIRECT, f08c47fec0942fa0
+google.com, pub-7251173602125775, RESELLER
+google.com, pub-7632706502781453, DIRECT, f08c47fec0942fa0
+indexexchange.com, 183816, DIRECT
+indexexchange.com, 184088, RESELLER
+indexexchange.com, 184665, RESELLER
+indexexchange.com, 186007, DIRECT
+openx.com, 19920, RESELLER
+pubmatic.com, 48963, DIRECT
+pubmatic.com, 156236, DIRECT
+pubmatic.com, 111672, DIRECT, 5d62403b186f2ace
+rubiconproject.com, 10888, RESELLER, 0bfd66d529a55807 #c30283ec-4a98-44f4-ac1f-e934ae3dab99
+rubiconproject.com, 14904, RESELLER
+rubiconproject.com, 9585, RESELLER
+smaato.com, 1100038128, DIRECT
+spotx.tv, 188597, DIRECT
+spotx.tv, 188598, DIRECT
+spotx.tv, 188596, DIRECT
+spotx.tv, 207895, DIRECT
+spotx.tv, 136947, RESELLER, 7842df1d2fe2db34 #2edcd940-b1b0-4070-9a7f-ecb38a6fee11
+spotxchange.com, 188597, DIRECT
+spotxchange.com, 188598, DIRECT
+spotxchange.com, 188596, DIRECT
+spotxchange.com, 207895, DIRECT
+spotxchange.com, 136947, RESELLER, 7842df1d2fe2db34 #65eeefa9-7c86-4234-9b04-9fa4a8a16c3b
+tremorhub.com, 0j7gj, DIRECT, 1a4e959a1b50034a
+tremorhub.com, 1q9no, DIRECT, 1a4e959a1b50034a
+tremorhub.com, 5phju, DIRECT, 1a4e959a1b50034a
+tremorhub.com, 5z5sq, DIRECT, 1a4e959a1b50034a
+tremorhub.com, 6u7ey, DIRECT, 1a4e959a1b50034a
+tremorhub.com, arzxn, DIRECT, 1a4e959a1b50034a
+tremorhub.com, azj3v, DIRECT, 1a4e959a1b50034a
+tremorhub.com, bm8d1-15z2w, DIRECT, 1a4e959a1b50034a
+tremorhub.com, bm8d1-5a3u5, DIRECT, 1a4e959a1b50034a
+tremorhub.com, bm8d1-946we, DIRECT, 1a4e959a1b50034a
+tremorhub.com, bm8d1-9nplq, DIRECT, 1a4e959a1b50034a
+tremorhub.com, bm8d1-mm9gg, DIRECT, 1a4e959a1b50034a
+tremorhub.com, bm8d1-pri7d, DIRECT, 1a4e959a1b50034a
+tremorhub.com, bm8d1-u6ngk, DIRECT, 1a4e959a1b50034a
+tremorhub.com, cuvdt, DIRECT, 1a4e959a1b50034a
+tremorhub.com, e7nvv, DIRECT, 1a4e959a1b50034a
+tremorhub.com, gh5vv, DIRECT, 1a4e959a1b50034a
+tremorhub.com, hhoue, DIRECT, 1a4e959a1b50034a
+tremorhub.com, k10q7, DIRECT, 1a4e959a1b50034a
+tremorhub.com, lb0jl, DIRECT, 1a4e959a1b50034a
+tremorhub.com, ug5m3, DIRECT, 1a4e959a1b50034a
+tremorhub.com, wh8dh, DIRECT, 1a4e959a1b50034a
+tremorhub.com, x8zue, DIRECT, 1a4e959a1b50034a
+tremorhub.com, xij5q, DIRECT, 1a4e959a1b50034a
+tremorhub.com, z25qf, DIRECT, 1a4e959a1b50034a
+tremorhub.com, zeyj5, DIRECT, 1a4e959a1b50034a
+tremorhub.com, ruuqh, DIRECT, 1a4e959a1b50034a
+tremorhub.com, hcfqc, DIRECT, 1a4e959a1b50034a
+tremorhub.com, 7sdao-89vq7, DIRECT, 1a4e959a1b50034a
+yieldlab.net, 7238, RESELLER #783b960d-8590-456b-8440-d9a9af9fe120
+

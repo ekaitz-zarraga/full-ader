@@ -1,0 +1,58 @@
+#Ads.txt inquiriesjournal.com
+adform.com, 2078, RESELLER
+advertising.com, 24410, RESELLER
+advertising.com, 7372, RESELLER
+appnexus.com, 1908, RESELLER, f5ab79cb980f11d1
+appnexus.com, 1940, RESELLER
+districtm.io, 101359, RESELLER
+freewheel.tv, 19129, RESELLER
+freewheel.tv, 19133, RESELLER
+freewheel.tv, 621569, RESELLER
+fyber.com, 3238c1661ce2914845a986d98baf7d59, RESELLER
+fyber.com, f14d40df2568b6df4eed292a5ad93716, RESELLER
+google.com, pub-1320774679920841, RESELLER, f08c47fec0942fa0
+google.com, pub-5265497492608495, DIRECT, f08c47fec0942fa0
+gumgum.com, 11645, RESELLER, ffdef49475d318a9
+improvedigital.com, 1065, RESELLER
+lijit.com, 220897, DIRECT, fafdf38b16bf6b2b
+lkqd.net, 244, RESELLER, 59c49fa9598a0117
+loopme.com, 10520, RESELLER, 6c8d5f95897a5a3b
+openx.com, 537120960, RESELLER
+openx.com, 538959099, RESELLER
+openx.com, 540258065, RESELLER, 6a698e2ec38604c6
+openx.com, 83499, RESELLER
+pubmatic.com, 137711, RESELLER
+pubmatic.com, 156212, RESELLER
+pubmatic.com, 156380, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156595, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156700, RESELLER 
+pubmatic.com, 62483, RESELLER
+sekindo.com, 22776, DIRECT, b6b21d256ef43532
+smartadserver.com, 2137, RESELLER
+smartclip.net, 7649, RESELLER
+sovrn.com, 220897, DIRECT, fafdf38b16bf6b2b
+spotx.tv, 220321, RESELLER, 7842df1d2fe2db34
+spotx.tv, 84294, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 220321, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 84294, RESELLER, 7842df1d2fe2db34
+tidaltv.com, 32071, RESELLER
+tremorhub.com, mb9eo-oqsbf, RESELLER, 1a4e959a1b50034a
+vi.ai, 474289066697842, RESELLER
+sovrn.com, 270173, RESELLER, fafdf38b16bf6b2b
+lijit.com, 270173, RESELLER, fafdf38b16bf6b2b
+pubmatic.com, 158811, RESELLER, 5d62403b186f2ace
+openx.com, 540717834, RESELLER, 6a698e2ec38604c6    
+rubiconproject.com, 20132, RESELLER, 0bfd66d529a55807  
+advertising.com, 28485, RESELLER
+telaria.com,mb9eo-e04lh,RESELLER,1a4e959a1b50034a
+tremorhub.com,mb9eo-e04lh,RESELLER,1a4e959a1b50034a
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,21 @@
+
+google.com, pub-6618640114144069, DIRECT, f08c47fec0942fa0
+<!-- ReklamStore kodu basla -  1 -->
+<script type="text/javascript">
+    var reklamstore_region_id = 611775;
+</script>
+<script type="text/javascript" src="//adserver.reklamstore.com/reklamstore.js"></script>
+<!-- ReklamStore kodu bitti - 1-->
+<!-- ReklamStore kodu basla -  3 -->
+<script type="text/javascript">
+    var reklamstore_region_id = 611793;
+</script>
+<script type="text/javascript" src="//adserver.reklamstore.com/reklamstore.js"></script>
+<!-- ReklamStore kodu bitti - 3-->
+<!-- ReklamStore kodu basla -  2 -->
+<script type="text/javascript">
+var reklamstore_region_id = 611792;
+var reklamstore_ad_type = 'all';
+</script>
+<script type="text/javascript" src="//adserver.reklamstore.com/reklamstore.js"></script>
+<!-- ReklamStore kodu bitti - 2-->

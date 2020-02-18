@@ -1,0 +1,5 @@
+#ads.txt appenzell24.ch
+#contact=https://anderthalb.ch/
+
+appnexus.com, 3927, DIRECT
+google.com, pub-8490317736235111, DIRECT, f08c47fec0942fa0

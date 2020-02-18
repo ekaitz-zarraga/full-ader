@@ -1,0 +1,137 @@
+google.com, pub-9917903923447369, DIRECT
+google.com, pub-9402508175196065, DIRECT
+google.com, pub-3846271310706723, RESELLER
+openx.com,538996862,RESELLER,6a698e2ec38604c6
+adingo.jp,11032,DIRECT
+rubiconproject.com,11582,RESELLER,0bfd66d529a55807
+pubmatic.com,117297,RESELLER,5d62403b186f2ace
+ad-generation.jp,2145,RESELLER
+google.com,pub-5629443941074900,RESELLER,f08c47fec0942fa0
+adtech.com,9668,RESELLER
+aolcloud.net,9668,RESELLER
+microad.co.jp,11291,DIRECT
+openx.com,69353,RESELLER
+openx.com,113534,RESELLER
+openx.com,113178,RESELLER
+openx.com,539000000,RESELLER
+ad-stir.com,1757,RESELLER
+rubiconproject.com,14032,RESELLER
+gmossp.jp,2000505,RESELLER
+proparm.jp,1811,RESELLER
+teads.tv, 11737, DIRECT, 15a9c44f6d26cbe1
+teads.tv, 11753, DIRECT, 15a9c44f6d26cbe1
+sharethrough.com, ef626d18, DIRECT, d53b998a7bd4ecd2
+indexexchange.com, 186046, RESELLER
+pubmatic.com, 156557, RESELLER
+spotxchange.com, 212457, RESELLER
+spotx.tv, 212457, RESELLER
+openx.com,539294051,RESELLER,6a698e2ec38604c6
+appvador.com,497,DIRECT
+rubiconproject.com, 13136, RESELLER, 0bfd66d529a55807
+outbrain.com, 00264502ef0e7023fa2f38637f2e09bc6f, DIRECT
+outbrain.com, 00264502ef0e7023fa2f38637f2e09bc6f, RESELLER
+appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
+tremorhub.com, q017o-78mlk, RESELLER, 1a4e959a1b50034a # Premium video demand aka "Telaria"
+teads.tv, 15429, RESELLER, 15a9c44f6d26cbe1 # Premium video demand
+advertising.com, 26154, RESELLER # Premium video demand
+spotxchange.com, 225721, RESELLER # Premium video demand
+Freewheel.tv, 741650, RESELLER # Premium video demand
+rubiconproject.com, 17130, RESELLER, 0bfd66d529a55807 # Premium video demand
+lkqd.net, 450, RESELLER, 59c49fa9598a0117 # Premium video demand
+adtech.com, 9747, Reseller
+openx.com, 537143344, Reseller
+appnexus.com, 1226, Reseller
+indexexchange.com, 175407, Reseller, 50b1c356f2c5c8fc
+pubmatic.com, 156530, Reseller, 5d62403b186f2ace
+openx.com, 540393169, RESELLER, 6a698e2ec38604c6 # Premium video demand
+spotx.tv, 238936, RESELLER, 7842df1d2fe2db34 # Premium video demand
+spotxchange.com, 238936, RESELLER, 7842df1d2fe2db34 # Premium Video Demand
+advertising.com, 28038, RESELLER # Premium Video Demand
+rubiconproject.com, 19668, RESELLER, 0bfd66d529a55807
+ad-generation.jp,10661,RESELLER
+microad.co.jp,11096,RESELLER
+openx.com,539468036,RESELLER
+appnexus.com,3663,RESELLER
+indexexchange.com,187882,DIRECT
+rubiconproject.com, 19252, RESELLER, 0bfd66d529a55807
+pubmatic.com, 157486, RESELLER, 5d62403b186f2ace
+adingo.jp, 20295, RESELLER
+google.com, pub-9402508175196065, DIRECT, f08c47fec0942fa0
+google.com, pub-3846271310706723, DIRECT, f08c47fec0942fa0
+google.com, pub-3846271310706723, RESELLER, f08c47fec0942fa0
+rubiconproject.com, 13136, RESELLER, 0bfd66d529a55807
+openx.com,539294051,RESELLER,6a698e2ec38604c6
+ad-stir.com, 115, RESELLER
+impact-ad.jp,145,RESELLER
+pubmatic.com, 156788, RESELLER, 5d62403b186f2ace
+adingo.jp, 1809, DIRECT
+i-mobile.co.jp,441,RESELLER
+outbrain.com, 0098dd9f41706491afa04c8b6596b3fc45, DIRECT
+outbrain.com, 0098dd9f41706491afa04c8b6596b3fc45, RESELLER
+uliza.jp, 9990149, DIRECT
+pubmatic.com, 122325, RESELLER, 5d62403b186f2ace
+appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
+adtech.com, 9747, RESELLER
+openx.com,537143344,RESELLER
+appnexus.com,1226,RESELLER
+indexexchange.com,175407,RESELLER,50b1c356f2c5c8fc
+pubmatic.com,156530,RESELLER,5d62403b186f2ace
+appnexus.com, 3663, RESELLER
+pubmatic.com,157255,DIRECT,5d62403b186f2ace
+pubmatic.com, 157267, DIRECT, 5d62403b186f2ace
+ad-generation.jp, 9140, DIRECT
+adingo.jp, 19638, DIRECT
+rubiconproject.com, 18506, RESELLER, 0bfd66d529a55807
+openx.com, 540137510, RESELLER, 6a698e2ec38604c6
+indexexchange.com, 187881, DIRECT
+gumgum.com, 13218, DIRECT, ffdef49475d318a9
+33across.com, 0013300001r0t9mAAA, RESELLER
+appnexus.com, 1001, RESELLER, f5ab79cb980f11d1
+appnexus.com, 1942, RESELLER, f5ab79cb980f11d1
+appnexus.com, 2758, RESELLER, f5ab79cb980f11d1
+appnexus.com, 3135, RESELLER, f5ab79cb980f11d1
+appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
+appnexus.com, 10239, RESELLER, f5ab79cb980f11d1
+bidtellect.com, 1407, RESELLER, 1c34aa2d85d45e93
+contextweb.com, 558355, RESELLER
+criteo.com, 109412, DIRECT, 9fac4a4a87c2a44f
+emxdgt.com, 326, RESELLER, 1e1d41537f7cad7f
+google.com, pub-9557089510405422, RESELLER, f08c47fec0942fa0
+google.com, pub-3848273848634341, RESELLER, f08c47fec0942fa0
+lkqd.com, 470, RESELLER, 59c49fa9598a0117
+lkqd.net, 470, RESELLER, 59c49fa9598a0117
+openx.com, 537120563, RESELLER, 6a698e2ec38604c6
+openx.com, 537149485, RESELLER, 6a698e2ec38604c6
+openx.com, 539392223, RESELLER, 6a698e2ec38604c6
+outbrain.com, 01a755b08c8c22b15d46a8b753ab6955d4, RESELLER
+outbrain.com, 01a755b08c8c22b15d46a8b753ab6955d4, DIRECT
+pubmatic.com, 156423, RESELLER, 5d62403b186f2ace
+pubmatic.com, 157897, RESELLER, 5d62403b186f2ace
+rhythmone.com, 78519861, RESELLER
+rhythmone.com, 2439829435, RESELLER, a670c89d4a324e47
+rubiconproject.com, 16414, RESELLER, 0bfd66d529a55807
+spotx.tv, 147949, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 147949, RESELLER, 7842df1d2fe2db34
+indexexchange.com, 189404, RESELLER
+rubiconproject.com,13136,RESELLER,0bfd66d529a55807
+adtdp.com,2292,RESELLER
+as.amanad.adtdp.com,2292,RESELLER
+pubmatic.com, 157141, RESELLER, 5d62403b186f2ace
+indexexchange.com, 189575, RESELLER
+adingo.jp, 23317, RESELLER
+pubmatic.com, 156313, RESELLER, 5d62403b186f2ace
+33across.com, 0010b00002JKF3aAAH, DIRECT, bbea06d9c4d2853c
+gumgum.com, 13318, RESELLER, ffdef49475d318a9
+adtech.com, 12094, RESELLER
+adtech.com, 9993, RESELLER
+advangelists.com, 8d3bba7425e7c98c50f52ca1b52d3735, RESELLER, 60d26397ec060f98
+pubmatic.com, 158136, RESELLER, 5d62403b186f2ace
+openx.com,540762984,RESELLER,6a698e2ec38604c6
+publishers.logicad.jp,JEKN,DIRECT
+aps.amazon.com, 3968, DIRECT
+publishers.logicad.jp,e5VD,DIRECT
+contextweb.com, 562145, RESELLER, 89ff185a4c4e857c
+indexexchange.com, 190856, RESELLER, 50b1c356f2c5c8fc
+pubmatic.com, 158615, RESELLER, 5d62403b186f2ace
+vidazoo.com, 1773068026, RESELLER, b6ada874b4d7d0b2
+facebook.com, 365697644194436, RESELLER, c3e20eee3f780d68

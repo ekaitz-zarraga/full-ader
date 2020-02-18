@@ -1,0 +1,31 @@
+google.com, pub-1738284215641521, DIRECT
+google.com, pub-2186101008500724, DIRECT, f08c47fec0942fa0
+google.com, pub-2116407342356945, DIRECT, f08c47fec0942fa0
+video.unrulymedia.com, UNRX_e321022b-3b0a-4395-ba50-b476399c8c5f, DIRECT				
+video.unrulymedia.com, 1086594, DIRECT				
+rubiconproject.com, 15268, RESELLER				
+indexexchange.com, 182257, RESELLER				
+appnexus.com, 6849, RESELLER				
+contextweb.com, 560138, RESELLER				
+advertising.com, 4058, RESELLER
+surgeprice.com, RdXDihzapXxYLqyzp, DIRECT, # banner, video, native
+sulvo.co, RdXDihzapXxYLqyzp, DIRECT, # banner, video, native
+sulvo.com, RdXDihzapXxYLqyzp, DIRECT, # banner, video, native
+google.com, pub-3831894559014614, DIRECT, f08c47fec0942fa0
+openx.com, 537532642, DIRECT, a698e2ec38604c6
+demand.supply, RdXDihzapXxYLqyzp, DIRECT, # banner, video, native	
+
+# Kiosked ads.txt
+ads.kiosked.com, 11404, DIRECT
+appnexus.com, 2721, DIRECT, f5ab79cb980f11d1
+openx.com, 537142881, DIRECT, 6a698e2ec38604c6
+adtech.com, 9573, DIRECT
+aolcloud.net, 9573, DIRECT
+pubmatic.com, 156195, DIRECT, 5d62403b186f2ace
+sovrn.com, 254001, DIRECT, fafdf38b16bf6b2b
+lijit.com, 254001, DIRECT, fafdf38b16bf6b2b
+criteo.net, 145673, DIRECT
+criteo.net, 138122, DIRECT
+google.com, pub-9042063282075774, DIRECT, f08c47fec0942fa0
+contextweb.com, 558626, DIRECT, 89ff185a4c4e857c
+rubiconproject.com, 17558, DIRECT, 0bfd66d529a55807

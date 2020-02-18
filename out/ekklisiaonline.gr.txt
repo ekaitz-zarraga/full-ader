@@ -1,0 +1,34 @@
+#DIRECT
+
+google.com, pub-9082644509431443, DIRECT, f08c47fec0942fa0
+rubiconproject.com, 17974, DIRECT, 0bfd66d529a55807
+
+#RESELLER
+
+google.com, pub-2697679518515886, RESELLER, f08c47fec0942fa0
+
+EMXDGT.com, 449, DIRECT, 1e1d41537f7cad7f
+Appnexus.com, 1356, RESELLER, f5ab79cb980f11d1
+Google.com, pub-5995202563537249, RESELLER, f08c47fec0942fa0
+appnexus.com, 11111, DIRECT
+openx.com, 540842606, RESELLER, 6a698e2ec38604c6
+appnexus.com, 3153, RESELLER, f5ab79cb980f11d1
+adtech.com, 12069, RESELLER
+connectad.io, 73, DIRECT
+districtm.io, 100750, DIRECT
+appnexus.com, 1908, RESELLER, f5ab79cb980f11d1
+google.com, pub-3960095709930134,RESELLER, f08c47fec0942fa0
+pubmatic.com, 156077, RESELLER, 5d62403b186f2ace
+openx.com, 537145117, RESELLER, a698e2ec38604c6
+adform.com, 768, RESELLER
+contextweb.com, 560489, RESELLER, 89ff185a4c4e857c
+sovrn.com, 232863, DIRECT, fafdf38b16bf6b2b
+lijit.com, 232863, DIRECT, fafdf38b16bf6b2b
+gumgum.com, 11645, RESELLER, ffdef49475d318a9
+openx.com, 537120960, RESELLER
+openx.com, 83499, RESELLER
+openx.com, 538959099, RESELLER
+pubmatic.com, 137711, RESELLER
+pubmatic.com, 156212, RESELLER
+pubmatic.com, 62483, RESELLER
+contextweb.com, 558511, RESELLER

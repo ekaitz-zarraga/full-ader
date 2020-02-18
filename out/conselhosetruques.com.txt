@@ -1,0 +1,73 @@
+#own
+google.com, pub-2252637216916313, DIRECT, f08c47fec0942fa0
+google.com, pub-5722546111501548, DIRECT, f08c47fec0942fa0
+
+#HB-EB-PB
+openx.com, 540717735, DIRECT, 6a698e2ec38604c6
+openx.com, 540911753, DIRECT, 6a698e2ec38604c6
+pubmatic.com, 158243, DIRECT, 5d62403b186f2ace
+pubmatic.com, 156562, DIRECT, 5d62403b186f2ace
+indexexchange.com, 185733, DIRECT
+aps.amazon.com,7ea13b6c-a537-40db-9733-1fa03cca9d58,DIRECT
+pubmatic.com,157150,RESELLER,5d62403b186f2ace
+openx.com,540191398,RESELLER,6a698e2ec38604c6
+rubiconproject.com,18020,RESELLER,0bfd66d529a55807
+appnexus.com,1908,RESELLER,f5ab79cb980f11d1
+adtech.com,12068,RESELLER,e1a5b5b6e3255540
+districtm.io,100962,RESELLER,3fd707be9c4527c3
+appnexus.com,3663,RESELLER,f5ab79cb980f11d1
+rhythmone.com, 2974960557, DIRECT, a670c89d4a324e47
+rhythmone.com, 1692509878, DIRECT, a670c89d4a324e47
+rhythmone.com,1654642120,RESELLER,a670c89d4a324e47
+appnexus.com, 8811, DIRECT
+improvedigital.com, 1278, DIRECT
+rubiconproject.com, 21196, DIRECT, 0bfd66d529a55807
+rubiconproject.com, 21198, DIRECT, 0bfd66d529a55807 #EB
+sharethrough.com, 704b9b9d, DIRECT, d53b998a7bd4ecd2
+indexexchange.com, 186046, RESELLER
+spotxchange.com, 212457, RESELLER
+spotx.tv, 212457, RESELLER
+pubmatic.com, 156557, RESELLER
+rubiconproject.com, 18694, RESELLER, 0bfd66d529a55807
+openx.com, 540274407, RESELLER, 6a698e2ec38604c6
+
+#taboola
+taboola.com,1158850,DIRECT,c228e6794e811952
+freewheel.tv, 799841, RESELLER
+freewheel.tv, 799921, RESELLER
+aol.com, 53392, RESELLER
+spotx.tv,71451,RESELLER
+spotxchange.com, 71451, RESELLER
+advertising.com, 8603, RESELLER
+advertising.com, 3531, RESELLER
+pubmatic.com, 156307, RESELLER, 5d62403b186f2ace
+appnexus.com, 3364, RESELLER
+Indexexchange.com, 183756, RESELLER
+contextweb.com, 560382, RESELLER
+openx.com, 539154393, RESELLER
+tremorhub.com, z87wm, RESELLER, 1a4e959a1b50034a
+rubiconproject.com, 16698, RESELLER, 0bfd66d529a55807
+fyber.com, ad9de41d28d494354b23133f26f83122, RESELLER
+fyber.com, 1a12a7e3f84fe560ccf95a3a73043abb, RESELLER
+rhythmone.com, 1166984029, RESELLER, a670c89d4a324e47
+taboola.com, 1158850, DIRECT, c228e6794e811952
+lkqd.net, 457, RESELLER, 59c49fa9598a0117
+rubiconproject.com, 21196, DIRECT, 0bfd66d529a55807
+rubiconproject.com, 21198, DIRECT, 0bfd66d529a55807 #EB
+smartadserver.com, 3563, RESELLER
+beachfront.com, 13749, RESELLER, e2541279e8e2ca4d
+advertising.com, 28458, RESELLER
+admanmedia.com, 556, RESELLER
+
+#avantis
+avantisvideo.com, 7883, DIRECT
+spotxchange.com, 165877, RESELLER, 7842df1d2fe2db34
+spotx.tv, 165877, RESELLER, 7842df1d2fe2db34
+Advertising.com, 23598, RESELLER
+Appnexus.com, 10062, DIRECT, f5ab79cb980f11d1
+Appnexus.com, 3391, DIRECT, f5ab79cb980f11d1
+openx.com, 538911542, DIRECT, 6a698e2ec38604c6
+openx.com, 539955014, DIRECT, 6a698e2ec38604c6
+rubiconproject.com, 19002, DIRECT, 0bfd66d529a55807
+freewheel.tv, 970641, DIRECT
+freewheel.tv, 972881, RESELLER

@@ -1,0 +1,22 @@
+google.com,pub-8369562491381623, DIRECT
+google.com,pub-5601224529449842, DIRECT
+pubmatic.com, 106059, DIRECT
+rubiconproject.com, 12940, DIRECT
+freewheel.tv, 10024, DIRECT
+Loopme.com, 6684, DIRECT, 6c8d5f95897a5a3b
+openx.com, 539927273, DIRECT, 6a698e2ec38604c6
+indexexchange.com, 188054, DIRECT
+pubmatic.com, 157360, DIRECT, 5d62403b186f2ace
+adyoulike.com, b55fb477b75887e1d15293d4ee484a3f, DIRECT, 4ad745ead2958bf7
+vi.ai, 464088727192492, DIRECT
+smartadserver.com,2776,RESELLER
+rubiconproject.com, 19906, DIRECT, 0bfd66d529a55807
+freewheel.tv, 745362, RESELLER
+freewheel.tv, 745378, RESELLER
+spotxchange.com, 230037, RESELLER, 7842df1d2fe2db34
+spotx.tv, 230037, RESELLER, 7842df1d2fe2db34
+tremorhub.com, ewut4-b6zwq, RESELLER, 1a4e959a1b50034a
+appnexus.com, 9744, DIRECT
+
+google.com, pub-4050098466880863, DIRECT, f08c47fec0942fa0
+google.com, pub-4977083696000885, DIRECT, f08c47fec0942fa0

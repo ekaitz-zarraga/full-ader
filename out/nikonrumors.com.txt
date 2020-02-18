@@ -1,0 +1,30 @@
+google.com, pub-2246852236957917, DIRECT, f08c47fec0942fa0
+
+rubiconproject.com, 13380, RESELLER, 0bfd66d529a55807
+indexexchange.com, 185073, RESELLER, 50b1c356f2c5c8fc
+openx.com, 537133236, RESELLER, 6a698e2ec38604c6
+google.com, pub-6650322601660058, RESELLER, f08c47fec0942fa0
+adtech.com, 10383, RESELLER
+aolcloud.net, 10383, RESELLER
+sovrn.com, 2870, RESELLER
+appnexus.com, 2797, DIRECT
+taboola.com, 1003147, RESELLER, c228e6794e811952 #taboola
+adsnative.com, 267, DIRECT #polymorph
+getpolymorph.com, 267, DIRECT #polymorph
+Insticator.com,05a7b2ff-a627-45e8-bd6b-68f53e68c7bf,DIRECT #insticator
+pubmatic.com,95054,RESELLER,5d62403b186f2ace #insticator
+sonobi.com,e315a43aa9,RESELLER #insticator
+rhythmone.com,136898039,RESELLER,a670c89d4a324e47 #insticator
+EMXDGT.com,22,RESELLER,1e1d41537f7cad7f #insticator
+contextweb.com,561664,RESELLER,89ff185a4c4e857 #insticator
+pubmatic.com,95054,RESELLER,5d62403b186f2ace #insticator
+
+aps.amazon.com,20756398-8506-4a8f-a820-b58b1c8b56c8,DIRECT
+pubmatic.com,157150,RESELLER,5d62403b186f2ace
+openx.com,540191398,RESELLER,6a698e2ec38604c6
+rubiconproject.com,18020,RESELLER,0bfd66d529a55807
+appnexus.com,1908,RESELLER,f5ab79cb980f11d1
+adtech.com,12068,RESELLER,e1a5b5b6e3255540
+ad-generation.jp,12474,RESELLER
+districtm.io,100962,RESELLER,3fd707be9c4527c3
+rhythmone.com,1654642120,RESELLER,a670c89d4a324e47

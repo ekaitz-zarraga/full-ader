@@ -1,0 +1,41 @@
+#Record Format-Exchange,Seller Account ID,Type of Account (Direct or Reseller),TAG ID (optional)
+
+#start TimesOfIndia
+
+#Ads.txt BCCL
+#Appnexus
+appnexus.com, 2539, DIRECT
+#Adex
+google.com, pub-2230723027927371, DIRECT, f08c47fec0942fa0
+#Adsense
+google.com, pub-2230723027927371, DIRECT
+#Admob
+google.com, pub-6132384124396613, DIRECT
+#BrealTime
+Appnexus.com, 1356, DIRECT, f5ab79cb980f11d1
+EMXDGT.com, 262, DIRECT, 1e1d41537f7cad7f
+#Index Exchange
+indexexchange.com, 185647, DIRECT
+indexexchange.com, 185648, DIRECT
+#Pubmatic
+pubmatic.com, 23105, DIRECT
+#Rubicon
+rubiconproject.com, 4642, DIRECT, 0bfd66d529a55807
+#Undertone
+undertone.com, 1419, DIRECT
+appnexus.com, 2234, RESELLER 
+openx.com, 537153564, RESELLER, 6a698e2ec38604c6
+google.com, pub-8048660860005691, DIRECT, f08c47fec0942fa0
+google.com, pub-8048660860005691, RESELLER, f08c47fec0942fa0
+google.com, pub-4771941893327138, DIRECT, f08c47fec0942fa0
+#Start Affinity
+google.com, pub-6314168058065736, RESELLER
+adtech.com, 5359, RESELLER
+pubmatic.com, 32987, RESELLER
+google.com, pub-1425207524276770, RESELLER, f08c47fec0942fa0
+#End Affinity
+#Start AdTech
+adtech.com, 11575, DIRECT
+#End AdTech
+
+#end TimesOfIndia

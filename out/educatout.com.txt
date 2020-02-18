@@ -1,0 +1,45 @@
+#Ads.txt Rogers Digital Media - v4.4 - AdUtility Version
+#Rogers
+google.com, pub-0942427266003794, RESELLER, f08c47fec0942fa0 #Rogers ADX account
+google.com, pub-7337832052946939, RESELLER, f08c47fec0942fa0 #Rogers IX Wrapper Account for Header Tag and Video
+appnexus.com, 1321, RESELLER, 50b1c356f2c5c8fc #Rogers Appnexus account inside the Header Tag
+facebook.com, 478055822535097, RESELLER, 50b1c356f2c5c8fc #Rogers Facebook account inside the Header Tag
+indexexchange.com, 181202, RESELLER, 50b1c356f2c5c8fc #Rogers CPAX Account - Waterfall Config
+indexexchange.com, 182960, RESELLER, 50b1c356f2c5c8fc #Rogers TAGS Account - Waterfall Config
+indexexchange.com, 184315, RESELLER, 50b1c356f2c5c8fc #Rogers IX EBDA Account
+indexexchange.com, 184601, RESELLER, 50b1c356f2c5c8fc #Rogers IX EBDA Account
+#
+google.com, pub-9685734445476814, RESELLER, f08c47fec0942fa0
+aps.amazon.com, 3719, RESELLER
+appnexus.com, 1908, RESELLER, f5ab79cb980f11d1
+appnexus.com, 7944, RESELLER, f5ab79cb980f11d1
+districtm.io, 100127, RESELLER
+openx.com, 539462051, RESELLER, 6a698e2ec38604c6 #EBDA
+openx.com, 539708628, RESELLER, 6a698e2ec38604c6 #Index
+openx.com, 540302365, RESELLER, 6a698e2ec38604c6 #A9
+#
+#slimcut
+slimcut.media,  15, RESELLER, fe119a6acfd19070
+advertising.com, 22118, RESELLER
+appnexus.com, 2579, RESELLER #native
+freeskreen.com, 15, RESELLER, fe119a6acfd19070
+indexexchange.com, 184088, RESELLER, 50b1c356f2c5c8fc
+quantum-advertising.com, 3247, RESELLER
+quantum-advertising.com, 3159, RESELLER
+quantum-advertising.com, 3198, RESELLER
+smartadserver.com, 1772, RESELLER
+tremorhub.com, slimcut-3xdm9, RESELLER, 1a4e959a1b50034a
+tremorhub.com, zatbg-9d8bu,   RESELLER, 1a4e959a1b50034a
+#
+#liveintent
+liveintent.com, 16214, RESELLER
+liveintent.com, 16219, RESELLER
+liveintent.com, 16226, RESELLER
+liveintent.com, 16233, RESELLER
+liveintent.com, 16235, RESELLER
+liveintent.com, 16242, RESELLER
+liveintent.com, 16245, RESELLER
+#
+#adswizz
+adswizz.com, rogers, RESELLER
+google.com, pub-8354032316006531, DIRECT, f08c47fec0942fa0

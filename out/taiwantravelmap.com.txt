@@ -1,0 +1,9 @@
+#Clickforce
+clickforce.com.tw,647, DIRECT
+google.com, pub-4485239425924787, RESELLER, f08c47fec0942fa0
+google.com, pub-4126554779393986, RESELLER, f08c47fec0942fa0
+ucfunnel.com, par-D77BD382D27662DFBB6A2A9EA43EBB, RESELLER
+aralego.com, par-D77BD382D27662DFBB6A2A9EA43EBB, RESELLER
+
+#SUBDOMAINS
+subdomain=imreadygo.com

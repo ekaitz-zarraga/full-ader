@@ -1,0 +1,59 @@
+google.com, pub-9590475550419649, DIRECT
+indexexchange.com, 183549, DIRECT
+rubiconproject.com, 13708, DIRECT, 0bfd66d529a55807
+openx.com, 537119862, DIRECT, 6a698e2ec38604c6
+amazon-adsystem.com, 3355, DIRECT
+adtech.com, 10062, DIRECT
+aolcloud.net, 10062, DIRECT
+conversantmedia.com, 41132, DIRECT
+openx.com, 540031703, RESELLER, 6a698e2ec38604c6 #conversant
+appnexus.com, 3781, DIRECT, f5ab79cb980f11d1
+
+#Sovrn
+sovrn.com, 237742, DIRECT, fafdf38b16bf6b2b
+lijit.com, 237742, DIRECT, fafdf38b16bf6b2b
+lijit.com, 237742-eb, DIRECT, fafdf38b16bf6b2b
+appnexus.com, 1360, RESELLER, f5ab79cb980f11d1
+gumgum.com, 11645, RESELLER, ffdef49475d318a9
+openx.com, 538959099, RESELLER, 6a698e2ec38604c6
+openx.com, 539924617, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 137711, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156212, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156700, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 17960, RESELLER, 0bfd66d529a55807
+
+#EBDA
+rubiconproject.com, 19556, DIRECT, 0bfd66d529a55807
+indexexchange.com, 188469, DIRECT, 50b1c356f2c5c8fc
+openx.com, 540158405, DIRECT, 6a698e2ec38604c6
+
+#DistrictM
+appnexus.com, 1908, RESELLER, f5ab79cb980f11d1
+districtm.io, 100721, DIRECT
+
+#Distroscale
+distroscale.com, 325679272, DIRECT
+advertising.com, 10152, DIRECT
+appnexus.com, 7259, DIRECT
+google.com, pub-3851171199385532, DIRECT, f08c47fec0942fa0
+openx.com, 537139075, DIRECT, 6a698e2ec38604c6
+rubiconproject.com, 16578, DIRECT, 0bfd66d529a55807
+spotxchange.com,119003,DIRECT,7842df1d2fe2db34
+spotx.tv,119003,DIRECT,7842df1d2fe2db34
+tremorhub.com, 2g9h1, DIRECT, 1a4e959a1b50034a
+pubmatic.com, 158001, DIRECT, 5d62403b186f2ace
+
+#APS
+aps.amazon.com,c8b7d244-cdfc-48df-8b4a-98e8c4fadc6a,DIRECT
+pubmatic.com,157150,RESELLER,5d62403b186f2ace
+openx.com,540191398,RESELLER,6a698e2ec38604c6
+rubiconproject.com,18020,RESELLER,0bfd66d529a55807
+appnexus.com,1908,RESELLER,f5ab79cb980f11d1
+adtech.com,12068,RESELLER,e1a5b5b6e3255540
+ad-generation.jp,12474,RESELLER
+districtm.io,100962,RESELLER,3fd707be9c4527c3
+rhythmone.com,1654642120,RESELLER,a670c89d4a324e47
+
+#Triplelift
+triplelift.com, 7624, DIRECT, 6c33edb13117fd86
+appnexus.com, 1314, RESELLER, f5ab79cb980f11d1

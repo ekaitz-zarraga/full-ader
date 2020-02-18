@@ -1,0 +1,35 @@
+smartadserver.com,1962,RESELLER
+indexexchange.com,179394,RESELLER
+pulsepoint.com,560288,RESELLER
+pubmatic.com,156439,RESELLER
+rubiconproject.com,16114,RESELLER
+openx.com,537149888,RESELLER,a698e2ec38604c6
+Criteo.com, 94500, DIRECT
+google.com, pub-8707001123280631, RESELLER, f08c47fec0942fa0
+teads.tv, 17255, DIRECT, 15a9c44f6d26cbe1
+adtech.com, 11611, DIRECT #Oath
+advertising.com, 28123, DIRECT #Oath
+rubiconproject.com, 20228, DIRECT, 0bfd66d529a55807 # Pixelwolf
+google.com, pub-6484389103411752, DIRECT, f08c47fec0942fa0
+taboola.com,1106593,DIRECT,c228e6794e811952
+spotx.tv,71451,RESELLER
+spotxchange.com, 71451, RESELLER
+advertising.com, 8603, RESELLER
+pubmatic.com, 156307, RESELLER, 5d62403b186f2ace
+appnexus.com, 3364, RESELLER
+Indexexchange.com, 183756, RESELLER
+contextweb.com, 560382, RESELLER
+openx.com, 539154393, RESELLER
+tremorhub.com, z87wm, RESELLER, 1a4e959a1b50034a
+rubiconproject.com, 16698, RESELLER, 0bfd66d529a55807
+freewheel.tv, 799841, RESELLER
+freewheel.tv, 799921, RESELLER
+aol.com, 53392, RESELLER
+rhythmone.com, 1166984029, RESELLER, a670c89d4a324e47
+#BeetAds
+google.com, pub-4273737718115653, RESELLER, f08c47fec0942fa0
+adtech.com, 11691, RESELLER #Verizon
+appnexus.com, 11066, RESELLER, f5ab79cb980f11d1
+rtbhouse.com, mYXFnXLGiah0qhyXFTu3, RESELLER
+criteo.com, 186466, RESELLER
+criteo.com, 184307, RESELLER

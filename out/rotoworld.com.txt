@@ -1,0 +1,29 @@
+#ads.txt  nbcuniversal
+
+taboola.com, 1009459, DIRECT
+freewheel.tv, 169843, RESELLER
+freewheel.tv, 169843, DIRECT
+
+google.com, pub-5672557457834454, DIRECT, f08c47fec0942fa0
+google.com, pub-2777781493894567, DIRECT, f08c47fec0942fa0
+google.com, pub-7550777043960671, DIRECT, f08c47fec0942fa0
+spotx.tv, 111853, DIRECT
+spotxchange.com, 111853, DIRECT
+kargo.com, 136, DIRECT�
+indexexchange.com, 185796, DIRECT
+indexexchange.com, 184081, RESELLER
+trustx.org, 50, DIRECT
+rubiconproject.com, 18288, RESELLER, 0bfd66d529a55807
+google.com, pub-5405132603504384, RESELLER, f08c47fec0942fa0
+aps.amazon.com,3219, DIRECT #display
+Appnexus.com, 9910, DIRECT
+indexexchange.com, 185067, DIRECT  
+contextweb.com, 562001, RESELLER, 89ff185a4c4e857c
+google.com, pub-3413754117826875, DIRECT, f08c47fec0942fa0
+google.com, pub-1155772220135153, DIRECT
+spotx.tv, 108933, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 108933, RESELLER, 7842df1d2fe2db34
+openx.com, 539523154, RESELLER, 6a698e2ec38604c6
+improvedigital.com, 185, RESELLER
+appnexus.com, 7118, Reseller
+

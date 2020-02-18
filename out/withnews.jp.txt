@@ -1,0 +1,50 @@
+#Ads.txt file for withnews.jp :
+
+ad-generation.jp, 2145, RESELLER
+adtech.com, 9670, RESELLER
+adtech.com, 9691, DIRECT 
+advertising.com, 14558, RESELLER
+aolcloud.net, 9670, RESELLER
+aolcloud.net, 9691, DIRECT 
+appnexus.com, 6849, RESELLER
+appnexus.com, 7702, RESELLER
+google.com, pub-4094152962392845, RESELLER
+google.com, pub-7301355741158821, DIRECT, f08c47fec0942fa0 
+google.com, pub-7391176573988274, RESELLER, f08c47fec0942fa0
+impact-ad.jp, 2090, DIRECT
+indexexchange.com, 182257, RESELLER
+openx.com, 128293, RESELLER
+openx.com, 128833, RESELLER
+openx.com, 537101855, RESELLER, 6a698e2ec38604c6
+openx.com, 537119985, RESELLER
+openx.com, 539824105, DIRECT, 6a698e2ec38604c6
+rubiconproject.com, 14486, RESELLER
+rubiconproject.com, 15268, RESELLER
+rubiconproject.com, 17492, DIRECT, 0bfd66d529a55807
+teads.tv, 10508, DIRECT, 15a9c44f6d26cbe1
+teads.tv, 5701, DIRECT, 15a9c44f6d26cbe1
+video.unrulymedia.com, 989918, DIRECT
+video.unrulymedia.com, UNRX_10865d4a-78b6-40e8-9c48-cbff0de80f04, DIRECT
+outbrain.com, 00a08dce503c339cdc30004ec1ac8b3f63, DIRECT
+outbrain.com, 00a08dce503c339cdc30004ec1ac8b3f63, RESELLER
+appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
+tremorhub.com, q017o-78mlk, RESELLER, 1a4e959a1b50034a # Premium video demand aka "Telaria"
+teads.tv, 15429, RESELLER, 15a9c44f6d26cbe1 # Premium video demand
+advertising.com, 26154, RESELLER # Premium video demand
+spotxchange.com, 225721, RESELLER # Premium video demand
+Freewheel.tv, 741650, RESELLER # Premium video demand
+indexexchange.com, 188915, DIRECT
+outbrain.com,00553477d16e8a3543cfe9381e79c76e35,direct
+rubiconproject.com,17130,reseller,0bfd66d529a55807
+lkqd.net,450,reseller,59c49fa9598a0117
+openx.com,540393169,reseller,6a698e2ec38604c6
+spotx.tv,238936,reseller,7842df1d2fe2db34
+spotxchange.com,238936,reseller,7842df1d2fe2db34
+advertising.com,28038,reseller
+rubiconproject.com,19668,reseller,0bfd66d529a55807
+contextweb.com, 562145, RESELLER, 89ff185a4c4e857c # Premium Video Demand
+indexexchange.com, 190856, RESELLER, 50b1c356f2c5c8fc # Premium Video Demand
+pubmatic.com, 158615, RESELLER, 5d62403b186f2ace # Premium video & display demand
+vidazoo.com, 1773068026, RESELLER, b6ada874b4d7d0b2 # Premium Video Demand
+
+#Last modified: 2019.12.26

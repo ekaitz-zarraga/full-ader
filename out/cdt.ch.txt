@@ -1,0 +1,39 @@
+#from IAB Tech Lab
+#ads.txt GruppoCDT
+#contact=info@mediatimarketing.ch
+#contact=https://www.mediatimarketing.ch
+
+#Teads
+teads.tv, 12388, DIRECT, 15a9c44f6d26cbe1
+teads.tv, 8203, DIRECT, 15a9c44f6d26cbe1
+
+#Plista
+plista.com, 235949, DIRECT
+appnexus.com, 3563, DIRECT
+appnexus.com, 7790, DIRECT
+
+#EyeonX
+adtech.com, 1565, DIRECT
+aolcloud.net, 1565, DIRECT
+yieldlab.net, 521617, DIRECT
+
+#AppNexus (Goldbach)
+AppNexus.com, 7676, DIRECT
+
+#Admeira
+improvedigital.com, 909, RESELLER 
+improvedigital.com, 707, DIRECT
+appnexus.com, 9178, RESELLER
+
+#contact=https://audienzz.ch/
+appnexus.com, 3927, DIRECT
+adtech.com, 1135.1, DIRECT
+aolcloud.net, 1135.1, DIRECT
+teads.tv, 9973, DIRECT, 15a9c44f6d26cbe1
+teads.tv, 2404, DIRECT, 15a9c44f6d26cbe1
+google.com, pub-8490317736235111, DIRECT, f08c47fec0942fa0
+
+#Admeira
+google.com, pub-7452201096415972, RESELLER, f08c47fec0942fa0
+google.com, pub-7554065371255327, RESELLER, f08c47fec0942fa0
+

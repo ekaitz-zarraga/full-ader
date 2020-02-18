@@ -1,0 +1,116 @@
+google.com, pub-5778663704478103, DIRECT, f08c47fec0942fa0
+google.com, pub-1943073806196463, DIRECT, f08c47fec0942fa0
+google.com, pub-8746219894182075, DIRECT, f08c47fec0942fa0
+google.com, pub-6904764713747144, DIRECT, f08c47fec0942fa0
+google.com, pub-3644202332626688, DIRECT, f08c47fec0942fa0
+google.com, pub-7733626117287363, RESELLER, f08c47fec0942fa0
+google.com, pub-1965383259143495, RESELLER, f08c47fec0942fa0
+
+mediawayss.com, 336, DIRECT
+yandex.ru, 132541, DIRECT
+
+adform.com, 2096, RESELLER
+adtech.com, 11095, RESELLER
+appnexus.com, 1371, RESELLER, f5ab79cb980f11d1
+appnexus.com, 1908, RESELLER
+appnexus.com, 2081, RESELLER, f5ab79cb980f11d1
+appnexus.com, 3153, RESELLER, f5ab79cb980f11d1
+appnexus.com, 7944, RESELLER
+appnexus.com, 8906, RESELLER
+contextweb.com, 558750, RESELLER, 89ff185a4c4e857c
+coxmt.com, 2000067907202, RESELLER
+criteo.com, 4763, RESELLER
+districtm.io, 100750, RESELLER
+districtm.io, 100899, RESELLER
+google.com, pub-3182858089993196, RESELLER
+google.com, pub-3960095709930134, RESELLER, f08c47fec0942fa0
+google.com, pub-6818616807676795, RESELLER
+google.com, pub-9685734445476814, RESELLER, f08c47fec0942fa0
+ibillboard.com, 34182, DIRECT
+indexexchange.com, 175407, RESELLER
+indexexchange.com, 180179, RESELLER, 50b1c356f2c5c8fc
+indexexchange.com, 183592, RESELLER, 50b1c356f2c5c8fc
+indexexchange.com, 186320, RESELLER
+openx.com, 537143344, RESELLER
+openx.com, 537151480, RESELLER
+pubmatic.com, 156865, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 16854, RESELLER
+smartadserver.com, 1590, RESELLER
+stroeer.com, 14214, DIRECT
+stroeer.com, 17129, DIRECT
+
+#Ads.txt mo.media 2019-11-07
+
+33across.com,0013300001r0t9mAAA,RESELLER,
+adagio.io, 1015, DIRECT
+adform.com, 768, RESELLER
+admixer.net, 0989be46-247d-44ef-87ea-0c1ae17ebb31, RESELLER
+appnexus.com, 1908, RESELLER, f5ab79cb980f11d1
+appnexus.com, 3605, RESELLER, f5ab79cb980f11d1
+appnexus.com, 3703, RESELLER, f5ab79cb980f11d1
+appnexus.com, 8327, RESELLER, f5ab79cb980f11d1
+appnexus.com, 8332, RESELLER, f5ab79cb980f11d1
+appnexus.com, 8333, RESELLER, f5ab79cb980f11d1
+appnexus.com, 8334, RESELLER, f5ab79cb980f11d1
+betweendigital.com, 35288, RESELLER
+betweendigital.com, 36426, RESELLER
+betweendigital.com, 41430, RESELLER
+bidtellect.com,1407,RESELLER,1c34aa2d85d45e93
+buzzoola.com, 13112, DIRECT
+connectad.io, 73, DIRECT
+contextweb.com, 560288, RESELLER
+contextweb.com, 560288, RESELLER, 89ff185a4c4e857c
+districtm.io, 101639, RESELLER
+districtm.io, 101760, RESELLER, 3fd707be9c4527c3
+e-planning.net,d6e04fe7533a7d3b,DIRECT
+emxdgt.com,326,RESELLER,1e1d41537f7cad7f
+freewheel.tv, 286994, RESELLER
+freewheel.tv, 291505, RESELLER
+google.com, pub-1965383259143495, RESELLER, f08c47fec0942fa0 #for dfp pixels
+google.com, pub-2318710712278558, RESELLER, f08c47fec0942fa0
+google.com, pub-5289985627731322, RESELLER, f08c47fec0942fa0
+google.com, pub-6864402317197092, RESELLER, f08c47fec0942fa0
+google.com, pub-8376169300140203, RESELLER, f08c47fec0942fa0
+groundtruth.com, 107, RESELLER, 81cbf0a75a5e0e9a
+ibillboard.com, 16190, DIRECT
+improvedigital.com, 1033, RESELLER
+indexexchange.com, 179394, RESELLER
+indexexchange.com, 186329, RESELLER
+indexexchange.com, 190340, RESELLER
+loopme.com, 5679, RESELLER, 6c8d5f95897a5a3b
+loopme.com, s-2411, RESELLER, 6c8d5f95897a5a3b
+mox.tv, 177, DIRECT
+openx.com, 537149888, RESELLER, 6a698e2ec38604c6
+openx.com, 540447821, RESELLER, 6a698e2ec38604c6
+openx.com,537149888, RESELLER, a698e2ec38604c6
+otm-r.com, 23, RESELLER
+pubmatic.com, 154037, RESELLER
+pubmatic.com, 156030, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156439, RESELLER
+pubmatic.com, 158395, RESELLER, 5d62403b186f2ace
+rhythmone.com, 1166984029, RESELLER, a670c89d4a324e47
+rhythmone.com,2439829435,RESELLER,a670c89d4a324e47
+rhythmone.com,78519861,RESELLER,
+rubiconproject.com, 11740, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 13132, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 16114, RESELLER
+rubiconproject.com, 16114, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 19724, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 20752, RESELLER, 0bfd66d529a55807
+smartadserver.com, 1097, DIRECT
+smartadserver.com, 1097, RESELLER
+smartadserver.com, 3261, RESELLER
+smartadserver.com, 3361, RESELLER
+sovrn.com, 257611, RESELLER, fafdf38b16bf6b2b
+sovrn.com, 257611,RESELLER, fafdf38b16bf6b2b
+stroeer.com,  17463, DIRECT
+teads.tv, 17323, RESELLER, 15a9c44f6d26cbe1
+themoneytizer
+tremorhub.com, z87wm, RESELLER, 1a4e959a1b50034a
+xad.com, 958, RESELLER, 81cbf0a75a5e0e9a
+
+google.com, pub-8327928897197923, RESELLER, f08c47fec0942fa0
+google.com, pub-4262827307746270, RESELLER, f08c47fec0942fa0
+google.com, pub-1735744167578327, RESELLER, f08c47fec0942fa0
+google.com, pub-5739535157675470, RESELLER, f08c47fec0942fa0
+rubiconproject.com, 20142, DIRECT, 0bfd66d529a55807 # EB

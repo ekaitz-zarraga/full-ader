@@ -1,0 +1,55 @@
+#MovimentoCountry
+google.com, pub-9190402575749416, DIRECT, f08c47fec0942fa0
+
+#Uai
+google.com, pub-8007001547012283, DIRECT, f08c47fec0942fa0
+google.com, pub-4269459525191069, DIRECT, f08c47fec0942fa0
+google.com, pub-8803917352398847, DIRECT, f08c47fec0942fa0
+google.com, pub-3346444400754120, DIRECT, f08c47fec0942fa0
+google.com, pub-8965259536670465, DIRECT
+rubiconproject.com, 14338, DIRECT, 0bfd66d529a55807
+rubiconproject.com, 18756, DIRECT, 0bfd66d529a55807
+appnexus.com, 7926, DIRECT, f5ab79cb980f11d1
+google.com, pub-1987748223311169, RESELLER, f08c47fec0942fa0
+
+
+#Taboola
+taboola.com,1076156,DIRECT,c228e6794e811952
+spotx.tv,71451,RESELLER
+spotxchange.com, 71451, RESELLER
+advertising.com, 8603, RESELLER
+pubmatic.com, 156307, RESELLER, 5d62403b186f2ace
+appnexus.com, 3364, RESELLER
+Indexexchange.com, 183756, RESELLER
+contextweb.com, 560382, RESELLER
+openx.com, 539154393, RESELLER
+tremorhub.com, z87wm, RESELLER, 1a4e959a1b50034a
+rubiconproject.com, 16698, RESELLER, 0bfd66d529a55807
+freewheel.tv, 799841, RESELLER
+freewheel.tv, 799921, RESELLER
+aol.com, 53392, RESELLER
+rhythmone.com, 1166984029, RESELLER, a670c89d4a324e47
+smartadserver.com, 3563, RESELLER
+beachfront.com, 13749, RESELLER, e2541279e8e2ca4d
+advertising.com, 28458, RESELLER
+admanmedia.com, 556, RESELLER
+smartadserver.com, 3563, RESELLER
+beachfront.com, 13749, RESELLER, e2541279e8e2ca4d
+advertising.com, 28458, RESELLER
+admanmedia.com, 556, RESELLER
+
+#Grumft
+google.com, pub-8327928897197923, RESELLER, f08c47fec0942fa0
+google.com, pub-4262827307746270, RESELLER, f08c47fec0942fa0
+google.com, pub-1735744167578327, RESELLER, f08c47fec0942fa0
+google.com, pub-5739535157675470, RESELLER, f08c47fec0942fa0
+rubiconproject.com, 20142, RESELLER, 0bfd66d529a55807 # EB
+
+#NOBETA
+google.com, pub-7782545053471182, RESELLER, f08c47fec0942fa0 #adxnobeta
+google.com, pub-6305837203541982, RESELLER, f08c47fec0942fa0 #adsensenobeta
+advertising.com, 27019, RESELLER #VerizonVideonobeta
+adtech.com, 11471, RESELLER #VerizonDisplaynobeta
+rubiconproject.com, 20572, RESELLER, 0bfd66d529a55807 #rubiconnobeta 
+
+

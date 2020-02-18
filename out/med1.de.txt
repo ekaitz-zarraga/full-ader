@@ -1,0 +1,70 @@
+#GoogleAdx
+google.com, pub-9668446669247844, DIRECT, f08c47fec0942fa0
+#GoogleAdSense
+google.com, pub-9094912512109577, DIRECT, f08c47fec0942fa0
+#EB OpenX
+openx.com, 539957196, DIRECT
+#HB OpenX
+openx.com, 540228775, DIRECT,  6a698e2ec38604c6
+#EB IndexExchange
+indexexchange.com, 187513, DIRECT
+#HB IndexExchange
+indexexchange.com, 187512, DIRECT
+#HB Appnexus
+appnexus.com, 10088, DIRECT
+#HB Improve Digital
+improvedigital.com, 1199,  DIRECT
+#NanoInteractive
+appnexus.com, 3623, RESELLER
+improvedigital.com, 1017, RESELLER
+#AdYouLike
+adyoulike.com, f96fc7227551c240138fed02020641de, DIRECT, 4ad745ead2958bf7
+#SpotX
+spotxchange.com, 217770, DIRECT, 7842df1d2fe2db34
+spotx.tv, 217770, DIRECT, 7842df1d2fe2db34
+smartclip.net, 9353, RESELLER
+#Teads
+teads.tv, 15754, DIRECT, 15a9c44f6d26cbe1
+#Smartstream
+smartstream.tv, 6089, RESELLER
+smartstream.tv, 6091, RESELLER
+smartstream.tv, 6093, RESELLER
+smartstream.tv, 6095, RESELLER
+yieldlab.net, 2172218, RESELLER
+#StroeerSSP
+stroeer.com, 17327, DIRECT
+indexexchange.com, 183592, RESELLER, 50b1c356f2c5c8fc
+Appnexus.com, 1371, RESELLER, f5ab79cb980f11d1
+contextweb.com, 558750, DIRECT, 89ff185a4c4e857c
+#gf
+#GoogleAdx
+google.com,pub-9934539733884172,RESELLER,f08c47fec0942fa0
+#GoogleAdSense
+google.com,pub-1602621474554678,DIRECT,f08c47fec0942fa0
+#HB Appnexus
+appnexus.com,8343,RESELLER,f5ab79cb980f11d1
+#HB ImproveDigital
+improvedigital.com,1004,RESELLER
+#HB IndexExchange
+indexexchange.com,185799,RESELLER
+#EB IndexExchange
+indexexchange.com,187299,RESELLER
+#EB Pubmatic
+pubmatic.com, 157024,RESELLER,5d62403b186f2ace
+#EB OpenX
+openx.com,539886083,RESELLER,6a698e2ec38604c6
+#A9
+Aps.amazon.com, 3569, RESELLER
+#AdYouLike
+adyoulike.com, f6e96fd034c853acae42bdbf045e4e12, RESELLER, 4ad745ead2958bf7
+# Pubmatic
+pubmatic.com, 157024, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156843, RESELLER, 5d62403b186f2ace
+pubmatic.com, 157072, RESELLER, 5d62403b186f2ace
+#PerformanceAdvertising
+appnexus.com, 1200, RESELLER
+#Teads
+teads.tv,14492,RESELLER,15a9c44f6d26cbe1
+#Smartstream
+smartstream.tv,5515,RESELLER
+smartstream.tv,5923,RESELLER

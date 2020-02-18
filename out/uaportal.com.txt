@@ -1,0 +1,13 @@
+#ads.txt uaportal.com
+
+google.com, pub-5767825948286332, direct #display, native
+google.com, pub-6705930848150338, direct, f08c47fec0942fa0 
+admixer.net, af70bb87-a6f3-4af2-b947-c7bba1520d1f, direct
+smartadserver.com, 1994, reseller
+appnexus.com, 6953, reseller
+adform.com, 1762, reseller
+teads.tv, 13653, DIRECT, 15a9c44f6d26cbe1
+mediawayss.com, 322, DIRECT
+google.com, pub-1965383259143495, RESELLER, f08c47fec0942fa0
+google.com, pub-6864402317197092, RESELLER, f08c47fec0942fa0
+google.com, pub-9138247653754533, DIRECT, f08c47fec0942fa0

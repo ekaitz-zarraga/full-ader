@@ -1,0 +1,105 @@
+#Seedtag IT
+seedtag.com, 9944-8091-01, DIRECT # ST0
+appnexus.com, 4009, RESELLER #ST1
+smartadserver.com, 3051, RESELLER #ST1
+smartadserver.com, 3050, RESELLER #ST1
+rubiconproject.com, 17280, DIRECT, 0bfd66d529a55807 #ST1
+smartadserver.com, 2699, RESELLER #ST2
+smartadserver.com, 2938, RESELLER #ST2
+contextweb.com,560288,RESELLER,89ff185a4c4e857c #ST2
+indexexchange.com,179394,RESELLER,50b1c356f2c5c8fc #ST2
+richaudience.com, ns9qrKJLKD, DIRECT #ST2
+tremorhub.com, s2t3y-r3ofd, RESELLER, 1a4e959a1b50034a #ST2
+adform.com, 1942, DIRECT #ST3
+advertising.com, 7574, DIRECT #ST3
+aerserv.com, 2750, RESELLER, 2ce496b9f80eb9fa #ST3
+aolcloud.net, 4687, RESELLER #ST3
+mobfox.com, 74240, RESELLER #ST3
+openx.com, 539625136, RESELLER #ST3
+pubmatic.com, 156538, DIRECT, 5d62403b186f2ace #ST3
+rubiconproject.com, 13510, DIRECT #ST3
+smaato.com, 1100037086, RESELLER #ST3
+spotx.tv, 173175, DIRECT #ST3
+spotxchange.com, 173175, DIRECT #ST3
+google.com, pub-5288674212710730, DIRECT, f08c47fec0942fa0
+google.com, pub-7356381323571887, DIRECT, f08c47fec0942fa0
+outbrain.com, 016f7c2eb8e7dc1bc73101f638c45dab74, DIRECT
+outbrain.com, 016f7c2eb8e7dc1bc73101f638c45dab74, RESELLER
+appnexus.com, 2767, RESELLER, f5ab79cb980f11d1
+google.com, pub-4979986541055910, RESELLER, f08c47fec0942fa0
+rubiconproject.com, 13258, RESELLER, 0bfd66d529a55807
+pubmatic.com, 73785, RESELLER, 5d62403b186f2ace
+adtech.com, 4812, RESELLER
+aolcloud.net, 4812, RESELLER
+adform.com, 1721, RESELLER, 9f5210a2f0999e32
+freewheel.tv, 1911, RESELLER
+openx.com, 539304096, RESELLER, 6a698e2ec38604c6
+outbrain.com, 005ce2fec689b97f673d7eb2521e31e6f5, DIRECT
+outbrain.com, 005ce2fec689b97f673d7eb2521e31e6f5, RESELLER
+appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
+tremorhub.com, q017o-78mlk, RESELLER, 1a4e959a1b50034a # Premium video demand aka "Telaria"
+teads.tv, 15429, RESELLER, 15a9c44f6d26cbe1 # Premium video demand
+advertising.com, 26154, RESELLER # Premium video demand
+spotxchange.com, 225721, RESELLER # Premium video demand
+Freewheel.tv, 741650, RESELLER # Premium video demand
+ligadx.com,17405,DIRECT
+ligadx.com,d962478e94a6316a,DIRECT
+spotxchange.com,206177,RESELLER,7842df1d2fe2db34
+spotx.tv,206177,RESELLER,7842df1d2fe2db34
+AppNexus.com,3723,DIRECT
+indexexchange.com, 186765, RESELLER
+smartadserver.com,3094,RESELLER
+rubiconproject.com, 17130, RESELLER, 0bfd66d529a55807
+lkqd.net, 450, RESELLER, 59c49fa9598a0117
+quantum-advertising.com,3302, RESELLER #native
+appnexus.com, 8183, RESELLER #native
+openx.com, 540393169, RESELLER, 6a698e2ec38604c6
+spotx.tv, 238936, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 238936, RESELLER, 7842df1d2fe2db34
+advertising.com, 28038, RESELLER
+rubiconproject.com, 19668, RESELLER, 0bfd66d529a55807
+teads.tv, 16627, DIRECT, 15a9c44f6d26cbe1
+google.com, pub-3722499992516194, RESELLER, f08c47fec0942fa0
+rubiconproject.com, 20110, RESELLER, 0bfd66d529a55807
+smartclip.net, 10720, RESELLER
+spotxchange.com, 245659, RESELLER, 7842df1d2fe2db3
+spotx.tv, 245659, RESELLER, 7842df1d2fe2db3
+outbrain.com, 005ce2fec689b97f673d7eb2521e31e6f5, DIRECT
+appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
+tremorhub.com, q017o-78mlk, RESELLER, 1a4e959a1b50034a # Premium video demand aka "Telaria"
+teads.tv, 15429, RESELLER, 15a9c44f6d26cbe1 # Premium video demand
+advertising.com, 26154, RESELLER # Premium video demand
+spotxchange.com, 225721, RESELLER # Premium video demand
+Freewheel.tv, 741650, RESELLER # Premium video demand
+rubiconproject.com, 17130, RESELLER, 0bfd66d529a55807 # Premium video demand
+lkqd.net, 450, RESELLER, 59c49fa9598a0117 # Premium video demand
+openx.com, 540393169, RESELLER, 6a698e2ec38604c6 # Premium video demand
+spotx.tv, 238936, RESELLER, 7842df1d2fe2db34 # Premium video demand
+spotxchange.com, 238936, RESELLER, 7842df1d2fe2db34 # Premium Video Demand
+advertising.com, 28038, RESELLER # Premium Video Demand
+rubiconproject.com, 19668, RESELLER, 0bfd66d529a55807
+pubmatic.com, 158098, RESELLER, 5d62403b186f2ace
+indexexchange.com, 189428, RESELLER
+openx.com, 540717819, RESELLER, 6a698e2ec38604c6
+mgid.com, 439696, DIRECT, d4c29acad76ce94f
+spotxchange.com, 153598, RESELLER, 7842df1d2fe2db34
+spotx.tv, 153598, RESELLER, 7842df1d2fe2db34
+freewheel.tv, 215714, RESELLER
+freewheel.tv, 216634, RESELLER
+google.com, pub-1313834454494130, RESELLER, f08c47fec0942fa0
+google.com, pub-2316275586951220, RESELLER, f08c47fec0942fa0
+improvedigital.com, 545, RESELLER
+improvedigital.com, 1101, RESELLER
+tremorhub.com, ztx03-iaj07, RESELLER, 1a4e959a1b50034a
+aolcloud.net, 21410, RESELLER
+appnexus.com, 9994, RESELLER
+indexexchange.com, 188249, RESELLER
+pubmatic.com, 156946, RESELLER, 5d62403b186f2ace
+advertising.com, 27287, RESELLER
+rubiconproject.com, 21426, RESELLER, 0bfd66d529a55807
+adform.com, 1226, DIRECT
+adform.com, 1943, DIRECT
+adform.com, 622, DIRECT
+adform.com, 2110, DIRECT
+adform.com, 2112, DIRECT
+rubiconproject.com, 21862, DIRECT, 0bfd66d529a55807

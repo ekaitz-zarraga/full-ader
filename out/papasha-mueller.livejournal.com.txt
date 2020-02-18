@@ -1,0 +1,102 @@
+rubiconproject.com, 12168,  DIRECT, 0bfd66d529a55807   
+rubiconproject.com, 12172,  DIRECT, 0bfd66d529a55808   
+rubiconproject.com, 12328,  DIRECT, 0bfd66d529a55809   
+rubiconproject.com, 12170,  DIRECT, 0bfd66d529a55810   
+rubiconproject.com, 9953,   DIRECT, 0bfd66d529a55811
+google.com, pub-9611446967650825,   DIRECT, f08c47fec0942fa0   
+google.com, pub-5600223439108080,   DIRECT, f08c47fec0942fa0   
+google.com, pub-8474433047863685,   DIRECT, f08c47fec0942fa0   
+google.com, pub-9314057052989352,   DIRECT, f08c47fec0942fa0   
+google.com, pub-7837349203060153,   DIRECT, f08c47fec0942fa0   
+google.com, pub-4149010408409047,   DIRECT, f08c47fec0942fa0   
+pubmatic.com,   64205,  DIRECT, 5d62403b186f2ace
+teads.tv, 7663, DIRECT, 15a9c44f6d26cbe1
+teads.tv, 12790, DIRECT, 15a9c44f6d26cbe1
+openx.com, 540310752, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 156307,RESELLER, 5d62403b186f2ace
+appnexus.com, 8950, RESELLER
+pubmatic.com, 156736, DIRECT, 5d62403b186f2ace
+google.com, pub-4570765228201933, DIRECT, f08c47fec0942fa0
+google.com, pub-2363751973002293, DIRECT, f08c47fec0942fa0
+google.com, pub-8309773808661346, RESELLER, f08c47fec0942fa0
+rubiconproject.com, 19654, DIRECT, 0bfd66d529a55807
+Indexexchange.com, 188128, DIRECT, 50b1c356f2c5c8fc
+pubmatic.com, 157335, DIRECT, 5d62403b186f2ace
+openx.com, 540310752, DIRECT, 6a698e2ec38604c6
+rhythmone.com, 4195999290, DIRECT, a670c89d4a324e47
+sovrn.com, 252889, DIRECT, fafdf38b16bf6b2b
+sovrn.com, 265392, DIRECT, fafdf38b16bf6b2b
+triplelift.com, 6747, DIRECT, 6c33edb13117fd86
+appnexus.com, 1314, RESELLER
+spotxchange.com, 228454, RESELLER, 7842df1d2fe2db34
+spotx.tv, 228454, RESELLER, 7842df1d2fe2db34
+facebook.com, 119888871962164, RESELLER, c3e20eee3f780d68
+pubmatic.com, 156307, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156736, DIRECT, 5d62403b186f2ace
+smartadserver.com, 3277, RESELLER
+contextweb.com, 560288, RESELLER, 89ff185a4c4e857c
+pubmatic.com, 156439, RESELLER
+pubmatic.com, 154037, RESELLER
+rubiconproject.com, 16114, RESELLER, 0bfd66d529a55807
+openx.com, 537149888, RESELLER, 6a698e2ec38604c6
+sovrn.com, 257611, RESELLER, fafdf38b16bf6b2b
+appnexus.com, 3703, RESELLER, f5ab79cb980f11d1
+rubiconproject.com, 19652, DIRECT, 0bfd66d529a55807
+nativeroll.tv, 5b8d1e429762b632018b45f8, DIRECT 
+nativeroll.tv, 5b8d1ec39762b6c3388b45ef, DIRECT 
+nativeroll.tv, 5b8d1f359762b699518b45ea, DIRECT 
+nativeroll.tv, 54d87f0b64225d6e5b8b4567, DIRECT 
+nativeroll.tv, 5b8d1de99762b681578b45f9, DIRECT 
+nativeroll.tv, 5508377a64225d1c5f8b4568, DIRECT 
+nativeroll.tv, 5b8d1eec9762b6f2078b45f7, DIRECT 
+nativeroll.tv, 5b8d1da49762b61a688b45f1, DIRECT 
+nativeroll.tv, 5702183e64225d0a678b4576, DIRECT 
+nativeroll.tv, 56fbe86564225d644a8b4567, DIRECT 
+nativeroll.tv, 54f9c57764225dc80f8b4567, DIRECT 
+nativeroll.tv, 5b8d1f7f9762b6c3558b4601, DIRECT 
+nativeroll.tv, 5702170664225d18678b456d, DIRECT 
+nativeroll.tv, 5b8d1dfa9762b6ab528b4605, DIRECT 
+nativeroll.tv, 5b8d1d729762b61a568b45ff, DIRECT 
+nativeroll.tv, 5b8d1ceb9762b6af428b4609, DIRECT 
+nativeroll.tv, 570217e464225d5b428b456b, DIRECT 
+nativeroll.tv, 5b8d1e309762b63d488b45fb, DIRECT 
+nativeroll.tv, 55151d8464225d62298b4567, DIRECT 
+nativeroll.tv, 5b8d1c789762b658528b462e, DIRECT 
+nativeroll.tv, 570216c664225df4688b456b, DIRECT 
+nativeroll.tv, 5b8d1e719762b661568b462a, DIRECT 
+nativeroll.tv, 5702181264225db4638b456e, DIRECT 
+nativeroll.tv, 5b8d1d159762b689508b4605, DIRECT 
+nativeroll.tv, 5c270bf09762b6e6288b45c1, DIRECT 
+nativeroll.tv, 570217cc64225d18678b456e, DIRECT 
+nativeroll.tv, 5b8d1e869762b600468b460c, DIRECT 
+nativeroll.tv, 5b8d1e569762b6624f8b45ff, DIRECT 
+nativeroll.tv, 5702182a64225d18678b456f, DIRECT 
+nativeroll.tv, 5702179164225dd8678b456b, DIRECT 
+nativeroll.tv, 5702177b64225db2698b4569, DIRECT 
+nativeroll.tv, 5b8d1c4b9762b6ad488b460a, DIRECT 
+nativeroll.tv, 570217aa64225d8c668b4570, DIRECT 
+nativeroll.tv, 5b8d1ea89762b64c4f8b4609, DIRECT 
+nativeroll.tv, 551516fe64225d4b6e8b4567, DIRECT 
+nativeroll.tv, 5b8d1f549762b6ea798b4612, DIRECT 
+nativeroll.tv, 5b8d1e979762b61e568b4601, DIRECT 
+nativeroll.tv, 5b8d1e129762b6f5498b45e5, DIRECT 
+nativeroll.tv, 5b8d1ed29762b6217d8b45f3, DIRECT 
+nativeroll.tv, 5b8d1f259762b69b558b45e8, DIRECT 
+nativeroll.tv, 5b8d1d449762b63f618b45ec, DIRECT 
+nativeroll.tv, 5b8d1f6d9762b6544f8b4622, DIRECT 
+nativeroll.tv, 5702174a64225d66658b4573, DIRECT 
+nativeroll.tv, 5b8d1cc59762b622548b461e, DIRECT 
+nativeroll.tv, 5b8d1dcd9762b6c9488b460a, DIRECT 
+nativeroll.tv, 5702176164225d916a8b456c, DIRECT 
+nativeroll.tv, 5702188164225d7d318b456f, DIRECT 
+nativeroll.tv, 56fbe88864225d8b408b4571, DIRECT 
+nativeroll.tv, 5702172c64225d176a8b456d, DIRECT 
+nativeroll.tv, 5b8d1c9a9762b6c6388b45eb, DIRECT 
+nativeroll.tv, 5b8d1f109762b6961c8b45f2, DIRECT 
+nativeroll.tv, 5b8d5ccf9762b670478b45f6, DIRECT 
+nativeroll.tv, 5b8d5d219762b643568b4613, DIRECT 
+nativeroll.tv, 5b8d5d3d9762b6104f8b45fe, DIRECT 
+nativeroll.tv, 5b9227f69762b6af1f8b4618, DIRECT 
+nativeroll.tv, 5bdaf4cf9762b669168b45d6, DIRECT 
+nativeroll.tv, 5c2680a59762b6633c8b480d, DIRECT 
+nativeroll.tv, 5dde644b55299c712a5b0243, DIRECT

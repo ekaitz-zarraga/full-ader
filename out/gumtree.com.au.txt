@@ -1,0 +1,19 @@
+#ads.txt gumtree.com.au
+
+google.com, pub-6521725966766990, DIRECT
+indexexchange.com, 185579, DIRECT
+pubmatic.com, 42651, DIRECT, 5d62403b186f2ace
+rubiconproject.com, 11340, DIRECT, 0bfd66d529a55807
+appnexus.com, 7422, DIRECT, f5ab79cb980f11d1
+smaato.com, 1100041841, DIRECT, 07bcf65f187117b4
+smaato.com, 1100019628, DIRECT, 07bcf65f187117b4
+triplelift.com, 4596-EB, DIRECT, 6c33edb13117fd86
+indexexchange.com, 184665, RESELLER, 50b1c356f2c5c8fc
+indexexchange.com, 187412, DIRECT
+appnexus.com, 1314, RESELLER
+pubmatic.com, 157600, DIRECT, 5d62403b186f2ace
+rubiconproject.com, 19914, DIRECT, 0bfd66d529a55807
+appnexus.com, 7290, RESELLER
+rubiconproject.com, 21154, RESELLER, 0bfd66d529a55807
+teads.tv, 19258, DIRECT, 15a9c44f6d26cbe1
+openx.com, 540922795, DIRECT, 6a698e2ec38604c6

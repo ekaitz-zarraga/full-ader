@@ -1,0 +1,41 @@
+google.com, pub-2672194903340115, DIRECT, f08c47fec0942fa0
+vi.ai, 836225164736403, DIRECT
+taboola.com,1151499,DIRECT,c228e6794e811952
+spotx.tv,71451,RESELLER
+spotxchange.com, 71451, RESELLER
+advertising.com, 8603, RESELLER
+advertising.com, 3531, RESELLER
+pubmatic.com, 156307, RESELLER, 5d62403b186f2ace
+appnexus.com, 3364, RESELLER
+Indexexchange.com, 183756, RESELLER
+contextweb.com, 560382, RESELLER
+openx.com, 539154393, RESELLER
+tremorhub.com, z87wm, RESELLER, 1a4e959a1b50034a
+rubiconproject.com, 16698, RESELLER, 0bfd66d529a55807
+fyber.com, ad9de41d28d494354b23133f26f83122, RESELLER
+fyber.com, 1a12a7e3f84fe560ccf95a3a73043abb, RESELLER
+vi.ai, 836225164736403, DIRECT # 41b5eef6
+spotxchange.com, 74964, RESELLER, 7842df1d2fe2db34 # 41b5eef6
+spotx.tv, 74964, RESELLER, 7842df1d2fe2db34 # 41b5eef6
+spotxchange.com, 104684, RESELLER, 7842df1d2fe2db34 # 41b5eef6
+spotx.tv, 104684, RESELLER, 7842df1d2fe2db34 # 41b5eef6
+spotxchange.com, 122515, RESELLER, 7842df1d2fe2db34 # 41b5eef6
+spotx.tv, 122515, RESELLER, 7842df1d2fe2db34 # 41b5eef6
+freewheel.tv, 440657, RESELLER # 41b5eef6
+freewheel.tv, 440673, RESELLER # 41b5eef6
+freewheel.tv, 364193, RESELLER # 41b5eef6
+freewheel.tv, 369249, RESELLER # 41b5eef6
+rubiconproject.com, 15476, RESELLER, 0bfd66d529a55807 # 41b5eef6
+smartadserver.com, 2776, RESELLER # 41b5eef6
+pubmatic.com, 156830, RESELLER # 41b5eef6
+google.com, pub-5617098146054077, RESELLER, f08c47fec0942fa0 # 41b5eef6
+advertising.com, 24831, RESELLER # 41b5eef6
+openx.com, 540362347, RESELLER, 6a698e2ec38604c6
+
+# MGID
+mgid.com, 334768, DIRECT, d4c29acad76ce94f
+mgid.com, 5729178, DIRECT
+mgid.com, 5744310, DIRECT
+mgid.com, 5744311, DIRECT
+mgid.com, 5757340, DIRECT
+mgid.com, 5757343, DIRECT

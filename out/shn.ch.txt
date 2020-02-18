@@ -1,0 +1,10 @@
+# shn.ch/ads.txt
+# contact=https://www.shn.ch/verlag/werben-und-inserieren/ansprechpersonen
+# audienzz
+appnexus.com, 3927, DIRECT
+appnexus.com, 3927, RESELLER
+google.com, pub-3061816872019914, DIRECT, f08c47fec0942fa0
+google.com, pub-8490317736235111, DIRECT, f08c47fec0942fa0
+# teads
+teads.tv, 9973, DIRECT, 15a9c44f6d26cbe1
+teads.tv, 2404, DIRECT, 15a9c44f6d26cbe1

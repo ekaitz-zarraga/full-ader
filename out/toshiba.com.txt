@@ -1,0 +1,6 @@
+subdomain=home.toshiba.com
+subdomain=myhome.toshiba.com
+subdomain=mystart.toshiba.com
+subdomain=start.new.toshiba.com
+subdomain=start.toshiba.com
+subdomain=start.tv.toshiba.com

@@ -1,0 +1,61 @@
+#Start Ads.txt Entries for MadAdsMedia.com
+madadsmedia.com, 31496, DIRECT
+districtm.io, 100742, DIRECT
+appnexus.com, 7944, RESELLER
+appnexus.com, 1908, RESELLER
+rubiconproject.com, 8223, RESELLER, 0bfd66d529a55807
+pubmatic.com, 49542, RESELLER, 5d62403b186f2ace
+pubmatic.com, 63240, RESELLER, 5d62403b186f2ace
+pubmatic.com, 68582, RESELLER, 5d62403b186f2ace
+appnexus.com, 3153, RESELLER, f5ab79cb980f11d1
+contextweb.com, 560361, RESELLER, 89ff185a4c4e857c
+contextweb.com, 558645, RESELLER, 89ff185a4c4e857c
+contextweb.com, 558639, RESELLER, 89ff185a4c4e857c
+contextweb.com, 558659, RESELLER, 89ff185a4c4e857c
+contextweb.com, 558685, RESELLER, 89ff185a4c4e857c
+contextweb.com, 558689, RESELLER, 89ff185a4c4e857c
+contextweb.com, 558688, RESELLER, 89ff185a4c4e857c
+contextweb.com, 558656, RESELLER, 89ff185a4c4e857c
+contextweb.com, 558686, RESELLER, 89ff185a4c4e857c
+contextweb.com, 558665, RESELLER, 89ff185a4c4e857c
+contextweb.com, 558687, RESELLER, 89ff185a4c4e857c
+google.com, pub-9685734445476814, RESELLER, f08c47fec0942fa0
+x.fidelity-media.com, 6967, RESELLER
+rhythmone.com, 935402012, DIRECT, a670c89d4a324e47
+adtech.com, 10634, DIRECT
+aolcloud.net, 10634, DIRECT
+aol.com, 43993, DIRECT
+advertising.com, 18646, DIRECT
+google.com, pub-9242135695870166, RESELLER 
+synacor.com, 81537, RESELLER
+sekindo.com, 21674, DIRECT
+spotxchange.com, 84294, RESELLER, 7842df1d2fe2db34
+spotx.tv, 84294, RESELLER, 7842df1d2fe2db34
+advertising.com, 7372, RESELLER
+adtech.com, 10397, RESELLER
+aolcloud.net, 10397, RESELLER
+coxmt.com, 2000067907202, RESELLER
+pubmatic.com, 156078, RESELLER #banner
+openx.com, 537143344, RESELLER #banner
+indexexchange.com, 175407, RESELLER, 50b1c356f2c5c8fc
+inner-active.com, 206396, RESELLER
+contextweb.com, 560453, RESELLER
+lkqd.net, 244, RESELLER, 59c49fa9598a0117
+lkqd.com, 244, RESELLER, 59c49fa9598a0117
+sovrn.com, 251255, RESELLER, fafdf38b16bf6b2b
+lijit.com, 251255, RESELLER, fafdf38b16bf6b2b
+smartadserver.com, 2137, RESELLER
+tidaltv.com, 23034, RESELLER
+tidaltv.com, 32071, RESELLER
+pubmatic.com, 156380, RESELLER, 5d62403b186f2ace
+appnexus.com, 1940, RESELLER
+appnexus.com, 2764, RESELLER
+fyber.com, f14d40df2568b6df4eed292a5ad93716, RESELLER
+fyber.com, 3238c1661ce2914845a986d98baf7d59, RESELLER
+tremorhub.com, mb9eo-oqsbf, RESELLER, 1a4e959a1b50034a
+vi.ai, 474289066697842, RESELLER
+freewheel.tv, 19129, RESELLER
+freewheel.tv, 19133, RESELLER
+conversantmedia.com, 14586, DIRECT
+appnexus.com, 4052, RESELLER
+#End Ads.txt Entries for MadAdsMedia.com

@@ -1,0 +1,92 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="ru">
+    <head>		
+
+
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<title>Сеть городских игр и игровое агентство Encounter / Страничка потерялась!</title>
+<meta content="" name="description" />
+<meta name="keywords" content="квест, схватка, городская игра, encounter, en, энка, энкаунтер, схватка, фотокросс, фотоохота, геокешинг, корпоративная игра, викторина, мозговой штурм, Страничка потерялась!" />
+<link rel="shortcut icon" href='http://cdn.endata.cx/images/favicon.ico' />
+
+
+
+<link href="http://en.cx/css/v2/en/cons/main.css?ver=1.88.0.0" type="text/css" rel="stylesheet" media="screen,projection"  />
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
+<script type="text/javascript" src="http://en.cx/js/v2/cons/main.js?ver=1.88.0.0"></script>
+<script type="text/javascript">
+	//<![CDATA[
+	var _gaq = _gaq || []; try { _gaq.push(['t0._setAccount', 'UA-1064087-1']);  _gaq.push(['t0._trackPageview']);  _gaq.push(['t0._trackPageLoadTime'])  } catch(err) {} 
+	//]]>
+</script>
+<!--[if lte IE 7]><link rel="stylesheet" type="text/css" href="http://en.cx/css/v2/en/lteIE7.css" /><![endif]-->
+<!--[if IE 8]><link rel="stylesheet" type="text/css" href="http://en.cx/css/v2/en/IE8.css" /><![endif]-->		 
+	
+
+    </head>
+    
+
+<body class="not_found_error">	
+	<div id="hideVisible"></div>
+	<div id="itemInfo" style="display: none;">
+		<a id="close"></a>
+		<h1 id="title"></h1>
+		<div class="scrollBox">
+			<div id="pane" class="scroll-pane"></div>
+		</div>
+	</div>
+	<div class="container">
+		<div class="header">
+
+
+
+<a href="/"><img src="http://cdn.endata.cx/images/v2/en/promo/encounter.png" alt="Encounter - международная сеть активных городских игр" title="Encounter - международная сеть активных городских игр" /></a>
+<ul>
+	<li><a href="/network/" class="">Cеть</a></li>
+	<li><a href="/agency/" class="">Игровое агентство</a></li>
+	<li><a href="/digital/" class="">Цифровое агентство</a></li>
+</ul>
+
+<div class="nav">
+
+
+ 
+</div>		</div>
+		<div class="content">
+			
+
+<h1>Страничка потерялась!</h1>
+
+
+
+<p>А может быть её никогда и не было! Но если вы уверены, что такая страничка была, и она вам непременно нужна, <a href="/home/contacts/">обратитесь к нам</a> - может быть, мы сможем чем-нибудь помочь.</p>			
+		</div><!-- /content -->
+		<div class="footer">			
+			<p>© Encounter, 2004-2017
+                            
+                            </p>
+			
+		</div><!-- /footer -->		
+	</div><!-- /container -->
+    <!-- en.cx only -->
+
+
+
+
+
+	
+
+	<script type="text/javascript">
+	//<![CDATA[
+	
+	(function () {		
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';		
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+$.cookie('lang', 'ru', { expires: 365, path: "/" });
+$.cookie('Domain', 'en.cx', { expires: 30, path: "/" });
+	//]]>
+</script>
+</body>
+</html>

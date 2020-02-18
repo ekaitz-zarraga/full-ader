@@ -1,0 +1,181 @@
+# A9
+aps.amazon.com, cb3b5777-430d-4622-b7fc-358cfa27d518, DIRECT
+adtech.com, 12068, RESELLER
+appnexus.com, 1908, RESELLER, f5ab79cb980f11d1
+districtm.io, 100962, RESELLER
+openx.com, 540191398, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 157150, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 18020, RESELLER, 0bfd66d529a55807
+
+# AppNexus
+appnexus.com, 3508, DIRECT
+appnexus.com, 3511, DIRECT
+
+# bRealTime
+EMXDGT.com, 106, RESELLER, 1e1d41537f7cad7f
+appnexus.com, 1356, RESELLER, f5ab79cb980f11d1
+google.com, pub-5995202563537249, RESELLER, f08c47fec0942fa0
+
+# Conversant
+conversantmedia.com, 40744, DIRECT, 03113cd04947736d
+appnexus.com, 4052, RESELLER
+openx.com, 540031703, RESELLER, 6a698e2ec38604c6
+
+# District M
+districtm.io, 100275, DIRECT
+appnexus.com, 7944, RESELLER
+appnexus.com, 1908, RESELLER
+
+# Google AdX
+google.com, pub-6897902191714833, DIRECT, f08c47fec0942fa0
+
+# Google AdSense
+google.com, pub-6610802604051523, DIRECT, f08c47fec0942fa0
+google.com, pub-4199439549452353, DIRECT, f08c47fec0942fa0
+
+# GumGum
+gumgum.com, 12998, DIRECT, ffdef49475d318a9
+
+# Index Exchange
+indexexchange.com, 184948, DIRECT
+indexexchange.com, 182945, DIRECT
+
+# JustPremium
+appnexus.com, 7118, RESELLER
+improvedigital.com, 185, RESELLER
+openx.com, 539865130, RESELLER, 6a698e2ec38604c6
+spotx.tv, 108933, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 108933, RESELLER, 7842df1d2fe2db34
+
+# Kargo
+kargo.com, 148, DIRECT
+indexexchange.com, 184081, RESELLER
+
+# Media.net
+media.net, 8CU3M37L2, DIRECT
+
+# Oath
+adtech.com, 9857, DIRECT
+aolcloud.net, 9857, DIRECT
+aol.com, 42368, DIRECT
+pubmatic.com, 156078, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156458, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156138, RESELLER, 5d62403b186f2ace
+
+# OpenX
+openx.com, 537154197, DIRECT, 6a698e2ec38604c6
+openx.com, 537127452, RESELLER, 6a698e2ec38604c6
+
+# PubMatic
+pubmatic.com, 109126, DIRECT, 5d62403b186f2ace
+pubmatic.com, 156347, DIRECT, 5d62403b186f2ace
+pubmatic.com, 157278, DIRECT, 5d62403b186f2ace
+
+# PulsePoint
+contextweb.com, 561296, DIRECT, 89ff185a4c4e857c
+
+# RhythmOne
+rhythmone.com, 1166936797, DIRECT, a670c89d4a324e47
+rhythmone.com, 1566669042, DIRECT, a670c89d4a324e47
+
+# Rubicon Project
+rubiconproject.com, 8777, DIRECT, 0bfd66d529a55807
+rubiconproject.com, 17986, DIRECT, 0bfd66d529a55807
+
+# Sharethrough
+sharethrough.com, f25a3258, DIRECT, d53b998a7bd4ecd2
+indexexchange.com, 186046, RESELLER
+openx.com, 540274407, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 156557, RESELLER
+rubiconproject.com, 18694, RESELLER, 0bfd66d529a55807
+spotxchange.com, 212457, RESELLER
+spotx.tv, 212457, RESELLER
+
+# Sonobi
+sonobi.com, 1397c6e185, DIRECT
+contextweb.com, 560606, RESELLER, 89ff185a4c4e857c
+openx.com, 537149762, RESELLER, 6a698e2ec38604c6
+rhythmone.com, 1059622079, RESELLER, a670c89d4a324e47
+
+# Sovrn
+sovrn.com, 263069, DIRECT, fafdf38b16bf6b2b
+sovrn.com, 247572, DIRECT, fafdf38b16bf6b2b
+lijit.com, 263069, DIRECT, fafdf38b16bf6b2b
+lijit.com, 247572, DIRECT, fafdf38b16bf6b2b
+appnexus.com, 1360, RESELLER, f5ab79cb980f11d1
+gumgum.com, 11645, RESELLER, ffdef49475d318a9
+openx.com, 538959099, RESELLER, 6a698e2ec38604c6
+openx.com, 539924617, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 137711, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156212, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156700, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 17960, RESELLER, 0bfd66d529a55807
+
+# Teads
+teads.tv, 17038, DIRECT, 15a9c44f6d26cbe1
+
+# Triplelift
+appnexus.com, 1314, RESELLER
+lkqd.net, 504, RESELLER, 59c49fa9598a0117
+spotxchange.com, 228454, RESELLER, 7842df1d2fe2db34
+spotx.tv, 228454, RESELLER, 7842df1d2fe2db34
+
+# new proper
+
+rhythmone.com, 1654642120, RESELLER, a670c89d4a324e47
+contextweb.com, 561998, RESELLER, 89ff185a4c4e857c
+pubmatic.com, 158100, RESELLER, 5d62403b186f2ace
+districtm.io, 100275, DIRECT, 3fd707be9c4527c3
+google.com, pub-9685734445476814, RESELLER, f08c47fec0942fa0
+aol.com, 9857, DIRECT, e1a5b5b6e3255540
+sonobi.com, 1397c6e185, DIRECT, d1a215d9eb5aee9e
+adtech.com, 12068, RESELLER, e1a5b5b6e3255540
+rhythmone.com,1654642120, RESELLER, a670c89d4a324e47
+sonobi.com, cdcb6fdb07, DIRECT, d1a215d9eb5aee9e
+adtech.com, 9857, DIRECT, e1a5b5b6e3255540
+aol.com, 42368, DIRECT, e1a5b5b6e3255540
+gumgum.com, 12998, RESELLER, ffdef49475d318a9
+openx.com, 540819651, DIRECT, 6a698e2ec38604c6 #Amazon TAM
+pubmatic.com, 158471, DIRECT, 5d62403b186f2ace
+adtech.com, 11715, DIRECT, e1a5b5b6e3255540 #TAM
+mantisadnetwork.com, 5b32cf14d866814de2efe8c2, DIRECT
+
+# connatix
+
+connatix.com, 102710, DIRECT, 2af98acdee0e81ed
+tremorhub.com, cd009, RESELLER, 1a4e959a1b50034a
+advertising.com, 3679, RESELLER
+advertising.com, 14564, RESELLER
+spotxchange.com, 136839, RESELLER, 7842df1d2fe2db34
+spotx.tv, 136839, RESELLER, 7842df1d2fe2db34
+openx.com, 539496816, RESELLER, 6a698e2ec38604c6
+rubiconproject.com, 19564, RESELLER, 0bfd66d529a55807
+google.com, pub-1929615694373103, RESELLER, f08c47fec0942fa0
+Appnexus.com, 9733, RESELLER
+contextweb.com, 561340, RESELLER, 89ff185a4c4e857c
+
+#newproper
+
+adform.com, 183, RESELLER
+freewheel.tv, 33081, RESELLER
+freewheel.tv, 33601, RESELLER
+proper.io, b20ac348-cb6e-11e9-a488-69e3386c7506, DIRECT
+33across.com, 0013300001fnyN8AAI, DIRECT, bbea06d9c4d2853c
+aps.amazon.com,0522392e-66ce-45dc-a547-76fef7649ca2,DIRECT
+ad-generation.jp,12474,RESELLER
+bidtellect.com, 1407, RESELLER, 1c34aa2d85d45e93
+contextweb.com, 558355, RESELLER
+coxmt.com, 2000067995202, RESELLER
+synacor.com, 82151, RESELLER, e108f11b2cdf7d5b
+Indexexchange.com, 184948, DIRECT, 50b1c356f2c5c8fc
+Indexexchange.com, 182945, DIRECT, 50b1c356f2c5c8fc
+lockerdome.com, 9333669919829760, DIRECT
+rubiconproject.com, 8777, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 17986, RESELLER, 0bfd66d529a55807
+EMXDGT.com, 106, DIRECT, 1e1d41537f7cad7f
+advertising.com, 16260, DIRECT, e1a5b5b6e3255540
+lijit.com, 263069-eb, DIRECT, fafdf38b16bf6b2b
+proper.io, e5964796-eb92-11e9-a488-69e3386c7506, DIRECT
+districtm.io, 100275, RESELLER, 3fd707be9c4527c3
+
+freewheel.tv, 1064705, RESELLER  

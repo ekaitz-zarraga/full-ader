@@ -1,0 +1,43 @@
+#Vdo
+vdo.ai,  1091, DIRECT
+google.com, pub-7094677798399606, RESELLER, f08c47fec0942fa0
+appnexus.com, 8148, RESELLER
+advertising.com, 25264, DIRECT, e1a5b5b6e3255540
+beachfront.com, 12484, RESELLER, e2541279e8e2ca4d
+indexexchange.com, 189205, DIRECT, 50b1c356f2c5c8fc
+pubmatic.com, 158017, DIRECT, 5d62403b186f2ace
+rhythmone.com, 1222734754, DIRECT, a670c89d4a324e47
+districtm.io, 100428, DIRECT
+appnexus.com, 1908, RESELLER
+appnexus.com, 7944, RESELLER  
+
+#BrightMountainMedia 
+appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
+tremorhub.com, q017o-78mlk, RESELLER, 1a4e959a1b50034a
+teads.tv, 15429, RESELLER, 15a9c44f6d26cbe1 # Premium video demand
+advertising.com, 26154, RESELLER # Premium video demand
+spotxchange.com, 225721, RESELLER # Premium video demand
+outbrain.com, 00dd136fac1eedf41afe5c7c97405e9d68, Direct
+outbrain.com, 00dd136fac1eedf41afe5c7c97405e9d68, Reseller
+Freewheel.tv, 741650, RESELLER # Premium video demand
+rubiconproject.com, 17130, RESELLER, 0bfd66d529a55807
+lkqd.net, 450, RESELLER, 59c49fa9598a0117 # Premium video demand
+rubiconproject.com,18532,RESELLER,0bfd66d529a55807
+appnexus.com, 9914, RESELLER 
+contextweb.com,560288,RESELLER,89ff185a4c4e857c
+
+#<!Xapads>
+advertising.com, 25308, RESELLER
+adtech.com, 10466, RESELLER
+pubmatic.com, 157535, RESELLER
+pubmatic.com, 157704, RESELLER
+xapads.com, 1104, DIRECT
+contextweb.com, 561844, DIRECT, 89ff185a4c4e857c
+spotxchange.com, 211738, RESELLER, 7842df1d2fe2db34
+spotx.tv, 211738, RESELLER, 7842df1d2fe2db34
+
+#fidelity
+x.fidelity-media.com, 9797, DIRECT
+
+epom.com, 8d5e957f2, reseller #native
+google.com, pub-7363809219244122, RESELLER, f08c47fec0942fa0

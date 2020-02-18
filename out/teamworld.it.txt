@@ -1,0 +1,115 @@
+# EXMARKETPLACE - SPM - AdX EMEA; info@exmarketplace.com;  +971 56 626 6430
+google.com, pub-9021387890731428, RESELLER, f08c47fec0942fa0
+indexexchange.com, 189200, RESELLER, 50b1c356f2c5c8fc
+pubmatic.com, 158214, RESELLER, 5d62403b186f2ace
+pubmatic.com, 158883, RESELLER, 5d62403b186f2ace
+appnexus.com, 10970, RESELLER, f5ab79cb980f11d1
+spotxchange.com, 263601, RESELLER, 7842df1d2fe2db34 #spotx
+spotx.tv, 263601, RESELLER, 7842df1d2fe2db34 #spotx
+sovrn.com, 270680, RESELLER, fafdf38b16bf6b2b #sovrn
+lijit.com, 270680, RESELLER, fafdf38b16bf6b2b #sovrn
+lijit.com, 270680-eb, RESELLER, fafdf38b16bf6b2b #sovrn
+appnexus.com, 1360, RESELLER, f5ab79cb980f11d1 #sovrn
+gumgum.com, 11645, RESELLER, ffdef49475d318a9 #sovrn
+openx.com, 538959099, RESELLER, 6a698e2ec38604c6 #sovrn
+openx.com, 539924617, RESELLER, 6a698e2ec38604c6 #sovrn
+pubmatic.com, 137711, RESELLER, 5d62403b186f2ace #sovrn
+pubmatic.com, 156212, RESELLER, 5d62403b186f2ace #sovrn
+pubmatic.com, 156700, RESELLER, 5d62403b186f2ace #sovrn
+rhythmone.com, 1923001931,RESELLER,a670c89d4a324e47 #rhythmone
+aps.amazon.com, cf78b987-05be-4f10-bde4-2e3308b639ce,RESELLER #amazon
+pubmatic.com, 157150,RESELLER, 5d62403b186f2ace #amazon
+openx.com, 540191398,RESELLER, 6a698e2ec38604c6 #amazon
+appnexus.com, 1908,RESELLER, f5ab79cb980f11d1 #amazon
+appnexus.com, 3663,RESELLER, f5ab79cb980f11d1 #amazon
+adtech.com, 12068,RESELLER, e1a5b5b6e3255540 #amazon
+districtm.io, 100962,RESELLER, 3fd707be9c4527c3 #amazon
+rhythmone.com, 1654642120, RESELLER, a670c89d4a324e47 #amazon
+ad-generation.jp, 12474, RESELLER #amazon
+smartadserver.com, 3138, RESELLER #smart
+contextweb.com, 560288, RESELLER, 89ff185a4c4e857c #smart
+pubmatic.com, 156439, RESELLER #smart
+pubmatic.com, 154037, RESELLER #smart
+openx.com, 537149888, RESELLER, 6a698e2ec38604c6 #smart
+appnexus.com, 3703, RESELLER, f5ab79cb980f11d1 #smart
+districtm.io, 101760, RESELLER, 3fd707be9c4527c3 #smart
+loopme.com, s-2411, RESELLER, 6c8d5f95897a5a3b #smart
+loopme.com, 5679, RESELLER, 6c8d5f95897a5a3b #smart
+xad.com, 958, RESELLER, 81cbf0a75a5e0e9a  #smart
+improvedigital.com, 1503, RESELLER #improve
+smartadserver.com, 1827, RESELLER #sublime
+improvedigital.com, 335, RESELLER #sublime
+appnexus.com, 3538, RESELLER #sublime
+appnexus.com, 3539, RESELLER #sublime
+appnexus.com, 3540, RESELLER #sublime
+# ExMarketPlace - end
+
+#ADSENSE
+google.com, pub-9740634209135740, DIRECT, f08c47fec0942fa0
+
+#1 	
+improvedigital.com, 908, DIRECT	
+
+#2
+smartclip.net, 7688 , RESELLER
+
+#4 
+appnexus.com, 996, DIRECT
+rubiconproject.com, 11396, DIRECT, 0bfd66d529a55807
+pubmatic.com, 156192, DIRECT, 5d62403b186f2ace
+appnexus.com, 1785, RESELLER, f5ab79cb980f11d1
+spotxchange.com, 219914, RESELLER, 7842df1d2fe2db34
+spotx.tv, 219914, RESELLER, 7842df1d2fe2db34
+google.com, pub-3472299588859191, DIRECT, f08c47fec0942fa0
+
+#10 
+onetag.com, 56eda79ad38db8, DIRECT
+
+#12 
+google.com, pub-5906247292784018, RESELLER, f08c47fec0942fa0
+indexexchange.com, 189433, RESELLER, 50b1c356f2c5c8fc
+pubmatic.com, 158038, RESELLER, 5d62403b186f2ace
+openx.com, 540447814, RESELLER, 6a698e2ec38604c6
+rubiconproject.com, 21602, RESELLER, 0bfd66d529a55807
+improvedigital.com, 1476, RESELLER
+smartadserver.com, 3611, RESELLER
+
+#13
+spotxchange.com, 246988, RESELLER, 7842df1d2fe2db34
+spotx.tv, 246988, RESELLER, 7842df1d2fe2db34
+
+#15 
+google.com, pub-4222981553549196, DIRECT, f08c47fec0942fa0
+
+#16 
+lkqd.net, 252, RESELLER, 59c49fa9598a0117
+lkqd.com, 252, RESELLER, 59c49fa9598a0117
+springserve.com, 105, RESELLER, a24eb641fc82e93d
+pubmatic.com, 157903, RESELLER, 5d62403b186f2ace
+advertising.com, 3531, RESELLER
+beachfront.com, 4969, RESELLER, e2541279e8e2ca4d 
+advertising.com, 26282, RESELLER 
+pubmatic.com, 157310, RESELLER, 5d62403b186f2ace
+rhythmone.com, 2968119028, RESELLER, a670c89d4a324e47
+contextweb.com, 561910, RESELLER, 89ff185a4c4e857c
+openx.com, 540454059, RESELLER, 6a698e2ec38604c6
+advertising.com, 6976, Reseller
+rubiconproject.com, 18222, RESELLER, 0bfd66d529a55807
+indexexchange.com, 183965, Reseller, 50b1c356f2c5c8fc
+Pubmatic.com, 156458, Reseller, 5d62403b186f2ace
+Pubmatic.com, 156325, Reseller, 5d62403b186f2ace
+Pubmatic.com, 156084, Reseller, 5d62403b186f2ace
+coxmt.com, 2000067995202, Reseller
+OmniJay.com, 114, DIRECT
+lkqd.net, 408, RESELLER, 59c49fa9598a0117
+springserve.com, 672, DIRECT, a24eb641fc82e93d
+Advertising.com, 22021, RESELLER
+advertising.com, 26908, RESELLER
+advertising.com, 26282, RESELLER
+Advertising.com, 27869, RESELLER
+contextweb.com, 561198, RESELLER, 89ff185a4c4e857c
+contextweb.com, 561910, RESELLER, 89ff185a4c4e857c 
+contextweb.com, 561923, RESELLER, 89ff185a4c4e857c
+beachfront.com, 5472, RESELLER, e2541279e8e2ca4d
+spotxchange.com, 239904, RESELLER, 7842df1d2fe2db34
+spotx.tv, 239904, RESELLER, 7842df1d2fe2db34	

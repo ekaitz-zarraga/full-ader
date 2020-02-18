@@ -1,0 +1,63 @@
+google.com, pub-4092364999442566, DIRECT, f08c47fec0942fa0
+google.com, pub-66646452197530664, RESELLER #video, banner, native, app
+rekmob.com,  1700, DIRECT
+appnexus.com, 1619, DIRECT
+EMXDGT.com, 71, RESELLER
+appnexus.com, 1356, RESELLER
+adform.com, 1431, RESELLER
+freewheel.tv, 706626, RESELLER
+freewheel.tv, 706994, RESELLER
+pubmatic.com, 156547, RESELLER
+google.com, pub-3374915960076162, DIRECT, f08c47fec0942fa0
+google.com, pub-8929667634210480, RESELLER, f08c47fec0942fa0
+appnexus.com, 8847, RESELLER
+
+
+# 33Across
+33across.com, 33, DIRECT  #display
+
+# 33Across - Google
+google.com, pub-9557089510405422, RESELLER, f08c47fec0942fa0  #display
+
+# 33Across - AppNexus
+appnexus.com, 1001, RESELLER  #display
+appnexus.com, 3135, RESELLER  #display
+
+# 33Across - OpenX
+openx.com, 537120563, RESELLER, 6a698e2ec38604c6  #display
+
+# 33Across - Rubicon
+rubiconproject.com, 16414, RESELLER, 0bfd66d529a55807  #display
+
+# 33Across - PubMatic
+pubmatic.com, 156423, RESELLER, 5d62403b186f2ace  #display
+
+# 33Across - Amazon
+amazon.com, 3411, RESELLER  #display
+
+# 33Across - Criteo
+criteo.com, 3450, RESELLER  #display
+
+# 33Across - Index
+indexexchange.com, 185506, RESELLER  #display
+
+# 33Across - LKQD
+lkqd.com, 293, RESELLER, 59c49fa9598a0117  #video
+lkqd.net, 293, RESELLER, 59c49fa9598a0117  #video
+
+# 33Across - SpotX
+spotxchange.com, 139883, RESELLER, 7842df1d2fe2db34  #video
+spotx.tv, 139883, RESELLER, 7842df1d2fe2db34  #video
+
+# 33Across - Oath
+adtech.com, 9993, RESELLER  #display
+aolcloud.net, 9993, RESELLER  #display
+advertising.com, 12543, RESELLER  #video
+
+# 33Across - bRealTime
+openx.com, 539266264, RESELLER, 6a698e2ec38604c6  #display
+appnexus.com, 1356, RESELLER, f5ab79cb980f11d1  #display
+emxdgt.com, 326, RESELLER, 1e1d41537f7cad7f  #display
+google.com, pub-5995202563537249, RESELLER, f08c47fec0942fa0  #display
+
+google.com, pub-3633370801129289, RESELLER, f08c47fec0942fa0

@@ -1,0 +1,83 @@
+rubiconproject.com, 17088, DIRECT
+improvedigital.com, 885, DIRECT
+google.com, pub-4010112849013428, DIRECT, f08c47fec0942fa0 
+
+#GoogleAdx
+google.com,pub-9934539733884172,RESELLER,f08c47fec0942fa0
+
+#HB Appnexus
+appnexus.com,8343,RESELLER,f5ab79cb980f11d1
+
+#HB ImproveDigital
+improvedigital.com,1004,RESELLER
+
+#HB IndexExchange
+indexexchange.com,185799,RESELLER
+
+#EB IndexExchange
+indexexchange.com,187299,RESELLER
+
+#EB OpenX
+openx.com,539886083,RESELLER,6a698e2ec38604c6
+
+#OpenX
+openx.com,539376226,RESELLER,6a698e2ec38604c6
+
+#Yieldlab
+yieldlab.net, 7103487, RESELLER
+yieldlab.net, 506261, RESELLER
+yieldlab.net, 227224, RESELLER
+
+#A9
+Aps.amazon.com, 3569, RESELLER
+
+#AdYouLike
+adyoulike.com, f6e96fd034c853acae42bdbf045e4e12, RESELLER, 4ad745ead2958bf7
+
+# Pubmatic
+pubmatic.com, 157024, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156843, RESELLER, 5d62403b186f2ace
+pubmatic.com, 157072, RESELLER, 5d62403b186f2ace
+
+#Teads
+teads.tv,14492,RESELLER,15a9c44f6d26cbe1
+
+#PerformanceAdvertising
+appnexus.com, 1200, RESELLER
+
+#HB Smart
+smartadserver.com, 3213, RESELLER
+#justpremium
+openx.com, 540684272, RESELLER, 6a698e2ec38604c6
+appnexus.com, 7118, RESELLER
+spotx.tv, 108933, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 108933, RESELLER, 7842df1d2fe2db34
+improvedigital.com, 185, RESELLER
+adform.com, 183, RESELLER
+freewheel.tv, 33081, RESELLER
+freewheel.tv, 33601, RESELLER
+google.com, pub-8172268348509349, RESELLER, f08c47fec0942fa0
+
+#Unruly
+video.unrulymedia.com, UNRX-PUB-adc5c9be-b90c-4fdb-a235-9cdd507a0c53, DIRECT
+indexexchange.com, 182257, RESELLER
+appnexus.com, 6849, RESELLER
+rubiconproject.com, 15268, RESELLER
+
+#Welect
+spotxchange.com, 214395, RESELLER, 7842df1d2fe2db34
+spotx.tv, 214395, RESELLER, 7842df1d2fe2db34
+smartclip.net, 10820, RESELLER
+
+#Improve Digital EB
+improvedigital.com,1273,DIRECT
+
+#M,P,NEWMEDIA
+yieldlab.net, 6374282, RESELLER
+
+#districtm
+districtm.io, 101912, DIRECT, 3fd707be9c4527c3
+appnexus.com, 1908, RESELLER, f5ab79cb980f11d1
+
+#Rubicon
+rubiconproject.com, 21592, DIRECT, 0bfd66d529a55807

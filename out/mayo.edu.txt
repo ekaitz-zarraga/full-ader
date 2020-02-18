@@ -1,0 +1,15 @@
+#Ads.txt mayoclinic.org
+
+google.com, pub-8228251605965337, DIRECT, f08c47fec0942fa0 #display
+indexexchange.com, 184746, DIRECT #display
+indexexchange.com, 183617, DIRECT
+openx.com, 537150862, DIRECT #display
+rubiconproject.com, 13346, DIRECT #display
+rubiconproject.com, 17750, DIRECT, 0bfd66d529a55807
+triplelift.com, 3945, DIRECT, 6c33edb13117fd86 #display
+pubmatic.com, 157709, DIRECT, 5d62403b186f2ace #display
+appnexus.com, 7886, DIRECT #display
+
+
+google.com, pub-2393995045431945, DIRECT, f08c47fec0942fa0
+google.com, pub-8499476942797250, DIRECT, f08c47fec0942fa0 #display

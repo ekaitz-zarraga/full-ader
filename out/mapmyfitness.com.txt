@@ -1,0 +1,66 @@
+google.com, pub-9383080285165665, DIRECT, f08c47fec0942fa0
+google.com, pub-7527492700054017, DIRECT, f08c47fec0942fa0
+google.com, pub-8238720670007642, DIRECT, f08c47fec0942fa0
+sharethrough.com, 60f84bc0, DIRECT, d53b998a7bd4ecd2
+rubiconproject.com, 11600, DIRECT, 0bfd66d529a55807
+rubiconproject.com, 18628, DIRECT, 0bfd66d529a55807
+openx.com, 39599116, DIRECT, 6a698e2ec38604c6
+openx.com, 539599116, DIRECT, 6a698e2ec38604c6
+openx.com, 537126565, DIRECT, 6a698e2ec38604c6
+openx.com, 65886, DIRECT, 6a698e2ec38604c6
+openx.com, 83493, DIRECT, 6a698e2ec38604c6
+aps.amazon.com, 3257, DIRECT
+indexexchange.com, 175407, RESELLER
+indexexchange.com, 183734, RESELLER
+indexexchange.com, 184972, RESELLER
+amazon-adsystem.com, 3161, RESELLER
+rubiconproject.com, 10278, RESELLER, 0bfd66d529a55807
+sovrn.com, 24906, RESELLER, fafdf38b16bf6b2b
+appnexus.com, 860447, RESELLER, f5ab79cb980f11d1
+openx.com, 537121509, RESELLER, 6a698e2ec38604c6
+openx.com, 537150288, RESELLER, 6a698e2ec38604c6
+openx.com, 537150287, RESELLER, 6a698e2ec38604c6
+openx.com, 539296300, RESELLER, 6a698e2ec38604c6
+openx.com, 539599116, DIRECT, 6a698e2ec38604c6
+openx.com, 540031703, RESELLER, 6a698e2ec38604c6
+yldbt.com, 52f97ef926d0200622000001, RESELLER, cd184cb30abaabb5
+facebook.com, 284576831882570, RESELLER
+kargo.com, 118, RESELLER
+spotxchange.com, 141322, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 212457, RESELLER
+spotx.tv, 141322, RESELLER, 7842df1d2fe2db34
+spotx.tv, 212457, RESELLER
+google.com, pub-7130547987556188, RESELLER, f08c47fec0942fa0
+google.com, pub-9489621755605348, RESELLER, f08c47fec0942fa0
+google.com, pub-8033683427063754, DIRECT, f08c47fec0942fa0
+sharethrough.com, b377a47c, RESELLER, d53b998a7bd4ecd2
+openx.com, 537143344, RESELLER
+openx.com, 537125356, RESELLER
+openx.com, 540274407, RESELLER, 6a698e2ec38604c6
+adtech.com, 10142, DIRECT
+coxmt.com, 2000067907202, RESELLER
+pubmatic.com, 156078, RESELLER
+pubmatic.com, 156377, RESELLER
+pubmatic.com, 155967, RESELLER
+conversantmedia.com, 27162 , DIRECT
+rubiconproject.com, 18694, RESELLER, 0bfd66d529a55807
+pubmatic.com, 157915, DIRECT/RESELLER, 5d62403b186f2ace
+mapmyfitness liveintent.com, 9712, DIRECT
+rhythmone.com,4035768237,DIRECT,a670c89d4a324e47
+sovrn.com, 267398, DIRECT, fafdf38b16bf6b2b
+lijit.com, 267398, DIRECT, fafdf38b16bf6b2b
+appnexus.com, 1360, RESELLER, f5ab79cb980f11d1
+gumgum.com, 11645, RESELLER, ffdef49475d318a9
+openx.com, 538959099, RESELLER, 6a698e2ec38604c6
+openx.com, 539924617, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 137711, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156212, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156700, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 17960, RESELLER, 0bfd66d529a55807
+appnexus.com, 9796, DIRECT
+
+#Synacor Media
+synacor.com, 81773, DIRECT #Synacor Media
+google.com, pub-9242135695870166, RESELLER #Ad Exchange
+appnexus.com, 310, RESELLER #AppNexus
+appnexus.com, 4052, RESELLER

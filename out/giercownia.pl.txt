@@ -1,0 +1,29 @@
+#my
+google.com, pub-3653916656187385, DIRECT, f08c47fec0942fa0
+
+# mediafarm
+adform.com, 1509, RESELLER
+adform.com, 2238, RESELLER
+Appnexus.com, 1789, RESELLER
+Appnexus.com, 7491, RESELLER
+
+#GamePix
+google.com, pub-5285623249468085, RESELLER, f08c47fec0942fa0
+google.com, pub-8435989769185680, RESELLER, f08c47fec0942fa0
+google.com, pub-2365506394227806, RESELLER, f08c47fec0942fa0
+
+
+#Gamedistribution
+spotxchange.com, 153598, RESELLER, 7842df1d2fe2db34
+spotx.tv, 153598, RESELLER, 7842df1d2fe2db34
+freewheel.tv, 215714, RESELLER
+freewheel.tv, 216634, RESELLER
+google.com, pub-1313834454494130, RESELLER, f08c47fec0942fa0
+google.com, pub-2316275586951220, RESELLER, f08c47fec0942fa0
+improvedigital.com, 545, RESELLER
+
+#Softgames
+google.com, pub-5846800249286047, RESELLER, f08c47fec0942fa0
+
+
+ 

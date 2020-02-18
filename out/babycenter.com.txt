@@ -1,0 +1,205 @@
+#Google
+google.com,pub-8041926961236112,DIRECT,f08c47fec0942fa0 #mainadx
+google.com,pub-9685734445476814,RESELLER,f08c47fec0942fa0 #districtM
+
+#indexwrapper
+indexexchange.com,185848,DIRECT,50b1c356f2c5c8fc
+appnexus.com,8648,DIRECT
+openx.com,537140192,DIRECT,6a698e2ec38604c6
+EMXDGT.com,515,DIRECT,1e1d41537f7cad7f
+Appnexus.com,1356,RESELLER,f5ab79cb980f11d1 #emx
+Google.com,pub-5995202563537249,RESELLER,f08c47fec0942fa0 #emx
+
+#TAM
+aps.amazon.com,3384,DIRECT #display
+appnexus.com,8648,DIRECT
+districtm.io,101104,DIRECT
+EMXDGT.com,854,DIRECT,1e1d41537f7cad7f
+emxdgt.com,1246752,DIRECT,1e1d41537f7cad7f
+openx.com,540105227,DIRECT,6a698e2ec38604c6
+Sovrn.com,260707,DIRECT,fafdf38b16bf6b2b
+yieldmo.com,2022575061647131986,DIRECT
+triplelift.com, 7896, DIRECT, 6c33edb13117fd86
+
+#EBDA
+rubiconproject.com, 17750, DIRECT, 0bfd66d529a55807
+pubmatic.com, 157709, DIRECT, 5d62403b186f2ace #display 
+
+
+#teads
+teads.tv,10909,DIRECT,15a9c44f6d26cbe1
+teads.tv,11140,DIRECT,15a9c44f6d26cbe1
+
+
+#liveintent
+liveintent.com,14209,DIRECT
+liveintent.com,14276,DIRECT
+liveintent.com,14277,DIRECT
+liveintent.com,14278,DIRECT
+liveintent.com,14280,DIRECT
+liveintent.com,14282,DIRECT
+liveintent.com,14284,DIRECT
+liveintent.com,14285,DIRECT
+liveintent.com,14289,DIRECT
+liveintent.com,14291,DIRECT
+liveintent.com,14293,DIRECT
+liveintent.com,14294,DIRECT
+
+
+# 33Across 
+33across.com, 0010b00001u67c4AAA, DIRECT, bbea06d9c4d2853c #33Across #hb #tag
+rubiconproject.com, 16414, RESELLER, 0bfd66d529a55807 #33Across #hb #tag
+rubiconproject.com, 21642, RESELLER, 0bfd66d529a55807 #33Across #hb #tag
+rubiconproject.com, 21434, RESELLER, 0bfd66d529a55807 #33Across #tag #ebda
+pubmatic.com, 156423, RESELLER, 5d62403b186f2ace #33Across #hb #tag
+pubmatic.com, 158136, RESELLER, 5d62403b186f2ace #33Across EU #hb #tag
+pubmatic.com, 158569, RESELLER, 5d62403b186f2ace #33Across #tag #ebda
+appnexus.com, 10239, RESELLER, f5ab79cb980f11d1 #33Across #hb #tag
+appnexus.com, 1001, RESELLER, f5ab79cb980f11d1 #33Across #tag
+appnexus.com, 3135, RESELLER, f5ab79cb980f11d1 #33Across #tag
+openx.com, 537120563, RESELLER, 6a698e2ec38604c6 #33Across #hb #tag
+openx.com, 539392223, RESELLER, 6a698e2ec38604c6 #33Across #tag #ebda
+rhythmone.com, 2439829435, RESELLER, a670c89d4a324e47 #33Across #hb #tag
+emxdgt.com, 326, RESELLER, 1e1d41537f7cad7f #33Across #hb #tag
+adtech.com, 12094, RESELLER #33Across #hb #tag
+adtech.com, 9993, RESELLER #33Across #tag
+advangelists.com, 8d3bba7425e7c98c50f52ca1b52d3735, RESELLER, 60d26397ec060f98 #33Across #hb #tag
+sonobi.com, a416546bb7, RESELLER, d1a215d9eb5aee9e  #33Across #tag #ebda
+indexexchange.com, 190966, RESELLER, 50b1c356f2c5c8fc #33Across #tag #ebda
+google.com, pub-9557089510405422, RESELLER, f08c47fec0942fa0 #33Across #tag
+
+
+
+
+Sovrn.com,247572,DIRECT,fafdf38b16bf6b2b
+lijit.com,247572,DIRECT,fafdf38b16bf6b2b
+lijit.com,260707,DIRECT,fafdf38b16bf6b2b
+smaato.com,1100036562,DIRECT
+indexexchange.com,183459,DIRECT,50b1c356f2c5c8fc
+indexexchange.com,185239,DIRECT,50b1c356f2c5c8fc
+appnexus.com,1908,RESELLER
+yieldmo.com,9876333000,DIRECT
+yieldmo.com,2140673549592590000,DIRECT,
+openx.com,538964070,DIRECT,6a698e2ec38604c6
+
+
+#foxtel
+pubmatic.com, 158829, RESELLER, 5d62403b186f2ace
+appnexus.com,3121,RESELLER
+tremorhub.com,azj3v,DIRECT,1a4e959a1b50034a
+tremorhub.com,6u7ey,DIRECT,1a4e959a1b50034a
+tremorhub.com,arzxn,DIRECT,1a4e959a1b50034a
+tremorhub.com,5z5sq,DIRECT,1a4e959a1b50034a
+tremorhub.com,cuvdt,DIRECT,1a4e959a1b50034a
+tremorhub.com,gh5vv,DIRECT,1a4e959a1b50034a
+tremorhub.com,e7nvv,DIRECT,1a4e959a1b50034a
+tremorhub.com,wh8dh,DIRECT,1a4e959a1b50034a
+tremorhub.com,zeyj5,DIRECT,1a4e959a1b50034a
+tremorhub.com,xij5q,DIRECT,1a4e959a1b50034a
+tremorhub.com,bm8d1-15z2w,DIRECT,1a4e959a1b50034a
+tremorhub.com,lb0jl,DIRECT,1a4e959a1b50034a
+tremorhub.com,x8zue,DIRECT,1a4e959a1b50034a
+tremorhub.com,bm8d1-pri7d,DIRECT,1a4e959a1b50034a
+tremorhub.com,1q9no,DIRECT,1a4e959a1b50034a
+tremorhub.com,bm8d1-u6ngk,DIRECT,1a4e959a1b50034a
+tremorhub.com,bm8d1-946we,DIRECT,1a4e959a1b50034a
+tremorhub.com,k10q7,DIRECT,1a4e959a1b50034a
+tremorhub.com,bm8d1-5a3u5,DIRECT,1a4e959a1b50034a
+tremorhub.com,hhoue,DIRECT,1a4e959a1b50034a
+tremorhub.com,0j7gj,DIRECT,1a4e959a1b50034a
+tremorhub.com,5phju,DIRECT,1a4e959a1b50034a
+tremorhub.com,bm8d1-mm9gg,DIRECT,1a4e959a1b50034a
+tremorhub.com,bm8d1-9nplq,DIRECT,1a4e959a1b50034a
+tremorhub.com,z25qf,DIRECT,1a4e959a1b50034a
+tremorhub.com,ug5m3,DIRECT,1a4e959a1b50034a
+tremorhub.com,ruuqh,DIRECT,1a4e959a1b50034a
+tremorhub.com,hcfqc,DIRECT,1a4e959a1b50034a
+tremorhub.com,bm8d1-rbmbw,DIRECT,1a4e959a1b50034a
+tremorhub.com,7sdao-89vq7,DIRECT,1a4e959a1b50034a
+pubmatic.com,157916,DIRECT,5d62403b186f2ace
+pubmatic.com,157184,DIRECT,5d62403b186f2ace
+google.com,pub-7082778644367489,DIRECT,f08c47fec0942fa0
+google.com,pub-2995659801720227,DIRECT,f08c47fec0942fa0
+telaria.com,azj3v,DIRECT,1a4e959a1b50034a
+telaria.com,6u7ey,DIRECT,1a4e959a1b50034a
+telaria.com,arzxn,DIRECT,1a4e959a1b50034a
+telaria.com,5z5sq,DIRECT,1a4e959a1b50034a
+telaria.com,cuvdt,DIRECT,1a4e959a1b50034a
+telaria.com,gh5vv,DIRECT,1a4e959a1b50034a
+telaria.com,e7nvv,DIRECT,1a4e959a1b50034a
+telaria.com,wh8dh,DIRECT,1a4e959a1b50034a
+telaria.com,zeyj5,DIRECT,1a4e959a1b50034a
+telaria.com,xij5q,DIRECT,1a4e959a1b50034a
+telaria.com,bm8d1-15z2w,DIRECT,1a4e959a1b50034a
+telaria.com,lb0jl,DIRECT,1a4e959a1b50034a
+telaria.com,x8zue,DIRECT,1a4e959a1b50034a
+telaria.com,bm8d1-pri7d,DIRECT,1a4e959a1b50034a
+telaria.com,1q9no,DIRECT,1a4e959a1b50034a
+telaria.com,bm8d1-u6ngk,DIRECT,1a4e959a1b50034a
+telaria.com,bm8d1-946we,DIRECT,1a4e959a1b50034a
+telaria.com,k10q7,DIRECT,1a4e959a1b50034a
+telaria.com,bm8d1-5a3u5,DIRECT,1a4e959a1b50034a
+telaria.com,hhoue,DIRECT,1a4e959a1b50034a
+telaria.com,0j7gj,DIRECT,1a4e959a1b50034a
+telaria.com,5phju,DIRECT,1a4e959a1b50034a
+telaria.com,bm8d1-mm9gg,DIRECT,1a4e959a1b50034a
+telaria.com,bm8d1-9nplq,DIRECT,1a4e959a1b50034a
+telaria.com,z25qf,DIRECT,1a4e959a1b50034a
+telaria.com,ug5m3,DIRECT,1a4e959a1b50034a
+telaria.com,ruuqh,DIRECT,1a4e959a1b50034a
+telaria.com,hcfqc,DIRECT,1a4e959a1b50034a
+telaria.com,bm8d1-rbmbw,DIRECT,1a4e959a1b50034a
+telaria.com,7sdao-89vq7,DIRECT,1a4e959a1b50034a
+
+
+#commonmedia (Germany)
+districtm.io,101760,RESELLER,3fd707be9c4527c3
+loopme.com,s-2411,RESELLER,6c8d5f95897a5a3b
+loopme.com,5679,RESELLER,6c8d5f95897a5a3b
+adform.com,2482,RESELLER
+appnexus.com,10524,DIRECT,f5ab79cb980f11d1
+yieldlab.net,411982,DIRECT
+openx.com,539265009,RESELLER
+sspx.tech, rads367, DIRECT
+sspx.tech, rads368, DIRECT
+sspx.tech, rads339, DIRECT
+sspx.tech, rads571, DIRECT
+sspx.tech, rads369, DIRECT
+sspx.tech, rads370, DIRECT
+sspx.tech, rads371, DIRECT
+sspx.tech, rads372, DIRECT
+sspx.tech, rads373, DIRECT
+sspx.tech, rads374, DIRECT
+sspx.tech, rads570, DIRECT
+sspx.tech, rads376, DIRECT
+sspx.tech, rads377, DIRECT
+sspx.tech, rads378, DIRECT
+sspx.tech, rads573, DIRECT
+sspx.tech, rads379, DIRECT
+sspx.tech, rads380, DIRECT
+sspx.tech, rads381, DIRECT
+sspx.tech, rads383, DIRECT
+sspx.tech, rads384, DIRECT
+sspx.tech, rads577, DIRECT
+sspx.tech, rads574, DIRECT
+sspx.tech, rads386, DIRECT
+sspx.tech, rads387, DIRECT
+sspx.tech, rads388, DIRECT
+sspx.tech, rads391, DIRECT
+sspx.tech, rads394, DIRECT
+sspx.tech, rads395, DIRECT
+sspx.tech, rads576, DIRECT
+sspx.tech, rads396, DIRECT
+sspx.tech, rads582, DIRECT
+sspx.tech, rads382, DIRECT
+sspx.tech, rads584, DIRECT
+sspx.tech, rads674, DIRECT
+sspx.tech, rads586, DIRECT
+sspx.tech, rads389, DIRECT
+sspx.tech, rads390, DIRECT
+sspx.tech, rads585, DIRECT
+sspx.tech, rads392, DIRECT
+sspx.tech, rads393, DIRECT
+sspx.tech, rads672, DIRECT
+sspx.tech, rads587, DIRECT
+yieldlab.net, 506261, RESELLER

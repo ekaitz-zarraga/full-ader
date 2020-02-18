@@ -1,0 +1,11 @@
+adtech.com, 1370, DIRECT  #banner
+rubiconproject.com, 12540,DIRECT, 0bfd66d529a55807
+appnexus.com, 2579, DIRECT #native
+quantum-advertising.com,  1278, DIRECT #native 
+google.com, pub-4708391771863566, DIRECT, f08c47fec0942fa0
+google.com, pub-1401198647144238, DIRECT, f08c47fec0942fa0
+
+facebook.com, 1796576440558835, RESELLER
+facebook.com, 358719497878746, RESELLER
+google.com, pub-7026201757273977, RESELLER, f08c47fec0942fa0
+google.com, pub-7353644945201577, RESELLER, f08c47fec0942fa0

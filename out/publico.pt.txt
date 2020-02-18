@@ -1,0 +1,12 @@
+# ads.txt publico.pt 20082019
+# -- ADX
+google.com, pub-9328648553697330, DIRECT, f08c47fec0942fa0
+# -- GroupM
+appnexus.com, 2964, RESELLER, f5ab79cb980f11d1
+appnexus.com, 7167, RESELLER, f5ab79cb980f11d1
+# -- Sovrn
+sovrn.com, 268995, DIRECT, fafdf38b16bf6b2b
+lijit.com, 268995, DIRECT, fafdf38b16bf6b2b
+lijit.com, 268995-eb, DIRECT, fafdf38b16bf6b2b
+# --
+contact=https://comunique.publico.pt/publicidade/contactos.html

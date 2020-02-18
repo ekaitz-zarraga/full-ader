@@ -1,0 +1,8 @@
+# Ads.txt file for https://www.pcbilimi.com
+
+google.com, pub-6717369871015055, DIRECT, f08c47fec0942fa0
+google.com, pub-6717369871015055, RESELLER, f08c47fec0942fa0	
+
+
+#Last Modified: 2017.12.08 - 16.10.00
+ 

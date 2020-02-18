@@ -1,0 +1,21 @@
+google.com, pub-4939207172719226, DIRECT, f08c47fec0942fa0
+
+#Sharethrough
+sharethrough.com, d65dcbdc, DIRECT, d53b998a7bd4ecd2
+spotxchange.com, 212457, RESELLER
+spotx.tv, 212457, RESELLER
+pubmatic.com, 156557, RESELLER
+
+#teads
+teads.tv, 12701, DIRECT, 15a9c44f6d26cbe1
+teads.tv, 12705, DIRECT, 15a9c44f6d26cbe1
+
+#JP
+improvedigital.com, 185, Reseller
+spotx.tv, 108933, Reseller, 7842df1d2fe2db34
+spotxchange.com, 108933, Reseller, 7842df1d2fe2db34
+appnexus.com, 7118, Reseller
+openx.com, 539518650, RESELLER, 6a698e2ec38604c6
+
+#inskin
+indexexchange.com, 184665, RESELLER, 50b1c356f2c5c8fc

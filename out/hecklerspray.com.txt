@@ -1,0 +1,24 @@
+#START
+content-ad.net, 134097, DIRECT 
+pixfuture.com, 68987, DIRECT
+google.com, pub-1575911585432548, DIRECT, f08c47fec0942fa0
+google.com, pub-6590175544799475, DIRECT, f08c47fec0942fa0 
+openx.com, 28955, DIRECT
+openx.com, 537105967, DIRECT
+adtech.com, 9834, RESELLER
+aolcloud.net, 9834, RESELLER
+advertising.com, 24140, RESELLER
+aolcloud.net, 24140, RESELLER
+contextweb.com, 548938, DIRECT
+cedato.com, 501446106, RESELLER
+cedato.com, 1932395686, RESELLER
+Sticky Ads (DEAL)  - Freewheel, 222017, RESELLER
+Sticky Ads (OPEN MARKETPLACE) = Freewheel, 222025, RESELLER
+Pulse Point - Contextweb, 561345, RESELLER
+Beach Front - beachfront.com, beachfront_4469, DIRECT
+Beach Front -  beachfront.com, beachfront_4469, RESELLER
+Tremor - tremorhub.com, m7go6-tfyi8, RESELLER, 1a4e959a1b50034a
+OATH - advertising.com, 18632, RESELLER
+Fyber - fyber.com, af3fd4670c740d671b26e75cb2a1520b, DIRECT
+Fyber - fyber.com, af3fd4670c740d671b26e75cb2a1520b, RESELLER
+#END

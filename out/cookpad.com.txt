@@ -1,0 +1,119 @@
+# google
+google.com, pub-7540405073217569, DIRECT, f08c47fec0942fa0
+# google (Cookpad Global)
+google.com, pub-6534893375935575, DIRECT, f08c47fec0942fa0
+
+# microad
+microad.co.jp, 14379, DIRECT
+openx.com, 69353, RESELLER
+openx.com, 113534, RESELLER
+openx.com, 113178, RESELLER
+openx.com, 539294045, RESELLER
+openx.com, 539468036, RESELLER, 6a698e2ec38604c6
+ad-stir.com, 1757, RESELLER
+rubiconproject.com, 14032, RESELLER
+gmossp.jp, 2000505, RESELLER
+proparm.jp, 1811, RESELLER
+proparm.jp, 1964, RESELLER
+adm.shinobi.jp, 105476, RESELLER
+adtech.com, 15032, RESELLER
+aolcloud.net,15032, RESELLER
+
+# yahoo
+appnexus.com, 3663, RESELLER
+
+# ad-stir
+ad-stir.com, 3088, DIRECT
+
+# gmo
+gmossp-sp.jp, 2000277, DIRECT #video, banner, native
+
+# cci
+openx.com, 67017, RESELLER, 6a698e2ec38604c6
+openx.com, 537144147, RESELLER, 6a698e2ec38604c6
+openx.com, 68961, RESELLER, 6a698e2ec38604c6
+adingo.jp, 11032, DIRECT
+rubiconproject.com, 11582, RESELLER, 0bfd66d529a55807
+pubmatic.com, 117297, RESELLER, 5d62403b186f2ace
+ad-generation.jp, 2145, RESELLER
+ad-generation.jp,10661,RESELLER
+google.com, pub-7391176573988274, RESELLER, f08c47fec0942fa0
+adtech.com, 9668, RESELLER
+aolcloud.net, 9668, RESELLER
+microad.co.jp, 11291, DIRECT
+openx.com, 69353, RESELLER
+openx.com, 113534, RESELLER
+openx.com, 113178, RESELLER
+openx.com, 539000000, RESELLER
+ad-stir.com, 1757, RESELLER
+rubiconproject.com, 14032, RESELLER
+gmossp.jp, 2000505, RESELLER
+proparm.jp, 1811, RESELLER
+indexexchange.com, 188937, DIRECT
+
+# yieldone
+impact-ad.jp, 162, DIRECT
+impact-ad.jp,3973,DIRECT
+google.com,pub-4094152962392845,RESELLER,f08c47fec0942fa0
+google.com,pub-4231984443817768,RESELLER,f08c47fec0942fa0
+openx.com,539294039,RESELLER,6a698e2ec38604c6
+openx.com,540233901,RESELLER,6a698e2ec38604c6
+rubiconproject.com,14486,RESELLER,0bfd66d529a55807
+rubiconproject.com,20004,RESELLER,0bfd66d529a55807
+appnexus.com,7702,RESELLER,f5ab79cb980f11d1
+adtech.com,9670,RESELLER
+aolcloud.net,9670,RESELLER
+advertising.com,14558,RESELLER
+pubmatic.com,156899,RESELLER,5d62403b186f2ace
+pubmatic.com,122325,RESELLER,5d62403b186f2ace
+pubmatic.com,156959,RESELLER,5d62403b186f2ace
+pubmatic.com,157746,RESELLER,5d62403b186f2ace
+uliza.jp,2118,RESELLER
+nend.net,11072,RESELLER
+
+# aol
+adtech.com, 9644, DIRECT
+aolcloud.net, 9644, DIRECT
+adtech.com, 15071, DIRECT
+openx.com, 537143344, Reseller
+appnexus.com, 1226, Reseller
+indexexchange.com, 175407, Reseller, 50b1c356f2c5c8fc
+pubmatic.com, 156530, Reseller, 5d62403b186f2ace
+
+# ad-generation
+ad-generation.jp, 9830, DIRECT
+
+# brainy
+proparm.jp, 1730, DIRECT
+ad-generation.jp, 9168, RESELLER
+rubiconproject.com, 12498, RESELLER, 0bfd66d529a55807
+ad-stir.com, 5196, RESELLER
+adingo.jp, 17496, RESELLER
+gmossp-sp.jp, 2000420, RESELLER
+
+# rubicon
+rubiconproject.com, 17758, DIRECT, 0bfd66d529a55807
+rubiconproject.com, 12278, DIRECT, 0bfd66d529a55807
+
+# openx
+openx.com, 539857518, DIRECT, 6a698e2ec38604c6
+openx.com, 539893770, DIRECT, 6a698e2ec38604c6
+openx.com, 540593309, DIRECT, 6a698e2ec38604c6
+
+# Amazon
+aps.amazon.com, 3488, DIRECT
+
+# aja
+adtdp.com,2297,DIRECT
+as.amanad.adtdp.com,2297,DIRECT
+
+# unruly
+video.unrulymedia.com, UNRX_6319580b-a710-4b8e-87e4-b3fdbc0578ac, DIRECT
+indexexchange.com, 182257, RESELLER
+appnexus.com, 6849, RESELLER
+rubiconproject.com, 15268, RESELLER
+
+# Fluct
+
+adingo.jp, 20206, RESELLER
+pubmatic.com, 156313, RESELLER, 5d62403b186f2ace

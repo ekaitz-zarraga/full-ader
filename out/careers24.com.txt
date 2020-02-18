@@ -1,0 +1,106 @@
+# Ads.txt file for careers24.com desktop:
+#Ads.txt file for news24.com - start of list#
+google.com, pub-7779027078698074, DIRECT
+google.com, pub-6302319228768877, DIRECT
+google.com, pub-0710600889784454, DIRECT
+outbrain.com, 00f368c60c3e20414baf560d4576489955, DIRECT
+appnexus.com, 2365, DIRECT
+indexexchange.com, 185053, DIRECT
+openx.com, 539906709, DIRECT
+spotxchange.com, 7842df1d2fe2db34, DIRECT
+spotx.tv, 7842df1d2fe2db34, DIRECT
+appnexus.com, 7597, reseller, f5ab79cb980f11d1
+tremorhub.com, q017o-78mlk, reseller, 1a4e959a1b50034a
+teads.tv, 15429, reseller, 15a9c44f6d26cbe1
+advertising.com, 26154, reseller
+spotxchange.com, 225721, reseller
+freewheel.tv, 741650, reseller
+rubiconproject.com, 17130, reseller, 0bfd66d529a55807
+lkqd.net, 450, reseller, 59c49fa9598a0117
+openx.com, 540393169, reseller, 6a698e2ec38604c6
+spotx.tv, 238936, reseller, 7842df1d2fe2db34
+spotxchange.com, 238936, reseller, 7842df1d2fe2db34
+advertising.com, 28038, reseller
+rubiconproject.com, 19668, reseller, 0bfd66d529a55807
+rubiconproject.com, 20246, RESELLER, 0bfd66d529a55807
+#Ads.txt file for news24.com end of list#
+
+#AffinityAuthorisedSellers ads.txt - start of list#
+google.com, pub-6314168058065736, RESELLER, f08c47fec0942fa0
+contextweb.com, 561119, RESELLER
+appnexus.com, 2007, RESELLER
+adtech.com, 5359, RESELLER
+aolcloud.net, 5359, RESELLER
+advertising.com, 5359, RESELLER
+pubmatic.com, 32987, RESELLER
+pubmatic.com, 158033, RESELLER, 5d62403b186f2ace
+google.com, pub-9329782710590870, RESELLER, f08c47fec0942fa0
+google.com, pub-5880401011681483, RESELLER, f08c47fec0942fa0
+google.com, pub-8840552006567450, RESELLER, f08c47fec0942fa0
+google.com, pub-1425207524276770, RESELLER, f08c47fec0942fa0
+memevideoad.com ,320,DIRECT
+33across.com,0010b00001u5IYkAAM,DIRECT,bbea06d9c4d2853c
+appnexus.com,1356,RESELLER,f5ab79cb980f11d1
+emxdgt.com,326,RESELLER,1e1d41537f7cad7f
+indexexchange.com,185506,RESELLER
+pubmatic.com,156423,RESELLER,5d62403b186f2ace
+rhythmone.com,2439829435,RESELLER,a670c89d4a324e47
+rubiconproject.com,16414,RESELLER,0bfd66d529a55807
+ssp.ynxs.io, 185, DIRECT
+adtech.com, 11214, RESELLER
+appnexus.com, 1942, RESELLER, f5ab79cb980f11d1
+contextweb.com, 558355, RESELLER
+gumgum.com, 13596, DIRECT, ffdef49475d318a9
+openx.com, 537120563, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 50758, RESELLER, 5d62403b186f2ace
+rhythmone.com, 78519861, RESELLER
+advertising.com, 8893, DIRECT
+contextweb.com, 560860, RESELLER, 89ff185a4c4e857c
+springserve.com, 778, DIRECT, a24eb641fc82e93d
+lkqd.net, 44, Direct, 59c49fa9598a0117
+Improvedigital.com, 1087, RESELLER
+Freewheel.tv, 440993, RESELLER
+Freewheel.tv, 440961, RESELLER
+districtm.io, 101669, DIRECT
+appnexus.com, 1908, RESELLER, f5ab79cb980f11d1
+google.com, pub-9685734445476814, RESELLER, f08c47fec0942fa0
+indexexchange.com, 188626, DIRECT
+lkqd.net, 39, RESELLER, 59c49fa9598a0117
+rhythmone.com, 1755648630, RESELLER
+rubiconproject.com, 18126, RESELLER, 0bfd66d529a55807
+spotxchange.com, 77201,RESELLER,7842df1d2fe2db34
+springserve.com, 316, RESELLER, a24eb641fc82e93d
+freewheel.tv, 151177, RESELLER
+freewheel.tv, 414097, RESELLER
+freewheel.tv, 149025, RESELLER
+improvedigital.com, 1171, RESELLER
+pubmatic.com, 156186, RESELLER, 5d62403b186f2ace 1
+rhythmone.com, 2968119028, DIRECT, a670c89d4a324e47
+advertising.com, 25308, RESELLER
+adtech.com, 10466, RESELLER
+spotxchange.com, 211738, RESELLER, 7842df1d2fe2db34
+spotx.tv, 211738, RESELLER, 7842df1d2fe2db34
+xapads.com, 1104, DIRECT
+contextweb.com, 561844, DIRECT, 89ff185a4c4e857c
+pubmatic.com, 157535, RESELLER
+pubmatic.com, 157704, RESELLER
+adyoulike.com, 9f14a0ea05b1772110f4b8707d1c2f07, DIRECT, 4ad745ead2958bf7
+freewheel.tv, 745362, RESELLER
+freewheel.tv, 745378, RESELLER
+spotxchange.com, 230037, RESELLER, 7842df1d2fe2db34
+spotx.tv, 230037, RESELLER, 7842df1d2fe2db34
+tremorhub.com, ewut4-b6zwq, RESELLER, 1a4e959a1b50034a
+advertising.com, 18201, RESELLER
+ssp.smartyads.com, 7169, DIRECT
+pubmatic.com, 157113, RESELLER, 5d62403b186f2ace
+motionspots.com , 93, DIRECT
+ucfunnel.com, par-BE7EE4944736DA66C726B6B687329284, DIRECT 
+aralego.com, par-BE7EE4944736DA66C726B6B687329284, DIRECT
+#AffinityAuthorisedSellers ads.txt - end of list#
+
+#MMP Authorised Sellers ads.txt - start of list#
+google.com, pub-3992393056167515, RESELLER, f08c47fec0942fa0
+google.com, 27367402, RESELLER, f08c47fec0942fa0
+indexexchange.com, 187558, RESELLER
+rubiconproject.com, 19512, RESELLER, 0bfd66d529a55807
+#MMP Authorised Sellers ads.txt - end of list#

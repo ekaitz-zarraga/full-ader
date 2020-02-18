@@ -1,0 +1,12 @@
+google.com, pub-7480457447608291, DIRECT, f08c47fec0942fa0
+google.com, pub-2628371516912843, DIRECT, f08c47fec0942fa0
+appnexus.com, 9584, DIRECT
+
+# ucfunnel
+ucfunnel.com, par-8A2ADB888EB247BB13B797BE37AA943, DIRECT
+aralego.com, par-8A2ADB888EB247BB13B797BE37AA943, DIRECT
+
+# TenMax
+google.com, pub-4338256439626145, DIRECT, f08c47fec0942fa0
+google.com, pub-9467144491537745, DIRECT, f08c47fec0942fa0
+tenmax.io, fadcc2c833, DIRECT

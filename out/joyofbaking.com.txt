@@ -1,0 +1,323 @@
+google.com, pub-2951063660288141, DIRECT, f08c47fec0942fa0
+
+contextweb.com, 502048, DIRECT, 89ff185a4c4e857
+
+#Ads.txt joyofbaking.com
+
+# 33Across
+33across.com, 0013300001jaEtbAAE, DIRECT  #display
+ 
+# 33Across - Google
+google.com, pub-9557089510405422, RESELLER, f08c47fec0942fa0  #display
+
+# 33Across - AppNexus
+appnexus.com, 1001, RESELLER  #display
+appnexus.com, 3135, RESELLER  #display
+
+# 33Across - OpenX
+openx.com, 537120563, RESELLER, 6a698e2ec38604c6  #display
+
+# 33Across - Rubicon
+rubiconproject.com, 16414, RESELLER, 0bfd66d529a55807  #display
+
+# 33Across - PubMatic
+pubmatic.com, 156423, RESELLER, 5d62403b186f2ace  #display
+
+# 33Across - Amazon
+amazon.com, 3411, RESELLER  #display
+
+# 33Across - Criteo
+criteo.com, 3450, RESELLER  #display
+
+# 33Across - Index
+indexexchange.com, 185506, RESELLER  #display
+
+# 33Across - LKQD
+lkqd.com, 293, RESELLER, 59c49fa9598a0117  #video
+lkqd.net, 293, RESELLER, 59c49fa9598a0117  #video
+
+# 33Across - SpotX
+spotxchange.com, 139883, RESELLER, 7842df1d2fe2db34  #video
+spotx.tv, 139883, RESELLER, 7842df1d2fe2db34  #video
+
+# 33Across - Oath
+adtech.com, 9993, RESELLER  #display
+aolcloud.net, 9993, RESELLER  #display
+advertising.com, 12543, RESELLER  #display
+
+# 33Across - bRealTime
+openx.com, 539266264, RESELLER, 6a698e2ec38604c6  #display
+appnexus.com, 1356, RESELLER, f5ab79cb980f11d1  #display
+emxdgt.com, 326, RESELLER, 1e1d41537f7cad7f  #display
+google.com, pub-5995202563537249, RESELLER, f08c47fec0942fa0  appnexus.com, 10239, RESELLER, f5ab79cb980f11d1
+#display
+
+
+#Ads.txt joyofbaking.com 
+
+
+
+#Ads.txt joyofbaking.com 
+
+
+
+#Ads.txt joyofbaking.com 
+
+
+
+
+gourmetads.com, 555, DIRECT 
+########################################################################################################
+#                                                                                                      #
+# THIS PUBLISHER IS MANAGED GOURMET ADS OR HEALTHY ADS                                                 #
+#                                                                                                      #
+# Gourmet Ads (https://www.gourmetads.com)is a network of Food, Cooking & Recipe Websites              #
+#                                                                                                      #
+# Healthy Ads (https://www.healthyads.com)is a network of Health, Medical & Fitness Websites           #
+#                                                                                                      #
+#                                                                                                      #
+# For Advertisers we offer Programmatic, Manages Services & Header Bidding Integrations.               #          
+#                                                                                                      #
+# Programmatic Deals                                                                                   # 
+# We offer a wide range of Programmatic options including Deal IDs. Ask about Smart Deals logic        #
+# powered by Machine Learning and Data Science.                                                        #     
+#                                                                                                      # 
+# MANAGED SERVICES                                                                                     #  
+# From Retargeting, Prospecting, Data Targeting or Audience Extension we have a wide range of options  #
+# available to suit any advertiser.                                                                    #
+#                                                                                                      #    
+# HEADER BIDDING                                                                                       # 
+# We offer Header Bidding integrations at scale via Prebid.js & Prebid Server                          #  
+#                                                                                                      #  
+# Partnership Enquiries                                                                                #   
+#                                                                                                      #
+# For Gourmet Ads Partnerships >>>> https://www.gourmetads.com/contact                                 #  
+#                                                                                                      #
+# For Healthy Ads Partnerships >>>> https://www.healthyads.com/contact                                 #  
+#                                                                                                      #
+########################################################################################################
+
+#startoffile#10172019
+adtech.com, 10713, DIRECT
+appnexus.com, 1792, DIRECT, f5ab79cb980f11d1
+rubiconproject.com, 10617, DIRECT
+indexexchange.com, 184268, DIRECT
+c.amazon-adsystem.com, 3007, DIRECT
+advertising.com , 18977, DIRECT
+sonobi.com, a8f851cb57, DIRECT
+openx.com, 537142979, DIRECT
+openx.com, 539827824, DIRECT, 6a698e2ec38604c6
+coxmt.com, 2000068006002, DIRECT
+criteo.com, 143820, DIRECT
+google.com, pub-2082625223352086, RESELLER, f08c47fec0942fa0
+conversantmedia.com, 41603, DIRECT, 03113cd04947736d
+themediagrid.com, UPO4A3, DIRECT, 35d5010d7789b49d
+teads.tv, 14321, DIRECT, 15a9c44f6d26cbe1
+ 
+##########################################
+#ads.txt Adform
+ 
+adform.com, 890, DIRECT
+adform.com, 123, RESELLER
+adform.com, 1655, DIRECT
+ 
+##########################################
+#ads.txt Adyoulike
+ 
+adyoulike.com, e044508440865bd5d22848dbb171bf86, DIRECT, 4ad745ead2958bf7
+ 
+##########################################
+#ads.txt Amazon
+ 
+aps.amazon.com,00bcac36-1a3a-4676-8c13-9c85990e44dc,DIRECT
+pubmatic.com,156011,DIRECT,5d62403b186f2ace
+openx.com,539827824,DIRECT,6a698e2ec38604c6
+appnexus.com,1356,RESELLER,f5ab79cb980f11d1
+Google.com,pub-5995202563537249,RESELLER,f08c47fec0942fa0
+emxdgt.com,1087823,DIRECT,1e1d41537f7cad7f
+appnexus.com,1908,RESELLER,f5ab79cb980f11d1
+rubiconproject.com,18020,RESELLER,0bfd66d529a55807
+adtech.com,12068,RESELLER,e1a5b5b6e3255540
+districtm.io,100962,RESELLER,3fd707be9c4527c3
+rhythmone.com,1654642120,RESELLER,a670c89d4a324e47
+ad-generation.jp,12474,RESELLER
+ 
+##########################################
+#ads.txt Beachfront
+ 
+beachfront.com, 12562, DIRECT, e2541279e8e2ca4d
+ 
+##########################################
+#ads.txt Brealtime
+  
+emxdgt.com, 58, DIRECT, 1e1d41537f7cad7f
+appnexus.com, 1356, RESELLER, f5ab79cb980f11d1
+google.com, pub-5995202563537249, RESELLER, f08c47fec0942fa0
+emxdgt.com, 487, DIRECT, 1e1d41537f7cad7f
+ 
+##########################################
+#ads.txt C1exchange
+ 
+c1exchange.com, C1X201401, DIRECT
+ 
+##########################################
+#ads.txt Consumable
+ 
+adtech.com, 10947, RESELLER ##client-side
+aolcloud.net, 10947, RESELLER ##s2s
+appnexus.com, 1356, RESELLER ##brealtime
+appnexus.com, 7556, RESELLER
+contextweb.com, 560653, RESELLER #sonobi-pulsepoint
+emxdgt.com, 20, RESELLER, 1e1d41537f7cad7f ##brealtime
+google.com, pub-6694481294649483, RESELLER
+indexexchange.com, 184914, RESELLER
+indexexchange.com, 186248, RESELLER, 50b1c356f2c5c8fc ##ebda
+lijit.com, 248396, RESELLER, fafdf38b16bf6b2b
+openx.com, 537150004, RESELLER
+pubmatic.com, 156319, RESELLER
+sonobi.com, e55fb5d7c2, RESELLER
+sovrn.com, 248396, RESELLER, fafdf38b16bf6b2b
+google.com, pub-5995202563537249, RESELLER, f08c47fec0942fa0
+indexexchange.com, 175407, RESELLER
+openx.com, 537120960, RESELLER
+openx.com, 537143344, RESELLER
+openx.com, 538959099, RESELLER
+openx.com, 83499, RESELLER
+pubmatic.com, 137711, RESELLER
+pubmatic.com, 156078, RESELLER, 5d62403b186f2ace ##banner
+pubmatic.com, 156212, RESELLER
+pubmatic.com, 62483, RESELLER
+rubiconproject.com, 17632, RESELLER, 0bfd66d529a55807
+google.com, pub-9685734445476814, RESELLER, f08c47fec0942fa0 #
+openx.com, 539699341, RESELLER, 6a698e2ec38604c6 ##EBDA
+pubmatic.com, 156458, RESELLER, 5d62403b186f2ace ##video
+pubmatic.com, 156138, RESELLER, 5d62403b186f2ace ##banner
+rubiconproject.com, 18890, RESELLER, 0bfd66d529a55807  ##ebda
+pubmatic.com, 157367, RESELLER ##ebda
+coxmt.com, 2000067907202, RESELLER
+indexexchange.com, 187454, RESELLER ##s2s
+consumable.com, 2000714, DIRECT
+ 
+##########################################
+#ads.txt Conversantmedia
+ 
+conversantmedia.com, 41603, DIRECT, 03113cd04947736d
+appnexus.com, 4052, RESELLER
+contextweb.com, 561998, RESELLER, 89ff185a4c4e857c
+openx.com, 540031703, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 158100, RESELLER, 5d62403b186f2ace
+ 
+##########################################
+#ads.txt Districtm
+  
+districtm.io, 101015, DIRECT
+appnexus.com, 1908, RESELLER
+ 
+##########################################
+#ads.txt GumGum
+ 
+gumgum.com, 12900, RESELLER, ffdef49475d318a9
+33across.com, 0013300001r0t9mAAA, RESELLER
+appnexus.com, 1001, RESELLER, f5ab79cb980f11d1
+appnexus.com, 1942, RESELLER, f5ab79cb980f11d1
+appnexus.com, 2758, RESELLER, f5ab79cb980f11d1
+appnexus.com, 3135, RESELLER, f5ab79cb980f11d1
+appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
+appnexus.com, 10239, RESELLER, f5ab79cb980f11d1
+bidtellect.com, 1407, RESELLER, 1c34aa2d85d45e93
+contextweb.com, 558355, RESELLER
+criteo.com, 109412, DIRECT, 9fac4a4a87c2a44f
+google.com, pub-9557089510405422, RESELLER, f08c47fec0942fa0
+google.com, pub-3848273848634341, RESELLER, f08c47fec0942fa0
+lkqd.com, 470, RESELLER, 59c49fa9598a0117
+lkqd.net, 470, RESELLER, 59c49fa9598a0117
+openx.com, 537120563, RESELLER, 6a698e2ec38604c6
+openx.com, 537149485, RESELLER, 6a698e2ec38604c6
+outbrain.com, 01a755b08c8c22b15d46a8b753ab6955d4, RESELLER
+outbrain.com, 01a755b08c8c22b15d46a8b753ab6955d4, DIRECT
+pubmatic.com, 50758, RESELLER, 5d62403b186f2ace
+rhythmone.com, 78519861, RESELLER
+rubiconproject.com, 16414, RESELLER, 0bfd66d529a55807
+spotx.tv, 147949, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 147949, RESELLER, 7842df1d2fe2db34
+  
+##########################################
+#ads.txt Horizon Point
+ 
+google.com, pub-7064439419818173, RESELLER 
+ 
+##########################################
+#ads.txt JustPremium
+ 
+adform.com, 183, RESELLER   
+appnexus.com, 7118, RESELLER   
+freewheel.tv, 33081, RESELLER   
+freewheel.tv, 33601, RESELLER   
+google.com, pub-8172268348509349, RESELLER, f08c47fec0942fa0
+improvedigital.com, 185, RESELLER   
+openx.com, 539518966, RESELLER, 6a698e2ec38604c6
+spotx.tv, 108933, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 108933, RESELLER, 7842df1d2fe2db34
+ 
+##########################################
+#ads.txt Media.net
+ 
+media.net, 8CUN6NH3D, DIRECT
+sonobi.com, 83729e979b, RESELLER   
+coxmt.com, 2000068030802, RESELLER 
+districtm.io, 100600, RESELLER
+pubmatic.com, 157291, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 17054, RESELLER, 0bfd66d529a55807
+rhythmone.com, 3611299104, RESELLER
+openx.com, 537100188, RESELLER, 6a698e2ec38604c6
+ 
+##########################################
+#ads.txt Padsquad
+  
+appnexus.com, 6824, RESELLER
+rubiconproject.com,20848, RESELLER, 0bfd66d529a55807
+ 
+##########################################
+#ads.txt Pubmatic
+ 
+pubmatic.com, 99931, DIRECT, 5d62403b186f2ace
+pubmatic.com, 156011, DIRECT, 5d62403b186f2ace
+  
+##########################################
+#ads.txt Pulsepoint
+ 
+contextweb.com, 561070, DIRECT, 89ff185a4c4e857c
+contextweb.com, 561513, DIRECT, 89ff185a4c4e857c
+  
+##########################################
+#ads.txt Sharethrough
+ 
+sharethrough.com, 1c3179bc, DIRECT, d53b998a7bd4ecd2
+indexexchange.com, 186046, RESELLER
+spotxchange.com, 212457, RESELLER
+spotx.tv, 212457, RESELLER
+pubmatic.com, 156557, RESELLER
+rubiconproject.com, 18694, RESELLER, 0bfd66d529a55807
+openx.com, 540274407, RESELLER, 6a698e2ec38604c6
+ 
+##########################################
+#ads.txt Sovrn
+ 
+sovrn.com, 227193, DIRECT, fafdf38b16bf6b2b
+lijit.com, 227193, DIRECT, fafdf38b16bf6b2b
+appnexus.com, 1360, RESELLER, f5ab79cb980f11d1
+gumgum.com, 11645, RESELLER, ffdef49475d318a9
+openx.com, 538959099, RESELLER, 6a698e2ec38604c6
+openx.com, 539924617, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 137711, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156212, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156700, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 17960, RESELLER, 0bfd66d529a55807
+ 
+##########################################
+#ads.txt Yieldmo
+ 
+yieldmo.com, 2322781483523056035, DIRECT
+yieldmo.com, 2322780807812293024, DIRECT
+rubiconproject.com, 17070, RESELLER, 0bfd66d529a55807
+appnexus.com, 7911, RESELLER

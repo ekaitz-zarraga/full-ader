@@ -1,0 +1,152 @@
+#Well and Good - 1-7-2020
+
+
+#AdX/AdSense
+google.com, pub-8311881501579970, DIRECT, f08c47fec0942fa0
+google.com, pub-4279434189571393, DIRECT, f08c47fec0942fa0
+google.com, pub-5984318995714541, DIRECT, f08c47fec0942fa0
+google.com, pub-0316265116163263, DIRECT, f08c47fec0942fa0
+google.com, pub-5954686985295975, DIRECT, f08c47fec0942fa0
+
+
+#Amazon
+amazon-adsystem.com, 3066, DIRECT
+aps.amazon.com, 3066, DIRECT
+
+
+#AppMonet
+google.com, pub-5995202563537249, RESELLER, f08c47fec0942fa0
+appnexus.com, 1356, RESELLER, f5ab79cb980f11d1
+
+
+#Appnexus
+appnexus.com, 1258, DIRECT
+
+
+#DistrictM
+districtm.io, 100880, DIRECT
+appnexus.com, 7944, RESELLER
+appnexus.com, 1908, RESELLER
+
+
+#EMX
+EMXDGT.com, 316, DIRECT, 1e1d41537f7cad7f
+
+
+#IX
+indexexchange.com, 183706, DIRECT
+
+
+#IX EB
+indexexchange.com, 184436, DIRECT
+
+
+#Kargo
+kargo.com, 116, DIRECT
+indexexchange.com, 184081, RESELLER
+contextweb.com, 562001, RESELLER, 89ff185a4c4e857c
+appnexus.com, 8173, RESELLER
+
+
+#Oath
+adtech.com, 9836, DIRECT
+aol.com, 5305, DIRECT
+aolcloud.net, 9836, DIRECT
+pubmatic.com, 156078, RESELLER, 5d62403b186f2ace #banner
+pubmatic.com, 156138, RESELLER, 5d62403b186f2ace #banner
+
+
+#Oath EB
+advertising.com, 28254, DIRECT
+
+
+#Oath Vid
+advertising.com, 27536, DIRECT
+
+
+#OpenX
+openx.com, 537143710, DIRECT, 6a698e2ec38604c6
+
+
+#OpenX EB
+openx.com, 538986824, DIRECT, 6a698e2ec38604c6
+
+
+#OpenX TAM
+openx.com, 539007185, DIRECT, 6a698e2ec38604c6
+
+
+#Pubmatic
+pubmatic.com, 156235, DIRECT, 5d62403b186f2ace
+pubmatic.com, 156496, DIRECT, 5d62403b186f2ace
+
+
+#Pubmatic EB
+pubmatic.com, 157308, DIRECT, 5d62403b186f2ace
+
+
+#RhythmOne
+rhythmone.com, 985506412,DIRECT, a670c89d4a324e47
+1rx.io, 985506412, DIRECT, a670c89d4a324e47
+
+
+#Rubicon
+rubiconproject.com, 8737, DIRECT
+
+
+#Rubicon EB
+rubiconproject.com, 18940, DIRECT, 0bfd66d529a55807
+
+
+#Sharethrough
+sharethrough.com, a3875efb, DIRECT, d53b998a7bd4ecd2
+spotxchange.com, 212457, RESELLER
+spotx.tv, 212457, RESELLER
+pubmatic.com, 156557, RESELLER
+rubiconproject.com, 18694, RESELLER, 0bfd66d529a55807
+openx.com, 540274407, RESELLER, 6a698e2ec38604c6
+indexexchange.com, 186046, RESELLER
+
+
+#Sovrn EB
+sovrn.com, 267645, DIRECT, fafdf38b16bf6b2b
+lijit.com, 267645, DIRECT, fafdf38b16bf6b2b
+
+
+#SpotX
+spotxchange.com, 135453, DIRECT, 7842df1d2fe2db34
+spotx.tv, 135453, DIRECT, 7842df1d2fe2db34
+
+
+#Taboola
+taboola.com,1031571,DIRECT,c228e6794e811952
+taboola.com,1031571,RESELLER,c228e6794e811952
+taboola.com,1074486,DIRECT,c228e6794e811952
+taboola.com,1074486,RESELLER,c228e6794e811952
+taboola.com,1060686,DIRECT,c228e6794e811952
+taboola.com,1060686,RESELLER,c228e6794e811952
+taboola.com,1063081,DIRECT,c228e6794e811952
+taboola.com,1063081,RESELLER,c228e6794e811952
+taboola.com,1060974,DIRECT,c228e6794e811952
+taboola.com,1060974,RESELLER,c228e6794e811952
+spotx.tv,71451,RESELLER
+spotxchange.com, 71451, RESELLER
+advertising.com, 8603, RESELLER
+pubmatic.com, 156307, RESELLER, 5d62403b186f2ace
+appnexus.com, 3364, RESELLER
+indexexchange.com, 183756, RESELLER
+contextweb.com, 560382, RESELLER
+tremorhub.com, z87wm, RESELLER, 1a4e959a1b50034a
+rubiconproject.com, 16698, RESELLER, 0bfd66d529a55807
+fyber.com, ad9de41d28d494354b23133f26f83122, RESELLER
+fyber.com, 1a12a7e3f84fe560ccf95a3a73043abb, RESELLER
+advertising.com, 3531, RESELLER
+openx.com, 539154393, RESELLER
+
+
+#TripleLift EB
+triplelift.com, 6072-EB, DIRECT, 6c33edb13117fd86
+
+
+#Verizon Media EB
+advertising.com, 28496, DIRECT, e1a5b5b6e3255540

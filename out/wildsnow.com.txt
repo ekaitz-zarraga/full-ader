@@ -1,0 +1,7 @@
+#this is ads.txt, it has nearly nothing, it is here to conform to this stupid informal standard, it is useless for us
+#without this file we get hit for ads.txt and get a bunch of server errors in log
+#but for some reason hacker bots also look for this file
+#below is the ads.txt line required for adsense, this is all totally unnecessary for us, but if ads.txt is included it needs this line
+google.com, pub-8093284038752434, DIRECT, f08c47fec0942fa0 #our adsense account
+#next line is example-info for creating new lines
+#domain of seller,ID,word DIRECT or RESELLER,optional tag ID #comment can be on same line

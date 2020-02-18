@@ -1,0 +1,94 @@
+# Publift FUSE ads.txt #
+# Updated: 01/08/2018#
+# Contact: au.am@publift.com #
+
+# Google
+
+google.com, pub-5884294479391638, RESELLER
+google.com, pub-2116585609477582, DIRECT, f08c47fec0942fa0
+google.com, pub-9699421485780808, DIRECT, f08c47fec0942fa0
+
+# Pubmatic
+
+pubmatic.com, 156230, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156762, RESELLER, 5d62403b186f2ace
+
+# AppNexus
+
+appnexus.com, 9623, RESELLER
+
+# Rubicon
+
+rubiconproject.com, 17348, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 11504, RESELLER, 0bfd66d529a55807 
+
+# Criteo
+
+criteo.com, 4130, RESELLER
+
+# Index Exchange
+
+indexexchange.com, 186270, RESELLER
+indexexchange.com, 186407, DIRECT
+
+# DistrictM
+
+districtm.io, 100858, DIRECT
+appnexus.com, 1908, RESELLER, f5ab79cb980f11d1
+appnexus.com, 7944, RESELLER, f5ab79cb980f11d1
+google.com, pub-9685734445476814, RESELLER, f08c47fec0942fa0
+
+# Conversant Media
+
+conversantmedia.com, 41333, DIRECT
+
+# Sekindo
+
+sekindo.com, 19604, DIRECT, Sekindo
+spotxchange.com	, 84294, RESELLER, 7842df1d2fe2db34	
+spotx.tv, 84294	, RESELLER, 7842df1d2fe2db34	
+advertising.com, 7372, RESELLER	
+advertising.com	, 24410, RESELLER	
+lkqd.net, 244, RESELLER, 59c49fa9598a0117	
+lkqd.com, 244, RESELLER, 59c49fa9598a0117	
+tremorhub.com, mb9eo-oqsbf, RESELLER, 1a4e959a1b50034a	
+freewheel.tv, 19129, RESELLER	
+freewheel.tv, 621569, RESELLER	
+adform.com, 2078, RESELLER	
+improvedigital.com, 1065, RESELLER	
+tidaltv.com, 32071, RESELLER	
+pubmatic.com, 156380, RESELLER, 5d62403b186f2ace	
+pubmatic.com, 156595, RESELLER, 5d62403b186f2ace
+districtm.io, 101359, RESELLER
+appnexus.com, 1908, RESELLER, f5ab79cb980f11d1
+
+# Brightcom
+
+brightcom.com, 2140663, DIRECT
+rubiconproject.com, 18034, RESELLER, 0bfd66d529a55807
+google.com, pub-5231479214411897, RESELLER, f08c47fec0942fa0
+google.com, pub-4207323757133151, RESELLER
+33across.com, 0013300001qkdlwAAA, RESELLER
+google.com, pub-9557089510405422, RESELLER, f08c47fec0942fa0
+appnexus.com, 1001, RESELLER
+appnexus.com, 3135, RESELLER
+openx.com, 537120563, RESELLER, 6a698e2ec38604c6
+districtm.io, 101080, RESELLER
+appnexus.com, 1908, RESELLER
+google.com, pub-9685734445476814, RESELLER, f08c47fec0942fa0
+pubmatic.com, 6846, RESELLER, 5d62403b186f2ace
+pubmatic.com, 153752, RESELLER, 5d62403b186f2ace
+pubmatic.com, 93940, RESELLER
+admixer.net, f648b604-b225-490a-bc49-016d1c7993a2, RESELLER
+smartadserver.com, 1994, reseller
+appnexus.com, 6953, reseller
+adform.com, 1762, reseller
+imonomy.com, 2189 , RESELLER
+openx.com, 537104839, RESELLER, 6a698e2ec38604c6
+contextweb.com,561438, RESELLER
+aolcloud.net, 11099, RESELLER
+freewheel.tv, 118529, RESELLER
+
+#Legacy#
+#Add any previous ads.txt lines below, for example your personal AdSense#
+openx.com, 540717835, RESELLER, 6a698e2ec38604c6

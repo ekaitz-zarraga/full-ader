@@ -1,0 +1,10 @@
+#Ads.txt lazezh.com
+
+google.com, pub-1018291046422176, DIRECT
+google.com, pub-8541583196492976, DIRECT, f08c47fec0942fa0
+
+
+
+
+#FoxPush
+google.com, pub-8113799588685394, RESELLER, f08c47fec0942fa0

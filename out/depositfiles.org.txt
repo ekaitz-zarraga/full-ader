@@ -1,0 +1,42 @@
+addroplet.com, 82, DIRECT
+pubmatic.com, 51616, RESELLER, 5d62403b186f2ace
+marketgid.com, 99120, DIRECT
+adtags.pro, 499, DIRECT 
+mads.com, 9517627168, RESELLER 
+indexexchange.com, 180179, RESELLER, 50b1c356f2c5c8fc 
+stroeer.com, 14214, RESELLER 
+indexexchange.com, 183592, RESELLER, 50b1c356f2c5c8fc 
+Appnexus.com, 1371, RESELLER, f5ab79cb980f11d1 
+contextweb.com, 558750, RESELLER, 89ff185a4c4e857c 
+xapads.com, 698, DIRECT
+
+# Vidazoo
+vidazoo.com, 9850847300, DIRECT
+vidazoo.com, 8805141810, RESELLER
+admarvel.com, 163669, RESELLER
+advertising.com, 7873, RESELLER
+beachfront.com, beachfront_5708, RESELLER
+afy11.net, 2885, RESELLER
+freewheel.tv, 625377, RESELLER
+fyber.com, dcec88ad88c1d7756473211fb0cbdaa9, RESELLER
+improvedigital.com, 962, RESELLER
+pubmatic.com, 156145, RESELLER
+rhythmone.com, 2128760332, RESELLER, a670c89d4a324e47
+spotxchange.com, 92299, RESELLER
+spotx.tv, 92299, RESELLER
+rubiconproject.com, 17130, RESELLER, 0bfd66d529a55807
+
+mgid.com, 21391, DIRECT
+mgid.com, 26070, DIRECT
+mgid.com, 26106, DIRECT
+mgid.com, 2320373, DIRECT
+mgid.com, 5562413, DIRECT
+mgid.com, 56996630, DIRECT
+mgid.com, 487, DIRECT, d4c29acad76ce94f
+
+#SolveMedia
+google.com, pub-1206942066043065, DIRECT, f08c47fec0942fa0
+
+seaofads.com, 82, DIRECT
+pubmatic.com, 51616, RESELLER, 5d62403b186f2ace
+4dsply.com, 82, DIRECT

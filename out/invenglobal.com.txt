@@ -1,0 +1,214 @@
+#InvenGlobal
+google.com, pub-6440513375141933, DIRECT, f08c47fec0942fa
+
+# Video platform, Pri
+sekindo.com, 25017, DIRECT, b6b21d256ef43532
+spotxchange.com, 84294, RESELLER, 7842df1d2fe2db34
+spotx.tv, 84294, RESELLER, 7842df1d2fe2db34
+advertising.com, 7372, RESELLER
+advertising.com, 24410, RESELLER
+lkqd.net, 244, RESELLER, 59c49fa9598a0117
+lkqd.com, 244, RESELLER, 59c49fa9598a0117
+freewheel.tv, 19129, RESELLER
+freewheel.tv, 19133, RESELLER
+adform.com, 2078, RESELLER
+improvedigital.com, 1065, RESELLER
+pubmatic.com, 156595, RESELLER, 5d62403b186f2ace
+districtm.io, 101359, RESELLER
+appnexus.com, 1908, RESELLER, f5ab79cb980f11d1
+smartclip.net, 7649, RESELLER
+google.com, pub-1320774679920841, RESELLER, f08c47fec0942fa0
+openx.com, 540258065, RESELLER, 6a698e2ec38604c6
+spotxchange.com, 220321, RESELLER, 7842df1d2fe2db34
+spotx.tv, 220321, RESELLER, 7842df1d2fe2db34
+loopme.com, 10520, RESELLER, 6c8d5f95897a5a3b
+rhythmone.com,1897319827,RESELLER,a670c89d4a324e47
+tremorhub.com, mb9eo-oqsbf, RESELLER, 1a4e959a1b50034a
+sovrn.com, 270173, RESELLER, fafdf38b16bf6b2b
+lijit.com, 270173, RESELLER, fafdf38b16bf6b2b
+pubmatic.com, 158811, RESELLER, 5d62403b186f2ace
+openx.com, 540717834, RESELLER, 6a698e2ec38604c6
+rubiconproject.com, 20132, RESELLER, 0bfd66d529a55807
+advertising.com, 28485, RESELLER
+telaria.com,mb9eo-e04lh,RESELLER,1a4e959a1b50034a
+tremorhub.com,mb9eo-e04lh,RESELLER,1a4e959a1b50034a
+
+#Gamer Network
+indexexchange.com, 185247, DIRECT
+openx.com, 538986826, DIRECT, 6a698e2ec38604c6
+google.com, pub-6808778588815127, DIRECT, f08c47fec0942fa0
+google.com, pub-6785607355595683, DIRECT, f08c47fec0942fa0
+triplelift.com, 4820, DIRECT, 6c33edb13117fd86
+pubmatic.com, 157312, DIRECT, 5d62403b186f2ace
+rhythmone.com,101233540,DIRECT,868287354
+sovrn.com, 224172, DIRECT, fafdf38b16bf6b2b
+google.com, pub-4560360103312331, DIRECT, f08c47fec0942fa0
+appnexus.com, 1314, RESELLER
+spotxchange.com, 228454, RESELLER, 7842df1d2fe2db34
+spotx.tv, 228454, RESELLER, 7842df1d2fe2db34
+lkqd.net, 504, RESELLER, 59c49fa9598a0117
+coxmt.com,  2000068030202, DIRECT
+rubiconproject.com, 18418, DIRECT, 0bfd66d529a55807
+google.com, pub-7064439419818173, RESELLER  #Display Horizon Point
+sonobi.com, 8612f780c9, DIRECT, d1a215d9eb5aee9e
+rhythmone.com, 1059622079, RESELLER, a670c89d4a324e47
+contextweb.com, 560606, RESELLER, 89ff185a4c4e857c
+
+#Vena
+smartadserver.com, 1827, RESELLER #sublime
+improvedigital.com, 335, RESELLER #sublime
+appnexus.com, 3538, RESELLER #sublime
+appnexus.com, 3539, RESELLER #sublime
+appnexus.com, 3540, RESELLER #sublime
+lkqd.com, 293, RESELLER #33across
+lkqd.net, 293, RESELLER #33across
+33across.com, 33, DIRECT #33across
+amazon.com, 3411, RESELLER #33across
+adtech.com, 9993, RESELLER #33across
+aolcloud.net, 9993, RESELLER #33across
+appnexus.com, 1001, RESELLER #33across
+appnexus.com, 3135, RESELLER #33across
+google.com, pub-9557089510405422, RESELLER, f08c47fec0942fa0 #33across
+spotxchange.com, 139883, RESELLER, 7842df1d2fe2db34 #33across
+spotx.tv, 139883, RESELLER, 7842df1d2fe2db34 #33across
+openx.com, 537120563, RESELLER, 6a698e2ec38604c6 #33across
+rubiconproject.com, 16414, RESELLER #33across
+criteo.com, 3450, RESELLER #33across
+indexexchange.com, 185506, RESELLER #33across
+improvedigital.com, 185, Reseller # JustP
+spotx.tv, 108933, Reseller, 7842df1d2fe2db34 # JustP
+spotxchange.com, 108933, Reseller, 7842df1d2fe2db34 # JustP
+appnexus.com, 7118, Reseller # JustP
+adform.com, 183, RESELLER # JustP
+google.com, pub-8172268348509349, RESELLER, f08c47fec0942fa0 # JustP
+openx.com, 537118780, Reseller, 6a698e2ec38604c6 # JustP CA
+openx.com, 537116751, Reseller, 6a698e2ec38604c6 # JustP UK
+openx.com, 537117145, Reseller, 6a698e2ec38604c6 # JustP US
+openx.com, 539519073, Reseller, 6a698e2ec38604c6 # JustP UK
+openx.com, 539640546, Reseller, 6a698e2ec38604c6 # JustP UK
+
+#Video Intelligence AG
+vi.ai, 573011972916281, DIRECT
+spotxchange.com,74964,RESELLER,7842df1d2fe2db34
+spotx.tv, 74964, RESELLER, 7842df1d2fe2db34
+spotxchange.com,122515,RESELLER,7842df1d2fe2db34
+spotx.tv, 122515, RESELLER, 7842df1d2fe2db34
+freewheel.tv, 440657, RESELLER
+freewheel.tv, 440673, RESELLER
+freewheel.tv, 940769, DIRECT
+freewheel.tv, 940785, RESELLER
+smartadserver.com,2776,RESELLER
+pubmatic.com, 156830, Reseller
+advertising.com,24831,reseller
+rubiconproject.com, 15476, RESELLER, 0bfd66d529a55807
+google.com, pub-5617098146054077, RESELLER, f08c47fec0942fa0
+yieldlab.net, 6248161, RESELLER
+openx.com, 540362347, RESELLER, 6a698e2ec38604c6
+adform.com, 2381, RESELLER
+tremorhub.com, gjd4s, RESELLER, 1a4e959a1b50034a
+
+#Display
+google.com, pub-5781531207509232, DIRECT, f08c47fec0942fa0
+adtech.com, 4596, DIRECT # AOL Hbidding
+appnexus.com, 806, DIRECT # Appnexus Hbidding
+aolcloud.net, 4596, DIRECT # AOL Hbidding
+sonobi.com, 116da9d98c, DIRECT , d1a215d9eb5aee9e # Sonobi Hbidding
+rhythmone.com, 1059622079, RESELLER, a670c89d4a324e47 # Sonobi Hbidding
+contextweb.com, 560606, RESELLER, 89ff185a4c4e857c # Sonobi Hbidding
+sovrn.com, 237754, DIRECT, fafdf38b16bf6b2b # Sovrn Hbidding
+indexexchange.com, 183921, DIRECT # Index Hbidding
+indexexchange.com, 188416, DIRECT # Index Hbidding
+improvedigital.com, 1012, DIRECT # ImproveD Hbidding
+districtm.io, 100749, DIRECT #DM direct Hbidding
+appnexus.com, 1908, RESELLER #DM reseller Hbidding
+appnexus.com, 7944, RESELLER #DM reseller Hbidding
+conversantmedia.com, 41150, DIRECT # Conversant Hbidding
+1rx.io, 1155926068, DIRECT, a670c89d4a324e47 #Rone Hbidding
+openx.com, 537144009, DIRECT, 6a698e2ec38604c6 #OpneX Hbidding
+openx.com, 540368327, RESELLER, 6a698e2ec38604c6 #OpneX Hbidding
+pubmatic.com, 157630, RESELLER, 5d62403b186f2ace #Pubmatic Hbidding
+rubiconproject.com, 13762, DIRECT, 0bfd66d529a55807 # Rubicon Hbidding
+rubiconproject.com, 17902, RESELLER, 0bfd66d529a55807 # Rubicon Hbidding
+rhythmone.com, 1155926068, DIRECT, a670c89d4a324e47 #Rone Hbidding
+rhythmone.com, 608304513, DIRECT, a670c89d4a324e47 #Rone Hbidding
+rhythmone.com, 2864567592,DIRECT, a670c89d4a324e47 #Rone Hbidding
+appnexus.com, 3623, RESELLER #nano
+improvedigital.com, 1017, RESELLER #nano
+triplelift.com, 6059, DIRECT, 6c33edb13117fd86 #triplelift
+appnexus.com, 1314, RESELLER, 6c33edb13117fd86 #triplelift
+adyoulike.com, c1314a52de718f3c214c00173d2994f9, DIRECT, 4ad745ead2958bf7 #adyoulike
+yoc.com, 5482, DIRECT #YOC
+google.com, pub-4473440069902111, RESELLER #YOC
+google.com, pub-7095332606745705, RESELLER #YOC
+smartadserver.com, 2382, RESELLER #YOC
+smartadserver.com, 1363, RESELLER #YOC
+contextweb.com,560288,RESELLER,89ff185a4c4e857c #YOC
+rubiconproject.com,16114,RESELLER, 0bfd66d529a55807 #YOC
+openx.com,537149888,RESELLER,6a698e2ec38604c6 #YOC
+sovrn.com, 257611,RESELLER, fafdf38b16bf6b2b #YOC
+appnexus.com,3703,RESELLER,f5ab79cb980f11d1 #YOC
+
+#Video
+adtech.com, 4596, DIRECT # AOL video
+appnexus.com, 806, DIRECT # Appnexus video
+aolcloud.net, 4596, DIRECT # AOL video
+sonobi.com, 116da9d98c, DIRECT # Sonobi video
+sovrn.com, 237754, DIRECT, fafdf38b16bf6b2b # Sovrn video
+indexexchange.com, 183921, DIRECT # Index video
+improvedigital.com, 1012, DIRECT # ImproveD video
+districtm.io, 100749, DIRECT #DM direct video
+appnexus.com, 1908, RESELLER #DM reseller video
+appnexus.com, 7944, RESELLER #DM reseller video
+conversantmedia.com, 41150, DIRECT # Conversant video
+openx.com, 537144009, DIRECT, 6a698e2ec38604c6 #OpneX video
+rubiconproject.com, 13762, DIRECT, 0bfd66d529a55807 # Rubicon video
+rubiconproject.com, 19582, DIRECT, 0bfd66d529a55807 # Rubicon AU video
+rhythmone.com, 1155926068, DIRECT, a670c89d4a324e47 #Rone video
+rhythmone.com, 608304513, DIRECT, a670c89d4a324e47 #Rone video
+advertising.com, 2694, DIRECT #video
+adtech.com, 2694, DIRECT #video
+aolcloud.net, 2694, DIRECT #video
+freewheel.tv, 1953, DIRECT #video
+improvedigital.com, 1012, DIRECT #video
+lkqd.net, 304, DIRECT, 59c49fa9598a0117 #video
+lkqd.com, 304, RESELLER, 59c49fa9598a0117 #video
+spotx.tv, 141412, DIRECT, 7842df1d2fe2db34 #video
+tremorhub.com, hpwve, RESELLER, 1a4e959a1b50034a #video
+tremorhub.com, zksge-09nus, DIRECT, 1a4e959a1b50034a
+tremorhub.com, zksge-kzhxp, DIRECT, 1a4e959a1b50034a
+spotxchange.com, 141412, DIRECT, 7842df1d2fe2db34 #video
+pubmatic.com, 156715, DIRECT, 5d62403b186f2ace #video
+freewheel.tv, 187721, DIRECT #video
+freewheel.tv, 211121, DIRECT #video
+freewheel.tv, 196129, DIRECT #video
+freewheel.tv, 228641, DIRECT #video
+freewheel.tv, 187865, DIRECT #video
+freewheel.tv, 211129, DIRECT #video
+freewheel.tv, 196145, DIRECT #video
+freewheel.tv, 228649, DIRECT #video
+teads.tv, 16676, DIRECT, 15a9c44f6d26cbe1 #video
+
+#Richmedia
+
+gumgum.com, 13385, DIRECT, ffdef49475d318a9 # GumGum
+adtech.com, 9904, RESELLER # GumGum
+Advertising.com, 16736, RESELLER # GumGum
+aolcloud.net, 9904, RESELLER # GumGum
+appnexus.com, 1001, RESELLER, f5ab79cb980f11d1 # GumGum
+appnexus.com, 1942, RESELLER, f5ab79cb980f11d1 # GumGum
+appnexus.com, 2758, RESELLER, f5ab79cb980f11d1 # GumGum
+appnexus.com, 3135, RESELLER, f5ab79cb980f11d1 # GumGum
+appnexus.com, 7597, RESELLER, f5ab79cb980f11d1 # GumGum
+criteo.com, 109412, DIRECT, 9fac4a4a87c2a44f # GumGum
+google.com, pub-9557089510405422, RESELLER, f08c47fec0942fa0 # GumGum
+google.com, pub-3848273848634341, RESELLER, f08c47fec0942fa0 # GumGum
+indexexchange.com, 177754, RESELLER, 50b1c356f2c5c8fc # GumGum
+lkqd.com, 470, RESELLER, 59c49fa9598a0117 # GumGum
+lkqd.net, 470, RESELLER, 59c49fa9598a0117 # GumGum
+openx.com, 537120563, RESELLER, 6a698e2ec38604c6 # GumGum
+openx.com, 537149485, RESELLER, 6a698e2ec38604c6 # GumGum
+openx.com, 540003333, RESELLER, 6a698e2ec38604c6 # GumGu
+
+#ETC
+mgid.com, 387448, DIRECT, d4c29acad76ce94f
+telaria.com, mb9eo-oqsbf, RESELLER, 1a4e959a1b50034a

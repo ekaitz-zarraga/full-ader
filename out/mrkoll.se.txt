@@ -1,0 +1,9 @@
+google.com, pub-4653812616461147, DIRECT, f08c47fec0942fa0
+google.com, pub-7107494826457415, DIRECT, f08c47fec0942fa0
+adform.com, 2548, DIRECT
+rubiconproject.com, 21614, DIRECT, 0bfd66d529a55807   
+rubiconproject.com, 21616, DIRECT, 0bfd66d529a55807
+pubmatic.com, 158873, DIRECT, 5d62403b186f2ace
+#
+adform.com, 582, RESELLER, 9f5210a2f0999e32
+rubiconproject.com, 17310, RESELLER, 0bfd66d529a55807

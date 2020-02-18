@@ -1,0 +1,7 @@
+#Ads.txt freshdaily.ca
+
+google.com, pub-9418575408670622, DIRECT, f08c47fec0942fa0
+appnexus.com, 928, RESELLER, f5ab79cb980f11d1 #Suite 66
+appnexus.com, 2935, RESELLER, f5ab79cb980f11d1 #Suite 66
+indexexchange.com, 182706, RESELLER, 50b1c356f2c5c8fc #Suite 66
+google.com, pub-2970466365638442, RESELLER, f08c47fec0942fa0 #Suite 66

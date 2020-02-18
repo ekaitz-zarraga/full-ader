@@ -1,0 +1,27 @@
+﻿# S
+google.com, pub-5994011576416099, DIRECT, f08c47fec0942fa0
+
+# M
+google.com, pub-2114578358135779, DIRECT, f08c47fec0942fa0
+
+# iPlr
+iplayer.org, 1000, DIRECT
+ad.iplayer.org, 3000, DIRECT
+
+# Sftgms
+google.com, pub-5846800249286047, RESELLER, f08c47fec0942fa0
+
+# Gmdstrbtn
+spotxchange.com, 153598, RESELLER, 7842df1d2fe2db34
+spotx.tv, 153598, RESELLER, 7842df1d2fe2db34
+freewheel.tv, 215714, RESELLER
+freewheel.tv, 216634, RESELLER
+google.com, pub-1313834454494130, RESELLER, f08c47fec0942fa0
+google.com, pub-2316275586951220, RESELLER, f08c47fec0942fa0
+
+# Fmb
+google.com, pub-2504503821144226, RESELLER, f08c47fec0942fa0
+
+# 4j
+google.com, pub-7677430104552677, RESELLER, f08c47fec0942fa0 
+google.com, pub-5709904851857474, RESELLER, f08c47fec0942fa0

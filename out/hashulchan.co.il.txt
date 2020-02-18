@@ -1,0 +1,37 @@
+#Ads.txt hashulchan.co.il
+
+#belongs to positive mobile
+
+
+google.com, pub-4836542095728076, RESELLER, f08c47fec0942fa0
+google.com, pub-5048387381364655, RESELLER, f08c47fec0942fa0
+
+google.com, pub-5293289092378707, DIRECT, f08c47fec0942fa0
+google.com, pub-1910517883828232, DIRECT, f08c47fec0942fa0
+google.com, pub-5048387381364655, DIRECT, f08c47fec0942fa0
+google.com, pub-3178574937267401, DIRECT, f08c47fec0942fa0
+
+#Programmatic Ad Sales by Adnimation, available through Google Adx, contact for guaranteed deals: publishers@adnimation.com
+google.com, pub-8573325940152694, RESELLER, f08c47fec0942fa0
+google.com, pub-7528949385909099, RESELLER, f08c47fec0942fa0
+
+
+
+#from outbrain
+outbrain.com, 008c4af6e3cbbc129fb2938242b2dc134e, DIRECT
+appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
+tremorhub.com, q017o-78mlk, RESELLER, 1a4e959a1b50034a # Premium video demand aka "Telaria"
+teads.tv, 15429, RESELLER, 15a9c44f6d26cbe1 # Premium video demand
+advertising.com, 26154, RESELLER # Premium video demand
+spotxchange.com, 225721, RESELLER # Premium video demand
+Freewheel.tv, 741650, RESELLER # Premium video demand
+rubiconproject.com, 17130, RESELLER, 0bfd66d529a55807 # Premium video demand
+lkqd.net, 450, RESELLER, 59c49fa9598a0117 # Premium video demand
+openx.com, 540393169, RESELLER, 6a698e2ec38604c6 # Premium video demand
+spotx.tv, 238936, RESELLER, 7842df1d2fe2db34 # Premium video demand
+spotxchange.com, 238936, RESELLER, 7842df1d2fe2db34 # Premium Video Demand
+advertising.com, 28038, RESELLER # Premium Video Demand
+rubiconproject.com, 19668, RESELLER, 0bfd66d529a55807
+
+sekindo.com, 4160, DIRECT
+sekindo.com, 22318, DIRECT

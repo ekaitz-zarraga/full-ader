@@ -1,0 +1,101 @@
+google.com, pub-2759833670743093, DIRECT, f08c47fec0942fa0
+google.com, pub-1420539090378627, DIRECT, f08c47fec0942fa0
+google.com, pub-5574809411562907, DIRECT, f08c47fec0942fa0
+sekindo.com,17470, DIRECT
+sekindo.com, 17471, DIRECT
+taboola.com,1049487,DIRECT,c228e6794e811952
+taboola.com,1049487,RESELLER,c228e6794e811952
+spotxchange.com, 71451, RESELLER
+advertising.com, 8603, RESELLER
+advertising.com, 3531, RESELLER
+pubmatic.com, 156307, RESELLER, 5d62403b186f2ace
+appnexus.com, 3364, RESELLER
+Indexexchange.com, 183756, RESELLER
+contextweb.com, 560382, RESELLER
+openx.com, 539154393, RESELLER
+tremorhub.com, z87wm, RESELLER, 1a4e959a1b50034a
+rubiconproject.com, 16698, RESELLER, 0bfd66d529a55807
+fyber.com, ad9de41d28d494354b23133f26f83122, RESELLER
+fyber.com, 1a12a7e3f84fe560ccf95a3a73043abb, RESELLER
+sekindo.com, 25075, DIRECT
+sekindo.com, 25076, DIRECT
+google.com, pub-4903453974745530, RESELLER
+openx.com, 540158163, DIRECT, 6a698e2ec38604c6
+indexexchange.com, 189097, DIRECT
+sovrn.com, 269075, DIRECT, fafdf38b16bf6b2b
+lijit.com, 269075, DIRECT, fafdf38b16bf6b2b
+appnexus.com, 1360, RESELLER, f5ab79cb980f11d1
+gumgum.com, 11645, RESELLER, ffdef49475d318a9
+openx.com, 538959099, RESELLER, 6a698e2ec38604c6
+openx.com, 539924617, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 137711, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156212, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156700, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 17960, RESELLER, 0bfd66d529a55807 
+spotx.tv, 71451, RESELLER 
+freewheel.tv, 799841, RESELLER 
+freewheel.tv, 799921, RESELLER 
+aol.com, 53392, RESELLER 
+rhythmone.com, 1166984029, RESELLER, a670c89d4a324e47 
+openx.com, 540158163, DIRECT, 6a698e2ec38604c6
+
+#Programmatic Ad Sales by Adnimation, available through Google Adx, contact for guaranteed deals: publishers@adnimation.com
+google.com, pub-8573325940152694, RESELLER, f08c47fec0942fa0
+google.com, pub-7528949385909099, RESELLER, f08c47fec0942fa0
+
+#EBDA
+indexexchange.com, 187357, DIRECT, 50b1c356f2c5c8fc
+openx.com, 540310754, RESELLER, 6a698e2ec38604c6
+
+#SOVRN ADN
+sovrn.com, 269075, DIRECT, fafdf38b16bf6b2b
+lijit.com, 269075, DIRECT, fafdf38b16bf6b2b
+lijit.com, 269075-eb, DIRECT, fafdf38b16bf6b2b
+appnexus.com, 1360, RESELLER, f5ab79cb980f11d1
+gumgum.com, 11645, RESELLER, ffdef49475d318a9
+openx.com, 538959099, RESELLER, 6a698e2ec38604c6
+openx.com, 539924617, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 137711, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156212, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156700, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 17960, RESELLER, 0bfd66d529a55807 
+
+#AppNexus
+appnexus.com, 10815, DIRECT, f5ab79cb980f11d1
+
+#Sonobi.com
+sonobi.com, 49df131b31, DIRECT, d1a215d9eb5aee9e
+
+# Smaato
+smaato.com, 1100039600, DIRECT, 07bcf65f187117b4
+smaato.com, 1100004890, DIRECT, 07bcf65f187117b4
+adcolony.com, 496220845654deec, RESELLER, 1ad675c9de6b5176
+admanmedia.com, 552, RESELLER
+appnexus.com, 1752, RESELLER, f5ab79cb980f11d1
+appnexus.com, 4052, RESELLER
+appnexus.com, 8790, RESELLER, f5ab79cb980f11d1
+bidmachine.io, 36, RESELLER
+bidmachine.io, 60, RESELLER
+bidmachine.io, 74, RESELLER
+bidmachine.io, 77, RESELLER
+blis.com, 86, RESELLER, 61453ae19a4b73f4
+contextweb.com, 558622, RESELLER, 89ff185a4c4e857c
+engagebdr.com, 16, RESELLER
+gammassp.com, 1516331892, RESELLER, 31ac53fec2772a83
+indexexchange.com, 183920, RESELLER, 50b1c356f2c5c8fc
+indexexchange.com, 184270, RESELLER, 50b1c356f2c5c8fc
+inmobi.com, 55049d2e109d4ac1820ca1432dda4e13, RESELLER, 83e75a7ae333ca9d
+mobilefuse.com, 2281, RESELLER
+openx.com, 540421297, RESELLER, 6a698e2ec38604c6
+pokkt.com, 5886, RESELLER, c45702d9311e25fd 
+pubmatic.com, 156177, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156389, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156424, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156425, RESELLER, 5d62403b186f2ace 
+pubnative.net, 1004796, RESELLER, d641df8625486a7b
+pubnative.net, 1007194, RESELLER, d641df8625486a7b
+rhythmone.com, 4201299756, RESELLER, a670c89d4a324e47
+smartadserver.com, 3117, RESELLER
+somoaudience.com, e0ac315e5cd7f6977fe44dbd2d4676ea, RESELLER, afbbacfd95716fd4
+startapp.com, smt, RESELLER
+xad.com, 241, RESELLER, 81cbf0a75a5e0e9a

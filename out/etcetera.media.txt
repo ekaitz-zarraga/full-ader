@@ -1,0 +1,26 @@
+google.com, pub-6357157020881797, DIRECT, f08c47fec0942fa0
+
+google.com, pub-7302036088769417, DIRECT, f08c47fec0942fa0
+google.com, pub-8177899424537500, DIRECT, f08c47fec0942fa0
+
+mediawayss.com, 575, DIRECT
+google.com, pub-1965383259143495, RESELLER, f08c47fec0942fa0
+google.com, pub-6864402317197092, RESELLER, f08c47fec0942fa0
+freewheel.tv, 286994, RESELLER
+freewheel.tv, 291505, RESELLER
+
+admixer.net, 34b7dcbc-86f3-4300-adb9-883e93b45cdc, DIRECT
+google.com, pub-3379969116950199, reseller, f08c47fec0942fa0
+smartadserver.com, 1994, reseller
+appnexus.com, 6953, reseller
+adform.com, 1762, reseller
+contextweb.com, 561623, reseller, 89ff185a4c4e857c
+smartyads.com, 16, reseller
+
+# MAHIMETA.COM NETWORKS
+google.com, pub-7733626117287363, RESELLER, f08c47fec0942fa0
+google.com, pub-5454875279695201, RESELLER, f08c47fec0942fa0
+google.com, pub-8834194653550774, RESELLER, f08c47fec0942fa0
+google.com, pub-7002491002409919, RESELLER, f08c47fec0942fa0
+google.com, pub-9378724246417115, RESELLER, f08c47fec0942fa0
+google.com, pub-6070398767421094, RESELLER, f08c47fec0942fa0 

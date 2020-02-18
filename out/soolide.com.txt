@@ -1,0 +1,56 @@
+#soolide
+google.com, pub-8755321731921550, DIRECT, f08c47fec0942fa0
+google.com, pub-3183320088558345, RESELLER, f08c47fec0942fa0
+#improve
+improvedigital.com, 1169, DIRECT
+#smart
+smartadserver.com, 3220, DIRECT
+indexexchange.com, 179394, DIRECT
+contextweb.com, 560288, RESELLER, 89ff185a4c4e857c
+pubmatic.com, 156439, RESELLER
+pubmatic.com, 154037, RESELLER
+rubiconproject.com, 16114, RESELLER, 0bfd66d529a55807
+openx.com, 537149888,RESELLER, 6a698e2ec38604c6
+sovrn.com, 257611, RESELLER, fafdf38b16bf6b2b
+appnexus.com, 3703, RESELLER, f5ab79cb980f11d1
+#oath
+adtech.com, 4932, DIRECT
+pubmatic.com, 156078, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156377, RESELLER, 5d62403b186f2ace
+openx.com, 537143344, RESELLER
+indexexchange.com, 175407, RESELLER
+openx.com, 537125356, RESELLER, a698e2ec38604c6
+openx.com, 537126269, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 156138, RESELLER
+pubmatic.com, 156556, RESELLER
+pubmatic.com, 156248, RESELLER
+indexexchange.com, 184110, RESELLER, 50b1c356f2c5c8fc
+#rubicon
+rubiconproject.com, 19282, DIRECT, 0bfd66d529a55807
+#teads
+teads.tv, 17144, DIRECT, 15a9c44f6d26cbe1
+#unruly
+video.unrulymedia.com, UNRX-PUB-26f97217-a8bf-497f-9efa-20e73d467e79, DIRECT
+indexexchange.com, 182257, RESELLER
+appnexus.com, 6849, RESELLER
+rubiconproject.com, 15268, RESELLER
+#appnexus
+appnexus.com, 10220, DIRECT
+#index
+indexexchange.com, 189871, DIRECT
+#openx
+openx.com, 540754710, DIRECT, 6a698e2ec38604c6
+#triplelift
+triplelift.com, 6852, DIRECT, 6c33edb13117fd86
+appnexus.com, 1314, RESELLER
+#aps
+aps.amazon.com,e2ad19b9-535e-4e40-a8aa-8503db6d9b6d,DIRECT
+pubmatic.com,157150,RESELLER,5d62403b186f2ace
+openx.com,540191398,RESELLER,6a698e2ec38604c6
+rubiconproject.com,18020,RESELLER,0bfd66d529a55807
+appnexus.com,1908,RESELLER,f5ab79cb980f11d1
+adtech.com,12068,RESELLER,e1a5b5b6e3255540
+districtm.io,100962,RESELLER,3fd707be9c4527c3
+rhythmone.com,1654642120,RESELLER,a670c89d4a324e47
+appnexus.com,3663,RESELLER,f5ab79cb980f11d1
+ad-generation.jp,12474,RESELLER

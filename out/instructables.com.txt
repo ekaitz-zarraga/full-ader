@@ -1,0 +1,59 @@
+# Ads.txt file for instructables.com:
+adtech.com, 10497, DIRECT, e1a5b5b6e3255540
+adtech.com, 11587, DIRECT, e1a5b5b6e3255540
+aolcloud.net, 10497, DIRECT
+aol.com, 54891, DIRECT, e1a5b5b6e3255540
+Appnexus.com, 1356, DIRECT, f5ab79cb980f11d1
+Appnexus.com, 1356, RESELLER, f5ab79cb980f11d1
+appnexus.com, 1360, RESELLER, f5ab79cb980f11d1
+Appnexus.com, 9093, DIRECT, f5ab79cb980f11d1
+appnexus.com, 7911, RESELLER #yieldmo
+contextweb.com, 558511, RESELLER
+contextweb.com, 560606, RESELLER, 89ff185a4c4e857c
+contextweb.com, 558299, RESELLER, 89ff185a4c4e857c
+coxmt.com, 2000067907202, RESELLER
+EMXDGT.com, 135, DIRECT, 1e1d41537f7cad7f
+EMXDGT.com, 138, DIRECT, 1e1d41537f7cad7f
+EMXDGT.com, 434, DIRECT, 1e1d41537f7cad7f
+google.com, pub-1783560022203827, DIRECT, f08c47fec0942fa0
+google.com, pub-5995202563537249, RESELLER, f08c47fec0942fa0
+google.com, pub-8258389452460729, DIRECT, f08c47fec0942fa0
+gumgum.com, 11645, RESELLER, ffdef49475d318a9
+indexexchange.com, 183747, DIRECT
+indexexchange.com, 186272, DIRECT
+indexexchange.com, 175407, RESELLER, 50b1c356f2c5c8fc
+lijit.com, 241365, DIRECT, fafdf38b16bf6b2b
+lijit.com, 241365-eb, DIRECT, fafdf38b16bf6b2b
+lijit.com, 247572, DIRECT, fafdf38b16bf6b2b
+openx.com, 537120960, RESELLER
+openx.com, 537143455, DIRECT, 6a698e2ec38604c6
+openx.com, 538959099, RESELLER, 6a698e2ec38604c6
+openx.com, 539924617, RESELLER, 6a698e2ec38604c6
+openx.com, 540046554, DIRECT, 6a698e2ec38604c6
+openx.com, 540096168, DIRECT, 6a698e2ec38604c6
+openx.com, 537143344, RESELLER, 6a698e2ec38604c6
+openx.com, 83499, RESELLER
+openx.com, 540274407, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 156078, RESELLER, 5d62403b186f2ace
+pubmatic.com, 137711, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156212, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156700, RESELLER, 5d62403b186f2ace
+pubmatic.com, 157992, DIRECT, 5d62403b186f2ace
+pubmatic.com, 156757, DIRECT, 5d62403b186f2ace
+pubmatic.com, 157295, DIRECT, 5d62403b186f2ace
+pubmatic.com, 62483, RESELLER
+rhythmone.com, 2784785034, DIRECT, a670c89d4a324e47
+rhythmone.com, 2734013485, DIRECT, a670c89d4a324e47
+rhythmone.com, 4104662198, DIRECT, a670c89d4a324e47
+rhythmone.com, 1059622079, RESELLER, a670c89d4a324e47
+rubiconproject.com, 12978, DIRECT, 0bfd66d529a55807
+rubiconproject.com, 17384, DIRECT, 0bfd66d529a55807
+rubiconproject.com, 17960, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 18694, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 17070, RESELLER, 0bfd66d529a55807 #yieldmo
+sonobi.com, 720fe43f72, DIRECT, d1a215d9eb5aee9e
+sovrn.com, 241365, DIRECT, fafdf38b16bf6b2b
+sovrn.com, 247572, DIRECT, fafdf38b16bf6b2b
+Yahoo.com, 54891, DIRECT, e1a5b5b6e3255540
+yieldmo.com, 2208721763029386494, DIRECT
+yieldmo.com, 2284714005358387539, DIRECT

@@ -1,0 +1,11 @@
+# https://iabtechlab.com/wp-content/uploads/2019/03/IAB-OpenRTB-Ads.txt-Public-Spec-1.0.2.pdf
+#
+# Some publishers may choose to not authorize any advertising system by publishing an empty
+# ads.txt file, indicating that no advertising system is authorized to buy and sell ads on the
+# website. So that consuming systems properly read and interpret the empty file (differentiating
+# between web servers returning error pages for the /ads.txt URL), at least one properly formatted
+# line must be included which adheres to the format specification described above. For files that
+# do not otherwise contain authorized advertising system records, use the following "placeholder"
+# record to indicate that the file adheres to the ads.txt specification:
+#
+placeholder.example.com, placeholder, DIRECT, placeholder

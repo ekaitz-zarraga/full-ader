@@ -1,0 +1,97 @@
+google.com, pub-8271755895150467, DIRECT, f08c47fec0942fa0
+google.com, pub-6070398767421094, DIRECT, f08c47fec0942fa0
+google.com, pub-8834194653550774, Reseller, f08c47fec0942fa0
+google.com, pub-6314168058065736, RESELLER
+contextweb.com, 561119, RESELLER
+appnexus.com, 2007, RESELLER
+adtech.com, 5359, RESELLER
+aolcloud.net, 5359, RESELLER
+advertising.com, 5359, RESELLER
+pubmatic.com, 32987, RESELLER
+memevideoad.com,320, RESELLER
+spotxchange.com,98033, RESELLER,7842df1d2fe2db34
+freewheel.tv, 151177, RESELLER
+freewheel.tv, 414097, RESELLER
+tremorhub.com, 726he, RESELLER, 1a4e959a1b50034a
+fyber.com, b8be899491e326b67959391d13550e87, RESELLER
+google.com, pub-9329782710590870, RESELLER, f08c47fec0942fa0
+advertising.com, 8893, RESELLER
+aolcloud.net, 8893, RESELLER
+adtech.com, 8893, RESELLER
+google.com, pub-5880401011681483, RESELLER
+google.com, pub-8840552006567450, RESELLER
+google.com, pub-1425207524276770, RESELLER
+firstimpression.io, 6860, DIRECT, a960877e77e58dd6 #FI
+google.com, pub-3622156405313063, RESELLER, f08c47fec0942fa0 #FI - AdX
+openx.com, 537104992, RESELLER, 6a698e2ec38604c6 #FI - OpenX
+sovrn.com, 243408, RESELLER, fafdf38b16bf6b2b #FI - Sovrn
+lijit.com, 243408, RESELLER, fafdf38b16bf6b2b #FI - Sovrn
+sovrn.com, 256420, RESELLER, fafdf38b16bf6b2b #FI - Sovrn
+lijit.com, 256420, RESELLER, fafdf38b16bf6b2b #FI - Sovrn
+
+adtech.com, 10297, RESELLER #FI - Oath
+
+contextweb.com, 558377, RESELLER, 89ff185a4c4e857c #FI - PulsePoint
+
+outbrain.com, 0043e7a761d92337b9269c2b10d9835c8d, RESELLER #FI - Outbrain
+
+google.com, pub-2120180883203454, RESELLER, f08c47fec0942fa0
+c1exchange.com,	C1X201401, RESELLER 
+advertising.com, 9225, RESELLER
+google.com, pub-9611340043830472, RESELLER, f08c47fec0942fa0
+exponential.com, 151040, DIRECT, afac06385c445926
+tribalfusion.com, 151040, DIRECT, afac06385c445926
+indexexchange.com, 176280, RESELLER, 50b1c356f2c5c8fc
+google.com, pub-2051007210431666, RESELLER, f08c47fec0942fa0
+dashbida.com, 15, RESELLER, 5f5b3c98d2a4fe9a
+dashbid.io, 15, RESELLER, 5f5b3c98d2a4fe9a
+rubiconproject.com, 17258, RESELLER, 0bfd66d529a55807
+
+Adsolut.in, 15047, DIRECT
+Playstream.media, 177, DIRECT
+sovrn.com, 270791, RESELLER, fafdf38b16bf6b2b
+lijit.com, 270791, RESELLER, fafdf38b16bf6b2b
+appnexus.com, 1360, RESELLER, f5ab79cb980f11d1
+gumgum.com, 11645, RESELLER, ffdef49475d318a9
+openx.com, 538959099, RESELLER, 6a698e2ec38604c6
+openx.com, 539924617, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 137711, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156212, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156700, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 17960, RESELLER, 0bfd66d529a55807
+pubmatic.com, 157742, RESELLER, 5d62403b186f2ace
+pubmatic.com, 157569, RESELLER, 5d62403b186f2ace
+appnexus.com, 9988, RESELLER, f5ab79cb980f11d1
+google.com, pub-3452022011371122, RESELLER, f08c47fec0942fa0
+google.com, pub-6968738577620513, DIRECT, f08c47fec0942fa0
+google.com, pub-6070398767421094, RESELLER, f08c47fec0942fa0
+google.com, pub-2931203390134969, DIRECT, f08c47fec0942fa0
+google.com, pub-7352654209508375, DIRECT, f08c47fec0942fa0
+Rubiconproject.com, 17146, RESELLER, 0bfd66d529a55807
+spotxchange.com, 224795, RESELLER, 7842df1d2fe2db34
+spotx.tv, 224795, RESELLER, 7842df1d2fe2db34
+google.com, pub-7002491002409919, RESELLER, f08c47fec0942fa0
+google.com, pub-9378724246417115, DIRECT, f08c47fec0942fa0
+ucfunnel.com, par-8A2AEE3E3B4D7B2A13B9DDE4D4D3BD9, DIRECT
+aralego.com, par-8A2AEE3E3B4D7B2A13B9DDE4D4D3BD9, DIRECT
+nativeads.com, 80793, RESELLER
+smartyads.com, 144, RESELLER
+somoaudience.com,7ec0502f670ef0899a5ae35e08b0ba0c,RESELLER
+mobileadtrading.com,7ec0502f670ef0899a5ae35e08b0ba0c,DIRECT
+Monetize.com, 1188, Reseller
+admanmedia.com, 5be58409, RESELLER
+
+revcontent.com, 7844, DIRECT
+appnexus.com, 7666, RESELLER, f5ab79cb980f11d1
+rubiconproject.com, 156042, RESELLER, 0bfd66d529a55807
+my6sense.com, 9732, RESELLER
+criteo.com, 7822, RESELLER
+connatix.com, 101600, DIRECT, 2af98acdee0e81ed
+tremorhub.com, cd009, RESELLER, 1a4e959a1b50034a
+advertising.com, 3679, RESELLER
+advertising.com, 14564, RESELLER
+spotxchange.com, 136839, RESELLER, 7842df1d2fe2db34
+spotx.tv, 136839, RESELLER, 7842df1d2fe2db34
+openx.com, 539496816, RESELLER, 6a698e2ec38604c6
+google.com, pub-5480205708168063, RESELLER, f08c47fec0942fa0
+google.com, pub-9914992914910847, DIRECT, f08c47fec0942fa0

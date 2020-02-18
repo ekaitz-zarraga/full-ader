@@ -1,0 +1,95 @@
+#Yahoo
+yahoo.com, 1523421, DIRECT #native
+
+#Outbrain
+outbrain.com, 0081da8468bffe9720d23ec4e23a0a652d,DIRECT #native
+
+#Smaato
+smaato.com, 1100027775, DIRECT #native
+
+#Pubmatic
+pubmatic.com, 31400, DIRECT #native #display
+
+#AppNexus
+appnexus.com, 7729, DIRECT #native #display
+
+#Rubicon Project
+rubiconproject.com, 16660, DIRECT #display #native #video
+
+#SpotX
+spotxchange.com, 207009, DIRECT, 7842df1d2fe2db34 #video
+spotx.tv, 207009, DIRECT, 7842df1d2fe2db34 #video
+
+#Google
+google.com, pub-6892842243138555, DIRECT #native #display
+
+#Httpool
+httpool.com, 734, DIRECT #native
+
+#Experian
+experian.com, 0001, RESELLER
+
+#OpenX
+openx.com, 539298321, DIRECT, 6a698e2ec38604c6
+openx.com, 539717252, DIRECT
+openx.com, 539298321, DIRECT
+
+#Taboola
+taboola.com,1080276,DIRECT,c228e6794e811952, #native
+taboola.com,1080276,RESELLER,c228e6794e811952, #native 
+taboola.com,1080277,DIRECT,c228e6794e811952, #native 
+taboola.com,1080277,RESELLER,c228e6794e811952, #native 
+taboola.com,1093612,DIRECT,c228e6794e811952, #native 
+taboola.com,1093612,RESELLER,c228e6794e811952, #native 
+taboola.com,1093618,DIRECT,c228e6794e811952, #native 
+taboola.com,1093618,RESELLER,c228e6794e811952, #native 
+taboola.com,1093777,DIRECT,c228e6794e811952, #native 
+taboola.com,1093777,RESELLER,c228e6794e811952, #native 
+taboola.com,1098893,DIRECT,c228e6794e811952, #native 
+taboola.com,1098893,RESELLER,c228e6794e811952, #native 
+spotx.tv,71451,RESELLER 
+spotxchange.com, 71451, RESELLER
+advertising.com, 8603, RESELLER
+pubmatic.com, 156307, RESELLER, 5d62403b186f2ace
+appnexus.com, 3364, RESELLER 
+Indexexchange.com, 183756, RESELLER
+contextweb.com, 560382, RESELLER 
+tremorhub.com, z87wm, RESELLER, 1a4e959a1b50034a 
+rubiconproject.com, 16698, RESELLER, 0bfd66d529a55807
+fyber.com, ad9de41d28d494354b23133f26f83122, RESELLER 
+fyber.com, 1a12a7e3f84fe560ccf95a3a73043abb, RESELLER
+ 
+#Oath
+adtech.com, 4835, DIRECT, e1a5b5b6e3255540, #display
+adtech.com, 11440, DIRECT, e1a5b5b6e3255540, #display
+coxmt.com, 2000067907202, RESELLER
+pubmatic.com, 156377, RESELLER, 5d62403b186f2ace #banner
+pubmatic.com, 156078, RESELLER, 5d62403b186f2ace #banner
+pubmatic.com, 155967, RESELLER, 5d62403b186f2ace #banner
+openx.com, 537143344, RESELLER
+indexexchange.com, 175407, RESELLER, 50b1c356f2c5c8fc
+openx.com, 537125356, RESELLER, a698e2ec38604c6
+
+#Index exchange
+indexexchange.com, 187709, DIRECT
+indexexchange.com, 187805, DIRECT
+
+#Rhythmone
+rhythmone.com, 1525200299, DIRECT, a670c89d4a324e47
+
+#Limpid
+Limpid, 20351, DIRECT
+telaria.com, ikcej-e7i6f, DIRECT, 1a4e959a1b50034a
+tremorhub.com, ikcej-e7i6f, DIRECT, 1a4e959a1b50034a
+smartadserver.com, 3439, DIRECT
+rubiconproject.com, 21310, DIRECT, 0bfd66d529a55807
+openx.com, 540834345, DIRECT, 6a698e2ec38604c6
+spotx.tv, 253293, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 253293, RESELLER, 7842df1d2fe2db34
+appnexus.com, 9684, DIRECT
+cmcm.com, 153, DIRECT
+improvedigital.com, 1240, RESELLER
+pubmatic.com, 158753, DIRECT, 5d62403b186f2ace
+sovrn.com, 273335, DIRECT, fafdf38b16bf6b2b
+lijit.com, 273335, DIRECT, fafdf38b16bf6b2b
+lijit.com, 273335-eb, DIRECT, fafdf38b16bf6b2b

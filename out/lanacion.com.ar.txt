@@ -1,0 +1,129 @@
+criteo.com, 176085, DIRECT
+
+appnexus.com, 10382, DIRECT, f5ab79cb980f11d1
+
+rubiconproject.com, 20148, DIRECT, 0bfd66d529a55807 # La Nacion SA
+rubiconproject.com, 20150, DIRECT, 0bfd66d529a55807
+
+smartadserver.com, 2005, DIRECT
+
+e-planning.net,bdf7ab06f598625a,DIRECT
+
+google.com, pub-9725657087458329, DIRECT, f08c47fec0942fa0
+google.com, pub-7767162874553201, DIRECT, f08c47fec0942fa0
+
+pubmatic.com, 157821, DIRECT, 5d62403b186f2ace
+pubmatic.com, 158059, DIRECT, 5d62403b186f2ace
+
+admanmedia.com, 7d97a75d, DIRECT
+admanmedia.com, 0d7e21c6, DIRECT
+admanmedia.com, 37f25d06, DIRECT
+admanmedia.com, f942b5cf, DIRECT
+admanmedia.com, dfb1c3be, DIRECT
+admanmedia.com, cccc4671, DIRECT
+admanmedia.com, 66a8bdb0, DIRECT
+google.com, pub-9404419171574902, RESELLER, f08c47fec0942fa0
+
+smartclip.net, 10686, DIRECT
+smartclip.net, 10966, DIRECT
+google.com, pub-8674340505315230, DIRECT, f08c47fec0942fa0
+appnexus.com, 1024, DIRECT, f5ab79cb980f11d1
+
+teads.tv, 17355, DIRECT, 15a9c44f6d26cbe1
+teads.tv, 13836, DIRECT, 15a9c44f6d26cbe1
+
+aps.amazon.com,8670178e-76cd-476d-9c5f-0ed20920dd2a,DIRECT
+pubmatic.com,157150,RESELLER,5d62403b186f2ace
+openx.com,540191398,RESELLER,6a698e2ec38604c6
+rubiconproject.com,18020,RESELLER,0bfd66d529a55807
+appnexus.com,1908,RESELLER,f5ab79cb980f11d1
+adtech.com,12068,RESELLER,e1a5b5b6e3255540
+ad-generation.jp,12474,RESELLER
+districtm.io,100962,RESELLER,3fd707be9c4527c3
+rhythmone.com,1654642120,RESELLER,a670c89d4a324e47
+
+sovrn.com, 231317, RESELLER, fafdf38b16bf6b2b
+lijit.com, 231317, RESELLER, fafdf38b16bf6b2b
+sovrn.com, 267587, DIRECT, fafdf38b16bf6b2b
+lijit.com, 267587, DIRECT, fafdf38b16bf6b2b
+
+adtech.com, 11646, DIRECT
+advertising.com, 28302, DIRECT
+
+spotxchange.com, 255043, DIRECT, 7842df1d2fe2db34
+spotx.tv, 255043, DIRECT, 7842df1d2fe2db34
+spotxchange.com, 255043, RESELLER, 7842df1d2fe2db34
+spotx.tv, 255043, RESELLER, 7842df1d2fe2db34
+
+indexexchange.com, 189732, DIRECT, 50b1c356f2c5c8fc
+indexexchange.com, 189749, DIRECT, 50b1c356f2c5c8fc
+
+taboola.com,1192309,DIRECT,c228e6794e811952
+spotx.tv,71451,RESELLER
+spotxchange.com, 71451, RESELLER
+advertising.com, 8603, RESELLER
+pubmatic.com, 156307, RESELLER, 5d62403b186f2ace
+appnexus.com, 3364, RESELLER
+Indexexchange.com, 183756, RESELLER
+contextweb.com, 560382, RESELLER
+openx.com, 539154393, RESELLER
+tremorhub.com, z87wm, RESELLER, 1a4e959a1b50034a
+rubiconproject.com, 16698, RESELLER, 0bfd66d529a55807
+freewheel.tv, 799841, RESELLER
+freewheel.tv, 799921, RESELLER
+aol.com, 53392, RESELLER
+rhythmone.com, 1166984029, RESELLER, a670c89d4a324e47
+smartadserver.com, 3563, RESELLER
+beachfront.com, 13749, RESELLER, e2541279e8e2ca4d
+advertising.com, 28458, RESELLER
+admanmedia.com, 556, RESELLER
+
+aniview.com, 5d1b795328a061758d6f446d, DIRECT, 78b21b97965ec3f8
+advertising.com, 23089, RESELLER
+districtm.io, 101661, RESELLER
+google.com, pub-9685734445476814, RESELLER, f08c47fec0942fa0
+google.com, pub-7002491002409919, RESELLER, f08c47fec0942fa0
+google.com, pub-9378724246417115, DIRECT, f08c47fec0942fa0
+synacor.com, 82171, RESELLER, e108f11b2cdf7d5b
+ucfunnel.com, par-77274B9A266D6BD20BD6849D8EB7DD2A, RESELLER
+aralego.com, par-77274B9A266D6BD20BD6849D8EB7DD2A, RESELLER
+yieldnexus.com, 96204, RESELLER
+adxoo.com, QNwvpq3mRa, RESELLER
+freewheel.tv, 772017, RESELLER
+freewheel.tv, 774081, RESELLER 
+
+rhythmone.com,436891915,DIRECT,a670c89d4a324e47
+rhythmone.com,1838768771,DIRECT,a670c89d4a324e47
+
+openx.com, 540717796, DIRECT, 6a698e2ec38604c6
+
+telaria.com, 3gxrq-ct2lr, DIRECT, 1a4e959a1b50034a
+tremorhub.com, 3gxrq-ct2lr, RESELLER, 1a4e959a1b50034a
+
+google.com, pub-7995104076770938, RESELLER, f08c47fec0942fa0
+lkqd.net, 282, RESELLER, 59c49fa9598a0117
+lkqd.com, 282, RESELLER, 59c49fa9598a0117
+spotxchange.com, 148395, RESELLER, 7842df1d2fe2db34
+spotx.tv, 148395, RESELLER, 7842df1d2fe2db34
+tremorhub.com, ey5io-qyxzx, RESELLER, 1a4e959a1b50034a
+telaria.com, ey5io-qyxzx, RESELLER, 1a4e959a1b50034a
+
+freewheel.tv, 1037633, DIRECT
+freewheel.tv, 1045953, RESELLER
+
+lkqd.net, 410, RESELLER, 59c49fa9598a0117
+lkqd.com, 410, RESELLER, 59c49fa9598a0117
+google.com, pub-8673457733281446, RESELLER, f08c47fec0942fa0
+appnexus.com, 9923, RESELLER, f5ab79cb980f11d1
+
+triplelift.com, 7297, DIRECT, 6c33edb13117fd86
+triplelift.com, 7297-EB, DIRECT, 6c33edb13117fd86
+appnexus.com, 1314, RESELLER
+
+sonobi.com, c3d803622d, RESELLER, d1a215d9eb5aee9e
+contextweb.com, 560606, RESELLER, 89ff185a4c4e857c
+
+altitude-arena.com, V1D1UVPQED5R76GVFST77ETJTK, DIRECT
+
+improvedigital.com, 1488, DIRECT
+improvedigital.com, 1488, RESELLER

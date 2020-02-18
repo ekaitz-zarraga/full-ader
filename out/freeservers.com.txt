@@ -1,0 +1,102 @@
+1rx.io, 3246069104, DIRECT
+33across.com, 33, DIRECT
+Adblade.com, 17148, DIRECT
+adnxs.com, 1356, RESELLER #brealtime seat id
+adnxs.com, 7556, RESELLER
+adtech.com, 10048, RESELLER
+adtech.com, 10947, RESELLER
+adtech.com, 9821, DIRECT
+adtech.com, 9993, RESELLER
+advertising.com, 3679, DIRECT #video
+advertising.com, 5831, DIRECT #video
+advertising.com, 8022, DIRECT #video
+advertising.com, 8044, DIRECT #video
+altitude-arena.com, D4U36VV6VP1UPF1JFVJFSOVC2C, RESELLER 
+amazon-adsystem.com, 3406, DIRECT
+amazon.com, 3411, RESELLER
+aolcloud.net, 10048, RESELLER
+aolcloud.net, 10947, RESELLER #S2S
+aolcloud.net, 9821, DIRECT
+aolcloud.net, 9993, RESELLER
+appnexus.com, 1001, RESELLER
+Appnexus.com, 1356, DIRECT
+appnexus.com, 1908, RESELLER
+appnexus.com, 3135, RESELLER
+appnexus.com, 4052, RESELLER
+appnexus.com, 7485, DIRECT
+appnexus.com, 7944, RESELLER
+bidfluence.com, 68e6d75a-8355-4715-a10d-4cdac15190bc, RESELLER
+content-ad.net, 190392, DIRECT
+content-ad.net, 190392, RESELLER
+content-ad.net, 201453, DIRECT
+content-ad.net, 201453, RESELLER
+content-ad.net, 211600, DIRECT
+content-ad.net, 211600, RESELLER
+content-ad.net, 226447, DIRECT
+content-ad.net, 226447, RESELLER
+content-ad.net, 256545, DIRECT
+content-ad.net, 256545, RESELLER
+contextweb.com, 558211, DIRECT
+contextweb.com, 558511, RESELLER
+contextweb.com, 560653, RESELLER
+conversantmedia.com, 21347, DIRECT
+coxmt.com, 67512, DIRECT
+Criteo.com, 137984, DIRECT
+criteo.com, 3450, RESELLER
+districtm.io, 101035, DIRECT
+EMXDGT.com, 20, DIRECT
+EMXDGT.com, 80, DIRECT 
+google.com, pub-0468550373971088, DIRECT
+google.com, pub-5874599704080407, RESELLER, f08c47fec0942fa0
+google.com, pub-6365448587002371, DIRECT
+google.com, pub-6694481294649483, RESELLER
+google.com, pub-9557089510405422, RESELLER, f08c47fec0942fa0
+gumgum.com, 11645, RESELLER, ffdef49475d318a9
+indexexchange.com, 175407, RESELLER
+indexexchange.com, 178366, DIRECT
+indexexchange.com, 182961, RESELLER
+indexexchange.com, 184395, DIRECT
+indexexchange.com, 184914, RESELLER
+indexexchange.com, 185506, RESELLER
+indexexchange.com, 186248, RESELLER, 50b1c356f2c5c8fc
+lijit.com, 243535, DIRECT
+lijit.com, 57813, DIRECT
+lijit.com, 57813, RESELLER, fafdf38b16bf6b2b
+lkqd.com, 293, RESELLER
+lkqd.com, 385, RESELLER, 59c49fa9598a0117
+lkqd.net, 293, RESELLER
+lkqd.net, 385, RESELLER, 59c49fa9598a0117
+lkqd.net, 367, RESELLER, 59c49fa9598a0117
+lkqd.com, 367, RESELLER, 59c49fa9598a0117 
+openx.com, 537120563, RESELLER, 6a698e2ec38604c6
+openx.com, 537120960, RESELLER
+openx.com, 537141219, RESELLER, 6a698e2ec38604c6
+openx.com, 537143344, RESELLER
+openx.com, 537143344, RESELLER, 6a698e2ec38604c6
+openx.com, 537150004, RESELLER
+openx.com, 538959099, RESELLER
+openx.com, 69173, DIRECT, 6a698e2ec38604c6
+openx.com, 83499, RESELLER
+pubmatic.com, 137711, RESELLER
+pubmatic.com, 156078, RESELLER
+pubmatic.com, 156212, RESELLER
+pubmatic.com, 156319, RESELLER
+pubmatic.com, 62483, RESELLER
+pubmatic.com, 93915, RESELLER, 5d62403b186f2ace
+revcontent.com, 16280, DIRECT
+revcontent.com, 51833, DIRECT
+rhythmone.com, 3246069104, DIRECT
+Rhythmone.com,3246069104,DIRECT,a670c89d4a324e47
+rs-stripe.com, 1285, DIRECT
+rubiconproject.com, 14410, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 16414, RESELLER
+rubiconproject.com, 16784, RESELLER, 0bfd66d529a55807
+sonobi.com, 062347236e, DIRECT
+sonobi.com, e55fb5d7c2, RESELLER
+sovrn.com, 243535, DIRECT
+sovrn.com, 248396, RESELLER
+sovrn.com, 57813, DIRECT
+sovrn.com, 57813, RESELLER, fafdf38b16bf6b2b
+spotx.tv, 139883, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 139883, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 152198, RESELLER, 7842df1d2fe2db34

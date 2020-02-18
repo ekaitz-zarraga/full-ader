@@ -1,0 +1,37 @@
+#Ads.txt file for transfermyvideofiles.com
+
+infolinks.com, *3077112, RESELLER     
+infolinks.com, *3077112, DIRECT           
+appnexus.com, 3251, RESELLER
+appnexus.com, 3251, DIRECT
+openx.com, 118151, DIRECT, 6a698e2ec38604c6
+openx.com, 118151, RESELLER, 6a698e2ec38604c6
+#Additional entries:
+
+google.com, pub-6373315980741255, RESELLER, f08c47fec0942fa0
+
+lkqd.net, 295, RESELLER, 59c49fa9598a0117
+
+lkqd.com, 295, RESELLER, 59c49fa9598a0117
+
+aol.com, 6202, RESELLER
+
+aol.com, 17744, RESELLER
+
+Freewheel.tv, 480577, RESELLER
+
+Freewheel.tv, 480593, RESELLER
+
+vi.ai, 913453223927387, RESELLER, # 41b5eef6
+
+spotxchange.com, 74964, RESELLER, 7842df1d2fe2db34
+
+spotx.tv, 74964, RESELLER, 7842df1d2fe2db34
+
+Freewheel.tv, 482337, RESELLER
+
+Freewheel.tv, 480609, RESELLER
+
+pubmatic.com,60809,DIRECT,5d62403b186f2ace
+
+pubmatic.com,60809,RESELLER,5d62403b186f2ace

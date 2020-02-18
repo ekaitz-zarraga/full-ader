@@ -1,0 +1,78 @@
+#Ads.txt VietNamNet  
+
+mgid.com, 310907, DIRECT, d4c29acad76ce94f
+
+gammassp.com, 1503295933, DIRECT 
+appnexus.com, 1835, RESELLER
+freewheel.tv, 231609, RESELLER
+freewheel.tv, 231617, RESELLER
+advalue.com.vn, 1535090901, DIRECT 
+gammassp.com, 1564376138, DIRECT, 31ac53fec2772a83
+pubmatic.com, 158212, RESELLER, 5d62403b186f2ace
+loopme.com, 10946, RESELLER, 6c8d5f95897a5a3b
+rubiconproject.com, 20744, RESELLER, 0bfd66d529a55807
+openx.com, 540298543, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 158154, RESELLER, 5d62403b186f2ace?
+openx.com, 540729542, RESELLER, 6a698e2ec38604c6
+
+
+google.com, pub-9058291854443881, RESELLER
+appnexus.com, 3691, RESELLER
+indexexchange.com, 179394, RESELLER
+openx.com, 540291874, RESELLER, 6a698e2ec38604c6
+gammassp.com, 1407117102, DIRECT, 31ac53fec2772a83
+pubmatic.com, 158212, RESELLER, 5d62403b186f2ace
+loopme.com, 10946, RESELLER, 6c8d5f95897a5a3b
+rubiconproject.com, 20744, RESELLER, 0bfd66d529a55807
+openx.com, 540298543, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 158154, RESELLER, 5d62403b186f2ace
+
+rubiconproject.com, 17338, DIRECT, 0bfd66d529a55807
+pubmatic.com, 156709, DIRECT, 5d62403b186f2ace
+criteo.com, 3450, RESELLER
+freewheel.tv, 226473, RESELLER
+freewheel.tv, 226481, RESELLER
+gammassp.com, 1503295933, DIRECT 
+gammassp.com, 1407117102, DIRECT
+appnexus.com, 1835, RESELLER
+freewheel.tv, 231609, RESELLER
+freewheel.tv, 231617, RESELLER
+advalue.com.vn, 1535090901, DIRECT 
+advalue.com.vn, 1535090901, DIRECT
+gammassp.com, 1503295933, DIRECT
+appnexus.com, 1835, RESELLER
+freewheel.tv, 231609, RESELLER
+freewheel.tv, 231617, RESELLER
+advalue.com.vn, 1535090901, DIRECT
+ads.adasiaholdings.com, 1, DIRECT
+openx.com, 540291874, RESELLER, 6a698e2ec38604c6
+openx.com, 540308356, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 157267, RESELLER, 5d62403b186f2ace
+indexexchange.com, 189149, RESELLER
+triplelift.com, 6360, DIRECT, 6c33edb13117fd86
+appnexus.com, 6360, RESELLER 
+spotxchange.com, 228454, RESELLER, 7842df1d2fe2db34
+spotx.tv, 228454, RESELLER, 7842df1d2fe2db34
+lkqd.net, 504, RESELLER, 59c49fa9598a0117
+innity.com, 5022, DIRECT, 47ea16374dff1d69
+appnexus.com, 3058, RESELLER
+pubmatic.com, 158212, RESELLER, 5d62403b186f2ace
+
+admicro.vn, 3785, DIRECT
+appnexus.com, 1835, RESELLER
+freewheel.tv, 230513, RESELLER
+freewheel.tv, 230537, RESELLER
+google.com, pub-6366951472589375, DIRECT, f08c47fec0942fa0
+google.com, pub-0903896866974179, DIRECT, f08c47fec0942fa0
+google.com, pub-0204890140576859, DIRECT, f08c47fec0942fa0
+google.com, pub-6541769934461956, DIRECT, f08c47fec0942fa0
+google.com, pub-7002491002409919, DIRECT, f08c47fec0942fa0
+google.com, pub-7002491002409919, RESELLER, f08c47fec0942fa0
+google.com, pub-9378724246417115, DIRECT, f08c47fec0942fa0
+google.com, pub-2254427607846536, DIRECT, f08c47fec0942fa0
+google.com, pub-2444645085984816, DIRECT, f08c47fec0942fa0
+google.com, pub-0771410550134874, DIRECT, f08c47fec0942fa0
+
+
+#Ads.txt VietNamNet Last update 07-10-2019
+#Ads.txt VietNamNet Last update 10-12-2019

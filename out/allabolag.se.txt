@@ -1,0 +1,7 @@
+# Ads.txt file for allabolag.se:
+google.com, pub-6541335946881472, DIRECT, f08c47fec0942fa0
+adtech.com, 868, RESELLER
+aolcloud.net, 868, RESELLER
+pubmatic.com, 156585, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 21174, RESELLER, 0bfd66d529a55807
+google.com, pub-5998497508199491, RESELLER, f08c47fec0942fa0

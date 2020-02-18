@@ -1,0 +1,46 @@
+# GOOGLE PRINCIPAL
+google.com, pub-8288930974747122, DIRECT, f08c47fec0942fa0
+google.com, pub-8327928897197923, RESELLER, f08c47fec0942fa0 
+google.com, pub-4262827307746270, RESELLER, f08c47fec0942fa0
+google.com, pub-1735744167578327, RESELLER, f08c47fec0942fa0
+google.com, pub-5739535157675470, RESELLER, f08c47fec0942fa0
+rubiconproject.com, 20142, RESELLER, 0bfd66d529a55807 # EB
+google.com, pub-8288930974747122, DIRECT, 1076087278
+taboola.com,1143167,DIRECT,c228e6794e811952
+spotx.tv,71451,RESELLER
+spotxchange.com, 71451, RESELLER
+advertising.com, 8603, RESELLER
+advertising.com, 3531, RESELLER
+pubmatic.com, 156307, RESELLER, 5d62403b186f2ace
+appnexus.com, 3364, RESELLER
+Indexexchange.com, 183756, RESELLER
+contextweb.com, 560382, RESELLER
+openx.com, 539154393, RESELLER
+tremorhub.com, z87wm, RESELLER, 1a4e959a1b50034a
+rubiconproject.com, 16698, RESELLER, 0bfd66d529a55807
+fyber.com, ad9de41d28d494354b23133f26f83122, RESELLER
+fyber.com, 1a12a7e3f84fe560ccf95a3a73043abb, RESELLER
+#Denakop
+denakop.com, pub-302, DIRECT
+google.com, pub-8170966538152543, RESELLER, f08c47fec0942fa0
+adtech.com, 11627, RESELLER
+contextweb.com, 560821, RESELLER
+appnexus.com, 2081, RESELLER, f5ab79cb980f11d1
+appnexus.com, 10528, RESELLER, f5ab79cb980f11d1
+ssp.smartyads.com, 9062, DIRECT
+indexexchange.com, 175407, RESELLER, 50b1c356f2c5c8fc
+openx.com, 537143344, RESELLER
+pubmatic.com, 156078, RESELLER, 5d62403b186f2ace 
+contextweb.com, 558299, RESELLER, 89ff185a4c4e857c
+#End Denakop
+#Taboola
+taboola.com, 1144559, DIRECT, c228e6794e811952 
+freewheel.tv, 799841, RESELLER 
+freewheel.tv, 799921, RESELLER 
+aol.com, 53392, RESELLER 
+rhythmone.com, 1166984029, RESELLER, a670c89d4a324e47
+smartadserver.com, 3563, RESELLER
+beachfront.com, 13749, RESELLER, e2541279e8e2ca4d
+advertising.com, 28458, RESELLER
+admanmedia.com, 556, RESELLER
+#End Taboola

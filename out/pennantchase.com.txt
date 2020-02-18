@@ -1,0 +1,215 @@
+google.com, pub-9449713589802232, DIRECT, f08c47fec0942fa0
+1rx.io,1149317856, DIRECT, a670c89d4a324e47 #RhythmOne
+adtech.com, 9488, DIRECT #Display
+advertising.com, 6339, DIRECT #Video
+aolcloud.net, 9488, DIRECT #Display
+appnexus.com, 3920, DIRECT, f5ab79cb980f11d1
+aps.amazon.com, 3090, DIRECT #display
+aps.amazon.com, 3090, DIRECT #video
+beachfront.com, 12691, DIRECT, e2541279e8e2ca4d
+connatix.com, 101829, DIRECT
+emxdgt.com, 897, DIRECT, 1e1d41537f7cad7f
+google.com, pub-1096717180489477, DIRECT, f08c47fec0942fa0 #SportsAdx
+google.com, pub-3469238942564955, DIRECT, f08c47fec0942fa0 #AdSense
+google.com, pub-5717092533913515, DIRECT, f08c47fec0942fa0 #Primary
+google.com, pub-5717092533913515, RESELLER, f08c47fec0942fa0 #NPMpartners
+google.com, pub-6741902125276887, DIRECT, f08c47fec0942fa0 #SportsAdx
+gumgum.com, 10938, DIRECT, ffdef49475d318a9
+indexexchange.com, 184031, DIRECT 
+indexexchange.com, 185192, DIRECT #EBDA
+Media.net, 8CUZ310G2, DIRECT #EBDA
+openx.com, 537114418, DIRECT, 6a698e2ec38604c6 #Bidder
+openx.com, 538929384, DIRECT, 6a698e2ec38604c6 #EBDA
+openx.com, 539581282, DIRECT, 6a698e2ec38604c6
+openx.com, 540142397, DIRECT, 6a698e2ec38604c6 #A9Bidder
+Positivemobile.com, 591b60a7f43b95cc30d9b5ea, DIRECT
+pubmatic.com, 13579, DIRECT, 5d62403b186f2ace
+pubmatic.com, 156326, DIRECT, 5d62403b186f2ace
+pubmatic.com, 156327, DIRECT, 5d62403b186f2ace
+pubmatic.com, 157904, DIRECT, 5d62403b186f2ace #PubmaticEBDA
+pubmatic.com, 158095, DIRECT, 5d62403b186f2ace #JWbidder
+rhythmone.com,1149317856,DIRECT, a670c89d4a324e47 #RhythmOne
+rubiconproject.com, 10968, DIRECT, 0bfd66d529a55807
+rubiconproject.com, 17346, DIRECT, 0bfd66d529a55807 #EBDA
+sharethrough.com, cfa681fb, DIRECT, d53b998a7bd4ecd2
+smaato.com, 1100033996, DIRECT
+Sonobi.com, fc1f223ed3, DIRECT
+spotx.tv, 108706, DIRECT, 7842df1d2fe2db34
+spotxchange.com,108706, DIRECT, 7842df1d2fe2db34
+tremorhub.com, ag0sk, DIRECT, 1a4e959a1b50034a #VideoSSP
+tremorhub.com, jrkl5-0ac26, DIRECT, 1a4e959a1b50034a
+yieldmo.com, 1371771158575873032, DIRECT
+yieldmo.com, 2021092631773873174, DIRECT
+yieldmo.com, USA%20Today%20Sports, DIRECT
+
+
+#brealtime
+EMXDGT.com, 155, DIRECT, 1e1d41537f7cad7f #brealtime
+Appnexus.com, 1356, RESELLER, f5ab79cb980f11d1 #brealtime
+Google.com, pub-5995202563537249, RESELLER, f08c47fec0942fa0 #brealtime
+
+#Carambola
+carambo.la,stdy21,DIRECT,08a6b436f8183ac9 #Carambola
+openx.com,537111514,RESELLER,6a698e2ec38604c6 #Carambola
+openx.com,537140323,RESELLER,6a698e2ec38604c6 #Carambola
+lijit.com,249474,RESELLER,fafdf38b16bf6b2b #Carambola
+rubiconproject.com,17174,RESELLER,0bfd66d529a55807 #Carambola
+
+#33Across
+33across.com, 0013300001dt0ZzAAI, DIRECT #33across
+appnexus.com, 1001, RESELLER #33across
+rubiconproject.com,16414,RESELLER,0bfd66d529a55807 #33across
+openx.com, 537120563, RESELLER, 6a698e2ec38604c6 #33across
+google.com,pub-9557089510405422,RESELLER,f08c47fec0942fa0 #33across
+
+#MinuteMedia
+google.com, pub-1956856209985681, RESELLER, f08c47fec0942fa0
+google.com, pub-9685734445476814, RESELLER, f08c47fec0942fa0
+google.com, pub-1301581561755234, RESELLER, f08c47fec0942fa0
+google.com, pub-1301581561755234, DIRECT, f08c47fec0942fa0
+springserve.com, 581, DIRECT, a24eb641fc82e93d
+
+#Leaf
+google.com, pub-3235755782694080, DIRECT, f08c47fec0942fa0 #leaf
+
+#Hoopla
+google.com, pub-1386280613967939, DIRECT, f08c47fec0942fa0 #hoopla
+smartadserver.com, 1827, DIRECT #hoopla
+improvedigital.com, 335, DIRECT #hoopla
+appnexus.com, 3538, DIRECT #hoopla
+appnexus.com, 3539, DIRECT #hoopla
+appnexus.com, 3540, DIRECT #hoopla
+
+#SublimeSkinz
+smartadserver.com, 1827, RESELLER #sublimeskinz
+improvedigital.com, 335, RESELLER #sublimeskinz
+appnexus.com, 3538, RESELLER #sublimeskinz
+appnexus.com, 3539, RESELLER #sublimeskinz
+appnexus.com, 3540, RESELLER #sublimeskinz
+freewheel.tv, 67849, RESELLER #sublimeskinz
+freewheel.tv, 151121, RESELLER #sublimeskinz
+freewheel.tv, 138345, RESELLER #sublimeskinz
+
+#SpotIm
+rhythmone.com, 449400134, DIRECT, a670c89d4a324e47
+google.com, pub-5616046187545019, RESELLER
+adtech.com, 11465.1, RESELLER SpotIM
+rubiconproject.com, 17184, DIRECT #SpotIM
+appnexus.com, 6933, RESELLER #SpotIM
+PubMatic.com, 156813, RESELLER, 5d62403b186f2ace SpotIM
+
+#Zedo
+zedo.com, 912, DIRECT, #ZINCbyZEDO
+openx.com, 537133201, RESELLER, 6a698e2ec38604c6 #Zedo
+rubiconproject.com, 11406, RESELLER, 0bfd66d529a55807 #Zedo
+google.com, pub-9242135695870166, RESELLER #Zedo
+synacor.com, 14241, RESELLER #Zedo
+appnexus.com, 1899, RESELLER #Zedo
+zedo.com, 752, DIRECT, #ZINCbyZEDO
+
+#Undertone
+undertone.com, 2492, DIRECT #Undertone
+
+#TripleLift
+triplelift.com, 913, DIRECT, 6c33edb13117fd86 #NFLWires
+triplelift.com, 1644, DIRECT, 6c33edb13117fd86 #FTW
+triplelift.com, 813, DIRECT, 6c33edb13117fd86 #MMAJ
+triplelift.com, 1645, DIRECT, 6c33edb13117fd86 #Hoopshype
+triplelift.com, 4421, DIRECT, 6c33edb13117fd86 #Golfweek
+triplelift.com, 322, DIRECT, 6c33edb13117fd86 #Thebiglead
+triplelift.com, 2300, DIRECT, 6c33edb13117fd86 #49erswebzone
+triplelift.com, 3268, DIRECT, 6c33edb13117fd86 #SBISoccer
+triplelift.com, 1643, DIRECT, 6c33edb13117fd86 #BNQT
+triplelift.com, 2299, DIRECT, 6c33edb13117fd86 #Unofficial
+triplelift.com, 2811, DIRECT, 6c33edb13117fd86 #ClemsonInsider
+triplelift.com, 2298, DIRECT, 6c33edb13117fd86 #Sneakhype
+triplelift.com, 3215, DIRECT, 6c33edb13117fd86 #CollegefootballNews
+triplelift.com, 4754, DIRECT, 6c33edb13117fd86 #KentuckySports
+triplelift.com, 4760, DIRECT, 6c33edb13117fd86 #CavsNation
+triplelift.com, 4852, DIRECT, 6c33edb13117fd86 #10Best
+triplelift.com, 4873, DIRECT, 6c33edb13117fd86 #TheBlast
+triplelift.com, 1644, DIRECT, 6c33edb13117fd86 #usatoday.com
+triplelift.com, 913, DIRECT, 6c33edb13117fd86 #usatoday.com
+triplelift.com, 913, DIRECT, 6c33edb13117fd86 #TripleliftO&Oandpartners
+triplelift.com, 5561, DIRECT, 6c33edb13117fd86 #TheSportsDaily
+triplelift.com, 5562, DIRECT, 6c33edb13117fd86 #Racer
+spotxchange.com, 228454, RESELLER, 7842df1d2fe2db34
+spotx.tv, 228454, RESELLER, 7842df1d2fe2db34
+lkqd.net, 504, RESELLER, 59c49fa9598a0117
+
+#JustPremium
+openx.com, 539553318, RESELLER, 6a698e2ec38604c6 #Justpremium
+appnexus.com, 7118, Reseller #Justpremium
+spotx.tv, 108933, RESELLER, 7842df1d2fe2db34 #Justpremium
+spotxchange.com, 108933, RESELLER, 7842df1d2fe2db34 #Justpremium
+
+#Synacor
+pubmatic.com, 156344, DIRECT, 5d62403b186f2ace #Pubmatic
+rubiconproject.com, 13344, RESELLER, 0bfd66d529a55807 #Rubicon
+appnexus.com, 310, RESELLER #Synacor
+synacor.com, 81485, DIRECT, e108f11b2cdf7d5b
+advertising.com, 19623, RESELLER
+
+#DistrictM
+districtm.io, 101140, DIRECT
+appnexus.com, 1908, RESELLER #DistrictM
+appnexus.com, 7944, RESELLER #DistrictM
+google.com, pub-9685734445476814, RESELLER, f08c47fec0942fa0 #DistrictM
+
+#Tremor
+indexexchange.com, 185449, RESELLER, 50b1c356f2c5c8fc #Tremor
+
+#GumGum
+33across.com, 0013300001r0t9mAAA, RESELLER #GumGum
+appnexus.com, 2758, RESELLER, f5ab79cb980f11d1 #GumGum
+appnexus.com, 1942, RESELLER, f5ab79cb980f11d1 #GumGum
+google.com, pub-3848273848634341, RESELLER, f08c47fec0942fa0 #GumGum
+openx.com, 537149485, RESELLER, 6a698e2ec38604c6 #GumGum
+
+#GiftConnect
+consumable.com, 2000202, DIRECT
+google.com, pub-6694481294649483, RESELLER #GiftConnect
+openx.com, 537150004, RESELLER #GiftConnect
+indexexchange.com, 187454, RESELLER
+indexexchange.com, 186248, RESELLER, 50b1c356f2c5c8fc #ebda #GiftConnect
+
+#Connatix
+tremorhub.com, cd009, RESELLER, 1a4e959a1b50034a #Connatix
+advertising.com, 3679, RESELLER #Connatix
+advertising.com, 14564, RESELLER #Connatix
+spotxchange.com, 136839, RESELLER, 7842df1d2fe2db34 #Connatix
+spotx.tv, 136839, RESELLER, 7842df1d2fe2db34 #Connatix
+openx.com, 539496816, RESELLER, 6a698e2ec38604c6 #Connatix
+
+#Sharethrough
+indexexchange.com, 186046, RESELLER #Sharethrough
+rubiconproject.com, 18694, RESELLER, 0bfd66d529a55807
+spotxchange.com, 212457, RESELLER #Sharethrough
+openx.com, 540274407, RESELLER, 6a698e2ec38604c6
+
+
+#Sovrn
+sovrn.com, 247572, DIRECT, fafdf38b16bf6b2b #SovrnEBDA
+lijit.com, 247572, DIRECT, fafdf38b16bf6b2b #SovrnEBDA
+sovrn.com, 224989, DIRECT, fafdf38b16bf6b2b  #SovrnEBDA
+lijit.com, 224989, DIRECT, fafdf38b16bf6b2b  #SovrnEBDA
+
+#Distroscale
+appnexus.com, 7259, DIRECT #Distroscale
+google.com, pub-3851171199385532, DIRECT, f08c47fec0942fa0 #Distroscale
+openx.com, 537139075, DIRECT, 6a698e2ec38604c6 #Distroscale
+rubiconproject.com, 16578, DIRECT, 0bfd66d529a55807 #Distroscale
+tremorhub.com, 2g9h1, DIRECT, 1a4e959a1b50034a #Distroscale
+
+#Unruly
+video.unrulymedia.com, UNRX_a7fc7cd2-54af-4a36-8de8-80644a373640, DIRECT #Unruly
+video.unrulymedia.com, UNRX_4b0a975f-57e2-4f56-ba58-14e88cb6afd6, DIRECT #Unruly
+indexexchange.com, 182257, RESELLER #Unruly
+appnexus.com, 6849, RESELLER #Unruly
+rubiconproject.com, 15268, RESELLER #Unruly
+
+#Playground XYZ
+appnexus.com, 7290, RESELLER #PlaygroundXYZ #PlaygroundXYZ
+
+#Conversant
+conversantmedia.com, 38200, Direct, 03113cd04947736d #Conversant

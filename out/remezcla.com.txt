@@ -1,0 +1,8 @@
+google.com, pub-9281694858629770, DIRECT, f08c47fec0942fa0
+synacor.com, 82264, DIRECT, e108f11b2cdf7d5b
+advertising.com, 19623, RESELLER # AOL - One
+appnexus.com, 9316, RESELLER, f5ab79cb980f11d1 # AppNexus
+pubmatic.com, 156344, RESELLER, 5d62403b186f2ace # Pubmatic
+rubiconproject.com, 13344, RESELLER, 0bfd66d529a55807 # Rubicon
+spotx.tv, 94794, RESELLER, 7842df1d2fe2db34 # SpotX
+spotxchange.com, 94794, RESELLER, 7842df1d2fe2db34 # SpotX

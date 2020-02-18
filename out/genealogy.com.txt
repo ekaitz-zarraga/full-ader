@@ -1,0 +1,77 @@
+#Genealogy ads.txt
+#Last Updated 11-18-2019
+#Yieldmo
+yieldmo.com, 2239926448008365661, DIRECT
+yieldmo.com, 2281297204029104418, DIRECT
+#Pubmatic
+pubmatic.com, 158067, DIRECT, 5d62403b186f2ace
+pubmatic.com, 158092, DIRECT, 5d62403b186f2ace
+#Rubicon
+rubiconproject.com, 14544, DIRECT, 0bfd66d529a55807
+#DistrictM
+districtm.io, 100563, DIRECT
+#Exponential
+exponential.com, 92070, DIRECT, afac06385c445926
+tribalfusion.com, 92070, DIRECT, afac06385c445926
+#Appnexus
+appnexus.com, 7641, DIRECT
+#Indexexchange
+indexexchange.com, 185131, DIRECT
+#Adx
+google.com, pub-6068594957799567, DIRECT, f08c47fec0942fa0
+google.com, pub-8848487514564484, DIRECT, f08c47fec0942fa0
+#Rain
+aps.amazon.com, 3348, DIRECT
+#Conversant
+conversantmedia.com, 28180, DIRECT, 03113cd04947736d
+#Oath
+adtech.com, 10360, DIRECT
+aolcloud.net, 10360, DIRECT
+adtech.com, 12088, DIRECT
+#Sovrn
+sovrn.com, 52351, DIRECT, fafdf38b16bf6b2b
+lijit.com, 52351, DIRECT, fafdf38b16bf6b2b
+#Openx
+openx.com, 538911206, DIRECT, 6a698e2ec38604c6
+openx.com, 539963263, DIRECT, 6a698e2ec38604c6
+#Disqus
+rubiconproject.com, 13380, RESELLER, 0bfd66d529a55807
+indexexchange.com, 185073, RESELLER, 50b1c356f2c5c8fc
+openx.com, 537133236, RESELLER, 6a698e2ec38604c6
+google.com, pub-6650322601660058, RESELLER, f08c47fec0942fa0
+adtech.com, 10383, RESELLER
+aolcloud.net, 10383, RESELLER
+sovrn.com, 2870, RESELLER
+appnexus.com, 2797, DIRECT
+adsnative.com, 267, DIRECT #polymorph
+getpolymorph.com, 267, DIRECT #polymorph
+advertising.com, 26249, RESELLER #matomyvideo
+spotxchange.com, 87906, RESELLER, 7842df1d2fe2db34 #matomyvideo
+spotx.tv, 87906, RESELLER, 7842df1d2fe2db34 #matomyvideo
+lkqd.net, 137, RESELLER, 59c49fa9598a0117 #matomyvideo
+lkqd.com, 137, RESELLER, 59c49fa9598a0117 #matomyvideo
+advertising.com, 19978, RESELLER #matomyvideo
+advertising.com, 6713, RESELLER #matomyvideo
+beachfront.com, beachfront_2558, RESELLER #matomyvideo
+optimatic.com, 322107356072, RESELLER #matomyvideo
+appnexus.com, 2637, RESELLER #matomyvideo
+connectad.io, 191, DIRECT #connectad
+pubmatic.com, 156077, RESELLER, 5d62403b186f2ace #connectad
+pubmatic.com, 55990, RESELLER, 5d62403b186f2ace #connectad
+pulsepoint.com, 560489, RESELLER #connectad
+openx.com, 537145117, RESELLER, a698e2ec38604c6 #connectad
+google.com, pub-9467340974789471, RESELLER, f08c47fec0942fa0 #connectad
+adform.com, 768, RESELLER #connectad
+thetimmedia.com, 318, DIRECT #Memevideo
+memevideoad.com, 318, DIRECT #Memevideo
+spotxchange.com,98033, RESELLER,7842df1d2fe2db34 #Memevideo
+freewheel.tv, 151177, RESELLER #Memevideo
+freewheel.tv, 414097, RESELLER #Memevideo
+vidazoo.com, 4967162112, DIRECT #vidazoo
+advertising.com, 7873, RESELLER #vidazoo
+improvedigital.com, 962, RESELLER #vidazoo
+pubmatic.com, 156145, RESELLER #vidazoo
+spotxchange.com, 92299, RESELLER #vidazoo
+spotx.tv, 92299, RESELLER #vidazoo
+districtm.io, 100812, DIRECT #districtm
+appnexus.com, 1908, RESELLER, f5ab79cb980f11d1 #districtm

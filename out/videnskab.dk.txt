@@ -1,0 +1,36 @@
+#BM
+google.com, pub-4468771410062805, RESELLER
+adform.com, 47, RESELLER, 9f5210a2f0999e3
+adform.com, 183, RESELLER
+appnexus.com, 7118, RESELLER
+appnexus.com, 10917, RESELLER
+freewheel.tv, 33081, RESELLER
+freewheel.tv, 33601, RESELLER
+improvedigital.com, 185, RESELLER
+openx.com, 539522860, RESELLER, 6a698e2ec38604c6
+openx.com, 539523301, RESELLER, 6a698e2ec38604c6 
+openx.com, 539547652, RESELLER, 6a698e2ec38604c6
+openx.com, 539941617, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 36365, RESELLER, 5d62403b186f2ace
+pubmatic.com, 157567, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 11344, RESELLER
+spotx.tv, 108933, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 108933, RESELLER, 7842df1d2fe2db34 
+#CCPHv1.11.bm
+google.com, pub-4307100767376023, RESELLER, f08c47fec0942fa0
+google.com, pub-3910281248157208, RESELLER, f08c47fec0942fa0
+adform.com, 9, RESELLER
+appnexus.com, 3549, RESELLER
+appnexus.com, 2954, RESELLER
+freewheel.tv, 184361, RESELLER
+widespace.com, 3388, RESELLER
+improvedigital.com, 1166, RESELLER
+pubmatic.com, 156098, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 17246, RESELLER, 0bfd66d529a55807
+openx.com, 540158399, RESELLER, 6a698e2ec38604c6
+rubiconproject.com, 19272, RESELLER, 0bfd66d529a55807
+adform.com, 638, RESELLER
+indexexchange.com, 188938, RESELLER
+adform.com, 2375, RESELLER
+teads.tv, 15896, RESELLER, 15a9c44f6d26cbe
+improvedigital.com, 1289, RESELLER

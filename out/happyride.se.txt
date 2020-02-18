@@ -1,0 +1,10 @@
+#Keymobile
+adform.com, 582, RESELLER, 9f5210a2f0999e32
+rubiconproject.com, 17310, RESELLER, 0bfd66d529a55807
+appnexus.com, 8806, RESELLER, f5ab79cb980f11d1
+#AdX
+google.com, pub-8675940382313748, DIRECT, f08c47fec0942fa0
+#Adsense
+google.com, pub-3453978808150112, DIRECT, f08c47fec0942fa0
+#Rubicon
+rubiconproject.com, 19550, DIRECT

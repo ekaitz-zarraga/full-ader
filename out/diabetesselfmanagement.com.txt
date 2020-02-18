@@ -1,0 +1,24 @@
+google.com, pub-7673360533802941, DIRECT, f08c47fec0942fa0
+google.com, pub-1815637126450699, DIRECT, f08c47fec0942fa0
+google.com, pub-9043743823008922, DIRECT, f08c47fec0942fa0
+google.com, pub-1815637126450699, RESELLER, f08c47fec0942fa0
+google.com, pub-9043743823008922, RESELLER, f08c47fec0942fa0
+spotxchange.com, 152973, DIRECT, 7842df1d2fe2db34
+spotx.tv, 152973, DIRECT, 7842df1d2fe2db34
+media.net, 8CUVGXD58, DIRECT
+google.com, pub-7439041255533808, RESELLER
+nextmillennium.io, 3809, DIRECT
+liqwid.com, 2147483484, DIRECT, 26d4db6b04ea5182
+advertising.com, 22153, RESELLER
+adtech.com, 10861, RESELLER
+aolcloud.net, 10861, RESELLER
+openx.com, 537106719, RESELLER, 6a698e2ec38604c6
+google.com, pub-6306692780949050, RESELLER, f08c47fec0942fa0
+contextweb.com, 561481, RESELLER
+indexexchange.com, 183071, RESELLER
+google.com, pub-7269238500499280, RESELLER, f08c47fec0942fa0
+c.amazon-adsystem.com, 3352, RESELLER #banner
+rubiconproject.com, 16148, DIRECT, 0bfd66d529a55807 #Start VH
+google.com, pub-9528607032260800, DIRECT, f08c47fec0942fa0
+google.com, pub-9528607032260800, RESELLER, f08c47fec0942fa0
+rubiconproject.com, 16148, RESELLER, 0bfd66d529a55807 #End VH

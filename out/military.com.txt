@@ -1,0 +1,18 @@
+
+# Military.com/ads.txt
+
+# AppNexus
+
+appnexus.com, 3525, DIRECT
+
+# AdSense
+
+google.com, pub-0218990756745158, DIRECT, f08c47fec0942fa0
+
+# DFP
+
+google.com, pub-9521248125370764, DIRECT, f08c47fec0942fa0
+
+# Rubicon
+
+rubiconproject.com, 9039, DIRECT, 0bfd66d529a55807

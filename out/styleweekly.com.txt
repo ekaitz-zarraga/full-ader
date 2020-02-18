@@ -1,0 +1,40 @@
+#google
+google.com, pub-1227789144571386, DIRECT, f08c47fec0942fa0
+google.com, pub-6898437604276372, DIRECT, f08c47fec0942fa0
+
+#google adsense
+google.com, pub-4351976604843174, DIRECT, f08c47fec0942fa0
+
+#Ads.txt pilotonline.com 4f29c89237d287e8
+
+aps.amazon.com, 3503, DIRECT #banner, app
+beachfront.com, 12780, DIRECT, e2541279e8e2ca4d #video
+contextweb.com, 562047, DIRECT, 89ff185a4c4e857c #banner
+google.com, pub-5190935653373739, DIRECT #banner, video, app
+google.com, pub-8343697767130117, DIRECT, f08c47fec0942fa0 #banner, app 
+indexexchange.com, 185230, DIRECT #banner, app, video
+kargo.com, 3573, DIRECT #banner
+nativo.com, 4720, DIRECT, 59521ca7cc5e9fee #native 
+rubiconproject.com, 16156, RESELLER, 0bfd66d529a55807 #native (Nativo) 
+appnexus.com, 8035, RESELLER, f5ab79cb980f11d1 #native (Nativo)
+openx.com, 540467356, DIRECT, 6a698e2ec38604c6 #banner, app
+openx.com, 538995732, DIRECT, a698e2ec38604c6 #banner, app, video
+rubiconproject.com, 7476, DIRECT, 0bfd66d529a55807 #banner, app, video
+rubiconproject.com, 18556, DIRECT, 0bfd66d529a55807 #banner, app, video
+saambaa.com, 71021020, DIRECT #banner 
+google.com, pub-6552175488733768, RESELLER, f08c47fec0942fa0 #banner (Saambaa) 
+appnexus.com, 1908, RESELLER, f5ab79cb980f11d1 #banner (Saambaa) 
+appnexus.com, 1356, RESELLER, f5ab79cb980f11d1 #banner (Saambaa) 
+indexexchange.com, 188146, RESELLER, 50b1c356f2c5c8fc #banner (Saambaa)
+sovrn.com, 252623, RESELLER, fafdf38b16bf6b2b #banner (Saambaa)
+lijit.com, 252623, RESELLER, fafdf38b16bf6b2b #banner (Saambaa)
+teads.tv, 8872, DIRECT, 15a9c44f6d26cbe1 #outstream
+triplelift.com, 5947, DIRECT, 6c33edb13117fd86 #native, banner
+triplelift.com, 2842, DIRECT, 6c33edb13117fd86 #native, banner
+yieldmo.com, 2102997786261357594, DIRECT #banner, native
+yieldmo.com, 2130427170014266689, DIRECT #banner, native
+google.com, pub-1051504991213440, RESELLER, f08c47fec0942fa0 #banner (Duration Media) 
+appnexus.com, 1908, RESELLER, f5ab79cb980f11d1 #banner (Duration Media) 
+openx.com, 540495146, RESELLER, 6a698e2ec38604c6 #banner (Duration Media)
+undertone.com, 134, DIRECT #banner 
+openx.com, 537153564, RESELLER, 6a698e2ec38604c6 #banner (Undertone)

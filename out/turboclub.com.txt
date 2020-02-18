@@ -1,0 +1,8 @@
+# AdvertiserDomain, PublisherAccountID, AccountType, CertificationAuthorityID
+#
+google.com, pub-4808185530740297, DIRECT, f08c47fec0942fa0
+#ebay.com, 1617796, DIRECT,
+#Valid Details Jan 2020
+CONTACT=admin@turboclub.com
+CONTACT=https://turboclub.com/
+SUBDOMAIN=cars.turboclub.com

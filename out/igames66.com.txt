@@ -1,0 +1,111 @@
+# S
+google.com, pub-5994011576416099, DIRECT, f08c47fec0942fa0
+
+# M
+google.com, pub-2114578358135779, DIRECT, f08c47fec0942fa0
+
+#Slavik
+google.com, pub-8429870519166820, DIRECT, f08c47fec0942fa0
+
+# iPlr
+iplayer.org, 1000, DIRECT
+ad.iplayer.org, 3000, DIRECT
+
+# Sftgms
+google.com,pub-5846800249286047,RESELLER,f08c47fec0942fa0
+google.com,pub-2639796181223786,RESELLER
+google.com, pub-3245421709461335, RESELLER, f08c47fec0942fa0
+spotxchange.com,88862,RESELLER,7842df1d2fe2db34
+adform.com,814,RESELLER
+spotx.tv,88862,RESELLER,7842df1d2fe2db34
+lkqd.net,294,RESELLER,59c49fa9598a0117
+lkqd.com,294,RESELLER,59c49fa9598a0117
+spotxchange.com,139891,RESELLER,7842df1d2fe2db34
+spotx.tv,139891,RESELLER,7842df1d2fe2db34
+improvedigital.com,545,RESELLER
+spotxchange.com,153598,DIRECT,7842df1d2fe2db34
+spotx.tv,153598,DIRECT,7842df1d2fe2db34
+freewheel.tv,215714,DIRECT
+freewheel.tv,216634,DIRECT
+google.com,pub-1313834454494130,DIRECT,f08c47fec0942fa0
+google.com,pub-2316275586951220,DIRECT,f08c47fec0942fa0
+google.com,pub-5760410923284845,RESELLER,f08c47fec0942fa0
+sekindo.com,20015,DIRECT
+
+# Gmdstrbtn 
+spotxchange.com, 153598, RESELLER, 7842df1d2fe2db34
+spotx.tv, 153598, RESELLER, 7842df1d2fe2db34
+freewheel.tv, 215714, RESELLER
+freewheel.tv, 216634, RESELLER 
+google.com, pub-1313834454494130, RESELLER, f08c47fec0942fa0
+google.com, pub-2316275586951220, RESELLER, f08c47fec0942fa0
+improvedigital.com, 545, RESELLER
+improvedigital.com, 1101, RESELLER
+tremorhub.com, ztx03-iaj07, RESELLER, 1a4e959a1b50034a
+aolcloud.net, 21410, RESELLER
+appnexus.com, 9994, RESELLER
+indexexchange.com, 188249, RESELLER
+pubmatic.com, 156946, RESELLER, 5d62403b186f2ace
+advertising.com, 27287, RESELLER 
+rubiconproject.com, 21426, RESELLER, 0bfd66d529a55807
+
+# Fmb
+google.com, pub-2504503821144226, RESELLER, f08c47fec0942fa0
+
+# 4j
+google.com, pub-7677430104552677, RESELLER, f08c47fec0942fa0 
+google.com, pub-5709904851857474, RESELLER, f08c47fec0942fa0
+
+# CloudGG
+google.com pub-5060663379040713, RESELLER, f08c47fec0942fa0
+spotxchange.com 149886, RESELLER, 7842df1d2fe2db34
+google.com pub-2778952995668502, RESELLER, f08c47fec0942fa0
+google.com pub-5510224949774646, RESELLER, f08c47fec0942fa0
+
+# Pok
+google.com, pub-7172438709115532, RESELLER 
+google.com, 1053551, RESELLER
+google.com, pub-5936100259797777, RESELLER 
+
+#Twma
+google.com, pub-6217532572841106, RESELLER, f08c47fec0942fa0 
+
+#Gpx
+google.com, pub-5285623249468085, RESELLER, f08c47fec0942fa0
+google.com, pub-8435989769185680, RESELLER, f08c47fec0942fa0
+google.com, pub-2365506394227806, RESELLER, f08c47fec0942fa0
+rhythmone.com, 1947792888, DIRECT, a670c89d4a324e47
+rhythmone.com, 1117218481, DIRECT, a670c89d4a324e47
+rhythmone.com, 3372001037, DIRECT, a670c89d4a324e47
+
+#IDS
+google.com, pub-7718251389626337, DIRECT, f08c47fec0942fa0
+google.com, pub-6343620367687201, RESELLER, f08c47fec0942fa0
+google.com, pub-2989550757492008, DIRECT, f08c47fec0942fa0
+google.com, pub-1695026254000808, DIRECT, f08c47fec0942fa0
+
+#WitcH
+google.com, pub-4384771068963781, RESELLER, f08c47fec0942fa0
+google.com, pub-1797093441085732, RESELLER, f08c47fec0942fa0
+google.com, pub-6916412740459727, RESELLER, f08c47fec0942fa0
+google.com, pub-1484074702945925, RESELLER, f08c47fec0942fa0
+google.com, pub-7988790896180197, RESELLER, f08c47fec0942fa0 
+
+#capy-egirl
+google.com, pub-9766356536948632, RESELLER, f08c47fec0942fa0
+google.com, pub-2589929912032296, RESELLER, f08c47fec0942fa0
+google.com, pub-3032394680547170, RESELLER, f08c47fec0942fa0
+
+#gamezop
+google.com, pub-3452022011371122, RESELLER, f08c47fec0942fa0
+
+#playtouch 
+google.com, pub-8460767264532971, RESELLER, f08c47fec0942fa0
+google.com, pub-5587206406992399, RESELLER, f08c47fec0942fa0
+
+#inlogicsk
+google.com, pub-3282547114800347, RESELLER, f08c47fec0942fa0
+
+#VitalityGames 
+google.com, pub-7630682384839773, RESELLER, f08c47fec0942fa0
+google.com, pub-3401626414644467, RESELLER, f08c47fec0942fa0

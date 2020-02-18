@@ -1,0 +1,500 @@
+33across.com, 0010b000018louAAAQ, DIRECT #display
+33across.com, 0010b00001rrPUnAAM, DIRECT, bbea06d9c4d2853c #display
+33across.com, 0010b00001u6VjdAAE, RESELLER
+33across.com, 0010b00002CpYhEAAV, RESELLER, bbea06d9c4d2853c
+33across.com, 0010b00002FJxYJAA1, DIRECT, bbea06d9c4d2853c
+33across.com, 0013300001r0t9mAAA, reseller
+33across.com, 33, DIRECT
+33across.com, 33, RESELLER
+adblade.com, 39600, RESELLER #AdBlade
+adpone.com, 1992, direct
+adscompass.com, 577899, RESELLER
+adtech.com, 10047, DIRECT, e1a5b5b6e3255540
+adtech.com, 10048, RESELLER
+adtech.com, 10064, RESELLER
+adtech.com, 10483, RESELLER
+adtech.com, 10513, RESELLER
+adtech.com, 10529, RESELLER #AOL Adtech
+adtech.com, 10625, RESELLER
+adtech.com, 10871, RESELLER #Blue Water Ads
+adtech.com, 10947, DIRECT
+adtech.com, 10984, DIRECT #banner
+adtech.com, 11246, RESELLER
+adtech.com, 11409, RESELLER
+adtech.com, 11555, RESELLER
+adtech.com, 12033, DIRECT
+adtech.com, 12094, RESELLER
+adtech.com, 46021, DIRECT #banner
+adtech.com, 9446, RESELLER #AOL
+adtech.com, 9904, RESELLER
+adtech.com, 9993, RESELLER
+advertising.com, 10162, RESELLER #Media 122
+advertising.com, 11844, RESELLER #RollmMob
+advertising.com, 12543, RESELLER #video
+advertising.com, 19623, RESELLER #AdapTV
+advertising.com, 24410, RESELLER
+advertising.com, 28251, reseller, e1a5b5b6e3255540
+advertising.com, 3500, RESELLER #Anyclip
+advertising.com, 3531, RESELLER #RockYou
+advertising.com, 3597, RESELLER #Blue Water Ads
+advertising.com, 7372, RESELLER
+advertising.com, 8181, RESELLER
+advertising.com, 8603, RESELLER #native
+advertising.com, 8904, RESELLER
+advertising.com, 9008, RESELLER #Yellow Hammer
+adyoulike.com, b4bf4fdd9b0b915f746f6747ff432bde, RESELLER
+altitude-arena.com, CI6VVBNF9P3533FVLRNKSHIH0S, RESELLER
+amazon.com, 3411, RESELLER
+anyclip-media.com, 5666a6fd2a61260002000001, DIRECT #Anyclip
+aol.com, 17744, RESELLER
+aol.com, 6202, RESELLER
+aolcloud.net, 10483, RESELLER
+aolcloud.net, 10513, RESELLER
+aolcloud.net, 10529, RESELLER #AOL Adtech
+aolcloud.net, 10947, DIRECT 
+aolcloud.net, 10984, DIRECT #banner
+aolcloud.net, 11246, RESELLER
+aolcloud.net, 46021, DIRECT #banner
+aolcloud.net, 4719, RESELLER
+aolcloud.net, 9446, RESELLER #AOL
+aolcloud.net, 9904, RESELLER
+aolcloud.net, 9993, RESELLER
+appnexus.com, 1001, RESELLER, f5ab79cb980f11d1
+appnexus.com, 10239, RESELLER, f5ab79cb980f11d1
+appnexus.com, 11176, DIRECT
+appnexus.com, 1356, DIRECT
+appnexus.com, 1356, RESELLER, f5ab79cb980f11d1
+appnexus.com, 1360, RESELLER, f5ab79cb980f11d1
+appnexus.com, 1538, RESELLER
+appnexus.com, 1610, RESELLER, f5ab79cb980f11d1
+appnexus.com, 1613, reseller
+appnexus.com, 1624, RESELLER
+appnexus.com, 1908, RESELLER, f5ab79cb980f11d1 #Rhythm One
+appnexus.com, 1922, RESELLER
+appnexus.com, 1942, RESELLER, f5ab79cb980f11d1
+appnexus.com, 1942, reseller, f5ab79cb980f11d1
+appnexus.com, 2444, RESELLER
+appnexus.com, 2720, RESELLER #Anyclip
+appnexus.com, 2758, RESELLER, f5ab79cb980f11d1
+appnexus.com, 310, RESELLER #AppNexus
+appnexus.com, 3135, RESELLER, f5ab79cb980f11d1
+appnexus.com, 3153, RESELLER
+appnexus.com, 3251, RESELLER
+appnexus.com, 3326, reseller
+appnexus.com, 3364, RESELLER #native
+appnexus.com, 3695, RESELLER
+appnexus.com, 3703, RESELLER, f5ab79cb980f11d1 #RollmMob
+appnexus.com, 3911, RESELLER, f5ab79cb980f11d1 #nexuscot
+appnexus.com, 4052, RESELLER
+appnexus.com, 7377, DIRECT
+appnexus.com, 7556, DIRECT
+appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
+appnexus.com, 7666, RESELLER, f5ab79cb980f11d1
+appnexus.com, 7874, RESELLER, f5ab79cb980f11d1
+appnexus.com, 7944, RESELLER, f5ab79cb980f11d1 #Rhythm One
+appnexus.com, 8438, RESELLER
+appnexus.com, 8540, DIRECT #banner
+appnexus.com, 926, RESELLER #Yellow Hammer
+appnexus.com, 9316, RESELLER, f5ab79cb980f11d1 #AppNexus
+appnexus.com, 9393, DIRECT
+appnexus.com, 9847, RESELLER
+aps.amazon.com, 3120, DIRECT #app
+aps.amazon.com, 3120, DIRECT #display
+aps.amazon.com, 3120, DIRECT #video
+aralego.com, par-488A3E6BD8D997D0ED8B3BD34D8BA4B, RESELLER #ucFunnel
+aralego.com, par-BE7E7ADB8D34EE2BF7BBD2899BB62A77, DIRECT
+beachfront.com, 4969, RESELLER #YellowHammer
+beachfront.com, 4971, RESELLER #RollmMob
+bidtellect.com, 1407, RESELLER, 1c34aa2d85d45e93
+btrll.com, 6836428, RESELLER #Yellow Hammer
+connectad.io, 73, DIRECT
+consumable.com, 2000865, RESELLER
+consumable.com, 2000907, DIRECT
+consumable.com, 2000911, RESELLER
+contextweb.com, 508738, RESELLER, 89ff185a4c4e857c
+contextweb.com, 558211, RESELLER, 89ff185a4c4e857c
+contextweb.com, 558299, RESELLER, 89ff185a4c4e857c
+contextweb.com, 558355, RESELLER
+contextweb.com, 558511, RESELLER
+contextweb.com, 558825, RESELLER, 89ff185a4c4e857c
+contextweb.com, 559971, RESELLER, 89ff185a4c4e857c #Anyclip
+contextweb.com, 559988, RESELLER, 89ff185a4c4e857c
+contextweb.com, 560167, RESELLER, 89ff185a4c4e857c
+contextweb.com, 560175, RESELLER, 89ff185a4c4e857c #Media 122
+contextweb.com, 560288, RESELLER, 89ff185a4c4e857c
+contextweb.com, 560382, RESELLER #native
+contextweb.com, 560580, RESELLER #YellowHammer
+contextweb.com, 560606, RESELLER
+contextweb.com, 561238, RESELLER, 89ff185a4c4e857c
+contextweb.com, 561503, RESELLER, 89ff185a4c4e857c #YellowHammer
+contextweb.com, 561531, RESELLER, 89ff185a4c4e857c #RollmMob
+contextweb.com, 561533, RESELLER, 89ff185a4c4e857c
+contextweb.com, 561664, RESELLER, 89ff185a4c4e857c
+contextweb.com, 561998, RESELLER, 89ff185a4c4e857c
+contextweb.com, 575405, DIRECT #banner
+conversantmedia.com, 21347, RESELLER
+conversantmedia.com, 40258, DIRECT #banner
+conversantmedia.com, 40770, RESELLER #RollmMob
+conversantmedia.com, 42128, DIRECT, 03113cd04947736d
+coxmt.com, 2000067907202, RESELLER
+coxmt.com, 2000067998102, RESELLER
+coxmt.com, 2000068000102, RESELLER #Cox
+criteo.com, 109412, DIRECT, 9fac4a4a87c2a44f
+criteo.com, 3450, RESELLER 
+districtm.io, 100600, DIRECT
+districtm.io, 100629, RESELLER
+districtm.io, 100683, RESELLER
+districtm.io, 100710, DIRECT #banner
+districtm.io, 100750, RESELLER
+districtm.io, 100778, DIRECT
+districtm.io, 100885, RESELLER #Rhythm One
+districtm.io, 101085, RESELLER
+districtm.io, 101359, RESELLER
+districtm.io, 101519, RESELLER
+districtm.io, 101733, DIRECT
+districtm.io, 101760, RESELLER, 3fd707be9c4527c3
+districtm.io, 101888, DIRECT, 3fd707be9c4527c3
+emxdgt.com, 20, DIRECT, 1e1d41537f7cad7f
+emxdgt.com, 20, RESELLER
+EMXDGT.com, 22, RESELLER, 1e1d41537f7cad7f
+emxdgt.com, 301, DIRECT, 1e1d41537f7cad7f
+emxdgt.com, 326, RESELLER, 1e1d41537f7cad7f #display
+emxdgt.com, 68, RESELLER, 1e1d41537f7cad7f
+EMXDGT.com, 993, DIRECT, 1e1d41537f7cad7f
+freewheel.tv, 106841, RESELLER #Anyclip
+freewheel.tv, 106849, RESELLER #Anyclip
+freewheel.tv, 19129, RESELLER
+freewheel.tv, 19133, RESELLER
+freewheel.tv, 208505, RESELLER
+freewheel.tv, 327377, RESELLER
+freewheel.tv, 395937, RESELLER #RollmMob
+freewheel.tv, 395953, RESELLER #RollmMob
+freewheel.tv, 470641, RESELLER #Blue Water Ads
+freewheel.tv, 480609, RESELLER
+freewheel.tv, 482337, RESELLER
+freewheel.tv, 482689, RESELLER #YellowHammer
+freewheel.tv, 482721, RESELLER #YellowHammer
+freewheel.tv, 482753, RESELLER #YellowHammer
+freewheel.tv, 482785, RESELLER #YellowHammer
+fyber.com, 1a12a7e3f84fe560ccf95a3a73043abb, RESELLER
+fyber.com, 87e6c205797b093531996432a6e2f16a, RESELLER #Blue Water Ads
+fyber.com, 8d80fd4af47abb757a868ecef9f98df7, RESELLER #Media 122
+fyber.com, ad9de41d28d494354b23133f26f83122, RESELLER #native
+google.com, pub-1320774679920841, RESELLER, f08c47fec0942fa0
+google.com, pub-1409765517756851, RESELLER
+google.com, pub-1575911585432548, DIRECT, f08c47fec0942fa0
+google.com, pub-2128757167812663, reseller, f08c47fec0942fa0
+google.com, pub-2379628242979855, RESELLER, f08c47fec0942fa0
+google.com, pub-2911924646228087, RESELLER
+google.com, pub-3848273848634341, RESELLER, f08c47fec0942fa0
+google.com, pub-4075894099602271, RESELLER
+google.com, pub-4299156005397946, RESELLER, f08c47fec0942fa0
+google.com, pub-4525629126533536, DIRECT, f08c47fec0942fa0
+google.com, pub-4983172728561290, RESELLER, f08c47fec0942fa0 #Anyclip
+google.com, pub-5278973888786334, RESELLER, f08c47fec0942fa0 #Rhythm One
+google.com, pub-5995202563537249, RESELLER, f08c47fec0942fa0
+google.com, pub-6250726578680113, RESELLER, f08c47fec0942fa0
+google.com, pub-6373315980741255, RESELLER, f08c47fec0942fa0
+google.com, pub-6512936480753445, RESELLER, f08c47fec0942fa0
+google.com, pub-6694481294649483, DIRECT
+google.com, pub-6890333708239088, DIRECT, f08c47fec0942fa0
+google.com, pub-7249223325809944, RESELLER, f08c47fec0942fa0
+google.com, pub-7363809219244122, reseller, f08c47fec0942fa0
+google.com, pub-7439041255533808, RESELLER, f08c47fec0942fa0
+google.com, pub-7620071422727774, RESELLER, f08c47fec0942fa0 #Rhythm One
+google.com, pub-7630961163643137, RESELLER, f08c47fec0942fa0
+google.com, pub-7661599293481746, DIRECT, f08c47fec0942fa0
+google.com, pub-7774774243104839, RESELLER, f08c47fec0942fa0
+google.com, pub-8415754845210549, RESELLER, f08c47fec0942fa0
+google.com, pub-8872283078614633, reseller, f08c47fec0942fa0
+google.com, pub-9148265802523938, RESELLER, f08c47fec0942fa0 #Rhythm One
+google.com, pub-9242135695870166, RESELLER, f08c47fec0942fa0 #Ad Exchange
+google.com, pub-9557089510405422, RESELLER, f08c47fec0942fa0
+google.com, pub-9685734445476814, RESELLER, f08c47fec0942fa0
+gumgum.com, 11645, RESELLER, ffdef49475d318a9
+gumgum.com, 12932, RESELLER, ffdef49475d318a9 #YellowHammer
+gumgum.com, 13308, DIRECT, ffdef49475d318a9
+gumgum.com, 13318, RESELLER, ffdef49475d318a9
+gumgum.com, 13344, DIRECT, ffdef49475d318a9
+gumgum.com, 13593, RESELLER, ffdef49475d318a9
+gumgum.com, 13830, RESELLER, ffdef49475d318a9
+improvedigital.com, 1065, RESELLER
+indexexchange.com, 175407, RESELLER, 50b1c356f2c5c8fc
+indexexchange.com, 179394, reseller
+indexexchange.com, 182961, RESELLER, 50b1c356f2c5c8fc
+indexexchange.com, 183756, RESELLER #native
+indexexchange.com, 184311, RESELLER
+indexexchange.com, 184914, DIRECT 
+indexexchange.com, 185269, RESELLER #RockYou
+indexexchange.com, 185506, RESELLER
+indexexchange.com, 185863, DIRECT #banner
+indexexchange.com, 186248, DIRECT, 50b1c356f2c5c8fc
+indexexchange.com, 187071, DIRECT
+indexexchange.com, 187454, DIRECT
+indexexchange.com, 187482, DIRECT
+indexexchange.com, 187790, RESELLER
+indexexchange.com, 189840, DIRECT
+indexexchange.com, 190489, DIRECT
+infolinks.com, 3169585, DIRECT
+Insticator.com, c6c4ca69-3e9a-4356-84b9-b40afd7fb391, DIRECT
+lijit.com, 221149, DIRECT, fafdf38b16bf6b2b
+lijit.com, 236947, RESELLER, fafdf38b16bf6b2b
+lijit.com, 249816, DIRECT, fafdf38b16bf6b2b
+lijit.com, 251580, DIRECT #banner
+lijit.com, 254398, DIRECT, fafdf38b16bf6b2b
+lijit.com, 257618, RESELLER, fafdf38b16bf6b2b
+lijit.com, 258172, RESELLER, fafdf38b16bf6b2b
+lijit.com, 260041, RESELLER, fafdf38b16bf6b2b
+lijit.com, 268479, DIRECT, fafdf38b16bf6b2b
+lijit.com, 269217, DIRECT, fafdf38b16bf6b2b
+lijit.com, 53459, DIRECT, fafdf38b16bf6b2b
+lijit.com, 53459-eb, DIRECT, fafdf38b16bf6b2b
+lijit.com, 57813, RESELLER, fafdf38b16bf6b2b
+lijit.com, 57813-eb, RESELLER, fafdf38b16bf6b2b
+lkqd.com, 293, RESELLER, 59c49fa9598a0117 #video
+lkqd.com, 295, RESELLER, 59c49fa9598a0117
+lkqd.com, 37, RESELLER, 59c49fa9598a0117 #Media 122
+lkqd.com, 399, RESELLER, 59c49fa9598a0117
+lkqd.com, 470, RESELLER, 59c49fa9598a0117
+lkqd.com, 52, RESELLER, 59c49fa9598a0117 #RollmMob
+lkqd.com, 58, RESELLER, 59c49fa9598a0117 #RockYou
+lkqd.net, 244, RESELLER, 59c49fa9598a0117
+lkqd.net, 293, RESELLER, 59c49fa9598a0117 #video
+lkqd.net, 295, RESELLER, 59c49fa9598a0117
+lkqd.net, 37, RESELLER, 59c49fa9598a0117 #Media 122
+lkqd.net, 399, RESELLER, 59c49fa9598a0117
+lkqd.net, 470, RESELLER, 59c49fa9598a0117
+lkqd.net, 52, RESELLER, 59c49fa9598a0117 #RollmMob
+lkqd.net, 531, DIRECT, 59c49fa9598a0117
+lkqd.net, 58, RESELLER, 59c49fa9598a0117 #RockYou
+lockerdome.com, 11118976357066496, RESELLER
+loopme.com, 5679, RESELLER, 6c8d5f95897a5a3b
+loopme.com, s-2411, RESELLER, 6c8d5f95897a5a3b
+media.net, 8CULG523M, DIRECT
+Media.net, 8CUNOIK86, DIRECT
+Media.net, 8CUZAJH43, DIRECT
+mobileadtrading.com, 76f272a2b1aee1636d63db52ccce3692, RESELLER
+mobileadtrading.com, d27329acf5d6e8ee347f60c09a7d0e52, RESELLER
+nativeads.com, 66861, RESELLER
+openx.com, 118151, RESELLER, 6a698e2ec38604c6
+openx.com, 139445, DIRECT, 6a698e2ec38604c
+openx.com, 139445, RESELLER, 6a698e2ec38604c6
+openx.com, 23467, RESELLER, 6a698e2ec38604c6
+openx.com, 537100188, RESELLER, 6a698e2ec38604c6
+openx.com, 537117488, RESELLER, 6a698e2ec38604c6
+openx.com, 537120516, RESELLER
+openx.com, 537120563, RESELLER, 6a698e2ec38604c6
+openx.com, 537120960, RESELLER
+openx.com, 537122561, reseller
+openx.com, 537124574, RESELLER, 6a698e2ec38604c6
+openx.com, 537127577, RESELLER, a698e2ec38604c6
+openx.com, 537139680, RESELLER, 6a698e2ec38604c6 #OpenX
+openx.com, 537139983, RESELLER, 6a698e2ec38604c6 #Anyclip
+openx.com, 537141118, RESELLER, 6a698e2ec38604c6 #Media 122
+openx.com, 537141219, RESELLER, 6a698e2ec38604c6 #YellowHammer
+openx.com, 537143344, RESELLER, 6a698e2ec38604c6 #AOL
+openx.com, 537149485, RESELLER, 6a698e2ec38604c6
+openx.com, 537149485, reseller, 6a698e2ec38604c6
+openx.com, 537149888, RESELLER, 6a698e2ec38604c6 #RollmMob
+openx.com, 537149920, DIRECT, 6a698e2ec38604c6
+openx.com, 537150004, DIRECT
+openx.com, 538959099, RESELLER, 6a698e2ec38604c6
+openx.com, 539266264, RESELLER, 6a698e2ec38604c6 #display
+openx.com, 539356765, DIRECT, 6a698e2ec38604c6 #banner
+openx.com, 539392223, RESELLER, 6a698e2ec38604c6
+openx.com, 539699341, DIRECT, 6a698e2ec38604c6
+openx.com, 539924617, RESELLER, 6a698e2ec38604c6
+openx.com, 540031703, RESELLER, 6a698e2ec38604c6
+openx.com, 540062960, RESELLER, 6a698e2ec38604c6
+openx.com, 540105394, RESELLER, 6a698e2ec38604c6
+openx.com, 540118184, DIRECT, 6a698e2ec38604c6
+openx.com, 540258065, RESELLER, 6a698e2ec38604c6
+openx.com, 540323914, RESELLER, 6a698e2ec38604c6
+openx.com, 540592957, RESELLER, 6a698e2ec38604c6
+openx.com, 83499, RESELLER
+outbrain.com, 01a755b08c8c22b15d46a8b753ab6955d4, DIRECT
+outbrain.com, 01a755b08c8c22b15d46a8b753ab6955d4, RESELLER
+pilotx.tv, 3018, RESELLER #Blue Water Ads
+pixfuture.com, 538929181, direct
+pubmatic.com, 137711, RESELLER, 5d62403b186f2ace
+pubmatic.com, 153752, RESELLER, 5d62403b186f2ace #Blue Water Ads
+pubmatic.com, 154037, RESELLER #RollmMob
+pubmatic.com, 156039, RESELLER
+pubmatic.com, 156078, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156108, RESELLER, 5d62403b186f2ace #Yellow Hammer
+pubmatic.com, 156212, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156307, RESELLER, 5d62403b186f2ace #native
+pubmatic.com, 156319, DIRECT
+pubmatic.com, 156344, RESELLER, 5d62403b186f2ace #Pubmatic
+pubmatic.com, 156377, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156383, reseller, 5d62403b186f2ace
+pubmatic.com, 156410, RESELLER, 5d62403b186f2ace #YellowHammer
+pubmatic.com, 156423, RESELLER, 5d62403b186f2ace #display
+pubmatic.com, 156439, RESELLER #RollmMob
+pubmatic.com, 156505, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156525, DIRECT, 5d62403b186f2ace
+pubmatic.com, 156595, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156610, RESELLER, 5d62403b186f2ace #Anyclip
+pubmatic.com, 156700, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156749, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156872, RESELLER, 5d62403b186f2ace
+pubmatic.com, 157119, RESELLER, 5d62403b186f2ace
+pubmatic.com, 157367, DIRECT
+pubmatic.com, 157599, DIRECT, 5d62403b186f2ace
+pubmatic.com, 157599, RESELLER, 5d62403b186f2ace
+pubmatic.com, 157660, RESELLER, 5d62403b186f2ace
+pubmatic.com, 157842, DIRECT, 5d62403b186f2ace
+pubmatic.com, 158100, RESELLER, 5d62403b186f2ace
+pubmatic.com, 158142, RESELLER, 5d62403b186f2ace
+pubmatic.com, 158270, RESELLER,5d62403b186f2ace
+pubmatic.com, 158826, RESELLER, 5d62403b186f2ace
+pubmatic.com, 50758, RESELLER, 5d62403b186f2ace
+pubmatic.com, 50758, reseller, 5d62403b186f2ace
+pubmatic.com, 60809, RESELLER,5d62403b186f2ace
+pubmatic.com, 60809, RESELLER,5d62403b186f2ace
+pubmatic.com, 62483, RESELLER
+pubmatic.com, 6846, RESELLER, 5d62403b186f2ace #Pubmatic
+pubmatic.com, 93915, RESELLER, 5d62403b186f2ace #YellowHammer
+pubmatic.com, 93940, RESELLER #Media 122
+pubmatic.com, 95054, RESELLER, 5d62403b186f2ace
+pubnative.net, 1006576, RESELLER, d641df8625486a7b
+revcontent.com, 76611, RESELLER
+rhythmone.com, 1059622079, RESELLER
+rhythmone.com, 1344075341, DIRECT, a670c89d4a324e47
+rhythmone.com, 136898039, RESELLER, a670c89d4a324e47
+rhythmone.com, 1897319827, RESELLER, a670c89d4a324e4
+rhythmone.com, 2221906906, DIRECT, a670c89d4a324e47
+rhythmone.com, 2439829435, RESELLER, a670c89d4a324e47
+rhythmone.com, 2497923403, RESELLER, a670c89d4a324e47 #Rhythm One
+rhythmone.com, 2564526802, RESELLER, a670c89d4a324e47
+rhythmone.com, 2980366398, DIRECT, a670c89d4a324e47
+rhythmone.com, 306168277, DIRECT, a670c89d4a324e47
+rhythmone.com, 3246069104, RESELLER, a670c89d4a324e47
+rhythmone.com, 4000889998, RESELLER
+rhythmone.com, 527383184, RESELLER, a670c89d4a324e47
+rhythmone.com, 78519861, RESELLER
+rhythmone.com, 78519861, reseller
+rhythmone.com, 964214154, RESELLER
+rhythmone.com, a670c89d4a324e47, RESELLER
+rockyou.net, ry303642, RESELLER #RockYou
+roimediaconsultants.com, 1, DIRECT
+rtb.pretiox.com, 262, RESELLER
+rtk.io, 301, DIRECT
+rubiconproject.com, 13344, RESELLER, 0bfd66d529a55807 #Rubicon
+rubiconproject.com, 14410, RESELLER, 0bfd66d529a55807 #YellowHammer
+rubiconproject.com, 156042, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 16114, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 16414, RESELLER, 0bfd66d529a55807 #display
+rubiconproject.com, 16698, RESELLER, 0bfd66d529a55807 #native
+rubiconproject.com, 16784, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 17062, DIRECT, 0bfd66d529a55807
+rubiconproject.com, 17104, DIRECT, 0bfd66d529a55807 #banner
+rubiconproject.com, 17210, reseller
+rubiconproject.com, 17262, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 17532, DIRECT, 0bfd66d529a55807
+rubiconproject.com, 17532, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 17544, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 17632, DIRECT, 0bfd66d529a55807
+rubiconproject.com, 17960, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 17980, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 18890, DIRECT, 0bfd66d529a55807
+rubiconproject.com, 19398, DIRECT, 0bfd66d529a55807
+rubiconproject.com, 20130, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 20322, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 7665, DIRECT, 0bfd66d529a55807
+rubiconproject.com, 7665, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 8861, RESELLER, 0bfd66d529a55807
+sekindo.com, 17326, DIRECT, b6b21d256ef43532
+sharethrough.com, daf7bd11, RESELLER, d53b998a7bd4ecd2
+smaato.com, 1100033117, RESELLER
+smaato.com, 1100044045, RESELLER, 07bcf65f187117b4
+smartadserver.com, 1743, reseller
+smartadserver.com, 2148, RESELLER #Media 122
+smartadserver.com, 2313, RESELLER #Blue Water Ads
+smartadserver.com, 2452, RESELLER #RollmMob
+smartadserver.com, 3112, RESELLER
+smartadserver.com, 3238, RESELLER
+smartadserver.com, 3262, RESELLER
+smartadserver.com, 3436, RESELLER
+smartadserver.com, 3603, DIRECT
+somoaudience.com, 76f272a2b1aee1636d63db52ccce3692, RESELLER
+somoaudience.com, d27329acf5d6e8ee347f60c09a7d0e52, RESELLER
+sonobi.com, 5fa6044d8d, RESELLER
+sonobi.com, 6e5cfb5420, RESELLER, d1a215d9eb5aee9e
+sonobi.com, 93215fc1c4, RESELLER, d1a215d9eb5aee9e
+sonobi.com, 97098e9254, RESELLER
+sonobi.com, e315a43aa9, RESELLER
+sonobi.com, e55fb5d7c2, DIRECT
+sonobi.com, f0e1159c80, DIRECT
+sovrn.com, 221149, DIRECT, fafdf38b16bf6b2b
+sovrn.com, 236947, RESELLER, fafdf38b16bf6b2b
+sovrn.com, 248396, DIRECT
+sovrn.com, 249816, DIRECT, fafdf38b16bf6b2b
+sovrn.com, 251580, DIRECT #banner
+sovrn.com, 254398, DIRECT, fafdf38b16bf6b2b
+sovrn.com, 257429, RESELLER, fafdf38b16bf6b2b
+sovrn.com, 257611, RESELLER, fafdf38b16bf6b2b #RollmMob
+sovrn.com, 257618, RESELLER, fafdf38b16bf6b2b
+sovrn.com, 258172, RESELLER, fafdf38b16bf6b2b
+sovrn.com, 260041, RESELLER, fafdf38b16bf6b2b
+sovrn.com, 268479, DIRECT, fafdf38b16bf6b2b
+sovrn.com, 269217, DIRECT, fafdf38b16bf6b2b
+sovrn.com, 53101, RESELLER, fafdf38b16bf6b2b
+sovrn.com, 53459, DIRECT, fafdf38b16bf6b2b
+sovrn.com, 57813, RESELLER, fafdf38b16bf6b2b
+spotx.tv, 111271, RESELLER #YellowHammer
+spotx.tv, 113411, RESELLER, 7842df1d2fe2db34 #RockYou
+spotx.tv, 122116, RESELLER, 7842df1d2fe2db34 #SpotX
+spotx.tv, 139883, RESELLER, 7842df1d2fe2db34
+spotx.tv, 147949, RESELLER, 7842df1d2fe2db34
+spotx.tv, 211156, RESELLER, 7842df1d2fe2db34
+spotx.tv, 238463, RESELLER, 7842df1d2fe2db34
+spotx.tv, 71451, RESELLER #native
+spotx.tv, 74844, RESELLER, 7842df1d2fe2db34 #Anyclip
+spotx.tv, 75574, RESELLER, 7842df1d2fe2db34 #RockYou
+spotx.tv, 84294, RESELLER, 7842df1d2fe2db34
+spotx.tv, 94592, RESELLER, 7842df1d2fe2db34 #RollmMob
+spotx.tv, 94794, RESELLER, 7842df1d2fe2db34 #SpotX
+spotxchange.com, 111271, RESELLER #YellowHammer
+spotxchange.com, 113411, RESELLER, 7842df1d2fe2db34 #RockYou
+spotxchange.com, 122116, RESELLER, 7842df1d2fe2db34 #SpotX
+spotxchange.com, 139883, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 147949, RESELLER, 7842df1d2fe2db34 #YellowHammer
+spotxchange.com, 152198, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 211156, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 238463, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 71451, RESELLER #native
+spotxchange.com, 74844, RESELLER, 7842df1d2fe2db34 #Anyclip
+spotxchange.com, 75574, RESELLER, 7842df1d2fe2db34 #RockYou
+spotxchange.com, 84294, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 94592, RESELLER, 7842df1d2fe2db34 #RollmMob
+spotxchange.com, 94794, RESELLER, 7842df1d2fe2db34 #SpotX
+spoutable.com, 1224, DIRECT
+springserve.com, 1, RESELLER #Yellow Hammer
+springserve.com, 316, RESELLER, a24eb641fc82e93d #Anyclip
+springserve.com, 402, RESELLER, a24eb641fc82e93d #RollmMob
+springserve.com, 686, DIRECT, a24eb641fc82e93d
+synacor.com, 81483, RESELLER, e108f11b2cdf7d5b #Synacor Media
+synacor.com, 81591, RESELLER
+synacor.com, 82078, RESELLER
+synacor.com, 82087, DIRECT #Synacor Media
+taboola.com,1106268, DIRECT, c228e6794e811952 #native
+taboola.com,1106268, RESELLER, c228e6794e811952 #native
+taboola.com,1108982, DIRECT, c228e6794e811952 #native
+taboola.com,1108982, RESELLER, c228e6794e811952 #native
+tidaltv.com, 13699, DIRECT
+tidaltv.com, 13700, DIRECT
+tidaltv.com, 8211, DIRECT
+tremorhub.com, 0kq41, RESELLER, 1a4e959a1b50034a #Anyclip
+tremorhub.com, 60629, RESELLER #Yellow Hammer
+tremorhub.com, cdgfn, RESELLER, 1a4e959a1b50034a #YellowHammer
+tremorhub.com, mb9eo-oqsbf, RESELLER, 1a4e959a1b50034a
+tremorhub.com, n29gi, RESELLER, 1a4e959a1b50034a #RockYou
+tremorhub.com, z87wm, RESELLER, 1a4e959a1b50034a #native
+trioninteractive.com, 30131, DIRECT, 513d07ac0be57f88
+triplelift.com, 7056, RESELLER, 6c33edb13117fd86
+ucfunnel.com, par-BE7E7ADB8D34EE2BF7BBD2899BB62A77, DIRECT
+udmserve.net, 2857, DIRECT, 0cf60ed62b5f3e40
+udmserve.net, 2857, DIRECT, 0cf60ed62b5f3e40
+xad.com, 958, RESELLER, 81cbf0a75a5e0e9a
+yumenetworks.com, 2101, RESELLER, 0f8d7efd0c6b9c3e

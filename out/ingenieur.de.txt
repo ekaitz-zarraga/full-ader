@@ -1,0 +1,124 @@
+# Ads.txt file for Sites within iq digital media marketing gmbh network Q4_19_v3
+google.com, pub-6583763995580712, DIRECT, f08c47fec0942fa0 #AdSense
+google.com, pub-7198215319463257, DIRECT, f08c47fec0942fa0 #AdX
+Smaato.com, 1100040727, Direct
+openx.com, 540105372, DIRECT, 6a698e2ec38604c6
+indexexchange.com, 187580, DIRECT
+indexexchange.com, 190867, DIRECT
+appnexus.com, 6975, DIRECT, f5ab79cb980f11d1
+ad.yieldlab.net, 21719, DIRECT
+smartclip.net, 7650, DIRECT
+smartclip.net, 7923, DIRECT
+smartclip.net, 7738, DIRECT
+yieldlab.net, 5798882, RESELLER
+yieldlab.net, 506261, RESELLER
+yieldlab.net, 6374282, RESELLER
+yieldlab.net, 227224, RESELLER
+yieldlab.net, 781119, RESELLER
+yieldlab.net, 961276, RESELLER
+pubmatic.com, 157798,DIRECT,5d62403b186f2ace
+#Outbrain Start
+outbrain.com, 00299e7e4abc7c1f3becd2b1f7285ebe6c,direct
+outbrain.com, 0033c9c409850e60955826509aa3aac993,direct
+outbrain.com,007a510e104ee6679d5ac77c76e69c5e46,direct
+outbrain.com,00aa40bcecf450529b1674a8108ccc659c,direct
+outbrain.com,00ad2b2aac81fc45b924b08ef89d6c9298,direct
+outbrain.com,00adf5559e7bb17a03fd9c2a4e629055a2,direct
+outbrain.com,00b70ed7172e4009c9c7c02abb69457993,direct
+outbrain.com,00c54a7882425df45b19ba1bdc53772d20,direct
+outbrain.com,00e8b1fd7fc8798ea7d3a61f3ad254f78e,direct
+outbrain.com, 00d2d6e7a136d3198316967d81dc7f7cd0,direct
+advertising.com,26154,reseller
+advertising.com,28038,reseller
+appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
+contextweb.com,562145,reseller,89ff185a4c4e857c
+freewheel.tv,741650,reseller
+indexexchange.com,190856,reseller,50b1c356f2c5c8fc
+lkqd.net,450,reseller,59c49fa9598a0117
+openx.com,540393169,reseller,6a698e2ec38604c6
+pubmatic.com,158615,reseller,5d62403b186f2ace
+rubiconproject.com,17130,reseller,0bfd66d529a55807
+rubiconproject.com,19668,reseller,0bfd66d529a55807
+spotx.tv,238936,reseller,7842df1d2fe2db34
+spotxchange.com,225721,reseller
+spotxchange.com,238936,reseller,7842df1d2fe2db34
+teads.tv,15429,reseller,15a9c44f6d26cbe1
+vidazoo.com,1773068026,reseller,b6ada874b4d7d0b2
+#Outbrain Ende
+# Ads.txt file IP Deutschland Network for Instream/Outstream (Start)
+smartclip.net, 8225, DIRECT #IPD
+spotx.tv, 106817, DIRECT, #IPD
+spotx.tv, 152009, DIRECT #IPA
+spotxchange.com, 245212, RESELLER, 7842df1d2fe2db34
+spotx.tv, 245212, RESELLER, 7842df1d2fe2db34
+spotx.tv, 149950, RESELLER, 7842df1d2fe2db34 #smartclip outstream backfill
+spotx.tv, 207262, RESELLER, #smartclip outstream
+smartclip.net, 894, DIRECT #smartclip outstream
+spotx.tv, 136947, RESELLER, #Delta
+google.com, pub-3057818873023700, RESELLER #Goldbach CH
+appnexus.com, 3528, RESELLER # Goldbach CH Xaxis
+appnexus.com, 1851, RESELLER # Goldbach CH Xaxis
+appnexus.com, 3741, RESELLER # Goldbach Appnexus
+appnexus.com, 9242, RESELLER # Goldbach Appnexus
+appnexus.com, 7445, RESELLER # IPD Xaxis
+aps.amazon.com, 3137, RESELLER #NETLETIX Amazon Werbenetzwerk InStream
+# Ads.txt file IP Deutschland Network for Instream/Outstream (End)
+#twiago (start)
+twiago.com,496,RESELLER
+twiago.com,1043,RESELLER
+twiago.com,64,RESELLER
+twiago.com,578,RESELLER
+twiago.com,47,RESELLER
+twiago.com,235,RESELLER
+twiago.com,740,RESELLER
+twiago.com,1047,RESELLER
+twiago.com,303,RESELLER
+twiago.com,638,RESELLER
+twiago.com,324,RESELLER
+twiago.com,1212,RESELLER
+twiago.com,1031,RESELLER
+twiago.com,1030,RESELLER
+twiago.com,1053,RESELLER
+twiago.com,1049,RESELLER
+twiago.com,628,RESELLER
+twiago.com,641,RESELLER
+twiago.com,65,RESELLER
+twiago.com,463,RESELLER
+twiago.com,302,RESELLER
+twiago.com,1048,RESELLER
+twiago.com,147,RESELLER
+twiago.com,236,RESELLER
+twiago.com,629,RESELLER
+twiago.com,640,RESELLER
+twiago.com,63,RESELLER
+twiago.com,464,RESELLER
+twiago.com,62,RESELLER
+twiago.com,579,RESELLER
+twiago.com,1424,RESELLER
+#twiago (end)
+#Stailamedia AG Start
+appnexus.com, 1504, RESELLER, f5ab79cb980f11d1
+google.com, pub-9485981123373313, RESELLER, f08c47fec0942fa0
+appnexus.com, 1504, RESELLER, f5ab79cb980f11d1
+freewheel.tv, 228, RESELLER
+#Stailamedia AG Ende
+#Start Triplelift
+triplelift.com,6813,Direct,6c33edb13117fd86
+triplelift.com,6818,Direct,6c33edb13117fd86
+triplelift.com,6814,Direct,6c33edb13117fd86
+triplelift.com,6815,Direct,6c33edb13117fd86
+triplelift.com,6816,Direct,6c33edb13117fd86
+triplelift.com,6817,Direct,6c33edb13117fd86
+triplelift.com,6819,Direct,6c33edb13117fd86
+triplelift.com,6695,Direct,6c33edb13117fd86
+triplelift.com,6820,Direct,6c33edb13117fd86
+triplelift.com,6821,Direct,6c33edb13117fd86
+triplelift.com,6822,Direct,6c33edb13117fd86
+triplelift.com,6823,Direct,6c33edb13117fd86
+triplelift.com,6824,Direct,6c33edb13117fd86
+triplelift.com,6812,Direct,6c33edb13117fd86
+triplelift.com,6825,Direct,6c33edb13117fd86
+triplelift.com,6826,Direct,6c33edb13117fd86
+appnexus.com,1314,Reseller
+#EndTriplelift
+# Falls vorhanden hier nach die SSPs der Mandanten

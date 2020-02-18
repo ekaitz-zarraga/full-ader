@@ -1,0 +1,12 @@
+bebi.com, 63fbb137897f72b164857100a4d812e2f6a2f337, DIRECT
+advertising.com, 25308, RESELLER
+adtech.com, 10466, RESELLER
+spotxchange.com, 211738, RESELLER, 7842df1d2fe2db34
+spotx.tv, 211738, RESELLER, 7842df1d2fe2db34
+xapads.com, 1104, DIRECT
+beachfront.com, 4945, DIRECT, e2541279e8e2ca4d
+pubmatic.com, 157535, RESELLER
+#dmhy.org
+ucfunnel.com, pub-AA77BD2938342ABECB8DD2736E348ED, DIRECT
+aralego.com, pub-AA77BD2938342ABECB8DD2736E348ED, DIRECT
+google.com, pub-2924123447502529, DIRECT, f08c47fec0942fa0

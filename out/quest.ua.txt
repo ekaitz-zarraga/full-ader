@@ -1,0 +1,47 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+	    <link href="http://quest.ua/css/release/questua/mainstyles_questua.css?ver=1.43.2.1" type="text/css" rel="stylesheet" media="screen,projection" />
+
+		<title>Unregistered domain name</title>
+		<link rel="shortcut icon" href="http://cdn.endata.cx/images/questua/favicon.ico"></link>
+		
+		<meta name="copyright" content="Copyright  2004-2011 Encounter Ltd. All rights reserved." />
+	</head>
+	<body class="errorTemplate">
+		<table height="100%" cellSpacing="0" cellPadding="0" width="100%" border="0">
+			<tr>
+				<td vAlign="middle" align="center" height="100%">
+					<table border="0" width="443" cellspacing="0" cellpadding="0">
+						<tr>
+							<td width="100%">
+								<table border="0" width="100%" cellspacing="0" cellpadding="0">
+									<tr>
+										<td width="50%"><img border="0" src="http://cdn.endata.cx/images/questua/en_s_logo.gif" width="406" height="53" /></td>
+										<td width="50%"><img border="0" src="http://cdn.endata.cx/images/questua/stop.gif" width="37" height="53" /></td>
+									</tr>
+								</table>
+							</td>
+						</tr>
+						<tr>
+							<td width="100%" class="errorBgr">&nbsp;
+<p style="padding: 15px;">
+	<font color="#FFFF00">
+		<b>Domain name is unregistered!</b><br/>
+		Please use a registered domain name to enter the site or <a href="http://quest.ua/DomainRegistration.aspx">register</a> domain name.
+	</font>
+</p>
+<p>&nbsp;</p>
+
+							</td>
+						</tr>
+						<tr>
+							<td width="100%"><img border="0" src="http://cdn.endata.cx/images/questua/down.gif" width="443" height="1" /></td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+	</body>
+</html>

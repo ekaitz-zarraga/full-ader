@@ -1,0 +1,15 @@
+google.com, pub-9038399284179254, DIRECT, f08c47fec0942fa0
+rubiconproject.com, 13682, DIRECT, 0bfd66d529a55807
+outbrain.com, 004d62db362a067e03062a641f97a9e320, DIRECT
+google.com, pub-9440422347348904, DIRECT, f08c47fec0942fa0
+outbrain.com, 01eb797ef08db2a95d57bd4062a481fd6d, DIRECT
+outbrain.com, 01eb797ef08db2a95d57bd4062a481fd6d, RESELLER
+appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
+tremorhub.com, q017o-78mlk, RESELLER, 1a4e959a1b50034a # Outbrain outstream video
+advertising.com, 12624, RESELLER # Outbrain outstream video
+fyber.com, f2a848067b5fe77e73205e8024940cbf, RESELLER # Outbrain outstream video
+freewheel.tv, 484721, RESELLER # Outbrain outstream video
+sharethrough.com, 97d7a00c, DIRECT, d53b998a7bd4ecd2
+sharethrough.com, 581263c5, DIRECT, d53b998a7bd4ecd2
+appnexus.com,9453, DIRECT
+appnexus.com,9520, DIRECT

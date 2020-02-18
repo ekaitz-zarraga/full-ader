@@ -1,0 +1,95 @@
+#Facebook
+facebook.com, 1708295722716200, DIRECT
+
+#Taboola
+taboola.com,1152902,DIRECT,c228e6794e811952
+spotx.tv,71451,RESELLER
+spotxchange.com, 71451, RESELLER
+advertising.com, 8603, RESELLER
+pubmatic.com, 156307, RESELLER, 5d62403b186f2ace
+appnexus.com, 3364, RESELLER
+Indexexchange.com, 183756, RESELLER
+contextweb.com, 560382, RESELLER
+openx.com, 539154393, RESELLER
+tremorhub.com, z87wm, RESELLER, 1a4e959a1b50034a
+rubiconproject.com, 16698, RESELLER, 0bfd66d529a55807
+freewheel.tv, 799841, RESELLER
+freewheel.tv, 799921, RESELLER
+aol.com, 53392, RESELLER
+rhythmone.com, 1166984029, RESELLER, a670c89d4a324e47
+smartadserver.com, 3563, RESELLER
+beachfront.com, 13749, RESELLER, e2541279e8e2ca4d
+advertising.com, 28458, RESELLER
+admanmedia.com, 556, RESELLER
+taboola.com, 1143314, DIRECT, c228e6794e811952
+
+#Index
+indexexchange.com, 185045, DIRECT
+indexexchange.com, 184943, DIRECT
+
+#Rubicon
+rubiconproject.com, 18200, DIRECT, 0bfd66d529a55807
+rubiconproject.com, 13590, DIRECT
+
+#GAM
+google.com, pub-1630325131343226, DIRECT
+google.com, pub-9153617281414020, DIRECT, f08c47fec0942fa0
+
+#Amazon TAM
+amazon-adsystem.com, 3075, DIRECT
+
+#Verizon Oath
+adtech.com, 11513, DIRECT
+pubmatic.com, 156078, RESELLER
+pubmatic.com, 156377, RESELLER
+pubmatic.com, 155967, RESELLER
+indexexchange.com, 175407, RESELLER, 50b1c356f2c5c8fc
+
+#kargo
+kargo.com, 8323, Direct
+indexexchange.com, 184081, Reseller
+appnexus.com, 8173, RESELLER
+
+#TrustX
+trustx.org, 54, DIRECT
+themediagrid.com, 4BE7ZN, DIRECT, 35d5010d7789b49d
+
+#TripleLift
+triplelift.com, 335 , DIRECT, 6c33edb13117fd86
+triplelift.com, 335-EB, DIRECT, 6c33edb13117fd86
+
+#Teads
+teads.tv, 6019, DIRECT, 15a9c44f6d26cbe1
+teads.tv, 8485, DIRECT, 15a9c44f6d26cbe1
+teads.tv, 12407, DIRECT, 15a9c44f6d26cbe1
+teads.tv, 12407, DIRECT, 15a9c44f6d26cbe1
+
+#Appnexus
+appnexus.com, 6939, DIRECT
+
+#OpenX
+openx.com, 537134610, DIRECT, a698e2ec38604c6
+openx.com, 538976939, DIRECT, a698e2ec38604c6
+
+#Liveintent
+liveintent.com, 1004, DIRECT
+
+#RhythmOne
+rhythmone.com, 4270929544, DIRECT
+rhythmone.com, 1974622725, DIRECT
+
+#Sovrn
+sovrn.com, 265031, DIRECT, fafdf38b16bf6b2b
+lijit.com, 265031, DIRECT, fafdf38b16bf6b2b
+contextweb.com, 562001, RESELLER, 89ff185a4c4e857c
+
+#Criteo
+criteo.com, 159273, DIRECT
+
+#Pubmatic
+pubmatic.com, 158746, DIRECT, 5d62403b186f2ace
+pubmatic.com, 158745, DIRECT, 5d62403b186f2ace
+
+#BouncceX
+indexexchange.com, 183753, RESELLER
+pubmatic.com, 156512, RESELLER

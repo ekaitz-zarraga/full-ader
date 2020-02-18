@@ -1,0 +1,36 @@
+# google
+google.com, pub-4063837469506043, DIRECT, f08c47fec0942fa0
+
+# enhance
+ad-generation.jp, 10106, RESELLER
+ad-stir.com, 3399, RESELLER
+adtdp.com,2227,RESELLER # AJA
+as.amanad.adtdp.com,2227,RESELLER # AJA
+pubmatic.com,157141,RESELLER,5d62403b186f2ace # AJA
+genieesspv.jp, 21861, RESELLER # SoftbankSSP
+gmossp-sp.jp, 2000467, RESELLER
+impact-ad.jp, 3456, RESELLER
+microad.co.jp, 10061, RESELLER
+microad.co.jp, 14281, RESELLER
+openx.com, 537107979, RESELLER, 6a698e2ec38604c6
+openx.com, 539294065, RESELLER, 6a698e2ec38604c6
+rubiconproject.com, 12494, RESELLER, 0bfd66d529a55807
+teads.tv, 13591, RESELLER, 15a9c44f6d26cbe1
+teads.tv, 13592, RESELLER, 15a9c44f6d26cbe1
+outbrain.com, 014f3aedeeadc1ac71db121c4a67e515b5, RESELLER
+appnexus.com, 7597, RESELLER, f5ab79cb980f11d1 # Outbrain
+tremorhub.com, q017o-78mlk, RESELLER, 1a4e959a1b50034a # Outbrain outstream video
+advertising.com, 12624, RESELLER # Outbrain outstream video
+fyber.com, f2a848067b5fe77e73205e8024940cbf, RESELLER # Outbrain outstream video
+freewheel.tv, 484721, RESELLER # Outbrain outstream video
+contextweb.com, 562145, RESELLER, 89ff185a4c4e857c # Outbrain
+indexexchange.com, 190856, RESELLER, 50b1c356f2c5c8fc # Outbrain
+pubmatic.com, 158615, RESELLER, 5d62403b186f2ace # Outbrain
+vidazoo.com, 1773068026, RESELLER, b6ada874b4d7d0b2 # Outbrain
+video.unrulymedia.com, UNRX-PUB-11746789-f535-4ca5-9a9a-e2b064227cd3, DIRECT
+appnexus.com,3663,RESELLER,f5ab79cb980f11d1 # UAM Yahoo
+indexexchange.com, 182257, RESELLER # unruly
+appnexus.com, 6849, RESELLER # unruly
+rubiconproject.com, 15268, RESELLER # unruly
+relaido.jp, 2007, DIRECT
+

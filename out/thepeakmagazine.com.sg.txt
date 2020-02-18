@@ -1,0 +1,38 @@
+#< SSP/Exchange Domain >, < SellerAccountID >, < PaymentsType >, < TAGID >
+AppNexus.com, 9261, DIRECT
+google.com, pub-7024551668114021, DIRECT, f08c47fec0942fa0
+indexexchange.com, 184665, RESELLER, 50b1c356f2c5c8fc
+mgid.com, 5753867, DIRECT
+mgid.com, 5753884, DIRECT
+mgid.com, 5753891, DIRECT
+mgid.com, 5753895, DIRECT
+mgid.com, 5753898, DIRECT
+mgid.com, 5753905, DIRECT
+mgid.com, 5753909, DIRECT
+mgid.com, 5753910, DIRECT
+mgid.com, 5753911, DIRECT
+mgid.com, 5753914, DIRECT
+mgid.com, 5753919, DIRECT
+mgid.com, 5753921, DIRECT
+mgid.com, 5773721, DIRECT
+teads.tv, 11228, DIRECT, 15a9c44f6d26cbe1
+themediagrid.com, 8a907dd62e9e, RESELLER, 35d5010d7789b49d # themediagrid
+video.unrulymedia.com, UNRX-PUB-0637c83d-d096-466d-9555-f86cee9b8aa1, DIRECT
+indexexchange.com, 182257, RESELLER
+appnexus.com, 6849, RESELLER
+rubiconproject.com, 15268, RESELLER
+smartadserver.com, 1827, RESELLER
+improvedigital.com, 335, RESELLER
+appnexus.com, 3538, RESELLER
+appnexus.com, 3539, RESELLER
+appnexus.com, 3540, RESELLER
+freewheel.tv, 953601, RESELLER
+freewheel.tv, 962001, RESELLER
+freewheel.tv, 436065, RESELLER
+freewheel.tv, 962049, RESELLER
+freewheel.tv, 939377, RESELLER
+freewheel.tv, 477121, RESELLER
+freewheel.tv, 960705, RESELLER
+freewheel.tv, 908577, RESELLER
+freewheel.tv, 1000113, RESELLER
+freewheel.tv, 912785, RESELLER

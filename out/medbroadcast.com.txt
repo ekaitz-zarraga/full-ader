@@ -1,0 +1,6 @@
+#Vibrant Media ads.txt
+vibrantmedia.com,20653,RESELLER
+criteo.com,146785,direct
+contextweb.com,561689,reseller,89ff185a4c4e857c
+appnexus.com,2154,RESELLER
+google.com, pub-3248208015515344, DIRECT, f08c47fec0942fa0

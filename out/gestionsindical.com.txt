@@ -1,0 +1,41 @@
+#Ads.txt Gesti�n Sindical/AdMedialy/Frontaly
+google.com, pub-2234116355943015, DIRECT, f08c47fec0942fa0
+#9
+taboola.com,1181025,DIRECT,c228e6794e811952
+spotx.tv,71451,RESELLER
+spotxchange.com, 71451, RESELLER
+advertising.com, 8603, RESELLER
+advertising.com, 3531, RESELLER
+pubmatic.com, 156307, RESELLER, 5d62403b186f2ace
+appnexus.com, 3364, RESELLER
+Indexexchange.com, 183756, RESELLER
+contextweb.com, 560382, RESELLER
+openx.com, 539154393, RESELLER
+tremorhub.com, z87wm, RESELLER, 1a4e959a1b50034a
+rubiconproject.com, 16698, RESELLER, 0bfd66d529a55807
+fyber.com, ad9de41d28d494354b23133f26f83122, RESELLER
+fyber.com, 1a12a7e3f84fe560ccf95a3a73043abb, RESELLER
+#04
+agencyorquidea.com, 1572, DIRECT
+google.com, pub-2726428685015992, RESELLER, f08c47fec0942fa0
+appnexus.com, 9393, DIRECT
+appnexus.com, 10186, DIRECT 
+appnexus.com, 10479, DIRECT 
+appnexus.com, 9963, RESELLER
+appnexus.com, 10159, RESELLER, f5ab79cb980f11d1  
+appnexus.com, 9825, RESELLER, f5ab79cb980f11d1  
+appnexus.com, 9382, RESELLER   
+appnexus.com, 3605, RESELLER, f5ab79cb980f11d1
+appnexus.com, 1922, RESELLER, f5ab79cb980f11d1   
+openx.com, 540173408, DIRECT
+openx.com, 540338038, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 118367, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156957, RESELLER, 5d62403b186f2ace 
+pubmatic.com, 156921, RESELLER, 5d62403b186f2ace 
+pubmatic.com, 148800, RESELLER, 5d62403b186f2ace 
+pubmatic.com, 157530, RESELLER, 5d62403b186f2ace 
+rubiconproject.com, 16568, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 18450, RESELLER, 0bfd66d529a55807 
+rubiconproject.com, 11740, RESELLER, 0bfd66d529a55807 
+rubiconproject.com, 16944, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 16854, RESELLER 

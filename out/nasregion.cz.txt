@@ -1,0 +1,118 @@
+# test synchronizace
+appnexus.com, 6974, RESELLER, f5ab79cb980f11d1
+pubmatic.com, 49307, RESELLER, 5d62403b186f2ace
+r2b2.io, 4,DIRECT
+adform.com, 811, RESELLER
+google.com, pub-6070985156043962, RESELLER
+ibillboard.com, 31078, RESELLER
+ibillboard.com, 29102, RESELLER
+ibillboard.com, 30992, RESELLER
+ibillboard.com, 29718, RESELLER
+ibillboard.com, 29934, RESELLER
+ibillboard.com, 31378, RESELLER
+ibillboard.com, 30778, RESELLER
+ibillboard.com, 31478, RESELLER
+ibillboard.com, 29721, RESELLER
+ibillboard.com, 30601, RESELLER
+ibillboard.com, 29648, RESELLER
+ibillboard.com, 30705, RESELLER
+ibillboard.com, 29482, RESELLER
+ibillboard.com, 29545, RESELLER
+ibillboard.com, 29654, RESELLER
+ibillboard.com, 29604, RESELLER
+ibillboard.com, 29601, RESELLER
+ibillboard.com, 30649, RESELLER
+ibillboard.com, 30652, RESELLER
+ibillboard.com, 29542, RESELLER
+ibillboard.com, 29651, RESELLER
+ibillboard.com, 30604, RESELLER
+ibillboard.com, 31100, RESELLER
+indexexchange.com, 180179, RESELLER, 50b1c356f2c5c8fc
+stroeer.com, 14214 ,DIRECT
+indexexchange.com, 183592, RESELLER, 50b1c356f2c5c8fc
+Appnexus.com, 1371, RESELLER, f5ab79cb980f11d1
+contextweb.com, 558750, DIRECT, 89ff185a4c4e857c
+smartadserver.com, 2910, RESELLER
+indexexchange.com, 179394, RESELLER
+contextweb.com, 560288, RESELLER, 89ff185a4c4e857c
+pubmatic.com, 156439, RESELLER
+pubmatic.com, 154037, RESELLER
+rubiconproject.com, 16114,RESELLER, 0bfd66d529a55807
+openx.com, 537149888, RESELLER, 6a698e2ec38604c6
+sovrn.com, 257611, RESELLER, fafdf38b16bf6b2b
+appnexus.com, 3703, RESELLER, f5ab79cb980f11d1
+rubiconproject.com,208454,DIRECT,0bfd66d529a55807
+rubiconproject.com,10900,DIRECT,0bfd66d529a55807
+indexexchange.com,184929,DIRECT,50b1c356f2c5c8fc
+adform.com, 1954, DIRECT, 9f5210a2f0999e32
+stroeer.com, 14214 ,DIRECT  
+indexexchange.com, 183592, RESELLER, 50b1c356f2c5c8fc   
+appnexus.com, 1371, RESELLER, f5ab79cb980f11d1  
+contextweb.com, 558750, DIRECT, 89ff185a4c4e857c   
+indexexchange.com, 180179, RESELLER, 50b1c356f2c5c8fc
+ibillboard.com, 31213, DIRECT
+google.com, pub-2905371758995262, DIRECT, f08c47fec0942fa0
+google.com, pub-7212943916864462, DIRECT, f08c47fec0942fa0
+google.com, pub-3375315304218610, DIRECT, f08c47fec0942fa0
+adform.com, 1697, RESELLER, 9f5210a2f0999e32
+adform.com, 1794, RESELLER
+r2b2.io, 3, DIRECT
+adform.com, 811, RESELLER
+pubmatic.com, 156978, DIRECT, 5d62403b186f2ace
+appnexus.com, 2557, RESELLER, f5ab79cb980f11d1
+appnexus.com, 3252, RESELLER, f5ab79cb980f11d1
+smartadserver.com,2149,RESELLER
+indexexchange.com,179394,RESELLER
+contextweb.com,560288,RESELLER
+pubmatic.com,156439,RESELLER
+rubiconproject.com,16114,RESELLER
+openx.com,537149888,RESELLER,a698e2ec38604c6
+adform.com, 1312, RESELLER
+google.com, pub-9411594460436316, RESELLER, f08c47fec0942fa0
+teads.tv, 16342, DIRECT, 15a9c44f6d26cbe1
+mgid.com, 5670226, DIRECT
+mgid.com, 5670244, DIRECT
+mgid.com, 5680618, DIRECT
+mgid.com, 5680621, DIRECT
+mgid.com, 5680954, DIRECT
+mgid.com, 5680957, DIRECT
+stroeer.com, 17403 DIRECT
+indexexchange.com, 183592, RESELLER, 50b1c356f2c5c8fc
+Appnexus.com, 1371, RESELLER, f5ab79cb980f11d1
+adform.com, 1794, RESELLER
+google.com, pub-9351958709261256, DIRECT, f08c47fec0942fa0
+appnexus.com, 6974, RESELLER, f5ab79cb980f11d1
+pubmatic.com, 49307, RESELLER, 5d62403b186f2ace
+revcontent.com, 57243, DIRECT
+appnexus.com, 7666, DIRECT, f5ab79cb980f11d1
+rubiconproject.com, 156042, DIRECT, 0bfd66d529a55807
+tremorhub.com, vi1he-0c1k3, RESELLER, 1a4e959a1b50034a
+spotxchange.com, 208557, RESELLER, 7842df1d2fe2db34
+spotx.tv, 208557, RESELLER, 7842df1d2fe2db34
+rubiconproject.com, 156042, RESELLER, 0bfd66d529a55807
+connatix.com, 102221, DIRECT
+lkqd.net, 456, RESELLER, 59c49fa9598a0117
+lkqd.com, 456, RESELLER, 59c49fa9598a0117
+google.com, pub-7349691528422556, DIRECT, f08c47fec0942fa0
+google.com, pub-8804729319494140, DIRECT, f08c47fec0942fa0
+google.com, pub-5151291472053534, DIRECT, f08c47fec0942fa0
+google.com, pub-5135088971504972, DIRECT, f08c47fec0942fa0
+rubiconproject.com,208454,DIRECT,0bfd66d529a55807
+rubiconproject.com,10900,DIRECT,0bfd66d529a55807
+indexexchange.com,184929,DIRECT,50b1c356f2c5c8fc
+google.com, pub-3375315304218610, DIRECT, f08c47fec0942fa0
+ibillboard.com, 25894, DIRECT
+stroeer.com, 14214 ,DIRECT
+indexexchange.com, 183592, RESELLER, 50b1c356f2c5c8fc
+Appnexus.com, 1371, RESELLER, f5ab79cb980f11d1
+contextweb.com, 558750, DIRECT, 89ff185a4c4e857c
+google.com, pub-5074983905023987, DIRECT, f08c47fec0942fa0
+google.com, pub-3012648745744414, DIRECT, f08c47fec0942fa0
+mgid.com, 5736608, DIRECT
+mgid.com, 5736619, DIRECT
+mgid.com, 5736770, DIRECT
+mgid.com, 5736771, DIRECT
+mgid.com, 5767946, DIRECT
+mgid.com, 5767956, DIRECT
+# end
+

@@ -1,0 +1,121 @@
+google.com, pub-5178036110946017, DIRECT, f08c47fec0942fa0
+google.com, pub-3136799156954327, DIRECT, f08c47fec0942fa0
+innity.com, 2508, DIRECT, 47ea16374dff1d69
+appnexus.com,3058, RESELLER
+taboola.com,{1044757},DIRECT,c228e6794e811952
+taboola.com,{1044757},RESELLER,c228e6794e811952
+spotx.tv,71451,RESELLER
+spotxchange.com, 71451, RESELLER
+advertising.com, 8603, RESELLER
+pubmatic.com, 156307, RESELLER, 5d62403b186f2ace
+appnexus.com,3364, RESELLER
+Indexexchange.com, 183756, RESELLER
+contextweb.com, 560382, RESELLER
+tremorhub.com, z87wm, RESELLER, 1a4e959a1b50034a
+rubiconproject.com, 16698, RESELLER, 0bfd66d529a55807
+fyber.com, ad9de41d28d494354b23133f26f83122, RESELLER
+fyber.com, 1a12a7e3f84fe560ccf95a3a73043abb, RESELLER
+tremorhub.com, 2bwvc-fhdp8, DIRECT, 1a4e959a1b50034a
+teads.tv, 13064, DIRECT, 15a9c44f6d26cbe1 #TeadsAPAC
+google.com, pub-9058291854443881, RESELLER
+appnexus.com, 3691, RESELLER
+smartadserver.com,2060,RESELLER
+indexexchange.com,179394,RESELLER
+contextweb.com,560288,RESELLER
+pubmatic.com,156439,RESELLER
+rubiconproject.com,16114,RESELLER
+openx.com,537149888,RESELLER,a698e2ec38604c6
+indexexchange.com, 184665, RESELLER, 50b1c356f2c5c8fc
+spotxchange.com, 82810, RESELLER, 7842df1d2fe2db34
+spotx.tv, 82810, RESELLER, 7842df1d2fe2db34
+smartadserver.com, 2499, RESELLER
+fyber.com, ddecc38b3799786a1637d5176e204431, RESELLER
+adform.com, 1411, RESELLER
+tremorhub.com, iq97d, RESELLER, 1a4e959a1b50034a
+freewheel.tv, 880017, RESELLER
+freewheel.tv, 854849, RESELLER
+freewheel.tv, 3865889, RESELLER
+Advertising.com, 7060, RESELLER
+adtech.com, 7060, RESELLER
+beachfront.com, 2779, RESELLER
+sovrn.com, 239753, RESELLER, fafdf38b16bf6b2b
+lijit.com, 239753, RESELLER, fafdf38b16bf6b2b
+google.com, pub-2127333773716092, RESELLER, f08c47fec0942fa0
+contextweb.com,557618,RESELLER,89ff185a4c4e857c
+contextweb.com,558101,RESELLER,89ff185a4c4e857c
+contextweb.com,558631,RESELLER,89ff185a4c4e857c
+adtech.com,5071,RESELLER
+atemda.com,241,RESELLER
+atemda.com,1501,RESELLER
+pubmatic.com,32223,RESELLER,5d62403b186f2ace
+pubmatic.com,100253,RESELLER,5d62403b186f2ace
+pubmatic.com,156314,RESELLER,5d62403b186f2ace
+openx.com,134050,RESELLER
+rubiconproject.com,7716,RESELLER,0bfd66d529a55807
+rubiconproject.com,16696,RESELLER,0bfd66d529a55807
+spotxchange.com,174264,RESELLER,7842df1d2fe2db34
+spotx.tv,174264,RESELLER,7842df1d2fe2db34
+google.com,pub-5746030484598936,RESELLER
+google.com,pub-6331119926849614,RESELLER
+adtrue.com, 1444, RESELLER
+google.com, pub-3762254771375579, RESELLER, f08c47fec0942fa0
+appnexus.com, 7080, RESELLER, f5ab79cb980f11d1
+adtech.com, 4671, RESELLER
+video.unrulymedia.com, UNRX_8e3ac055-fe88-40bd-8ef1-d0c538a33ff6, DIRECT
+video.unrulymedia.com, 1083244, DIRECT
+video.unrulymedia.com, UNRX_28bf470e-b2b7-4c7f-b96a-f85b7edfe4b4, DIRECT
+video.unrulymedia.com, 1083547, DIRECT
+video.unrulymedia.com, UNRX_b57dc29f-7906-4f45-84fc-8133ed8f239b, DIRECT
+video.unrulymedia.com, 1083548, DIRECT
+video.unrulymedia.com, UNRX_07d8a677-4266-4849-872d-9ab90012480c, DIRECT
+video.unrulymedia.com, 1083549, DIRECT
+video.unrulymedia.com, UNRX_87365169-88a7-4f25-9408-bffc0f0505c1, DIRECT
+video.unrulymedia.com, 1083550, DIRECT
+video.unrulymedia.com, UNRX_518048c3-4fec-41ff-ba28-6471a57547e8, DIRECT
+video.unrulymedia.com, 1083551, DIRECT
+video.unrulymedia.com, UNRX_d53aebc3-ef94-4011-b7ae-d9365407e0af, DIRECT
+video.unrulymedia.com, 1083552, DIRECT
+video.unrulymedia.com, UNRX_5cd3a47c-6a4a-41fe-b568-e643e7ceb544, DIRECT
+video.unrulymedia.com, 1084047, DIRECT
+video.unrulymedia.com, UNRX_5f8eca9c-c780-4096-ba1f-903948618fc2, DIRECT
+video.unrulymedia.com, 1086256, DIRECT
+video.unrulymedia.com, UNRX_e1d7db4e-8eb1-4468-b64a-ff16bdec90f9, DIRECT
+video.unrulymedia.com, 1086257, DIRECT
+video.unrulymedia.com, UNRX_7efc5fa6-360f-4dc3-8473-95d9d1c01a8a, DIRECT
+video.unrulymedia.com, 1086258, DIRECT
+bidswitch.net, unrulyx_UNRX_8e3ac055-fe88-40bd-8ef1-d0c538a33ff6, RESELLER
+bidswitch.net, unrulyx_1083244, RESELLER
+bidswitch.net, unrulyx_UNRX_28bf470e-b2b7-4c7f-b96a-f85b7edfe4b4, RESELLER
+bidswitch.net, unrulyx_1083547, RESELLER
+bidswitch.net, unrulyx_UNRX_b57dc29f-7906-4f45-84fc-8133ed8f239b, RESELLER
+bidswitch.net, unrulyx_1083548, RESELLER
+bidswitch.net, unrulyx_UNRX_07d8a677-4266-4849-872d-9ab90012480c, RESELLER
+bidswitch.net, unrulyx_1083549, RESELLER
+bidswitch.net, unrulyx_UNRX_87365169-88a7-4f25-9408-bffc0f0505c1, RESELLER
+bidswitch.net, unrulyx_1083550, RESELLER
+bidswitch.net, unrulyx_UNRX_518048c3-4fec-41ff-ba28-6471a57547e8, RESELLER
+bidswitch.net, unrulyx_1083551, RESELLER
+bidswitch.net, unrulyx_UNRX_d53aebc3-ef94-4011-b7ae-d9365407e0af, RESELLER
+bidswitch.net, unrulyx_1083552, RESELLER
+bidswitch.net, unrulyx_UNRX_5cd3a47c-6a4a-41fe-b568-e643e7ceb544, RESELLER
+bidswitch.net, unrulyx_1084047, RESELLER
+bidswitch.net, unrulyx_UNRX_5f8eca9c-c780-4096-ba1f-903948618fc2, RESELLER
+bidswitch.net, unrulyx_1086256, RESELLER
+bidswitch.net, unrulyx_UNRX_e1d7db4e-8eb1-4468-b64a-ff16bdec90f9, RESELLER
+bidswitch.net, unrulyx_1086257, RESELLER
+bidswitch.net, unrulyx_UNRX_7efc5fa6-360f-4dc3-8473-95d9d1c01a8a, RESELLER
+bidswitch.net, unrulyx_1086258, RESELLER
+rubiconproject.com, 15268, RESELLER
+indexexchange.com, 182257, RESELLER
+appnexus.com, 6849, RESELLER
+contextweb.com, 560138, RESELLER
+advertising.com, 4058, RESELLER
+google.com, pub-9058291854443881, RESELLER
+appnexus.com, 3691, RESELLER
+smartadserver.com,2060,RESELLER
+indexexchange.com,179394,RESELLER
+contextweb.com,560288,RESELLER
+pubmatic.com,156439,RESELLER
+rubiconproject.com,16114,RESELLER
+openx.com,537149888,RESELLER,a698e2ec38604c6
+innity.com, 4769 , DIRECT, 47ea16374dff1d69

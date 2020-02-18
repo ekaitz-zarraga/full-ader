@@ -1,0 +1,8 @@
+infolinks.com, *3056012, RESELLER     (*Enter your  Infolinks publisher ID number)
+infolinks.com, *3056012, DIRECT           (*Enter your Infolinks publisher ID number)
+appnexus.com, 3251, RESELLER
+appnexus.com, 3251, DIRECT
+openx.com, 118151, DIRECT, 6a698e2ec38604c6
+openx.com, 118151, RESELLER, 6a698e2ec38604c6
+
+google.com, pub-2618601542016459, DIRECT, f08c47fec0942fa0

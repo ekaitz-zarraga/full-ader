@@ -1,0 +1,79 @@
+# DFP
+google.com, pub-1437083917261797, DIRECT, f08c47fec0942fa0
+google.com, pub-1301581561755234, DIRECT, f08c47fec0942fa0
+google.com, pub-6319170415118901, DIRECT, f08c47fec0942fa0
+google.com, pub-2859204820585993, DIRECT, f08c47fec0942fa0
+# Seedtag
+appnexus.com, 4009, RESELLER
+smartadserver.com, 2699, RESELLER
+smartadserver.com, 2938, RESELLER
+advertising.com, 23286, RESELLER
+# Seedtag MX
+seedtag.com, 1712-1653-01, DIRECT #ST0
+seedtag.com, 9637-6461-01, DIRECT #ST0
+seedtag.com, 7373-2657-01, DIRECT #ST0
+seedtag.com, 7373-2657-01, DIRECT #ST0
+seedtag.com, 5888-8425-01, DIRECT #ST0
+seedtag.com, 7440-7723-01, DIRECT #ST0
+seedtag.com, 7991-5889-01, DIRECT #ST0
+seedtag.com, 1216-7338-01, DIRECT #ST0
+seedtag.com, 2760-8389-01, DIRECT #ST0
+seedtag.com, 0147-5480-01, DIRECT #ST0
+seedtag.com, 1625-5463-01, DIRECT #ST0
+seedtag.com, 4064-2924-01, DIRECT #ST0
+seedtag.com, 4259-0224-01, DIRECT #ST0
+seedtag.com, 1382-2021-01, DIRECT #ST0
+seedtag.com, 7901-4086-01, DIRECT #ST0
+seedtag.com, 4403-0915-01, DIRECT #ST0
+seedtag.com, 1080-4241-01, DIRECT #ST0
+seedtag.com, 7044-2415-01, DIRECT #ST0
+seedtag.com, 5758-7778-01, DIRECT #ST0
+seedtag.com, 1702-6052-01, DIRECT #ST0
+seedtag.com, 3952-8620-01, DIRECT #ST0
+seedtag.com, 2792-4557-01, DIRECT #ST0
+seedtag.com, 4491-2844-01, DIRECT #ST0
+seedtag.com, 7002-9602-01, DIRECT #ST0
+seedtag.com, 9684-4556-01, DIRECT #ST0
+seedtag.com, 1458-5611-01, DIRECT #ST0
+appnexus.com, 4009, RESELLER #ST1
+smartadserver.com, 3051, RESELLER #ST1
+smartadserver.com, 3050, RESELLER #ST1
+rubiconproject.com, 17280, DIRECT, 0bfd66d529a55807 #ST1
+smartadserver.com, 2699, RESELLER #ST2
+smartadserver.com, 2938, RESELLER #ST2
+contextweb.com,560288,RESELLER,89ff185a4c4e857c #ST2
+indexexchange.com,179394,RESELLER,50b1c356f2c5c8fc #ST2
+richaudience.com, ns9qrKJLKD, DIRECT #ST2
+tremorhub.com, s2t3y-r3ofd, RESELLER, 1a4e959a1b50034a #ST2
+adform.com, 1942, DIRECT #ST3
+advertising.com, 7574, DIRECT #ST3
+aerserv.com, 2750, RESELLER, 2ce496b9f80eb9fa #ST3
+aolcloud.net, 4687, RESELLER #ST3
+mobfox.com, 74240, RESELLER #ST3
+openx.com, 537149888, RESELLER, 6a698e2ec38604c6 #ST2
+openx.com, 539625136, RESELLER #ST2
+pubmatic.com, 157743, RESELLER, 5d62403b186f2acea #ST2
+rubiconproject.com, 13510, DIRECT #ST3
+smaato.com, 1100037086, RESELLER #ST3
+spotx.tv, 249286, RESELLER, 7842df1d2fe2db34 #ST2
+spotxchange.com, 249286, RESELLER, 7842df1d2fe2db34 #ST2
+groundtruth.com, 107, RESELLER, 81cbf0a75a5e0e9a #ST2
+sovrn.com, 257611, RESELLER, fafdf38b16bf6b2b #ST2
+districtm.io, 101760, RESELLER, 3fd707be9c4527c3 #ST2
+# NGL
+spotxchange.com, 149668, RESELLER, 7842df1d2fe2db34
+spotx.tv, 149668, RESELLER, 7842df1d2fe2db34
+Advertising.com, 12171, RESELLER
+tidaltv.com, 36550, DIRECT
+tidaltv.com, 36551, DIRECT
+tremorhub.com, 51vtw, RESELLER, 1a4e959a1b50034a
+google.com, pub-5405744859927315, RESELLER
+lkqd.net, 410, RESELLER, 59c49fa9598a0117
+lkqd.com, 410, RESELLER, 59c49fa9598a0117
+lkqd.net, 454, RESELLER, 59c49fa9598a0117
+lkqd.com, 454, RESELLER, 59c49fa9598a0117
+lkqd.net, 464, RESELLER, 59c49fa9598a0117
+lkqd.com, 464, RESELLER, 59c49fa9598a0117
+freewheel.tv, 772177, DIRECT
+freewheel.tv, 772369, DIRECT
+# NEW

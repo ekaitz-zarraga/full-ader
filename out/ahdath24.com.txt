@@ -1,0 +1,85 @@
+#Ads.txt for Project Agora
+
+appnexus.com, 2725, RESELLER, f5ab79cb980f11d1
+appnexus.com, 7164, RESELLER, f5ab79cb980f11d1
+criteo.com, 28680, RESELLER
+rubiconproject.com, 11498, RESELLER, 0bfd66d529a55807
+smartadserver.com, 2289, RESELLER
+indexexchange.com, 179394, RESELLER
+contextweb.com, 560288, RESELLER, 89ff185a4c4e857c
+pubmatic.com, 156439, RESELLER
+pubmatic.com, 154037, RESELLER
+rubiconproject.com, 16114, RESELLER, 0bfd66d529a55807
+openx.com, 537149888, RESELLER, a698e2ec38604c6
+sovrn.com, 257611, RESELLER, fafdf38b16bf6b2b
+appnexus.com, 3703, RESELLER, f5ab79cb980f11d1
+google.com, pub-2500372977609723, RESELLER, f08c47fec0942fa0
+google.com, pub-5233202974419683, RESELLER, f08c47fec0942fa0
+pubmatic.com, 156400, RESELLER, 5d62403b186f2ace
+teads.tv, 14250, RESELLER, 15a9c44f6d26cbe1
+facebook.com, 806643599477022, RESELLER
+facebook.com, 1396453687040410, RESELLER
+facebook.com, 1470035839679750, RESELLER
+facebook.com, 1801703710096480, RESELLER
+smaato.com, 1100030328, RESELLER
+#AdUnity AUX
+adunity.com, 1000154, RESELLER
+indexexchange.com, 183775, RESELLER
+openx.com, 537101597, RESELLER
+spotxchange.com, 71451, RESELLER
+advertising.com, 8603, RESELLER
+advertising.com, 3531, RESELLER
+pubmatic.com, 156307, RESELLER,  5d62403b186f2ace
+appnexus.com, 3364, RESELLER
+indexexchange.com, 183756, RESELLER
+contextweb.com, 560382, RESELLER
+openx.com, 539154393, RESELLER
+tremorhub.com,  z87wm, RESELLER,  1a4e959a1b50034as
+rubiconproject.com, 16698, RESELLER,  0bfd66d529a55807
+fyber.com,  ad9de41d28d494354b23133f26f83122, RESELLER
+fyber.com,  1a12a7e3f84fe560ccf95a3a73043abb, RESELLER
+freewheel.tv, 663378, RESELLER
+freewheel.tv, 666274, RESELLER
+taboola.com, 1092866, RESELLER, c228e6794e811952
+taboola.com, 1099074, RESELLER, c228e6794e811952
+taboola.com, 1099696, RESELLER, c228e6794e811952
+taboola.com, 1090174, RESELLER, c228e6794e811952
+taboola.com, 1092594, RESELLER, c228e6794e811952
+taboola.com, 1090128, RESELLER, c228e6794e811952
+taboola.com, 1074764, RESELLER, c228e6794e811952
+taboola.com, 1099691, RESELLER, c228e6794e811952
+taboola.com, 1099185, RESELLER, c228e6794e811952
+taboola.com, 1099175, RESELLER, c228e6794e811952
+taboola.com, 1084404, RESELLER, c228e6794e811952
+taboola.com, 1090178, RESELLER, c228e6794e811952
+taboola.com, 1084096, RESELLER, c228e6794e811952
+taboola.com, 1090139, RESELLER, c228e6794e811952
+taboola.com, 1089496, RESELLER, c228e6794e811952
+taboola.com, 1099059, RESELLER, c228e6794e811952
+taboola.com, 1092863, RESELLER, c228e6794e811952
+taboola.com, 1099052, RESELLER, c228e6794e811952
+taboola.com, 1092019, RESELLER, c228e6794e811952
+taboola.com, 1089493, RESELLER, c228e6794e811952
+taboola.com, 1099086, RESELLER, c228e6794e811952
+taboola.com, 1108294, RESELLER, c228e6794e811952
+taboola.com, 1084092, RESELLER, c228e6794e811952
+taboola.com, 1081960, RESELLER, c228e6794e811952
+taboola.com, 1075971, RESELLER, c228e6794e811952
+taboola.com, 1089486, RESELLER, c228e6794e811952
+taboola.com, 1095545, RESELLER, c228e6794e811952
+taboola.com, 1099072, RESELLER, c228e6794e811952
+taboola.com, 1074755, RESELLER, c228e6794e811952
+
+admixer.net, e3078937-8c0b-4417-827b-8d5f1dfe745b, DIRECT
+google.com, pub-3379969116950199, reseller, f08c47fec0942fa0
+smartadserver.com, 1994, reseller
+appnexus.com, 6953, reseller
+adform.com, 1762, reseller
+contextweb.com, 561623, RESELLER, 89ff185a4c4e857c
+google.com, pub-3865142688130065, DIRECT, f08c47fec0942fa0
+google.com, pub-9612444593172329, DIRECT, f08c47fec0942fa0
+google.com, pub-8530856870781464, DIRECT, f08c47fec0942fa0
+
+
+#us
+google.com, pub-6709050503052281, DIRECT, f08c47fec0942fa0

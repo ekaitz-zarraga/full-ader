@@ -1,0 +1,1520 @@
+#ads.txt bing.com
+#v1 11.25.19
+
+#contact kritter @ microsoft.com with any questions
+
+#Video
+
+adtag.vidssp.com, 414, DIRECT  #Video  Adtag  Middle East
+aniview.com, 583fe79028a061b0914503b4, RESELLER  #Video  Audienceiad (Brightcom)  LATAM
+beachfront.com, 1333, RESELLER  #Video  Audienceiad (Brightcom)  LATAM
+spotxchange.com, 75439, RESELLER, 7842df1d2fe2db34 #Video  Audienceiad (Brightcom)  LATAM
+tremorhub.com, io0t2-o3csc, RESELLER, 1a4e959a1b50034a #Video  Audienceiad (Brightcom)  LATAM
+appnexus.com, 7824, RESELLER  #Video  BrightRoll  
+aps.amazon.com, 3287, RESELLER  #Video  Glomex  DACH
+improvedigital.com, 985, RESELLER  #Video  Glomex  DACH
+indexexchange.com, 187889, RESELLER  #Video  Glomex  DACH
+indexexchange.com, 188006, RESELLER  #Video  Glomex  DACH
+indexexchange.com, 188007, RESELLER  #Video  Glomex  DACH
+pubmatic.com, 157420, RESELLER, 5d62403b186f2ace #Video  Glomex  DACH
+pubmatic.com, 157421, RESELLER, 5d62403b186f2ace #Video  Glomex  DACH
+rubiconproject.com, 16896, RESELLER, 0bfd66d529a55807 #Video  Glomex  DACH
+rubiconproject.com, 19792, RESELLER, 0bfd66d529a55807 #Video  Glomex  DACH
+smartclip.net, 7387, RESELLER  #Video  Glomex  DACH
+smartstream.tv, 5713, RESELLER  #Video  Glomex  DACH
+smartstream.tv, 5715, RESELLER  #Video  Glomex  DACH
+spotx.tv, 120369, RESELLER, 7842df1d2fe2db34 #Video  Glomex  DACH
+spotx.tv, 155391, RESELLER, 7842df1d2fe2db34 #Video  Glomex  DACH
+spotx.tv, 245212, RESELLER, 7842df1d2fe2db34 #Video  Glomex  DACH
+spotx.tv, 75958, RESELLER, 7842df1d2fe2db34 #Video  Glomex  DACH
+spotxchange.com, 120369, RESELLER, 7842df1d2fe2db34 #Video  Glomex  DACH
+spotxchange.com, 155391, RESELLER, 7842df1d2fe2db34 #Video  Glomex  DACH
+spotxchange.com, 245212, RESELLER, 7842df1d2fe2db34 #Video  Glomex  DACH
+spotxchange.com, 75958, RESELLER, 7842df1d2fe2db34 #Video  Glomex  DACH
+stroeer.com, 16539, RESELLER  #Video  Glomex  DACH
+yieldlab.net, 2448123, RESELLER  #Video  Glomex  DACH
+yieldlab.net, 5494672, RESELLER  #Video  Glomex  DACH
+yieldlab.net, 5710, RESELLER  #Video  Glomex  DACH
+yieldlab.net, 6374282, RESELLER  #Video  Glomex  DACH
+yieldlab.net, 781119, RESELLER  #Video  Glomex  DACH
+google.com, pub-9422585382673566, RESELLER, f08c47fec0942fa0 #Video  Google  Middle East
+appnexus.com, 3703, RESELLER, f5ab79cb980f11d1 #Video  MOVIads  PO
+appnexus.com, 1789, RESELLER  #Video  MOVIads  PO
+appnexus.com, 7491, RESELLER  #Video  MOVIads  PO
+appnexus.com, 7763, RESELLER  #Video  MOVIads  PO
+contextweb.com, 560288, RESELLER, 89ff185a4c4e857c #Video  MOVIads  PO
+indexexchange.com, 179394, RESELLER  #Video  MOVIads  PO
+openx.com, 537149888, RESELLER, 6a698e2ec38604c6 #Video  MOVIads  PO
+pubmatic.com, 156439, RESELLER  #Video  MOVIads  PO
+pubmatic.com, 154037, RESELLER  #Video  MOVIads  PO
+rubiconproject.com, 16114, RESELLER, 0bfd66d529a55807 #Video  MOVIads  PO
+sovrn.com, 257611, RESELLER, fafdf38b16bf6b2b #Video  MOVIads  PO
+adform.com, 1976, DIRECT, 9f5210a2f0999e32 #Video  Movieads  PL
+adform.com, 1654, RESELLER, 9f5210a2f0999e32 #Video  Movieads  PL
+adocean-global.com, 94080, RESELLER  #Video  Movieads  PL
+Appnexus.com, 7165, RESELLER  #Video  Movieads  PL
+appnexus.com, 10979, RESELLER  #Video  Movieads  PL
+google.com, pub-3028175312770327, RESELLER, f08c47fec0942fa0 #Video  Movieads  PL
+google.com, pub-8888567366222878, RESELLER, f08c47fec0942fa0 #Video  Movieads  PL
+smartadserver.com, 1671, DIRECT  #Video  Movieads  PL
+advertising.com, 26154, RESELLER  #Video  Outbrain  
+Freewheel.tv, 741650, RESELLER  #Video  Outbrain  
+spotxchange.com, 225721, RESELLER  #Video  Outbrain  
+teads.tv, 15429, RESELLER, 15a9c44f6d26cbe1 #Video  Outbrain  
+tremorhub.com, q017o-78mlk, RESELLER, 1a4e959a1b50034a #Video  Outbrain  
+adform.com, 2492, DIRECT, 9f5210a2f0999e32 #Video  Polsat Media Ads   PL
+adform.com, 2464, RESELLER, 9f5210a2f0999e32 #Video  Project Agora  CEE MEA
+adocean-global.com, 80365, RESELLER  #Video  Project Agora  CEE MEA
+appnexus.com, 2725, RESELLER, f5ab79cb980f11d1 #Video  Project Agora  CEE MEA
+appnexus.com, 3703, RESELLER, f5ab79cb980f11d1 #Video  Project Agora  CEE MEA
+contextweb.com, 560288, RESELLER  #Video  Project Agora  CEE MEA
+districtm.io, 101760, RESELLER, 3fd707be9c4527c3 #Video  Project Agora  CEE MEA
+freewheel.tv, 985329, RESELLER  #Video  Project Agora  CEE MEA
+freewheel.tv, 985361, RESELLER  #Video  Project Agora  CEE MEA
+freewheel.tv, 985345, RESELLER  #Video  Project Agora  CEE MEA
+freewheel.tv, 985377, RESELLER  #Video  Project Agora  CEE MEA
+google.com, pub-2500372977609723, RESELLER, f08c47fec0942fa0 #Video  Project Agora  CEE MEA
+groundtruth.com, 107, RESELLER, 81cbf0a75a5e0e9a #Video  Project Agora  CEE MEA
+loopme.com, s-2411, RESELLER, 6c8d5f95897a5a3b #Video  Project Agora  CEE MEA
+loopme.com, 5679, RESELLER, 6c8d5f95897a5a3b #Video  Project Agora  CEE MEA
+openx.com, 537149888, RESELLER, 6a698e2ec38604c6 #Video  Project Agora  CEE MEA
+pubmatic.com, 156439, RESELLER, 5d62403b186f2ace #Video  Project Agora  CEE MEA
+pubmatic.com, 154037, RESELLER, 5d62403b186f2ace #Video  Project Agora  CEE MEA
+pubmatic.com, 156030, RESELLER, 5d62403b186f2ace #Video  Project Agora  CEE MEA
+pubmatic.com, 156400, RESELLER, 5d62403b186f2ace #Video  Project Agora  CEE MEA
+rubiconproject.com, 11498, RESELLER, 0bfd66d529a55807 #Video  Project Agora  CEE MEA
+rubiconproject.com, 16114, RESELLER, 0bfd66d529a55807 #Video  Project Agora  CEE MEA
+rubiconproject.com, 13132, RESELLER, 0bfd66d529a55807 #Video  Project Agora  CEE MEA
+smartadserver.com, 2289, RESELLER  #Video  Project Agora  CEE MEA
+smartadserver.com, 2281, RESELLER  #Video  Project Agora  CEE MEA
+vi.ai, 573653530726003, RESELLER  #Video  Project Agora  CEE MEA
+beachfront.com, 4469, RESELLER, e2541279e8e2ca4d #Video  Solavid  
+beachfront.com, 3914, RESELLER, e2541279e8e2ca4d #Video  Solavid  
+contextweb.com, 561954, RESELLER, 89ff185a4c4e857c #Video  Solavid  
+improvedigital.com, 1066, RESELLER  #Video  Solavid  
+spotx.tv, 211679, DIRECT, 7842df1d2fe2db34 #Video  SpotX  
+spotx.tv, 218305, DIRECT, 7842df1d2fe2db34 #Video  SpotX  NZ
+spotx.tv, 237218, DIRECT, 7842df1d2fe2db34 #Video  SpotX  NZ
+spotxchange.com, 211679, DIRECT, 7842df1d2fe2db34 #Video  SpotX  
+spotxchange.com, 218305, DIRECT, 7842df1d2fe2db34 #Video  SpotX  NZ
+spotxchange.com, 237218, DIRECT, 7842df1d2fe2db34 #Video  SpotX  NZ
+spotxchange.com, 225721, RESELLER  #Video  StickyAds  
+teads.tv, 15429, RESELLER, 15a9c44f6d26cbe1 #Video  StickyAds  
+telaria.com, 7sdao-89vq7, DIRECT, 1a4e959a1b50034a #Video  TenPlay  AU
+telaria.com, 7sdao-t8tb3, DIRECT, 1a4e959a1b50034a #Video  TenPlay  AU
+telaria.com, hcfqc, DIRECT, 1a4e959a1b50034a #Video  TenPlay  AU
+telaria.com, ruuqh, DIRECT, 1a4e959a1b50034a #Video  TenPlay  AU
+tremorhub.com, 7sdao-89vq7, DIRECT, 1a4e959a1b50034a #Video  TenPlay  AU
+tremorhub.com, hcfqc, DIRECT, 1a4e959a1b50034a #Video  TenPlay  AU
+tremorhub.com, ruuqh, DIRECT, 1a4e959a1b50034a #Video  TenPlay  AU
+tremorhub.com, 7sdao-t8tb3, DIRECT, 1a4e959a1b50034a #Video  TenPlay  AU
+tremorhub.com, 19i64-l34hr, DIRECT, 1a4e959a1b50034a #Video  Tremor  Australia
+tremorhub.com, cx0vi-ggcts, DIRECT, 1a4e959a1b50034a #Video  Tremor  Australia
+tremorhub.com, cx0vi-shd3b, DIRECT, 1a4e959a1b50034a #Video  Tremor  Australia
+tremorhub.com, cx0vi-xlcu0, DIRECT, 1a4e959a1b50034a #Video  Tremor  Australia
+advertising.com, 4058, RESELLER  #Video  Unruly  Test
+appnexus.com, 6849, RESELLER  #Video  Unruly  Test
+contextweb.com, 560138, RESELLER  #Video  Unruly  Test
+indexexchange.com, 182257, RESELLER  #Video  Unruly  Test
+rubiconproject.com, 15268, RESELLER  #Video  Unruly  Test
+video.unrulymedia.com, UNRX_11ea92ca-f9af-4330-9751-f01daa04cc88, DIRECT  #Video  Unruly  Test
+contextweb.com, 561073, RESELLER  #Video  Velis Media  
+freewheel.tv, 209809, RESELLER  #Video  Velis Media  
+freewheel.tv, 210137, RESELLER  #Video  Velis Media  
+gemlix.com, 10001, DIRECT  #Video  Velis Media  
+google.com, pub-8804303781641925, RESELLER, f08c47fec0942fa0 #Video  Velis Media  
+improvedigital.com, 1229, RESELLER  #Video  Velis Media  
+mobfox.com, 80215, RESELLER  #Video  Velis Media  
+rhythmone.com, 4292425582, RESELLER  #Video  Velis Media  
+springserve.com, 217, RESELLER, a24eb641fc82e93d #Video  Velis Media  
+tremorhub.com, e8okc, RESELLER, 1a4e959a1b50034a #Video  Velis Media  
+velismedia.com, 725, DIRECT  #Video  Velis Media  
+advertising.com, 14608, DIRECT  #Video  VerizonMedia  NZ
+advertising.com, 2480, DIRECT  #Video  VerizonMedia  
+advertising.com, 5351, DIRECT  #Video  VerizonMedia  
+appnexus.com, 1226, RESELLER  #Video  VerizonMedia  
+appnexus.com, 3292, RESELLER  #Video  VerizonMedia  
+beachfront.com, 5685, RESELLER  #Video  VerizonMedia  
+openx.com, 540236670, RESELLER, 6a698e2ec38604c6 #Video  VerizonMedia  
+pubmatic.com, 156458, RESELLER, 5d62403b186f2ace #Video  VerizonMedia  US LATAM
+pubmatic.com, 156674, RESELLER, 5d62403b186f2ace #Video  VerizonMedia  US LATAM
+pubmatic.com, 156325, RESELLER, 5d62403b186f2ace #Video  VerizonMedia  EMEA
+pubmatic.com, 156775, RESELLER, 5d62403b186f2ace #Video  VerizonMedia  APAC
+rubiconproject.com, 18222, RESELLER, 0bfd66d529a55807 #Video  VerizonMedia  
+Freewheel.tv, 839569, RESELLER  #Video  Vidmatic  MENA
+Freewheel.tv, 839585, RESELLER  #Video  Vidmatic  MENA
+widespace.com, 8108, RESELLER  #Video  Widespace  NZ
+freewheel.tv, 988689, DIRECT  #Video  Zazoom  
+freewheel.tv, 989489, RESELLER  #Video  Zazoom  
+lkqd.net, 39, RESELLER, 59c49fa9598a0117 #Video  Zazoom  
+lkqd.net, 39, RESELLER, 59c49fa9598a0117 #Video  Zazoom  
+rhythmone.com, 1755648630, RESELLER, a670c89d4a324e47 #Video  Zazoom  
+rhythmone.com, 1755648630, RESELLER, a670c89d4a324e47 #Video  Zazoom  
+spotx.tv, 262786, RESELLER, 7842df1d2fe2db34 #Video  Zazoom  
+spotxchange.com, 262786, RESELLER, 7842df1d2fe2db34 #Video  Zazoom  
+springserve.com, 1, RESELLER, a24eb641fc82e93d #Video  Zazoom  
+springserve.com, 1, RESELLER, a24eb641fc82e93d #Video  Zazoom
+freewheel.tv, 1031953, DIRECT   #Video  StickyAds  US/CA/BR/GB/JP
+freewheel.tv, 1031969, DIRECT   #Video  StickyAds  US/CA/BR/GB/JP
+freewheel.tv, 1031985, DIRECT   #Video  StickyAds  US/CA/BR/GB/JP
+freewheel.tv, 1032177, DIRECT   #Video  StickyAds  US/CA/BR/GB/JP
+freewheel.tv, 1032193, DIRECT   #Video  StickyAds  US/CA/BR/GB/JP
+freewheel.tv, 1032209, DIRECT   #Video  StickyAds  US/CA/BR/GB/JP
+freewheel.tv, 1031617, DIRECT   #Video  StickyAds  US/CA/BR/GB/JP
+freewheel.tv, 1032225, DIRECT   #Video  StickyAds  US/CA/BR/GB/JP
+freewheel.tv, 1031601, DIRECT   #Video  StickyAds  US/CA/BR/GB/JP
+freewheel.tv, 1032241, DIRECT   #Video  StickyAds  US/CA/BR/GB/JP
+advertising.com, 28417, DIRECT #Video  Verizon     US  
+videonow.ru, vn-4816, DIRECT				#Video Video Now RU-RU
+google.com, pub-6038027899573286, RESELLER 		#Video Video Now RU-RU
+rubiconproject.com, 15636, RESELLER 			#Video Video Now RU-RU
+smartadserver.com, 3410, RESELLER 			#Video Video Now RU-RU
+adform.com, 1650, RESELLER 				#Video Video Now RU-RU
+betweendigital.com, 34557, RESELLER 			#Video Video Now RU-RU
+freewheel.tv, 841985, RESELLER				#Video Video Now RU-RU
+smiling.video, 306801, DIRECT, 9c495ade3fbfe6ff		#Video	Smiling Video IT-IT
+smiling.video, 306801, RESELLER, 9c495ade3fbfe6ff 	#Video	Smiling Video IT-IT
+spotxchange.com, 232902, DIRECT, 7842df1d2fe2db34 	#Video	Smiling Video IT-IT
+spotx.tv, 232902, DIRECT, 7842df1d2fe2db34		#Video 	Smiling Video IT-IT
+spotxchange.com, 232902, RESELLER, 7842df1d2fe2db34 	#Video	Smiling Video IT-IT
+spotx.tv, 232902, RESELLER, 7842df1d2fe2db34		#Video 	Smiling Video IT-IT
+appnexus.com, 10558, DIRECT				#Video 	Smiling Video IT-IT
+appnexus.com, 10558, RESELLER				#Video 	Smiling Video IT-IT
+indexexchange.com, 183960, DIRECT     #Video  The Washington Post  EN-US
+adtech.com, 10316, DIRECT     #Video  The Washington Post  EN-US
+aolcloud.net, 10316, DIRECT     #Video  The Washington Post  EN-US
+appnexus.com, 7466, DIRECT     #Video  The Washington Post  EN-US
+google.com, pub-3980300725513096, DIRECT     #Video  The Washington Post  EN-US
+c.amazon-adsystem.com, 3041, DIRECT     #Video  The Washington Post  EN-US
+openx.com, 537108359, DIRECT     #Video  The Washington Post  EN-US
+openx.com, 539044014, DIRECT     #Video  The Washington Post  EN-US
+openx.com, 537154106, DIRECT     #Video  The Washington Post  EN-US
+teads.tv, 5856, DIRECT, 15a9c44f6d26cbe1     #Video  The Washington Post  EN-US
+teads.tv, 8231, DIRECT, 15a9c44f6d26cbe1     #Video  The Washington Post  EN-US
+google.com, pub-1995032544933848, RESELLER     #Video  The Washington Post  EN-US
+liveintent.com, 386, DIRECT     #Video  The Washington Post  EN-US
+facebook.com, 165530923902113, DIRECT     #Video  The Washington Post  EN-US
+google.com, pub-3746578658400510, RESELLER, f08c47fec0942fa0     #Video  The Washington Post  EN-US
+indexexchange.com, 185292, RESELLER     #Video  The Washington Post  EN-US
+trustx.org, 37, DIRECT     #Video  The Washington Post  EN-US
+indexexchange.com, 184966, DIRECT     #Video  The Washington Post  EN-US
+rubiconproject.com, 17302, DIRECT, 0bfd66d529a55807     #Video  The Washington Post  EN-US
+outbrain.com, 01265510c0bdff9f85a6b7aa919c64fede, DIRECT     #Video  The Washington Post  EN-US
+smaato.com, 1100038044, DIRECT     #Video  The Washington Post  EN-US
+pubmatic.com, 157050, DIRECT, 5d62403b186f2ace     #Video  The Washington Post  EN-US
+outbrain.com, 00245c3cb03f074e28909d6ad2320ffd17, DIRECT     #Video  The Washington Post  EN-US
+outbrain.com, 00245c3cb03f074e28909d6ad2320ffd17, RESELLER     #Video  The Washington Post  EN-US
+tremorhub.com, q017o-78mlk, RESELLER, 1a4e959a1b50034a     #Video  The Washington Post  EN-US
+adtech.com, 12061, DIRECT     #Video  The Washington Post  EN-US
+districtm.io, 101885, DIRECT, 3fd707be9c4527c3     #Video  The Washington Post  EN-US
+openx.com, 540393169, RESELLER, 6a698e2ec38604c6     #Video  The Washington Post  EN-US
+spotx.tv, 238936, RESELLER, 7842df1d2fe2db34     #Video  The Washington Post  EN-US
+spotxchange.com, 238936, RESELLER, 7842df1d2fe2db34     #Video  The Washington Post  EN-US
+advertising.com, 28038, RESELLER      #Video  The Washington Post  EN-US
+rubiconproject.com, 19668, RESELLER, 0bfd66d529a55807     #Video  The Washington Post  EN-US
+rubiconproject.com, 12890, DIRECT, 0bfd66d529a55807     #Video  The Washington Post  EN-US
+PilotX.tv, 4115, DIRECT, 77f6f7d81cd87ce7     #Video  Zazoom  WW
+
+#Syndication
+
+google.com, pub-4054244635108884, DIRECT, f08c47fec0942fa0 #Syndication  7awi  
+appnexus.com, 8928, DIRECT  #Syndication  Capital Media  PT
+appnexus.com, 7790, DIRECT  #Syndication  Capital Media  PT
+google.com, pub-5322411981116627, DIRECT, f08c47fec0942fa0 #Syndication  Capital Media  PT
+google.com, pub-7901301842186802, DIRECT, f08c47fec0942fa0 #Syndication  Capital Media  PT
+google.com, pub-5188960705289786, DIRECT, f08c47fec0942fa0 #Syndication  Capital Media  PT
+plista.com, 245462, DIRECT  #Syndication  Capital Media  PT
+plista.com, 1027866, DIRECT  #Syndication  Capital Media  PT
+plista.com, 1027959, DIRECT  #Syndication  Capital Media  PT
+plista.com, 1027962, DIRECT  #Syndication  Capital Media  PT
+richaudience.com, S4BAGqFTFF, DIRECT  #Syndication  Capital Media  PT
+rubiconproject.com, 14478, DIRECT, 0bfd66d529a55807 #Syndication  Capital Media  PT
+smartadserver.com, 1510, DIRECT  #Syndication  Capital Media  PT
+spotx.tv, 173175, DIRECT  #Syndication  Capital Media  PT
+spotx.tv, 173177, DIRECT  #Syndication  Capital Media  PT
+advertising.com, 28254, DIRECT  #Syndication  CBS Interactive  US
+advertising.com, 28254, DIRECT  #Syndication  CBS Interactive  
+google.com, pub-1991679624331369, RESELLER, f08c47fec0942fa0 #Syndication  CBS Interactive  
+google.com, pub-2679103605715789, RESELLER, f08c47fec0942fa0 #Syndication  CBS Interactive  
+google.com, pub-2846699686180177, RESELLER, f08c47fec0942fa0 #Syndication  CBS Interactive  
+google.com, pub-3015538794163384, RESELLER, f08c47fec0942fa0 #Syndication  CBS Interactive  
+google.com, pub-3230759608956247, RESELLER, f08c47fec0942fa0 #Syndication  CBS Interactive  
+google.com, pub-5628310764637319, RESELLER, f08c47fec0942fa0 #Syndication  CBS Interactive  
+google.com, pub-6209086188495781, RESELLER, f08c47fec0942fa0 #Syndication  CBS Interactive  
+indexexchange.com, 184819, DIRECT  #Syndication  CBS Interactive  US
+openx.com, 539022633, direct, 6a698e2ec38604c6 #Syndication  CBS Interactive  US
+pubmatic.com, 157181, DIRECT, 5d62403b186f2ace #Syndication  CBS Interactive  US
+rhythmone.com, 1708260210, DIRECT, a670c89d4a324e47 #Syndication  CBS Interactive  US
+rubiconproject.com, 17568, DIRECT, 0bfd66d529a55807 #Syndication  CBS Interactive  US
+spotx.tv, 78699, DIRECT, 7842df1d2fe2db34 #Syndication  CBS Interactive  US
+spotxchange.com, 78699, DIRECT, 7842df1d2fe2db34 #Syndication  CBS Interactive  US
+telaria.com, dtq2a-09kz2, RESELLER, 1a4e959a1b50034a #Syndication  CBS Interactive  
+tremorhub.com, dtq2a-09kz2, RESELLER, 1a4e959a1b50034a #Syndication  CBS Interactive  
+triplelift.com, 7380, DIRECT, 6c33edb13117fd86 #Syndication  CBS Interactive  
+appnexus.com, 7745, DIRECT  #Syndication  CNN  
+rubiconproject.com, 11078, RESELLER  #Syndication  CNN  
+spotx.tv, 219004, RESELLER, 7842df1d2fe2db34 #Syndication  CNN  
+spotxchange.com, 219004, RESELLER, 7842df1d2fe2db34 #Syndication  CNN  
+google.com, pub-3844877863303739, RESELLER, f08c47fec0942fa0 #Syndication  CondeNast Entertainment  
+appnexus.com, 1908, RESELLER  #Syndication  Corus  CA & FR
+appnexus.com, 7944, RESELLER  #Syndication  Corus  CA & FR
+districtm.io, 100261, DIRECT  #Syndication  Corus  CA & FR
+freeskreen.com, 31, DIRECT, fe119a6acfd19070 #Syndication  Corus  CA & FR
+freewheel.tv, 258705, DIRECT  #Syndication  Corus  CA & FR
+freewheel.tv, 259186, DIRECT  #Syndication  Corus  CA & FR
+freewheel.tv, 259202, DIRECT  #Syndication  Corus  CA & FR
+freewheel.tv, 259218, DIRECT  #Syndication  Corus  CA & FR
+freewheel.tv, 259234, DIRECT  #Syndication  Corus  CA & FR
+freewheel.tv, 259250, DIRECT  #Syndication  Corus  CA & FR
+freewheel.tv, 273234, RESELLER  #Syndication  Corus  CA & FR
+freewheel.tv, 273250, RESELLER  #Syndication  Corus  CA & FR
+freewheel.tv, 273266, RESELLER  #Syndication  Corus  CA & FR
+freewheel.tv, 273282, RESELLER  #Syndication  Corus  CA & FR
+freewheel.tv, 273298, RESELLER  #Syndication  Corus  CA & FR
+freewheel.tv, 298721, RESELLER  #Syndication  Corus  CA & FR
+freewheel.tv, 298737, DIRECT  #Syndication  Corus  CA & FR
+freewheel.tv, 298753, RESELLER  #Syndication  Corus  CA & FR
+freewheel.tv, 298769, DIRECT  #Syndication  Corus  CA & FR
+freewheel.tv, 298785, RESELLER  #Syndication  Corus  CA & FR
+google.com, pub-1599777167715704, DIRECT, f08c47fec0942fa0 #Syndication  Corus  CA & FR
+google.com, pub-1599777167715704, RESELLER, f08c47fec0942fa0 #Syndication  Corus  CA & FR
+google.com, pub-9685734445476814, RESELLER, f08c47fec0942fa0 #Syndication  Corus  CA & FR
+indexexchange.com, 178032, DIRECT, 50b1c356f2c5c8fc #Syndication  Corus  CA & FR
+indexexchange.com, 181201, DIRECT, 50b1c356f2c5c8fc #Syndication  Corus  CA & FR
+indexexchange.com, 183422, DIRECT, 50b1c356f2c5c8fc #Syndication  Corus  CA & FR
+indexexchange.com, 184732, DIRECT, 50b1c356f2c5c8fc #Syndication  Corus  CA & FR
+indexexchange.com, 184088, RESELLER  #Syndication  Corus  CA & FR
+sharethrough.com, 8dbc5906, DIRECT, d53b998a7bd4ecd2 #Syndication  Corus  CA & FR
+4aolcloud.net, 4819, RESELLER  #Syndication  Dailymotion  
+9mediaonline.com, 1a34c, RESELLER  #Syndication  Dailymotion  
+ad.plus, 40031, RESELLER  #Syndication  Dailymotion  
+adform.com, 1411, RESELLER,  #Syndication  Dailymotion  
+adform.com, 96, RESELLER  #Syndication  Dailymotion  
+adform.com, 1721, RESELLER  #Syndication  Dailymotion  
+adform.com, 1226, RESELLER  #Syndication  Dailymotion  
+adform.com, 1943, RESELLER  #Syndication  Dailymotion  
+adform.com, 622, RESELLER  #Syndication  Dailymotion  
+adform.com, 2110, RESELLER  #Syndication  Dailymotion  
+adform.com, 2112, RESELLER  #Syndication  Dailymotion  
+adform.com, 1743, RESELLER  #Syndication  Dailymotion  
+adform.com, 648, RESELLER  #Syndication  Dailymotion  
+adform.com, 1019, RESELLER  #Syndication  Dailymotion  
+admixer.net, 10248498-454d-49a4-a789-acb8fe837f59, RESELLER  #Syndication  Dailymotion  
+ads.adasiaholdings.com, 1, RESELLER,  #Syndication  Dailymotion  
+ad-stir.com, 8943, RESELLER  #Syndication  Dailymotion  
+adtech.com, 4819, RESELLER  #Syndication  Dailymotion  
+adtech.com, 4812, RESELLER  #Syndication  Dailymotion  
+adtrue.com, 3202, RESELLER,  #Syndication  Dailymotion  
+advertising.com, 26282, RESELLER  #Syndication  Dailymotion  
+advertising.com, 8603, RESELLER  #Syndication  Dailymotion  
+advertising.com, 21984, RESELLER  #Syndication  Dailymotion  
+advertising.com, 8791, RESELLER  #Syndication  Dailymotion  
+advertising.com, 26947, RESELLER  #Syndication  Dailymotion  
+advertising.com, 19011, RESELLER  #Syndication  Dailymotion  
+advertising.com, 18632, RESELLER  #Syndication  Dailymotion  
+advertising.com, 24700, RESELLER  #Syndication  Dailymotion  
+aol.com, 7801, RESELLER  #Syndication  Dailymotion  
+aolcloud.net, 4812, RESELLER  #Syndication  Dailymotion  
+appnexus.com, 1908, RESELLER, f5ab79cb980f11d1 #Syndication  Dailymotion  
+appnexus.com, 2234, RESELLER  #Syndication  Dailymotion  
+appnexus.com, 1538084, RESELLER  #Syndication  Dailymotion  
+appnexus.com, 10617, RESELLER  #Syndication  Dailymotion  
+appnexus.com, 9393, RESELLER  #Syndication  Dailymotion  
+appnexus.com, 7080, RESELLER, f5ab79cb980f11d1 #Syndication  Dailymotion  
+appnexus.com, 3741, RESELLER  #Syndication  Dailymotion  
+appnexus.com, 3528, RESELLER  #Syndication  Dailymotion  
+appnexus.com, 1851, RESELLER  #Syndication  Dailymotion  
+appnexus.com, 9242, RESELLER  #Syndication  Dailymotion  
+appnexus.com, 8904, RESELLER  #Syndication  Dailymotion  
+appnexus.com, 2668, RESELLER, f5ab79cb980f11d1 #Syndication  Dailymotion  
+appnexus.com, 956, RESELLER, f5ab79cb980f11d1 #Syndication  Dailymotion  
+appnexus.com, 3538, RESELLER  #Syndication  Dailymotion  
+appnexus.com, 3539, RESELLER  #Syndication  Dailymotion  
+appnexus.com, 3540, RESELLER  #Syndication  Dailymotion  
+appnexus.com, 1785, RESELLER, f5ab79cb980f11d1 #Syndication  Dailymotion  
+appnexus.com, 3141, RESELLER, f5ab79cb980f11d1 #Syndication  Dailymotion  
+appnexus.com, 9795, RESELLER  #Syndication  Dailymotion  
+appnexus.com, 994, RESELLER, f5ab79cb980f11d1 #Syndication  Dailymotion  
+appnexus.com, 1504, RESELLER  #Syndication  Dailymotion  
+appnexus.com, 3691, RESELLER  #Syndication  Dailymotion  
+appnexus.com, 9923, RESELLER, f5ab79cb980f11d1 #Syndication  Dailymotion  
+appnexus.com, 7596, RESELLER  #Syndication  Dailymotion  
+aps.amazon.com, 3204, RESELLER  #Syndication  Dailymotion  
+beachfront.com, 4969, RESELLER, e2541279e8e2ca4d #Syndication  Dailymotion  
+beachfront.com, 108, RESELLER, e2541279e8e2ca4d #Syndication  Dailymotion  
+beachfront.com, 12983, RESELLER, e2541279e8e2ca4d #Syndication  Dailymotion  
+beachfront.com, 4469, RESELLER, e2541279e8e2ca4d #Syndication  Dailymotion  
+beachfront.com, 5171, RESELLER  #Syndication  Dailymotion  
+contextweb.com, 561910, RESELLER, 89ff185a4c4e857c #Syndication  Dailymotion  
+contextweb.com, 558426, RESELLER, 89ff185a4c4e857c #Syndication  Dailymotion  
+coxmt.com, 2000067995202, RESELLER  #Syndication  Dailymotion  
+dailymotion.com, 197345, DIRECT  #Syndication  Dailymotion  
+dailymotion.com, 89980797, DIRECT, fd25240165056a01 #Syndication  Dailymotion  
+districtm.io, 101856, RESELLER, 3fd707be9c4527c3 #Syndication  Dailymotion  
+freewheel.tv, 899777, DIRECT  #Syndication  Dailymotion  
+freewheel.tv, 982545, DIRECT  #Syndication  Dailymotion  
+freewheel.tv, 982529, DIRECT  #Syndication  Dailymotion  
+freewheel.tv, 982561, DIRECT  #Syndication  Dailymotion  
+freewheel.tv, 982577, DIRECT  #Syndication  Dailymotion  
+freewheel.tv, 982497, DIRECT  #Syndication  Dailymotion  
+freewheel.tv, 982513, DIRECT  #Syndication  Dailymotion  
+freewheel.tv, 982641, DIRECT  #Syndication  Dailymotion  
+freewheel.tv, 982625, DIRECT  #Syndication  Dailymotion  
+freewheel.tv, 982657, DIRECT  #Syndication  Dailymotion  
+freewheel.tv, 982673, DIRECT  #Syndication  Dailymotion  
+freewheel.tv, 982593, DIRECT  #Syndication  Dailymotion  
+freewheel.tv, 982609, DIRECT  #Syndication  Dailymotion  
+freewheel.tv, 981873, DIRECT  #Syndication  Dailymotion  
+freewheel.tv, 799841, RESELLER  #Syndication  Dailymotion  
+freewheel.tv, 799921, RESELLER  #Syndication  Dailymotion  
+freewheel.tv, 170809, RESELLER  #Syndication  Dailymotion  
+freewheel.tv, 175881, RESELLER  #Syndication  Dailymotion  
+freewheel.tv, 2493, RESELLER  #Syndication  Dailymotion  
+freewheel.tv, 287842, RESELLER  #Syndication  Dailymotion  
+freewheel.tv, 595217, RESELLER  #Syndication  Dailymotion  
+freewheel.tv, 595281, RESELLER  #Syndication  Dailymotion  
+freewheel.tv, 595681, RESELLER  #Syndication  Dailymotion  
+freewheel.tv, 595713, RESELLER  #Syndication  Dailymotion  
+freewheel.tv, 287858, RESELLER  #Syndication  Dailymotion  
+freewheel.tv, 595233, RESELLER  #Syndication  Dailymotion  
+freewheel.tv, 595665, RESELLER  #Syndication  Dailymotion  
+freewheel.tv, 595697, RESELLER  #Syndication  Dailymotion  
+freewheel.tv, 595729, RESELLER  #Syndication  Dailymotion  
+freewheel.tv, 449249, RESELLER  #Syndication  Dailymotion  
+freewheel.tv, 449265, RESELLER  #Syndication  Dailymotion  
+freewheel.tv, 762193, RESELLER  #Syndication  Dailymotion  
+freewheel.tv, 762241, RESELLER  #Syndication  Dailymotion  
+freewheel.tv, 201601, RESELLER  #Syndication  Dailymotion  
+freewheel.tv, 758610, RESELLER  #Syndication  Dailymotion  
+freewheel.tv, 758642, RESELLER  #Syndication  Dailymotion  
+freewheel.tv, 758626, RESELLER  #Syndication  Dailymotion  
+freewheel.tv, 758658, RESELLER  #Syndication  Dailymotion  
+freewheel.tv, 764641, RESELLER  #Syndication  Dailymotion  
+freewheel.tv, 764673, RESELLER  #Syndication  Dailymotion  
+freewheel.tv, 764705, RESELLER  #Syndication  Dailymotion  
+freewheel.tv, 764657, RESELLER  #Syndication  Dailymotion  
+freewheel.tv, 764689, RESELLER  #Syndication  Dailymotion  
+freewheel.tv, 764737, RESELLER  #Syndication  Dailymotion  
+freewheel.tv, 772305, RESELLER  #Syndication  Dailymotion  
+freewheel.tv, 772321, RESELLER  #Syndication  Dailymotion  
+freewheel.tv, 780353, RESELLER  #Syndication  Dailymotion  
+freewheel.tv, 780369, RESELLER  #Syndication  Dailymotion  
+freewheel.tv, 782017, RESELLER  #Syndication  Dailymotion  
+freewheel.tv, 782033, RESELLER  #Syndication  Dailymotion  
+freewheel.tv, 9904, RESELLER  #Syndication  Dailymotion  
+freewheel.tv, 720210, RESELLER  #Syndication  Dailymotion  
+freewheel.tv, 720242, RESELLER  #Syndication  Dailymotion  
+freewheel.tv, 784481, RESELLER  #Syndication  Dailymotion  
+freewheel.tv, 784497, RESELLER  #Syndication  Dailymotion  
+freewheel.tv, 776577, RESELLER  #Syndication  Dailymotion  
+freewheel.tv, 776593, RESELLER  #Syndication  Dailymotion  
+freewheel.tv, 856593, RESELLER  #Syndication  Dailymotion  
+freewheel.tv, 856609, RESELLER  #Syndication  Dailymotion  
+freewheel.tv, 856625, RESELLER  #Syndication  Dailymotion  
+freewheel.tv, 856641, RESELLER  #Syndication  Dailymotion  
+freewheel.tv, 856657, RESELLER  #Syndication  Dailymotion  
+freewheel.tv, 856673, RESELLER  #Syndication  Dailymotion  
+freewheel.tv, 282514, RESELLER  #Syndication  Dailymotion  
+freewheel.tv, 282498, RESELLER  #Syndication  Dailymotion  
+freewheel.tv, 13841, RESELLER  #Syndication  Dailymotion  
+freewheel.tv, 642114, RESELLER  #Syndication  Dailymotion  
+freewheel.tv, 295681, RESELLER  #Syndication  Dailymotion  
+freewheel.tv, 299345, RESELLER  #Syndication  Dailymotion  
+freewheel.tv, 222017, RESELLER  #Syndication  Dailymotion  
+freewheel.tv, 636593, RESELLER  #Syndication  Dailymotion  
+freewheel.tv, 479537, RESELLER  #Syndication  Dailymotion  
+freewheel.tv, 146777, RESELLER  #Syndication  Dailymotion  
+freewheel.tv, 202401, RESELLER  #Syndication  Dailymotion  
+freewheel.tv, 771073, RESELLER  #Syndication  Dailymotion  
+freewheel.tv, 771089, RESELLER  #Syndication  Dailymotion  
+freewheel.tv, 838673, RESELLER  #Syndication  Dailymotion  
+freewheel.tv, 862033, RESELLER  #Syndication  Dailymotion  
+fyber.com, ddecc38b3799786a1637d5176e204431, RESELLER  #Syndication  Dailymotion  
+google.com, pub-3762254771375579, RESELLER, f08c47fec0942fa0 #Syndication  Dailymotion  
+google.com, pub-8388909051722168, RESELLER, f08c47fec0942fa0 #Syndication  Dailymotion  
+google.com, pub-2285546921446373, RESELLER, f08c47fec0942fa0 #Syndication  Dailymotion  
+google.com, pub-4560331049790501, RESELLER, f08c47fec0942fa0 #Syndication  Dailymotion  
+google.com, pub-3057818873023700, RESELLER  #Syndication  Dailymotion  
+google.com, pub-0928917523760106, RESELLER, f08c47fec0942fa0 #Syndication  Dailymotion  
+google.com, pub-5879135606263005, RESELLER  #Syndication  Dailymotion  
+google.com, pub-8674340505315230, RESELLER, f08c47fec0942fa0 #Syndication  Dailymotion  
+google.com, pub-7197632655386039, RESELLER, f08c47fec0942fa0 #Syndication  Dailymotion  
+google.com, pub-0627101520158699, RESELLER, f08c47fec0942fa0 #Syndication  Dailymotion  
+google.com, pub-9381882208654001, RESELLER  #Syndication  Dailymotion  
+google.com, pub-7774251886246218, RESELLER  #Syndication  Dailymotion  
+google.com, pub-4979986541055910, RESELLER, f08c47fec0942fa0 #Syndication  Dailymotion  
+google.com, pub-4939634212290203, RESELLER, f08c47fec0942fa0 #Syndication  Dailymotion  
+google.com, pub-2577219840435371, RESELLER, f08c47fec0942fa0 #Syndication  Dailymotion  
+google.com, pub-1386280613967939, RESELLER, f08c47fec0942fa0 #Syndication  Dailymotion  
+google.com, pub-5512390705137507, RESELLER, f08c47fec0942fa0 #Syndication  Dailymotion  
+google.com, pub-1937576406332709, RESELLER, f08c47fec0942fa0 #Syndication  Dailymotion  
+google.com, pub-8856559311549217, RESELLER, f08c47fec0942fa0 #Syndication  Dailymotion  
+google.com, pub-3391297137506159, RESELLER, f08c47fec0942fa0 #Syndication  Dailymotion  
+google.com, pub-1914589287576951, RESELLER, f08c47fec0942fa0 #Syndication  Dailymotion  
+google.com, pub-9058291854443881, RESELLER  #Syndication  Dailymotion  
+google.com, pub-2610964203515025, RESELLER, f08c47fec0942fa0 #Syndication  Dailymotion  
+google.com, pub-2393320645055022, RESELLER, f08c47fec0942fa0 #Syndication  Dailymotion  
+google.com, pub-7019376976432612, RESELLER  #Syndication  Dailymotion  
+google.com, pub-8673457733281446, RESELLER, f08c47fec0942fa0 #Syndication  Dailymotion  
+improvedigital.com, 755, RESELLER  #Syndication  Dailymotion  
+Improvedigital.com, 410, RESELLER  #Syndication  Dailymotion  
+improvedigital.com, 335, RESELLER  #Syndication  Dailymotion  
+improvedigital.com, 985, RESELLER  #Syndication  Dailymotion  
+Improvedigital.com, 1154, RESELLER  #Syndication  Dailymotion  
+improvedigital.com, 1066, RESELLER  #Syndication  Dailymotion  
+indexexchange.com, 183965, RESELLER, 50b1c356f2c5c8fc #Syndication  Dailymotion  
+indexexchange.com, 185308, RESELLER  #Syndication  Dailymotion  
+lkqd.com, 51, RESELLER, 59c49fa9598a0117 #Syndication  Dailymotion  
+lkqd.com, 410, RESELLER, 59c49fa9598a0117 #Syndication  Dailymotion  
+lkqd.net, 307, RESELLER, 59c49fa9598a0117 #Syndication  Dailymotion  
+lkqd.net, 51, RESELLER, 59c49fa9598a0117 #Syndication  Dailymotion  
+lkqd.net, 410, RESELLER, 59c49fa9598a0117 #Syndication  Dailymotion  
+loopme.com, s-2411, RESELLER, 6c8d5f95897a5a3b #Syndication  Dailymotion  
+nsightvideo.com, 89980797, DIRECT, fd25240165056a01 #Syndication  Dailymotion  
+nsightvideo.com, 47, DIRECT, fd25240165056a01 #Syndication  Dailymotion  
+onetag.com, 3895f66b2a, RESELLER  #Syndication  Dailymotion  
+openx.com, 540454059, RESELLER, 6a698e2ec38604c6 #Syndication  Dailymotion  
+openx.com, 540634628, DIRECT, 6a698e2ec38604c6 #Syndication  Dailymotion  
+openx.com, 537153564, RESELLER, 6a698e2ec38604c6 #Syndication  Dailymotion  
+openx.com, 540367894, RESELLER, 6a698e2ec38604c6 #Syndication  Dailymotion  
+openx.com, 540634628, RESELLER, 6a698e2ec38604c6 #Syndication  Dailymotion  
+openx.com, 539372716, RESELLER, 6a698e2ec38604c6 #Syndication  Dailymotion  
+openx.com, 537148817, RESELLER, 6a698e2ec38604c6 #Syndication  Dailymotion  
+openx.com, 537128103, RESELLER  #Syndication  Dailymotion  
+openx.com, 539074103, RESELLER, 6a698e2ec38604c6 #Syndication  Dailymotion  
+openx.com, 540291874, RESELLER, 6a698e2ec38604c6 #Syndication  Dailymotion  
+openx.com, 540308356, RESELLER, 6a698e2ec38604c6 #Syndication  Dailymotion  
+openx.com, 537124691, RESELLER, 6a698e2ec38604c6 #Syndication  Dailymotion  
+pubmatic.com, 157310, RESELLER, 5d62403b186f2ace #Syndication  Dailymotion  
+pubmatic.com, 157510, RESELLER, 5d62403b186f2ace #Syndication  Dailymotion  
+pubmatic.com, 155495, RESELLER, 5d62403b186f2ace #Syndication  Dailymotion  
+pubmatic.com, 100531, RESELLER  #Syndication  Dailymotion  
+pubmatic.com, 73785, RESELLER, 5d62403b186f2ace #Syndication  Dailymotion  
+Pubmatic.com, 156458, RESELLER, 5d62403b186f2ace #Syndication  Dailymotion  
+Pubmatic.com, 156325, RESELLER, 5d62403b186f2ace #Syndication  Dailymotion  
+Pubmatic.com, 156084, RESELLER, 5d62403b186f2ace #Syndication  Dailymotion  
+pubmatic.com, 156777, RESELLER, 5d62403b186f2ace #Syndication  Dailymotion  
+pubmatic.com, 156487, RESELLER, 5d62403b186f2ace #Syndication  Dailymotion  
+pubmatic.com, 156792, RESELLER, 5d62403b186f2ace #Syndication  Dailymotion  
+pubmatic.com, 39374, RESELLER, 5d62403b186f2ace #Syndication  Dailymotion  
+pubmatic.com, 156819, RESELLER, 5d62403b186f2ace #Syndication  Dailymotion  
+pubmatic.com, 156820, RESELLER, 5d62403b186f2ace #Syndication  Dailymotion  
+rhythmone.com, 2968119028, RESELLER, a670c89d4a324e47 #Syndication  Dailymotion  
+rhythmone.com, 1166984029, RESELLER, a670c89d4a324e47 #Syndication  Dailymotion  
+rubiconproject.com, 8769, DIRECT, 0bfd66d529a55807 #Syndication  Dailymotion  
+rubiconproject.com, 15478, RESELLER, 0bfd66d529a55807 #Syndication  Dailymotion  
+rubiconproject.com, 11762, RESELLER, 0bfd66d529a55807 #Syndication  Dailymotion  
+rubiconproject.com, 13258, RESELLER, 0bfd66d529a55807 #Syndication  Dailymotion  
+rubiconproject.com, 17962, RESELLER, 0bfd66d529a55807 #Syndication  Dailymotion  
+rubiconproject.com, 14138, RESELLER, 0bfd66d529a55807 #Syndication  Dailymotion  
+rubiconproject.com, 18024, RESELLER, 0bfd66d529a55807 #Syndication  Dailymotion  
+rubiconproject.com, 16746, RESELLER, 0bfd66d529a55807 #Syndication  Dailymotion  
+rubiconproject.com, 11394, RESELLER, 0bfd66d529a55807 #Syndication  Dailymotion  
+rubiconproject.com, 13998, RESELLER, 0bfd66d529a55807 #Syndication  Dailymotion  
+rubiconproject.com, 17692, RESELLER, 0bfd66d529a55807 #Syndication  Dailymotion  
+rubiconproject.com, 16048, RESELLER, 0bfd66d529a55807 #Syndication  Dailymotion  
+smartadserver.com, 2499, RESELLER  #Syndication  Dailymotion  
+smartadserver.com, 886, RESELLER  #Syndication  Dailymotion  
+smartadserver.com, 1827, RESELLER  #Syndication  Dailymotion  
+smartadserver.com, 2079, RESELLER  #Syndication  Dailymotion  
+smartadserver.com, 3161, RESELLER  #Syndication  Dailymotion  
+smartadserver.com, 2060, RESELLER  #Syndication  Dailymotion  
+smartclip.net, 855, RESELLER  #Syndication  Dailymotion  
+smartclip.net, 9098, RESELLER  #Syndication  Dailymotion  
+smartclip.net, 10213, RESELLER  #Syndication  Dailymotion  
+smartclip.net, 2898, RESELLER  #Syndication  Dailymotion  
+smartclip.net, 10220, RESELLER  #Syndication  Dailymotion  
+smartclip.net, 6780, RESELLER  #Syndication  Dailymotion  
+smartclip.net, 10219, RESELLER  #Syndication  Dailymotion  
+smartclip.net, 10221, RESELLER  #Syndication  Dailymotion  
+spotx.tv, 239904, RESELLER, 7842df1d2fe2db34 #Syndication  Dailymotion  
+spotx.tv, 249186, RESELLER, 7842df1d2fe2db34 #Syndication  Dailymotion  
+spotx.tv, 213805, RESELLER, 7842df1d2fe2db34 #Syndication  Dailymotion  
+spotx.tv, 113481, RESELLER, 7842df1d2fe2db34 #Syndication  Dailymotion  
+spotx.tv, 223430, RESELLER, 7842df1d2fe2db34 #Syndication  Dailymotion  
+spotx.tv, 223229, RESELLER, 7842df1d2fe2db34 #Syndication  Dailymotion  
+spotx.tv, 95719, RESELLER, 7842df1d2fe2db34 #Syndication  Dailymotion  
+spotx.tv, 155391, RESELLER, 7842df1d2fe2db34 #Syndication  Dailymotion  
+spotx.tv, 218870, RESELLER, 7842df1d2fe2db34 #Syndication  Dailymotion  
+spotxchange.com, 239904, RESELLER, 7842df1d2fe2db34 #Syndication  Dailymotion  
+spotxchange.com, 249186, RESELLER, 7842df1d2fe2db34 #Syndication  Dailymotion  
+spotxchange.com, 213805, RESELLER, 7842df1d2fe2db34 #Syndication  Dailymotion  
+spotxchange.com, 113481, RESELLER, 7842df1d2fe2db34 #Syndication  Dailymotion  
+spotxchange.com, 223430, RESELLER, 7842df1d2fe2db34 #Syndication  Dailymotion  
+spotxchange.com, 223229, RESELLER, 7842df1d2fe2db34 #Syndication  Dailymotion  
+spotxchange.com, 95719, RESELLER, 7842df1d2fe2db34 #Syndication  Dailymotion  
+spotxchange.com, 155391, RESELLER, 7842df1d2fe2db34 #Syndication  Dailymotion  
+spotxchange.com, 218870, RESELLER, 7842df1d2fe2db34 #Syndication  Dailymotion  
+springserve.com, 843, RESELLER, a24eb641fc82e93d #Syndication  Dailymotion  
+ssp.ynxs.io, 185, RESELLER  #Syndication  Dailymotion  
+teads.tv, 13696, RESELLER, 15a9c44f6d26cbe1 #Syndication  Dailymotion  
+tidaltv.com, 25596, RESELLER  #Syndication  Dailymotion  
+tidaltv.com, 9008, RESELLER  #Syndication  Dailymotion  
+tidaltv.com, 9141, RESELLER  #Syndication  Dailymotion  
+tidaltv.com, 6440, RESELLER  #Syndication  Dailymotion  
+tremorhub.com, 19i64-nwjvk, RESELLER, 1a4e959a1b50034a #Syndication  Dailymotion  
+undertone.com, 3817, DIRECT  #Syndication  Dailymotion  
+vi.ai, 575251357960979, RESELLER  #Syndication  Dailymotion  
+yieldlab.net, 72723, RESELLER  #Syndication  Dailymotion  
+yieldlab.net, 227224, RESELLER  #Syndication  Dailymotion  
+yieldlab.net, 506261, RESELLER  #Syndication  Dailymotion  
+google.com, pub-8541590135395559, DIRECT, f08c47fec0942fa0 #Syndication  GEDI Italy  
+adform.com, 648, DIRECT  #Syndication  Glomex  DE NL GR AT CH
+appnexus.com, 994, DIRECT, f5ab79cb980f11d1 #Syndication  Glomex  DE NL GR AT CH
+contextweb.com, 561500, RESELLER, 89ff185a4c4e857c #Syndication  Glomex  DE NL GR AT CH
+freewheel.tv, 927825, RESELLER  #Syndication  Glomex  DE NL GR AT CH
+freewheel.tv, 927841, RESELLER  #Syndication  Glomex  DE NL GR AT CH
+google.com, pub-2671258679073709, RESELLER, f08c47fec0942fa0 #Syndication  Glomex  DE NL GR AT CH
+google.com, pub-5709517140465826, RESELLER, f08c47fec0942fa0 #Syndication  Glomex  DE NL GR AT CH
+improvedigital.com, 985, DIRECT  #Syndication  Glomex  DE NL GR AT CH
+openx.com, 540601066, RESELLER, 6a698e2ec38604c6 #Syndication  Glomex  DE NL GR AT CH
+openx.com, 539246483, RESELLER, 6a698e2ec38604c6 #Syndication  Glomex  DE NL GR AT CH
+openx.com, 540473984, DIRECT, 6a698e2ec38604c6 #Syndication  Glomex  DE NL GR AT CH
+pubmatic.com, 156487, DIRECT, 5d62403b186f2ace #Syndication  Glomex  DE NL GR AT CH
+rubiconproject.com, 11394, DIRECT, 0bfd66d529a55807 #Syndication  Glomex  DE NL GR AT CH
+smartstream.tv, 5711, RESELLER  #Syndication  Glomex  DE NL GR AT CH
+smartstream.tv, 5709, RESELLER  #Syndication  Glomex  DE NL GR AT CH
+spotx.tv, 120369, DIRECT, 7842df1d2fe2db34 #Syndication  Glomex  DE NL GR AT CH
+spotx.tv, 155391, DIRECT, 7842df1d2fe2db34 #Syndication  Glomex  DE NL GR AT CH
+spotxchange.com, 120369, DIRECT, 7842df1d2fe2db34 #Syndication  Glomex  DE NL GR AT CH
+spotxchange.com, 155391, DIRECT, 7842df1d2fe2db34 #Syndication  Glomex  DE NL GR AT CH
+yieldlab.net, 2172218, RESELLER  #Syndication  Glomex  DE NL GR AT CH
+yieldlab.net, 227224, RESELLER  #Syndication  Glomex  DE NL GR AT CH
+yieldlab.net, 2329165, RESELLER  #Syndication  Glomex  DE NL GR AT CH
+yieldlab.net, 23667, RESELLER  #Syndication  Glomex  DE NL GR AT CH
+yieldlab.net, 506261, RESELLER  #Syndication  Glomex  DE NL GR AT CH
+yieldlab.net, 5334769, RESELLER  #Syndication  Glomex  DE NL GR AT CH
+yieldlab.net, 5710, DIRECT  #Syndication  Glomex  DE NL GR AT CH
+yieldlab.net, 781119, RESELLER  #Syndication  Glomex  DE NL GR AT CH
+yieldlab.net, 851872, RESELLER  #Syndication  Glomex  DE NL GR AT CH
+yieldlab.net, 961276, RESELLER  #Syndication  Glomex  DE NL GR AT CH
+yieldlab.net, 5798882, RESELLER  #Syndication  Glomex  DE NL GR AT CH
+yieldlab.net, 6332043, RESELLER  #Syndication  Glomex  DE NL GR AT CH
+google.com, pub-1301581561755234, DIRECT, f08c47fec0942fa0 #Syndication  Hearst  
+adform.com, 1942, DIRECT  #Syndication  Impresa  PT
+adform.com, 1941, DIRECT  #Syndication  Impresa  PT
+aerserv.com, 2ce496b9f80eb9fa, RESELLER  #Syndication  Impresa  PT
+aolcloud.net, 4687, RESELLER  #Syndication  Impresa  PT
+appnexus.com, 7666, DIRECT, f5ab79cb980f11d1 #Syndication  Impresa  PT
+connatix.com, 102221, DIRECT  #Syndication  Impresa  PT
+contextweb.com, 560520, RESELLER  #Syndication  Impresa  PT
+google.com, pub-9992027334992322, DIRECT, f08c47fec0942fa0 #Syndication  Impresa  PT
+google.com, pub-5990868310294203, DIRECT, f08c47fec0942fa0 #Syndication  Impresa  PT
+lkqd.com, 456, RESELLER, 59c49fa9598a0117 #Syndication  Impresa  PT
+lkqd.net, 456, RESELLER, 59c49fa9598a0117 #Syndication  Impresa  PT
+openx.com, 539625136, RESELLER  #Syndication  Impresa  PT
+pubmatic.com, 156538, DIRECT, 5d62403b186f2ace #Syndication  Impresa  PT
+revcontent.com, 64079, DIRECT  #Syndication  Impresa  PT
+richaudience.com, 1GQlVlRcHD, DIRECT  #Syndication  Impresa  PT
+rubiconproject.com, 156042, DIRECT, 0bfd66d529a55807 #Syndication  Impresa  PT
+rubiconproject.com, 156042, RESELLER, 0bfd66d529a55807 #Syndication  Impresa  PT
+smartadserver.com, 1701, DIRECT  #Syndication  Impresa  Portugal
+spotx.tv, 208557, RESELLER, 7842df1d2fe2db34 #Syndication  Impresa  PT
+spotx.tv, 173177, DIRECT  #Syndication  Impresa  PT
+spotx.tv, 173175, DIRECT  #Syndication  Impresa  PT
+spotxchange.com, 208557, RESELLER, 7842df1d2fe2db34 #Syndication  Impresa  PT
+tremorhub.com, vi1he-0c1k3, RESELLER, 1a4e959a1b50034a #Syndication  Impresa  PT
+lkqd.net, 529, RESELLER, 59c49fa9598a0117 #Syndication  Jukin Media  
+openx.com, 540634768, RESELLER, 6a698e2ec38604c6 #Syndication  Jukin Media  
+spotx.tv, 124020, RESELLER, 7842df1d2fe2db34 #Syndication  Jukin Media  
+spotxchange.com, 124020, RESELLER, 7842df1d2fe2db34 #Syndication  Jukin Media  
+tremorhub.com, 08vqf-nahxf, RESELLER, 1a4e959a1b50034a #Syndication  Jukin Media  
+advertising.com, 28013, RESELLER, e1a5b5b6e3255540 #Syndication  KIOSK  FR
+advertising.com, 9008, RESELLER  #Syndication  KIOSK  FR
+appnexus.com, 9918, RESELLER, f5ab79cb980f11d1 #Syndication  KIOSK  FR
+appnexus.com, 3703, RESELLER, f5ab79cb980f11d1 #Syndication  KIOSK  FR
+appnexus.com, 8861, DIRECT  #Syndication  KIOSK  FR
+appnexus.com, 9920, DIRECT  #Syndication  KIOSK  FR
+beachfront.com, 2892, RESELLER, e2541279e8e2ca4d #Syndication  KIOSK  FR
+beachfront.com, 4969, RESELLER  #Syndication  KIOSK  FR
+contextweb.com, 560875, RESELLER, 89ff185a4c4e857c #Syndication  KIOSK  FR
+contextweb.com, 560288, RESELLER, 89ff185a4c4e857c #Syndication  KIOSK  FR
+coxmt.com, 2000067907202, RESELLER  #Syndication  KIOSK  FR
+coxmt.com, 2000067995202, RESELLER  #Syndication  KIOSK  FR
+freewheel.tv, 322273, DIRECT  #Syndication  KIOSK  
+freewheel.tv, 322273, RESELLER  #Syndication  KIOSK  
+freewheel.tv, 421009, DIRECT  #Syndication  KIOSK  
+freewheel.tv, 421009, RESELLER  #Syndication  KIOSK  
+freewheel.tv, 752418, RESELLER  #Syndication  KIOSK  
+freewheel.tv, 752434, RESELLER  #Syndication  KIOSK  
+freewheel.tv, 161409, RESELLER  #Syndication  KIOSK  FR
+freewheel.tv, 943713, RESELLER  #Syndication  KIOSK  
+freewheel.tv, 943729, RESELLER  #Syndication  KIOSK  
+google.com, pub-3700011705422030, DIRECT, f08c47fec0942fa0 #Syndication  KIOSK  
+google.com, pub-3700011705422030, RESELLER, f08c47fec0942fa0 #Syndication  KIOSK  
+google.com, pub-7249092559634046, RESELLER, f08c47fec0942fa0 #Syndication  KIOSK  
+google.com, pub-2697483239283649, RESELLER, f08c47fec0942fa0 #Syndication  KIOSK  FR
+google.com, pub-1275020395742146, DIRECT, f08c47fec0942fa0 #Syndication  KIOSK  FR
+google.com, pub-7249092559634046, DIRECT, f08c47fec0942fa0 #Syndication  KIOSK  
+google.com, pub-5739535157675470, DIRECT, f08c47fec0942fa0 #Syndication  KIOSK  
+indexexchange.com, 183965, RESELLER, 50b1c356f2c5c8fc #Syndication  KIOSK  FR
+indexexchange.com, 175407, RESELLER  #Syndication  KIOSK  FR
+indexexchange.com, 179394, RESELLER  #Syndication  KIOSK  FR
+openx.com, 537144646, RESELLER, 6a698e2ec38604c6 #Syndication  KIOSK  FR
+pubmatic.com, 156078, RESELLER, 5d62403b186f2ace #Syndication  KIOSK  FR
+pubmatic.com, 156783, RESELLER, 5d62403b186f2ace #Syndication  KIOSK  FR
+pubmatic.com, 156458, RESELLER, 5d62403b186f2ace #Syndication  KIOSK  FR
+pubmatic.com, 156325, RESELLER, 5d62403b186f2ace #Syndication  KIOSK  FR
+pubmatic.com, 156084, RESELLER, 5d62403b186f2ace #Syndication  KIOSK  FR
+pubmatic.com, 157560, DIRECT, 5d62403b186f2ace #Syndication  KIOSK  FR
+pubmatic.com, 156439, RESELLER  #Syndication  KIOSK  FR
+pubmatic.com, 154037, RESELLER  #Syndication  KIOSK  FR
+rhythmone.com, 3845386507, DIRECT, a670c89d4a324e47 #Syndication  KIOSK  FR
+rubiconproject.com, 15476, RESELLER, 0bfd66d529a55807 #Syndication  KIOSK  FR
+rubiconproject.com, 16048, DIRECT, 0bfd66d529a55807 #Syndication  KIOSK  FR
+rubiconproject.com, 18222, RESELLER, 0bfd66d529a55807 #Syndication  KIOSK  FR
+rubiconproject.com, 16114, RESELLER, 0bfd66d529a55807 #Syndication  KIOSK  FR
+rubiconproject.com, 19416, DIRECT, 0bfd66d529a55807 #Syndication  KIOSK  FR
+smartadserver.com, 2776, RESELLER  #Syndication  KIOSK  FR
+smartadserver.com, 3161, RESELLER  #Syndication  KIOSK  FR
+smartadserver.com, 666, RESELLER  #Syndication  KIOSK  FR
+smartadserver.com, 2491, RESELLER  #Syndication  KIOSK  FR
+smartclip.net, 9316, DIRECT  #Syndication  KIOSK  
+smartclip.net, 9316, RESELLER  #Syndication  KIOSK  
+sovrn.com, 257611, RESELLER, fafdf38b16bf6b2b #Syndication  KIOSK  FR
+spotx.tv, 212153, DIRECT, 7842df1d2fe2db34 #Syndication  KIOSK  
+spotx.tv, 212153, RESELLER, 7842df1d2fe2db34 #Syndication  KIOSK  
+spotx.tv, 74964, RESELLER, 7842df1d2fe2db34 #Syndication  KIOSK  FR
+spotx.tv, 119721, RESELLER, 7842df1d2fe2db34 #Syndication  KIOSK  FR
+spotxchange.com, 212153, DIRECT, 7842df1d2fe2db34 #Syndication  KIOSK  
+spotxchange.com, 212153, RESELLER, 7842df1d2fe2db34 #Syndication  KIOSK  
+spotxchange.com, 74964, RESELLER, 7842df1d2fe2db34 #Syndication  KIOSK  FR
+spotxchange.com, 220321, RESELLER, 7842df1d2fe2db34 #Syndication  KIOSK  FR
+spotxchange.com, 97480, RESELLER, 7842df1d2fe2db34 #Syndication  KIOSK  FR
+spotxchange.com, 119721, RESELLER, 7842df1d2fe2db34 #Syndication  KIOSK  FR
+springserve.com, 1, RESELLER, a24eb641fc82e93d #Syndication  KIOSK  FR
+tremorhub.com, io0t2-o3csc, RESELLER, 1a4e959a1b50034a #Syndication  KIOSK  FR
+tremorhub.com, cdgfn, RESELLER, 1a4e959a1b50034a #Syndication  KIOSK  FR
+videmob.com, ff4f040d169bbef0f8a2133cad003b9e, RESELLER, 0de284bf2d40bd06 #Syndication  KIOSK  FR
+videmob.com, 1ee43c5b3c0084f6bb119e30c4f9d529, RESELLER, 0de284bf2d40bd06 #Syndication  KIOSK  FR
+appnexus.com, 2964, RESELLER  #Syndication  MCD  
+appnexus.com, 7167, RESELLER  #Syndication  MCD  
+google.com, pub-6580630874401408, DIRECT, f08c47fec0942fa0 #Syndication  MCD  
+google.com, pub-9115524111147081, RESELLER, f08c47fec0942fa0 #Syndication  Media Capital  
+adform.com, 1169, RESELLER  #Syndication  MTV  Global
+freewheel.tv, 593169, RESELLER  #Syndication  MTV  Global
+advertising.com, 21880, DIRECT  #Syndication  National Geographic  EN-US
+freewheel.tv, 214522, DIRECT  #Syndication  National Geographic  EN-US
+freewheel.tv, 218770, RESELLER  #Syndication  National Geographic  EN-US
+google.com, pub-7442541831975590, DIRECT  #Syndication  National Geographic  EN-US
+google.com, mb-app-pub-7442541831975590, DIRECT  #Syndication  National Geographic  EN-US
+google.com, video-pub-7442541831975590, DIRECT  #Syndication  National Geographic  EN-US
+rubiconproject.com, 12004, DIRECT, 0bfd66d529a55807 #Syndication  National Geographic  EN-US
+smaato.com, 1100037238, DIRECT  #Syndication  National Geographic  EN-US
+spotx.tv, 209621, DIRECT, 7842df1d2fe2db34 #Syndication  National Geographic  EN-US
+spotxchange.com, 209621, DIRECT, 7842df1d2fe2db34 #Syndication  National Geographic  EN-US
+tremorhub.com, i0unc-nzux7, DIRECT, 1a4e959a1b50034a #Syndication  National Geographic  EN-US
+truex.com, 180, DIRECT  #Syndication  National Geographic  EN-US
+spotx.tv, 111853, DIRECT  #Syndication  NBCU  US
+spotxchange.com, 111853, DIRECT  #Syndication  NBCU  US
+adtag.vidssp.com, 1814, DIRECT  #Syndication  Newsy  
+advertising.com, 26282, RESELLER  #Syndication  Newsy  
+advertising.com, 5801, DIRECT  #Syndication  Newsy  
+Appnexus.com, 1356, RESELLER, f5ab79cb980f11d1 #Syndication  Newsy  
+appnexus.com, 7316, DIRECT  #Syndication  Newsy  FR
+beachfront.com, 10067, DIRECT, e2541279e8e2ca4d #Syndication  Newsy  
+beachfront.com, 4969, RESELLER, e2541279e8e2ca4d #Syndication  Newsy  
+freewheel.tv, 942017, RESELLER  #Syndication  Newsy  
+freewheel.tv, 942033, RESELLER  #Syndication  Newsy  
+freewheel.tv, 942049, RESELLER  #Syndication  Newsy  
+freewheel.tv, 942065, RESELLER  #Syndication  Newsy  PT
+freewheel.tv, 762737, DIRECT  #Syndication  Newsy  
+freewheel.tv, 762769, DIRECT  #Syndication  Newsy  
+google.com, pub-0978064532142215, RESELLER, f08c47fec0942fa0 #Syndication  Newsy  US
+google.com, pub-3519627678776838, RESELLER, f08c47fec0942fa0 #Syndication  Newsy  US
+google.com, pub-7363566645038776, RESELLER, f08c47fec0942fa0 #Syndication  Newsy  US
+google.com, pub-0796790890307838, DIRECT, f08c47fec0942fa0 #Syndication  Newsy  
+google.com, pub-6798114729034267, RESELLER, f08c47fec0942fa0 #Syndication  Newsy  
+google.com, pub-1956856209985681, RESELLER, f08c47fec0942fa0 #Syndication  Newsy  FR
+google.com, pub-5717092533913515, DIRECT, f08c47fec0942fa0 #Syndication  Newsy  
+google.com, pub-5717092533913515, RESELLER, f08c47fec0942fa0 #Syndication  Newsy  
+google.com, pub-3385581455811764, RESELLER, f08c47fec0942fa0 #Syndication  Newsy  
+google.com, pub-9422585382673566, RESELLER, f08c47fec0942fa0 #Syndication  Newsy  
+google.com, pub-1301581561755234, DIRECT, f08c47fec0942fa0 #Syndication  Newsy  
+google.com, pub-1301581561755234, RESELLER, f08c47fec0942fa0 #Syndication  Newsy  
+google.com, pub-8414627280054593, DIRECT  #Syndication  Newsy  US
+indexexchange.com, 186318, DIRECT  #Syndication  Newsy  
+indexexchange.com, 185192, DIRECT  #Syndication  Newsy  
+indexexchange.com, 184986, DIRECT  #Syndication  Newsy  
+mobileadtrading.com, baf4006e2cf0c06478aa5d2e2097d109, DIRECT  #Syndication  Newsy  
+openx.com, 539624483, DIRECT, 6a698e2ec38604c6 #Syndication  Newsy  
+openx.com, 538929384, DIRECT, 6a698e2ec38604c6 #Syndication  Newsy  
+pubmatic.com, 157866, DIRECT, 5d62403b186f2ace #Syndication  Newsy  
+pubmatic.com, 157310, RESELLER, 5d62403b186f2ace #Syndication  Newsy  
+rhythmone.com, 2968119028, RESELLER, a670c89d4a324e47 #Syndication  Newsy  
+rhythmone.com, 1575167821, DIRECT  #Syndication  Newsy  
+rubiconproject.com, 18304, DIRECT, 0bfd66d529a55807 #Syndication  Newsy  
+rubiconproject.com, 17598, DIRECT, 0bfd66d529a55807 #Syndication  Newsy  FR
+rubiconproject.com, 17598, RESELLER, 0bfd66d529a55807 #Syndication  Newsy  
+rubiconproject.com, 17346, DIRECT, 0bfd66d529a55807 #Syndication  Newsy  
+somoaudience.com, baf4006e2cf0c06478aa5d2e2097d109, DIRECT  #Syndication  Newsy  
+spotx.tv, 98791, RESELLER, 7842df1d2fe2db34 #Syndication  Newsy  
+spotx.tv, 82069, RESELLER, 7842df1d2fe2db34 #Syndication  Newsy  FR
+spotx.tv, 108706, DIRECT, 7842df1d2fe2db34 #Syndication  Newsy  
+spotxchange.com, 98791, RESELLER, 7842df1d2fe2db34 #Syndication  Newsy  
+spotxchange.com, 82069, RESELLER, 7842df1d2fe2db34 #Syndication  Newsy  FR
+spotxchange.com, 108706, DIRECT, 7842df1d2fe2db34 #Syndication  Newsy  
+springserve.com, 581, DIRECT, a24eb641fc82e93d #Syndication  Newsy  
+teads.tv, 15726, DIRECT, 15a9c44f6d26cbe1 #Syndication  Newsy  
+tremorhub.com, ag0sk, DIRECT, 1a4e959a1b50034a #Syndication  Newsy  
+tremorhub.com, jrkl5-0ac26, DIRECT, 1a4e959a1b50034a #Syndication  Newsy  
+tremorhub.com, vbce7-29tba, RESELLER, 1a4e959a1b50034a #Syndication  Newsy  
+google.com, pub-5646079919295218, RESELLER, f08c47fec0942fa0 #Syndication  NFL  
+aolcloud.net, 21410, RESELLER  #Syndication  Orange Games  
+appnexus.com, 9994, DIRECT  #Syndication  Orange Games  
+freewheel.tv, 215714, RESELLER  #Syndication  Orange Games  
+freewheel.tv, 216634, RESELLER  #Syndication  Orange Games  
+google.com, pub-1313834454494130, RESELLER, f08c47fec0942fa0 #Syndication  Orange Games  
+google.com, pub-2316275586951220, RESELLER, f08c47fec0942fa0 #Syndication  Orange Games  
+improvedigital.com, 545, RESELLER  #Syndication  Orange Games  
+improvedigital.com, 1101, RESELLER  #Syndication  Orange Games  
+indexexchange.com, 188249, DIRECT  #Syndication  Orange Games  
+pubmatic.com, 156946, DIRECT, 5d62403b186f2ace #Syndication  Orange Games  
+spotx.tv, 153598, RESELLER, 7842df1d2fe2db34 #Syndication  Orange Games  
+spotxchange.com, 153598, RESELLER, 7842df1d2fe2db34 #Syndication  Orange Games  
+tremorhub.com, ztx03-iaj07, RESELLER, 1a4e959a1b50034a #Syndication  Orange Games  
+google.com, pub-3297391796803667, RESELLER  #Syndication  Pelmorex  FR
+google.com, pub-0135347699791313, RESELLER  #Syndication  Pelmorex  FR
+adtech.com, 12021, DIRECT, 5d62403b186f2ace #Syndication  Perform  
+advertising.com, 10316, RESELLER, 7842df1d2fe2db34 #Syndication  Perform  
+advertising.com, 2270, RESELLER  #Syndication  Perform  
+advertising.com, 23302, RESELLER  #Syndication  Perform  
+advertising.com, 26347, RESELLER  #Syndication  Perform  
+advertising.com, 6976, RESELLER  #Syndication  Perform  
+appnexus.com, 1788, RESELLER  #Syndication  Perform  
+appnexus.com, 3090, RESELLER  #Syndication  Perform  
+appnexus.com, 3326, RESELLER  #Syndication  Perform  
+appnexus.com, 7722, RESELLER  #Syndication  Perform  
+appnexus.com, 8232, RESELLER  #Syndication  Perform  
+brightcom.com, 239834, DIRECT  #Syndication  Perform  
+brightcom.com, 15800, RESELLER  #Syndication  Perform  
+cedato.com, 501446106, RESELLER  #Syndication  Perform  
+contextweb.com, 560288, RESELLER  #Syndication  Perform  
+contextweb.com, 561345, RESELLER  #Syndication  Perform  
+contextweb.com, 561364, RESELLER  #Syndication  Perform  
+dynadmic.com, 7109027, RESELLER  #Syndication  Perform  
+dyntrk.com, 7109027, RESELLER  #Syndication  Perform  
+engagebdr.com, 2714438554, RESELLER  #Syndication  Perform  
+freewheel.tv, 118529, RESELLER  #Syndication  Perform  
+freewheel.tv, 146081, RESELLER  #Syndication  Perform  
+freewheel.tv, 219826, RESELLER  #Syndication  Perform  
+freewheel.tv, 222017, RESELLER  #Syndication  Perform  
+freewheel.tv, 222025, RESELLER  #Syndication  Perform  
+freewheel.tv, 228321, RESELLER  #Syndication  Perform  
+fyber.com, 731e3f6fad5e8b79297ef43f30beeab9, RESELLER  #Syndication  Perform  
+fyber.com, af3fd4670c740d671b26e75cb2a1520b, RESELLER  #Syndication  Perform  
+google.com, pub-1283624027922691, RESELLER, f08c47fec0942fa0 #Syndication  Perform  
+google.com, pub-1787187386209927, RESELLER, f08c47fec0942fa0 #Syndication  Perform  
+google.com, pub-4531668723098857, RESELLER, f08c47fec0942fa0 #Syndication  Perform  
+google.com, pub-1283624027922691, RESELLER  #Syndication  Perform  
+google.com, pub-1409765517756851, RESELLER  #Syndication  Perform  
+google.com, pub-2795042024701939, RESELLER  #Syndication  Perform  
+google.com, pub-4075894099602271, RESELLER  #Syndication  Perform  
+google.com, pub-7915887679464005, RESELLER  #Syndication  Perform  
+google.com, pub-8410465204385206, RESELLER  #Syndication  Perform  
+google.com, pub-8863521994299374, RESELLER  #Syndication  Perform  
+google.com, pub-9242135695870166, RESELLER  #Syndication  Perform  
+impact-ad.jp, 3597, RESELLER  #Syndication  Perform  
+indexexchange.com, 179394, RESELLER  #Syndication  Perform  
+indexExchange.com, 183876, RESELLER  #Syndication  Perform  
+indexexchange.com, 184809, RESELLER  #Syndication  Perform  
+lkqd.com, 49, RESELLER, 59c49fa9598a0117 #Syndication  Perform  
+lkqd.net, 49, RESELLER, 59c49fa9598a0117 #Syndication  Perform  
+lkqd.net, 39, RESELLER  #Syndication  Perform  
+netseer.com, 3606gm23, RESELLER  #Syndication  Perform  
+openx.com, 537149888, RESELLER, 6a698e2ec38604c6 #Syndication  Perform  
+openx.com, 539202631, RESELLER, 6a698e2ec38604c6 #Syndication  Perform  
+openx.com, a698e2ec38604c6, RESELLER  #Syndication  Perform  
+pubmatic.com, 143827, RESELLER, 5d62403b186f2ace #Syndication  Perform  
+pubmatic.com, 156534, RESELLER, 5d62403b186f2ace #Syndication  Perform  
+pubmatic.com, 156677, RESELLER, 5d62403b186f2ace #Syndication  Perform  
+pubmatic.com, 57248, RESELLER, 5d62403b186f2ace #Syndication  Perform  
+pubmatic.com, 57250, RESELLER, 5d62403b186f2ace #Syndication  Perform  
+pubmatic.com, 57252, RESELLER, 5d62403b186f2ace #Syndication  Perform  
+pubmatic.com, 114634, RESELLER  #Syndication  Perform  
+pubmatic.com, 156120, RESELLER  #Syndication  Perform  
+pubmatic.com, 156183, RESELLER  #Syndication  Perform  
+pubmatic.com, 156439, RESELLER  #Syndication  Perform  
+pulsepoint.com, 560288, RESELLER  #Syndication  Perform  
+rubiconproject.com, 17376, RESELLER, 0bfd66d529a55807 #Syndication  Perform  
+rubiconproject.com, 18034, RESELLER, 0bfd66d529a55807 #Syndication  Perform  
+rubiconproject.com, 8861, RESELLER, 0bfd66d529a55807 #Syndication  Perform  
+rubiconproject.com, 17528, DIRECT  #Syndication  Perform  
+rubiconproject.com, 8154, DIRECT  #Syndication  Perform  
+smartadserver.com, 1894, RESELLER  #Syndication  Perform  
+smartadserver.com, 2482, RESELLER  #Syndication  Perform  
+spotx.tv, 119135, RESELLER, 7842df1d2fe2db34 #Syndication  Perform  
+spotx.tv, 151986, RESELLER, 7842df1d2fe2db34 #Syndication  Perform  
+spotx.tv, 166987, RESELLER, 7842df1d2fe2db34 #Syndication  Perform  
+spotx.tv, 185334, RESELLER, 7842df1d2fe2db34 #Syndication  Perform  
+spotx.tv, 84192, RESELLER, 7842df1d2fe2db34 #Syndication  Perform  
+spotxchange.com, 116066, RESELLER, 7842df1d2fe2db34 #Syndication  Perform  
+spotxchange.com, 119135, RESELLER, 7842df1d2fe2db34 #Syndication  Perform  
+spotxchange.com, 151986, RESELLER, 7842df1d2fe2db34 #Syndication  Perform  
+spotxchange.com, 166987, RESELLER, 7842df1d2fe2db34 #Syndication  Perform  
+spotxchange.com, 185334, RESELLER, 7842df1d2fe2db34 #Syndication  Perform  
+spotxchange.com, 98033, RESELLER, 7842df1d2fe2db34 #Syndication  Perform  
+tremorhub.com, cdgfn, RESELLER, 1a4e959a1b50034a #Syndication  Perform  
+tremorhub.com, m7go6-tfyi8, RESELLER, 1a4e959a1b50034a #Syndication  Perform  
+tremorhub.com, qc8tl-zza1v, RESELLER, 1a4e959a1b50034a #Syndication  Perform  
+tremorhub.com, cn27r, RESELLER  #Syndication  Perform  
+spotx.tv, 227631, RESELLER, 7842df1d2fe2db34 #Syndication  PlayAd  
+spotxchange.com, 227631, RESELLER, 7842df1d2fe2db34 #Syndication  PlayAd  
+appnexus.com, 8519, DIRECT, f5ab79cb980f11d1 #Syndication  PlutoTV  
+rubiconproject.com, 14988, DIRECT, 0bfd66d529a55807 #Syndication  PlutoTV  
+spotx.tv, 113857, DIRECT, 7842df1d2fe2db34 #Syndication  PlutoTV  
+spotxchange.com, 113857, DIRECT, 7842df1d2fe2db34 #Syndication  PlutoTV  
+tremorhub.com, im9ss, DIRECT, 1a4e959a1b50034a #Syndication  PlutoTV  
+yumenetworks.com, 2169, DIRECT, 0f8d7efd0c6b9c3e #Syndication  PlutoTV  
+google.com, pub-3768217592410744, RESELLER, f08c47fec0942fa0 #Syndication  Popsugar  
+google.com, pub-8473388642605639, RESELLER, f08c47fec0942fa0 #Syndication  Popsugar  
+spotx.tv, 88858, RESELLER, 7842df1d2fe2db34 #Syndication  Popsugar  
+spotxchange.com, 88858, RESELLER, 7842df1d2fe2db34 #Syndication  Popsugar  
+tremorhub.com, yya6z-8xc7d, RESELLER, 1a4e959a1b50034a #Syndication  Popsugar  
+google.com, pub-8750086020675820, DIRECT, f08c47fec0942fa0 #Syndication  Prisa  
+richaudience.com, 1EuLXRUH7W, RESELLER  #Syndication  Prisa  
+tidaltv.com, 2575, RESELLER  #Syndication  Prisa  
+tidaltv.com, 2595, RESELLER  #Syndication  Prisa  
+tidaltv.com, 3388, RESELLER  #Syndication  Prisa  
+tidaltv.com, 4056, RESELLER  #Syndication  Prisa  
+tidaltv.com, 4564, RESELLER  #Syndication  Prisa  
+tidaltv.com, 4854, RESELLER  #Syndication  Prisa  
+tidaltv.com, 4918, RESELLER  #Syndication  Prisa  
+tidaltv.com, 5054, RESELLER  #Syndication  Prisa  
+tidaltv.com, 5081, RESELLER  #Syndication  Prisa  
+tidaltv.com, 5158, RESELLER  #Syndication  Prisa  
+advertising.com, 25902, DIRECT  #Syndication  Prisma Media  FR
+contextweb.com, 561619, RESELLER, 89ff185a4c4e857c #Syndication  Prisma Media  FR
+contextweb.com, 560056, RESELLER, 89ff185a4c4e857c #Syndication  Prisma Media  FR
+freewheel.tv, 308161, RESELLER  #Syndication  Prisma Media  FR
+freewheel.tv, 420769, RESELLER  #Syndication  Prisma Media  FR
+freewheel.tv, 308161, DIRECT  #Syndication  Prisma Media  FR
+freewheel.tv, 420769, DIRECT  #Syndication  Prisma Media  FR
+freewheel.tv, 212233, RESELLER  #Syndication  Prisma Media  FR
+freewheel.tv, 212241, RESELLER  #Syndication  Prisma Media  FR
+freewheel.tv, 229889, RESELLER  #Syndication  Prisma Media  FR
+freewheel.tv, 229897, RESELLER  #Syndication  Prisma Media  FR
+freewheel.tv, 424305, RESELLER  #Syndication  Prisma Media  FR
+freewheel.tv, 424337, RESELLER  #Syndication  Prisma Media  FR
+freewheel.tv, 476529, RESELLER  #Syndication  Prisma Media  FR
+freewheel.tv, 476545, RESELLER  #Syndication  Prisma Media  FR
+freewheel.tv, 699458, RESELLER  #Syndication  Prisma Media  FR
+freewheel.tv, 699474, RESELLER  #Syndication  Prisma Media  FR
+freewheel.tv, 981, RESELLER  #Syndication  Prisma Media  FR
+freewheel.tv, 5621, RESELLER  #Syndication  Prisma Media  FR
+google.com, pub-1005272636684943, DIRECT, f08c47fec0942fa0 #Syndication  Prisma Media  FR
+google.com, pub-1005272636684943, RESELLER, f08c47fec0942fa0 #Syndication  Prisma Media  FR
+google.com, pub-3700011705422030, RESELLER, f08c47fec0942fa0 #Syndication  Prisma Media  FR
+google.com, pub-3700011705422030, DIRECT, f08c47fec0942fa0 #Syndication  Prisma Media  FR
+mediabong.com, 1202, DIRECT  #Syndication  Prisma Media  FR
+mediabong.com, 796, DIRECT  #Syndication  Prisma Media  FR
+mediabong.com, 590, DIRECT  #Syndication  Prisma Media  FR
+mediabong.com, 1321, DIRECT  #Syndication  Prisma Media  FR
+mediabong.com, 1374, DIRECT  #Syndication  Prisma Media  FR
+rubiconproject.com, 16640, RESELLER, 0bfd66d529a55807 #Syndication  Prisma Media  FR
+smartclip.net, 9316, RESELLER  #Syndication  Prisma Media  FR
+smartclip.net, 9316, DIRECT  #Syndication  Prisma Media  FR
+spotx.tv, 212153, RESELLER, 7842df1d2fe2db34 #Syndication  Prisma Media  FR
+spotx.tv, 212153, DIRECT, 7842df1d2fe2db34 #Syndication  Prisma Media  FR
+spotxchange.com, 212153, RESELLER, 7842df1d2fe2db34 #Syndication  Prisma Media  FR
+spotxchange.com, 212153, DIRECT, 7842df1d2fe2db34 #Syndication  Prisma Media  FR
+woobi.com, 13067, DIRECT  #Syndication  Prisma Media  FR
+adform.com, 1721, RESELLER  #Syndication  RCS Media Group  
+aolcloud.net, 4812, RESELLER  #Syndication  RCS Media Group  
+appnexus.com, 956, RESELLER, f5ab79cb980f11d1 #Syndication  RCS Media Group  
+google.com, pub-3343505815278533, DIRECT, f08c47fec0942fa0 #Syndication  RCS Media Group  
+google.com, pub-4979986541055910, RESELLER, f08c47fec0942fa0 #Syndication  RCS Media Group  
+openx.com, 537152295, RESELLER  #Syndication  RCS Media Group  
+pubmatic.com, 73785, RESELLER, 5d62403b186f2ace #Syndication  RCS Media Group  
+rubiconproject.com, 13258, RESELLER, 0bfd66d529a55807 #Syndication  RCS Media Group  
+google.com, pub-0942427266003794, RESELLER, f08c47fec0942fa0 #Syndication  Rogers  Global
+indexexchange.com, 181202, RESELLER, 50b1c356f2c5c8fc #Syndication  Rogers  Global
+indexexchange.com, 182960, RESELLER, 50b1c356f2c5c8fc #Syndication  Rogers  Global
+indexexchange.com, 184315, RESELLER, 50b1c356f2c5c8fc #Syndication  Rogers  Global
+indexexchange.com, 184601, RESELLER, 50b1c356f2c5c8fc #Syndication  Rogers  Global
+openx.com, 539462051, DIRECT, 6a698e2ec38604c6 #Syndication  Rogers  Global
+freewheel.tv, 106857, RESELLER  #Syndication  RTI  
+freewheel.tv, 15661, DIRECT  #Syndication  RTI  
+google.com, pub-3107885440173338, DIRECT, f08c47fec0942fa0 #Syndication  RTI  
+google.com, pub-3117665631519113, DIRECT, f08c47fec0942fa0 #Syndication  RTI  
+google.com, pub-4025514031741383, DIRECT, f08c47fec0942fa0 #Syndication  RTI  
+google.com, pub-4188807138211503, DIRECT, f08c47fec0942fa0 #Syndication  RTI  
+google.com, pub-6742847375211163, DIRECT, f08c47fec0942fa0 #Syndication  RTI  
+google.com, pub-7070663109163572, DIRECT, f08c47fec0942fa0 #Syndication  RTI  
+google.com, pub-7700622635422739, DIRECT, f08c47fec0942fa0 #Syndication  RTI  
+google.com, pub-8528408865467182, DIRECT, f08c47fec0942fa0 #Syndication  RTI  
+google.com, pub-8968579289092626, DIRECT, f08c47fec0942fa0 #Syndication  RTI  
+google.com, pub-9280273811890686, DIRECT, f08c47fec0942fa0 #Syndication  RTI  
+google.com, pub-9819290187769604, DIRECT, f08c47fec0942fa0 #Syndication  RTI  
+pubmatic.com, 156098, RESELLER, 5d62403b186f2ace #Syndication  RTI  
+pubmatic.com, 76492, DIRECT, 5d62403b186f2ace #Syndication  RTI  
+widespace.com, 3226, DIRECT  #Syndication  RTI  
+spotx.tv, 119721, DIRECT, 7842df1d2fe2db34 #Syndication  RTL  FR, NL & BE
+spotxchange.com, 119721, DIRECT, 7842df1d2fe2db34 #Syndication  RTL  FR, NL & BE
+adform.com, 1941, DIRECT  #Syndication  RTP - Portugal  
+adform.com, 1942, DIRECT  #Syndication  RTP - Portugal  
+adtech.com, 10297, RESELLER  #Syndication  RTP - Portugal  
+adtech.com, 4687, RESELLER  #Syndication  RTP - Portugal  
+advertising.com, 7574, DIRECT  #Syndication  RTP - Portugal  
+aerserv.com, 2750, RESELLER  #Syndication  RTP - Portugal  
+aol.com, 27093, RESELLER  #Syndication  RTP - Portugal  
+aol.com, 46658, RESELLER  #Syndication  RTP - Portugal  
+aolcloud.net, 10297, RESELLER  #Syndication  RTP - Portugal  
+appnexus.com, 2928, DIRECT  #Syndication  RTP - Portugal  
+appnexus.com, 8233, DIRECT  #Syndication  RTP - Portugal  
+contextweb.com, 558377, RESELLER, 89ff185a4c4e857c #Syndication  RTP - Portugal  
+firstimpression.io, 6364, DIRECT, a960877e77e58dd6 #Syndication  RTP - Portugal  
+fyber.com, 02d54c63f17ab1407e1ab9bf16aa883c, RESELLER  #Syndication  RTP - Portugal  
+fyber.com, 70f8ec805088dbbfd73d8c68ee47bbfc, RESELLER  #Syndication  RTP - Portugal  
+google.com, pub-1043711425534219, DIRECT, f08c47fec0942fa0 #Syndication  RTP - Portugal  
+google.com, pub-3622156405313063, RESELLER, f08c47fec0942fa0 #Syndication  RTP - Portugal  
+google.com, pub-4673227357197067, RESELLER, f08c47fec0942fa0 #Syndication  RTP - Portugal  
+indexexchange.com, 179394, RESELLER  #Syndication  RTP - Portugal  
+lijit.com, 243408, RESELLER, fafdf38b16bf6b2b #Syndication  RTP - Portugal  
+lijit.com, 256420, RESELLER, fafdf38b16bf6b2b #Syndication  RTP - Portugal  
+lijit.com, 249425, RESELLER  #Syndication  RTP - Portugal  
+mobfox.com, 45499, RESELLER  #Syndication  RTP - Portugal  
+mobfox.com, 74240, RESELLER  #Syndication  RTP - Portugal  
+openx.com, 537104992, RESELLER, 6a698e2ec38604c6 #Syndication  RTP - Portugal  
+openx.com, 537149888, RESELLER  #Syndication  RTP - Portugal  
+pubmatic.com, 81564, DIRECT, 5d62403b186f2ace #Syndication  RTP - Portugal  
+pubmatic.com, 114634, RESELLER  #Syndication  RTP - Portugal  
+pubmatic.com, 156241, RESELLER  #Syndication  RTP - Portugal  
+pulsepoint.com, 560520, RESELLER  #Syndication  RTP - Portugal  
+richaudience.com, sImNg6cbWd, DIRECT  #Syndication  RTP - Portugal  
+rubiconproject.com, 13510, DIRECT  #Syndication  RTP - Portugal  
+smaato.com, 1100000579, RESELLER  #Syndication  RTP - Portugal  
+smaato.com, 1100037086, RESELLER  #Syndication  RTP - Portugal  
+smartadserver.com, 2441, RESELLER  #Syndication  RTP - Portugal  
+smartadserver.com, 2640, RESELLER  #Syndication  RTP - Portugal  
+sovrn.com, 243408, RESELLER, fafdf38b16bf6b2b #Syndication  RTP - Portugal  
+sovrn.com, 256420, RESELLER, fafdf38b16bf6b2b #Syndication  RTP - Portugal  
+sovrn.com, 249425, RESELLER  #Syndication  RTP - Portugal  
+spotxchange.com, 173175, DIRECT  #Syndication  RTP - Portugal  
+spotxchange.com, 173177, DIRECT  #Syndication  RTP - Portugal  
+tidaltv.com, 2575, DIRECT  #Syndication  RTP - Portugal  
+tidaltv.com, 2595, DIRECT  #Syndication  RTP - Portugal  
+tidaltv.com, 3388, DIRECT  #Syndication  RTP - Portugal  
+tidaltv.com, 4056, DIRECT  #Syndication  RTP - Portugal  
+tidaltv.com, 4564, DIRECT  #Syndication  RTP - Portugal  
+tidaltv.com, 4854, DIRECT  #Syndication  RTP - Portugal  
+tidaltv.com, 4918, DIRECT  #Syndication  RTP - Portugal  
+tidaltv.com, 5054, DIRECT  #Syndication  RTP - Portugal  
+tidaltv.com, 5081, DIRECT  #Syndication  RTP - Portugal  
+tidaltv.com, 5158, DIRECT  #Syndication  RTP - Portugal  
+chocolateplatform.com, 13062, RESELLER  #Syndication  Rumble  
+chocolateplatform.com, 14057, RESELLER  #Syndication  Rumble  
+google.com, pub-7026201757273977, RESELLER, f08c47fec0942fa0 #Syndication  Rumble  CA & FR
+google.com, pub-7353644945201577, RESELLER, f08c47fec0942fa0 #Syndication  Rumble  CA & FR
+google.com, pub-7026201757273977, RESELLER, f08c47fec0942fa0 #Syndication  Rumble  CA
+google.com, pub-7353644945201577, RESELLER, f08c47fec0942fa0 #Syndication  Rumble  CA
+indexexchange.com, 184032, RESELLER  #Syndication  Rumble  
+indexexchange.com, 187675, RESELLER  #Syndication  Rumble  
+rhythmone.com, 752824437, RESELLER, a670c89d4a324e47 #Syndication  Rumble  
+rhythmone.com, 3526250853, RESELLER, a670c89d4a324e47 #Syndication  Rumble  
+spotx.tv, 252547, RESELLER, 7842df1d2fe2db34 #Syndication  Rumble  
+spotxchange.com, 252547, RESELLER, 7842df1d2fe2db34 #Syndication  Rumble  
+vdopia.com, 14057, RESELLER  #Syndication  Rumble  
+appnexus.com, 3703, DIRECT, f5ab79cb980f11d1 #Syndication  SportInvest  PT
+appnexus.com, 2964, RESELLER  #Syndication  SportInvest  PT
+appnexus.com, 7167, RESELLER  #Syndication  SportInvest  PT
+appnexus.com, 9795, DIRECT  #Syndication  SportInvest  
+contextweb.com, 560288, DIRECT, 89ff185a4c4e857c #Syndication  SportInvest  PT
+google.com, pub-4939634212290203, DIRECT, f08c47fec0942fa0 #Syndication  SportInvest  PT
+indexexchange.com, 179394, DIRECT  #Syndication  SportInvest  PT
+openx.com, 537149888, DIRECT, 6a698e2ec38604c6 #Syndication  SportInvest  PT
+pubmatic.com, 156439, DIRECT  #Syndication  SportInvest  PT
+pubmatic.com, 154037, DIRECT  #Syndication  SportInvest  PT
+rubiconproject.com, 16114, DIRECT, 0bfd66d529a55807 #Syndication  SportInvest  PT
+smartadserver.com, 1510, DIRECT  #Syndication  SportInvest  PT
+sovrn.com, 257611, DIRECT, fafdf38b16bf6b2b #Syndication  SportInvest  PT
+teads.tv, 13696, DIRECT, 15a9c44f6d26cbe1 #Syndication  SportInvest  PT
+spotx.tv, 224949, RESELLER, 7842df1d2fe2db34 #Syndication  Stadium  
+spotxchange.com, 224949, RESELLER, 7842df1d2fe2db34 #Syndication  Stadium  
+appnexus.com, 3552, DIRECT, f5ab79cb980f11d1 #Syndication  TenPlay  AU
+appnexus.com, 6932, DIRECT, f5ab79cb980f11d1 #Syndication  TenPlay  AU
+appnexus.com, 3121, DIRECT  #Syndication  TenPlay  
+google.com, pub-2995659801720227, DIRECT, f08c47fec0942fa0 #Syndication  TenPlay  
+google.com, pub-1991679624331369, DIRECT, f08c47fec0942fa0 #Syndication  TenPlay  AU
+indexexchange.com, 184665, RESELLER, 50b1c356f2c5c8fc #Syndication  TenPlay  
+tremorhub.com, 0j7gj, DIRECT, 1a4e959a1b50034a #Syndication  TenPlay  
+tremorhub.com, 1q9no, DIRECT, 1a4e959a1b50034a #Syndication  TenPlay  
+tremorhub.com, 5phju, DIRECT, 1a4e959a1b50034a #Syndication  TenPlay  
+tremorhub.com, 5z5sq, DIRECT, 1a4e959a1b50034a #Syndication  TenPlay  
+tremorhub.com, 6u7ey, DIRECT, 1a4e959a1b50034a #Syndication  TenPlay  
+tremorhub.com, 7sdao-89vq7, DIRECT, 1a4e959a1b50034a #Syndication  TenPlay  
+tremorhub.com, arzxn, DIRECT, 1a4e959a1b50034a #Syndication  TenPlay  
+tremorhub.com, azj3v, DIRECT, 1a4e959a1b50034a #Syndication  TenPlay  
+tremorhub.com, bm8d1-15z2w, DIRECT, 1a4e959a1b50034a #Syndication  TenPlay  
+tremorhub.com, bm8d1-5a3u5, DIRECT, 1a4e959a1b50034a #Syndication  TenPlay  
+tremorhub.com, bm8d1-946we, DIRECT, 1a4e959a1b50034a #Syndication  TenPlay  
+tremorhub.com, bm8d1-9nplq, DIRECT, 1a4e959a1b50034a #Syndication  TenPlay  
+tremorhub.com, bm8d1-mm9gg, DIRECT, 1a4e959a1b50034a #Syndication  TenPlay  
+tremorhub.com, bm8d1-pri7d, DIRECT, 1a4e959a1b50034a #Syndication  TenPlay  
+tremorhub.com, bm8d1-u6ngk, DIRECT, 1a4e959a1b50034a #Syndication  TenPlay  
+tremorhub.com, cuvdt, DIRECT, 1a4e959a1b50034a #Syndication  TenPlay  
+tremorhub.com, e7nvv, DIRECT, 1a4e959a1b50034a #Syndication  TenPlay  
+tremorhub.com, gh5vv, DIRECT, 1a4e959a1b50034a #Syndication  TenPlay  
+tremorhub.com, hcfqc, DIRECT, 1a4e959a1b50034a #Syndication  TenPlay  
+tremorhub.com, hhoue, DIRECT, 1a4e959a1b50034a #Syndication  TenPlay  
+tremorhub.com, k10q7, DIRECT, 1a4e959a1b50034a #Syndication  TenPlay  
+tremorhub.com, lb0jl, DIRECT, 1a4e959a1b50034a #Syndication  TenPlay  
+tremorhub.com, ruuqh, DIRECT, 1a4e959a1b50034a #Syndication  TenPlay  
+tremorhub.com, ug5m3, DIRECT, 1a4e959a1b50034a #Syndication  TenPlay  
+tremorhub.com, wh8dh, DIRECT, 1a4e959a1b50034a #Syndication  TenPlay  
+tremorhub.com, x8zue, DIRECT, 1a4e959a1b50034a #Syndication  TenPlay  
+tremorhub.com, xij5q, DIRECT, 1a4e959a1b50034a #Syndication  TenPlay  
+tremorhub.com, z25qf, DIRECT, 1a4e959a1b50034a #Syndication  TenPlay  
+tremorhub.com, zeyj5, DIRECT, 1a4e959a1b50034a #Syndication  TenPlay  
+tremorhub.com, 7sdao-t8tb3, DIRECT, 1a4e959a1b50034a #Syndication  TenPlay  AU
+google.com, pub-0066841941245391, DIRECT, f08c47fec0942fa0 #Syndication  TheStreet  US
+google.com, pub-3936079198635946, DIRECT, f08c47fec0942fa0 #Syndication  TheStreet  US
+google.com, pub-5149116737033215, DIRECT, f08c47fec0942fa0 #Syndication  TheStreet  US
+spotx.tv, 218380, DIRECT, 7842df1d2fe2db34 #Syndication  TheStreet  US
+spotxchange.com, 218380, DIRECT, 7842df1d2fe2db34 #Syndication  TheStreet  US
+google.com, pub-8200574565762874, DIRECT, f08c47fec0942fa0 #Syndication  ThomsonReuters  
+google.com, pub-0978064532142215, DIRECT, f08c47fec0942fa0 #Syndication  Time Inc  
+google.com, pub-7363566645038776, RESELLER, f08c47fec0942fa0 #Syndication  Time Inc  
+rubiconproject.com, 12738, RESELLER, 0bfd66d529a55807 #Syndication  Time Inc/Meredith  US
+Appnexus.com, 1356, RESELLER, f5ab79cb980f11d1 #Syndication  Times of India  
+appnexus.com, 2539, DIRECT, f5ab79cb980f11d1 #Syndication  Times of India  
+appnexus.com, 1908, RESELLER  #Syndication  Times of India  
+appnexus.com, 7944, RESELLER  #Syndication  Times of India  
+districtm.io, 101029, DIRECT  #Syndication  Times of India  
+EMXDGT.com, 262, DIRECT, 1e1d41537f7cad7f #Syndication  Times of India  
+google.com, pub-1902173858658913, DIRECT, f08c47fec0942fa0 #Syndication  Times of India  
+google.com, pub-2230723027927371, DIRECT, f08c47fec0942fa0 #Syndication  Times of India  
+google.com, pub-6132384124396613, DIRECT  #Syndication  Times of India  
+indexexchange.com, 185647, DIRECT  #Syndication  Times of India  
+indexexchange.com, 185648, DIRECT  #Syndication  Times of India  
+openx.com, 539701101, DIRECT, 6a698e2ec38604c6 #Syndication  Times of India  
+pubmatic.com, 23105, DIRECT, 5d62403b186f2ace #Syndication  Times of India  
+rubiconproject.com, 17314, DIRECT, 0bfd66d529a55807 #Syndication  Times of India  
+rubiconproject.com, 4642, DIRECT, 0bfd66d529a55807 #Syndication  Times of India  
+smaato.com, 1100037315, DIRECT  #Syndication  Times of India  
+smaato.com, 1100038386, DIRECT  #Syndication  Times of India  
+google.com, pub-3793720534573472, DIRECT, f08c47fec0942fa0 #Syndication  TV Today  
+adform.com, 1305, RESELLER  #Syndication  TVN Poland  
+adform.com, 1933, RESELLER  #Syndication  TVN Poland  
+appnexus.com, 1789, RESELLER  #Syndication  TVN Poland  
+appnexus.com, 7165, RESELLER  #Syndication  TVN Poland  
+appnexus.com, 7491, RESELLER  #Syndication  TVN Poland  
+appnexus.com, 7763, RESELLER  #Syndication  TVN Poland  
+freewheel.tv, 822929, RESELLER  #Syndication  TVN Poland  
+google.com, pub-4278860704973981, RESELLER, f08c47fec0942fa0 #Syndication  TVN Poland  
+google.com, pub-4910050017906143, RESELLER, f08c47fec0942fa0 #Syndication  TVN Poland  
+indexexchange.com, 179394, RESELLER  #Syndication  TVN Poland  
+lkqd.com, 44, RESELLER, 59c49fa9598a0117 #Syndication  TVN Poland  
+lkqd.net, 39, RESELLER, 59c49fa9598a0117 #Syndication  TVN Poland  
+openx.com, 537149888, RESELLER, 6a698e2ec38604c6 #Syndication  TVN Poland  
+pubmatic.com, 156439, RESELLER  #Syndication  TVN Poland  
+pulsepoint.com, 560288, RESELLER  #Syndication  TVN Poland  
+rubiconproject.com, 16048, RESELLER, 0bfd66d529a55807 #Syndication  TVN Poland  
+rubiconproject.com, 16114, RESELLER  #Syndication  TVN Poland  
+smartadserver.com, 1740, RESELLER  #Syndication  TVN Poland  
+tremorhub.com, 0kq41, RESELLER, 1a4e959a1b50034a #Syndication  TVN Poland  
+advertising.com, 3679, DIRECT  #Syndication  VerizonMedia  
+advertising.com, 5831, DIRECT  #Syndication  VerizonMedia  
+advertising.com, 8022, DIRECT  #Syndication  VerizonMedia  
+advertising.com, 8044, DIRECT  #Syndication  VerizonMedia  
+Appnexus.com, 9374, RESELLER  #Syndication  VerizonMedia  US
+beachfront.com, 12400, DIRECT, e2541279e8e2ca4d #Syndication  VerizonMedia  US
+freewheel.tv, 826401, RESELLER  #Syndication  VerizonMedia  US
+google.com, pub-9535478387030233, RESELLER, f08c47fec0942fa0 #Syndication  VerizonMedia  US
+openx.com, 540142887, DIRECT, 6a698e2ec38604c6 #Syndication  VerizonMedia  US
+pubmatic.com, 157310, RESELLER, 5d62403b186f2ace #Syndication  VerizonMedia  US
+pubmatic.com, 157623, DIRECT, 5d62403b186f2ace #Syndication  VerizonMedia  US
+rhythmone.com, 2968119028, DIRECT, a670c89d4a324e47 #Syndication  VerizonMedia  US
+spotx.tv, 240330, RESELLER, 7842df1d2fe2db34 #Syndication  VerizonMedia  US
+spotx.tv, 239904, RESELLER, 7842df1d2fe2db34 #Syndication  VerizonMedia  US
+spotx.tv, 124020, RESELLER, 7842df1d2fe2db34 #Syndication  VerizonMedia  US
+spotxchange.com, 240330, RESELLER, 7842df1d2fe2db34 #Syndication  VerizonMedia  US
+spotxchange.com, 239904, RESELLER, 7842df1d2fe2db34 #Syndication  VerizonMedia  US
+spotxchange.com, 124020, RESELLER, 7842df1d2fe2db34 #Syndication  VerizonMedia  US
+tremorhub.com, 08vqf-nahxf, RESELLER, 1a4e959a1b50034a #Syndication  VerizonMedia  US
+advertising.com, 26657, DIRECT  #Syndication  Yahoo7  Australia
+tremorhub.com, uv40d, DIRECT, 1a4e959a1b50034a #Syndication  Yahoo7  
+directadvert.ru, 730187, DIRECT  #Syndication  Yengo  
+adform.com, 629, RESELLER  #Syndication  YouPlay  
+google.com, pub-5002094515318070, RESELLER, f08c47fec0942fa0 #Syndication  YouPlay  
+rubiconproject.com, 16474, RESELLER, 0bfd66d529a55807 #Syndication  YouPlay  
+advertising.com, 9008, RESELLER  #Syndication  Zazoom  GL
+advertising.com, 26282, RESELLER  #Syndication  Zazoom  GL
+advertising.com, 25034, DIRECT  #Syndication  Zazoom  
+appnexus.com, 1908, RESELLER, f5ab79cb980f11d1 #Syndication  Zazoom  GL
+appnexus.com, 926, RESELLER  #Syndication  Zazoom  GL
+appnexus.com, 6849, RESELLER  #Syndication  Zazoom  
+appnexus.com, 10039, RESELLER  #Syndication  Zazoom  
+appnexus.com, 10617, DIRECT  #Syndication  Zazoom  
+appnexus.com, 9393, DIRECT  #Syndication  Zazoom  
+beachfront.com, 4969, RESELLER, e2541279e8e2ca4d #Syndication  Zazoom  GL
+beachfront.com, 10331, DIRECT, e2541279e8e2ca4d #Syndication  Zazoom  
+contextweb.com, 561910, RESELLER, 89ff185a4c4e857c #Syndication  Zazoom  GL
+contextweb.com, 561502, DIRECT  #Syndication  Zazoom  GL
+districtm.io, 101323, DIRECT, 3fd707be9c4527c3 #Syndication  Zazoom  GL
+districtm.io, 101323, DIRECT  #Syndication  Zazoom  GL
+google.com, pub-9685734445476814, RESELLER, f08c47fec0942fa0 #Syndication  Zazoom  GL
+google.com, pub-6512936480753445, RESELLER, f08c47fec0942fa0 #Syndication  Zazoom  GL
+indexexchange.com, 182257, RESELLER  #Syndication  Zazoom  
+lkqd.net, 540, RESELLER, 59c49fa9598a0117 #Syndication  Zazoom  GL
+lkqd.net, 454, RESELLER, 59c49fa9598a0117 #Syndication  Zazoom  GL
+lkqd.net, 454, DIRECT, 59c49fa9598a0117 #Syndication  Zazoom  
+lkqd.net, 454, RESELLER, 59c49fa9598a0117 #Syndication  Zazoom  
+lkqd.net, 540, DIRECT, 59c49fa9598a0117 #Syndication  Zazoom  
+openx.com, 540226160, RESELLER, 6a698e2ec38604c6 #Syndication  Zazoom  GL
+openx.com, 540454059, RESELLER, 6a698e2ec38604c6 #Syndication  Zazoom  GL
+pubmatic.com, 157310, RESELLER, 5d62403b186f2ace #Syndication  Zazoom  GL
+rhythmone.com, 3845386507, DIRECT, a670c89d4a324e47 #Syndication  Zazoom  GL
+rhythmone.com, 2968119028, RESELLER, a670c89d4a324e47 #Syndication  Zazoom  GL
+rubiconproject.com, 16904, RESELLER, 0bfd66d529a55807 #Syndication  Zazoom  GL
+rubiconproject.com, 15268, RESELLER  #Syndication  Zazoom  
+spotx.tv, 111271, RESELLER, 7842df1d2fe2db34 #Syndication  Zazoom  GL
+spotx.tv, 239904, RESELLER, 7842df1d2fe2db34 #Syndication  Zazoom  GL
+spotxchange.com, 111271, RESELLER, 7842df1d2fe2db34 #Syndication  Zazoom  GL
+spotxchange.com, 239904, RESELLER, 7842df1d2fe2db34 #Syndication  Zazoom  GL
+springserve.com, 1, RESELLER, a24eb641fc82e93d #Syndication  Zazoom  GL
+springserve.com, 78, DIRECT, a24eb641fc82e93d #Syndication  Zazoom  GL
+springserve.com, 1, RESELLER, a24eb641fc82e93d #Syndication  Zazoom  
+ssp.ynxs.io, 185, RESELLER  #Syndication  Zazoom  GL
+tremorhub.com, cdgfn, RESELLER, 1a4e959a1b50034a #Syndication  Zazoom  GL
+video.unrulymedia.com, UNRX-PUB-4935debe-692e-408b-9ea2-5ddf854e2353, DIRECT  #Syndication  Zazoom  
+vindicosuite.com, 6653, DIRECT  #Syndication  Zazoom  GL
+vindicosuite.com, 6655, DIRECT  #Syndication  Zazoom  GL
+rubiconproject.com, 18542, RESELLER, 0bfd66d529a55807 #Syndication  ZMG  
+rubiconproject.com, 18980, RESELLER, 0bfd66d529a55807 #Syndication  ZMG  
+adtech.com, 10466, RESELLER  #Syndication  Zoomin  DE
+contextweb.com, 560875, RESELLER, 89ff185a4c4e857c #Syndication  Zoomin  DE
+freewheel.tv, 318033, RESELLER  #Syndication  Zoomin  
+freewheel.tv, 318049, RESELLER  #Syndication  Zoomin  
+freewheel.tv, 358337, RESELLER  #Syndication  Zoomin  
+freewheel.tv, 359057, RESELLER  #Syndication  Zoomin  
+google.com, pub-2468262778002506, RESELLER, f08c47fec0942fa0 #Syndication  Zoomin  
+google.com, pub-2697483239283649, RESELLER, f08c47fec0942fa0 #Syndication  Zoomin  DE
+indexexchange.com, 182257, RESELLER  #Syndication  Zoomin  DE
+openx.com, 537149888, RESELLER, 6a698e2ec38604c6 #Syndication  Zoomin  DE
+pubmatic.com, 156783, RESELLER, 5d62403b186f2ace #Syndication  Zoomin  DE
+pubmatic.com, 156439, RESELLER  #Syndication  Zoomin  DE
+pubmatic.com, 154037, RESELLER  #Syndication  Zoomin  DE
+rubiconproject.com, 16114, RESELLER, 0bfd66d529a55807 #Syndication  Zoomin  DE
+spotx.tv, 211738, RESELLER, 7842df1d2fe2db34 #Syndication  Zoomin  DE
+spotxchange.com, 220321, RESELLER, 7842df1d2fe2db34 #Syndication  Zoomin  DE
+spotxchange.com, 97480, RESELLER, 7842df1d2fe2db34 #Syndication  Zoomin  DE
+spotxchange.com, 211738, RESELLER, 7842df1d2fe2db34 #Syndication  Zoomin  DE
+videmob.com, c3865c38ed952b38c1401b3ed13d5e8b, RESELLER, 0de284bf2d40bd06 #Syndication  Zoomin  DE
+video.unrulymedia.com, UNRX_c83351e9-63c1-4116-8983-46f790fd515b, DIRECT  #Syndication  Zoomin  DE
+xapads.com, 1101, DIRECT  #Syndication  Zoomin  DE
+google.com, pub-3343505815278533, DIRECT, f08c47fec0942fa0     #Syndication  RCS  IT-IT
+rubiconproject.com, 10814, DIRECT, 0bfd66d529a55807     #Syndication  RCS  IT-IT
+rubiconproject.com, 18006, DIRECT, 0bfd66d529a55807     #Syndication  RCS  IT-IT
+google.com, pub-4979986541055910, RESELLER, f08c47fec0942fa0     #Syndication  RCS  IT-IT
+appnexus.com, 956, RESELLER, f5ab79cb980f11d1     #Syndication  RCS  IT-IT
+rubiconproject.com, 13258, RESELLER, 0bfd66d529a55807     #Syndication  RCS  IT-IT
+openx.com, 537152295, RESELLER     #Syndication  RCS  IT-IT
+adform.com, 1721, RESELLER     #Syndication  RCS  IT-IT
+pubmatic.com, 73785, RESELLER, 5d62403b186f2ace     #Syndication  RCS  IT-IT
+aolcloud.net, 4812, RESELLER     #Syndication  RCS  IT-IT
+indexexchange.com, 186765, RESELLER     #Syndication  RCS  IT-IT
+teads.tv, 5743, DIRECT, 15a9c44f6d26cbe1     #Syndication  RCS  IT-IT
+appnexus.com, 10338, DIRECT, f5ab79cb980f11d1     #Syndication  RCS  IT-IT
+appnexus.com, 1504, RESELLER, f5ab79cb980f11d1     #Syndication  RCS  IT-IT
+google.com, pub-9485981123373313, RESELLER, f08c47fec0942fa0     #Syndication  RCS  IT-IT
+indexexchange.com, 189261, DIRECT     #Syndication  RCS  IT-IT
+openx.com, 540447794, DIRECT, 6a698e2ec38604c6     #Syndication  RCS  IT-IT
+openx.com, 540447794, RESELLER, 6a698e2ec38604c6     #Syndication  RCS  IT-IT
+adtech.com, 4812, RESELLER     #Syndication  RCS  IT-IT
+adform.com, 1721, RESELLER, 9f5210a2f0999e32     #Syndication  RCS  IT-IT
+freewheel.tv, 1897, RESELLER     #Syndication  RCS  IT-IT
+openx.com, 537124926, RESELLER, 6a698e2ec38604c6     #Syndication  RCS  IT-IT
+indexexchange.com, 186765, RESELLER     #Syndication  RCS  IT-IT
+smartadserver.com,3094,RESELLER     #Syndication  RCS  IT-IT
+smartclip.net, 10720, RESELLER     #Syndication  RCS  IT-IT
+spotxchange.com, 245659, RESELLER, 7842df1d2fe2db34     #Syndication  RCS  IT-IT
+spotx.tv, 245659, RESELLER, 7842df1d2fe2db34     #Syndication  RCS  IT-IT
+pubmatic.com, 158208, DIRECT, 5d62403b186f2ace     #Syndication  RCS  IT-IT
+pubmatic.com, 158689, DIRECT, 5d62403b186f2ace     #Syndication  RCS  IT-IT
+vidoomy.com, 53981, DIRECT     #Syndication  RCS  IT-IT
+adtech.com, 11303, RESELLER     #Syndication  RCS  IT-IT
+advertising.com, 22762, RESELLER     #Syndication  RCS  IT-IT
+aol.com, 22762, RESELLER     #Syndication  RCS  IT-IT
+advertising.com, 26631, RESELLER     #Syndication  RCS  IT-IT
+appnexus.com, 997, DIRECT, f5ab79cb980f11d1     #Syndication  RCS  IT-IT
+appnexus.com, 10451, RESELLER     #Syndication  RCS  IT-IT
+appnexus.com, 2081, RESELLER, f5ab79cb980f11d1     #Syndication  RCS  IT-IT
+appnexus.com, 1908, RESELLER, f5ab79cb980f11d1     #Syndication  RCS  IT-IT
+appnexus.com, 3703, RESELLER, f5ab79cb980f11d1     #Syndication  RCS  IT-IT
+appnexus.com, 9923, RESELLER, f5ab79cb980f11d1     #Syndication  RCS  IT-IT
+beachfront.com, 6547, RESELLER     #Syndication  RCS  IT-IT
+contextweb.com, 560288, RESELLER, 89ff185a4c4e857c     #Syndication  RCS  IT-IT
+contextweb.com, 561252, RESELLER, 89ff185a4c4e857c     #Syndication  RCS  IT-IT
+districtm.io, 101540, DIRECT      #Syndication  RCS  IT-IT
+fyber.com, 1236fbff61fdf8859e37831848a42ee5, RESELLER     #Syndication  RCS  IT-IT
+lkqd.com, 430, RESELLER, 59c49fa9598a0117     #Syndication  RCS  IT-IT
+lkqd.net, 430, RESELLER, 59c49fa9598a0117     #Syndication  RCS  IT-IT
+openx.com, 537149888, RESELLER, 6a698e2ec38604c6      #Syndication  RCS  IT-IT
+pubmatic.com, 154037, RESELLER     #Syndication  RCS  IT-IT
+pubmatic.com, 156498, RESELLER, 5d62403b186f2ace     #Syndication  RCS  IT-IT
+pubmatic.com, 156439, RESELLER     #Syndication  RCS  IT-IT
+tremorhub.com, 4cywq-a04wk, RESELLER, 1a4e959a1b50034a     #Syndication  RCS  IT-IT
+rubiconproject.com, 16114, RESELLER, 0bfd66d529a55807     #Syndication  RCS  IT-IT
+smartclip.net, 10180, DIRECT     #Syndication  RCS  IT-IT
+spotxchange.com, 218443, RESELLER, 7842df1d2fe2db34     #Syndication  RCS  IT-IT
+spotx.tv, 218443, RESELLER, 7842df1d2fe2db34     #Syndication  RCS  IT-IT
+sovrn.com, 257611, RESELLER, fafdf38b16bf6b2b      #Syndication  RCS  IT-IT
+smartadserver.com, 1963, RESELLER     #Syndication  RCS  IT-IT
+smartadserver.com, 3136, RESELLER     #Syndication  RCS  IT-IT
+smartadserver.com, 3276,RESELLER     #Syndication  RCS  IT-IT
+freewheel.tv, 872257, RESELLER     #Syndication  RCS  IT-IT
+freewheel.tv, 894193, RESELLER     #Syndication  RCS  IT-IT
+rhythmone.com, 4107953657, RESELLER     #Syndication  RCS  IT-IT
+appnexus.com, 10451, RESELLER, f5ab79cb980f11d1     #Syndication  RCS  IT-IT
+openx.com, 540804929, RESELLER, 6a698e2ec38604c6     #Syndication  RCS  IT-IT
+# Bergamo     #Syndication  RCS  IT-IT
+outbrain.com, 011cd5a2e5cd4ffa317ba2afa265c81465, DIRECT     #Syndication  RCS  IT-IT
+outbrain.com, 011cd5a2e5cd4ffa317ba2afa265c81465, RESELLER     #Syndication  RCS  IT-IT
+appnexus.com, 7597, RESELLER, f5ab79cb980f11d1     #Syndication  RCS  IT-IT
+tremorhub.com, q017o-78mlk, RESELLER, 1a4e959a1b50034a # Outbrain outstream video     #Syndication  RCS  IT-IT
+advertising.com, 12624, RESELLER # Outbrain outstream video     #Syndication  RCS  IT-IT
+fyber.com, f2a848067b5fe77e73205e8024940cbf, RESELLER # Outbrain outstream video     #Syndication  RCS  IT-IT
+freewheel.tv, 484721, RESELLER # Outbrain outstream video     #Syndication  RCS  IT-IT
+# Brescia     #Syndication  RCS  IT-IT
+outbrain.com, 01bfcf29335bc7084588466abe9be76128, DIRECT     #Syndication  RCS  IT-IT
+outbrain.com, 01bfcf29335bc7084588466abe9be76128, RESELLER     #Syndication  RCS  IT-IT
+appnexus.com, 7597, RESELLER, f5ab79cb980f11d1     #Syndication  RCS  IT-IT
+tremorhub.com, q017o-78mlk, RESELLER, 1a4e959a1b50034a # Outbrain outstream video     #Syndication  RCS  IT-IT
+advertising.com, 12624, RESELLER # Outbrain outstream video     #Syndication  RCS  IT-IT
+fyber.com, f2a848067b5fe77e73205e8024940cbf, RESELLER # Outbrain outstream video     #Syndication  RCS  IT-IT
+freewheel.tv, 484721, RESELLER # Outbrain outstream video     #Syndication  RCS  IT-IT
+# Corriere     #Syndication  RCS  IT-IT
+outbrain.com, 014817d7fa7dfc576991918f46fa3e2cc0, DIRECT     #Syndication  RCS  IT-IT
+outbrain.com, 014817d7fa7dfc576991918f46fa3e2cc0, RESELLER     #Syndication  RCS  IT-IT
+appnexus.com, 7597, RESELLER, f5ab79cb980f11d1     #Syndication  RCS  IT-IT
+tremorhub.com, q017o-78mlk, RESELLER, 1a4e959a1b50034a # Outbrain outstream video     #Syndication  RCS  IT-IT
+advertising.com, 12624, RESELLER # Outbrain outstream video     #Syndication  RCS  IT-IT
+fyber.com, f2a848067b5fe77e73205e8024940cbf, RESELLER # Outbrain outstream video     #Syndication  RCS  IT-IT
+freewheel.tv, 484721, RESELLER # Outbrain outstream video     #Syndication  RCS  IT-IT
+# Mezzo Giorno     #Syndication  RCS  IT-IT
+outbrain.com, 0194e35964049e6c97d41f6a390f307730, DIRECT     #Syndication  RCS  IT-IT
+outbrain.com, 0194e35964049e6c97d41f6a390f307730, RESELLER     #Syndication  RCS  IT-IT
+appnexus.com, 7597, RESELLER, f5ab79cb980f11d1     #Syndication  RCS  IT-IT
+tremorhub.com, q017o-78mlk, RESELLER, 1a4e959a1b50034a # Outbrain outstream video     #Syndication  RCS  IT-IT
+advertising.com, 12624, RESELLER # Outbrain outstream video     #Syndication  RCS  IT-IT
+fyber.com, f2a848067b5fe77e73205e8024940cbf, RESELLER # Outbrain outstream video     #Syndication  RCS  IT-IT
+freewheel.tv, 484721, RESELLER # Outbrain outstream video     #Syndication  RCS  IT-IT
+# Veneto     #Syndication  RCS  IT-IT
+outbrain.com, 01fb4e599cedb7d732d1884a886c0ae138, DIRECT     #Syndication  RCS  IT-IT
+outbrain.com, 01fb4e599cedb7d732d1884a886c0ae138, RESELLER     #Syndication  RCS  IT-IT
+appnexus.com, 7597, RESELLER, f5ab79cb980f11d1     #Syndication  RCS  IT-IT
+tremorhub.com, q017o-78mlk, RESELLER, 1a4e959a1b50034a # Outbrain outstream video     #Syndication  RCS  IT-IT
+advertising.com, 12624, RESELLER # Outbrain outstream video     #Syndication  RCS  IT-IT
+fyber.com, f2a848067b5fe77e73205e8024940cbf, RESELLER # Outbrain outstream video     #Syndication  RCS  IT-IT
+freewheel.tv, 484721, RESELLER # Outbrain outstream video     #Syndication  RCS  IT-IT
+# Bologna     #Syndication  RCS  IT-IT
+outbrain.com, 01c697d4e50b525626a808e95d4da380fe, DIRECT     #Syndication  RCS  IT-IT
+outbrain.com, 01c697d4e50b525626a808e95d4da380fe, RESELLER     #Syndication  RCS  IT-IT
+appnexus.com, 7597, RESELLER, f5ab79cb980f11d1     #Syndication  RCS  IT-IT
+tremorhub.com, q017o-78mlk, RESELLER, 1a4e959a1b50034a # Outbrain outstream video     #Syndication  RCS  IT-IT
+advertising.com, 12624, RESELLER # Outbrain outstream video     #Syndication  RCS  IT-IT
+fyber.com, f2a848067b5fe77e73205e8024940cbf, RESELLER # Outbrain outstream video     #Syndication  RCS  IT-IT
+freewheel.tv, 484721, RESELLER # Outbrain outstream video     #Syndication  RCS  IT-IT
+# Fiorentino     #Syndication  RCS  IT-IT
+outbrain.com, 011318d3d02b6ec5479f6629ec95e5e074, DIRECT     #Syndication  RCS  IT-IT
+outbrain.com, 011318d3d02b6ec5479f6629ec95e5e074, RESELLER     #Syndication  RCS  IT-IT
+appnexus.com, 7597, RESELLER, f5ab79cb980f11d1     #Syndication  RCS  IT-IT
+tremorhub.com, q017o-78mlk, RESELLER, 1a4e959a1b50034a # Outbrain outstream video     #Syndication  RCS  IT-IT
+advertising.com, 12624, RESELLER # Outbrain outstream video     #Syndication  RCS  IT-IT
+fyber.com, f2a848067b5fe77e73205e8024940cbf, RESELLER # Outbrain outstream video     #Syndication  RCS  IT-IT
+freewheel.tv, 484721, RESELLER # Outbrain outstream video     #Syndication  RCS  IT-IT
+# Innovazione     #Syndication  RCS  IT-IT
+outbrain.com, 01413456f775be0a813d40b52489f741bb, DIRECT     #Syndication  RCS  IT-IT
+outbrain.com, 01413456f775be0a813d40b52489f741bb, RESELLER     #Syndication  RCS  IT-IT
+appnexus.com, 7597, RESELLER, f5ab79cb980f11d1     #Syndication  RCS  IT-IT
+tremorhub.com, q017o-78mlk, RESELLER, 1a4e959a1b50034a # Outbrain outstream video     #Syndication  RCS  IT-IT
+advertising.com, 12624, RESELLER # Outbrain outstream video     #Syndication  RCS  IT-IT
+fyber.com, f2a848067b5fe77e73205e8024940cbf, RESELLER # Outbrain outstream video     #Syndication  RCS  IT-IT
+freewheel.tv, 484721, RESELLER # Outbrain outstream video     #Syndication  RCS  IT-IT
+# Cucina     #Syndication  RCS  IT-IT
+outbrain.com, 019c3b7df4f30419d2057db53affe0db50, DIRECT     #Syndication  RCS  IT-IT
+outbrain.com, 019c3b7df4f30419d2057db53affe0db50, RESELLER     #Syndication  RCS  IT-IT
+appnexus.com, 7597, RESELLER, f5ab79cb980f11d1     #Syndication  RCS  IT-IT
+tremorhub.com, q017o-78mlk, RESELLER, 1a4e959a1b50034a # Outbrain outstream video     #Syndication  RCS  IT-IT
+advertising.com, 12624, RESELLER # Outbrain outstream video     #Syndication  RCS  IT-IT
+fyber.com, f2a848067b5fe77e73205e8024940cbf, RESELLER # Outbrain outstream video     #Syndication  RCS  IT-IT
+freewheel.tv, 484721, RESELLER # Outbrain outstream video     #Syndication  RCS  IT-IT
+# Free Senza Glutine     #Syndication  RCS  IT-IT
+outbrain.com, 019f9d6585805b7f6b2a4151728b9034c1, DIRECT     #Syndication  RCS  IT-IT
+outbrain.com, 019f9d6585805b7f6b2a4151728b9034c1, RESELLER     #Syndication  RCS  IT-IT
+appnexus.com, 7597, RESELLER, f5ab79cb980f11d1     #Syndication  RCS  IT-IT
+tremorhub.com, q017o-78mlk, RESELLER, 1a4e959a1b50034a # Outbrain outstream video     #Syndication  RCS  IT-IT
+advertising.com, 12624, RESELLER # Outbrain outstream video     #Syndication  RCS  IT-IT
+fyber.com, f2a848067b5fe77e73205e8024940cbf, RESELLER # Outbrain outstream video     #Syndication  RCS  IT-IT
+freewheel.tv, 484721, RESELLER # Outbrain outstream video     #Syndication  RCS  IT-IT
+# Gazzetta     #Syndication  RCS  IT-IT
+outbrain.com, 016d0466d807c3ff39467987a41766fa8d, DIRECT     #Syndication  RCS  IT-IT
+outbrain.com, 016d0466d807c3ff39467987a41766fa8d, RESELLER     #Syndication  RCS  IT-IT
+appnexus.com, 7597, RESELLER, f5ab79cb980f11d1     #Syndication  RCS  IT-IT
+tremorhub.com, q017o-78mlk, RESELLER, 1a4e959a1b50034a # Outbrain outstream video     #Syndication  RCS  IT-IT
+advertising.com, 12624, RESELLER # Outbrain outstream video     #Syndication  RCS  IT-IT
+fyber.com, f2a848067b5fe77e73205e8024940cbf, RESELLER # Outbrain outstream video     #Syndication  RCS  IT-IT
+freewheel.tv, 484721, RESELLER # Outbrain outstream video     #Syndication  RCS  IT-IT
+# Gazza Net     #Syndication  RCS  IT-IT
+outbrain.com, 01407b154608c7789e22a3daa4460f637a, DIRECT     #Syndication  RCS  IT-IT
+outbrain.com, 01407b154608c7789e22a3daa4460f637a, RESELLER     #Syndication  RCS  IT-IT
+appnexus.com, 7597, RESELLER, f5ab79cb980f11d1     #Syndication  RCS  IT-IT
+tremorhub.com, q017o-78mlk, RESELLER, 1a4e959a1b50034a # Outbrain outstream video     #Syndication  RCS  IT-IT
+advertising.com, 12624, RESELLER # Outbrain outstream video     #Syndication  RCS  IT-IT
+fyber.com, f2a848067b5fe77e73205e8024940cbf, RESELLER # Outbrain outstream video     #Syndication  RCS  IT-IT
+freewheel.tv, 484721, RESELLER # Outbrain outstream video     #Syndication  RCS  IT-IT
+# Io Donna     #Syndication  RCS  IT-IT
+outbrain.com, 016371544e8ac97ddb919c8911660d24ea, DIRECT     #Syndication  RCS  IT-IT
+outbrain.com, 016371544e8ac97ddb919c8911660d24ea, RESELLER     #Syndication  RCS  IT-IT
+appnexus.com, 7597, RESELLER, f5ab79cb980f11d1     #Syndication  RCS  IT-IT
+tremorhub.com, q017o-78mlk, RESELLER, 1a4e959a1b50034a # Outbrain outstream video     #Syndication  RCS  IT-IT
+advertising.com, 12624, RESELLER # Outbrain outstream video     #Syndication  RCS  IT-IT
+fyber.com, f2a848067b5fe77e73205e8024940cbf, RESELLER # Outbrain outstream video     #Syndication  RCS  IT-IT
+freewheel.tv, 484721, RESELLER # Outbrain outstream video     #Syndication  RCS  IT-IT
+# Living     #Syndication  RCS  IT-IT
+outbrain.com, 0199c98715000a582086d26f4876bec5be, DIRECT     #Syndication  RCS  IT-IT
+outbrain.com, 0199c98715000a582086d26f4876bec5be, RESELLER     #Syndication  RCS  IT-IT
+appnexus.com, 7597, RESELLER, f5ab79cb980f11d1     #Syndication  RCS  IT-IT
+tremorhub.com, q017o-78mlk, RESELLER, 1a4e959a1b50034a # Outbrain outstream video     #Syndication  RCS  IT-IT
+advertising.com, 12624, RESELLER # Outbrain outstream video     #Syndication  RCS  IT-IT
+fyber.com, f2a848067b5fe77e73205e8024940cbf, RESELLER # Outbrain outstream video     #Syndication  RCS  IT-IT
+freewheel.tv, 484721, RESELLER # Outbrain outstream video     #Syndication  RCS  IT-IT
+# Milano     #Syndication  RCS  IT-IT
+outbrain.com, 010bf23cff839db6cab1e777719ac45a36, DIRECT     #Syndication  RCS  IT-IT
+outbrain.com, 010bf23cff839db6cab1e777719ac45a36, RESELLER     #Syndication  RCS  IT-IT
+appnexus.com, 7597, RESELLER, f5ab79cb980f11d1     #Syndication  RCS  IT-IT
+tremorhub.com, q017o-78mlk, RESELLER, 1a4e959a1b50034a # Outbrain outstream video     #Syndication  RCS  IT-IT
+advertising.com, 12624, RESELLER # Outbrain outstream video     #Syndication  RCS  IT-IT
+fyber.com, f2a848067b5fe77e73205e8024940cbf, RESELLER # Outbrain outstream video     #Syndication  RCS  IT-IT
+freewheel.tv, 484721, RESELLER # Outbrain outstream video     #Syndication  RCS  IT-IT
+# Motori     #Syndication  RCS  IT-IT
+outbrain.com, 01c0c8e517ea7c63c0b00db2756c190246, DIRECT     #Syndication  RCS  IT-IT
+outbrain.com, 01c0c8e517ea7c63c0b00db2756c190246, RESELLER     #Syndication  RCS  IT-IT
+appnexus.com, 7597, RESELLER, f5ab79cb980f11d1     #Syndication  RCS  IT-IT
+tremorhub.com, q017o-78mlk, RESELLER, 1a4e959a1b50034a # Outbrain outstream video     #Syndication  RCS  IT-IT
+advertising.com, 12624, RESELLER # Outbrain outstream video     #Syndication  RCS  IT-IT
+fyber.com, f2a848067b5fe77e73205e8024940cbf, RESELLER # Outbrain outstream video     #Syndication  RCS  IT-IT
+freewheel.tv, 484721, RESELLER # Outbrain outstream video     #Syndication  RCS  IT-IT
+# Oggi     #Syndication  RCS  IT-IT
+outbrain.com, 0147ebc6410fdd13bd7ff2e5fda7e8249e, DIRECT     #Syndication  RCS  IT-IT
+outbrain.com, 0147ebc6410fdd13bd7ff2e5fda7e8249e, RESELLER     #Syndication  RCS  IT-IT
+appnexus.com, 7597, RESELLER, f5ab79cb980f11d1     #Syndication  RCS  IT-IT
+tremorhub.com, q017o-78mlk, RESELLER, 1a4e959a1b50034a # Outbrain outstream video     #Syndication  RCS  IT-IT
+advertising.com, 12624, RESELLER # Outbrain outstream video     #Syndication  RCS  IT-IT
+fyber.com, f2a848067b5fe77e73205e8024940cbf, RESELLER # Outbrain outstream video     #Syndication  RCS  IT-IT
+freewheel.tv, 484721, RESELLER # Outbrain outstream video     #Syndication  RCS  IT-IT
+# Roma     #Syndication  RCS  IT-IT
+outbrain.com, 01c40d3312961d614a576f63fcd9ce64d9, DIRECT     #Syndication  RCS  IT-IT
+outbrain.com, 01c40d3312961d614a576f63fcd9ce64d9, RESELLER     #Syndication  RCS  IT-IT
+appnexus.com, 7597, RESELLER, f5ab79cb980f11d1     #Syndication  RCS  IT-IT
+tremorhub.com, q017o-78mlk, RESELLER, 1a4e959a1b50034a # Outbrain outstream video     #Syndication  RCS  IT-IT
+advertising.com, 12624, RESELLER # Outbrain outstream video     #Syndication  RCS  IT-IT
+fyber.com, f2a848067b5fe77e73205e8024940cbf, RESELLER # Outbrain outstream video     #Syndication  RCS  IT-IT
+freewheel.tv, 484721, RESELLER # Outbrain outstream video     #Syndication  RCS  IT-IT
+# Torino     #Syndication  RCS  IT-IT
+outbrain.com, 013eedce7f7f8a07b520c6edc135f4c268, DIRECT     #Syndication  RCS  IT-IT
+outbrain.com, 013eedce7f7f8a07b520c6edc135f4c268, RESELLER     #Syndication  RCS  IT-IT
+appnexus.com, 7597, RESELLER, f5ab79cb980f11d1     #Syndication  RCS  IT-IT
+tremorhub.com, q017o-78mlk, RESELLER, 1a4e959a1b50034a # Outbrain outstream video     #Syndication  RCS  IT-IT
+advertising.com, 12624, RESELLER # Outbrain outstream video     #Syndication  RCS  IT-IT
+fyber.com, f2a848067b5fe77e73205e8024940cbf, RESELLER # Outbrain outstream video     #Syndication  RCS  IT-IT
+freewheel.tv, 484721, RESELLER # Outbrain outstream video     #Syndication  RCS  IT-IT
+# Viaggi     #Syndication  RCS  IT-IT
+outbrain.com, 01caa65bcb8eb69671bb1971f21d172aea, DIRECT     #Syndication  RCS  IT-IT
+outbrain.com, 01caa65bcb8eb69671bb1971f21d172aea, RESELLER     #Syndication  RCS  IT-IT
+appnexus.com, 7597, RESELLER, f5ab79cb980f11d1     #Syndication  RCS  IT-IT
+tremorhub.com, q017o-78mlk, RESELLER, 1a4e959a1b50034a # Outbrain outstream video     #Syndication  RCS  IT-IT
+advertising.com, 12624, RESELLER # Outbrain outstream video     #Syndication  RCS  IT-IT
+fyber.com, f2a848067b5fe77e73205e8024940cbf, RESELLER # Outbrain outstream video     #Syndication  RCS  IT-IT
+freewheel.tv, 484721, RESELLER # Outbrain outstream video     #Syndication  RCS  IT-IT
+# Video     #Syndication  RCS  IT-IT
+outbrain.com, 015b403a3325d57631685a8e58df107257, DIRECT     #Syndication  RCS  IT-IT
+outbrain.com, 015b403a3325d57631685a8e58df107257, RESELLER     #Syndication  RCS  IT-IT
+appnexus.com, 7597, RESELLER, f5ab79cb980f11d1     #Syndication  RCS  IT-IT
+tremorhub.com, q017o-78mlk, RESELLER, 1a4e959a1b50034a # Premium video demand aka "Telaria"     #Syndication  RCS  IT-IT
+advertising.com, 12624, RESELLER # Outbrain outstream video     #Syndication  RCS  IT-IT
+fyber.com, f2a848067b5fe77e73205e8024940cbf, RESELLER # Outbrain outstream video     #Syndication  RCS  IT-IT
+freewheel.tv, 484721, RESELLER # Outbrain outstream video     #Syndication  RCS  IT-IT
+appnexus.com, 1504, RESELLER, f5ab79cb980f11d1     #Syndication  RCS  IT-IT
+freewheel.tv, 228, RESELLER     #Syndication  RCS  IT-IT
+outbrain.com, 00597a9557a9a227b671cd230408131cff, DIRECT     #Syndication  RCS  IT-IT
+teads.tv, 15429, RESELLER, 15a9c44f6d26cbe1 # Premium video demand     #Syndication  RCS  IT-IT
+advertising.com, 26154, RESELLER # Premium video demand     #Syndication  RCS  IT-IT
+spotxchange.com, 225721, RESELLER # Premium video demand     #Syndication  RCS  IT-IT
+Freewheel.tv, 741650, RESELLER # Premium video demand     #Syndication  RCS  IT-IT
+rubiconproject.com, 17130, RESELLER, 0bfd66d529a55807 # Premium video demand     #Syndication  RCS  IT-IT
+lkqd.net, 450, RESELLER, 59c49fa9598a0117 # Premium video demand     #Syndication  RCS  IT-IT
+openx.com, 540393169, RESELLER, 6a698e2ec38604c6 # Premium video demand     #Syndication  RCS  IT-IT
+spotx.tv, 238936, RESELLER, 7842df1d2fe2db34 # Premium video demand     #Syndication  RCS  IT-IT
+spotxchange.com, 238936, RESELLER, 7842df1d2fe2db34 # Premium Video Demand     #Syndication  RCS  IT-IT
+advertising.com, 28038, RESELLER # Premium Video Demand     #Syndication  RCS  IT-IT
+rubiconproject.com, 19668, RESELLER, 0bfd66d529a55807     #Syndication  RCS  IT-IT
+# GDS     #Syndication  RCS  IT-IT
+outbrain.com, 0070bf7f5ccb6b3cc5a45352efee227556, DIRECT     #Syndication  RCS  IT-IT
+appnexus.com, 7597, RESELLER, f5ab79cb980f11d1     #Syndication  RCS  IT-IT
+tremorhub.com, q017o-78mlk, RESELLER, 1a4e959a1b50034a # Premium video demand aka "Telaria"     #Syndication  RCS  IT-IT
+teads.tv, 15429, RESELLER, 15a9c44f6d26cbe1 # Premium video demand     #Syndication  RCS  IT-IT
+advertising.com, 26154, RESELLER # Premium video demand     #Syndication  RCS  IT-IT
+spotxchange.com, 225721, RESELLER # Premium video demand     #Syndication  RCS  IT-IT
+Freewheel.tv, 741650, RESELLER # Premium video demand     #Syndication  RCS  IT-IT
+rubiconproject.com, 17130, RESELLER, 0bfd66d529a55807 # Premium video demand     #Syndication  RCS  IT-IT
+lkqd.net, 450, RESELLER, 59c49fa9598a0117 # Premium video demand     #Syndication  RCS  IT-IT
+openx.com, 540393169, RESELLER, 6a698e2ec38604c6 # Premium video demand     #Syndication  RCS  IT-IT
+spotx.tv, 238936, RESELLER, 7842df1d2fe2db34 # Premium video demand     #Syndication  RCS  IT-IT
+spotxchange.com, 238936, RESELLER, 7842df1d2fe2db34 # Premium Video Demand     #Syndication  RCS  IT-IT
+advertising.com, 28038, RESELLER # Premium Video Demand     #Syndication  RCS  IT-IT
+rubiconproject.com, 19668, RESELLER, 0bfd66d529a55807     #Syndication  RCS  IT-IT
+# GAZZETTADELSUD     #Syndication  RCS  IT-IT
+outbrain.com, 0086aa9d5047019b0c6da8c5df0c385ef7, DIRECT     #Syndication  RCS  IT-IT
+appnexus.com, 7597, RESELLER, f5ab79cb980f11d1     #Syndication  RCS  IT-IT
+tremorhub.com, q017o-78mlk, RESELLER, 1a4e959a1b50034a # Premium video demand aka "Telaria"     #Syndication  RCS  IT-IT
+teads.tv, 15429, RESELLER, 15a9c44f6d26cbe1 # Premium video demand     #Syndication  RCS  IT-IT
+advertising.com, 26154, RESELLER # Premium video demand     #Syndication  RCS  IT-IT
+spotxchange.com, 225721, RESELLER # Premium video demand     #Syndication  RCS  IT-IT
+Freewheel.tv, 741650, RESELLER # Premium video demand     #Syndication  RCS  IT-IT
+rubiconproject.com, 17130, RESELLER, 0bfd66d529a55807 # Premium video demand     #Syndication  RCS  IT-IT
+lkqd.net, 450, RESELLER, 59c49fa9598a0117 # Premium video demand     #Syndication  RCS  IT-IT
+openx.com, 540393169, RESELLER, 6a698e2ec38604c6 # Premium video demand     #Syndication  RCS  IT-IT
+spotx.tv, 238936, RESELLER, 7842df1d2fe2db34 # Premium video demand     #Syndication  RCS  IT-IT
+spotxchange.com, 238936, RESELLER, 7842df1d2fe2db34 # Premium Video Demand     #Syndication  RCS  IT-IT
+advertising.com, 28038, RESELLER # Premium Video Demand     #Syndication  RCS  IT-IT
+rubiconproject.com, 19668, RESELLER, 0bfd66d529a55807     #Syndication  RCS  IT-IT
+
+google.com, pub-2668738358312784, RESELLER, f08c47fec0942fa0    #Syndication   Apester    EN-GB
+districtm.io, 101801,RESELLER    #Syndication   Apester    EN-GB
+improvedigital.com, 1041, RESELLER    #Syndication   Apester    EN-GB
+indexexchange.com, 188350, RESELLER, 50b1c356f2c5c8fc    #Syndication   Apester    EN-GB
+indexexchange.com, 189066, RESELLER, 50b1c356f2c5c8fc    #Syndication   Apester    EN-GB
+loopme.com, 10073, RESELLER, 6c8d5f95897a5a3b    #Syndication   Apester    EN-GB
+loopme.com, s-2411, RESELLER, 6c8d5f95897a5a3b    #Syndication   Apester    EN-GB
+openx.com, 539913542, RESELLER, 6a698e2ec38604c6    #Syndication   Apester    EN-GB
+openx.com, 539253360, RESELLER, 6a698e2ec38604c6    #Syndication   Apester    EN-GB
+pubmatic.com, 156559, RESELLER, 5d62403b186f2ace    #Syndication   Apester    EN-GB
+rubiconproject.com, 17178, RESELLER, 0bfd66d529a55807    #Syndication   Apester    EN-GB
+sharethrough.com, e6afc1ec, RESELLER, d53b998a7bd4ecd2    #Syndication   Apester    EN-GB
+smartadserver.com, 3160, RESELLER    #Syndication   Apester    EN-GB
+spotx.tv, 199371, RESELLER, 7842df1d2fe2db34    #Syndication   Apester    EN-GB
+telaria.com, noedw-k0ayc, RESELLER, 1a4e959a1b50034a    #Syndication   Apester    EN-GB
+triplelift.com, 5984, RESELLER, 6c33edb13117fd86    #Syndication   Apester    EN-GB
+video.unrulymedia.com, UNRX-PUB-1f06d1eb-f975-4502-9de3-5c729e8f9506, RESELLER    #Syndication   Apester    EN-GB
+undertone.com, 3817, DIRECT    #Syndication   Zazoom     EN-US
+appnexus.com, 2234, RESELLER    #Syndication   Zazoom     EN-US
+openx.com, 537153564, RESELLER, 6a698e2ec38604c6    #Syndication   Zazoom     EN-US
+synacor.com, 82101, DIRECT, e108f11b2cdf7d5b    #Syndication   Zazoom     EN-US
+advertising.com, 19623, RESELLER    #Syndication   Zazoom     EN-US
+openx.com, 540634634, DIRECT, 6a698e2ec38604c6     #Syndication   Zazoom     EN-US
+emxdgt.com, 1251, RESELLER, 1e1d41537f7cad7f    #Syndication   Zazoom     EN-US
+appnexus.com, 1356, RESELLER, f5ab79cb980f11d1    #Syndication   Zazoom     EN-US
+districtm.io, 101856, DIRECT, 3fd707be9c4527c3    #Syndication   Zazoom     EN-US
+appnexus.com, 1908, RESELLER, f5ab79cb980f11d1     #Syndication   Zazoom     EN-US
+advangelists.com, b6f0479ae87d244975439c6124592772, DIRECT, 60d26397ec060f98    #Syndication   Zazoom     EN-US
+
+#Other
+
+advertising.com, 3531, RESELLER  #    
+google.com, pub-1301581561755234, DIRECT, f08c47fec0942fa0 #    EN-US
+netsprint.eu, 3100, RESELLER  #    
+netsprint.eu, 500551, RESELLER  #    
+openx.com, 539154393, DIRECT  #    
+pubmatic.com, 32987, RESELLER  #

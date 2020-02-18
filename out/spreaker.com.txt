@@ -1,0 +1,32 @@
+# Triton: 2019-08-05
+tritondigital.com, 19863, DIRECT, 19b4454d0b87b58b
+
+# Adswizz: 2019-08-05
+adswizz, spreaker, DIRECT
+
+# DFP: 2018-09-11
+google.com, pub-3005800554886827, DIRECT, f08c47fec0942fa0
+
+# Adsense: 2019-02-06
+google.com, pub-3425059256161224, DIRECT, f08c47fec0942fa0
+
+# TargetSpot: 2019-11-11
+
+targetspot.com, 68, DIRECT, feb28ed826dcf532
+rubiconproject.com, 16418, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 9753, RESELLER, 0bfd66d529a55807
+spotxchange.com, 211833, RESELLER, 7842df1d2fe2db34
+spotx.tv, 211833, RESELLER, 7842df1d2fe2db34
+appnexus.com, 7265, RESELLER, f5ab79cb980f11d1
+tritondigital.com, 44733, DIRECT, 19b4454d0b87b58b
+appnexus.com, 1577, RESELLER, f5ab79cb980f11d1
+rubiconproject.com, 9755, RESELLER, 0bfd66d529a55807
+adswizz.com, targetspot, RESELLER
+
+# AWG - Avatar Media: 2020-01-27
+
+adtonos.com, P2291296821, DIRECT
+tritondigital.com, 38083, RESELLER, 19b4454d0b87b58b
+adform.com, 2423, RESELLER, 9f5210a2f0999e32
+appnexus.com, 1789, RESELLER, f5ab79cb980f11d1
+appnexus.com, 7491, RESELLER, f5ab79cb980f11d1

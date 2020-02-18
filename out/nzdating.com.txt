@@ -1,0 +1,12 @@
+#DIRECT
+google.com, pub-4642589870695208, DIRECT, f08c47fec0942fa0
+rubiconproject.com, 11256, DIRECT, 0bfd66d529a55807
+rubiconproject.com, 12256, DIRECT, 0bfd66d529a55807
+
+#LEGACY
+subdomain=beta.nzdating.com
+subdomain=m.nzdating.com
+subdomain=classic.nzdating.com
+subdomain=w1.nzdating.com
+subdomain=w2.nzdating.com
+subdomain=w3.nzdating.com

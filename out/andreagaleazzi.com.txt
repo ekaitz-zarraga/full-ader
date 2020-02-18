@@ -1,0 +1,18 @@
+google.com, pub-6789955346761500, DIRECT, f08c47fec0942fa0
+
+# da qui roba automoto
+google.com, pub-9797080430682287, DIRECT, f08c47fec0942fa0
+google.com, pub-3252058583585080, DIRECT, f08c47fec0942fa0
+teads.tv, 10196, DIRECT, 15a9c44f6d26cbe1
+appnexus.com, 9109, DIRECT
+quantum-advertising.com,  1248, DIRECT #native 
+# START SublimeSkinz Network
+smartadserver.com, 1827, RESELLER
+improvedigital.com, 335, RESELLER
+appnexus.com, 3538, RESELLER
+appnexus.com, 3539, RESELLER
+appnexus.com, 3540, RESELLER
+freewheel.tv, 67769, RESELLER
+# END SublimeSkinz Network
+spotxchange.com, 223034, DIRECT, 7842df1d2fe2db34
+spotx.tv, 223034, DIRECT, 7842df1d2fe2db34

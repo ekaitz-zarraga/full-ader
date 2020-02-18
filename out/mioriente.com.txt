@@ -1,0 +1,7 @@
+# DPGROUP Network
+google.com<http://google.com>, pub-2076747816002348, RESELLER, f08c47fec0942fa0	
+google.com<http://google.com>, pub-4755713270418120, RESELLER, f08c47fec0942fa0
+
+#TEADS
+teads.tv<http://teads.tv>, 15354, DIRECT, 15a9c44f6d26cbe1
+teads.tv<http://teads.tv>, 15355, DIRECT, 15a9c44f6d26cbe1

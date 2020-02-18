@@ -1,0 +1,9 @@
+#ads.txt  nbcuniversal
+
+google.com, pub-5672557457834454, DIRECT #display
+google.com, pub-2777781493894567, DIRECT #display
+spotx.tv, 111853, DIRECT #video
+pubmatic.com, 20977, DIRECT #display
+kargo.com, 136, DIRECT #display
+indexexchange.com, 184081, RESELLER #display
+trustx.org, 20, DIRECT #display

@@ -1,0 +1,5 @@
+There isnt anything here, what did you expect to find?
+
+YOU SILLY BABOON!
+
+[13/Sep/2018:01:27:22 -0400] "GET /ads.txt HTTP/1.1" 404 1877 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36"

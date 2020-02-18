@@ -1,0 +1,41 @@
+google.com, pub-9554087830269655, DIRECT, f08c47fec0942fa0
+
+#WordPress
+pubmine.com, 98282137, DIRECT
+
+#WordPress - Google
+pagead2.googlesyndication.com, pub-3443918307802676, DIRECT
+pagead2.googlesyndication.com, pub-8101658338626046, DIRECT
+google.com, pub-3443918307802676, DIRECT
+google.com, pub-8101658338626046, DIRECT
+
+#WordPress - Criteo
+criteo.net, 45205, DIRECT
+criteo.net, 96498, DIRECT
+criteo.net, 137754, DIRECT
+
+#WordPress - AppNexus
+appnexus.com, 7766, DIRECT
+ib.adnxs.com, 7766, DIRECT
+adnx.com, 7766, DIRECT
+ads.pubmatic.com, 156204, DIRECT
+
+#WordPress - Oath Display
+adtech.com, 9534, DIRECT
+#WordPress - Oath Video
+advertising.com, 24010, DIRECT
+
+#WordPress - Amazon
+amazon-adsystem.com, 9240792, DIRECT
+amazon-adsystem.com, 6fb17607-32fb-47ed-b920-df44722f6475, DIRECT
+contextweb.com, 561562, RESELLER, 89ff185a4c4e857c
+districtm.io, 100962, DIRECT
+appnexus.com, 1908, RESELLER
+c1exchange.com, c1x_a9_uampubs, RESELLER
+
+#WordPress - FreeWheel Free Sites
+freewheel.tv, 707442, DIRECT
+freewheel.tv, 707874, DIRECT
+#WordPress - FreeWheel Premium Sites
+freewheel.tv, 707458, DIRECT
+freewheel.tv, 707890, DIRECT

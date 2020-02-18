@@ -1,0 +1,16 @@
+#Ads.txt astrolis.com
+
+
+# Google
+google.com, pub-5191868652357790, DIRECT, f08c47fec0942fa0
+
+# Conversant
+conversantmedia.com, 792, DIRECT, 03113cd04947736d
+appnexus.com, 4052, RESELLER
+openx.com, 540031703, RESELLER, 6a698e2ec38604c6
+
+# Tribalfusion
+exponential.com, 5960, DIRECT, afac06385c445926
+tribalfusion.com, 5960, DIRECT, afac06385c445926
+index.com, 684573, RESELLER
+google.com, 684583, RESELLER

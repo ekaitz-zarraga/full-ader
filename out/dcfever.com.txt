@@ -1,0 +1,28 @@
+# adx
+google.com, pub-8038336834024926, DIRECT, f08c47fec0942fa0
+google.com, pub-8038336834024926, RESELLER, f08c47fec0942fa0
+
+# adsense
+google.com, pub-3319273081114067, DIRECT, f08c47fec0942fa0
+google.com, pub-3319273081114067, RESELLER, f08c47fec0942fa0
+
+# openx
+openx.com, 537149393, DIRECT, 6a698e2ec38604c6
+
+# ucfunnel
+ucfunnel, par-EAA846AE647B627C7A4796BD67A3A32, DIRECT
+aralego.com, par-EAA846AE647B627C7A4796BD67A3A32, DIRECT
+
+# yahoo
+yahoo.com, 29284317561, DIRECT
+
+# inskin
+indexexchange.com, 184665, RESELLER, 50b1c356f2c5c8fc
+
+# adsfactor
+adsfactor.net, 10124, RESELLER
+adsfactor.net, 1503, RESELLER
+adsfactor.net, 10277, RESELLER
+
+# redlotus
+appnexus.com , 3925 , RESELLER

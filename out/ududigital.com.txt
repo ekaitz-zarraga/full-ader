@@ -1,0 +1,93 @@
+# ads.txt - Authorized Digital Sellers
+
+#
+
+# Vidillion -- vidillion.com, vidtizer.com
+
+vidillion.com, rsq, DIRECT
+
+# UDU digital direct accounts
+springserve.com, 755, DIRECT, a24eb641fc82e93d
+
+#aniview
+aniview.com, 5d6cfa8b28a0614d087f8d61, DIRECT, 78b21b97965ec3f8
+advertising.com, 23089, RESELLER
+districtm.io, 101661, RESELLER
+appnexus.com, 1908, RESELLER, f5ab79cb980f11d1
+google.com, pub-9685734445476814, RESELLER, f08c47fec0942fa0
+google.com, pub-7002491002409919, RESELLER, f08c47fec0942fa0
+google.com, pub-9378724246417115, DIRECT, f08c47fec0942fa0
+openx.com, 540862677, RESELLER, 6a698e2ec38604c6
+synacor.com, 82171, RESELLER, e108f11b2cdf7d5b
+appnexus.com, 9316, RESELLER, f5ab79cb980f11d1 # AppNexus
+pubmatic.com, 156344, RESELLER, 5d62403b186f2ace # Pubmatic
+rubiconproject.com, 13344, RESELLER, 0bfd66d529a55807 # Rubicon
+freewheel.tv, 772097, RESELLER
+freewheel.tv, 774033, RESELLER
+ucfunnel.com, par-77274B9A266D6BD20BD6849D8EB7DD2A, RESELLER
+aralego.com, par-77274B9A266D6BD20BD6849D8EB7DD2A, RESELLER
+yieldnexus.com, 96204, RESELLER
+audience.media, 100358, RESELLER
+appnexus.com, 10617, RESELLER
+appnexus.com, 9393, RESELLER
+advertising.com, 25034, RESELLER
+sonobi.com, 783272317b, RESELLER, d1a215d9eb5aee9e
+spotxchange.com, 85519, RESELLER
+indexexchange.com, 186684, RESELLER
+advertising.com,3531,RESELLER
+adxoo.com, QNwvpq3mRa, RESELLER
+
+
+#beachfront
+beachfront.com, 5823, DIRECT, e2541279e8e2ca4d
+
+#bold screen media
+advertising.com, 11273, reseller
+springserve.com, 918, DIRECT, a24eb641fc82e93d
+lkqd.com, 123, RESELLER, 59c49fa9598a0117
+rhythmone.com, 545277841, DIRECT, a670c89d4a324e47
+EMXDGT.com, 1250, RESELLER, 1e1d41537f7cad7f
+appnexus.com, 1356, RESELLER, f5ab79cb980f11d
+
+#emx
+emxdgt.com, 1418, DIRECT, 1e1d41537f7cad7f
+appnexus.com, 1356, RESELLER, f5ab79cb980f11d1
+
+
+#loopme
+loopme.com, 11244, RESELLER, 6c8d5f95897a5a3b 
+loopme.com, 11244, DIRECT, 6c8d5f95897a5a3b
+rubiconproject.com, 20744, RESELLER, 0bfd66d529a55807
+openx.com, 540298543, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 158154, RESELLER, 5d62403b186f2ace
+
+#SpotX
+spotxchange.com, 165517, DIRECT, 7842df1d2fe2db34
+spotx.tv, 165517, DIRECT, 7842df1d2fe2db34
+
+#somo audience
+EMXDGT.com, 1297, RESELLER, 1e1d41537f7cad7f
+appnexus.com, 1356, RESELLER, f5ab79cb980f11d1
+sonobi.com, 441771354b, DIRECT, d1a215d9eb5aee9e
+rhythmone.com, 1059622079, RESELLER, a670c89d4a324e47
+contextweb.com, 560606, RESELLER, 89ff185a4c4e857c
+appnexus.com, 10617, RESELLER
+appnexus.com, 9393, RESELLER
+spotxchange.com,276334,RESELLER,7842df1d2fe2db34
+spotx.tv,276334,RESELLER,7842df1d2fe2db34
+
+# Digital Fairway 
+advertising.com, 25752, DIRECT, e1a5b5b6e3255540 
+pubmatic.com, 158176, DIRECT, 5d62403b186f2ace 
+altitude-arena.com, 158176, DIRECT
+telaria.com, my4am-inagk, RESELLER, 1a4e959a1b50034a
+tremorhub.com, my4am-inagk, RESELLER, 1a4e959a1b50034a
+freewheel.tv, 766257, DIRECT 
+freewheel.tv, 767505, RESELLER 
+
+# Pinetree
+
+freewheel.tv, 985025, RESELLER
+freewheel.tv, 985041, RESELLER
+
+#end

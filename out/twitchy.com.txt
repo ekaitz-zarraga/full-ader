@@ -1,0 +1,57 @@
+# Ads.txt file for twitchy.com:
+
+google.com, pub-3522377144365482, DIRECT, f08c47fec0942fa0
+openx.com, 537109697 , DIRECT, 6a698e2ec38604c6
+openx.com, 537109117, DIRECT, 6a698e2ec38604c6
+facebook.com, 205594686609874, DIRECT
+appnexus.com, 6893, DIRECT
+c.amazon-adsystem.com, 3281, DIRECT
+triplelift.com, 979, DIRECT
+liveintent.com, 6150, DIRECT
+rubiconproject.com, 7685, DIRECT, 0bfd66d529a55807
+rhythmone.com, 2388200728,DIRECT,a670c89d4a324e47
+rhythmone.com,3600445199,DIRECT,a670c89d4a324e47
+1rx.io,3600445199,DIRECT,a670c89d4a324e47
+districtm.io, 100478, DIRECT
+appnexus.com, 1908, RESELLER
+google.com, pub-9450655209824617, DIRECT, f08c47fec0942fa0
+indexexchange.com, 186342, DIRECT
+openx.com, 538995729, DIRECT, 6a698e2ec38604c6
+openx.com, 537106011, DIRECT, 6a698e2ec38604c6
+pubmatic.com, 156540, DIRECT, 5d62403b186f2ace
+gumgum.com, 11645, RESELLER, ffdef49475d318a9
+sovrn.com, 92917, DIRECT, fafdf38b16bf6b2b
+lijit.com, 92917, DIRECT, fafdf38b16bf6b2
+openx.com, 537120960, RESELLER
+openx.com, 83499, RESELLER
+openx.com, 538959099, RESELLER
+pubmatic.com, 137711, RESELLER
+pubmatic.com, 156212, RESELLER
+pubmatic.com, 62483, RESELLER
+pubmatic.com, 156700, RESELLER
+pubmatic.com, 156799, DIRECT, 5d62403b186f2ace
+rubiconproject.com, 17720, DIRECT, 0bfd66d529a55807
+districtm.io, 100982, DIRECT
+appnexus.com, 1908, RESELLER, f5ab79cb980f11d1
+revcontent.com, 87683, DIRECT
+revcontent.com, 97136, DIRECT
+appnexus.com, 7666, DIRECT, f5ab79cb980f11d1
+rubiconproject.com, 156042, DIRECT, 0bfd66d529a55807
+teads.tv, 11503, DIRECT, 15a9c44f6d26cbe1
+appnexus.com, 1314, Reseller
+#verizonmedia
+adtech.com, 11638, DIRECT, e1a5b5b6e3255540
+coxmt.com, 2000067907202, RESELLER
+pubmatic.com, 156078, RESELLER #banner
+pubmatic.com, 156377, RESELLER, 5d62403b186f2ace
+openx.com, 537143344, RESELLER #banner
+indexexchange.com, 175407, RESELLER, 50b1c356f2c5c8fc
+#sovrn
+sovrn.com, 267533, DIRECT, fafdf38b16bf6b2b
+lijit.com, 267533, DIRECT, fafdf38b16bf6b2b
+media.net, 8CU52756X, DIRECT
+
+aps.amazon.com,3281,DIRECT
+openx.com,539504380,DIRECT,6a698e2ec38604c6
+contextweb.com,561378,DIRECT,89ff185a4c4e857c
+rhythmone.com,DIRECT,a670c89d4a324e47

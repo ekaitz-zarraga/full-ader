@@ -1,0 +1,5 @@
+# Morningstar ads.txt
+#
+# Morningstar's inventory cannot be purchased programmatically through
+# open exchanges,Supply Side Platform (SSPs) and ad networks. Therefore there are no authorized sellers or resellers
+# listed in this Morningstar ads.txt file.

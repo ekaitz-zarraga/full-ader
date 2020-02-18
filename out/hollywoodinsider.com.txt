@@ -1,0 +1,8 @@
+#Hollywood Insider ads.txt file
+#Updated 11-14-19
+
+#AdSense
+google.com, pub-7762934375913878, DIRECT, f08c47fec0942fa0
+
+#AdX
+google.com, pub-6106275568692252, DIRECT, f08c47fec0942fa0

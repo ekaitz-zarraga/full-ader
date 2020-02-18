@@ -1,0 +1,79 @@
+amazon.com, 3087, DIRECT
+adtech.com, 9977, DIRECT
+adtech.com, 12080, DIRECT
+advertising.com, 26154, RESELLER
+advertising.com, 26282, RESELLER
+advertising.com, 28038, RESELLER
+advertising.com, 7382, DIRECT
+aolcloud.net, 9977, DIRECT
+aol.com, 3823, DIRECT
+appnexus.com, 7286, DIRECT
+appnexus.com, 1908, RESELLER, f5ab79cb980f11d1
+appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
+beachfront.com, 12943, DIRECT, e2541279e8e2ca4d
+beachfront.com, 4969, RESELLER, e2541279e8e2ca4d
+contextweb.com, 561962, direct, 89ff185a4c4e857c
+contextweb.com, 560436, DIRECT, 89ff185a4c4e857c
+contextweb.com, 561910, RESELLER, 89ff185a4c4e857c
+districtm.io, 100585, DIRECT, 3fd707be9c4527c3
+districtm.io, 101856, DIRECT, 3fd707be9c4527c3
+facebook.com , 121809668353024, DIRECT
+facebook.com , 1823097954622667, DIRECT
+facebook.com , 1685884828400497, DIRECT
+facebook.com , 1007833782615811, DIRECT
+facebook.com , 361830114177434, DIRECT
+facebook.com , 182586595502311, DIRECT
+facebook.com , 173602323077378, DIRECT
+facebook.com , 1835714876710711, DIRECT
+facebook.com , 1214402841935937, DIRECT
+facebook.com , 1786503688300502, DIRECT
+facebook.com , 1725473011052643, DIRECT
+facebook.com , 963237503799412, DIRECT
+freewheel.tv, 741650, RESELLER
+freewheel.tv, 917825, RESELLER
+google.com, pub-1336637907932433, DIRECT, f08c47fec0942fa0
+indexexchange.com, 183787, DIRECT
+indexexchange.com, 184580, DIRECT
+liveintent.com, 42848, DIRECT
+lkqd.net, 450, RESELLER, 59c49fa9598a0117
+lkqd.net, 574, DIRECT, 59c49fa9598a0117
+media.net, 8CU84B6WC, Direct
+openx.com, 537152647, DIRECT, a698e2ec38604c6
+openx.com, 537150855, DIRECT, a698e2ec38604c6
+openx.com, 537150855, DIRECT, 6a698e2ec38604c6
+openx.com, 540393169, RESELLER, 6a698e2ec38604c6
+openx.com, 540428378, DIRECT, 6a698e2ec38604c6
+openx.com, 540454059, RESELLER, 6a698e2ec38604c6
+openx.com, 540634630, DIRECT, 6a698e2ec38604c6
+openx.com, 540704893, DIRECT, 6a698e2ec38604c6
+outbrain.com, 0085d893db545a791e517c7defcb01d918, DIRECT
+pubmatic.com, 157310, RESELLER, 5d62403b186f2ace:
+pubmatic.com, 157880, DIRECT, 5d62403b186f2ace
+rhythmone.com, 3064725697, DIRECT, a670c89d4a324e47
+rhythmone.com, 4191622739, DIRECT, a670c89d4a324e47
+rubiconproject.com, 13116, DIRECT, 0bfd66d529a55807
+rubiconproject.com, 17130, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 19668, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 17740, DIRECT, 0bfd66d529a55807
+smaato.com, 1100034532, DIRECT
+spotx.tv, 239712, DIRECT, 7842df1d2fe2db34
+spotx.tv, 238936, RESELLER, 7842df1d2fe2db34
+spotx.tv, 239904, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 239712, DIRECT, 7842df1d2fe2db34
+spotxchange.com, 225721, RESELLER
+spotxchange.com, 238936, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 239904, RESELLER, 7842df1d2fe2db34
+springserve.com, 923, DIRECT, a24eb641fc82e93d
+synacor.com, 82101, DIRECT, e108f11b2cdf7d5b
+teads.tv, 12728, DIRECT, 15a9c44f6d26cbe1
+teads.tv, 12729, DIRECT, 15a9c44f6d26cbe1
+teads.tv, 13494, DIRECT, 15a9c44f6d26cbe1
+teads.tv, 13791, DIRECT, 15a9c44f6d26cbe1
+teads.tv, 15429, RESELLER, 15a9c44f6d26cbe1
+yieldmo.com, 865880052654087357, DIRECT
+triplelift.com, 3405, DIRECT, 6c33edb13117fd86
+tremorhub.com, ido8d-h8toy, DIRECT, 1a4e959a1b50034a
+tremorhub.com, ido8d-nld4e, DIRECT, 1a4e959a1b50034a
+tremorhub.com, q017o-78mlk, RESELLER, 1a4e959a1b50034a
+telaria.com, ido8d-nld4e, DIRECT, 1a4e959a1b50034a
+telaria.com, ido8d-h8toy, DIRECT, 1a4e959a1b50034a

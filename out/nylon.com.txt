@@ -1,0 +1,71 @@
+# https://iabtechlab.com/ads-txt/
+# https://iabtechlab.com/wp-content/uploads/2017/09/IABOpenRTB_Ads.txt_Public_Spec_V1-0-1.pdf
+
+contact=programmatic@bustle.com
+
+adtech.com, 10112, DIRECT
+adtech.com, 11694, DIRECT, e1a5b5b6e3255540
+aolcloud.net, 10112, DIRECT
+appnexus.com, 3628, RESELLER
+appnexus.com, 7290, RESELLER
+appnexus.com, 8951, DIRECT
+aps.amazon.com, 3092, DIRECT
+aps.amazon.com, 3092, DIRECT
+beachfront.com, 12075, DIRECT, e2541279e8e2ca4d
+connatix.com, 101604, DIRECT
+coxmt.com, 2000068026402, DIRECT
+facebook.com, 145357566095928, DIRECT
+facebook.com, 165867320820831, DIRECT
+facebook.com, 1882130522104449, DIRECT
+facebook.com, 191110434785542, DIRECT
+facebook.com, 1952264588431457, DIRECT
+facebook.com, 360715377709473, DIRECT
+facebook.com, 547820152231871, DIRECT
+facebook.com, 559083390911901, DIRECT
+facebook.com, 861258377369086, DIRECT
+freeskreen.com, 42, DIRECT, fe119a6acfd19070
+google.com, pub-1011508009856018, RESELLER, f08c47fec0942fa0
+google.com, pub-2539266009763610, DIRECT, f08c47fec0942fa0
+google.com, pub-3746578658400510, RESELLER, f08c47fec0942fa0
+google.com, pub-4907715637051615, DIRECT, f08c47fec0942fa0
+google.com, pub-3965079426703496, DIRECT, f08c47fec0942fa0 #cueebda
+gumgum.com, 12209, DIRECT, ffdef49475d318a9
+indexexchange.com, 184081, RESELLER
+indexexchange.com, 184341, DIRECT
+indexexchange.com, 184955, DIRECT
+indexexchange.com, 185292, RESELLER
+indexexchange.com, 187848, RESELLER, 50b1c356f2c5c8fc
+# bouncex/indexexchange
+indexexchange.com, 183753, RESELLER
+kargo.com, 121, DIRECT
+lijit.com, 220327, DIRECT, fafdf38b16bf6b2b
+lkqd.net, 504, RESELLER, 59c49fa9598a0117
+Media.net, 8CUI7DMUQ, Direct
+openx.com, 539266180, DIRECT, 6a698e2ec38604c6
+openx.com, 539364098, DIRECT, 6a698e2ec38604c6
+openx.com, 540368071, RESELLER, 6a698e2ec38604c6
+# bouncex/pubmatic
+pubmatic.com, 156512, RESELLER
+quantum-advertising.com, 3159, DIRECT
+quantum-advertising.com, 3198, DIRECT
+quantum-advertising.com, 3247, DIRECT
+rhythmone.com, 3281949690, DIRECT, a670c89d4a324e47
+rubiconproject.com, 14904, RESELLER
+rubiconproject.com, 17674, DIRECT, 0bfd66d529a55807
+rubiconproject.com, 18994, DIRECT, 0bfd66d529a55807
+rubiconproject.com, 17652, DIRECT, 0bfd66d529a55807
+sabio.us, 100010, DIRECT, 96ed93aaa9795702
+sharethrough.com, 70768515, DIRECT, d53b998a7bd4ecd2
+slimcut.media, 42, DIRECT, fe119a6acfd19070
+smaato.com, 1100036243, DIRECT
+sonobi.com, 9cb8e37392, DIRECT, d1a215d9eb5aee9e
+sovrn.com, 220327, DIRECT, fafdf38b16bf6b2b
+spotx.tv, 228454, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 228454, RESELLER, 7842df1d2fe2db34
+teads.tv, 15646, DIRECT, 15a9c44f6d26cbe1
+tremorhub.com, wmei1-c5vh2, DIRECT, 1a4e959a1b50034a
+yieldmo.com, 2059388965509301253, DIRECT
+undertone.com, 3287, DIRECT
+
+triplelift.com, 874, DIRECT, 6c33edb13117fd86
+criteo.com, 166000, DIRECT

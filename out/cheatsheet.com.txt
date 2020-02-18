@@ -1,0 +1,87 @@
+# CHEATSHEET.COM 
+# Version 5.7
+
+# Google
+google.com, pub-7492497930635617, DIRECT
+google.com, pub-3333382202929414, DIRECT
+
+
+# AOL
+adtech.com, 9983,DIRECT
+
+
+# Appnexus
+appnexus.com, 4051, DIRECT
+
+
+# Index Exchange
+indexexchange.com, 184820, DIRECT
+indexexchange.com, 186874, DIRECT    #EB_ID
+
+
+# OpenX
+openx.com, 539318286, DIRECT, 6a698e2ec38604c6
+ 
+
+# Triplelift
+triplelift.com, 2698, DIRECT, 6c33edb13117fd86
+
+
+# Sharethrough
+sharethrough.com, 38e55eaa, DIRECT, d53b998a7bd4ecd2 
+indexexchange.com, 186046, RESELLER 
+spotxchange.com, 212457, RESELLER 
+spotx.tv, 212457, RESELLER 
+pubmatic.com, 156557, RESELLER 
+rubiconproject.com, 18694, RESELLER, 0bfd66d529a55807 
+openx.com, 540274407, RESELLER, 6a698e2ec38604c6
+
+
+# Rubicon
+rubiconproject.com, 10585, DIRECT, 0bfd66d529a55807
+rubiconproject.com, 18088, DIRECT, 0bfd66d529a55807    #EB_ID
+
+
+# YieldMo
+yieldmo.com, 2264629300026836041, DIRECT    #EB_ID
+yieldmo.com, 648919586943213508, DIRECT
+rubiconproject.com, 17070, RESELLER, 0bfd66d529a55807
+appnexus.com, 7911, RESELLER
+
+
+# Sovrn
+sovrn.com, 258702, DIRECT, fafdf38b16bf6b2b
+lijit.com, 258702, DIRECT, fafdf38b16bf6b2b
+lijit.com, 258702-eb, DIRECT, fafdf38b16bf6b2b    #EB_ID
+gumgum.com, 11645, RESELLER, ffdef49475d318a9
+
+
+# BounceX
+behave.com, 1007, DIRECT
+indexexchange.com, 183753, RESELLER
+pubmatic.com, 156512, RESELLER
+pubmatic.com, 156565, RESELLER
+
+
+# RhythmOne
+rhythmone.com,  1308391225, DIRECT, a670c89d4a324e47
+
+
+# PubMatic
+pubmatic.com, 157264, DIRECT, 5d62403b186f2ace    #EB_ID
+pubmatic.com, 158480, DIRECT, 5d62403b186f2ace
+
+
+# District M
+districtm.io, 101701, DIRECT 
+appnexus.com, 1908, RESELLER, f5ab79cb980f11d1
+Conversantmedia.com, 40886, RESELLER
+
+
+# Sonobi
+sonobi.com, 2e1b42aa08, DIRECT, d1a215d9eb5aee9e
+contextweb.com, 560606, RESELLER, 89ff185a4c4e857c
+
+
+#Facebook
+facebook.com, 355740911571485, DIRECT

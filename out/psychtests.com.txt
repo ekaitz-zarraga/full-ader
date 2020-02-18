@@ -1,0 +1,9 @@
+subdomain=testyourself.psychtests.com
+subdomain=psychologytoday.psychtests.com
+subdomain=psychologytoday.tests.psychtests.com
+google.com, pub-2051007210431666, RESELLER, f08c47fec0942fa0
+google.com, pub-3406605080325507, DIRECT, f08c47fec0942fa0
+google.com, pub-6217861536120133, DIRECT, f08c47fec0942fa0
+google.com, pub-0521848186422428, RESELLER, f08c47fec0942fa0
+google.com, pub-7536409460616669, DIRECT, f08c47fec0942fa0
+

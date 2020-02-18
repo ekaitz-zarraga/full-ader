@@ -1,0 +1,65 @@
+#us
+amazon-adsystem.com, 1004, DIRECT
+adtech.com, 9538, DIRECT
+aolcloud.net, 9538, DIRECT
+appnexus.com, 7290, RESELLER
+beachfront.com, 12739, DIRECT, e2541279e8e2ca4d
+behave.com,1237, DIRECT
+rubiconproject.com, 10738, DIRECT, 0bfd66d529a55807
+criteo.com, 137482, DIRECT
+appnexus.com, 2678, DIRECT, f5ab79cb980f11d1
+appnexus.com, 1314, RESELLER, 6c33edb13117fd86 
+coxmt.com, 2000068019502, DIRECT
+indexexchange.com, 184272, DIRECT
+indexexchange.com, 182970, DIRECT
+indexexchange.com, 189263, RESELLER
+indexexchange.com, 183753, RESELLER
+Openx.com, 537108601, DIRECT
+Openx.com, 537150861, DIRECT
+facebook.com, 115862191798713, DIRECT
+google.com, pub-9867995726204524, DIRECT, f08c47fec0942fa0
+EMXDGT.com, 259, DIRECT, 1e1d41537f7cad7f
+Media.net, 8CU5838ZI, DIRECT
+pubmatic.com, 81564, DIRECT, 5d62403b186f2ace
+pubmatic.com, 156439, DIRECT
+pubmatic.com, 157208, DIRECT, 5d62403b186f2ace
+google.com, pub-1106337062030359, DIRECT, f08c47fec0942fa0
+rubiconproject.com, 17756, DIRECT, 0bfd66d529a55807
+triplelift.com, 952, DIRECT, 6c33edb13117fd86
+trustx.org, 40, DIRECT
+brightcom.com, 15800, DIRECT
+33across.com, 0013300001qkdlwAAA, DIRECT
+rubiconproject.com, 18034, DIRECT, 0bfd66d529a55807
+google.com, pub-5231479214411897, DIRECT, f08c47fec0942fa0
+google.com, pub-4207323757133151, DIRECT
+google.com, pub-2544690397925674, DIRECT
+EMXDGT.com, 998, DIRECT, 1e1d41537f7cad7f
+yieldmo.com, 2184047240489370753, DIRECT
+yieldmo.com, 2184047424703202434, DIRECT
+taboola.com,1194714,DIRECT,c228e6794e811952
+spotx.tv,71451,RESELLER
+spotxchange.com, 71451, RESELLER
+spotxchange.com, 271024, DIRECT, 7842df1d2fe2db34
+spotx.tv, 271024, DIRECT, 7842df1d2fe2db34
+advertising.com, 8603, RESELLER
+pubmatic.com, 156307, RESELLER, 5d62403b186f2ace
+appnexus.com, 3364, RESELLER
+Indexexchange.com, 183756, RESELLER
+contextweb.com, 560382, RESELLER
+openx.com, 539154393, RESELLER
+tremorhub.com, z87wm, RESELLER, 1a4e959a1b50034a
+rubiconproject.com, 16698, RESELLER, 0bfd66d529a55807
+freewheel.tv, 799841, RESELLER 
+freewheel.tv, 799921, RESELLER 
+aol.com, 53392, RESELLER 
+rhythmone.com, 1166984029, RESELLER, a670c89d4a324e47
+indexexchange.com, 189263, DIRECT
+vdopia.com, 14517, DIRECT, 49a66ce31a704197 #video
+chocolateplatform.com, 14517, DIRECT, 49a66ce31a704197 #video
+vdopia.com, 14517, DIRECT, 49a66ce31a704197 #banner
+chocolateplatform.com, 14517, DIRECT, 49a66ce31a704197 #banner
+Advertising.com, 28319, DIRECT
+smartadserver.com, 3563, RESELLER 
+beachfront.com, 13749, RESELLER, e2541279e8e2ca4d 
+advertising.com, 28458, RESELLER 
+admanmedia.com, 556, RESELLER

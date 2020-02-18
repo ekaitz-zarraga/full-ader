@@ -1,0 +1,2 @@
+# Leave this file to prevent logging 404s for it
+# https://iabtechlab.com/ads-txt/

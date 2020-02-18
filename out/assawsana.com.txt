@@ -1,0 +1,33 @@
+google.com, pub-5468888095965973, DIRECT, f08c47fec0942fa0 
+google.com, pub-5272284855100638, DIRECT, f08c47fec0942fa0 
+
+# RESELLERS
+
+google.com, pub-0053887689126036, RESELLER, f08c47fec0942fa0
+exponential.com, 178080, DIRECT, afac06385c445926
+tribalfusion.com, 178080, DIRECT, afac06385c445926
+indexexchange.com, 176280, RESELLER, 50b1c356f2c5c8fc
+google.com, pub-2051007210431666, RESELLER, f08c47fec0942fa0
+google.com, pub-9611340043830472, RESELLER, f08c47fec0942fa0
+rubiconproject.com, 11012, RESELLER, 0bfd66d529a55807
+freewheel.tv, 854081, DIRECT
+freewheel.tv, 854097, RESELLER
+google.com, pub-9422585382673566, RESELLER, f08c47fec0942fa0
+google.com, pub-7160968900170537, RESELLER, f08c47fec0942fa0
+google.com, pub-5454875279695201, RESELLER, f08c47fec0942fa0
+google.com, pub-3992393056167515, RESELLER, f08c47fec0942fa0 
+google.com, pub-5610649146674306, RESELLER, f08c47fec0942fa0
+google.com, pub-7104543801500968, RESELLER, f08c47fec0942fa0
+google.com, pub-9611340043830472, RESELLER, f08c47fec0942fa0
+rubiconproject.com, 20382, RESELLER, 0bfd66d529a55807
+google.com, pub-1386280613967939, RESELLER, f08c47fec0942fa0
+google.com, pub-1753426448515775, RESELLER, f08c47fec0942fa0
+google.com, pub-7194514994057946, RESELLER, f08c47fec0942fa0
+google.com, pub-3316655316254741, RESELLER, f08c47fec0942fa0
+freewheel.tv, 983153, DIRECT
+freewheel.tv, 983169, RESELLER
+freewheel.tv, 856753, DIRECT
+freewheel.tv, 856769, RESELLER
+spotx.tv, 71426, DIRECT, 7842df1d2fe2db34
+645055022, RESELLER, f08c47fec0942fa0
+appnexus.com, 983, RESELLER

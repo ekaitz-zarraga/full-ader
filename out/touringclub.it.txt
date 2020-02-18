@@ -1,0 +1,85 @@
+smartadserver.com, 2612, RESELLER
+google.com, pub-2526244436744322, RESELLER, f08c47fec0942fa0
+rubiconproject.com, 12302, RESELLER, 0bfd66d529a55807
+freewheel.tv, 30865, RESELLER
+freewheel.tv, 31221, RESELLER
+adform.com, 1740, RESELLER
+teads.tv, 10920, RESELLER, 15a9c44f6d26cbe1
+addoor.net, 381, RESELLER
+appnexus.com, 2579, RESELLER
+quantum-advertising.com, 1888, RESELLER 
+adform.com, 2042, RESELLER, 9f5210a2f0999e32
+pubmatic.com, 156508, RESELLER, 5d62403b186f2ace
+
+#Viralize
+freewheel.tv, 13755, RESELLER
+freewheel.tv, 24253, RESELLER
+freewheel.tv, 201681, RESELLER
+freewheel.tv, 325537, RESELLER
+freewheel.tv, 328705, RESELLER
+freewheel.tv, 328737, RESELLER
+freewheel.tv, 330081, RESELLER
+freewheel.tv, 13945, RESELLER
+freewheel.tv, 24269, RESELLER
+freewheel.tv, 201689, RESELLER
+freewheel.tv, 325553, RESELLER
+freewheel.tv, 328721, RESELLER
+freewheel.tv, 328753, RESELLER
+freewheel.tv, 330097, RESELLER
+pubmatic.com, 156035, RESELLER, 5d62403b186f2ace
+pubmatic.com, 120391, RESELLER, 5d62403b186f2ace
+smartadserver.com, 2058, RESELLER
+smartadserver.com, 2819, RESELLER
+adform.com, 1819, RESELLER
+adform.com, 2070, RESELLER, 9f5210a2f0999e32
+improvedigital.com, 907, RESELLER
+improvedigital.com, 1057, RESELLER
+rubiconproject.com, 16568, RESELLER, 0bfd66d529a55807
+google.com, pub-7538555282033458, RESELLER, f08c47fec0942fa0
+spotxchange.com, 146631, RESELLER, 7842df1d2fe2db34
+spotx.tv, 146631, RESELLER, 7842df1d2fe2db34
+onetag.com, 38980b46b0, RESELLER
+tremorhub.com, 0cc6w-h2tvh, RESELLER, 1a4e959a1b50034a
+tremorhub.com, 0cc6w-stphr, RESELLER, 1a4e959a1b50034a
+appnexus.com, 2025, RESELLER, f5ab79cb980f11d1
+advertising.com, 20965, RESELLER
+advertising.com, 24324, RESELLER
+tidaltv.com, 31001, RESELLER
+tidaltv.com, 35995, RESELLER
+adtech.com, 11262, RESELLER
+
+#Seedtag
+appnexus.com, 4009, RESELLER #ST1
+tremorhub.com, s2t3y-r3ofd, RESELLER, 1a4e959a1b50034a #ST1
+smartadserver.com, 2699, RESELLER #ST1
+smartadserver.com, 2938, RESELLER #ST1
+richaudience.com, ns9qrKJLKD, RESELLER #ST1
+advertising.com, 23286, RESELLER #ST1
+tidaltv.com, 5150,RESELLER #ST1
+tidaltv.com, 4764,RESELLER #ST1								
+indexexchange.com, 179394, RESELLER #smart,seedtag #ST2
+contextweb.com, 560288, RESELLER #smart,seedtag #ST2
+pubmatic.com, 114634, RESELLER #ST3				 	 		
+pubmatic.com, 81564, RESELLER, 5d62403b186f2ace #ST3	   	 			
+pubmatic.com, 156241, RESELLER #ST3	    				 	 	
+rubiconproject.com, 13510, RESELLER #ST3	   				 	
+spotxchange.com, 173177, RESELLER #ST3	
+spotxchange.com, 173175, RESELLER #ST3	
+fyber.com, 02d54c63f17ab1407e1ab9bf16aa883c, RESELLER #ST3
+fyber.com, 70f8ec805088dbbfd73d8c68ee47bbfc, RESELLER #ST3
+indexexchange.com, 179394, RESELLER #ST3
+adform.com, 1942, RESELLER #ST3							
+adform.com, 1941, RESELLER #ST3								
+adtech.com, 4687, RESELLER #ST3								
+advertising.com, 7574, RESELLER #ST3							
+aerserv.com, 2750, RESELLER #ST3							
+google.com, pub-4673227357197067, RESELLER, f08c47fec0942fa0 #ST3		
+lijit.com, 249425, RESELLER #ST3			
+mobfox.com, 45499, RESELLER	#ST3					
+mobfox.com, 74240, RESELLER	#ST3							
+pulsepoint.com, 560520, RESELLER #ST3							
+sovrn.com, 249425, RESELLER	#ST3						
+pubmatic.com, 114634, RESELLER #ST3   				 	 		
+pubmatic.com, 81564, DIRECT, 5d62403b186f2ace  #ST3  	 		
+pubmatic.com, 156241, RESELLER #ST3	 	 		
+rubiconproject.com, 13510, RESELLER #ST3

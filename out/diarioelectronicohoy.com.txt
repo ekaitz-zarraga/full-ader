@@ -1,0 +1,3 @@
+# Add your authorized adverts here, one per line - Have fun ;-), AdRotate Pro Support 
+# Domainname, Publisher ID, Type, Certificate Authority ID 
+google.com, pub-4764252726014241, DIRECT, f08c47fec0942fa0

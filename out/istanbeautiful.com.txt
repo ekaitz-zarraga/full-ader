@@ -1,0 +1,18 @@
+google.com, pub-2202553273116891, DIRECT, f08c47fec0942fa0
+
+#Ads.txt adbrainer.com
+#Ads.txt managed by AdsTxtManager.com - the free ads.txt management tool for publishers
+
+adbrainer.com, 16057, DIRECT
+adbrainer.com, 10646, RESELLER
+adform.com, 1762, RESELLER
+admixer.net, df654b6f-abac-430f-a67e-867b8ac0916b, DIRECT
+appnexus.com, 6953, RESELLER
+contextweb.com, 561623, RESELLER, 89ff185a4c4e857c
+google.com, pub-3379969116950199, RESELLER, f08c47fec0942fa0
+google.com, pub-3737030722290655, DIRECT, f08c47fec0942fa0
+google.com, pub-6032120848802963, DIRECT, f08c47fec0942fa0
+google.com, pub-8834194653550774, RESELLER, f08c47fec0942fa0
+mgid.com, 57005773, DIRECT
+smartadserver.com, 1994, RESELLER
+smartyads.com, 16, RESELLER

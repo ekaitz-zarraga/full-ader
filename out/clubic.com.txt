@@ -1,0 +1,59 @@
+#CLUBIC Google
+google.com,pub-1777637103175953, DIRECT, f08c47fec0942fa0
+google.com, pub-9540567666833588, DIRECT, f08c47fec0942fa0
+google.com, pub-9540567666833588, RESELLER, f08c47fec0942fa0
+
+#CLUBIC Rubicon
+rubiconproject.com,19728,DIRECT, 0bfd66d529a55807
+
+#CLUBIC Outbrain
+outbrain.com, 009deaf8200f9482e60143ae8a41c10901, DIRECT
+outbrain.com, 009deaf8200f9482e60143ae8a41c10901, RESELLER
+appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
+tremorhub.com, q017o-78mlk, RESELLER, 1a4e959a1b50034a # Premium video demand aka "Telaria"
+teads.tv, 15429, RESELLER, 15a9c44f6d26cbe1 # Premium video demand
+advertising.com, 26154, RESELLER # Premium video demand
+spotxchange.com, 225721, RESELLER, 7842df1d2fe2db34 # Premium video demand
+freewheel.tv, 741650, RESELLER # Premium video demand
+
+#CLUBIC Adyoulike
+adyoulike.com, 70a38b9ffad62725dd1f058e8158e8c0, DIRECT, 4ad745ead2958bf7
+
+#CLUBIC Ligatus
+ligadx.com, 1638, DIRECT
+ligadx.com, 63ccce2776581f29, DIRECT
+spotxchange.com, 206177, RESELLER, 7842df1d2fe2db34
+spotx.tv,206177, RESELLER, 7842df1d2fe2db34
+appnexus.com, 3723, DIRECT, f5ab79cb980f11d1
+
+#CLUBIC Teads
+teads.tv, 15690, DIRECT, 15a9c44f6d26cbe1
+
+#CLUBIC MediaSquare
+rubiconproject.com, 9585, RESELLER, 0bfd66d529a55807
+appnexus.com, 1608, RESELLER, f5ab79cb980f11d1
+appnexus.com, 3500, RESELLER, f5ab79cb980f11d1
+appnexus.com, 8494, RESELLER, f5ab79cb980f11d1
+indexexchange.com, 187149, DIRECT, 50b1c356f2c5c8fc
+
+#Added 22/02/2019
+rubiconproject.com, 14062, RESELLER, 0bfd66d529a55807
+
+#Added 22/03/2019
+appnexus.com, 10624, DIRECT
+
+#Added 03/06/2019
+rubiconproject.com, 20336, RESELLER, 0bfd66d529a55807
+
+#Added 11/06/2019
+teads.tv, 18514, DIRECT, 15a9c44f6d26cbe1
+
+#Added 13/06/2019
+smartadserver.com,3379, DIRECT
+teads.tv,18514,DIRECT,15a9c44f6d26cbe1
+
+#Amazon 09/08/2019
+aps.amazon.com, 3799, DIRECT
+
+#Improve Digital Opti Digital
+improvedigital.com,1469,RESELLER

@@ -1,0 +1,11 @@
+﻿#Ads.txt dicasdetreino.com.br
+google.com, pub-0848232631276100, DIRECT, f08c47fec0942fa0
+
+#Ads.txt Parceiros - R7.com
+google.com, pub-2711925174938129, RESELLER, f08c47fec0942fa0
+
+#EB R7
+rubiconproject.com, 17788, DIRECT, 0bfd66d529a55807
+
+#R7COM - Rubicon
+rubiconproject.com, 15284, DIRECT, 0bfd66d529a55807

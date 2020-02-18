@@ -1,0 +1,28 @@
+#< SSP/Exchange Domain >, < SellerAccountID >, < PaymentsType >, < TAGID >
+google.com,pub-6255258779817355,Direct,f08c47fec0942fa0
+amazon.com,a2a95838-7376-4a06-9d2f-9433973a4412,Direct
+criteo.com,1361784,Direct
+criteo.com,1361786,Direct
+criteo.com,1361785,Direct
+criteo.com,1361787,Direct
+media.net,8CU1AV018,Direct
+doubleclick.net,9461283,Reseller
+#openx.com,,Reseller
+#Rubicon
+rubiconproject.com,17054,RESELLER
+rubiconproject.com,19396,RESELLER
+rubiconproject.com,19398,DIRECT,0bfd66d529a5580 
+#DMX
+districtm.io,100600,Direct
+#PubMatic
+Pubmatic.com,157599,Direct
+Pubmatic.com,157291,RESELLER
+Pubmatic.com,157599,RESELLER
+#Google
+Google.com,pub-7439041255533808,RESELLER
+#AppNexus, ClickPerformance
+appnexus.com,3702,RESELLER,f5ab79cb980f11d1
+google.com,pub-4487495208460685,RESELLER,f08c47fec0942fa0
+google.com,pub-4566592844615097,RESELLER,f08c47fec0942fa0
+improvedigital.com, 1260, RESELLER
+indexexchange.com, 189894, DIRECT

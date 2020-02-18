@@ -1,0 +1,105 @@
+adform.com, 2078, RESELLER
+adform.com, 716, DIRECT
+adform.com, 716, RESELLER
+adtech.com, 4538, DIRECT
+adtech.com, 4538, RESELLER
+advertising.com, 18807, DIRECT
+advertising.com, 18807, RESELLER
+advertising.com, 24410, RESELLER
+advertising.com, 7372, RESELLER
+advertising.com, 8839, RESELLER
+aol.com, 5000000419, DIRECT
+aol.com, 5000000419, RESELLER
+Appnexus.com, 1356, RESELLER
+appnexus.com, 1360, RESELLER, f5ab79cb980f11d1
+appnexus.com, 1371, DIRECT
+appnexus.com, 1908, RESELLER, f5ab79cb980f11d1
+Appnexus.com, 1940, RESELLER
+appnexus.com, 4003, DIRECT
+appnexus.com, 4003, RESELLER
+appnexus.com,3741,RESELLER
+beachfront.com, beachfront_6697, RESELLER
+contextweb.com, 558609, RESELLER
+contextweb.com, 561365, RESELLER
+criteo.com, 15826, DIRECT
+criteo.com, 15826, RESELLER
+districtm.io, 101359, RESELLER
+EMXDGT.com, 63, RESELLER
+freewheel.tv, 19129, RESELLER
+freewheel.tv, 19133, RESELLER
+freewheel.tv, 214794, RESELLER
+freewheel.tv, 214818,RESELLER
+freewheel.tv, 214890,RESELLER
+freewheel.tv, 214898, RESELLER
+fyber.com, 5a946c791dc75e859c62e389550919a9, RESELLER
+fyber.com, 8c72b775ece1187612d649451e811de2, RESELLER
+fyber.com,092ce2daba15b9375f94ebbb25fb7feb,RESELLER
+google.com, 7443704194229694, RESELLER
+google.com, pub-1274416353693598, DIRECT
+google.com, pub-1274416353693598, RESELLER
+google.com, pub-1420484732098233, DIRECT, f08c47fec0942fa0
+google.com, pub-6168251844140566, DIRECT
+google.com, pub-8813347375005258, DIRECT
+gumgum.com, 11645, RESELLER, ffdef49475d318a9
+improvedigital.com, 1065, RESELLER
+indexexchange.com, 185039, DIRECT
+indexexchange.com, 185039, RESELLER
+indexexchange.com, 187595, RESELLER
+lijit.com, 249279, DIRECT, fafdf38b16bf6b2b
+lkqd.com, 244, RESELLER, 59c49fa9598a0117
+lkqd.net, 244, RESELLER, 59c49fa9598a0117
+openx.com, 537136242, DIRECT
+openx.com, 537136242, RESELLER
+openx.com, 537153574, DIRECT, 6a698e2ec38604c6
+openx.com, 538959099, RESELLER, 6a698e2ec38604c6
+openx.com, 539886081, DIRECT
+openx.com, 539924617, RESELLER, 6a698e2ec38604c6
+openx.com,537148817,RESELLER,6a698e2ec38604c6
+pubmatic.com, 137711, RESELLER, 5d62403b186f2ace
+pubmatic.com, 143828, RESELLER
+pubmatic.com, 156212, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156595, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156700, RESELLER, 5d62403b186f2ace
+pubmatic.com, 73726, DIRECT
+pubmatic.com, 73726, RESELLER
+rubiconproject.com, 11438, DIRECT
+rubiconproject.com, 16728, DIRECT
+rubiconproject.com, 16728, RESELLER
+rubiconproject.com, 17960, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 18470, RESELLER, 0bfd66d529a55807
+sekindo.com, 19360, DIRECT, b6b21d256ef43532
+smartadserver.com, 1595, RESELLER
+smartadserver.com, 2416, DIRECT
+smartadserver.com, 2416, RESELLER
+smartadserver.com, 2939, RESELLER
+smartclip.net, 7649, RESELLER
+sovrn.com, 249279, DIRECT, fafdf38b16bf6b2b
+spotx.tv, 100685, RESELLER, 7842df1d2fe2db34
+spotx.tv, 84294, RESELLER, 7842df1d2fe2db34
+spotx.tv,113481,RESELLER,7842df1d2fe2db34
+spotxchange.com, 100685, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 84294, RESELLER, 7842df1d2fe2db34
+spotxchange.com,113481,RESELLER,7842df1d2fe2db34
+stroeer.com, 17227, DIRECT
+tremorhub.com, mb9eo-oqsbf, RESELLER, 1a4e959a1b50034a
+yieldlab.net, 227224, RESELLER
+yieldlab.net, 62715, DIRECT
+yieldlab.net, 5798882, RESELLER
+google.com, pub-1320774679920841, RESELLER, f08c47fec0942fa0 
+loopme.com, 10520, RESELLER, 6c8d5f95897a5a3b 
+openx.com, 540258065, RESELLER, 6a698e2ec38604c6 
+pubmatic.com, 157248, RESELLER 
+spotx.tv, 220321, RESELLER, 7842df1d2fe2db34 
+spotxchange.com, 220321, RESELLER, 7842df1d2fe2db34
+pubmatic.com, 157487, DIRECT, 5d62403b186f2ace
+appnexus.com, 7944, RESELLER
+districtm.io, 101161, DIRECT
+openx.com, 540364076, RESELLER, 6a698e2ec38604c6
+appnexus.com, 1314, RESELLER
+lkqd.net, 504, RESELLER, 59c49fa9598a0117
+rubiconproject.com, 20568, DIRECT, 0bfd66d529a55807
+spotx.tv, 228454, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 228454, RESELLER, 7842df1d2fe2db34
+triplelift.com, 6006, DIRECT
+subdomain=nordbayern.immowelt.de
+subdomain=lkz.immowelt.de

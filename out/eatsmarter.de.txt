@@ -1,0 +1,111 @@
+# Ads.txt eatsmarter.de
+
+360yield.com, 185, RESELLER
+adform.com, 183, RESELLER
+appnexus.com, 3702, RESELLER
+appnexus.com, 3703, RESELLER, f5ab79cb980f11d1
+appnexus.com, 7118, RESELLER
+contextweb.com, 560288, RESELLER, 89ff185a4c4e857c
+contextweb.com, 561500, RESELLER, 89ff185a4c4e857c
+contextweb.com, 561510, DIRECT
+freewheel.tv, 33081, RESELLER
+freewheel.tv, 33601, RESELLER
+freewheel.tv, 204257, DIRECT
+freewheel.tv, 204265, RESELLER
+fyber.com,092ce2daba15b9375f94ebbb25fb7feb,RESELLER
+google.com, pub-2671258679073709, RESELLER, f08c47fec0942fa0
+google.com, pub-7009328784913632, DIRECT, f08c47fec0942fa0
+google.com, pub-8486036634842833, DIRECT
+google.com, pub-8572040456674904, RESELLER
+improvedigital.com, 185, RESELLER
+improvedigital.com, 1463, DIRECT
+indexexchange.com, 186836, DIRECT
+justpremium.com, 537117444, RESELLER, 6a698e2ec38604c6
+lijit.com, 257392, DIRECT
+openx.com, 537117297, RESELLER, 6a698e2ec38604c6
+openx.com, 537148817, DIRECT, 6a698e2ec38604c6
+openx.com, 537149888, RESELLER,6a698e2ec38604c6
+openx.com, 539246483, RESELLER, 6a698e2ec38604c6
+openx.com, 539518846, RESELLER, 6a698e2ec38604c6
+openx.com, 540269345, DIRECT, 6a698e2ec38604c6
+openx.com, 540447742, DIRECT, 6a698e2ec38604c6
+pubmatic.com, 154037, RESELLER
+pubmatic.com, 156439, RESELLER
+rubiconproject.com,16114,RESELLER,0bfd66d529a55807
+rubiconproject.com,16896,RESELLER,0bfd66d529a55807
+rubiconproject.com,19328,DIRECT,0bfd66d529a55807
+rubiconproject.com,19912,DIRECT,0bfd66d529a55807 #Rubicon EBDA
+smartadserver.com, 1363, RESELLER
+smartclip.net, 8239, RESELLER
+smartstream.tv, 5949,RESELLER
+smartstream.tv, 5951,RESELLER
+sovrn.com, 257392, DIRECT
+sovrn.com, 257611, RESELLER, fafdf38b16bf6b2b
+spotx.tv, 108933, RESELLER, 7842df1d2fe2db34
+spotx.tv, 113481, RESELLER, 7842df1d2fe2db34
+spotx.tv, 143892, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 108933, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 113481, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 143892, RESELLER, 7842df1d2fe2db34
+stroeer.com, 16539, RESELLER
+teads.tv, 17604, DIRECT, 15a9c44f6d26cbe1
+teads.tv, 8428, RESELLER, 15a9c44f6d26cbe1
+teads.tv, 9947, RESELLER, 15a9c44f6d26cbe1
+yieldlab.net, 5710, RESELLER
+yieldlab.net, 227224, RESELLER
+yieldlab.net, 506261, RESELLER
+yieldlab.net, 781119, RESELLER
+yieldlab.net, 851872, RESELLER
+yieldlab.net, 961276, RESELLER
+yieldlab.net, 2172218, RESELLER
+yieldlab.net, 2329165, RESELLER
+yieldlab.net, 2510891, RESELLER
+yieldlab.net, 5798882, RESELLER
+yieldlab.net, 6374282, RESELLER
+yieldlab.net, 9790691, DIRECT
+yoc.com, 5495, DIRECT
+
+# IndexExchange
+indexexchange.com, 189231, DIRECT #EBDA
+
+#sovrn
+sovrn.com, 263262, DIRECT, fafdf38b16bf6b2b
+lijit.com, 263262, DIRECT, fafdf38b16bf6b2b
+appnexus.com, 1360, RESELLER, f5ab79cb980f11d1
+gumgum.com, 11645, RESELLER, ffdef49475d318a9
+openx.com, 538959099, RESELLER, 6a698e2ec38604c6
+openx.com, 539924617, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 137711, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156212, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156700, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 17960, RESELLER, 0bfd66d529a55807
+
+#outbrain
+outbrain.com, 00b839554f79fc7c51b165a0c81ad19a25, DIRECT
+appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
+tremorhub.com, q017o-78mlk, RESELLER, 1a4e959a1b50034a # Premium video demand aka "Telaria"
+teads.tv, 15429, RESELLER, 15a9c44f6d26cbe1 # Premium video demand
+advertising.com, 26154, RESELLER # Premium video demand
+spotxchange.com, 225721, RESELLER # Premium video demand
+Freewheel.tv, 741650, RESELLER # Premium video demand
+rubiconproject.com, 17130, RESELLER, 0bfd66d529a55807 # Premium video demand
+lkqd.net, 450, RESELLER, 59c49fa9598a0117 # Premium video demand
+openx.com, 540393169, RESELLER, 6a698e2ec38604c6 # Premium video demand
+spotx.tv, 238936, RESELLER, 7842df1d2fe2db34 # Premium video demand
+spotxchange.com, 238936, RESELLER, 7842df1d2fe2db34 # Premium Video Demand
+advertising.com, 28038, RESELLER # Premium Video Demand
+rubiconproject.com, 19668, RESELLER, 0bfd66d529a55807
+
+# Amazon
+aps.amazon.com, 3606, DIRECT
+
+# Update 2020-01-20
+adyoulike.com, b4bf4fdd9b0b915f746f6747ff432bde, RESELLER
+districtm.io, 101760, RESELLER, 3fd707be9c4527c3
+loopme.com, s-2411, RESELLER, 6c8d5f95897a5a3b
+loopme.com, 5679, RESELLER, 6c8d5f95897a5a3b
+pubnative.net, 1006576, RESELLER, d641df8625486a7b
+rhythmone.com, 2564526802, RESELLER, a670c89d4a324e47
+smaato.com, 1100044045, RESELLER, 07bcf65f187117b4
+smartadserver.com, 3638, DIRECT
+xad.com, 958, RESELLER, 81cbf0a75a5e0e9a

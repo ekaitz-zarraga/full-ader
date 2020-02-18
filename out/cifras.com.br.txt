@@ -1,0 +1,193 @@
+﻿# Ads.txt Petaxxon
+
+#Google:
+google.com, pub-7237975001399897, DIRECT, f08c47fec0942fa0
+google.com, pub-1088960190202015, DIRECT, f08c47fec0942fa0
+google.com, pub-8667359301706579, DIRECT, f08c47fec0942fa0
+
+#VDO.ai
+vdo.ai, 956 , DIRECT
+google.com, pub-7094677798399606, RESELLER, f08c47fec0942fa0
+appnexus.com, 8148, RESELLER
+advertising.com, 25264, RESELLER
+beachfront.com, 12484, RESELLER, e2541279e8e2ca4d
+indexexchange.com, 189205, DIRECT, 50b1c356f2c5c8fc
+pubmatic.com, 158017, DIRECT, 5d62403b186f2ace
+
+#Exponential:
+exponential.com, 141590, DIRECT, afac06385c445926
+tribalfusion.com, 141590, DIRECT, afac06385c445926
+indexexchange.com, 176280, RESELLER, 50b1c356f2c5c8fc
+google.com, pub-2051007210431666, RESELLER, f08c47fec0942fa0
+
+#Grumft:
+google.com, pub-8327928897197923, RESELLER
+google.com, pub-4262827307746270, RESELLER
+google.com, pub-1735744167578327, RESELLER
+google.com, pub-5739535157675470, RESELLER
+
+#Cazamba
+google.com, pub-3816603096018897, RESELLER, f08c47fec0942fa0
+google.com, pub-5816236354341820, RESELLER, f08c47fec0942fa0
+
+#Teads.tv
+teads.tv, 12062, DIRECT, 15a9c44f6d26cbe1
+
+#No Beta
+google.com, pub-7782545053471182, DIRECT, f08c47fec0942fa0
+advertising.com, 27019, Reseller #Oath
+
+#Outbrain 1
+outbrain.com, 01c419f9634b6842c6d7b49a4e52946271, DIRECT
+outbrain.com, 01c419f9634b6842c6d7b49a4e52946271, RESELLER
+appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
+tremorhub.com, q017o-78mlk, RESELLER, 1a4e959a1b50034a # Outbrain outstream video
+advertising.com, 12624, RESELLER # Outbrain outstream video
+fyber.com, f2a848067b5fe77e73205e8024940cbf, RESELLER # Outbrain outstream video
+freewheel.tv, 484721, RESELLER # Outbrain outstream vídeo
+#Outbrain 2
+outbrain.com, 01afa5f4dd06a7c90fd6ff0c46679beb2a, DIRECT
+outbrain.com, 01afa5f4dd06a7c90fd6ff0c46679beb2a, RESELLER
+appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
+tremorhub.com, q017o-78mlk, RESELLER, 1a4e959a1b50034a # Outbrain outstream video
+advertising.com, 12624, RESELLER # Outbrain outstream video
+fyber.com, f2a848067b5fe77e73205e8024940cbf, RESELLER # Outbrain outstream video
+freewheel.tv, 484721, RESELLER # Outbrain outstream vídeo
+#Outbrain 3
+outbrain.com, 01d3cc5231812b2a8aa4515dea6d9b85a2, DIRECT
+outbrain.com, 01d3cc5231812b2a8aa4515dea6d9b85a2, RESELLER
+appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
+tremorhub.com, q017o-78mlk, RESELLER, 1a4e959a1b50034a # Outbrain outstream video
+advertising.com, 12624, RESELLER # Outbrain outstream video
+fyber.com, f2a848067b5fe77e73205e8024940cbf, RESELLER # Outbrain outstream video
+freewheel.tv, 484721, RESELLER # Outbrain outstream vídeo
+#Outbrain 4
+outbrain.com, 01bfac7eef2e4c6fe770f957939431400a, DIRECT
+outbrain.com, 01bfac7eef2e4c6fe770f957939431400a, RESELLER
+appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
+tremorhub.com, q017o-78mlk, RESELLER, 1a4e959a1b50034a # Outbrain outstream video
+advertising.com, 12624, RESELLER # Outbrain outstream video
+fyber.com, f2a848067b5fe77e73205e8024940cbf, RESELLER # Outbrain outstream video
+freewheel.tv, 484721, RESELLER # Outbrain outstream vídeo
+#Outbrain 5
+outbrain.com, 01facf725870125ce50d726f8970e203f3, DIRECT
+outbrain.com, 01facf725870125ce50d726f8970e203f3, RESELLER
+appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
+tremorhub.com, q017o-78mlk, RESELLER, 1a4e959a1b50034a # Outbrain outstream video
+advertising.com, 12624, RESELLER # Outbrain outstream video
+fyber.com, f2a848067b5fe77e73205e8024940cbf, RESELLER # Outbrain outstream video
+freewheel.tv, 484721, RESELLER # Outbrain outstream video
+#Outbrain Premium
+outbrain.com, 00b3fe2a5387e5dcbec134aa73aca4f1d3, DIRECT
+appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
+tremorhub.com, q017o-78mlk, RESELLER, 1a4e959a1b50034a # Premium video demand aka "Telaria"
+teads.tv, 15429, RESELLER, 15a9c44f6d26cbe1 # Premium video demand
+advertising.com, 26154, RESELLER # Premium video demand
+spotxchange.com, 225721, RESELLER # Premium video demand
+Freewheel.tv, 741650, RESELLER # Premium video demand
+rubiconproject.com, 17130, RESELLER, 0bfd66d529a55807 # Premium video demand
+lkqd.net, 450, RESELLER, 59c49fa9598a0117 # Premium video demand
+openx.com, 540393169, RESELLER, 6a698e2ec38604c6 # Premium video demand
+spotx.tv, 238936, RESELLER, 7842df1d2fe2db34 # Premium video demand
+spotxchange.com, 238936, RESELLER, 7842df1d2fe2db34 # Premium Video Demand
+advertising.com, 28038, RESELLER # Premium Video Demand
+rubiconproject.com, 19668, RESELLER, 0bfd66d529a55807
+
+#Sovrn
+sovrn.com, 232647, DIRECT, fafdf38b16bf6b2b
+lijit.com, 232647, DIRECT, fafdf38b16bf6b2b
+gumgum.com, 11645, RESELLER, ffdef49475d318a9
+openx.com, 537120960, RESELLER
+openx.com, 83499, RESELLER
+openx.com, 538959099, RESELLER
+pubmatic.com, 137711, RESELLER
+pubmatic.com, 156212, RESELLER
+pubmatic.com, 62483, RESELLER
+contextweb.com, 558511, RESELLER
+
+#Meridian
+sovrn.com, 232647, DIRECT, fafdf38b16bf6b2b
+lijit.com, 232647, DIRECT, fafdf38b16bf6b2b
+gumgum.com, 11645, RESELLER, ffdef49475d318a9
+openx.com, 537120960, RESELLER
+openx.com, 83499, RESELLER
+openx.com, 538959099, RESELLER
+pubmatic.com, 137711, RESELLER
+pubmatic.com, 156212, RESELLER
+pubmatic.com, 62483, RESELLER
+contextweb.com, 558511, RESELLER
+
+#SimpleAds
+google.com, pub-8279364661403630, RESELLER, f08c47fec0942fa0
+smartadserver.com,2447,RESELLER
+indexexchange.com,179394,RESELLER
+contextweb.com,560288,RESELLER,89ff185a4c4e857c
+pubmatic.com,156439,RESELLER
+pubmatic.com,154037,RESELLER
+rubiconproject.com,16114,RESELLER,0bfd66d529a55807
+openx.com,537149888,RESELLER,6a698e2ec38604c6
+sovrn.com, 257611,RESELLER, fafdf38b16bf6b2b
+appnexus.com,3703,RESELLER,f5ab79cb980f11d1
+
+#Imonomy
+imonomy.com, 2189 ,DIRECT
+google.com, pub-7169237679086737, RESELLER, f08c47fec0942fa0
+openx.com, 537104839, RESELLER, 6a698e2ec38604c6
+33across.com, 33, RESELLER
+sovrn.com, 229231, RESELLER
+revcontent.com, 70705, DIRECT
+appnexus.com, 7666, DIRECT, f5ab79cb980f11d
+rubiconproject.com, 156042, DIRECT, 0bfd66d529a55807
+smartadserver.com,3075,RESELLER
+advertising.com, 16039, RESELLER
+google.com, pub-7915887679464005, RESELLER
+
+#FullLab
+google.com, pub-2335147707098417, DIRECT, f08c47fec0942fa0
+google.com, pub-8327928897197923, RESELLER, f08c47fec0942fa0
+google.com, pub-4262827307746270, RESELLER, f08c47fec0942fa0
+google.com, pub-1735744167578327, RESELLER, f08c47fec0942fa0
+google.com, pub-5739535157675470, RESELLER, f08c47fec0942fa0
+adtech.com, 11488, Reseller #OATH
+indexexchange.com, 188081, DIRECT, 50b1c356f2c5c8fc
+google.com, pub-3079062961821270, DIRECT, f08c47fec0942fa0
+smartadserver.com,3228,RESELLER
+contextweb.com,560288,RESELLER,89ff185a4c4e857c
+pubmatic.com,156439,RESELLER
+pubmatic.com, 154037,RESELLER
+rubiconproject.com,16114,RESELLER, 0bfd66d529a55807
+openx.com,537149888,RESELLER,6a698e2ec38604c6
+sovrn.com, 257611,RESELLER, fafdf38b16bf6b2b
+appnexus.com,3703,RESELLER,f5ab79cb980f11d1
+
+#Denakop
+denakop.com, pub-304, DIRECT
+google.com, pub-8170966538152543, RESELLER, f08c47fec0942fa0
+adtech.com, 11627, RESELLER
+contextweb.com, 560821, RESELLER
+appnexus.com, 2081, RESELLER, f5ab79cb980f11d1
+appnexus.com, 10528, RESELLER, f5ab79cb980f11d1
+
+#Truvid
+truvid.com, 721, DIRECT
+truvidplayer.com, 721, DIRECT
+advertising.com, 7039, RESELLER
+advertising.com, 28245, DIRECT
+advertising.com, 28377, RESELLER
+rubiconproject.com, 17412, RESELLER, 0bfd66d529a55807
+gammassp.com, 1536546411, DIRECT
+districtm.io, 101709, DIRECT
+smartadserver.com, 3356, DIRECT
+contextweb.com, 560288, RESELLER, 89ff185a4c4e857c
+pubmatic.com, 156439, RESELLER
+pubmatic.com, 154037, RESELLER
+rubiconproject.com, 16114, RESELLER, 0bfd66d529a55807
+openx.com, 537149888, RESELLER, 6a698e2ec38604c6
+sovrn.com, 257611, RESELLER, fafdf38b16bf6b2b
+appnexus.com, 3703, RESELLER, f5ab79cb980f11d1
+appnexus.com, 9393, DIRECT
+google.com, pub-9341661452948405, RESELLER, f08c47fec0942fa0
+google.com, pub-4903453974745530, RESELLER, f08c47fec0942fa0
+contextweb.com, 562049, DIRECT, 89ff185a4c4e857c
+smartclip.net, 11185, DIRECT
+appnexus.com, 1024, DIRECT, f5ab79cb980f11d1

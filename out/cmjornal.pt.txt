@@ -1,0 +1,167 @@
+﻿#V503052019
+adtech.com, 12068, RESELLER #INS
+advertising.com, 8603, RESELLER #VS-TBL
+aol.com, 53392, RESELLER #VS-TBL
+appnexus.com, 1360, RESELLER, f5ab79cb980f11d1 #INS
+appnexus.com, 1908, RESELLER, f5ab79cb980f11d1 #INS
+appnexus.com, 3364, RESELLER #VS-TBL
+appnexus.com, 9795, DIRECT #VS-SAP
+aps.amazon.com, 6f354287-be81-4032-bf64-3a62262fb72f, DIRECT #INS
+contextweb.com, 560382, RESELLER #VS-TBL
+contextweb.com,560288, RESELLER,89ff185a4c4e857c #VS-SMT
+freewheel.tv, 799841, RESELLER #VS-TBL
+freewheel.tv, 799921, RESELLER #VS-TBL
+google.com, pub-2329337138110868, DIRECT, f08c47fec0942fa0 #INS
+google.com, pub-4346803846097853, DIRECT, f08c47fec0942fa0 #INS
+google.com, pub-4939634212290203, DIRECT, f08c47fec0942fa0 #VS-SAP
+gumgum.com, 11645, RESELLER, ffdef49475d318a9 #INS
+Indexexchange.com, 183756, RESELLER #VS-TBL
+indexexchange.com,179394, RESELLER #VS-SMT
+lijit.com, 267070, DIRECT, fafdf38b16bf6b2b #INS
+openx.com, 538959099, RESELLER, 6a698e2ec38604c6 #INS
+openx.com, 539154393, RESELLER #VS-TBL
+openx.com, 539924617, RESELLER, 6a698e2ec38604c6 #INS
+openx.com,537149888, RESELLER,6a698e2ec38604c6 #VS-SMT
+pubmatic.com, 137711, RESELLER, 5d62403b186f2ace #INS
+pubmatic.com, 156212, RESELLER, 5d62403b186f2ace #INS
+pubmatic.com, 156307, RESELLER, 5d62403b186f2ace #VS-TBL
+pubmatic.com, 156700, RESELLER, 5d62403b186f2ace #INS
+pubmatic.com,154037, RESELLER #VS-SMT
+pubmatic.com,156439, RESELLER #VS-SMT
+rhythmone.com, 1166984029, RESELLER, a670c89d4a324e47 #VS-TBL
+rhythmone.com, 1654642120, RESELLER, a670c89d4a324e47 #INS
+rubiconproject.com, 16698, RESELLER, 0bfd66d529a55807 #VS-TBL
+rubiconproject.com, 17960, RESELLER, 0bfd66d529a55807 #INS
+rubiconproject.com,16114, RESELLER,0bfd66d529a55807 #VS-SMT
+smartadserver.com, 1510, DIRECT #VS-SAP
+sovrn.com, 267070, DIRECT, fafdf38b16bf6b2b #INS
+sovrn.com,257611, RESELLER,fafdf38b16bf6b2b #VS-SMT
+spotx.tv,71451,RESELLER #VS-TBL
+spotxchange.com, 71451, RESELLER #VS-TBL
+taboola.com,1184653,DIRECT,c228e6794e811952 #VS-TBL
+teads.tv, 13696, DIRECT, 15a9c44f6d26cbe1 #VS-TDS
+tremorhub.com, z87wm, RESELLER, 1a4e959a1b50034a #VS-TBL
+adform.com, 1941, DIRECT #RCHA
+adform.com, 1942, DIRECT #RCHA
+adtech.com, 10297, RESELLER #FI - Oath
+adtech.com, 4687, RESELLER #RCHA
+advertising.com, 19798, RESELLER #SM
+advertising.com, 27390, RESELLER #SM
+advertising.com, 4058, RESELLER #UNRL
+advertising.com, 7574, DIRECT #RCHA
+advertising.com, 7574, DIRECT #SM
+aerserv.com, 2750, RESELLER, 2ce496b9f80eb9fa #RCHA
+aol.com, 27093, RESELLER #RCHA
+aol.com, 27093, RESELLER #SM
+aol.com, 46658, RESELLER #RCHA
+aolcloud.net, 10297, RESELLER #FI - Oath
+aolcloud.net, 4687, RESELLER #RCHA
+appnexus.com, 2928, DIRECT #RCHA
+appnexus.com, 2964, RESELLER #GRPM
+appnexus.com, 3703, DIRECT, f5ab79cb980f11d1 #SM
+appnexus.com, 6849, RESELLER #UNRL
+appnexus.com, 6924, RESELLER, f5ab79cb980f11d1 #SM
+appnexus.com, 7167, RESELLER #GRPM
+appnexus.com, 8233, DIRECT #RCHA
+appnexus.com, 8847, RESELLER #ENG
+aps.amazon.com, 4cd01fd0-0780-4b33-a4da-c39467660185, RESELLER #FI - Amazon
+c1exchange.com, c1x_a9_uampubs, RESELLER #FI - Amazon (C1X)
+contextweb.com, 558377, RESELLER, 89ff185a4c4e857c #FI - PulsePoint
+contextweb.com, 560138, RESELLER #UNRL
+contextweb.com, 560288, RESELLER, 89ff185a4c4e857c #SM
+contextweb.com, 560520, RESELLER #RCHA
+contextweb.com, 561562, RESELLER, 89ff185a4c4e857c #FI - Amazon (PulsePoint)
+contextweb.com, 561690, RESELLER #SM
+contextweb.com,560288, DIRECT, 89ff185a4c4e857c #SM
+coxmt.com, 2000067995202, RESELLER #SM
+Engageya.com, 158565, Direct #ENG
+experian.com, EXP_660570_A, RESELLER #SM
+exponential.com, 155490, RESELLER, afac06385c445926 #SM
+exponential.com, 161770, DIRECT, afac06385c445926 #SM
+firstimpression.io, 6714, DIRECT, a960877e77e58dd6 #FI
+freewheel.tv, 435713, RESELLER #SM
+freewheel.tv, 435745, RESELLER #SM
+freewheel.tv, 435777, RESELLER #SM
+freewheel.tv, 435809, RESELLER #SM
+google.com, pub-1968276357835282, RESELLER, f08c47fec0942fa0 #SM
+google.com, pub-3622156405313063, RESELLER, f08c47fec0942fa0 #FI - AdX
+google.com, pub-4597105439779983, RESELLER, f08c47fec0942fa0 #SM
+google.com, pub-4673227357197067, RESELLER, f08c47fec0942fa0 #RCHA
+google.com, pub-6678849566450770, RESELLER, f08c47fec0942fa0 #SM
+google.com, pub-8221793852898543, RESELLER, f08c47fec0942fa0 #SM
+google.com, pub-8745822827234693, DIRECT, f08c47fec0942fa0 #ADX
+google.com, pub-9115524111147081, RESELLER, f08c47fec0942fa0 #RCHA
+groundtruth.com, 107, RESELLER, 81cbf0a75a5e0e9a #SM
+improvedigital.com, 115, RESELLER #SM
+improvedigital.com, 543, RESELLER #SM
+indexexchange.com, 179394, RESELLER #RCHA
+indexexchange.com, 182257, RESELLER #UNRL
+indexexchange.com, 183554, RESELLER, 50b1c356f2c5c8fc #SM
+indexexchange.com, 183965, RESELLER, 50b1c356f2c5c8fc #SM
+indexexchange.com, 184665, RESELLER, 50b1c356f2c5c8fc #SM
+ironsrc.com, 5a169d7d9515390002000001, RESELLER #ENG
+lijit.com, 243408, RESELLER, fafdf38b16bf6b2b #FI - Sovrn
+lijit.com, 249425, RESELLER #RCHA
+lijit.com, 256420, RESELLER, fafdf38b16bf6b2b #FI - Sovrn
+lkqd.net, 433, RESELLER, 59c49fa9598a0117 #SM
+mobfox.com, 45499, RESELLER #RCHA
+mobfox.com, 74240, RESELLER #RCHA
+ooyala.com, 37bb3f3c-1bb8-4b52-85a4-cbfd626b21f4, RESELLER #SM
+ooyala.com, df0c742b-92ba-4ddb-b9b3-a33991073acd, RESELLER #SM
+openx.com, 537104992, RESELLER, 6a698e2ec38604c6 #FI - OpenX
+openx.com, 537149888, RESELLER, 6a698e2ec38604c6 #SM
+openx.com, 539620353, RESELLER, 6a698e2ec38604c6 #SM
+openx.com, 539625136, RESELLER #RCHA
+openx.com, 539819368, RESELLER, 6a698e2ec38604c6 #FI - OpenX
+openx.com, 540447806, DIRECT, 6a698e2ec38604c6 #OPNX
+outbrain.com, 0043e7a761d92337b9269c2b10d9835c8d, RESELLER #FI - Outbrain
+pubmatic.com, 154037, DIRECT, 5d62403b186f2ace #SM
+pubmatic.com, 154037, RESELLER #SM
+pubmatic.com, 156030, RESELLER, 5d62403b186f2ace #SM
+pubmatic.com, 156084, RESELLER, 5d62403b186f2ace #SM
+pubmatic.com, 156136, RESELLER, 5d62403b186f2ace #SM
+pubmatic.com, 156325, RESELLER, 5d62403b186f2ace #SM
+pubmatic.com, 156439, RESELLER #SM
+pubmatic.com, 156458, RESELLER, 5d62403b186f2ace #SM
+pubmatic.com, 156509, RESELLER, 5d62403b186f2ace #SM
+pubmatic.com, 156538, DIRECT, 5d62403b186f2ace #RCHA
+pubmatic.com, 156546, RESELLER, 5d62403b186f2ace #SM
+pubmatic.com, 156888, RESELLER, 5d62403b186f2ace #FI - PubMatic
+pubmatic.com, 81564, DIRECT, 5d62403b186f2ace #RCHA
+pulsepoint.com, 560288, RESELLER #SM
+richaudience.com, 06EhCbcfZK, DIRECT #SM
+richaudience.com, UfWXox6vc3, DIRECT #RCHA
+rubiconproject.com, 12450, DIRECT, 0bfd66d529a55807 #RBCN
+rubiconproject.com, 13132, RESELLER, 0bfd66d529a55807 #SM
+rubiconproject.com, 13510, DIRECT #RCHA
+rubiconproject.com, 15268, RESELLER #UNRL
+rubiconproject.com, 16114, DIRECT, 0bfd66d529a55807 #SM
+rubiconproject.com, 16114, RESELLER #SM
+rubiconproject.com, 18438, RESELLER, 0bfd66d529a55807 #FI - Rubicon Project
+smaato.com, 1100000579, RESELLER #RCHA
+smaato.com, 1100037086, RESELLER #RCHA
+smartadserver.com, 1999, RESELLER #SM
+smartadserver.com, 2441, RESELLER #RCHA
+smartadserver.com, 2640, RESELLER #RCHA
+smartadserver.com, 2951, DIRECT #SM
+sovrn.com, 243408, RESELLER, fafdf38b16bf6b2b #FI - Sovrn
+sovrn.com, 249425, RESELLER #RCHA
+sovrn.com, 256420, RESELLER, fafdf38b16bf6b2b #FI - Sovrn
+sovrn.com, 257611, DIRECT, fafdf38b16bf6b2b #SM
+spotx.tv, 104713, RESELLER, 7842df1d2fe2db34 #SM
+spotx.tv, 173175, DIRECT #RCHA
+spotx.tv, 173177, DIRECT #RCHA
+spotx.tv, 202100, RESELLER, 7842df1d2fe2db34 #SM
+spotx.tv, 204335, RESELLER, 7842df1d2fe2db34  #SM
+spotxchange.com, 104713, RESELLER, 7842df1d2fe2db34 #SM
+spotxchange.com, 173175, DIRECT #RCHA
+spotxchange.com, 173177, DIRECT #RCHA
+spotxchange.com, 202100, RESELLER, 7842df1d2fe2db34 #SM
+spotxchange.com, 204335, RESELLER, 7842df1d2fe2db34 #SM
+streamrail.net, 56f91cd4d3e3660002000033, RESELLER #ENG
+sunmedia.tv, 101, DIRECT, 24794F6 #SM
+teads.tv, 14212, DIRECT, 15a9c44f6d26cbe1 #TDS
+tremorhub.com, cpu32-92xut, RESELLER, 1a4e959a1b50034a #SM
+tribalfusion.com, 155490, RESELLER, afac06385c445926 #SM
+tribalfusion.com, 161770, DIRECT, afac06385c445926 #SM
+video.unrulymedia.com, UNRX-PUB-0aee79de-08fe-439f-a714-38c6d046354b, DIRECT #UNRL

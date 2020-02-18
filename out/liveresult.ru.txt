@@ -1,0 +1,15 @@
+nativeroll.tv, 5613dc6c64225dc0128b4567, DIRECT
+videonow.ru, vn-177, DIRECT
+google.com, pub-3368506637977460, DIRECT, f08c47fec0942fa0
+google.com, pub-6038027899573286, RESELLER
+rubiconproject.com, 15636, RESELLER
+adform.com, 1650, RESELLER
+betweendigital.com, 34557, RESELLER
+mox.tv, 177, DIRECT #where 177 is your user id in MOX.tv SSP.
+google.com, pub-1965383259143495, RESELLER, f08c47fec0942fa0 #for dfp pixels
+google.com, pub-6864402317197092, RESELLER, f08c47fec0942fa0
+freewheel.tv, 286994, RESELLER
+freewheel.tv, 291505, RESELLER 
+rubiconproject.com, 19724, RESELLER, 0bfd66d529a55807
+google.com, pub-5289985627731322, RESELLER, f08c47fec0942fa0 
+Otm-r.com, 59, direct

@@ -1,0 +1,11 @@
+﻿#Espacios publicitarios administrados por 
+#https://weblogic.agency 
+
+
+google.com, pub-4566832417926572, DIRECT, f08c47fec0942fa0
+google.com, pub-1237525401436497, DIRECT, f08c47fec0942fa0
+google.com, pub-1237525401436497, RESELLER, f08c47fec0942fa0
+google.com, pub-7877111520370396, DIRECT, f08c47fec0942fa0
+google.com, pub-7216586993751092, DIRECT, f08c47fec0942fa0
+teads.tv, 16112, DIRECT, 15a9c44f6d26cbe1
+google.com, pub-7951307737561812, DIRECT, f08c47fec0942fa0

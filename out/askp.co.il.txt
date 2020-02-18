@@ -1,0 +1,33 @@
+google.com, pub-4903453974745530, RESELLER, f08c47fec0942fa0
+google.com, pub-9599081886768408, RESELLER, f08c47fec0942fa0
+outbrain.com, 006fba2fd88e3747e4fe75f24e26e2f596, DIRECT
+outbrain.com, 006fba2fd88e3747e4fe75f24e26e2f596, RESELLER
+appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
+tremorhub.com, q017o-78mlk, RESELLER, 1a4e959a1b50034a # Premium video demand aka "Telaria"
+teads.tv, 15429, RESELLER, 15a9c44f6d26cbe1 # Premium video demand
+advertising.com, 26154, RESELLER # Premium video demand
+spotxchange.com, 225721, RESELLER # Premium video demand
+Freewheel.tv, 741650, RESELLER # Premium video demand
+"rubiconproject.com,19668,reseller,0bfd66d529a55807"
+"rubiconproject.com,17130,reseller,0bfd66d529a55807"
+"outbrain.com,006fba2fd88e3747e4fe75f24e26e2f596,direct"
+"teads.tv,15429,reseller,15a9c44f6d26cbe1"
+"advertising.com,26154,reseller"
+"spotxchange.com,225721,reseller"
+"freewheel.tv,741650,reseller"
+"lkqd.net,450,reseller,59c49fa9598a0117"
+"openx.com,540393169,reseller,6a698e2ec38604c6"
+"spotx.tv,238936,reseller,7842df1d2fe2db34"
+"spotxchange.com,238936,reseller,7842df1d2fe2db34"
+"advertising.com,28038,reseller"
+"contextweb.com,562145,reseller,89ff185a4c4e857c"
+"indexexchange.com,190856,reseller,50b1c356f2c5c8fc"
+"pubmatic.com,158615,reseller,5d62403b186f2ace"
+"vidazoo.com,1773068026,reseller,b6ada874b4d7d0b2"
+
+
+
+
+
+
+

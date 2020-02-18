@@ -1,0 +1,43 @@
+#Adx
+google.com, pub-4775867325027312, DIRECT, f08c47fec0942fa0
+google.com, pub-5464555247281445, DIRECT, f08c47fec0942fa0
+#Rubicon
+rubiconproject.com, 17046, DIRECT, 0bfd66d529a55807
+#Aol
+adtech.com, 11212, DIRECT
+coxmt.com, 2000067907202, Reseller
+pubmatic.com, 156078, Reseller, 5d62403b186f2ace
+openx.com, 537143344, Reseller
+indexexchange.com, 175407, Reseller, 50b1c356f2c5c8fc
+appnexus.com, 1019, RESELLER
+appnexus.com, 2688, RESELLER
+openx.com, 537103367, RESELLER, a698e2ec38604c6
+sovrn.com, 231317, RESELLER, fafdf38b16bf6b2b
+lijit.com, 231317, RESELLER, fafdf38b16bf6b2b
+rubiconproject.com, 15380, RESELLER
+google.com, pub-1076181631997634, RESELLER, f08c47fec0942fa0
+google.com, pub-6205083306620034, RESELLER, f08c47fec0942fa0
+contextweb.com, 560360, RESELLER
+contextweb.com, 560621, RESELLER
+contextweb.com, 560961, RESELLER
+brightcom.com, 2140851, DIRECT
+google.com, pub-5231479214411897, RESELLER, f08c47fec0942fa0
+google.com, pub-4207323757133151, RESELLER, f08c47fec0942fa0
+indexexchange.com, 189744, RESELLER 
+openx.com, 537153209, RESELLER, 6a698e2ec38604c6
+33across.com, 0013300001qkdlwAAA, RESELLER 
+google.com, pub-9557089510405422, RESELLER, f08c47fec0942fa0
+adtech.com, 11208, RESELLER 
+33across.com,0010b00001u6f1nAAA, RESELLER 
+appnexus.com, 3153, RESELLER, f5ab79cb980f11d1 
+aps.amazon.com, 48266a61-b3d9-4cb7-b172-553abc6a42a4, RESELLER
+openx.com, 540191398, RESELLER, 6a698e2ec38604c6 
+pubmatic.com, 157150, RESELLER, 5d62403b186f2ace 
+smartadserver.com, 2995, RESELLER
+rubiconproject.com, 16114, RESELLER, 0bfd66d529a55807
+appnexus.com, 3703, RESELLER, f5ab79cb980f11d1
+rubiconproject.com, 20416, RESELLER, 0bfd66d529a55807
+improvedigital.com, 1231, RESELLER
+gumgum.com,13798,RESELLER,ffdef49475d318a9
+districtm.io, 101080, RESELLER
+brightcom.com, 9939, DIRECT

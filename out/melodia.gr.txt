@@ -1,0 +1,56 @@
+#Ads.txt skai.gr
+
+google.com, pub-4601965512075889, DIRECT, f08c47fec0942fa0
+spotxchange.com, 120369, DIRECT, 7842df1d2fe2db34
+spotx.tv, 120369, DIRECT, 7842df1d2fe2db34
+openx.com, 537079925, DIRECT #banner, 6a698e2ec38604c6
+spotxchange.com, 118444, RESELLER, 7842df1d2fe2db34
+spotx.tv, 118444, RESELLER, 7842df1d2fe2db34
+beachfront.com, beachfront_4341, RESELLER
+fyber.com, 6afd7ed33f999fb37334fb920a225e21, RESELLER
+advertising.com, 12873, RESELLER
+google.com, pub-4983172728561290, RESELLER, f08c47fec0942fa0
+pubmatic.com, 156186, RESELLER, 5d62403b186f2ace
+cedato.com, 290892023, RESELLER
+cedato.com, 1686122337, RESELLER
+optimatic.com, 48654878493, RESELLER
+novoroll.com, a670c89d4a324e4, DIRECT
+freewheel.tv ,149009, RESELLER
+tremorhub.com, umrto-lfzh2, DIRECT, 1a4e959a1b50034a
+appnexus.com, 2725, RESELLER, f5ab79cb980f11d1
+appnexus.com, 7164, RESELLER, f5ab79cb980f11d1
+criteo.com, 28680, RESELLER
+rubiconproject.com, 11498, RESELLER, 0bfd66d529a55807
+smartadserver.com, 2289, RESELLER
+google.com, pub-2500372977609723, RESELLER, f08c47fec0942fa0
+google.com, pub-5233202974419683, RESELLER, f08c47fec0942fa0
+pubmatic.com, 156400, RESELLER, 5d62403b186f2ace
+teads.tv, 14250, RESELLER, 15a9c44f6d26cbe1
+facebook.com, 1396453687040410, RESELLER
+smaato.com, 1100030328, RESELLER
+#AdUnity AUX
+adunity.com, 1000154, RESELLER
+indexexchange.com, 183775, RESELLER
+openx.com, 537101597, RESELLER
+taboola.com, 1066281 , RESELLER, c228e6794e811952 
+taboola.com, 1090849 , RESELLER, c228e6794e811952 
+taboola.com, 1090853 , RESELLER, c228e6794e811952 
+taboola.com, 1090851 , RESELLER, c228e6794e811952 
+taboola.com, 1090854 , RESELLER, c228e6794e811952 
+sekindo.com, 22582, DIRECT
+spotxchange.com, 84294, RESELLER, 7842df1d2fe2db34
+spotx.tv, 84294, RESELLER, 7842df1d2fe2db34
+advertising.com, 7372, RESELLER
+advertising.com, 24410, RESELLER
+lkqd.net, 244, RESELLER, 59c49fa9598a0117
+lkqd.com, 244, RESELLER, 59c49fa9598a0117
+tidaltv.com, 32071, RESELLER
+pubmatic.com, 156380, RESELLER, 5d62403b186f2ace
+appnexus.com, 1940, RESELLER
+appnexus.com, 2764, RESELLER
+vi.ai, 474289066697842, RESELLER
+freewheel.tv, 19129, RESELLER
+freewheel.tv, 19133, RESELLER
+adform.com, 2078, RESELLER
+improvedigital.com, 1065, RESELLER
+google.com, pub-6466988881678163, DIRECT, f08c47fec0942fa0

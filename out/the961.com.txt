@@ -1,0 +1,24 @@
+#Ads.txt the961.com 
+
+google.com, pub-8925521126930314, DIRECT, f08c47fec0942fa0
+google.com, pub-3520571843530326, DIRECT, f08c47fec0942fa0
+google.com, pub-7289986524496939, DIRECT, f08c47fec0942fa0
+
+openx.com, 540447718, DIRECT, 6a698e2ec38604c6
+
+rubiconproject.com, 19800, DIRECT, 0bfd66d529a55807
+
+#Amazon
+
+aps.amazon.com,7cb15021-b379-40c4-9cc9-751ecaf1c872,DIRECT
+appnexus.com,7878,DIRECT,f5ab79cb980f11d1
+rubiconproject.com,19800,DIRECT,0bfd66d529a55807
+kargo.com,53ec4c56-76c1-414e-ad8a-3b3c7cb1805e,DIRECT,98ccdd9948ed08da
+pubmatic.com,157150,RESELLER,5d62403b186f2ace
+openx.com,540191398,RESELLER,6a698e2ec38604c6
+appnexus.com,1908,RESELLER,f5ab79cb980f11d1
+adtech.com,12068,RESELLER,e1a5b5b6e3255540
+ad-generation.jp,12474,RESELLER
+districtm.io,100962,RESELLER,3fd707be9c4527c3
+appnexus.com,3663,RESELLER,f5ab79cb980f11d1
+rhythmone.com,1654642120,RESELLER,a670c89d4a324e47

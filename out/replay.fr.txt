@@ -1,0 +1,40 @@
+# START Google Network 2017-11-20
+google.com, pub-6906792065303357, DIRECT, f08c47fec0942fa0
+google.com, pub-6906792065303357, RESELLER, f08c47fec0942fa0
+# END Google Network 2017-11-20 13:50
+# START SublimeSkinz Network 2019-05-10
+smartadserver.com, 1827, RESELLER
+improvedigital.com, 335, RESELLER
+appnexus.com, 3538, RESELLER
+appnexus.com, 3539, RESELLER
+appnexus.com, 3540, RESELLER
+freewheel.tv, 150625, RESELLER
+# END SublimeSkinz Network
+# START impactify 2019-10-11
+impactify.io, 1386, DIRECT
+improvedigital.com, 1058, RESELLER
+google.com, pub-1343218370015870, RESELLER, f08c47fec0942fa0
+google.com, pub-4301669675472368, RESELLER, f08c47fec0942fa0
+spotxchange.com, 176703, RESELLER, 7842df1d2fe2db34
+spotx.tv, 176703, RESELLER, 7842df1d2fe2db34
+appnexus.com, 11197, RESELLER, f5ab79cb980f11d1
+freewheel.tv, 282594, RESELLER
+freewheel.tv, 282786, RESELLER
+freewheel.tv, 282802, RESELLER
+freewheel.tv, 282818, RESELLER
+freewheel.tv, 282850, RESELLER
+yahoo.com, 1761548, RESELLER
+rubiconproject.com, 19688, RESELLER, 0bfd66d529a55807
+advertising.com, 9516, RESELLER
+smartadserver.com, 2974, RESELLER
+appnexus.com, 3703, RESELLER, f5ab79cb980f11d1
+contextweb.com, 560288, RESELLER, 89ff185a4c4e857c
+openx.com, 537149888, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 154037, RESELLER
+pubmatic.com, 156439, RESELLER
+sovrn.com, 257611, RESELLER, fafdf38b16bf6b2b
+google.com, pub-7019376976432612, RESELLER
+google.com, pub-5373693997956134, RESELLER, f08c47fec0942fa0
+google.com, pub-4177862836555934, RESELLER, f08c47fec0942fa0
+google.com, pub-1071602463683652, RESELLER, f08c47fec0942fa0
+# END impactify 2019-10-11

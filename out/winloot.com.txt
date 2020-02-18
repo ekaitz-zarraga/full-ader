@@ -1,0 +1,43 @@
+google.com, pub-6351422811154140, DIRECT, f08c47fec0942fa0
+google.com, pub-8765389362882491, DIRECT, f08c47fec0942fa0
+Criteo.com, 54262, DIRECT
+AppNexus.com, 1548, RESELLER
+Contextweb.com, 560602, RESELLER, 89ff185a4c4e857 
+Indexexchange.com, 183697, RESELLER, 50b1c356f2c5c8fc 
+openx.com, 537149552, RESELLER 
+rubiconproject.com, 15886, RESELLER
+adtech.com, 10178, direct
+coxmt.com, 2000067907202, Reseller
+pubmatic.com, 156078, Reseller
+pubmatic.com, 156377, Reseller
+pubmatic.com, 155967, Reseller
+openx.com, 537143344, Reseller
+indexexchange.com, 175407, Reseller
+openx.com, 537125356, Reseller
+taboola.com,1078874,DIRECT,c228e6794e811952
+spotx.tv,71451,RESELLER
+spotxchange.com, 71451, RESELLER
+advertising.com, 8603, RESELLER
+advertising.com, 3531, RESELLER
+pubmatic.com, 156307, RESELLER, 5d62403b186f2ace
+appnexus.com, 3364, RESELLER
+Indexexchange.com, 183756, RESELLER
+contextweb.com, 560382, RESELLER
+freewheel.tv, 799841, RESELLER 
+freewheel.tv, 799921, RESELLER 
+aol.com, 53392, RESELLER 
+rhythmone.com, 1166984029, RESELLER, a670c89d4a324e47 
+openx.com, 539154393, RESELLER
+tremorhub.com, z87wm, RESELLER, 1a4e959a1b50034a
+rubiconproject.com, 16698, RESELLER, 0bfd66d529a55807
+fyber.com, ad9de41d28d494354b23133f26f83122, RESELLER
+fyber.com, 1a12a7e3f84fe560ccf95a3a73043abb, RESELLER
+freewheel.tv, 799841, RESELLER 
+freewheel.tv, 799921, RESELLER 
+aol.com, 53392, RESELLER 
+rhythmone.com, 1166984029, RESELLER, a670c89d4a324e47 
+smartadserver.com, 3563, RESELLER 
+beachfront.com, 13749, RESELLER, e2541279e8e2ca4d 
+advertising.com, 28458, RESELLER 
+admanmedia.com, 556, RESELLER 
+

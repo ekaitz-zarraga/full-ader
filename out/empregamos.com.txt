@@ -1,0 +1,15 @@
+google.com, pub-3748615584671807, DIRECT, f08c47fec0942fa0
+google.com, pub-1447668417991279, DIRECT, f08c47fec0942fa0
+google.com, pub-2142338037257831, RESELLER, f08c47fec0942fa0
+google.com, pub-3619045887187031, RESELLER, f08c47fec0942fa0
+rubiconproject.com, 15410, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 210705, RESELLER, 0bfd66d529a55807
+adtech.com, 10825, RESELLER
+aolcloud.net, 10825, RESELLER
+contextweb.com, 561019, RESELLER
+smartadserver.com, 1931, RESELLER
+teads.tv, 13576, DIRECT, 15a9c44f6d26cbe1
+google.com, pub-2335147707098417, RESELLER, f08c47fec0942fa0
+appnexus.com, 2081, RESELLER, f5ab79cb980f11d1
+appnexus.com, 9794, DIRECT, f5ab79cb980f11d1
+include:https://tags.premiumads.com.br/ads.txt

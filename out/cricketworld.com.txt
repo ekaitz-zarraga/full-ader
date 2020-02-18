@@ -1,0 +1,5 @@
+#Ads.txt cricketworld.com
+#Ads.txt managed by AdsTxtManager.com - the free ads.txt management tool for publishers
+
+google.com, pub-8170087448729101, DIRECT, f08c47fec0942fa0
+google.com, pub-9308598275923641, DIRECT, f08c47fec0942fa0

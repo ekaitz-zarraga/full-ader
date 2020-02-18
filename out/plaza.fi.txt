@@ -1,0 +1,24 @@
+adform.com, 101, DIRECT
+adform.com, 1187, DIRECT
+appnexus.com, 10050, DIRECT
+appnexus.com, 1908, RESELLER
+appnexus.com, 6849, RESELLER
+appnexus.com, 7944, RESELLER
+districtm.io, 100373, DIRECT
+google.com, pub-5849890028869012, DIRECT, f08c47fec0942fa0
+google.com, pub-6763722334048022, DIRECT, f08c47fec0942fa0
+google.com, pub-7058246545902177, DIRECT, f08c47fec0942fa0
+google.com, pub-7706326569927985, DIRECT, f08c47fec0942fa0
+google.com, pub-9685734445476814, RESELLER, f08c47fec0942fa0
+improvedigital.com, 1166, RESELLER
+indexexchange.com, 182257, RESELLER
+pubmatic.com, 118184, DIRECT, 5d62403b186f2ace
+pubmatic.com, 158348, DIRECT, 5d62403b186f2ace
+rubiconproject.com, 13040, DIRECT, 0bfd66d529a55807
+rubiconproject.com, 15268, RESELLER
+rubiconproject.com, 20282, DIRECT, 0bfd66d529a55807
+smartclip.net,7605,DIRECT
+teads.tv, 7714, RESELLER, 15a9c44f6d26cbe1
+video.unrulymedia.com, UNRX-PUB-492dbb65-39f4-4157-b432-5bf5241d0daa, DIRECT
+
+contact=programmatic@otavamedia.fi

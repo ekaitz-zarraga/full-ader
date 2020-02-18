@@ -1,0 +1,103 @@
+#google
+google.com, pub-7260620660546519, DIRECT, f08c47fec0942fa0
+google.com, pub-8510099249677549, DIRECT, f08c47fec0942fa0
+google.com, pub-3706281681919625, DIRECT, f08c47fec0942fa0
+
+#webads
+appnexus.com, 994, DIRECT, f5ab79cb980f11d1
+rubiconproject.com, 11394, DIRECT, 0bfd66d529a55807
+pubmatic.com, 156487, DIRECT, 5d62403b186f2ace
+adform.com, 648, DIRECT
+
+#ligatus
+ligadx.com, 16667, DIRECT
+ligadx.com, b6d2f3b784fa5508, DIRECT
+
+#outbrain
+outbrain.com, 00d397604429abf707d66c5ffa6c45135f, DIRECT
+appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
+tremorhub.com, q017o-78mlk, RESELLER, 1a4e959a1b50034a # Premium video demand aka "Telaria"
+teads.tv, 15429, RESELLER, 15a9c44f6d26cbe1 # Premium video demand
+advertising.com, 26154, RESELLER # Premium video demand
+spotxchange.com, 225721, RESELLER # Premium video demand
+Freewheel.tv, 741650, RESELLER # Premium video demand
+rubiconproject.com, 17130, RESELLER, 0bfd66d529a55807 # Premium video demand
+lkqd.net, 450, RESELLER, 59c49fa9598a0117 # Premium video demand
+openx.com, 540393169, RESELLER, 6a698e2ec38604c6 # Premium video demand
+spotx.tv, 238936, RESELLER, 7842df1d2fe2db34 # Premium video demand
+spotxchange.com, 238936, RESELLER, 7842df1d2fe2db34 # Premium Video Demand
+advertising.com, 28038, RESELLER # Premium Video Demand
+rubiconproject.com, 19668, RESELLER, 0bfd66d529a55807
+
+#streamads
+#cdn.elasticad.net, 1234, RESELLER
+appnexus.com, 3270, RESELLER
+teads.tv, 5579, RESELLER, 15a9c44f6d26cbe1 
+freewheel.tv, 874657, RESELLER
+freewheel.tv, 85321, RESELLER
+freewheel.tv, 875377, RESELLER
+freewheel.tv, 837393, RESELLER
+smartadserver.com,2161,RESELLER
+indexexchange.com,179394,RESELLER
+contextweb.com,560288, RESELLER,89ff185a4c4e857c
+pubmatic.com,156439,RESELLER
+pubmatic.com, 154037,RESELLER
+rubiconproject.com,16114,RESELLER, 0bfd66d529a55807
+openx.com,537149888,RESELLER,6a698e2ec38604c6
+sovrn.com, 257611,RESELLER, fafdf38b16bf6b2b
+appnexus.com,3703,RESELLER,f5ab79cb980f11d1
+rubiconproject.com, 18194, RESELLER, 0bfd66d529a55807
+yieldlab.net, 6378054, RESELLER
+freewheel.tv, 939745, RESELLER
+freewheel.tv, 941377, RESELLER
+smartadserver.com,2161,RESELLER
+indexexchange.com,179394,RESELLER
+contextweb.com,560288, RESELLER,89ff185a4c4e857c
+pubmatic.com,156439,RESELLER
+pubmatic.com, 154037,RESELLER
+rubiconproject.com,16114,RESELLER, 0bfd66d529a55807
+openx.com,537149888,RESELLER,6a698e2ec38604c6
+sovrn.com, 257611,RESELLER, fafdf38b16bf6b2b
+appnexus.com,3703,RESELLER,f5ab79cb980f11d1
+fyber.com,7c80dc558884c91233125b91a9ec8220,RESELLER
+spotxchange.com, 113481, RESELLER, 7842df1d2fe2db34
+spotx.tv, 113481, RESELLER, 7842df1d2fe2db34
+fyber.com,e54da6881e149ed4b7409872e1716bda,RESELLER
+freewheel.tv, 328705, RESELLER
+spotxchange.com, 146631, RESELLER, 7842df1d2fe2db34
+spotx.tv, 146631, RESELLER, 7842df1d2fe2db34
+smartadserver.com, 2058, RESELLER
+adform.com, 1819, RESELLER
+improvedigital.com, 907, RESELLER
+spotx.tv, 202009, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 202009, RESELLER, 7842df1d2fe2db34
+appnexus.com, 3723, RESELLER
+pubmatic.com, 156695, RESELLER, 5d62403b186f2ace
+danmarketplace.com, 4, RESELLER
+rubiconproject.com, 18194, RESELLER, 0bfd66d529a55807
+yieldlab.net, 6378054, RESELLER
+betweendigital.com, 42152, RESELLER
+google.com, pub-5289985627731322, RESELLER, f08c47fec0942fa0
+rubiconproject.com, 19724, RESELLER, 0bfd66d529a55807
+
+#femmefab
+appnexus.com, 2076, DIRECT, f5ab79cb980f11d1
+appnexus.com, 2076, RESELLER, f5ab79cb980f11d1
+
+#sanoma
+appnexus.com, 7463, RESELLER
+google.com, pub-5854238349292660, DIRECT, f08c47fec0942fa0
+google.com, pub-0886136579750068, DIRECT, f08c47fec0942fa0
+google.com, pub-7024374936965210, DIRECT, f08c47fec0942fa0
+google.com, pub-7205535355976271, DIRECT, f08c47fec0942fa0
+smartclip.net, 753, RESELLER
+improvedigital.com, 73, DIRECT
+improvedigital.com, 1077, RESELLER
+spotxchange.com, 207379, DIRECT, 7842df1d2fe2db34
+spotx.tv, 207379, DIRECT, 7842df1d2fe2db34
+appnexus.com, 3723, RESELLER
+
+#plista
+plista.com, 33037, DIRECT
+appnexus.com, 7456, DIRECT
+appnexus.com, 7790, DIRECT

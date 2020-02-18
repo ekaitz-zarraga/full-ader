@@ -1,0 +1,105 @@
+google.com, pub-1301581561755234, DIRECT, f08c47fec0942fa0 #unified
+google.com, pub-2557900687859377, DIRECT, f08c47fec0942fa0 #complex
+google.com, pub-5995202563537249, RESELLER, f08c47fec0942fa0 #a9
+
+amazon-adsystem.com, 3061, DIRECT
+aps.amazon.com, 3061, DIRECT
+adtech.com, 10350, DIRECT #aol
+adtech.com, 12079, DIRECT #a9
+appnexus.com, 7287, DIRECT, f5ab79cb980f11d1
+appnexus.com, 10440, DIRECT, f5ab79cb980f11d1
+appnexus.com, 10440, DIRECT, f5ab79cb980f11d1 #a9
+appnexus.com, 7290, RESELLER, f5ab79cb980f11d1 #playgroundxyz
+appnexus.com, 8173, RESELLER, f5ab79cb980f11d1 #kargo
+indexexchange.com, 184233, DIRECT, 50b1c356f2c5c8fc
+indexexchange.com, 184731, DIRECT, 50b1c356f2c5c8fc #ebda
+yieldmo.com, 692692698490674803, DIRECT
+yieldmo.com, 2171159449128568719, DIRECT #ebda
+yieldmo.com, 2171159753744091024, DIRECT #a9
+openx.com, 537146066, DIRECT, 6a698e2ec38604c6
+openx.com, 537150843, DIRECT, 6a698e2ec38604c6 #ebda
+openx.com, 539272258, DIRECT, 6a698e2ec38604c6 #video
+openx.com, 540047003, DIRECT, 6a698e2ec38604c6 #a9
+teads.tv, 14216, DIRECT, 15a9c44f6d26cbe1
+teads.tv, 8175, DIRECT, 15a9c44f6d26cbe1
+triplelift.com, 1233, DIRECT, 6c33edb13117fd86 #complex
+triplelift.com, 1251, DIRECT, 6c33edb13117fd86 #a9
+triplelift.com, 7447, DIRECT, 6c33edb13117fd86 
+appnexus.com, 1314, RESELLER, f5ab79cb980f11d1 #triplelift
+rubiconproject.com, 10298, DIRECT, 0bfd66d529a55807
+rubiconproject.com, 18084, DIRECT, 0bfd66d529a55807 #ebda
+emxdgt.com, 112, DIRECT, 1e1d41537f7cad7f
+emxdgt.com, 465, DIRECT, 1e1d41537f7cad7f
+emxdgt.com, 1091471, DIRECT, 1e1d41537f7cad7f #a9
+appnexus.com, 1356, RESELLER, f5ab79cb980f11d1 #emx
+districtm.io, 100816, DIRECT, 3fd707be9c4527c3
+appnexus.com, 1908, RESELLER, f5ab79cb980f11d1 #districtm
+contextweb.com, 561589, DIRECT, 89ff185a4c4e857c #pulsepoint
+contextweb.com, 561589, DIRECT, 89ff185a4c4e857c #pulsepoint #a9
+rhythmone.com, 1265560552, DIRECT, a670c89d4a324e47 #ebda
+sovrn.com, 217955, DIRECT, fafdf38b16bf6b2b #a9
+lijit.com, 217955, DIRECT, fafdf38b16bf6b2b #a9
+kargo.com, 112, DIRECT #cmn
+kargo.com, 1236, DIRECT #o&o
+kargo.com, 1237, DIRECT #complex.com
+indexexchange.com, 184081, RESELLER, 50b1c356f2c5c8fc #cmn, kargo
+indexexchange.com, 184081, RESELLER, 50b1c356f2c5c8fc #complex.com, kargo
+indexexchange.com, 184081, RESELLER, 50b1c356f2c5c8fc #o&o, kargo
+rubiconproject.com, 17070, RESELLER, 0bfd66d529a55807
+media.net, 8CU5D837D, DIRECT #ebda
+spotxchange.com, 259283, DIRECT, 7842df1d2fe2db34 #spotx
+spotx.tv, 259283, DIRECT, 7842df1d2fe2db34 #spotx
+spotxchange.com, 259823, DIRECT, 7842df1d2fe2db34 #a9
+spotx.tv, 259823, DIRECT, 7842df1d2fe2db34 #a9
+pubmatic.com, 158402, DIRECT, 5d62403b186f2ace #pubmatic #eb
+pubmatic.com, 158403, DIRECT, 5d62403b186f2ace #pubmatic #a9
+pubmatic.com, 158453, DIRECT, 5d62403b186f2ace #pubmatic 
+
+video.unrulymedia.com, UNRX-PUB-0ae33f64-6a7a-4e9f-b883-89861aaf7825, DIRECT #unruly
+indexexchange.com, 182257, RESELLER, 50b1c356f2c5c8fc #unruly 
+appnexus.com, 6849, RESELLER, f5ab79cb980f11d1 #unruly
+rubiconproject.com, 15268, RESELLER, 0bfd66d529a55807 #unruly 
+
+gumgum.com, 11616, DIRECT, ffdef49475d318a9 #a9
+appnexus.com, 1001, RESELLER, f5ab79cb980f11d1
+appnexus.com, 1942, RESELLER, f5ab79cb980f11d1
+appnexus.com, 2758, RESELLER, f5ab79cb980f11d1
+appnexus.com, 3135, RESELLER, f5ab79cb980f11d1
+bidtellect.com, 1407, RESELLER, 1c34aa2d85d45e93
+contextweb.com, 558355, RESELLER, 89ff185a4c4e857c
+criteo.com, 109412, DIRECT, 9fac4a4a87c2a44f
+openx.com, 537120563, RESELLER, 6a698e2ec38604c6
+openx.com, 537149485, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 50758, RESELLER, 5d62403b186f2ace
+revcontent.com, 76611, RESELLER
+spotx.tv, 147949, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 147949, RESELLER, 7842df1d2fe2db34
+google.com, pub-9557089510405422, RESELLER, f08c47fec0942fa0
+google.com, pub-3848273848634341, RESELLER, f08c47fec0942fa0
+rhythmone.com, 78519861, RESELLER, a670c89d4a324e47
+outbrain.com, 01a755b08c8c22b15d46a8b753ab6955d4, DIRECT
+appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
+lkqd.com, 470, RESELLER, 59c49fa9598a0117
+lkqd.net, 470, RESELLER, 59c49fa9598a0117
+33across.com, 0013300001r0t9mAAA, RESELLER
+appnexus.com, 10239, RESELLER, f5ab79cb980f11d1
+
+consumable.com, 2000963, DIRECT #consumable
+adtech.com, 10947, DIRECT #consumable
+aolcloud.net, 10947, DIRECT #consumable
+appnexus.com, 1356, DIRECT, f5ab79cb980f11d1 #consumable
+appnexus.com, 7556, DIRECT, f5ab79cb980f11d1 #consumable
+emxdgt.com, 20, DIRECT, 1e1d41537f7cad7f #consumable
+google.com, pub-6694481294649483, DIRECT, f08c47fec0942fa0 #consumable
+indexexchange.com, 184914, DIRECT, 50b1c356f2c5c8fc #consumable
+indexexchange.com, 186248, DIRECT, 50b1c356f2c5c8fc #consumable
+openx.com, 537150004, DIRECT, 6a698e2ec38604c6 #consumable
+pubmatic.com, 156319, DIRECT, 5d62403b186f2ace #consumable
+sonobi.com, e55fb5d7c2, DIRECT, d1a215d9eb5aee9e #consumable
+sovrn.com, 248396, DIRECT, fafdf38b16bf6b2b #consumable
+rubiconproject.com, 17632, DIRECT, 0bfd66d529a55807 #consumable
+openx.com, 539699341, DIRECT, 6a698e2ec38604c6 #consumable
+rubiconproject.com, 18890, DIRECT, 0bfd66d529a55807 #consumable
+pubmatic.com, 157367, DIRECT, 5d62403b186f2ace #consumable
+indexexchange.com, 187454, DIRECT, 50b1c356f2c5c8fc #consumable
+sonobi.com, 6e5cfb5420, DIRECT, d1a215d9eb5aee9e #consumable

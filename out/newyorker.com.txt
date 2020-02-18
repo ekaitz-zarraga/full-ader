@@ -1,0 +1,67 @@
+# Ads.txt Conde Nast Digital Media - Updated Wed Jan 22 2020
+CONTACT=adstxt@condenast.com
+#--START
+adtech.com, 10920, DIRECT
+adtech.com, 12036, DIRECT
+advertising.com, 21500, DIRECT
+aolcloud.net, 10920, DIRECT
+appnexus.com, 1356, RESELLER, f5ab79cb980f11d1
+appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
+appnexus.com, 1908, RESELLER
+appnexus.com, 7529, DIRECT
+aps.amazon.com, 3035, DIRECT
+contextweb.com, 561584, DIRECT, 9ff185a4c4e857
+districtm.io, 100912, DIRECT
+facebook.com, 957342087696420, DIRECT
+freewheel.tv, 812753, DIRECT
+freewheel.tv, 813329, DIRECT
+google.com, pub-0942427266003794, RESELLER, f08c47fec0942fa0
+google.com, pub-2725559791067351, DIRECT, f08c47fec0942fa0
+google.com, pub-3196149450724403, RESELLER, f08c47fec0942fa0
+google.com, pub-3379, DIRECT, f08c47fec0942fa0
+google.com, pub-3844877863303739, DIRECT, f08c47fec0942fa0
+google.com, pub-5574, DIRECT, f08c47fec0942fa0
+google.com, pub-5995202563537249, RESELLER, f08c47fec0942fa0
+indexexchange.com, 183973, DIRECT, 50b1c356f2c5c8fc
+indexexchange.com, 184601, RESELLER, 50b1c356f2c5c8fc
+indexexchange.com, 184912, DIRECT, 50b1c356f2c5c8fc
+indexexchange.com, 189263, RESELLER
+indexexchange.com, 184912, Direct #app - ads.txt
+lijit.com, 265297, DIRECT, fafdf38b16bf6b2b
+liveintent.com, 1503, DIRECT
+openx.com, 537143455, DIRECT, 6a698e2ec38604c6
+openx.com, 538995730, DIRECT, 6a698e2ec38604c6
+openx.com, 539462051, RESELLER, 6a698e2ec38604c6
+openx.com, 539581285, DIRECT, 6a698e2ec38604c6
+openx.com, 539710909, DIRECT, 6a698e2ec38604c6
+pubmatic.com, 156294, DIRECT, 5d62403b186f2ace #PubMatic
+rubiconproject.com, 11850, DIRECT, 0bfd66d529a55807
+rubiconproject.com, 17814, DIRECT, 0bfd66d529a55807
+rubiconproject.com, 17070, RESELLER, 0bfd66d529a55807
+smartclip.net, 9353, RESELLER
+spotx.tv, 159835, DIRECT, 7842df1d2fe2db34
+spotxchange.com, 159835, DIRECT, 7842df1d2fe2db34
+# Begin Sortable
+deployads.com, 1103, DIRECT
+sortable.com, 1103, DIRECT
+google.com, pub-3153065230153281, DIRECT, f08c47fec0942fa0
+rubiconproject.com, 13218, DIRECT, 0bfd66d529a55807
+# Optional lines
+# rhythmone.com, 630876328, DIRECT, a670c89d4a324e47
+# appnexus.com, 3484, DIRECT
+# End Sortable
+teads.tv, 10218, DIRECT, 15a9c44f6d26cbe1
+teads.tv, 5779, DIRECT, 15a9c44f6d26cbe1
+yieldmo.com, 1924697542084953535, DIRECT
+yieldmo.com, 2095057103378613745, DIRECT
+#Begin Vox Concert
+google.com, pub-5405132603504384, RESELLER, f08c47fec0942fa0
+#End Vox Concert
+triplelift.com, 3841, DIRECT, 6c33edb13117fd86
+pubmatic.com, 157115, DIRECT, 5d62403b186f2ace
+#Begin Undertone
+undertone.com, 1184 DIRECT
+appnexus.com, 2234, RESELLER
+openx.com, 537153564, RESELLER, 6a698e2ec38604c6
+#End Undertone
+#--END

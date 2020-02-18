@@ -1,0 +1,55 @@
+#GoogleAdsense
+
+google.com, pub-2686211189062175, DIRECT, f08c47fec0942fa0
+
+#Rumble
+
+facebook.com, 358719497878746, RESELLER
+google.com, pub-7026201757273977, RESELLER, f08c47fec0942fa0
+google.com, pub-7353644945201577, RESELLER, f08c47fec0942fa0
+rhythmone.com, 752824437, RESELLER, a670c89d4a324e47
+rhythmone.com, 3526250853, RESELLER, a670c89d4a324e47
+chocolateplatform.com, 13062, RESELLER
+openx.com, 538808047, RESELLER
+openx.com, 538808048, RESELLER
+openx.com, 538808049, RESELLER
+openx.com, 538808050, RESELLER
+openx.com, 540344750, RESELLER, 6a698e2ec38604c6
+indexexchange.com, 184032, RESELLER
+indexexchange.com, 187675, RESELLER
+vdopia.com, 14057, RESELLER
+chocolateplatform.com, 14057, RESELLER
+spotxchange.com,252547,RESELLER,7842df1d2fe2db34
+spotx.tv,252547,RESELLER,7842df1d2fe2db34
+
+#MinuteMedia
+
+google.com, pub-1956856209985681, DIRECT, f08c47fec0942fa0 #AdX
+indexexchange.com, 188838, RESELLER
+openx.com, 540447746, RESELLER, 6a698e2ec38604c6 
+spotxchange.com, 82069, RESELLER, 7842df1d2fe2db34
+spotx.tv, 82069, RESELLER, 7842df1d2fe2db34
+undertone.com, 3231, RESELLER
+appnexus.com, 2234, RESELLER
+openx.com, 537153564, RESELLER, 6a698e2ec38604c6
+undertone.com, 3802, RESELLER
+adtech.com, 11574, RESELLER
+coxmt.com, 2000067907202, RESELLER
+pubmatic.com, 156078, RESELLER
+sovrn.com, 264726, RESELLER, fafdf38b16bf6b2b
+lijit.com, 264726, RESELLER, fafdf38b16bf6b2b
+Media.net, 8CU713ZQC, RESELLER 
+Media.net, 8CU6YC6OW, RESELLER
+Rhythmone.com, 203808374, RESELLER, a670c89d4a324e47 
+yieldmo.com, 2230484298816456318, RESELLER 
+telaria.com, 32jid-ohl8i, RESELLER, 1a4e959a1b50034a
+tremorhub.com, 32jid-ohl8i, RESELLER, 1a4e959a1b50034a
+pubmatic.com, 158541, RESELLER, 5d62403b186f2ace
+vdopia.com, 14546, RESELLER, 49a66ce31a704197 #video
+chocolateplatform.com, 14546, RESELLER, 49a66ce31a704197 #video
+adtech.com, 11574, RESELLER #EBDA
+advertising.com, 28488, RESELLER #EBDA
+emxdgt.com, 1369, RESELLER, 1e1d41537f7cad7f #TESTING
+openx.com, 540780517, RESELLER, 6a698e2ec38604c6
+improvedigital.com, 1530, RESELLER #EBDA
+indexexchange.com, 184533, RESELLER

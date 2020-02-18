@@ -1,0 +1,22 @@
+google.com, pub-5647901312652822, DIRECT, f08c47fec0942fa0
+#WEBSPECTATOR
+webspectator.com, WSD-CMNN6PPV, DIRECT
+webspectator.com, WSR-CMNN6PPV, RESELLER
+openx.com, 538974920, RESELLER, 6a698e2ec38604c6 
+openx.com, 91405, RESELLER, 6a698e2ec38604c6 
+Sovrn.com, 216455, RESELLER, fafdf38b16bf6b2b 
+Lijit.com, 216455, RESELLER, fafdf38b16bf6b2b 
+rubiconproject.com, 12332, RESELLER, 0bfd66d529a55807 
+komoona.com, 256093, RESELLER 
+adtags.pro, 483, RESELLER
+adtech.com, 11600, Reseller #Oath
+google.com, pub-5366475136794115, RESELLER, f08c47fec0942fa0
+google.com, ca-video-pub-5366475136794115, DIRECT, f08c47fec0942fa0
+google.com, pub-9715128930196859, RESELLER, f08c47fec0942fa0
+google.com, pub-7049921696094974, RESELLER, f08c47fec0942fa0
+google.com, pub-8526629546024171, RESELLER, f08c47fec0942fa0
+#ADSENSOR
+adsensor.com, ASD-96157941, DIRECT, a25b6197f2d56e2f
+rubiconproject.com, 20412, RESELLER, 0bfd66d529a55807
+criteo.com, 7732, RESELLER
+appnexus.com, 10812, RESELLER, f5ab79cb980f11d1

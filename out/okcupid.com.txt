@@ -1,0 +1,45 @@
+# okcupid.com/ads.txt
+
+Google.com, pub-2475780245225692, DIRECT, f08c47fec0942fa0
+aps.amazon.com, 3121, DIRECT #video, banner
+adtech.com, 9457, DIRECT
+aolcloud.net, 9457, DIRECT
+appnexus.com, 3929, DIRECT
+coxmt.com, 2000067907202, RESELLER
+pubmatic.com, 156078, RESELLER #banner
+pubmatic.com, 156377, RESELLER, 5d62403b186f2ace
+openx.com, 537143344, RESELLER #banner
+indexexchange.com, 175407, RESELLER, 50b1c356f2c5c8fc
+coxmt.com, 2000067907202, RESELLER
+pubmatic.com, 156078, RESELLER #banner
+pubmatic.com, 156377, RESELLER, 5d62403b186f2ace
+openx.com, 537143344, RESELLER #banner
+indexexchange.com, 175407, RESELLER, 50b1c356f2c5c8fc
+openx.com, 537150847, DIRECT, 6a698e2ec38604c6
+openx.com, 538943059, DIRECT, 6a698e2ec38604c6
+openx.com, 537086409, DIRECT, 6a698e2ec38604c6
+indexexchange.com, 184082, DIRECT
+indexexchange.com, 184226, DIRECT
+districtm.io, 100068, DIRECT
+appnexus.com, 7944, RESELLER
+appnexus.com, 1908, RESELLER
+exponential.com, 108440, DIRECT, afac06385c445926
+tribalfusion.com, 108440, DIRECT, afac06385c445926
+indexexchange.com, 176280, RESELLER, 50b1c356f2c5c8fc
+google.com, pub-2051007210431666, RESELLER, f08c47fec0942fa0
+sovrn.com, 99769, DIRECT, fafdf38b16bf6b2b
+lijit.com, 99769, DIRECT, fafdf38b16bf6b2b
+gumgum.com, 11645, RESELLER, ffdef49475d318a9
+openx.com, 537120960, RESELLER
+openx.com, 83499, RESELLER
+openx.com, 538959099, RESELLER
+pubmatic.com, 137711, RESELLER
+pubmatic.com, 156212, RESELLER
+pubmatic.com, 62483, RESELLER
+contextweb.com, 558511, RESELLER
+rubiconproject.com, 4612, DIRECT, 0bfd66d529a55807
+contextweb.com, 561527, DIRECT, 89ff185a4c4e857
+rhythmone.com,1536213822, DIRECT, a670c89d4a324e47
+rhythmone.com, 2609070361, DIRECT,a670c89d4a324e47
+pubmatic.com, 156187, DIRECT, 5d62403b186f2ace
+rubiconproject.com, 17694, DIRECT, 0bfd66d529a55807

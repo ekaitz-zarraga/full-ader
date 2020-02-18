@@ -1,0 +1,32 @@
+#taboola
+openx.com, 539154393, RESELLER
+freewheel.tv, 799841, RESELLER 
+freewheel.tv, 799921, RESELLER 
+aol.com, 53392, RESELLER 
+rhythmone.com, 1166984029, RESELLER, a670c89d4a324e47 
+smartadserver.com, 3563, RESELLER
+beachfront.com, 13749, RESELLER, e2541279e8e2ca4d
+advertising.com, 28458, RESELLER
+admanmedia.com, 556, RESELLER
+#google
+google.com, pub-2385505905423956, DIRECT, f08c47fec0942fa0
+google.com, pub-8218265902877302, DIRECT, f08c47fec0942fa0
+#teads
+teads.tv, 16088, DIRECT, 15a9c44f6d26cbe1
+#taboola standard
+taboola.com,1149642,DIRECT,c228e6794e811952
+taboola.com,{Backstage.pubID},DIRECT,c228e6794e811952 
+taboola.com,{Backstage.pubID},RESELLER,c228e6794e811952
+spotx.tv,71451,RESELLER 
+spotxchange.com, 71451, RESELLER
+advertising.com, 8603, RESELLER
+pubmatic.com, 156307, RESELLER, 5d62403b186f2ace
+appnexus.com, 3364, RESELLER 
+Indexexchange.com, 183756, RESELLER
+contextweb.com, 560382, RESELLER 
+tremorhub.com, z87wm, RESELLER, 1a4e959a1b50034a 
+rubiconproject.com, 16698, RESELLER, 0bfd66d529a55807
+fyber.com, ad9de41d28d494354b23133f26f83122, RESELLER 
+fyber.com, 1a12a7e3f84fe560ccf95a3a73043abb, RESELLER
+
+google.com, pub-6257427840544279, RESELLER, f08c47fec0942fa0

@@ -1,0 +1,116 @@
+#ads.txt AF
+#ADSense
+google.com, pub-6540158310198554, DIRECT, f08c47fec0942fa0
+google.com, pub-2259206618774155, DIRECT, f08c47fec0942fa0
+
+
+#0-ADX
+google.com, pub-9489562160608109, DIRECT, f08c47fec0942fa0
+google.com, pub-8984680869384546, DIRECT, f08c47fec0942fa0
+
+
+# 1-OpenX
+openx.com, 537134841,DIRECT, 6a698e2ec38604c6
+
+
+# 2-Rubicon
+rubiconproject.com, 10029, DIRECT, 0bfd66d529a55807
+
+
+# 3-Sovrn
+Sovrn.com, 239631, direct, fafdf38b16bf6b2b
+Lijit.com, 239631, direct, fafdf38b16bf6b2b
+openx.com, 537120960, RESELLER
+openx.com, 83499, RESELLER
+openx.com, 538959099, RESELLER
+pubmatic.com, 137711, RESELLER
+pubmatic.com, 156212, RESELLER
+pubmatic.com, 62483, RESELLER
+contextweb.com, 558511, RESELLER
+
+
+# 4-PulsePoint
+# N/A
+
+
+# 5-DistrictM
+districtm.io, 100350, DIRECT
+appnexus.com, 1908, RESELLER
+
+
+# 6-CPX
+EMXDGT.com, 303, DIRECT, 1e1d41537f7cad7f
+Appnexus.com, 1356, RESELLER, f5ab79cb980f11d1
+Google.com, pub-5995202563537249, RESELLER, f08c47fec0942fa0
+
+
+# 7-Sonobi
+
+# 8-Amazon
+aps.amazon.com, 3386, DIRECT #video, banner
+
+
+# 9-AppNexus
+appnexus.com, 6833, DIRECT  
+
+# 10-AOL
+# N/A
+
+# 11-WideOrbit
+# N/A
+
+# 12-PubMatic
+pubmatic.com, 155974, Direct, 5d62403b186f2ace
+
+# 13-Casale
+indexexchange.com, 184189, DIRECT
+indexexchange.com, 182730, DIRECT
+indexexchange.com, 182729, DIRECT
+
+
+# 14-Sekindo
+sekindo.com, 21808, DIRECT
+spotxchange.com, 84294, RESELLER, 7842df1d2fe2db34
+spotx.tv, 84294, RESELLER, 7842df1d2fe2db34
+advertising.com, 7372, RESELLER
+adtech.com, 10397, RESELLER
+aolcloud.net, 10397, RESELLER
+inner-active.com, 206396, RESELLER
+contextweb.com, 560453, RESELLER
+lkqd.net, 244, RESELLER, 59c49fa9598a0117
+lkqd.com, 244, RESELLER, 59c49fa9598a0117
+sovrn.com, 251255, RESELLER, fafdf38b16bf6b2b
+lijit.com, 251255, RESELLER, fafdf38b16bf6b2b
+smartadserver.com, 2137, RESELLER
+tidaltv.com, 23034, RESELLER
+tidaltv.com, 32071, RESELLER
+pubmatic.com, 156380, RESELLER, 5d62403b186f2ace
+appnexus.com, 1940, RESELLER
+appnexus.com, 2764, RESELLER
+fyber.com, f14d40df2568b6df4eed292a5ad93716, RESELLER
+fyber.com, 3238c1661ce2914845a986d98baf7d59, RESELLER
+tremorhub.com, mb9eo-oqsbf, RESELLER, 1a4e959a1b50034a
+tremorhub.com, mb9eo-ej2jm, RESELLER, 1a4e959a1b50034a
+vi.ai, 474289066697842, RESELLER
+freewheel.tv, 19129, RESELLER
+freewheel.tv, 19133, RESELLER
+
+
+# 15-Facebook
+# N/A
+
+# 16-Conversant
+conversantmedia.com, 8588, DIRECT
+appnexus.com, 4052, RESELLER
+
+
+# 17-Adblade
+# N/A
+
+# 18-RhythmOne
+
+# 19-Hiro
+# N/A
+
+
+

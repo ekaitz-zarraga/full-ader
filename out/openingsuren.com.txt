@@ -1,0 +1,47 @@
+adform.com, 183, RESELLER
+advertising.com, 27287, RESELLER
+aolcloud.net, 21410, RESELLER
+appnexus.com, 7118, RESELLER
+appnexus.com, 884,RESELLER
+appnexus.com,2579,DIRECT
+appnexus.com, 7118, RESELLER
+appnexus.com, 9994, RESELLER
+contextweb.com,560288,RESELLER
+freewheel.tv, 33081, RESELLER     
+freewheel.tv, 33601, RESELLER
+freewheel.tv, 215714, RESELLER
+freewheel.tv, 216634, RESELLER
+google.com, pub-5810465503128349, DIRECT, f08c47fec0942fa0
+google.com, pub-8172268348509349, RESELLER, f08c47fec0942fa0
+google.com, pub-1313834454494130, RESELLER, f08c47fec0942fa0
+google.com, pub-2316275586951220, RESELLER, f08c47fec0942fa0
+google.com, pub-5192618204358860, RESELLER, f08c47fec0942fa0
+improvedigital.com, 185, RESELLER
+improvedigital.com, 545, RESELLER
+improvedigital.com, 1101, RESELLER
+improvedigital.com, 1186, RESELLER
+improvedigital.com, 1220, RESELLER
+improvedigital.com, 1299, RESELLER
+indexexchange.com,179394,RESELLER
+indexexchange.com, 188249, RESELLER
+openx.com, 537116744, RESELLER, 6a698e2ec38604c6
+openx.com, 537117365, RESELLER, 6a698e2ec38604c6
+openx.com, 537119311, RESELLER, 6a698e2ec38604c6
+openx.com, 537149888, RESELLER, a698e2ec38604c6
+openx.com, 539522594, RESELLER, 6a698e2ec38604c6
+openx.com, 539366975, RESELLER, 6a698e2ec38604c6
+openx.com, 540471883, RESELLER, 6a698e2ec38604c6
+openx.com, 540877352, RESELLER, 6a698e2ec38604c6
+pubmatic.com,156439,RESELLER
+pubmatic.com, 156946, RESELLER, 5d62403b186f2ace
+pubmatic.com, 158452, RESELLER, 5d62403b186f2ace
+quantum-advertising.com,1188,DIRECT
+quantum-advertising.com,3524,DIRECT
+rubiconproject.com,16114,RESELLER
+rubiconproject.com, 17394, RESELLER, 0bfd66d529a55807
+smartadserver.com,486,RESELLER
+spotx.tv, 108933, RESELLER, 7842df1d2fe2db34
+spotx.tv, 153598, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 108933, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 153598, RESELLER, 7842df1d2fe2db34
+tremorhub.com, ztx03-iaj07, RESELLER, 1a4e959a1b50034a

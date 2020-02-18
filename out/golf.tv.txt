@@ -1,0 +1,8 @@
+
+# Ads.txt file for Golf.tv:
+
+#Spotx
+spotxchange.com, 248978, DIRECT, 7842df1d2fe2db34
+spotx.tv, 248978, DIRECT, 7842df1d2fe2db34
+
+contact=DNI_AdOps@discovery.com

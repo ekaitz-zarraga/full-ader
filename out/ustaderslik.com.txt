@@ -1,0 +1,14 @@
+# Ads.txt file for http://ustaderslik.com
+
+
+google.com, pub-0328784884074259, DIRECT, f08c47fec0942fa0
+reklamstore.com, 4280, DIRECT
+rekmob.com, 1004, DIRECT
+appnexus.com, 1619, DIRECT
+adform.com, 1431, DIRECT
+pubmatic.com, 156547, DIRECT
+
+
+
+#Last Modified: 2019.06.10 - 08.08.44
+ 

@@ -1,0 +1,55 @@
+#Google
+google.com, pub-5917535669884492, DIRECT, f08c47fec0942fa0
+google.com, pub-4949157327785243, DIRECT, f08c47fec0942fa0
+
+#Appnexus
+appnexus.com, 9451, DIRECT
+
+#Sovrn
+sovrn.com, 254144, DIRECT, fafdf38b16bf6b2b
+lijit.com, 254144, DIRECT, fafdf38b16bf6b2b
+appnexus.com, 1360, RESELLER, f5ab79cb980f11d1
+gumgum.com, 11645, RESELLER, ffdef49475d318a9
+openx.com, 538959099, RESELLER, 6a698e2ec38604c6
+openx.com, 539924617, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 137711, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156212, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156700, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 17960, RESELLER, 0bfd66d529a55807
+
+#Amazon
+aps.amazon.com,25334825-b2c8-41f8-87af-531df69ad672,DIRECT
+pubmatic.com,157150,RESELLER,5d62403b186f2ace
+openx.com,540191398,RESELLER,6a698e2ec38604c6
+rubiconproject.com,18020,RESELLER,0bfd66d529a55807
+appnexus.com,1908,RESELLER,f5ab79cb980f11d1
+adtech.com,12068,RESELLER,e1a5b5b6e3255540
+districtm.io,100962,RESELLER
+rhythmone.com,1654642120,RESELLER,a670c89d4a324e47
+
+#IndexExchange
+indexexchange.com, 188083, DIRECT, 50b1c356f2c5c8fc
+
+#Rubicon
+rubiconproject.com, 19386, DIRECT, 0bfd66d529a55807
+
+#Openx
+openx.com, 540681742, DIRECT, 6a698e2ec38604c6
+
+#RubiconEB
+rubiconproject.com, 19388, DIRECT, 0bfd66d529a55807
+
+#PubmaticEB
+pubmatic.com, 158387, DIRECT, 5d62403b186f2ace
+
+#OpenXEB
+openx.com, 540717766, DIRECT, 6a698e2ec38604c6
+
+#IndexExchange_EB
+indexexchange.com, 189959, DIRECT
+
+#PubmaticPrebid
+pubmatic.com, 158397, DIRECT, 5d62403b186f2ace
+
+#PubmaticTAM
+pubmatic.com, 158398, DIRECT, 5d62403b186f2ace

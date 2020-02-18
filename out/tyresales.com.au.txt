@@ -1,0 +1,7 @@
+# Ads.txt file for tyresales.com.au
+#
+# tyresales.com.au display inventory can only by purchased directly via MediaMotive
+# (a division of carsales.com Ltd) or via AutoGate if dealer promotional products. 
+# Inventory is not available in open exchanges or private marketplace deals.
+# No resellers are listed in this ads.txt file for this reason.
+contact=http://www.mediamotive.com.au/contact-us/

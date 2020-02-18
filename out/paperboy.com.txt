@@ -1,0 +1,27 @@
+bidsxchange.com, 3545, DIRECT
+adtech.com, 11605, RESELLER
+adtech.com, 4937, RESELLER
+advertising.com, 13174, RESELLER
+pubmatic.com, 148800, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156135, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156921, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156922, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156957, RESELLER, 5d62403b186f2ace
+openx.com, 537143737, RESELLER, 6a698e2ec38604c6
+openx.com, 540259865, RESELLER, 6a698e2ec38604c6
+openx.com, 540423120, RESELLER, 6a698e2ec38604c6
+lkqd.net, 489, RESELLER, 59c49fa9598a0117
+lkqd.com, 489, RESELLER, 59c49fa9598a0117
+freewheel.tv, 674226, RESELLER
+freewheel.tv, 674706, RESELLER
+contextweb.com, 558563, RESELLER, 89ff185a4c4e857c
+contextweb.com, 560537, RESELLER, 89ff185a4c4e857c
+beachfront.com, 5103, RESELLER
+rhythmone.com,2859881575,DIRECT,a670c89d4a324e47
+google.com, pub-1772611089853771, RESELLER, f08c47fec0942fa0
+google.com, pub-9328633604439863, RESELLER, f08c47fec0942fa0
+rubiconproject.com, 17862, DIRECT, 0bfd66d529a55807
+openx.com, 537120048, RESELLER, 6a698e2ec38604c6
+google.com, pub-3452022011371122, RESELLER, f08c47fec0942fa0 
+google.com, pub-6968738577620513, RESELLER 
+33across.com, 0010b00001rrmDAAAY, DIRECT, bbea06d9c4d2853c

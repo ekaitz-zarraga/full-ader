@@ -1,0 +1,23 @@
+#ads.txt for computeridee.nl
+
+google.com, pub-2536363964884214, DIRECT, f08c47fec0942fa0
+
+google.com, pub-7132784591097350, DIRECT, f08c47fec0942fa0
+
+google.com, pub-2514186606460552, DIRECT, f08c47fec0942fa0
+
+spotxchange.com, 163251, DIRECT, 7842df1d2fe2db34 
+spotx.tv, 163251, DIRECT, 7842df1d2fe2db34
+
+appnexus.com, 3270, RESELLER
+cdn.elasticad.net, 1234, RESELLER
+teads.tv, 5579, RESELLER, 15a9c44f6d26cbe1
+
+widespace.com, 3525, DIRECT
+pubmatic.com, 156098, RESELLER, 5d62403b186f2ace
+
+ligadx.com, 2370, DIRECT
+ligadx.com, bb5a540245218f22, DIRECT
+
+appnexus.com, 2154, RESELLER
+indexexchange.com, 184543, RESELLER

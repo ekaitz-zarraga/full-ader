@@ -1,0 +1,89 @@
+# UOL
+google.com, pub-6330791094260149, DIRECT, f08c47fec0942fa0
+google.com, pub-4854083244330948, DIRECT, f08c47fec0942fa0
+rubiconproject.com, 11976, DIRECT, 0bfd66d529a55807
+rubiconproject.com, 19322, DIRECT, 0bfd66d529a55807
+tremorhub.com, 7klg6-61u97, DIRECT, 1a4e959a1b50034a
+appnexus.com, 7339, DIRECT, f5ab79cb980f11d1
+appnexus.com, 9763, RESELLER, f5ab79cb980f11d1
+adtech.com, 11617, DIRECT #Oath
+advertising.com, 28175, DIRECT #Oath
+pubmatic.com, 158303, DIRECT, 5d62403b186f2ace
+contact=l-rtb@uolinc.com
+
+
+
+# MEUTIMAO
+google.com, pub-6412524880311912, DIRECT, f08c47fec0942fa0
+google.com, pub-8118710396186780, DIRECT, f08c47fec0942fa0
+
+
+
+#DAZN
+adform.com, 1411, RESELLER
+adtech.com, 7060, RESELLER
+advertising.com, 19716, RESELLER
+advertising.com, 25001, RECEBER
+advertising.com, 26421, RESELLER
+Advertising.com, 7060, RESELLER
+aol.com, 47230, RESELLER
+aol.com, 9603, RESELLER
+appnexus.com, 2081, RESELLER, f5ab79cb980f11d1
+appnexus.com, 7339, DIRECT, f5ab79cb980f11d1
+bidder.lemmonet.com, 276, DIRECT
+bidder.lemmonet.com, 276, RESELLER
+dynadmic.com,7109027,RESELLER
+freewheel.tv, 342369, RESELLER
+freewheel.tv, 342385, RESELLER
+freewheel.tv, 3865889, RESELLER
+freewheel.tv, 424289, RESELLER
+freewheel.tv, 782433, DIRECT
+freewheel.tv, 791649, RESELLER
+freewheel.tv, 793281, DIRECT
+freewheel.tv, 793313, RESELLER
+freewheel.tv, 854849, RESELLER
+freewheel.tv, 880017, RESELLER
+google.com, pub-1283624027922691, DIRECT, f08c47fec0942fa0 #Priority
+google.com, pub-1283624027922691, RESELLER, f08c47fec0942fa0
+google.com, pub-2468262778002506, RESELLER, f08c47fec0942fa0
+google.com, pub-2763652553015325, RESELLER, f08c47fec0942fa0
+google.com, pub-2967635648669971, RESELLER, f08c47fec0942fa0
+google.com, pub-3633370801129289, RESELLER, f08c47fec0942fa0
+google.com, pub-4162035808123720, DIRECT, f08c47fec0942fa0 #Priority
+google.com, pub-4854083244330948, RESELLER, f08c47fec0942fa0
+google.com, pub-5925015964570180, RESELLER, f08c47fec0942fa0
+google.com, pub-6330791094260149, RESELLER, f08c47fec0942fa0
+google.com, pub-7371018475227526, RESELLER, f08c47fec0942fa0
+google.com, pub-7915887679464005, RESELLER
+google.com, pub-9359066527387894, DIRECT, f08c47fec0942fa0 #Priority
+google.com, pub-9439106205587976, RESELLER, f08c47fec0942fa0
+improvedigital.com, 1202, RESELLER
+openx.com, 539202631, RESELLER, 6a698e2ec38604c6
+optimatic.com, 841734959492, RESELLER
+rubiconproject.com, 11976, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 16162, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 18224, RESELLER, 0bfd66d529a55807
+smartadserver.com, 1894, RESELLER
+smartadserver.com, 2499, RESELLER
+smartadserver.com, 3445, RESELLER
+spotx.tv, 119135, RESELLER, 7842df1d2fe2db34
+spotx.tv, 79313, RESELLER, 7842df1d2fe2db34
+spotx.tv, 82810, RESELLER, 7842df1d2fe2db34
+spotx.tv,151986,RESELLER,7842df1d2fe2db34
+spotxchange.com, 119135, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 79313, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 82810, RESELLER, 7842df1d2fe2db34
+spotxchange.com,151986,RESELLER,7842df1d2fe2db34
+telaria.com, qc8tl-ehp3i, RESELLER, 1a4e959a1b50034a
+telaria.com, yya6z-8xc7d, RESELLER, 1a4e959a1b50034a
+tremorhub.com, 7klg6-61u97, DIRECT, 1a4e959a1b50034a
+tremorhub.com, iq97d, RESELLER, 1a4e959a1b50034a
+tremorhub.com, qc8tl-ehp3i, RESELLER, 1a4e959a1b50034a
+tremorhub.com, st2uq-avahl, RESELLER, 1a4e959a1b50034a
+tremorhub.com, yya6z-8xc7d, RESELLER, 1a4e959a1b50034a
+ymonetize.com, YM4719, DIRECT
+google.com, pub-8674340505315230, DIRECT, f08c47fec0942fa0
+appnexus.com, 1024, DIRECT, f5ab79cb980f11d1
+smartclip.net, 11283, DIRECT
+telaria.com,yya6z-8xc7d,DIRECT,1a4e959a1b50034a
+tremorhub.com,yya6z-8xc7d,DIRECT,1a4e959a1b50034a

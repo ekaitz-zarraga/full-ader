@@ -1,0 +1,61 @@
+google.com, pub-4619200481960036, DIRECT, f08c47fec0942fa0
+bidsxchange.com, 3545, DIRECT
+adtech.com, 10388, RESELLER
+adtech.com, 4627, RESELLER
+advertising.com, 13174, RESELLER
+pubmatic.com, 148800, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156135, RESELLER, 5d62403b186f2ace
+openx.com, 537143737, RESELLER, 6a698e2ec38604c6
+lkqd.net, 489, RESELLER, 59c49fa9598a0117
+freewheel.tv, 674226, RESELLER
+freewheel.tv, 674706, RESELLER
+appnexus.com, 3911, RESELLER, f5ab79cb980f11d1
+beachfront.com, 5103, RESELLER
+contextweb.com, 558563, RESELLER, 89ff185a4c4e857c
+contextweb.com, 560537, RESELLER, 89ff185a4c4e857c
+google.com, pub-5512390705137507, RESELLER, f08c47fec0942fa0
+google.com, pub-9328633604439863, RESELLER, f08c47fec0942fa0
+google.com, pub-7013416668205999, RESELLER, f08c47fec0942fa0
+google.com, pub-7158049150790587, DIRECT, f08c47fec0942fa0
+google.com, pub-5197627706101249, DIRECT, f08c47fec0942fa0
+coxmt.com, 2000067982902, RESELLER
+spotxchange.com, 152177, RESELLER, 7842df1d2fe2db34
+spotx.tv, 152177, RESELLER, 7842df1d2fe2db34
+pubmatic.com, 156921, RESELLER, 5d62403b186f2ace   #display
+pubmatic.com, 156922, RESELLER, 5d62403b186f2ace   #display
+pubmatic.com, 156957, RESELLER, 5d62403b186f2ace   #display
+33across.com, 0010b00001rrmDAAAY, DIRECT
+google.com, pub-9557089510405422, RESELLER, f08c47fec0942fa0  #display 
+appnexus.com, 1001, RESELLER  #display
+rubiconproject.com, 16414, RESELLER, 0bfd66d529a55807  #display
+openx.com, 537120563, RESELLER, 6a698e2ec38604c6  #display
+adtech.com, 9993, RESELLER
+lkqd.com, 293, RESELLER, 59c49fa9598a0117
+indexexchange.com, 185506, RESELLER  #display
+pubmatic.com, 156921, RESELLER, 5d62403b186f2ace  #display
+pubmatic.com, 156922, RESELLER, 5d62403b186f2ace  #display
+google.com, pub-9021387890731428, RESELLER, f08c47fec0942fa0
+vdo.ai, 664, DIRECT
+
+google.com, pub-7094677798399606, RESELLER, f08c47fec0942fa0
+
+appnexus.com, 8148, RESELLER
+advertising.com, 25264, RESELLER
+
+google.com, pub-6070398767421094, DIRECT, f08c47fec0942fa0
+google.com, pub-6070398767421094, RESELLER, f08c47fec0942fa0
+rubiconproject.com, 20682, DIRECT, 0bfd66d529a55807
+rubiconproject.com, 20680, DIRECT, 0bfd66d529a55807
+aps.amazon.com,2809b61f-9195-4e3f-8bce-c5bd250625fd,DIRECT
+pubmatic.com,157150,RESELLER,5d62403b186f2ace
+openx.com,540191398,RESELLER,6a698e2ec38604c6
+rubiconproject.com,18020,RESELLER,0bfd66d529a55807
+appnexus.com,1908,RESELLER,f5ab79cb980f11d1
+adtech.com,12068,RESELLER
+districtm.io,100962,RESELLER
+
+adgebra, 4149, DIRECT
+triplelift.com, 7845, DIRECT, 6c33edb13117fd86
+appnexus.com, 1314, RESELLER
+waardex.com, 78572, RESELLER
+madopi.com, 222858, RESELLER

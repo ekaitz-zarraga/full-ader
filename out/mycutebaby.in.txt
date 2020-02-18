@@ -1,0 +1,52 @@
+google.com, pub-4056727233017885, DIRECT, f08c47fec0942fa0
+
+#adx
+google.com, pub-7620071422727774, RESELLER, f08c47fec0942fa0
+google.com, pub-5278973888786334, RESELLER, f08c47fec0942fa0
+
+
+
+#brealtime
+emxdgt.com, 88, RESELLER, 1e1d41537f7cad7f #brealtime
+appnexus.com, 1356, RESELLER, f5ab79cb980f11d1 #brealtime
+
+#memeglobal
+memevideoad.com, 209, DIRECT #TIM
+contextweb.com, 560860, RESELLER, 89ff185a4c4e857c #TIM
+pubmatic.com, 156677, RESELLER,  5d62403b186f2ace #TIM
+appnexus.com, 3153, RESELLER, f5ab79cb980f11d1 #TIM
+adtech.com, 11095, RESELLER #TIM
+districtm.io, 100750, RESELLER #TIM
+coxmt.com, 2000067907202, RESELLER #TIM
+openx.com, 537143344, RESELLER #TIM
+indexexchange.com, 175407, RESELLER #TIM
+pubmatic.com, 156634, RESELLER, 5d62403b186f2ace #TIM
+adtech.com, 11214, RESELLER #TIM
+
+#conversant
+conversantmedia.com, 40802 , DIRECT #conversant
+appnexus.com, 4052, RESELLER #conversant
+
+
+#taboola
+
+taboola.com,1105524,DIRECT,c228e6794e811952
+taboola.com,1160223,DIRECT,c228e6794e811952
+spotx.tv,71451,RESELLER
+spotxchange.com, 71451, RESELLER
+advertising.com, 8603, RESELLER
+pubmatic.com, 156307, RESELLER, 5d62403b186f2ace
+appnexus.com, 3364, RESELLER
+Indexexchange.com, 183756, RESELLER
+contextweb.com, 560382, RESELLER
+openx.com, 539154393, RESELLER
+tremorhub.com, z87wm, RESELLER, 1a4e959a1b50034a
+rubiconproject.com, 16698, RESELLER, 0bfd66d529a55807
+freewheel.tv, 799841, RESELLER 
+freewheel.tv, 799921, RESELLER 
+aol.com, 53392, RESELLER 
+rhythmone.com, 1166984029, RESELLER, a670c89d4a324e47
+smartadserver.com, 3563, RESELLER
+beachfront.com, 13749, RESELLER, e2541279e8e2ca4d
+advertising.com, 28458, RESELLER
+admanmedia.com, 556, RESELLER

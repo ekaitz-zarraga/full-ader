@@ -1,0 +1,34 @@
+#AdX/Adsense:
+google.com, pub-9579993617424571, DIRECT, f08c47fec0942fa0
+
+#Amazon UAM
+aps.amazon.com,ea68add7-6d8d-4fda-af78-ed58e10bc8a0,DIRECT
+pubmatic.com,157150,RESELLER,5d62403b186f2ace
+openx.com,540191398,RESELLER,6a698e2ec38604c6
+rubiconproject.com,18020,RESELLER,0bfd66d529a55807
+appnexus.com,1908,RESELLER,f5ab79cb980f11d1
+adtech.com,12068,RESELLER,e1a5b5b6e3255540
+ad-generation.jp,12474,RESELLER
+districtm.io,100962,RESELLER,3fd707be9c4527c3
+appnexus.com,3663,RESELLER,f5ab79cb980f11d1
+rhythmone.com,1654642120,RESELLER,a670c89d4a324e47
+
+#AppNexus Direct
+appnexus.com, 10083, DIRECT
+
+#Oath
+adtech.com, 10274, DIRECT, e1a5b5b6e3255540
+adtech.com,12068,RESELLER
+pubmatic.com, 156078, RESELLER
+pubmatic.com, 156377, RESELLER
+pubmatic.com, 155967, RESELLER
+openx.com, 537143344, RESELLER
+openx.com, 537125356, RESELLER
+
+#Index Direct
+indexexchange.com, 188702, DIRECT, 50b1c356f2c5c8fc
+
+#Rubicon Direct
+rubiconproject.com, 19960, DIRECT, 0bfd66d529a55807
+
+Media.net, 8CU3LI4G5, DIRECT

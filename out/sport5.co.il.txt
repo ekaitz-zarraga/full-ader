@@ -1,0 +1,256 @@
+#Ads.txt DOMAIN.com
+google.com, pub-2665856619952400, DIRECT, f08c47fec0942fa0 #ADX
+sekindo.com, 8357, DIRECT
+sekindo.com, 18349, DIRECT
+sekindo.com, 12653, DIRECT
+appnexus.com, 3375, DIRECT #banner,outstream,native,app (il-x.co.il)
+google.com, pub-7431138013052172, DIRECT, f08c47fec0942fa0 #Adsense
+google.com, pub-6746653557725812, DIRECT, f08c47fec0942fa0 #SPOT.IM
+google.com, pub-5616046187545019, RESELLER, f08c47fec0942fa0 #SPOT.IM
+taboola.com,1059027,DIRECT,c228e6794e811952 
+taboola.com,1059027,RESELLER,c228e6794e811952 
+google.com, pub-8573325940152694, RESELLER, f08c47fec0942fa0 #ADnimation
+google.com, pub-7528949385909099, RESELLER, f08c47fec0942fa0 #ADnimation
+totalmediasolutions.com, 7122107, DIRECT #Minute
+google.com, pub-2127333773716092, RESELLER, f08c47fec0942fa0 #Minute
+advertising.com, 12178, RESELLER #Minute
+beachfront.com, 3375, RESELLER, e2541279e8e2ca4d #Minute
+freewheel.tv, 195225, RESELLER #Minute
+freewheel.tv, 183265, RESELLER #Minute
+fyber.com, 0697ea49b57a706a1ef221a02b0c2b1b, RESELLER #Minute
+lkqd.net, 362, RESELLER, 59c49fa9598a0117 #Minute
+lkqd.com, 362, RESELLER, 59c49fa9598a0117 #Minute
+spotxchange.com, 123518, RESELLER, 7842df1d2fe2db34 #Minute
+spotx.tv, 123518, RESELLER, 7842df1d2fe2db34 #Minute
+aniview.com, 5aba8c6828a061159922a9dc, RESELLER #Minute
+cgnl.io, nc55, RESELLER, d9819e7b540bd6e3 #Minute
+cgnl.io, rp75, RESSELLER, d9819e7b540bd6e3 #Minute
+cgnl.io, nc55, DIRECT, d9819e7b540bd6e3 #Minute
+fyber.com, cb2e30a5b387125c9ab3b1be02282604, RESELLER #Minute
+fyber.com, d40cf77e0853ec5bd2b39a51deb78766, RESELLER #Minute
+cedato.com, 17542479, RESELLER #Minute
+lkqd.net, 379, RESELLER, 59c49fa9598a0117 #Minute
+lkqd.com, 379, RESELLER, 59c49fa9598a0117 #Minute
+beachfront.com, 3442, RESELLER, e2541279e8e2ca4d #Minute
+springserve.com, {{378}}, RESELLER, a24eb641fc82e93d #Minute
+Advertising.com, 18772, RESELLER #Minute
+Aniview.com, 583fe79028a061b0914503b4, RESELLER #Minute
+appnexus.com, 3911, RESELLER, f5ab79cb980f11d1 #Minute
+advertising.com, 25308, RESELLER #Minute
+adtech.com, 10466, RESELLER #Minute
+spotxchange.com, 211738, RESELLER, 7842df1d2fe2db34 #Minute
+spotx.tv, 211738, RESELLER, 7842df1d2fe2db34 #Minute
+cedato.com, 501446106, DIRECT #Minute
+cedato.com, 17542479, DIRECT #Minute
+pubmatic.com, 156534 , RESELLER, 5d62403b186f2ace #Minute
+freewheel.tv, 346657, RESELLER #Minute
+freewheel.tv, 346673, RESELLER #Minute
+sekindo.com, 12653, DIRECT #sekindo
+sekindo.com, 8357, DIRECT #sekindo
+sekindo.com, 18349, DIRECT, b6b21d256ef43532 #sekindo
+spotxchange.com, 84294, RESELLER, 7842df1d2fe2db34 #sekindo
+spotx.tv, 84294, RESELLER, 7842df1d2fe2db34 #sekindo
+advertising.com, 7372, RESELLER #sekindo
+advertising.com, 24410, RESELLER #sekindo
+lkqd.net, 244, RESELLER, 59c49fa9598a0117 #sekindo
+lkqd.com, 244, RESELLER, 59c49fa9598a0117 #sekindo
+freewheel.tv, 19129, RESELLER #sekindo
+freewheel.tv, 19133, RESELLER #sekindo
+adform.com, 2078, RESELLER #sekindo
+improvedigital.com, 1065, RESELLER #sekindo
+pubmatic.com, 156595, RESELLER, 5d62403b186f2ace #sekindo
+districtm.io, 101359, RESELLER #sekindo
+appnexus.com, 1908, RESELLER, f5ab79cb980f11d1 #sekindo
+google.com, pub-3805568091292313, RESELLER, f08c47fec0942fa0 #Minute
+lkqd.com, 80, RESELLER, 59c49fa9598a0117 #Minute
+lkqd.net, 80, RESELLER, 59c49fa9598a0117 #Minute
+mars.media, 10608, DIRECT,  #Minute
+freewheel.tv, 30189, RESELLER,  #Minute
+freewheel.tv, 64289, RESELLER,  #Minute
+smartadserver.com, 2056, RESELLER,  #Minute
+Advertising.com, 6814, RESELLER,  #Minute
+spotx.tv, 78856, RESELLER,  #Minute
+spotxchange.com, 78856, RESELLER,  #Minute
+beachfront.com, beachfront_805, RESELLER,  #Minute
+contextweb.com, 558827, RESELLER, 89ff185a4c4e857c #Minute
+pubmatic.com, 156794, RESELLER, 5d62403b186f2ace #Minute
+mediabong.com, 2657, RESELLER,  #Minute
+rubiconproject.com, 18230, RESELLER,  #Minute
+exponential.com, 176980, DIRECT, afac06385c445926 #Minute
+tribalfusion.com, 176980, DIRECT, afac06385c445926 #Minute
+indexexchange.com, 176980, RESELLER, 50b1c356f2c5c8fc #Minute
+zoomd.com, 1525622, DIRECT #zoomd
+google.com, pub-1466027582507864, DIRECT, f08c47fec0942fa0 #zoomd
+google.com, pub-2127333773716092, RESELLER, f08c47fec0942fa0 #zoomd
+spotxchange.com, 198856, RESELLER, 7842df1d2fe2db34 #zoomd
+spotx.tv, 198856, RESELLER, 7842df1d2fe2db34 #zoomd
+adtech.com, 10507, RESELLER #zoomd
+aolcloud.net, 10507, RESELLER #zoomd
+advertising.com, 22860, RESELLER #zoomd
+aol.com, 27327, RESELLER #zoomd
+spotxchange.com, 84294, RESELLER, 7842df1d2fe2db34 #zoomd
+spotx.tv, 84294, RESELLER, 7842df1d2fe2db34 #zoomd
+advertising.com, 7372, RESELLER #zoomd
+advertising.com, 24410, RESELLER #zoomd
+lkqd.net, 244, RESELLER, 59c49fa9598a0117 #zoomd
+lkqd.com, 244, RESELLER, 59c49fa9598a0117 #zoomd
+freewheel.tv, 19129, RESELLER #zoomd
+adform.com, 2078, RESELLER #zoomd
+improvedigital.com, 1065, RESELLER #zoomd
+pubmatic.com, 156595, RESELLER, 5d62403b186f2ace #zoomd
+taboola.com,1056859,DIRECT,c228e6794e811952 #Taboola
+spotx.tv,71451,RESELLER #Taboola
+spotxchange.com, 71451, RESELLER #Taboola
+advertising.com, 8603, RESELLER #Taboola
+pubmatic.com, 156307, RESELLER, 5d62403b186f2ace #Taboola
+appnexus.com, 3364, RESELLER #Taboola
+Indexexchange.com, 183756, RESELLER #Taboola
+contextweb.com, 560382, RESELLER #Taboola
+openx.com, 539154393, RESELLER #Taboola
+tremorhub.com, z87wm, RESELLER, 1a4e959a1b50034a #Taboola
+rubiconproject.com, 16698, RESELLER, 0bfd66d529a55807 #Taboola
+freewheel.tv, 799841, RESELLER  #Taboola
+freewheel.tv, 799921, RESELLER  #Taboola
+aol.com, 53392, RESELLER  #Taboola
+rhythmone.com, 1166984029, RESELLER, a670c89d4a324e47
+#Programmatic Ad Sales by Adnimation, available through Google Adx, contact for guaranteed deals: publishers@adnimation.com #Adnimation
+google.com, pub-8573325940152694, RESELLER, f08c47fec0942fa0 #Adnimation
+google.com, pub-7528949385909099, RESELLER, f08c47fec0942fa0 #Adnimation
+#EBDA #Adnimation
+indexexchange.com, 187357, DIRECT, 50b1c356f2c5c8fc #Adnimation
+openx.com, 540310754, RESELLER, 6a698e2ec38604c6 #Adnimation
+rhythmone.com,3790884261,DIRECT,a670c89d4a324e47 #Adnimation
+#SOVRN #Adnimation
+sovrn.com, 234903, DIRECT, fafdf38b16bf6b2b #Adnimation
+lijit.com, 234903, DIRECT, fafdf38b16bf6b2b #Adnimation
+appnexus.com, 1360, RESELLER, f5ab79cb980f11d1 #Adnimation
+gumgum.com, 11645, RESELLER, ffdef49475d318a9 #Adnimation
+openx.com, 538959099, RESELLER, 6a698e2ec38604c6 #Adnimation
+openx.com, 539924617, RESELLER, 6a698e2ec38604c6 #Adnimation
+pubmatic.com, 137711, RESELLER, 5d62403b186f2ace #Adnimation
+pubmatic.com, 156212, RESELLER, 5d62403b186f2ace #Adnimation
+pubmatic.com, 156700, RESELLER, 5d62403b186f2ace #Adnimation
+rubiconproject.com, 17960, RESELLER, 0bfd66d529a55807 #Adnimation
+#Programmatic Ad Sales by Adnimation, available through Google Adx, contact for guaranteed deals: publishers@adnimation.com #Adnimation
+google.com, pub-8573325940152694, RESELLER, f08c47fec0942fa0 #Adnimation
+google.com, pub-7528949385909099, RESELLER, f08c47fec0942fa0 #Adnimation
+#EBDA
+indexexchange.com, 187357, DIRECT, 50b1c356f2c5c8fc #Adnimation
+openx.com, 540310754, RESELLER, 6a698e2ec38604c6 #Adnimation
+rhythmone.com,3790884261,DIRECT,a670c89d4a324e47 #Adnimation
+#SOVRN #Adnimation
+sovrn.com, 234903, DIRECT, fafdf38b16bf6b2b #Adnimation
+lijit.com, 234903, DIRECT, fafdf38b16bf6b2b #Adnimation
+appnexus.com, 1360, RESELLER, f5ab79cb980f11d1 #Adnimation
+gumgum.com, 11645, RESELLER, ffdef49475d318a9 #Adnimation
+openx.com, 538959099, RESELLER, 6a698e2ec38604c6 #Adnimation
+openx.com, 539924617, RESELLER, 6a698e2ec38604c6 #Adnimation
+pubmatic.com, 137711, RESELLER, 5d62403b186f2ace #Adnimation
+pubmatic.com, 156212, RESELLER, 5d62403b186f2ace #Adnimation
+pubmatic.com, 156700, RESELLER, 5d62403b186f2ace #Adnimation
+rubiconproject.com, 17960, RESELLER, 0bfd66d529a55807 #Adnimation
+spotim.market, 266658, DIRECT #Spot.IM
+Spot.IM, 266658, DIRECT #Spot.IM
+google.com, pub-5616046187545019, DIRECT, f08c47fec0942fa0 #Spot.IM
+google.com, pub-6746653557725812, DIRECT, f08c47fec0942fa0 #Spot.IM
+google.com, pub-9685734445476814, RESELLER, f08c47fec0942fa0 #Spot.IM
+google.com, pub-7165160458962611, RESELLER, f08c47fec0942fa0 #Spot.IM
+google.com, pub-3385581455811764, RESELLER, f08c47fec0942fa0 #Spot.IM
+advertising.com, 21364, RESELLER #Spot.IM
+adtech.com, 11465, RESELLER #Spot.IM
+openx.com, 539466082, RESELLER, 6a698e2ec38604c6 #Spot.IM
+openx.com, 540362110, RESELLER, 6a698e2ec38604c6 #Spot.IM
+openx.com, 540634772, RESELLER, 6a698e2ec38604c6 #Spot.IM
+rhythmone.com, 449400134, DIRECT, a670c89d4a324e47 #Spot.IM
+rhythmone.com, 915882568, DIRECT, a670c89d4a324e47 #Spot.IM
+spotxchange.com, 211945, RESELLER, 7842df1d2fe2db34 #Spot.IM
+spotx.tv, 211945, RESELLER, 7842df1d2fe2db34 #Spot.IM
+rubiconproject.com, 17184, DIRECT, 0bfd66d529a55807 #Spot.IM
+rubiconproject.com, 18728, DIRECT, 0bfd66d529a55807 #Spot.IM
+appnexus.com, 6933, RESELLER #Spot.IM
+pubmatic.com, 156758, RESELLER, 5d62403b186f2ace #Spot.IM
+pubmatic.com, 156813, RESELLER, 5d62403b186f2ace #Spot.IM
+pubmatic.com, 157679, RESELLER, 5d62403b186f2ace #Spot.IM
+adyoulike.com, e5ae8cdbe88e1f889aae7ee0c672ca30, DIRECT, 4ad745ead2958bf7 #Spot.IM
+freewheel.tv, 848385, RESELLER #Spot.IM
+freewheel.tv, 848401, RESELLER #Spot.IM
+adtelligent.com, 283366, RESELLER #Spot.IM
+lockerdome.com, 11201047612067584, DIRECT #Spot.IM
+sharethrough.com, d5183e17, DIRECT, d53b998a7bd4ecd2 #Spot.IM
+gumgum.com, 13579, DIRECT, ffdef49475d318a9 #Spot.IM
+indexexchange.com, 189478, DIRECT #Spot.IM
+indexexchange.com, 189529, DIRECT #Spot.IM
+indexexchange.com, 190532, DIRECT #Spot.IM
+sovrn.com, 250745, DIRECT, fafdf38b16bf6b2b #Spot.IM
+lijit.com, 250745, DIRECT, fafdf38b16bf6b2b #Spot.IM
+lijit.com, 250745-eb, DIRECT, fafdf38b16bf6b2b #Spot.IM
+freewheel.tv, 961937, RESELLER #Spot.IM
+freewheel.tv, 961953, RESELLER #Spot.IM
+telaria.com, p4dt2-jhelk, RESELLER, 1a4e959a1b50034a #Spot.IM
+tremorhub.com, p4dt2-jhelk, RESELLER, 1a4e959a1b50034a #Spot.IM
+spotim.market, sp_dbj1rz5F, DIRECT
+spotim.market, 266658, DIRECT #Spot.IM 
+Spot.IM, 266658, DIRECT #Spot.IM 
+google.com, pub-5616046187545019, DIRECT, f08c47fec0942fa0 #Spot.IM
+google.com, pub-6746653557725812, DIRECT, f08c47fec0942fa0 #Spot.IM
+google.com, pub-9685734445476814, RESELLER, f08c47fec0942fa0 #Spot.IM
+google.com, pub-3385581455811764, RESELLER, f08c47fec0942fa0 #Spot.IM
+advertising.com, 21364, RESELLER #Spot.IM
+adtech.com, 11465, RESELLER #Spot.IM
+openx.com, 539466082, RESELLER, 6a698e2ec38604c6 #Spot.IM
+openx.com, 540362110, RESELLER, 6a698e2ec38604c6 #Spot.IM
+openx.com, 540634772, RESELLER, 6a698e2ec38604c6 #Spot.IM
+rhythmone.com, 449400134, DIRECT, a670c89d4a324e47 #Spot.IM
+rhythmone.com, 915882568, DIRECT, a670c89d4a324e47 #Spot.IM
+spotxchange.com, 211945, RESELLER, 7842df1d2fe2db34 #Spot.IM
+spotx.tv, 211945, RESELLER, 7842df1d2fe2db34 #Spot.IM
+rubiconproject.com, 17184, DIRECT, 0bfd66d529a55807 #Spot.IM
+rubiconproject.com, 18728, DIRECT, 0bfd66d529a55807 #Spot.IM
+appnexus.com, 6933, RESELLER #Spot.IM
+pubmatic.com, 156758, RESELLER, 5d62403b186f2ace #Spot.IM
+pubmatic.com, 156813, RESELLER, 5d62403b186f2ace #Spot.IM
+pubmatic.com, 157679, RESELLER, 5d62403b186f2ace #Spot.IM
+adyoulike.com, e5ae8cdbe88e1f889aae7ee0c672ca30, DIRECT, 4ad745ead2958bf7 #Spot.IM
+freewheel.tv, 848385, RESELLER #Spot.IM
+freewheel.tv, 848401, RESELLER #Spot.IM
+adtelligent.com, 283366, RESELLER #Spot.IM
+lockerdome.com, 11201047612067584, DIRECT #Spot.IM
+sharethrough.com, d5183e17, DIRECT, d53b998a7bd4ecd2 #Spot.IM
+gumgum.com, 13579, DIRECT, ffdef49475d318a9 #Spot.IM
+indexexchange.com, 189478, DIRECT #Spot.IM
+indexexchange.com, 189529, DIRECT #Spot.IM
+indexexchange.com, 190532, DIRECT #Spot.IM
+sovrn.com, 250745, DIRECT, fafdf38b16bf6b2b #Spot.IM
+lijit.com, 250745, DIRECT, fafdf38b16bf6b2b #Spot.IM
+lijit.com, 250745-eb, DIRECT, fafdf38b16bf6b2b #Spot.IM
+freewheel.tv, 961937, RESELLER #Spot.IM
+freewheel.tv, 961953, RESELLER #Spot.IM
+telaria.com, p4dt2-jhelk, RESELLER, 1a4e959a1b50034a #Spot.IM
+tremorhub.com, p4dt2-jhelk, RESELLER, 1a4e959a1b50034a #Spot.IM
+smartadserver.com, 3563, RESELLER #Taboola
+beachfront.com, 13749, RESELLER, e2541279e8e2ca4d #Taboola
+advertising.com, 28458, RESELLER #Taboola
+admanmedia.com, 556, RESELLER #Taboola
+taboola.com, 1059024 , DIRECT,c228e6794e811952 #Taboola
+spotx.tv,71451,RESELLER #Taboola
+spotxchange.com, 71451, RESELLER #Taboola
+advertising.com, 8603, RESELLER #Taboola
+pubmatic.com, 156307, RESELLER, 5d62403b186f2ace #Taboola
+appnexus.com, 3364, RESELLER #Taboola
+Indexexchange.com, 183756, RESELLER #Taboola
+contextweb.com, 560382, RESELLER #Taboola
+openx.com, 539154393, RESELLER #Taboola
+tremorhub.com, z87wm, RESELLER, 1a4e959a1b50034a #Taboola
+rubiconproject.com, 16698, RESELLER, 0bfd66d529a55807 #Taboola
+freewheel.tv, 799841, RESELLER #Taboola
+freewheel.tv, 799921, RESELLER #Taboola
+aol.com, 53392, RESELLER #Taboola
+rhythmone.com, 1166984029, RESELLER, a670c89d4a324e47 #Taboola
+smartadserver.com, 3563, RESELLER #Taboola
+beachfront.com, 13749, RESELLER, e2541279e8e2ca4d #Taboola
+advertising.com, 28458, RESELLER #Taboola
+admanmedia.com, 556, RESELLER  #Taboola
+
+
+
+

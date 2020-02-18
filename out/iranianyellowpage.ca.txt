@@ -1,0 +1,169 @@
+# H12-Media
+h12-media.com, 18037, DIRECT
+contextweb.com, 557779, RESELLER, 89ff185a4c4e857c
+contextweb.com, 557723, RESELLER, 89ff185a4c4e857c
+criteo.com, 22270, RESELLER
+sovrn.com, 261575, RESELLER, fafdf38b16bf6b2b
+lijit.com, 261575, RESELLER, fafdf38b16bf6b2b
+gumgum.com, 11645, RESELLER, ffdef49475d318a9
+openx.com, 537120960, RESELLER
+openx.com, 83499, RESELLER
+openx.com, 538959099, RESELLER
+pubmatic.com, 137711, RESELLER
+pubmatic.com, 156212, RESELLER
+pubmatic.com, 62483, RESELLER
+
+# Ads.txt last updated on: 2019/08/13 22-47-467369 by MONUMETRIC
+spotxchange.com, 114948, RESELLER, 7842df1d2fe2db34  #SpotX
+spotx.tv, 114948, RESELLER, 7842df1d2fe2db34         #SpotX
+appnexus.com, 1360, RESELLER, f5ab79cb980f11d1   #sovrn
+contextweb.com, 558511, RESELLER   #sovrn
+gumgum.com, 11645, RESELLER, ffdef49475d318a9   #sovrn
+lijit.com, 211941, DIRECT, fafdf38b16bf6b2b
+lijit.com, 220054, DIRECT, fafdf38b16bf6b2b
+lijit.com, 227117, DIRECT, fafdf38b16bf6b2b
+lijit.com, 231199, DIRECT, fafdf38b16bf6b2b
+lijit.com, 231887, DIRECT, fafdf38b16bf6b2b      #upto/for SOVRN
+lijit.com, 231887, RESELLER, fafdf38b16bf6b2b
+lijit.com, 232537, DIRECT, fafdf38b16bf6b2b
+lijit.com, 233156, DIRECT, fafdf38b16bf6b2b
+lijit.com, 233865, DIRECT, fafdf38b16bf6b2b
+lijit.com, 235329, DIRECT, fafdf38b16bf6b2b
+lijit.com, 237451, DIRECT, fafdf38b16bf6b2b
+lijit.com, 240462, DIRECT, fafdf38b16bf6b2b
+lijit.com, 249252, DIRECT, fafdf38b16bf6b2b
+lijit.com, 249902, DIRECT, fafdf38b16bf6b2b
+openx.com, 537120960, RESELLER   #Sovrn
+openx.com, 538959099, RESELLER  #sovrn
+openx.com, 539924617, RESELLER, 6a698e2ec38604c6   #sovrn
+openx.com, 83499, RESELLER        #sovrn
+pubmatic.com, 137711, RESELLER   #sovrn
+pubmatic.com, 156212, RESELLER    #sovrn
+pubmatic.com, 156700, RESELLER, 5d62403b186f2ace   #sovrn
+pubmatic.com, 62483, RESELLER   #sovrn
+rubiconproject.com, 17960, RESELLER, 0bfd66d529a55807   #sovrn
+sovrn.com, 211941, DIRECT, fafdf38b16bf6b2b      #for SOVRN
+sovrn.com, 220054, DIRECT, fafdf38b16bf6b2b
+sovrn.com, 227117, DIRECT, fafdf38b16bf6b2b
+sovrn.com, 231199, DIRECT, fafdf38b16bf6b2b
+sovrn.com, 231887, DIRECT, fafdf38b16bf6b2b
+sovrn.com, 231887, RESELLER, fafdf38b16bf6b2b
+sovrn.com, 232537, DIRECT, fafdf38b16bf6b2b
+sovrn.com, 233156, DIRECT, fafdf38b16bf6b2b
+sovrn.com, 233865, DIRECT, fafdf38b16bf6b2b
+sovrn.com, 235329, DIRECT, fafdf38b16bf6b2b
+sovrn.com, 237451, DIRECT, fafdf38b16bf6b2b
+sovrn.com, 240462, DIRECT, fafdf38b16bf6b2b
+sovrn.com, 249252, DIRECT, fafdf38b16bf6b2b
+sovrn.com, 249902, DIRECT, fafdf38b16bf6b2b
+pubmatic.com, 137711, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156212, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156972, DIRECT, 5d62403b186f2ace        #for PubMatic
+33across.com, 33, RESELLER  #for GUMGUM
+adtech.com, 9904, RESELLER   #for GUMGUM
+advertising.com, 8603, RESELLER #for GUMGUM
+aolcloud.net, 9904, RESELLER   #for GUMGUM
+appnexus.com, 1001, RESELLER, f5ab79cb980f11d1 #for GUMGUM
+appnexus.com, 2758, RESELLER, f5ab79cb980f11d1  #for GUMGUM
+appnexus.com, 3135, RESELLER, f5ab79cb980f11d1 #for GUMGUM
+appnexus.com, 3364, RESELLER, f5ab79cb980f11d1  #for GUMGUM
+bidtellect.com, 1407, RESELLER, 1c34aa2d85d45e93 #for GUMGUM
+contextweb.com, 558355, RESELLER #for GUMGUM
+contextweb.com, 560382, RESELLER  #for GUMGUM
+criteo.com, 109412, RESELLER, 9fac4a4a87c2a44f #for GUMGUM
+criteo.com, 3450, RESELLER, 9fac4a4a87c2a44f #for GUMGUM
+featureforward.com, 10, RESELLER  #for GUMGUM
+fyber.com, 1a12a7e3f84fe560ccf95a3a73043abb, RESELLER #for GUMGUM
+fyber.com, ad9de41d28d494354b23133f26f83122, RESELLER #for GUMGUM
+gumgum.com, 11483, RESELLER, ffdef49475d318a9      #for GUMGUM
+indexexchange.com, 177754, RESELLER, 50b1c356f2c5c8fc #for GUMGUM
+Indexexchange.com, 183756, RESELLER, 50b1c356f2c5c8fc #for GUMGUM
+media.net, 8CU5ZWB19, RESELLER  #for GUMGUM
+openx.com, 46857, RESELLER, 6a698e2ec38604c6 #for GUMGUM
+openx.com, 537120563, RESELLER, 6a698e2ec38604c6 #for GUMGUM
+openx.com, 537149485, RESELLER, 6a698e2ec38604c6  #for GUMGUM
+pubmatic.com, 156307, RESELLER, 5d62403b186f2ace #for GUMGUM
+pubmatic.com, 157897, RESELLER, 5d62403b186f2ace
+pubmatic.com, 50758, RESELLER, 5d62403b186f2ace   #for GUMGUM
+revcontent.com, 76611, RESELLER #for GUMGUM
+rubiconproject.com, 16698, RESELLER, 0bfd66d529a55807 #for GUMGUM
+smaato.com, 1100033117, RESELLER #for GUMGUM
+sovrn.com, 233111, RESELLER, fafdf38b16bf6b2b #for GUMGUM
+spotxchange.com, 147949, RESELLER, 7842df1d2fe2db34 #for GUMGUM
+spotxchange.com, 71451, RESELLER, 7842df1d2fe2db34 #for GUMGUM
+spotx.tv, 147949, RESELLER, 7842df1d2fe2db34 #for GUMGUM
+spotx.tv,71451,RESELLER, 7842df1d2fe2db34 #for GUMGUM
+synacor.com, 81591, RESELLER #for GUMGUM
+tremorhub.com, z87wm, RESELLER, 1a4e959a1b50034a #for GUMGUM
+appnexus.com, 2854, RESELLER                     #for APPNEXUS
+google.com, pub-8203063731231781, DIRECT, f08c47fec0942fa0 #for Adsense
+coxmt.com, 2000068032502, DIRECT  #for Comet EB
+Indexexchange.com, 187819, DIRECT, 50b1c356f2c5c8fc  #for Index EB
+pubmatic.com, 157200, DIRECT, 5d62403b186f2ace #for Pubmatic EB
+
+# ADD ANY CUSTOM ENTRY BELOW THIS LINE ONLY
+
+
+# Kiosked ads.txt
+ads.kiosked.com, 11404, DIRECT
+appnexus.com, 2721, DIRECT, f5ab79cb980f11d1
+openx.com, 540105377, RESELLER, 6a698e2ec38604c6
+adtech.com, 9573, DIRECT
+aolcloud.net, 9573, DIRECT
+pubmatic.com, 156195, DIRECT, 5d62403b186f2ace
+sovrn.com, 254001, DIRECT, fafdf38b16bf6b2b
+lijit.com, 254001, DIRECT, fafdf38b16bf6b2b
+criteo.net, 145673, DIRECT
+criteo.net, 138122, DIRECT
+google.com, pub-9042063282075774, DIRECT, f08c47fec0942fa0
+contextweb.com, 558626, DIRECT, 89ff185a4c4e857c
+rubiconproject.com, 17558, DIRECT, 0bfd66d529a55807
+smartadserver.com, 3402, DIRECT # SAS
+contextweb.com, 560288, RESELLER, 89ff185a4c4e857c # SAS
+pubmatic.com, 156439, RESELLER # SAS
+pubmatic.com, 154037, RESELLER # SAS
+pubmatic.com, 156030, RESELLER, 5d62403b186f2ace # SAS
+rubiconproject.com, 16114, RESELLER, 0bfd66d529a55807 # SAS
+rubiconproject.com, 13132, RESELLER, 0bfd66d529a55807 # SAS
+openx.com, 537149888, RESELLER, 6a698e2ec38604c6 # SAS
+sovrn.com, 257611, RESELLER, fafdf38b16bf6b2b # SAS
+appnexus.com, 3703, RESELLER, f5ab79cb980f11d1 # SAS
+groundtruth.com, 107, RESELLER, 81cbf0a75a5e0e9a # SAS
+districtm.io, 101760, RESELLER, 3fd707be9c4527c3 # SAS
+loopme.com, s-2411, RESELLER, 6c8d5f95897a5a3b # SAS
+loopme.com, 5679, RESELLER, 6c8d5f95897a5a3b # SAS
+indexexchange.com, 189070, DIRECT # E
+openx.com, 540310763, DIRECT, 6a698e2ec38604c6 # E
+pubmatic.com, 157619, DIRECT, 5d62403b186f2ace # E
+rubiconproject.com, 19760, DIRECT, 0bfd66d529a55807 # E
+rhythmone.com, 2023183204, DIRECT, a670c89d4a324e47 # E
+media.net, 8CUOFWN77, DIRECT # E
+appnexus.com, 1360, RESELLER, f5ab79cb980f11d1 # E Sovrn
+gumgum.com, 11645, RESELLER, ffdef49475d318a9 # E Sovrn
+openx.com, 538959099, RESELLER, 6a698e2ec38604c6 # E Sovrn
+openx.com, 539924617, RESELLER, 6a698e2ec38604c6 # E Sovrn
+pubmatic.com, 137711, RESELLER, 5d62403b186f2ace # E Sovrn
+pubmatic.com, 156212, RESELLER, 5d62403b186f2ace # E Sovrn
+pubmatic.com, 156700, RESELLER, 5d62403b186f2ace # E Sovrn
+rubiconproject.com, 17960, RESELLER, 0bfd66d529a55807 # E Sovrn
+synacor.com, 82112, DIRECT, e108f11b2cdf7d5b # Scr
+advertising.com, 19623, RESELLER # Scr
+coxmt.com, 2000067995202, RESELLER # Scr
+indexexchange.com, 183965, RESELLER, 50b1c356f2c5c8fc # Scr
+pubmatic.com, 156084, RESELLER, 5d62403b186f2ace # Scr
+pubmatic.com, 156325, RESELLER, 5d62403b186f2ace # Scr
+pubmatic.com, 156458, RESELLER, 5d62403b186f2ace # Scr
+rubiconproject.com, 18222, RESELLER, 0bfd66d529a55807 # Scr
+appnexus.com, 9316, RESELLER, f5ab79cb980f11d1 # Scr
+districtm.io, 101769, RESELLER, 3fd707be9c4527c3 # Scr
+pubmatic.com, 156344, RESELLER, 5d62403b186f2ace # Scr
+appnexus.com, 1908, RESELLER, f5ab79cb980f11d1 # Scr
+appnexus.com, 7944, RESELLER, f5ab79cb980f11d1 # Scr
+districtm.io, 100885, RESELLER # Scr
+google.com, pub-5278973888786334, RESELLER, f08c47fec0942fa0 # Scr
+google.com, pub-7620071422727774, RESELLER, f08c47fec0942fa0 # Scr
+google.com, pub-9148265802523938, RESELLER, f08c47fec0942fa0 # Scr
+rhythmone.com, 2497923403, RESELLER, a670c89d4a324e47 # Scr
+rubiconproject.com, 13344, RESELLER, 0bfd66d529a55807 # Scr
+aralego.com, par-488A3E6BD8D997D0ED8B3BD34D8BA4B, RESELLER # Scr
+ucfunnel.com, par-488A3E6BD8D997D0ED8B3BD34D8BA4B, RESELLER # Scr

@@ -1,0 +1,33 @@
+#Admeira AG
+#ads.txt cash.ch
+
+improvedigital.com, 707, DIRECT
+appnexus.com, 9178, DIRECT
+appnexus.com, 1504, RESELLER #video
+appnexus.com, 9820, RESELLER, f5ab79cb980f11d1 #Sentifi Media
+
+ligadx.com,11249,DIRECT
+ligadx.com,e6650afca1ae34c6,DIRECT
+spotxchange.com,206177,RESELLER,7842df1d2fe2db34
+spotx.tv,206177,RESELLER,7842df1d2fe2db34
+
+ligadx.com,15247,DIRECT
+ligadx.com,04ad10de7259fd8d,DIRECT
+spotxchange.com,206177,RESELLER,7842df1d2fe2db34
+spotx.tv,206177,RESELLER,7842df1d2fe2db34
+
+ligadx.com,18577,DIRECT
+ligadx.com,129426a0aa1884f5,DIRECT
+spotxchange.com,206177,RESELLER,7842df1d2fe2db34
+spotx.tv,206177,RESELLER,7842df1d2fe2db34
+
+ligadx.com,16947,DIRECT
+ligadx.com,953ae8b868f3093d,DIRECT
+spotxchange.com,206177,RESELLER,7842df1d2fe2db34
+spotx.tv,206177,RESELLER,7842df1d2fe2db34
+
+teads.tv, 12392, DIRECT, 15a9c44f6d26cbe1 #video
+
+google.com, pub-3729330729646514, DIRECT, f08c47fec0942fa0
+google.com, pub-7452201096415972, DIRECT, f08c47fec0942fa0
+google.com, pub-7554065371255327, DIRECT, f08c47fec0942fa0

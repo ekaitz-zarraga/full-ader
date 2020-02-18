@@ -1,0 +1,30 @@
+#Ads.txt Caesars - 2019-5-22
+
+#On Page
+
+#Display
+
+tremorhub.com, kpnsg-3g124, DIRECT, 1a4e959a1b50034a
+advertising.com, 7610, DIRECT
+lkqd.net, 9, DIRECT, 59c49fa9598a0117openx.com, 540313606, RESELLER, 6a698e2ec38604c6pubmatic.com, 93940, RESELLERappnexus.com, 7096, DIRECTadvertising.com, 6291, RESELLERspringserve.com, 868, DIRECT, a24eb641fc82e93drhythmone.com, 2968119028, RESELLER, a670c89d4a324e47spotxchange.com, 239904, RESELLER, 7842df1d2fe2db34spotx.tv, 239904, RESELLER, 7842df1d2fe2db34openx.com, 540226160, RESELLER, 6a698e2ec38604c6openx.com, 540255318, RESELLER, 6a698e2ec38604c6contextweb.com, 526740, RESELLER, 89ff185a4c4e857cappnexus.com, 10490, RESELLERssp.ynxs.io, 185, RESELLERsupply.colossusssp.com, 134, DIRECTappnexus.com, 2764, DIRECTadmixer.net, 62f3d813-2157-43eb-b955-fa24513fd3e9, DIRECTappnexus.com, 10617, DIRECT #Videoappnexus.com, 9393, DIRECT #Videoappnexus.com, 6953, reselleradform.com, 1762, resellercontextweb.com, 561623, reseller, 89ff185a4c4e857cadvertising.com, 3531, RESELLER
+
+# BEGIN Consumable
+consumable.com, 2000863, DIRECT
+adtech.com, 10947, RESELLER
+aolcloud.net, 10947, RESELLER
+appnexus.com, 1356, RESELLER
+emxdgt.com, 20, RESELLER
+appnexus.com, 7556, RESELLER
+google.com, pub-6694481294649483, RESELLER
+indexexchange.com, 184914, RESELLER
+indexexchange.com, 186248, RESELLER
+indexexchange.com, 187454, RESELLER
+openx.com, 537150004, RESELLER
+openx.com, 539699341, RESELLER
+pubmatic.com, 156319, RESELLER
+pubmatic.com, 157367, RESELLER
+sonobi.com, e55fb5d7c2, RESELLER
+sovrn.com, 248396, RESELLER
+rubiconproject.com, 17632, RESELLER
+rubiconproject.com, 18890, RESELLER
+# END Consumable

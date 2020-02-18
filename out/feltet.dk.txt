@@ -1,0 +1,178 @@
+# GOOGLE
+google.com, pub-4757707358274148, DIRECT, f08c47fec0942fa0
+google.com, pub-8352152683841954, DIRECT, f08c47fec0942fa0
+
+google.com, pub-5672013093457736, DIRECT, f08c47fec0942fa0
+
+# APPNEXUS
+appnexus.com, 8993, DIRECT
+
+# ADFORM
+adform.com, 27, DIRECT
+
+#Indexexchange
+indexexchange.com, 186662, RESELLER
+
+# RUBICON
+rubiconproject.com, 10848, DIRECT, 0bfd66d529a55807
+
+# OPENX
+openx.com, 539942184, DIRECT, 6a698e2ec38604c6
+
+
+# WIDESPACE
+widespace.com, 3355, DIRECT
+pubmatic.com, 156098, RESELLER, 5d62403b186f2ace
+
+# FIRSTIMPRESSION
+firstimpression.io, 6174, RESELLER, a960877e77e58dd6
+firstimpression.io, 6282, RESELLER, a960877e77e58dd6
+google.com, pub-3622156405313063, RESELLER, f08c47fec0942fa0
+openx.com, 537104992, RESELLER, 6a698e2ec38604c6
+sovrn.com, 243408, RESELLER, fafdf38b16bf6b2b
+lijit.com, 243408, RESELLER, fafdf38b16bf6b2b
+sovrn.com, 256420, RESELLER, fafdf38b16bf6b2b
+lijit.com, 256420, RESELLER, fafdf38b16bf6b2b
+adtech.com, 10297, RESELLER
+aolcloud.net, 10297, RESELLER
+contextweb.com, 558377, RESELLER, 89ff185a4c4e857c
+outbrain.com, 0043e7a761d92337b9269c2b10d9835c8d, RESELLER
+
+# JUSTPREMIUM
+improvedigital.com, 185, RESELLER
+spotx.tv, 108933, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 108933, RESELLER, 7842df1d2fe2db34
+appnexus.com, 7118, RESELLER
+openx.com, 539519391, RESELLER, 6a698e2ec38604c6
+openx.com, 537120584, RESELLER, 6a698e2ec38604c6
+openx.com, 537123540, RESELLER, 6a698e2ec38604c6
+openx.com, 537117444, RESELLER, 6a698e2ec38604c6
+openx.com, 537120117, RESELLER, 6a698e2ec38604c6
+openx.com, 537119311, RESELLER, 6a698e2ec38604c6
+openx.com, 537120571, RESELLER, 6a698e2ec38604c6
+openx.com, 537116746, RESELLER, 6a698e2ec38604c6
+openx.com, 537118780, RESELLER, 6a698e2ec38604c6
+openx.com, 537117448, RESELLER, 6a698e2ec38604c6
+openx.com, 537117436, RESELLER, 6a698e2ec38604c6
+openx.com, 537117434, RESELLER, 6a698e2ec38604c6
+openx.com, 537143660, RESELLER, 6a698e2ec38604c6
+openx.com, 537117297, RESELLER, 6a698e2ec38604c6
+openx.com, 537118040, RESELLER, 6a698e2ec38604c6
+openx.com, 539167032, RESELLER, 6a698e2ec38604c6
+openx.com, 537120570, RESELLER, 6a698e2ec38604c6
+openx.com, 537145991, RESELLER, 6a698e2ec38604c6
+openx.com, 537120572, RESELLER, 6a698e2ec38604c6
+openx.com, 537117497, RESELLER, 6a698e2ec38604c6
+openx.com, 537118043, RESELLER, 6a698e2ec38604c6
+openx.com, 537117365, RESELLER, 6a698e2ec38604c6
+openx.com, 537143661, RESELLER, 6a698e2ec38604c6
+openx.com, 537118048, RESELLER, 6a698e2ec38604c6
+openx.com, 537139815, RESELLER, 6a698e2ec38604c6
+openx.com, 537120573, RESELLER, 6a698e2ec38604c6
+openx.com, 537117364, RESELLER, 6a698e2ec38604c6
+openx.com, 537120574, RESELLER, 6a698e2ec38604c6
+openx.com, 537123495, RESELLER, 6a698e2ec38604c6
+openx.com, 537120575, RESELLER, 6a698e2ec38604c6
+openx.com, 537120576, RESELLER, 6a698e2ec38604c6
+openx.com, 537149830, RESELLER, 6a698e2ec38604c6
+openx.com, 537120578, RESELLER, 6a698e2ec38604c6
+openx.com, 537118056, RESELLER, 6a698e2ec38604c6
+openx.com, 537117371, RESELLER, 6a698e2ec38604c6
+openx.com, 537116744, RESELLER, 6a698e2ec38604c6
+openx.com, 537118047, RESELLER, 6a698e2ec38604c6
+openx.com, 537120579, RESELLER, 6a698e2ec38604c6
+openx.com, 537123577, RESELLER, 6a698e2ec38604c6
+openx.com, 537117435, RESELLER, 6a698e2ec38604c6
+openx.com, 537147016, RESELLER, 6a698e2ec38604c6
+openx.com, 537117441, RESELLER, 6a698e2ec38604c6
+openx.com, 537117983, RESELLER, 6a698e2ec38604c6
+openx.com, 537120581, RESELLER, 6a698e2ec38604c6
+openx.com, 537120195, RESELLER, 6a698e2ec38604c6
+openx.com, 537120568, RESELLER, 6a698e2ec38604c6
+openx.com, 537118039, RESELLER, 6a698e2ec38604c6
+openx.com, 537120583, RESELLER, 6a698e2ec38604c6
+openx.com, 537118053, RESELLER, 6a698e2ec38604c6
+openx.com, 537116751, RESELLER, 6a698e2ec38604c6
+openx.com, 537117145, RESELLER, 6a698e2ec38604c6
+openx.com, 537120194, RESELLER, 6a698e2ec38604c6
+
+# PLAYAD
+google.com, pub-5002094515318070, RESELLER, f08c47fec0942fa0
+rubiconproject.com, 16474, RESELLER, 0bfd66d529a55807
+adform.com, 629, RESELLER
+
+# FREE WHEEL
+#Newsbreak
+freewheel.tv, 468209, RESELLER
+freewheel.tv, 469025, RESELLER
+#Kendte
+freewheel.tv, 468225, RESELLER
+freewheel.tv, 469041, RESELLER
+#SN
+freewheel.tv, 468241, RESELLER
+freewheel.tv, 469057, RESELLER
+#DenStoreDanske
+freewheel.tv, 468257, RESELLER
+freewheel.tv, 469073, RESELLER
+#Nordjyske
+freewheel.tv, 468273, RESELLER
+freewheel.tv, 469089, RESELLER
+#Feltet
+freewheel.tv, 468289, RESELLER
+freewheel.tv, 469105, RESELLER
+#Madensverden
+freewheel.tv, 468305, RESELLER
+freewheel.tv, 469121, RESELLER
+#Jubii
+freewheel.tv, 468321, RESELLER
+freewheel.tv, 469137, RESELLER
+#Localeyes
+freewheel.tv, 468337, RESELLER
+freewheel.tv, 469153, RESELLER
+#Politirapporten
+freewheel.tv, 468353, RESELLER
+freewheel.tv, 469169, RESELLER
+#Bilgalleri
+freewheel.tv, 468369, RESELLER
+freewheel.tv, 469185, RESELLER
+#Hestegalleri
+freewheel.tv, 468385, RESELLER
+freewheel.tv, 469201, RESELLER
+#Heste-nettet
+freewheel.tv, 468401, RESELLER
+freewheel.tv, 469217, RESELLER
+#Motorcykelgalleri
+freewheel.tv, 468417, RESELLER
+freewheel.tv, 469233, RESELLER
+#Scootergalleri
+freewheel.tv, 468433, RESELLER
+freewheel.tv, 469249, RESELLER
+#Hundegalleri
+freewheel.tv, 468449, RESELLER
+freewheel.tv, 469265, RESELLER
+
+# SMARTCLIP
+smartclip.net, 8410, DIRECT
+
+# XAXIS
+appnexus.com, 2954, RESELLER
+
+#ADNORDICS
+adform.com, 2244, RESELLER, 9f5210a2f0999e32
+google.com, pub-2639796181223786, RESELLER, f08c47fec0942fa0
+google.com, pub-7470920653924184, RESELLER, f08c47fec0942fa0
+google.com, pub-9408841346868022, RESELLER, f08c47fec0942fa0
+adform.com, 814, RESELLER, 9f5210a2f0999e32
+spotxchange.com, 88862, RESELLER, 7842df1d2fe2db34
+spotx.tv, 88862, RESELLER, 7842df1d2fe2db34
+improvedigital.com, 185, RESELLER
+spotx.tv, 108933, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 108933, RESELLER, 7842df1d2fe2db34
+appnexus.com, 7118, RESELLER
+openx.com, 539523301, RESELLER, 6a698e2ec38604c6
+adform.com, 183, RESELLER
+freewheel.tv, 33081, RESELLER
+freewheel.tv, 33601, RESELLER
+google.com, pub-8172268348509349, RESELLER, f08c47fec0942fa0
+openx.com, 539523301, RESELLER, 6a698e2ec38604c6
+teads.tv, 17460, RESELLER, 15a9c44f6d26cbe1

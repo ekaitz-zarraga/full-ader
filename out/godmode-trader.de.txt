@@ -1,0 +1,29 @@
+# QUARTER MEDIA ads.txt v2.3 from 2018-11-09
+
+google.com, pub-2442391371104067, RESELLER, f08c47fec0942fa0
+yieldlab.net, 706149, DIRECT
+ad.yieldlab.net, 706149, DIRECT
+indexexchange.com, 185703, DIRECT #HB
+indexexchange.com, 187762, RESELLER #EB
+spotxchange.com, 125647, DIRECT, 7842df1d2fe2db34
+spotx.tv, 125647, DIRECT, 7842df1d2fe2db34
+openx.com, 540189206, RESELLER, 6a698e2ec38604c6 #HB
+openx.com, 540299275, RESELLER, 6a698e2ec38604c6 #EB
+aps.amazon.com, 3371, DIRECT
+ligadx.com, 263, DIRECT, 52721722d676dd48
+Appnexus.com, 3723, RESELLER #Ligatus AppNexus
+appnexus.com, 7445, RESELLER #Xaxis
+yieldlab.net, 886718, DIRECT #Conative
+yieldlab.net, 227224, Reseller #Conative
+yieldlab.net, 506261, RESELLER #PREX
+yieldlab.net, 5494672, RESELLER #PA
+yieldlab.net, 227224, RESELLER #yieldlab Premium
+smartstream.tv, 5729, RESELLER
+indexexchange.com, 184665, RESELLER, 50b1c356f2c5c8fc #InSkin
+yieldlab.net, 2329165, RESELLER #pilot
+media.net, 8CUTQ7WV3, DIRECT
+pubmatic.com, 157651, DIRECT, 5d62403b186f2ace #EB
+yieldlab.net, 227224, RESELLER
+yieldlab.net, 5494697, DIRECT
+rubiconproject.com, 20186, DIRECT, 0bfd66d529a55807 #EB
+rubiconproject.com, 20188, DIRECT, 0bfd66d529a55807 #HB

@@ -1,0 +1,36 @@
+#mm
+google.com, pub-7620071422727774, RESELLER, f08c47fec0942fa0 #MMCAD
+google.com, pub-5278973888786334, RESELLER, f08c47fec0942fa0 #MMUSD
+google.com, pub-1142323411777001, RESELLER, f08c47fec0942fa0 #MMAdsense
+appnexus.com, 3573, DIRECT #appnexus
+adtech.com, 10513, DIRECT #aol
+aolcloud.net, 10513, DIRECT #aol
+sovrn.com, 234206, RESELLER, fafdf38b16bf6b2b #sovrn
+lijit.com, 234206, RESELLER, fafdf38b16bf6b2b #sovrn
+openx.com, 537120960, RESELLER #sovrn
+openx.com, 83499, RESELLER #sovrn
+openx.com, 538959099, RESELLER #sovrn
+pubmatic.com, 137711, RESELLER #sovrn
+pubmatic.com, 156212, RESELLER #sovrn
+pubmatic.com, 62483, RESELLER #sovrn
+contextweb.com, 558511, RESELLER #sovrn
+gumgum.com, 11645, RESELLER, ffdef49475d318a9 #sovrn
+appnexus.com, 1360, RESELLER, f5ab79cb980f11d1 #sovrn
+openx.com, 539924617, RESELLER, 6a698e2ec38604c6 #sovrn
+pubmatic.com, 156700, RESELLER, 5d62403b186f2ace #sovrn
+rubiconproject.com, 17960, RESELLER, 0bfd66d529a55807 #sovrn
+contextweb.com, 558894, RESELLER, 89ff185a4c4e857c #pulsepoint
+nativeads.com, 40112, RESELLER #headbidding
+indexexchange.com, 184282, DIRECT, 50b1c356f2c5c8fc #indexExchange
+conversantmedia.com, 40802 , DIRECT #conversant
+appnexus.com, 4052, RESELLER #conversant
+contextweb.com, 561998, RESELLER, 89ff185a4c4e857c #conversant
+openx.com, 540031703, RESELLER, 6a698e2ec38604c6 #conversant
+pubmatic.com, 158100, RESELLER, 5d62403b186f2ace #conversant
+openx.com, 540472623, RESELLER, 6a698e2ec38604c6 #openx
+rhythmone.com, 2614004368, RESELLER, a670c89d4a324e47 #rhythmone
+districtm.io, 100541, RESELLER, 3fd707be9c4527c3 #districtm
+appnexus.com, 1908, RESELLER, f5ab79cb980f11d1 #districtm
+google.com, pub-9685734445476814, RESELLER, f08c47fec0942fa0 #districtm
+appnexus.com, 3153, RESELLER #oftmedia
+#mm

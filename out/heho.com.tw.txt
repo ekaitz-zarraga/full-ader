@@ -1,0 +1,16 @@
+#Ads.txt heho.com.tw
+
+#Google
+google.com, pub-5693807149055825, DIRECT, f08c47fec0942fa0
+
+#Scupio
+rubiconproject.com, 17388, RESELLER, 0bfd66d529a55807
+google.com, pub-4866695676912380, RESELLER, f08c47fec0942fa0
+ucfunnel.com, par-988BE9D33473D9817847BD898A2ABE, RESELLER
+aralego.com, par-988BE9D33473D9817847BD898A2ABE, RESELLER
+
+#SUBDOMAINS
+subdomain=lifestyle.heho.com.tw
+subdomain=cancer.heho.com.tw
+subdomain=forum.heho.com.tw
+subdomain=exam.heho.com.tw

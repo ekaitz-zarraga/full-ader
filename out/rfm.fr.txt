@@ -1,0 +1,149 @@
+# Lagardere Publicite
+# verification par https://adstxt.adnxs.com, le 01/03/2019
+#
+appnexus.com, 4013, DIRECT, f5ab79cb980f11d1			# Lagardere Publicite
+appnexus.com, 10251, DIRECT, f5ab79cb980f11d1		     # Lagardere Publicite News
+rubiconproject.com, 8627, DIRECT, 0bfd66d529a55807		# Lagardere Publicite > Rubicon Project
+#
+google.com, pub-5035025648894332, DIRECT, f08c47fec0942fa0	# Lagardere Publicite > GAS
+google.com, pub-5131738703995837, DIRECT, f08c47fec0942fa0	# Lagardere Publicite > GAS [Chelsea]
+google.com, pub-6608446553925033, DIRECT, f08c47fec0942fa0	# Lagardere Publicite > GAdx [Chelsea]
+#
+adyoulike.com, 341b42fa0fd52ea27bfe2fef0c01cd9b, RESELLER 	# Lagardere Publicite > AdYouLike.com
+teads.tv, 11739, DIRECT, 15a9c44f6d26cbe1			# Lagardere Publicite > Teads.tv
+# DFP > 13/02/2019
+google.com, pub-7214319858737759, DIRECT, f08c47fec0942fa0
+#
+smartadserver.com,2399,RESELLER					# Lagardere Publicite > Adikteev.com
+rubiconproject.com, 17504, RESELLER, 0bfd66d529a55807		# Lagardere Publicite > Adikteev.com
+appnexus.com, 3418, RESELLER					# Lagardere Publicite > Adikteev.com
+#
+smartadserver.com, 1827, RESELLER				# Lagardere Publicite > SublimSkinz.com
+improvedigital.com, 335, RESELLER				# Lagardere Publicite > SublimSkinz.com
+appnexus.com, 3538, RESELLER, f5ab79cb980f11d1			# Lagardere Publicite > SublimSkinz.com
+appnexus.com, 3539, RESELLER, f5ab79cb980f11d1			# Lagardere Publicite > SublimSkinz.com
+appnexus.com, 3540, RESELLER, f5ab79cb980f11d1			# Lagardere Publicite > SublimSkinz.com
+freewheel.tv, 67945, RESELLER					# Lagardere Publicite > SublimSkinz.com
+#Mediasquare 04/02/2019
+rubiconproject.com, 9585, RESELLER, 0bfd66d529a55807		# Media Square > Rubicon
+google.com,pub-1456202600763510,DIRECT,f08c47fec0942fa0		# Media Square > GAS LP
+appnexus.com, 2579, DIRECT, f5ab79cb980f11d1			# Media Square > Quantum
+appnexus.com, 1608, RESELLER, f5ab79cb980f11d1			# Media Square > AppNexus
+appnexus.com, 8494, RESELLER, f5ab79cb980f11d1			# Media Square > AppNexus
+quantum-advertising.com,  2332, DIRECT				# Media Square > Quantum
+freewheel.tv,5183, RESELLER					# Media Square > FreeWheel
+freewheel.tv,1483, RESELLER					# Media Square > FreeWheel
+indexexchange.com, 187149, DIRECT
+spotxchange.com, 241646, RESELLER, 7842df1d2fe2db34
+spotx.tv, 241646, RESELLER, 7842df1d2fe2db34
+# MSQ > 01/03/2019
+rubiconproject.com, 9585, RESELLER, 0bfd66d529a55807
+appnexus.com, 1608, RESELLER, f5ab79cb980f11d1
+appnexus.com, 8494, RESELLER, f5ab79cb980f11d1
+spotxchange.com, 241646, RESELLER, 7842df1d2fe2db34
+spotx.tv, 241646, RESELLER, 7842df1d2fe2db34
+indexexchange.com, 187149, RESELLER
+# Digiteka > 17/04/2019
+#SSP
+spotxchange.com, 169199, RESELLER, 7842df1d2fe2db34
+spotx.tv, 169199, RESELLER, 7842df1d2fe2db34
+tremorhub.com, vfgfc-fw5bo, RESELLER, 1a4e959a1b50034a
+google.com, pub-7026431251527825, RESELLER, f08c47fec0942fa0
+google.com, pub-5549723401598621, DIRECT, f08c47fec0942fa0
+rubiconproject.com, 15646, RESELLER, 0bfd66d529a55807
+improvedigital.com, 1139, RESELLER
+#SSP FREEWHEEL DIGITEKA FR
+freewheel.tv, 1867, RESELLER #NEWS
+freewheel.tv, 1929, RESELLER #CULTURE
+freewheel.tv, 1931, RESELLER #FEMMES
+freewheel.tv, 1933, RESELLER #VOYAGES LIFESTYLE
+freewheel.tv, 133681, RESELLER #SPORT
+freewheel.tv, 133777, RESELLER #AUTO
+freewheel.tv, 784225, RESELLER #P3
+freewheel.tv, 888513, RESELLER #DAT
+#SSP FREEWHEEL FR OX
+freewheel.tv, 9262, RESELLER
+freewheel.tv, 109361, RESELLER
+freewheel.tv, 9264, RESELLER
+freewheel.tv, 109369, RESELLER
+freewheel.tv, 9266, RESELLER
+freewheel.tv, 109377, RESELLER
+freewheel.tv, 9268, RESELLER
+freewheel.tv, 109385, RESELLER
+freewheel.tv, 9270, RESELLER
+freewheel.tv, 109393, RESELLER
+freewheel.tv, 9272, RESELLER
+freewheel.tv, 109401, RESELLER
+freewheel.tv, 133689, RESELLER
+freewheel.tv, 133785, RESELLER
+freewheel.tv, 156121, RESELLER
+#OVERVIEWS
+freewheel.tv, 1069, RESELLER
+freewheel.tv, 5649, RESELLER
+#ADUX
+freewheel.tv, 85425, RESELLER
+freewheel.tv, 85433, RESELLER
+freewheel.tv, 131977, RESELLER
+#SSP BELGIQUE
+freewheel.tv, 278866, RESELLER
+freewheel.tv, 278882, RESELLER
+google.com, pub-2468262778002506, RESELLER, f08c47fec0942fa0
+freewheel.tv, 175897, RESELLER
+#IC
+appnexus.com, 2579, RESELLER #native
+quantum-advertising.com, 2935, RESELLER #native
+#---------------- DIGITEKA ES/MX ------------------#
+#SSP FREEWHEEL DIGITEKA ES
+freewheel.tv, 154545, RESELLER #NEWS
+freewheel.tv, 154553, RESELLER #SPORT
+freewheel.tv, 154569, RESELLER #TRAVEL
+freewheel.tv, 154577, RESELLER #WOMEN
+freewheel.tv, 154593, RESELLER #BUSINESS
+freewheel.tv, 154609, RESELLER #CULTURE
+freewheel.tv, 195953, RESELLER #GROUPO
+freewheel.tv, 218722, RESELLER #DEAL
+#SSP FREEWHEEL ES OX
+freewheel.tv, 197865, RESELLER
+freewheel.tv, 197873, RESELLER
+freewheel.tv, 197889, RESELLER
+freewheel.tv, 197897, RESELLER
+freewheel.tv, 197913, RESELLER
+freewheel.tv, 197929, RESELLER
+freewheel.tv, 197961, RESELLER
+freewheel.tv, 218730, RESELLER
+#SSP FREEWHEEL DIGITEKA MX
+freewheel.tv, 198353, RESELLER #CULTURE
+freewheel.tv, 198369, RESELLER #LIFESTYLE
+freewheel.tv, 198385, RESELLER #NEWS
+#SSP FREEWHEEL MX OX
+freewheel.tv, 199049, RESELLER
+freewheel.tv, 199065, RESELLER
+freewheel.tv, 199081, RESELLER
+# AdSense > 17/04/2019
+google.com, pub-8725965869999561, DIRECT, f08c47fec0942fa0
+seedtag.com, 5164-7722-01, DIRECT
+pubmatic.com, 157743, DIRECT, 5d62403b186f2ace
+spotxchange.com, 249286, DIRECT, 7842df1d2fe2db34
+spotx.tv, 249286, DIRECT, 7842df1d2fe2db34
+rubiconproject.com, 17280, DIRECT, 0bfd66d529a55807
+yieldnexus.com, 96204, DIRECT
+33across.com, 0010b00002MptHCAAZ, DIRECT, bbea06d9c4d2853c
+smartadserver.com, 3050, DIRECT
+groundtruth.com, 107, DIRECT, 81cbf0a75a5e0e9a
+contextweb.com, 560288, DIRECT, 89ff185a4c4e857c
+openx.com, 537149888, DIRECT, 6a698e2ec38604c6
+sovrn.com, 257611, DIRECT, fafdf38b16bf6b2b
+districtm.io, 101760, DIRECT, 3fd707be9c4527c3
+appnexus.com, 4009, DIRECT
+richaudience.com, ns9qrKJLKD, DIRECT
+adform.com, 1942, DIRECT
+advertising.com, 7574, DIRECT
+aerserv.com, 2750, DIRECT, 2ce496b9f80eb9fa
+aolcloud.net, 4687, DIRECT
+mobfox.com, 74240, DIRECT
+openx.com, 539625136, DIRECT
+smaato.com, 1100037086, DIRECT
+tremorhub.com, s2t3y-r3ofd, DIRECT, 1a4e959a1b50034a
+smartadserver.com, 2938, DIRECT
+adswizz.com,lagardere,DIRECT
+#FIN

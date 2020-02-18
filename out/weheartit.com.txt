@@ -1,0 +1,117 @@
+# Rubicon
+rubiconproject.com, 11024, DIRECT, 0bfd66d529a55807
+rubiconproject.com, 11024, RESELLER, 0bfd66d529a55807
+
+# Verizon
+adtech, 11701, DIRECT
+
+# TripleLift
+triplelift.com, 7172, DIRECT, 6c33edb13117fd86
+appnexus.com, 1314, RESELLER
+spotxchange.com, 228454, RESELLER, 7842df1d2fe2db34
+spotx.tv, 228454, RESELLER, 7842df1d2fe2db34
+
+# ADX
+google.com, pub-7915769105781682, DIRECT, f08c47fec0942fa0
+google.com, pub-6439061255852481, DIRECT, f08c47fec0942fa0
+
+# Appnexus
+appnexus.com, 7105, DIRECT
+
+# Sharethrough
+sharethrough.com, c2c51ced, DIRECT, d53b998a7bd4ecd2
+indexexchange.com, 186046, RESELLER
+spotxchange.com, 212457, RESELLER
+spotx.tv, 212457, RESELLER
+pubmatic.com, 156557, RESELLER
+rubiconproject.com, 18694, RESELLER, 0bfd66d529a55807
+openx.com, 540274407, RESELLER, 6a698e2ec38604c6
+
+# Sovrn
+sovrn.com, 244533, DIRECT, fafdf38b16bf6b2b
+lijit.com, 244533, DIRECT, fafdf38b16bf6b2b
+appnexus.com, 1360, RESELLER, f5ab79cb980f11d1
+gumgum.com, 11645, RESELLER, ffdef49475d318a9
+openx.com, 538959099, RESELLER, 6a698e2ec38604c6
+openx.com, 539924617, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 137711, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156212, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156700, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 17960, RESELLER, 0bfd66d529a55807
+
+# LiveIntent
+liveintent.com, 54855, DIRECT
+
+# 33Across
+33across.com, 0010b00002QIRhxAAH, DIRECT, bbea06d9c4d2853c #display #hb #tag
+rubiconproject.com, 16414, RESELLER, 0bfd66d529a55807 #display #hb #tag
+pubmatic.com, 156423, RESELLER, 5d62403b186f2ace #display #hb #tag
+pubmatic.com, 158136, RESELLER, 5d62403b186f2ace #display JAPAN #hb #tag
+appnexus.com, 10239, RESELLER, f5ab79cb980f11d1 #display #hb #tag
+appnexus.com, 1001, RESELLER, f5ab79cb980f11d1 #display #tag
+appnexus.com, 3135, RESELLER, f5ab79cb980f11d1 #display #tag
+openx.com, 537120563, RESELLER, 6a698e2ec38604c6 #display #hb #tag
+openx.com, 539392223, RESELLER, 6a698e2ec38604c6 #display #tag
+rhythmone.com, 2439829435, RESELLER, a670c89d4a324e47 #display #hb #tag
+emxdgt.com, 326, RESELLER, 1e1d41537f7cad7f #display #hb #tag
+gumgum.com, 13318, RESELLER, ffdef49475d318a9 #display #hb #tag
+adtech.com, 12094, RESELLER #display #hb #tag
+adtech.com, 9993, RESELLER #display #tag
+advangelists.com, 8d3bba7425e7c98c50f52ca1b52d3735, RESELLER, 60d26397ec060f98 #display #hb #tag
+google.com, pub-9557089510405422, RESELLER, f08c47fec0942fa0 #display #tag
+
+# Pubmatic
+pubmatic.com, 158808, DIRECT, 5d62403b186f2ace
+
+# Fyber
+fyber.com, 210430, DIRECT
+adcolony.com, 3dcf9f51638afe2c, RESELLER, 1ad675c9de6b5176
+adcolony.com, 801e49d1be83b5f9, RESELLER, 1ad675c9de6b5176
+admanmedia.com, 26, RESELLER
+admixer.net, 2e1cb1ea-814c-476a-8627-d474e41378df, RESELLER
+advangelists.com, a5771bce93e200c36f7cd9dfd0e5deaa, RESELLER, 60d26397ec060f98
+algorix.co, 54236, RESELLER
+appnexus.com, 8804, RESELLER, f5ab79cb980f11d1
+axonix.com, 56716, RESELLER
+axonix.com, 57869, RESELLER
+blis.com, 74, RESELLER, 61453ae19a4b73f4
+cmcm.com, 58, RESELLER
+cmcm.com, 66, RESELLER
+contextweb.com, 558884, RESELLER, 89ff185a4c4e857c
+contextweb.com, 561913, RESELLER, 89ff185a4c4e857c
+emodoinc.com, 634152, RESELLER
+EMXDGT.com, 1324, RESELLER, 1e1d41537f7cad7f
+engagebdr.com, 10252, RESELLER
+epom.com, 8608cf5e-df38-4686-baf5-1ed3326e16af, RESELLER, a05085f3142a1ca8
+inmobi.com, 7c9e112a810a4b639bb6af3fa397233e, RESELLER, 83e75a7ae333ca9d
+loopme.com, 5176, RESELLER, 6c8d5f95897a5a3b
+omprovedigital.com, 1366, RESELLER
+openx.com, 537125459, RESELLER, 6a698e2ec38604c6
+openx.com, 537153564, RESELLER, 6a698e2ec38604c6
+openx.com, 540298543, RESELLER, 6a698e2ec38604c6
+openx.com, 540679900, RESELLER, 6a698e2ec38604c6
+openx.com, 540838151, RESELLER, 6a698e2ec38604c6
+openx.com, 540866936, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 157899, RESELLER, 5d62403b186f2ace
+pubmatic.com, 157941, RESELLER, 5d62403b186f2ace
+pubmatic.com, 158060, RESELLER, 5d62403b186f2ace
+pubmatic.com, 158154, RESELLER, 5d62403b186f2ace
+pubmatic.com, 158291, RESELLER, 5d62403b186f2ace
+pubmatic.com, 158481, RESELLER, 5d62403b186f2ace
+pubnative.net, 1006353, RESELLER, d641df8625486a7b
+rhythmone.com, 2169000724, RESELLER, a670c89d4a324e47
+rhythmone.com, 3948367200, RESELLER, a670c89d4a324e47
+rinconpx.net, 1f0e3dad99908345f7439f8ffabdffc4, RESELLER, 1de8588326a0a2d7
+rubiconproject.com, 14558, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 15320, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 16990, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 20050, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 20744, RESELLER, 0bfd66d529a55807
+sabio.us, 100029, RESELLER, 96ed93aaa9795702
+spotx.tv, 135285, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 135285, RESELLER, 7842df1d2fe2db34
+startapp.com, inr, RESELLER
+undertone.com, 3737, RESELLER
+webeyemob.com, 70078, RESELLER
+xad.com, 427, RESELLER, 81cbf0a75a5e0e9a
+xad.com, 556, RESELLER, 81cbf0a75a5e0e9a

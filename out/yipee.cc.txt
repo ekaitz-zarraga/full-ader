@@ -1,0 +1,18 @@
+#Google
+google.com, pub-6101025888860202, DIRECT, f08c47fec0942fa0
+google.com, pub-1418529948870857, RESELLER, f08c47fec0942fa0
+
+#SUBDOMAINS
+subdomain=app.yipee.cc
+subdomain=3c.yipee.cc
+subdomain=coffee.yipee.cc
+subdomain=gapp.yipee.cc
+subdomain=girlnews.yipee.cc
+subdomain=story.yipee.cc
+subdomain=funny.yipee.cc
+subdomain=webgame.yipee.cc
+subdomain=www.yipee.cc
+subdomain=index.yipee.cc
+subdomain=yipee.cc
+subdomain=1766.today
+subdomain=www.yipee.cc

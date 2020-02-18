@@ -1,0 +1,51 @@
+#Google Adsense
+google.com, pub-5930497139704672, DIRECT, f08c47fec0942fa0 #ADSENSE
+
+#Taboola
+taboola.com,1138907,DIRECT,c228e6794e811952
+spotx.tv,71451,RESELLER
+spotxchange.com, 71451, RESELLER
+advertising.com, 8603, RESELLER
+pubmatic.com, 156307, RESELLER, 5d62403b186f2ace
+appnexus.com, 3364, RESELLER
+Indexexchange.com, 183756, RESELLER
+contextweb.com, 560382, RESELLER
+openx.com, 539154393, RESELLER
+tremorhub.com, z87wm, RESELLER, 1a4e959a1b50034a
+rubiconproject.com, 16698, RESELLER, 0bfd66d529a55807
+freewheel.tv, 799841, RESELLER
+freewheel.tv, 799921, RESELLER
+aol.com, 53392, RESELLER
+rhythmone.com, 1166984029, RESELLER, a670c89d4a324e47
+inmobi.com, a985e39014a94721a8e97c929d32ef9d, RESELLER, 83e75a7ae333ca9d
+smartadserver.com, 3563, RESELLER
+pubnative.net, 1007180, RESELLER, d641df8625486a7b
+beachfront.com, 13749, RESELLER, e2541279e8e2ca4d
+advertising.com, 28458, RESELLER
+admanmedia.com, 556, RESELLER
+
+#Programmatic Ad Sales by Adnimation, available through Google Adx, contact for guaranteed deals: publishers@adnimation.com
+google.com, pub-8573325940152694, RESELLER, f08c47fec0942fa0
+google.com, pub-7528949385909099, RESELLER, f08c47fec0942fa0
+
+#SOVRN ADN
+sovrn.com, 242989, DIRECT, fafdf38b16bf6b2b
+lijit.com, 242989, DIRECT, fafdf38b16bf6b2b
+lijit.com, 242989-eb, DIRECT, fafdf38b16bf6b2b
+appnexus.com, 1360, RESELLER, f5ab79cb980f11d1
+gumgum.com, 11645, RESELLER, ffdef49475d318a9
+openx.com, 538959099, RESELLER, 6a698e2ec38604c6
+openx.com, 539924617, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 137711, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156212, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156700, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 17960, RESELLER, 0bfd66d529a55807
+
+#EBDA
+indexexchange.com, 187357, DIRECT, 50b1c356f2c5c8fc
+openx.com, 540310754, RESELLER, 6a698e2ec38604c6
+sonobi.com, 49df131b31, DIRECT, d1a215d9eb5aee9e
+
+#AppNexus
+appnexus.com, 10815, DIRECT, f5ab79cb980f11d1
+google.com, pub-6257427840544279, RESELLER, f08c47fec0942fa0

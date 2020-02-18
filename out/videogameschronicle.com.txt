@@ -1,0 +1,20 @@
+# ads.txt file for www.videogameschronicle.com
+
+indexexchange.com, 185247, DIRECT
+openx.com, 538986826, DIRECT, 6a698e2ec38604c6
+google.com, pub-6808778588815127, DIRECT, f08c47fec0942fa0
+triplelift.com, 4820, DIRECT, 6c33edb13117fd86
+pubmatic.com, 157312, DIRECT, 5d62403b186f2ace
+rhythmone.com,101233540,DIRECT,1728314595
+appnexus.com, 1314, RESELLER
+spotxchange.com, 228454, RESELLER, 7842df1d2fe2db34
+spotx.tv, 228454, RESELLER, 7842df1d2fe2db34
+lkqd.net, 504, RESELLER, 59c49fa9598a0117
+coxmt.com,  2000068030202, DIRECT 
+sovrn.com, 224172, DIRECT, fafdf38b16bf6b2b
+google.com, pub-4560360103312331, DIRECT, f08c47fec0942fa0 
+rubiconproject.com, 18418, DIRECT, 0bfd66d529a55807 
+google.com, pub-7064439419818173, RESELLER  #Display Horizon Point
+sonobi.com, 8612f780c9, DIRECT, d1a215d9eb5aee9e
+rhythmone.com, 1059622079, RESELLER, a670c89d4a324e47
+contextweb.com, 560606, RESELLER, 89ff185a4c4e857c

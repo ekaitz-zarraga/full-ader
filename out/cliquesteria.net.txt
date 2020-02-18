@@ -1,0 +1,42 @@
+solvemedia.com, TGK3-6UjrdedeMNh, DIRECT
+rubiconproject.com, 12070, RESELLER, 0bfd66d529a55807
+google.com, pub-1206942066043065, RESELLER, f08c47fec0942fa0
+
+rekmob.com,  13399,DIRECT
+reklamstore.com, 129766, DIRECT
+appnexus.com, 1619, DIRECT
+adform.com, 1431, RESELLER
+pubmatic.com, 156547, RESELLER
+improvedigital.com, 1216, RESELLER
+rubiconproject.com, 17270, RESELLER, 0bfd66d529a55807
+
+# AdSense
+google.com, pub-2778952995668502, DIRECT, f08c47fec0942fa0
+google.com, pub-3545305307753046, DIRECT, f08c47fec0942fa0
+
+# AdExchange
+google.com, pub-5510224949774646, DIRECT, f08c47fec0942fa0
+
+# Game Distribution
+spotxchange.com, 153598, RESELLER, 7842df1d2fe2db34
+spotx.tv, 153598, RESELLER, 7842df1d2fe2db34
+freewheel.tv, 215714, RESELLER
+
+freewheel.tv, 216634, RESELLER
+google.com, pub-1313834454494130, RESELLER, f08c47fec0942fa0
+google.com, pub-2316275586951220, RESELLER, f08c47fec0942fa0
+
+# Wanted5Games ComeWePlay
+google.com, pub-5442138861389400, RESELLER, f08c47fec0942fa0
+
+# Wanted5Games Vooxe
+improvedigital.com, 545, RESELLER
+improvedigital.com, 1101, RESELLER
+tremorhub.com, ztx03-iaj07, RESELLER, 1a4e959a1b50034a
+aolcloud.net, 21410, RESELLER
+indexexchange.com, 188249, RESELLER
+pubmatic.com, 156946, RESELLER, 5d62403b186f2ace
+appnexus.com, 9994, RESELLER
+advertising.com, 27287, RESELLER
+rubiconproject.com, 17394, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 20960, DIRECT, 0bfd66d529a55807 # Wanted5Games_BV

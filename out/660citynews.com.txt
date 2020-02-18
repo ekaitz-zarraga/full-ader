@@ -1,0 +1,52 @@
+#Ads.txt Rogers Digital Media - v4.7 - AdUtility Version
+#Rogers
+google.com, pub-0942427266003794, DIRECT, f08c47fec0942fa0 #Rogers ADX account
+appnexus.com, 1321, DIRECT, f5ab79cb980f11d1 #Rogers Appnexus account inside the Header Tag
+facebook.com, 478055822535097, DIRECT, 50b1c356f2c5c8fc #Rogers Facebook account inside the Header Tag
+indexexchange.com, 181202, DIRECT, 50b1c356f2c5c8fc #Rogers CPAX Account - Waterfall Config
+indexexchange.com, 182960, DIRECT, 50b1c356f2c5c8fc #Rogers TAGS Account - Waterfall Config
+indexexchange.com, 184315, DIRECT, 50b1c356f2c5c8fc #Rogers IX Header Tag Account
+indexexchange.com, 184601, DIRECT, 50b1c356f2c5c8fc #Rogers IX EBDA Account
+#
+google.com, pub-9685734445476814, RESELLER, f08c47fec0942fa0
+aps.amazon.com, 3719, DIRECT
+appnexus.com, 1908, RESELLER, f5ab79cb980f11d1
+appnexus.com, 7944, RESELLER, f5ab79cb980f11d1
+districtm.io, 100127, DIRECT
+openx.com, 539462051, DIRECT, 6a698e2ec38604c6 #EBDA
+openx.com, 539708628, DIRECT, 6a698e2ec38604c6 #Index
+openx.com, 540302365, DIRECT, 6a698e2ec38604c6 #A9
+#
+#slimcut
+slimcut.media, 15, DIRECT, fe119a6acfd19070
+advertising.com, 22118, RESELLER
+appnexus.com, 2579, RESELLER, f5ab79cb980f11d1 #native
+freeskreen.com, 15, DIRECT, fe119a6acfd19070
+indexexchange.com, 184088, RESELLER, 50b1c356f2c5c8fc
+quantum-advertising.com, 3247, DIRECT
+quantum-advertising.com, 3159, DIRECT
+quantum-advertising.com, 3198, DIRECT
+smartadserver.com, 1772, RESELLER
+tremorhub.com, slimcut-3xdm9, RESELLER, 1a4e959a1b50034a
+tremorhub.com, zatbg-9d8bu, RESELLER, 1a4e959a1b50034a
+#
+#liveintent
+liveintent.com, 16214, DIRECT
+liveintent.com, 16219, DIRECT
+liveintent.com, 16226, DIRECT
+liveintent.com, 16233, DIRECT
+liveintent.com, 16235, DIRECT
+liveintent.com, 16242, DIRECT
+liveintent.com, 16245, DIRECT
+#
+#adswizz
+adswizz.com, rogers, DIRECT
+#
+#teads.tv
+teads.tv, 16605, DIRECT, 15a9c44f6d26cbe1
+#
+#Archive
+# google.com, pub-7337832052946939, DIRECT, f08c47fec0942fa0 #OLD Rogers AdSense account
+# openx.com, 539462051, RESELLER, 6a698e2ec38604c6 #EBDA
+# openx.com, 539708628, RESELLER, 6a698e2ec38604c6 #Index
+# openx.com, 540302365, RESELLER, 6a698e2ec38604c6 #A9

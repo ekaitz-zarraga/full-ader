@@ -1,0 +1,41 @@
+#Newspapers ads.txt
+#Last Updated 12-9-19
+#Appnexus
+appnexus.com, 7641, DIRECT
+#Yieldmo
+yieldmo.com, 2239926448008365661, DIRECT
+yieldmo.com, 2281297204029104418, DIRECT
+#Pubmatic
+pubmatic.com, 158067, DIRECT, 5d62403b186f2ace
+pubmatic.com, 158092, DIRECT, 5d62403b186f2ace
+#DistrictM
+districtm.io, 100563, DIRECT, 3fd707be9c4527c3
+#Rubicon
+rubiconproject.com, 14544, DIRECT, 0bfd66d529a55807
+#Appnexus
+appnexus.com, 7641, DIRECT
+#Indexexchange
+indexexchange.com, 185131, DIRECT
+#Adx
+google.com, pub-6068594957799567, DIRECT, f08c47fec0942fa0
+google.com, pub-8848487514564484, DIRECT, f08c47fec0942fa0
+#Rain
+aps.amazon.com, 3348, DIRECT #display
+#Conversant
+conversantmedia.com, 28180, DIRECT, 03113cd04947736d
+#Oath
+adtech.com, 10240, DIRECT
+aolcloud.net, 10240, DIRECT
+aol.com, 50974, DIRECT
+adtech.com, 12088, DIRECT
+#Sovrn
+sovrn.com, 52351, DIRECT, fafdf38b16bf6b2b
+lijit.com, 52351, DIRECT, fafdf38b16bf6b2b
+#Openx
+openx.com, 538911206, DIRECT, 6a698e2ec38604c6
+openx.com, 539963263, DIRECT, 6a698e2ec38604c6
+#Rubicon
+rubiconproject.com, 14544, DIRECT, 0bfd66d529a55807
+#Exponential
+exponential.com, 27630, DIRECT, afac06385c445926
+tribalfusion.com, 27630, DIRECT, afac06385c445926

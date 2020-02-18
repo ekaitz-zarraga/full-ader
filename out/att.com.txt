@@ -1,0 +1,7 @@
+appnexus.com, 9367, DIRECT
+
+subdomain=more.att.com
+subdomain=experience.att.com
+subdomain=watch.att.com
+subdomain=audiencenetwork.att.com
+subdomain=mas.att.com

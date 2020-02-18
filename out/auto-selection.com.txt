@@ -1,0 +1,27 @@
+smartadserver.com, 1826, DIRECT
+indexexchange.com,179394,DIRECT
+contextweb.com,560288,DIRECT
+pubmatic.com,156439,DIRECT
+rubiconproject.com,16114,DIRECT
+openx.com,537149888,DIRECT,a698e2ec38604c6
+google.com, pub-8291935971038300, DIRECT, f08c47fec0942fa0
+adyoulike.com, 203c7769a47dada2fc04b7ab37abb202, RESELLER
+smartadserver.com,2399,RESELLER
+appnexus.com, 2579, DIRECT #native
+quantum-advertising.com, 2231, DIRECT #native
+google.com, pub-8926006132191501, DIRECT, f08c47fec0942fa0
+google.com, pub-8173197934601823, DIRECT, f08c47fec0942fa0
+gumgum.com, 13244, DIRECT, ffdef49475d318a9
+freewheel.tv, 704914, DIRECT #1
+freewheel.tv, 710210, DIRECT #2
+freewheel.tv, 726594, DIRECT #3
+freewheel.tv, 732290, DIRECT #4
+freewheel.tv, 732306, DIRECT #5
+freewheel.tv, 708402, RESELLER #1
+freewheel.tv, 710226, RESELLER #2
+freewheel.tv, 726610, RESELLER #3
+freewheel.tv, 732322, RESELLER #4
+freewheel.tv, 732338, RESELLER #5
+appnexus.com, 2579, DIRECT #native
+quantum-advertising.com, 2231, DIRECT #native
+google.com, pub-7245948843464695, DIRECT, f08c47fec0942fa0

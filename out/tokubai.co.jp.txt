@@ -1,0 +1,73 @@
+ad-stir.com, 3399, RESELLER
+adtdp.com,2227,RESELLER # AJA
+as.amanad.adtdp.com,2227,RESELLER # AJA
+pubmatic.com,157141,RESELLER,5d62403b186f2ace # AJA
+google.com, pub-3051644738909820, DIRECT, f08c47fec0942fa0
+google.com, pub-1574936888980624, DIRECT, f08c47fec0942fa0
+genieesspv.jp, 21861, RESELLER # SoftbankSSP
+gmossp-sp.jp, 2000467, RESELLER
+impact-ad.jp, 3456, RESELLER
+microad.co.jp, 10061, RESELLER
+microad.co.jp, 14281, RESELLER
+openx.com, 537107979, RESELLER, 6a698e2ec38604c6
+openx.com, 539294065, RESELLER, 6a698e2ec38604c6
+rubiconproject.com, 12494, RESELLER, 0bfd66d529a55807
+teads.tv, 13591, RESELLER, 15a9c44f6d26cbe1
+teads.tv, 13592, RESELLER, 15a9c44f6d26cbe1
+outbrain.com, 014f3aedeeadc1ac71db121c4a67e515b5, RESELLER
+appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
+tremorhub.com, q017o-78mlk, RESELLER, 1a4e959a1b50034a # Outbrain outstream video
+advertising.com, 12624, RESELLER # Outbrain outstream video
+fyber.com, f2a848067b5fe77e73205e8024940cbf, RESELLER # Outbrain outstream video
+freewheel.tv, 484721, RESELLER # Outbrain outstream video
+aps.amazon.com, 3988, DIRECT #display
+adtech.com, 10853, RESELLER #OATH
+openx.com,537143344,RESELLER #OATH
+appnexus.com,1226,RESELLER #OATH
+indexexchange.com,175407,RESELLER,50b1c356f2c5c8fc #OATH
+pubmatic.com,156530,RESELLER,5d62403b186f2ace #OATH
+appnexus.com, 3663, RESELLER #Yahoo
+impact-ad.jp,4118,DIRECT #Y1
+google.com,pub-4094152962392845,RESELLER,f08c47fec0942fa0 #Y1
+google.com,pub-4231984443817768,RESELLER,f08c47fec0942fa0 #Y1
+openx.com,539294039,RESELLER,6a698e2ec38604c6 #Y1
+rubiconproject.com,14486,RESELLER,0bfd66d529a55807 #Y1
+appnexus.com,7702,RESELLER,f5ab79cb980f11d1 #Y1
+adtech.com,9670,RESELLER #Y1
+aolcloud.net,9670,RESELLER #Y1
+advertising.com,14558,RESELLER #Y1
+amoad.com,105499,RESELLER #Y1
+i-mobile.co.jp,25572,RESELLER #Y1
+i-mobile.co.jp,36157,RESELLER #Y1
+i-mobile.co.jp,47772,RESELLER #Y1
+i-mobile.co.jp,25588,RESELLER #Y1
+i-mobile.co.jp,57985,RESELLER #Y1
+i-mobile.co.jp,12601,RESELLER #Y1
+i-mobile.co.jp,62395,RESELLER #Y1
+appvador.com,1145,RESELLER #Y1
+pubmatic.com,156899,RESELLER,5d62403b186f2ace #Y1
+uliza.jp,1815,RESELLER #Y1
+pubmatic.com,122325,RESELLER,5d62403b186f2ace #Y1
+uliza.jp,2118,RESELLER #Y1
+pubmatic.com,156959,RESELLER,5d62403b186f2ace #Y1
+openx.com,540233901,RESELLER,6a698e2ec38604c6 #Y1
+pubmatic.com,157746,RESELLER,5d62403b186f2ace #Y1
+rubiconproject.com,20004,RESELLER,0bfd66d529a55807 #Y1
+nend.net,11072,RESELLER #Y1
+as.amanad.adtdp.com,2304,RESELLER #Y1
+aps.amazon.com,41b73ba2-6643-43ff-9ec5-406609eab609,DIRECT #Y1
+pubmatic.com,157150,RESELLER,5d62403b186f2ace #Y1
+openx.com,540191398,RESELLER,6a698e2ec38604c6 #Y1
+rubiconproject.com,18020,RESELLER,0bfd66d529a55807 #Y1
+appnexus.com,1908,RESELLER,f5ab79cb980f11d1 #Y1
+adtech.com,12068,RESELLER,e1a5b5b6e3255540 #Y1
+districtm.io,100962,RESELLER,3fd707be9c4527c3 #Y1
+rhythmone.com,1654642120,RESELLER,a670c89d4a324e47 #Y1
+ad-generation.jp,12474,RESELLER #Y1
+appnexus.com,3663,RESELLER,f5ab79cb980f11d1 #Y1
+aja.vision,2304,RESELLER #Y1
+ad-generation.jp,10661,RESELLER #CCI
+adingo.jp, 23210, RESELLER #CCI
+pubmatic.com, 156313, RESELLER, 5d62403b186f2ace #CCI
+appnexus.com, 7044, RESELLER #CCI
+rubiconproject.com, 15794, RESELLER, 0bfd66d529a55807 #CCI

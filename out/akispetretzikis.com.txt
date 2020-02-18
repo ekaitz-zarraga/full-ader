@@ -1,0 +1,16 @@
+#Akispetretzikis_15042019
+
+#Direct
+google.com, pub-5141155565959766, DIRECT, f08c47fec0942fa0
+google.com, pub-3907573932121535, DIRECT, f08c47fec0942fa0
+google.com, pub-1548490293877144, DIRECT, f08c47fec0942fa0
+
+#Phaistos
+openx.com, 537079925, DIRECT, 6a698e2ec38604c6
+openx.com, 540473984, DIRECT, 6a698e2ec38604c6
+openx.com, 540601066, RESELLER, 6a698e2ec38604c6
+spotxchange.com, 120369, DIRECT, 7842df1d2fe2db34
+spotx.tv, 120369, DIRECT, 7842df1d2fe2db34
+
+#Teads
+teads.tv, 17233, DIRECT, 15a9c44f6d26cbe1

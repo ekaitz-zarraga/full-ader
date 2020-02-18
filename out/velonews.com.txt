@@ -1,0 +1,24 @@
+google.com, pub-7518498320451544, DIRECT, f08c47fec0942fa0
+
+#UAM
+aps.amazon.com, 535ed5ac-dcb1-4f26-97cb-130f6a2818a2, DIRECT
+pubmatic.com, 157150,RESELLER, 5d62403b186f2ace
+openx.com, 540191398, RESELLER, 6a698e2ec38604c6
+rubiconproject.com, 18020,RESELLER, 0bfd66d529a55807
+appnexus.com, 1908,RESELLER, f5ab79cb980f11d1
+adtech.com, 12068,RESELLER, e1a5b5b6e3255540
+ad-generation.jp, 12474, RESELLER
+districtm.io, 100962,RESELLER, 3fd707be9c4527c3
+appnexus.com, 3663, RESELLER, f5ab79cb980f11d1
+rhythmone.com, 1654642120, RESELLER, a670c89d4a324e47
+
+
+#Sovrn
+sovrn.com, 17505, DIRECT, fafdf38b16bf6b2b
+lijit.com, 17505, DIRECT, fafdf38b16bf6b2b
+appnexus.com, 1360, RESELLER, f5ab79cb980f11d1
+gumgum.com, 11645, RESELLER, ffdef49475d318a9
+openx.com, 538959099, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 137711, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 17960, RESELLER, 0bfd66d529a55807
+

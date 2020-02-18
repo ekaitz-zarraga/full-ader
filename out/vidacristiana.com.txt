@@ -1,0 +1,59 @@
+# OpenX Exchange
+openx.com, 5896, DIRECT, 6a698e2ec38604c6
+
+
+# OpenX 3rd party networks
+# 33 Across
+openx.com, 537126579, RESELLER, 6a698e2ec38604c6
+# Casale Media
+openx.com, 537074459, RESELLER, 6a698e2ec38604c6
+# Google AdSense
+openx.com, 536876240, RESELLER, 6a698e2ec38604c6
+# AOL
+#openx.com, 537114866, RESELLER, 6a698e2ec38604c6
+# MoPub
+#openx.com, 538925418, RESELLER, 6a698e2ec38604c6
+
+
+# Ad Blade
+adblade.com, 21809, DIRECT
+
+
+# Google AdSense
+google.com, pub-9840971368080344, DIRECT, f08c47fec0942fa0
+
+
+# Casale Media
+indexexchange.com, 180864, DIRECT
+
+
+# RevContent
+revcontent.com, 70262, DIRECT
+
+
+# MoPub
+# waiting for response
+
+
+# 33 Across
+33across.com, 0013300001gw9XvAAI, DIRECT  #display
+google.com, pub-9557089510405422, RESELLER, f08c47fec0942fa0  #display
+appnexus.com, 1001, RESELLER  #display
+appnexus.com, 3135, RESELLER  #display
+openx.com, 537120563, RESELLER, 6a698e2ec38604c6  #display
+rubiconproject.com, 16414, RESELLER, 0bfd66d529a55807  #display
+pubmatic.com, 156423, RESELLER, 5d62403b186f2ace  #display
+amazon.com, 3411, RESELLER  #display
+criteo.com, 3450, RESELLER  #display
+indexexchange.com, 185506, RESELLER  #display
+lkqd.com, 293, RESELLER, 59c49fa9598a0117  #video
+lkqd.net, 293, RESELLER, 59c49fa9598a0117  #video
+spotxchange.com, 139883, RESELLER, 7842df1d2fe2db34  #video
+spotx.tv, 139883, RESELLER, 7842df1d2fe2db34  #video
+adtech.com, 9993, RESELLER  #display
+aolcloud.net, 9993, RESELLER  #display
+advertising.com, 12543, RESELLER  #video
+openx.com, 539266264, RESELLER, 6a698e2ec38604c6  #display
+appnexus.com, 1356, RESELLER, f5ab79cb980f11d1  #display
+emxdgt.com, 326, RESELLER, 1e1d41537f7cad7f  #display
+google.com, pub-5995202563537249, RESELLER, f08c47fec0942fa0  #display

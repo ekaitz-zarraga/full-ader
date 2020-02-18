@@ -1,0 +1,1759 @@
+# Ads.txt file for startpagina.nl
+#
+appnexus.com, 7463, DIRECT
+google.com, pub-5854238349292660, DIRECT, f08c47fec0942fa0
+google.com, pub-0886136579750068, DIRECT, f08c47fec0942fa0
+google.com, pub-7024374936965210, DIRECT, f08c47fec0942fa0
+google.com, pub-7205535355976271, DIRECT, f08c47fec0942fa0
+google.com, pub-4377530499363465, DIRECT, f08c47fec0942fa0
+
+#startpagina dochters
+google.com, pub-7822329372350220, DIRECT, f08c47fec0942fa0
+google.com, pub-7627063063875903, DIRECT, f08c47fec0942fa0
+google.com, pub-7800955082546302, DIRECT, f08c47fec0942fa0
+google.com, pub-6642913685960168, DIRECT, f08c47fec0942fa0
+google.com, pub-5092131172665130, DIRECT, f08c47fec0942fa0
+google.com, pub-4174403901699773, DIRECT, f08c47fec0942fa0
+google.com, pub-2574563035274129, DIRECT, f08c47fec0942fa0
+google.com, pub-9441609748869923, DIRECT, f08c47fec0942fa0
+google.com, pub-1122007976859462, DIRECT, f08c47fec0942fa0
+google.com, pub-0097443439991992, DIRECT, f08c47fec0942fa0
+google.com, pub-3307370514436834, DIRECT, f08c47fec0942fa0
+google.com, pub-3653404122346257, DIRECT, f08c47fec0942fa0
+google.com, pub-3498797738719105, DIRECT, f08c47fec0942fa0
+google.com, pub-6764561141618753, DIRECT, f08c47fec0942fa0
+google.com, pub-1702196185600660, DIRECT, f08c47fec0942fa0
+google.com, pub-9582620197750533, DIRECT, f08c47fec0942fa0
+google.com, pub-5452099218550119, DIRECT, f08c47fec0942fa0
+google.com, pub-8104922028410185, DIRECT, f08c47fec0942fa0
+google.com, pub-4492758088594150, DIRECT, f08c47fec0942fa0
+
+#Video Talpa
+freewheel.tv, 203057, RESELLER
+freewheel.tv, 213226, RESELLER
+freewheel.tv, 213234, RESELLER
+freewheel.tv, 213266, RESELLER
+freewheel.tv, 213274, RESELLER
+freewheel.tv, 213282, RESELLER
+freewheel.tv, 213290, RESELLER
+freewheel.tv, 213298, RESELLER
+freewheel.tv, 213306, RESELLER
+freewheel.tv, 213322, RESELLER
+freewheel.tv, 213338, RESELLER
+freewheel.tv, 213362, RESELLER
+freewheel.tv, 370001, RESELLER
+freewheel.tv, 435553, RESELLER
+freewheel.tv, 821121, DIRECT
+freewheel.tv, 968801, RESELLER
+freewheel.tv, 276626, RESELLER
+freewheel.tv, 276786, RESELLER
+freewheel.tv, 276802, RESELLER
+freewheel.tv, 276866, RESELLER
+freewheel.tv, 276882, RESELLER
+freewheel.tv, 276898, RESELLER
+freewheel.tv, 276914, RESELLER
+freewheel.tv, 276930, RESELLER
+freewheel.tv, 276946, RESELLER
+freewheel.tv, 276978, RESELLER
+freewheel.tv, 277010, RESELLER
+freewheel.tv, 277058, RESELLER
+freewheel.tv, 370033, RESELLER
+freewheel.tv, 435585, RESELLER
+freewheel.tv, 821137, RESELLER
+freewheel.tv, 968817, RESELLER
+
+#Zoomin.TV ads.txt
+freewheel.tv, 270642, RESELLER
+freewheel.tv, 270658, RESELLER
+google.com, pub-2468262778002506, DIRECT, f08c47fec0942fa0
+fyber.com, e346417a5d08969fc16db728b6ea919e, RESELLER
+
+smartadserver.com, 2256, DIRECT
+contextweb.com,560288,RESELLER,89ff185a4c4e857c
+pubmatic.com,156439,RESELLER
+pubmatic.com, 154037,RESELLER
+rubiconproject.com,16114,RESELLER, 0bfd66d529a55807
+openx.com,537149888,RESELLER,6a698e2ec38604c6
+sovrn.com, 257611,RESELLER, fafdf38b16bf6b2b
+appnexus.com,3703,RESELLER,f5ab79cb980f11d1
+
+videmob.com, 1621335485, RESELLER, 0de284bf2d40bd06
+spotxchange.com, 220321, RESELLER, 7842df1d2fe2db34
+Contextweb.com,560875,RESELLER,89ff185a4c4e857c
+pubmatic.com,156783, RESELLER, 5d62403b186f2ace
+google.com, pub-2697483239283649, RESELLER, f08c47fec0942fa0
+openx.com, 540563396, DIRECT, 6a698e2ec38604c6
+
+video.unrulymedia.com, UNRX-PUB-58b038d8-6dd6-4453-8049-f8232bb8c5f3, DIRECT
+indexexchange.com, 182257, RESELLER 
+appnexus.com, 6849, RESELLER 
+rubiconproject.com, 15268, RESELLER
+yieldlab.net, 8295301, RESELLER
+yieldlab.net, 227224, RESELLER
+
+#outstream sanoma
+smartclip.net, 753, RESELLER
+
+improvedigital.com, 73, DIRECT
+improvedigital.com, 1077, RESELLER
+spotxchange.com, 207379, DIRECT, 7842df1d2fe2db34
+spotx.tv, 207379, DIRECT, 7842df1d2fe2db34
+
+appnexus.com, 3723, RESELLER
+
+#Plista
+plista.com, 39084, DIRECT
+plista.com, 238546, DIRECT
+plista.com, 237844, DIRECT
+plista.com, 241666, DIRECT
+plista.com, 39083, DIRECT
+plista.com, 241665, DIRECT
+plista.com, 36189, DIRECT
+appnexus.com,7456, DIRECT
+appnexus.com, 7790, DIRECT
+
+#pubmatic
+pubmatic.com, 157368,DIRECT,5d62403b186f2ace
+
+#Weborama
+improvedigital.com, 1069, RESELLER
+
+# Openx HB Sanoma
+openx.com, 540646876, DIRECT, 6a698e2ec38604c6
+
+#Adfactor
+google.com, pub-7939627363540437, RESELLER, f08c47fec0942fa0
+spotxchange.com, 220214, RESELLER, 7842df1d2fe2db34
+spotx.tv, 220214, RESELLER, 7842df1d2fe2db34
+improvedigital.com, 81, RESELLER
+spotxchange.com, 102387, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 150897, RESELLER, 7842df1d2fe2db34
+spotx.tv, 102387, RESELLER, 7842df1d2fe2db34
+spotx.tv, 150897, RESELLER, 7842df1d2fe2db34
+
+#NLProfiel 
+pubmatic.com, 158680, DIRECT, 5d62403b186f2ace
+
+#Dentsu Aegis Network
+themediagrid.com,  FO2HIU, RESELLER, 35d5010d7789b49d
+
+#spotx (HB)
+spotxchange.com, 271308, RESELLER, 7842df1d2fe2db34 
+spotx.tv, 271308, RESELLER, 7842df1d2fe2db34
+
+#facebook (HB)
+facebook.com, 1466419380334373, RESELLER, c3e20eee3f780d68
+
+# GamesDistribution
+spotxchange.com, 153598, RESELLER, 7842df1d2fe2db34
+spotx.tv, 153598, RESELLER, 7842df1d2fe2db34
+freewheel.tv, 215714, RESELLER
+freewheel.tv, 216634, RESELLER
+google.com, pub-1313834454494130, RESELLER, f08c47fec0942fa0
+google.com, pub-2316275586951220, RESELLER, f08c47fec0942fa0
+improvedigital.com, 545, RESELLER
+improvedigital.com, 1101, RESELLER
+tremorhub.com, ztx03-iaj07, RESELLER, 1a4e959a1b50034a
+aolcloud.net, 21410, RESELLER
+appnexus.com, 9994, DIRECT
+indexexchange.com, 188249, DIRECT
+pubmatic.com, 156946, DIRECT, 5d62403b186f2ace
+advertising.com, 27287, RESELLER
+rubiconproject.com, 21426, RESELLER, 0bfd66d529a55807
+
+
+# Rules for 010-hotels.startpagina.nl
+google.com, pub-2808392583535306, DIRECT, f08c47fec0942fa0
+
+# Rules for 010-restaurants.startpagina.nl
+google.com, pub-2808392583535306, DIRECT, f08c47fec0942fa0
+
+# Rules for 0172.startpagina.nl
+google.com, pub-1761877570425310, DIRECT, f08c47fec0942fa0
+
+# Rules for 0224-bedrijven.startpagina.nl
+google.com, pub-2845329424909335, DIRECT, f08c47fec0942fa0
+
+# Rules for 0224-recreatie.startpagina.nl
+google.com, pub-2845329424909335, DIRECT, f08c47fec0942fa0
+
+# Rules for 0224.startpagina.nl
+google.com, pub-2845329424909335, DIRECT, f08c47fec0942fa0
+
+# Rules for 0227-bedrijven.startpagina.nl
+google.com, pub-2845329424909335, DIRECT, f08c47fec0942fa0
+
+# Rules for 0227-recreatie.startpagina.nl
+google.com, pub-2845329424909335, DIRECT, f08c47fec0942fa0
+
+# Rules for 0227.startpagina.nl
+google.com, pub-2845329424909335, DIRECT, f08c47fec0942fa0
+
+# Rules for 0517-bedrijven.startpagina.nl
+google.com, pub-4630155299438823, DIRECT, f08c47fec0942fa0
+
+# Rules for 0517.startpagina.nl
+google.com, pub-4630155299438823, DIRECT, f08c47fec0942fa0
+
+# Rules for 0518.startpagina.nl
+google.com, pub-4630155299438823, DIRECT, f08c47fec0942fa0
+
+# Rules for aankoopmakelaars.startpagina.nl
+google.com, pub-6642913685960168, DIRECT, f08c47fec0942fa0
+
+# Rules for acai.startpagina.nl
+google.com, pub-6286761004439196, DIRECT, f08c47fec0942fa0
+
+# Rules for accountancy.startpagina.nl
+google.com, pub-2071113219728013, DIRECT, f08c47fec0942fa0
+
+# Rules for accu.startpagina.nl
+google.com, pub-5554531763056774, DIRECT, f08c47fec0942fa0
+
+# Rules for achtergrondmuziek.startpagina.nl
+google.com, pub-2845329424909335, DIRECT, f08c47fec0942fa0
+
+# Rules for acquisitie.startpagina.nl
+google.com, 0811647087038206, DIRECT, f08c47fec0942fa0
+
+# Rules for administratie-kantoren.startpagina.nl
+google.com, pub-3963921184167079, DIRECT, f08c47fec0942fa0
+
+# Rules for adverteerders.startpagina.nl
+google.com, pub-6746038460545392, DIRECT, f08c47fec0942fa0
+
+# Rules for advocaten.startpagina.nl
+google.com, pub-8711784056575844, DIRECT, f08c47fec0942fa0
+
+# Rules for afmelden.startpagina.nl
+google.com, pub-2432063419351130, DIRECT, f08c47fec0942fa0
+
+# Rules for afslank.startpagina.nl
+google.com, pub-2245870507229166, DIRECT, f08c47fec0942fa0
+
+# Rules for agatha-christie.startpagina.nl
+google.com, pub-5393909332879454, DIRECT, f08c47fec0942fa0
+
+# Rules for alanya.startpagina.nl
+google.com, pub-5348363569483278, DIRECT, f08c47fec0942fa0
+
+# Rules for alblasserdam.startpagina.nl
+google.com, pub-2432063419351130, DIRECT, f08c47fec0942fa0
+
+# Rules for alles-in-1.startpagina.nl
+google.com, pub-4014826470430399, DIRECT, f08c47fec0942fa0
+
+# Rules for aloe-vera.startpagina.nl
+google.com, pub-9760160548129795, DIRECT, f08c47fec0942fa0
+
+# Rules for alphen-aan-den-rijn.startpagina.nl
+google.com, pub-1761877570425310, DIRECT, f08c47fec0942fa0
+
+# Rules for amerika.startpagina.nl
+google.com, pub-7822329372350220, DIRECT, f08c47fec0942fa0
+
+# Rules for anouk.startpagina.nl
+google.com, pub-7707158677253983, DIRECT, f08c47fec0942fa0
+
+# Rules for apk.startpagina.nl
+google.com, pub-3204218026399588, DIRECT, f08c47fec0942fa0
+
+# Rules for archief-services.startpagina.nl
+google.com, pub-2845329424909335, DIRECT, f08c47fec0942fa0
+
+# Rules for archief-verwant.startpagina.nl
+google.com, pub-2845329424909335, DIRECT, f08c47fec0942fa0
+
+# Rules for ardennen-vakantiehuis.startpagina.nl
+google.com, pub-6839984450580097, DIRECT, f08c47fec0942fa0
+
+# Rules for ardennen.startpagina.nl
+google.com, pub-6839984450580097, DIRECT, f08c47fec0942fa0
+
+# Rules for armoede.startpagina.nl
+google.com, pub-2953091393733380, DIRECT, f08c47fec0942fa0
+
+# Rules for artis.startpagina.nl
+google.com, pub-3780300322372261, DIRECT, f08c47fec0942fa0
+
+# Rules for artistiek-naaktfotografie.startpagina.nl
+google.com, pub-0410954543682878, DIRECT, f08c47fec0942fa0
+
+# Rules for assurantie.startpagina.nl
+google.com, pub-2071113219728013, DIRECT, f08c47fec0942fa0
+
+# Rules for australie.startpagina.nl
+google.com, pub-9534128255935708, DIRECT, f08c47fec0942fa0
+
+# Rules for auteurs.startpagina.nl
+google.com, pub-8728629403451239, DIRECT, f08c47fec0942fa0
+
+# Rules for auto-dealers.startpagina.nl
+google.com, pub-4090714855923536, DIRECT, f08c47fec0942fa0
+
+# Rules for auto.startpagina.nl
+google.com, pub-6287737786700914, DIRECT, f08c47fec0942fa0
+
+# Rules for autosloperijen.startpagina.nl
+google.com, pub-0401902863801055, DIRECT, f08c47fec0942fa0
+
+# Rules for autovakantie.startpagina.nl
+google.com, pub-0776879259885762, DIRECT, f08c47fec0942fa0
+
+# Rules for autowassen.startpagina.nl
+google.com, pub-6807161692894902, DIRECT, f08c47fec0942fa0
+
+# Rules for baby-winkels.startpagina.nl
+google.com, pub-5171739359104031, DIRECT, f08c47fec0942fa0
+
+# Rules for baby.startpagina.nl
+google.com, pub-7822329372350220, DIRECT, f08c47fec0942fa0
+
+# Rules for bagage.startpagina.nl
+google.com, pub-1925097321138522, DIRECT, f08c47fec0942fa0
+
+# Rules for bakkerij.startpagina.nl
+google.com, pub-3984013906228293, DIRECT, f08c47fec0942fa0
+
+# Rules for barbados.startpagina.nl
+google.com, pub-3204218026399588, DIRECT, f08c47fec0942fa0
+
+# Rules for barcelona-hotel.startpagina.nl
+google.com, pub-0803397748971603, DIRECT, f08c47fec0942fa0
+
+# Rules for barrelsauna.startpagina.nl
+google.com, pub-2071113219728013, DIRECT, f08c47fec0942fa0
+
+# Rules for basketball.startpagina.nl
+google.com, pub-9241244871465332, DIRECT, f08c47fec0942fa0
+
+# Rules for bedrijfsfilm.startpagina.nl
+google.com, pub-2071113219728013, DIRECT, f08c47fec0942fa0
+
+# Rules for bedrijfssoftware.startpagina.nl
+google.com, pub-5330043856444528, DIRECT, f08c47fec0942fa0
+
+# Rules for beieren.startpagina.nl
+google.com, pub-0066347291007723, DIRECT, f08c47fec0942fa0
+
+# Rules for beleidsonderzoek.startpagina.nl
+google.com, pub-6436583225523294, DIRECT, f08c47fec0942fa0
+
+# Rules for belgie-vakantie.startpagina.nl
+google.com, pub-6839984450580097, DIRECT, f08c47fec0942fa0
+
+# Rules for belgie-wonen.startpagina.nl
+google.com, pub-6839984450580097, DIRECT, f08c47fec0942fa0
+
+# Rules for belgie.startpagina.nl
+google.com, pub-6839984450580097, DIRECT, f08c47fec0942fa0
+
+# Rules for bellen-internet.startpagina.nl
+google.com, pub-2071113219728013, DIRECT, f08c47fec0942fa0
+
+# Rules for beveiliging.startpagina.nl
+google.com, pub-0757407375994289, DIRECT, f08c47fec0942fa0
+
+# Rules for beveiligingsbedrijven.startpagina.nl
+google.com, pub-0757407375994289, DIRECT, f08c47fec0942fa0
+
+# Rules for beveiligingscamera.startpagina.nl
+google.com, pub-0757407375994289, DIRECT, f08c47fec0942fa0
+
+# Rules for bichon-frise.startpagina.nl
+google.com, pub-0924149695130239, DIRECT, f08c47fec0942fa0
+
+# Rules for bidprentjes.startpagina.nl
+google.com, pub-2845329424909335, DIRECT, f08c47fec0942fa0
+
+# Rules for bijen.startpagina.nl
+google.com, pub-9441609748869923, DIRECT, f08c47fec0942fa0
+
+# Rules for billen.startpagina.nl
+google.com, pub-1197323780206248, DIRECT, f08c47fec0942fa0
+
+# Rules for binaire-opties.startpagina.nl
+google.com, pub-6284171287189602, DIRECT, f08c47fec0942fa0
+
+# Rules for bingo.startpagina.nl
+google.com, pub-5097357570077814, DIRECT, f08c47fec0942fa0
+
+# Rules for binnenspeeltuin.startpagina.nl
+google.com, pub-8833171555251293, DIRECT, f08c47fec0942fa0
+
+# Rules for bio-energie.startpagina.nl
+google.com, pub-0263621021733756, DIRECT, f08c47fec0942fa0
+
+# Rules for biologie.startpagina.nl
+google.com, pub-5051734172852791, DIRECT, f08c47fec0942fa0
+
+# Rules for biomassa.startpagina.nl
+google.com, pub-0263621021733756, DIRECT, f08c47fec0942fa0
+
+# Rules for biotechnologie.startpagina.nl
+google.com, pub-5051734172852791, DIRECT, f08c47fec0942fa0
+
+# Rules for bitcoin.startpagina.nl
+google.com, pub-4357207410409662, DIRECT, f08c47fec0942fa0
+
+# Rules for bittorrent.startpagina.nl
+google.com, pub-8231526254389363, DIRECT, f08c47fec0942fa0
+
+# Rules for blaasinstrumenten.startpagina.nl
+google.com, pub-3498797738719105, DIRECT, f08c47fec0942fa0
+
+# Rules for black-friday.startpagina.nl
+google.com, pub-2496803522330859, DIRECT, f08c47fec0942fa0
+
+# Rules for bobbi-eden.startpagina.nl
+google.com, pub-1405191532764421, DIRECT, f08c47fec0942fa0
+
+# Rules for bodybuilding.startpagina.nl
+google.com, pub-3519356035584370, DIRECT, f08c47fec0942fa0
+
+# Rules for boiler.startpagina.nl
+google.com, pub-5464295678554320, DIRECT, f08c47fec0942fa0
+
+# Rules for bordeauxdog.startpagina.nl
+google.com, pub-0924149695130239, DIRECT, f08c47fec0942fa0
+
+# Rules for brief-schrijven.startpagina.nl
+google.com, pub-8761876700030969, DIRECT, f08c47fec0942fa0
+
+# Rules for brugge.startpagina.nl
+google.com, pub-6839984450580097, DIRECT, f08c47fec0942fa0
+
+# Rules for bruiloft.startpagina.nl
+google.com, pub-5171739359104031, DIRECT, f08c47fec0942fa0
+
+# Rules for brussel.startpagina.nl
+google.com, pub-6839984450580097, DIRECT, f08c47fec0942fa0
+
+# Rules for budgetbeheer.startpagina.nl
+google.com, pub-1696426076426546, DIRECT, f08c47fec0942fa0
+
+# Rules for buitenleven.startpagina.nl
+google.com, pub-2071113219728013, DIRECT, f08c47fec0942fa0
+
+# Rules for bungalowpark.startpagina.nl
+google.com, pub-4014826470430399, DIRECT, f08c47fec0942fa0
+
+# Rules for burmees.startpagina.nl
+google.com, pub-0924149695130239, DIRECT, f08c47fec0942fa0
+
+# Rules for burmilla.startpagina.nl
+google.com, pub-2986100335009304, DIRECT, f08c47fec0942fa0
+
+# Rules for business-intelligence.startpagina.nl
+google.com, ua-47570712-1, DIRECT, f08c47fec0942fa0
+
+# Rules for business-to-business.startpagina.nl
+google.com, pub-3234653777910213, DIRECT, f08c47fec0942fa0
+
+# Rules for business.startpagina.nl
+google.com, pub-3234653777910213, DIRECT, f08c47fec0942fa0
+
+# Rules for cadeau.startpagina.nl
+google.com, pub-1176511787999366, DIRECT, f08c47fec0942fa0
+
+# Rules for camper-verhuur.startpagina.nl
+google.com, pub-7822329372350220, DIRECT, f08c47fec0942fa0
+
+# Rules for camper.startpagina.nl
+google.com, pub-7822329372350220, DIRECT, f08c47fec0942fa0
+
+# Rules for camping-minicamping.startpagina.nl
+google.com, pub-6093291516641534, DIRECT, f08c47fec0942fa0
+
+# Rules for caravan.startpagina.nl
+google.com, pub-7822329372350220, DIRECT, f08c47fec0942fa0
+
+# Rules for casino.startpagina.nl
+google.com, pub-2302268719086320, DIRECT, f08c47fec0942fa0
+
+# Rules for casting.startpagina.nl
+google.com, pub-5716066236848297, DIRECT, f08c47fec0942fa0
+
+# Rules for chakra.startpagina.nl
+google.com, pub-7879718824595993, DIRECT, f08c47fec0942fa0
+
+# Rules for champagne.startpagina.nl
+google.com, pub-0776879259885762, DIRECT, f08c47fec0942fa0
+
+# Rules for chelsea.startpagina.nl
+google.com, pub-1122007976859462, DIRECT, f08c47fec0942fa0
+
+# Rules for chowchow.startpagina.nl
+google.com, pub-0924149695130239, DIRECT, f08c47fec0942fa0
+
+# Rules for citroen-ami.startpagina.nl
+google.com, pub-7175029829365528, DIRECT, f08c47fec0942fa0
+
+# Rules for communicatie.startpagina.nl
+google.com, pub-2071113219728013, DIRECT, f08c47fec0942fa0
+
+# Rules for community.startpagina.nl
+google.com, pub-2808392583535306, DIRECT, f08c47fec0942fa0
+
+# Rules for computer.startpagina.nl
+google.com, pub-9901999845610480, DIRECT, f08c47fec0942fa0
+
+# Rules for computerbeveiliging.startpagina.nl
+google.com, pub-0757407375994289, DIRECT, f08c47fec0942fa0
+
+# Rules for condooms.startpagina.nl
+google.com, pub-0839646221661929, DIRECT, f08c47fec0942fa0
+
+# Rules for consumenten.startpagina.nl
+google.com, pub-3653404122346257, DIRECT, f08c47fec0942fa0
+
+# Rules for cradle-to-cradle.startpagina.nl
+google.com, pub-2986100335009304, DIRECT, f08c47fec0942fa0
+
+# Rules for crimeclub.startpagina.nl
+google.com, pub-7453964803188187, DIRECT, f08c47fec0942fa0
+
+# Rules for cupcakes.startpagina.nl
+google.com, pub-2432063419351130, DIRECT, f08c47fec0942fa0
+
+# Rules for cursus-beroep.startpagina.nl
+google.com, pub-4014826470430399, DIRECT, f08c47fec0942fa0
+
+# Rules for cursus-computer.startpagina.nl
+google.com, pub-4014826470430399, DIRECT, f08c47fec0942fa0
+
+# Rules for cursus-hobby.startpagina.nl
+google.com, pub-4014826470430399, DIRECT, f08c47fec0942fa0
+
+# Rules for cursus.startpagina.nl
+google.com, pub-4014826470430399, DIRECT, f08c47fec0942fa0
+
+# Rules for cv.startpagina.nl
+google.com, pub-8761876700030969, DIRECT, f08c47fec0942fa0
+
+# Rules for cyberverzekering.startpagina.nl
+google.com, pub-2071113219728013, DIRECT, f08c47fec0942fa0
+
+# Rules for damascus.startpagina.nl
+google.com, pub-2808392583535306, DIRECT, f08c47fec0942fa0
+
+# Rules for dammen.startpagina.nl
+google.com, pub-9937982544840602, DIRECT, f08c47fec0942fa0
+
+# Rules for dance.startpagina.nl
+google.com, pub-9241423564733912, DIRECT, f08c47fec0942fa0
+
+# Rules for dans.startpagina.nl
+google.com, pub-9766820676270963, DIRECT, f08c47fec0942fa0
+
+# Rules for dashcam.startpagina.nl
+google.com, pub-2986100335009304, DIRECT, f08c47fec0942fa0
+
+# Rules for data-entry.startpagina.nl
+google.com, pub-2845329424909335, DIRECT, f08c47fec0942fa0
+
+# Rules for datingsite.startpagina.nl
+google.com, pub-4014826470430399, DIRECT, f08c47fec0942fa0
+
+# Rules for decubitus.startpagina.nl
+google.com, pub-3741232319935791, DIRECT, f08c47fec0942fa0
+
+# Rules for den-bosch.startpagina.nl
+google.com, pub-9901999845610480, DIRECT, f08c47fec0942fa0
+
+# Rules for den-haag.startpagina.nl
+google.com, pub-9901999845610480, DIRECT, f08c47fec0942fa0
+
+# Rules for deuren.startpagina.nl
+google.com, pub-5917769016597449, DIRECT, f08c47fec0942fa0
+
+# Rules for diagnose-apparatuur.startpagina.nl
+google.com, pub-3267922965437490, DIRECT, f08c47fec0942fa0
+
+# Rules for diamondpainting.startpagina.nl
+google.com, pub-4644977653571347, DIRECT, f08c47fec0942fa0
+
+# Rules for dieet.startpagina.nl
+google.com, pub-3519356035584370, DIRECT, f08c47fec0942fa0
+
+# Rules for disney.startpagina.nl
+google.com, pub-0776879259885762, DIRECT, f08c47fec0942fa0
+
+# Rules for dobermann.startpagina.nl
+google.com, pub-0924149695130239, DIRECT, f08c47fec0942fa0
+
+# Rules for documentmanagement-advies.startpagina.nl
+google.com, pub-2845329424909335, DIRECT, f08c47fec0942fa0
+
+# Rules for documentmanagement-services.startpagina.nl
+google.com, pub-2845329424909335, DIRECT, f08c47fec0942fa0
+
+# Rules for documentmanagement-software.startpagina.nl
+google.com, pub-2845329424909335, DIRECT, f08c47fec0942fa0
+
+# Rules for documentmanagement.startpagina.nl
+google.com, pub-2845329424909335, DIRECT, f08c47fec0942fa0
+
+# Rules for download.startpagina.nl
+google.com, pub-7322011616385615, DIRECT, f08c47fec0942fa0
+
+# Rules for dubstep.startpagina.nl
+google.com, pub-4709770616846648, DIRECT, f08c47fec0942fa0
+
+# Rules for duitse-webwinkels.startpagina.nl
+google.com, pub-1704885062825231, DIRECT, f08c47fec0942fa0
+
+# Rules for duitsland.startpagina.nl
+google.com, pub-9534128255935708, DIRECT, f08c47fec0942fa0
+
+# Rules for duplo.startpagina.nl
+google.com, pub-2071113219728013, DIRECT, f08c47fec0942fa0
+
+# Rules for duurzaamondernemen.startpagina.nl
+google.com, pub-3234653777910213, DIRECT, f08c47fec0942fa0
+
+# Rules for dysmenorroe.startpagina.nl
+google.com, pub-4254774956474551, DIRECT, f08c47fec0942fa0
+
+# Rules for e-mail.startpagina.nl
+google.com, pub-5948121594964985, DIRECT, f08c47fec0942fa0
+
+# Rules for eifel.startpagina.nl
+google.com, pub-6839984450580097, DIRECT, f08c47fec0942fa0
+
+# Rules for eigenbedrijf.startpagina.nl
+google.com, pub-7822329372350220, DIRECT, f08c47fec0942fa0
+
+# Rules for elektrische-fiets.startpagina.nl
+google.com, pub-4380950073109674, DIRECT, f08c47fec0942fa0
+
+# Rules for elektrische-vouwfiets.startpagina.nl
+google.com, pub-4380950073109674, DIRECT, f08c47fec0942fa0
+
+# Rules for elektronica.startpagina.nl
+google.com, pub-2607431381634185, DIRECT, f08c47fec0942fa0
+
+# Rules for elfstedentocht.startpagina.nl
+google.com, pub-4630155299438823, DIRECT, f08c47fec0942fa0
+
+# Rules for emdr.startpagina.nl
+google.com, pub-5077360327612967, DIRECT, f08c47fec0942fa0
+
+# Rules for encyclopedie.startpagina.nl
+google.com, pub-6977210574951528, DIRECT, f08c47fec0942fa0
+
+# Rules for energie.startpagina.nl
+google.com, pub-4014826470430399, DIRECT, f08c47fec0942fa0
+
+# Rules for engineering.startpagina.nl
+google.com, pub-0223395584131760, DIRECT, f08c47fec0942fa0
+
+# Rules for enzoknol.startpagina.nl
+google.com, pub-6821930747957135, DIRECT, f08c47fec0942fa0
+
+# Rules for evenementen.startpagina.nl
+google.com, pub-9901999845610480, DIRECT, f08c47fec0942fa0
+
+# Rules for exotisch-koken.startpagina.nl
+google.com, pub-1449405475615035, DIRECT, f08c47fec0942fa0
+
+# Rules for expositie.startpagina.nl
+google.com, pub-1887319654976293, DIRECT, f08c47fec0942fa0
+
+# Rules for f1.startpagina.nl
+google.com, pub-8104922028410185, DIRECT, f08c47fec0942fa0
+
+# Rules for faillissement.startpagina.nl
+google.com, pub-4108665082158703, DIRECT, f08c47fec0942fa0
+
+# Rules for familieopstellingen.startpagina.nl
+google.com, pub-9597007663965741, DIRECT, f08c47fec0942fa0
+
+# Rules for fanfare.startpagina.nl
+google.com, pub-9551299859995361, DIRECT, f08c47fec0942fa0
+
+# Rules for fashionweek.startpagina.nl
+google.com, pub-7707158677253983, DIRECT, f08c47fec0942fa0
+
+# Rules for festival.startpagina.nl
+google.com, pub-9901999845610480, DIRECT, f08c47fec0942fa0
+
+# Rules for festivalbus.startpagina.nl
+google.com, pub-4543248023918978, DIRECT, f08c47fec0942fa0
+
+# Rules for fetish-laarzen.startpagina.nl
+google.com, pub-7349958758791864, DIRECT, f08c47fec0942fa0
+
+# Rules for fiets.startpagina.nl
+google.com, pub-4380950073109674, DIRECT, f08c47fec0942fa0
+
+# Rules for fietsen-in-steden.startpagina.nl
+google.com, pub-1751447066861137, DIRECT, f08c47fec0942fa0
+
+# Rules for fietsrouteplanner.startpagina.nl
+google.com, pub-4380950073109674, DIRECT, f08c47fec0942fa0
+
+# Rules for fietsroutes-brabant.startpagina.nl
+google.com, pub-0803397748971603, DIRECT, f08c47fec0942fa0
+
+# Rules for fietsroutes.startpagina.nl
+google.com, pub-4380950073109674, DIRECT, f08c47fec0942fa0
+
+# Rules for fietstaxi.startpagina.nl
+google.com, pub-5643845438319887, DIRECT, f08c47fec0942fa0
+
+# Rules for fietsvakantie-duitsland.startpagina.nl
+google.com, pub-4380950073109674, DIRECT, f08c47fec0942fa0
+
+# Rules for fietsvakantie-europa.startpagina.nl
+google.com, pub-4380950073109674, DIRECT, f08c47fec0942fa0
+
+# Rules for fietsvakantie-frankrijk.startpagina.nl
+google.com, pub-4380950073109674, DIRECT, f08c47fec0942fa0
+
+# Rules for fietsvakantie-kinderen.startpagina.nl
+google.com, pub-4380950073109674, DIRECT, f08c47fec0942fa0
+
+# Rules for fietsvakantie-nederland.startpagina.nl
+google.com, pub-4380950073109674, DIRECT, f08c47fec0942fa0
+
+# Rules for fietsvakantie-oostenrijk.startpagina.nl
+google.com, pub-4380950073109674, DIRECT, f08c47fec0942fa0
+
+# Rules for fietsvakantie-wereld.startpagina.nl
+google.com, pub-4380950073109674, DIRECT, f08c47fec0942fa0
+
+# Rules for fietsvakantie.startpagina.nl
+google.com, pub-4380950073109674, DIRECT, f08c47fec0942fa0
+
+# Rules for fitness.startpagina.nl
+google.com, pub-3519356035584370, DIRECT, f08c47fec0942fa0
+
+# Rules for fitnessapparatuur.startpagina.nl
+google.com, pub-5395984113686715, DIRECT, f08c47fec0942fa0
+
+# Rules for flevoland.startpagina.nl
+google.com, pub-9901999845610480, DIRECT, f08c47fec0942fa0
+
+# Rules for flexplek.startpagina.nl
+google.com, pub-1958944719173662, DIRECT, f08c47fec0942fa0
+
+# Rules for flexwerkplek.startpagina.nl
+google.com, pub-1958944719173662, DIRECT, f08c47fec0942fa0
+
+# Rules for fosfaatrechten.startpagina.nl
+google.com, pub-3693059097014775, DIRECT, f08c47fec0942fa0
+
+# Rules for fotocursus.startpagina.nl
+google.com, pub-4014826470430399, DIRECT, f08c47fec0942fa0
+
+# Rules for franeker.startpagina.nl
+google.com, pub-4630155299438823, DIRECT, f08c47fec0942fa0
+
+# Rules for friesecultuur.startpagina.nl
+google.com, pub-4630155299438823, DIRECT, f08c47fec0942fa0
+
+# Rules for frozen.startpagina.nl
+google.com, pub-7992604804033302, DIRECT, f08c47fec0942fa0
+
+# Rules for fruit.startpagina.nl
+google.com, 8408268237200977, DIRECT, f08c47fec0942fa0
+
+# Rules for furious-7.startpagina.nl
+google.com, pub-4524920571106837, DIRECT, f08c47fec0942fa0
+
+# Rules for g-spot.startpagina.nl
+google.com, pub-3234653777910213, DIRECT, f08c47fec0942fa0
+
+# Rules for g500.startpagina.nl
+google.com, ua-32149431, DIRECT, f08c47fec0942fa0
+
+# Rules for gashaarden.startpagina.nl
+google.com, pub-0263621021733756, DIRECT, f08c47fec0942fa0
+
+# Rules for gaysex.startpagina.nl
+google.com, pub-1405191532764421, DIRECT, f08c47fec0942fa0
+
+# Rules for gelderland.startpagina.nl
+google.com, pub-9901999845610480, DIRECT, f08c47fec0942fa0
+
+# Rules for geldsurf.startpagina.nl
+google.com, pub-0839646221661929, DIRECT, f08c47fec0942fa0
+
+# Rules for gemeente-den-haag.startpagina.nl
+google.com, pub-9901999845610480, DIRECT, f08c47fec0942fa0
+
+# Rules for gemeente-heerhugowaard.startpagina.nl
+google.com, pub-2845329424909335, DIRECT, f08c47fec0942fa0
+
+# Rules for gemeente-koggenland.startpagina.nl
+google.com, pub-2845329424909335, DIRECT, f08c47fec0942fa0
+
+# Rules for gemeente-langedijk.startpagina.nl
+google.com, pub-2845329424909335, DIRECT, f08c47fec0942fa0
+
+# Rules for gemeente-rotterdam.startpagina.nl
+google.com, pub-9901999845610480, DIRECT, f08c47fec0942fa0
+
+# Rules for gemeente-westland.startpagina.nl
+google.com, pub-3498797738719105, DIRECT, f08c47fec0942fa0
+
+# Rules for genealogie-opnaam-h.startpagina.nl
+google.com, pub-2845329424909335, DIRECT, f08c47fec0942fa0
+
+# Rules for genealogie.startpagina.nl
+google.com, pub-6764561141618753, DIRECT, f08c47fec0942fa0
+
+# Rules for gerbil.startpagina.nl
+google.com, pub-2986100335009304, DIRECT, f08c47fec0942fa0
+
+# Rules for gereedschap.startpagina.nl
+google.com, pub-7822329372350220, DIRECT, f08c47fec0942fa0
+
+# Rules for gezelschapsspellen.startpagina.nl
+google.com, 4248090149571702, DIRECT, f08c47fec0942fa0
+
+# Rules for gezond-eten.startpagina.nl
+google.com, pub-2071113219728013, DIRECT, f08c47fec0942fa0
+
+# Rules for gezondheids-winkel.startpagina.nl
+google.com, pub-5834432319581364, DIRECT, f08c47fec0942fa0
+
+# Rules for goedkope-vliegtickets.startpagina.nl
+google.com, pub-2928359671837679, DIRECT, f08c47fec0942fa0
+
+# Rules for grafische.startpagina.nl
+google.com, pub-7822329372350220, DIRECT, f08c47fec0942fa0
+
+# Rules for gratis.startpagina.nl
+google.com, pub-5580395390928080, DIRECT, f08c47fec0942fa0
+
+# Rules for groente.startpagina.nl
+google.com, pub-1366607969305447, DIRECT, f08c47fec0942fa0
+
+# Rules for groepsreizen.startpagina.nl
+google.com, pub-1449405475615035, DIRECT, f08c47fec0942fa0
+
+# Rules for grootspoor.startpagina.nl
+google.com, pub-6909597091872485, DIRECT, f08c47fec0942fa0
+
+# Rules for halloween.startpagina.nl
+google.com, pub-3456440717492943, DIRECT, f08c47fec0942fa0
+
+# Rules for handleiding.startpagina.nl
+google.com, pub-9901999845610480, DIRECT, f08c47fec0942fa0
+
+# Rules for harbin.startpagina.nl
+google.com, pub-6031043106207201, DIRECT, f08c47fec0942fa0
+
+# Rules for harlingen.startpagina.nl
+google.com, pub-4630155299438823, DIRECT, f08c47fec0942fa0
+
+# Rules for harmonie.startpagina.nl
+google.com, pub-9551299859995361, DIRECT, f08c47fec0942fa0
+
+# Rules for havanezer.startpagina.nl
+google.com, pub-0924149695130239, DIRECT, f08c47fec0942fa0
+
+# Rules for heilige-birmaan.startpagina.nl
+google.com, pub-2986100335009304, DIRECT, f08c47fec0942fa0
+
+# Rules for hennep.startpagina.nl
+google.com, pub-6686689699924980, DIRECT, f08c47fec0942fa0
+
+# Rules for honkbal.startpagina.nl
+google.com, pub-2669333536983276, DIRECT, f08c47fec0942fa0
+
+# Rules for horloge.startpagina.nl
+google.com, pub-0991691513604459, DIRECT, f08c47fec0942fa0
+
+# Rules for hosting.startpagina.nl
+google.com, pub-7322011616385615, DIRECT, f08c47fec0942fa0
+
+# Rules for hotmail.startpagina.nl
+google.com, pub-8902865427352641, DIRECT, f08c47fec0942fa0
+
+# Rules for houtkachels.startpagina.nl
+google.com, pub-0263621021733756, DIRECT, f08c47fec0942fa0
+
+# Rules for hovenier.startpagina.nl
+google.com, pub-2071113219728013, DIRECT, f08c47fec0942fa0
+
+# Rules for huisstijl.startpagina.nl
+google.com, pub-2948187933453542, DIRECT, f08c47fec0942fa0
+
+# Rules for huiswerk.startpagina.nl
+google.com, pub-2944477863387681, DIRECT, f08c47fec0942fa0
+
+# Rules for hummer.startpagina.nl
+google.com, pub-3740499640743787, DIRECT, f08c47fec0942fa0
+
+# Rules for huurwoning.startpagina.nl
+google.com, 5534204141265021, DIRECT, f08c47fec0942fa0
+
+# Rules for huwelijk.startpagina.nl
+google.com, pub-5171739359104031, DIRECT, f08c47fec0942fa0
+
+# Rules for huwelijksreizen.startpagina.nl
+google.com, pub-5171739359104031, DIRECT, f08c47fec0942fa0
+
+# Rules for hyves.startpagina.nl
+google.com, pub-2432063419351130, DIRECT, f08c47fec0942fa0
+
+# Rules for impotentie.startpagina.nl
+google.com, pub-5097357570077814, DIRECT, f08c47fec0942fa0
+
+# Rules for internaat.startpagina.nl
+google.com, pub-7707158677253983, DIRECT, f08c47fec0942fa0
+
+# Rules for internet-vergelijken.startpagina.nl
+google.com, pub-4014826470430399, DIRECT, f08c47fec0942fa0
+
+# Rules for isolatie.startpagina.nl
+google.com, pub-1872704703037902, DIRECT, f08c47fec0942fa0
+
+# Rules for isuzu.startpagina.nl
+google.com, 1925097321138522, DIRECT, f08c47fec0942fa0
+
+# Rules for italie.startpagina.nl
+google.com, pub-6470265901237061, DIRECT, f08c47fec0942fa0
+
+# Rules for ivf-behandeling.startpagina.nl
+google.com, pub-0107208942162057, DIRECT, f08c47fec0942fa0
+
+# Rules for joomla.startpagina.nl
+google.com, pub-8069111280364685, DIRECT, f08c47fec0942fa0
+
+# Rules for kabel-internet.startpagina.nl
+google.com, pub-6034860767328507, DIRECT, f08c47fec0942fa0
+
+# Rules for kachel.startpagina.nl
+google.com, pub-0263621021733756, DIRECT, f08c47fec0942fa0
+
+# Rules for kadobon.startpagina.nl
+google.com, pub-1176511787999366, DIRECT, f08c47fec0942fa0
+
+# Rules for kampeer.startpagina.nl
+google.com, pub-7822329372350220, DIRECT, f08c47fec0942fa0
+
+# Rules for kampeervakantie.startpagina.nl
+google.com, pub-7822329372350220, DIRECT, f08c47fec0942fa0
+
+# Rules for kanker.startpagina.nl
+google.com, pub-3235506483090464, DIRECT, f08c47fec0942fa0
+
+# Rules for kappers-blackhair.startpagina.nl
+google.com, pub-2944477863387681, DIRECT, f08c47fec0942fa0
+
+# Rules for kattenrassen.startpagina.nl
+google.com, pub-0924149695130239, DIRECT, f08c47fec0942fa0
+
+# Rules for keerpunt.startpagina.nl
+google.com, pub-2845329424909335, DIRECT, f08c47fec0942fa0
+
+# Rules for kerkorgel-hauptwerk.startpagina.nl
+google.com, pub-7800955082546302, DIRECT, f08c47fec0942fa0
+
+# Rules for kerst-evenementen.startpagina.nl
+google.com, pub-7822329372350220, DIRECT, f08c47fec0942fa0
+
+# Rules for kerst-geschenken.startpagina.nl
+google.com, pub-7822329372350220, DIRECT, f08c47fec0942fa0
+
+# Rules for kerst.startpagina.nl
+google.com, pub-7822329372350220, DIRECT, f08c47fec0942fa0
+
+# Rules for kerstboom.startpagina.nl
+google.com, pub-7822329372350220, DIRECT, f08c47fec0942fa0
+
+# Rules for kerstcadeau.startpagina.nl
+google.com, pub-7822329372350220, DIRECT, f08c47fec0942fa0
+
+# Rules for kerstdecoratie.startpagina.nl
+google.com, pub-7822329372350220, DIRECT, f08c47fec0942fa0
+
+# Rules for kerstkaarten.startpagina.nl
+google.com, pub-1449405475615035, DIRECT, f08c47fec0942fa0
+
+# Rules for kerstmarkten-belgie.startpagina.nl
+google.com, pub-5092131172665130, DIRECT, f08c47fec0942fa0
+
+# Rules for kettlebell.startpagina.nl
+google.com, pub-5395984113686715, DIRECT, f08c47fec0942fa0
+
+# Rules for kinder.startpagina.nl
+google.com, pub-8833171555251293, DIRECT, f08c47fec0942fa0
+
+# Rules for kinderbed.startpagina.nl
+google.com, 5021615216604036, DIRECT, f08c47fec0942fa0
+
+# Rules for kindercoaching.startpagina.nl
+google.com, pub-1197323780206248, DIRECT, f08c47fec0942fa0
+
+# Rules for kinderfilmpjes.startpagina.nl
+google.com, pub-2634308043713333, DIRECT, f08c47fec0942fa0
+
+# Rules for kinderkleding.startpagina.nl
+google.com, pub-1197323780206248, DIRECT, f08c47fec0942fa0
+
+# Rules for kippen.startpagina.nl
+google.com, pub-0807929102961441, DIRECT, f08c47fec0942fa0
+
+# Rules for klassieke-muziek-evenementen.startpagina.nl
+google.com, pub-2845329424909335, DIRECT, f08c47fec0942fa0
+
+# Rules for klassieke-muziek-mp3.startpagina.nl
+google.com, pub-2845329424909335, DIRECT, f08c47fec0942fa0
+
+# Rules for klus.startpagina.nl
+google.com, pub-7822329372350220, DIRECT, f08c47fec0942fa0
+
+# Rules for knaagdierenvoer.startpagina.nl
+google.com, pub-0924149695130239, DIRECT, f08c47fec0942fa0
+
+# Rules for knieproblemen.startpagina.nl
+google.com, pub-6011137131132467, DIRECT, f08c47fec0942fa0
+
+# Rules for koersen.startpagina.nl
+google.com, pub-8508240881723989, DIRECT, f08c47fec0942fa0
+
+# Rules for koffiebonen.startpagina.nl
+google.com, pub-2433908407776608, DIRECT, f08c47fec0942fa0
+
+# Rules for koningsdag.startpagina.nl
+google.com, pub-2071113219728013, DIRECT, f08c47fec0942fa0
+
+# Rules for kopenhagen.startpagina.nl
+google.com, pub-5055844021984225, DIRECT, f08c47fec0942fa0
+
+# Rules for kranten-uk.startpagina.nl
+google.com, pub-7800955082546302, DIRECT, f08c47fec0942fa0
+
+# Rules for kranten.startpagina.nl
+google.com, pub-7800955082546302, DIRECT, f08c47fec0942fa0
+
+# Rules for krullen.startpagina.nl
+google.com, pub-5174548647026300, DIRECT, f08c47fec0942fa0
+
+# Rules for labrador-fokkers.startpagina.nl
+google.com, pub-4174403901699773, DIRECT, f08c47fec0942fa0
+
+# Rules for labrador-homepages.startpagina.nl
+google.com, pub-4174403901699773, DIRECT, f08c47fec0942fa0
+
+# Rules for labrador.startpagina.nl
+google.com, pub-4174403901699773, DIRECT, f08c47fec0942fa0
+
+# Rules for landal.startpagina.nl
+google.com, pub-1197323780206248, DIRECT, f08c47fec0942fa0
+
+# Rules for laser.startpagina.nl
+google.com, pub-3847235205059212, DIRECT, f08c47fec0942fa0
+
+# Rules for lastminute.startpagina.nl
+google.com, pub-2928359671837679, DIRECT, f08c47fec0942fa0
+
+# Rules for lego.startpagina.nl
+google.com, pub-2071113219728013, DIRECT, f08c47fec0942fa0
+
+# Rules for lenen.startpagina.nl
+google.com, pub-3333839126560753, DIRECT, f08c47fec0942fa0
+
+# Rules for libido-middelen.startpagina.nl
+google.com, pub-2071113219728013, DIRECT, f08c47fec0942fa0
+
+# Rules for libido.startpagina.nl
+google.com, pub-2071113219728013, DIRECT, f08c47fec0942fa0
+
+# Rules for liefde.startpagina.nl
+google.com, pub-4014826470430399, DIRECT, f08c47fec0942fa0
+
+# Rules for lifi.startpagina.nl
+google.com, pub-9909380464477614, DIRECT, f08c47fec0942fa0
+
+# Rules for limburg.startpagina.nl
+google.com, pub-9901999845610480, DIRECT, f08c47fec0942fa0
+
+# Rules for limousine.startpagina.nl
+google.com, pub-0839646221661929, DIRECT, f08c47fec0942fa0
+
+# Rules for linux-bedrijven.startpagina.nl
+google.com, pub-2845329424909335, DIRECT, f08c47fec0942fa0
+
+# Rules for lood.startpagina.nl
+google.com, pub-2116100310368134, DIRECT, f08c47fec0942fa0
+
+# Rules for luchthavens.startpagina.nl
+google.com, 5534204141265021, DIRECT, f08c47fec0942fa0
+
+# Rules for luik.startpagina.nl
+google.com, pub-6839984450580097, DIRECT, f08c47fec0942fa0
+
+# Rules for lynx.startpagina.nl
+google.com, pub-2616736353724011, DIRECT, f08c47fec0942fa0
+
+# Rules for maatschappelijk-verantwoord-ondernemen.startpagina.nl
+google.com, pub-3234653777910213, DIRECT, f08c47fec0942fa0
+
+# Rules for makelaars.startpagina.nl
+google.com, pub-7822329372350220, DIRECT, f08c47fec0942fa0
+
+# Rules for mannen.startpagina.nl
+google.com, pub-0839646221661929, DIRECT, f08c47fec0942fa0
+
+# Rules for marathon-halve.startpagina.nl
+google.com, pub-1366607969305447, DIRECT, f08c47fec0942fa0
+
+# Rules for marktplaats.startpagina.nl
+google.com, pub-7822329372350220, DIRECT, f08c47fec0942fa0
+
+# Rules for mayrhofen.startpagina.nl
+google.com, pub-0066347291007723, DIRECT, f08c47fec0942fa0
+
+# Rules for melkquotum.startpagina.nl
+google.com, pub-3693059097014775, DIRECT, f08c47fec0942fa0
+
+# Rules for mercedes.startpagina.nl
+google.com, pub-5837359893393162, DIRECT, f08c47fec0942fa0
+
+# Rules for modelbouw-winkels.startpagina.nl
+google.com, pub-5396596315066513, DIRECT, f08c47fec0942fa0
+
+# Rules for modellenbureau.startpagina.nl
+google.com, pub-7707158677253983, DIRECT, f08c47fec0942fa0
+
+# Rules for modellenburo.startpagina.nl
+google.com, pub-3235506483090464, DIRECT, f08c47fec0942fa0
+
+# Rules for modelspoor-winkels.startpagina.nl
+google.com, pub-5396596315066513, DIRECT, f08c47fec0942fa0
+
+# Rules for modelspoor.startpagina.nl
+google.com, pub-5396596315066513, DIRECT, f08c47fec0942fa0
+
+# Rules for moeder.startpagina.nl
+google.com, pub-8626743941101593, DIRECT, f08c47fec0942fa0
+
+# Rules for mondhygienist.startpagina.nl
+google.com, pub-3268954857026207, DIRECT, f08c47fec0942fa0
+
+# Rules for mondzorg.startpagina.nl
+google.com, pub-3268954857026207, DIRECT, f08c47fec0942fa0
+
+# Rules for monumenten.startpagina.nl
+google.com, pub-0340267099192933, DIRECT, f08c47fec0942fa0
+
+# Rules for mozart.startpagina.nl
+google.com, pub-7462986204826557, DIRECT, f08c47fec0942fa0
+
+# Rules for muziekonderwijs.startpagina.nl
+google.com, pub-2808392583535306, DIRECT, f08c47fec0942fa0
+
+# Rules for muziekschool.startpagina.nl
+google.com, pub-2808392583535306, DIRECT, f08c47fec0942fa0
+
+# Rules for mysteries.startpagina.nl
+google.com, pub-9937982544840602, DIRECT, f08c47fec0942fa0
+
+# Rules for namen.startpagina.nl
+google.com, pub-7959352685654947, DIRECT, f08c47fec0942fa0
+
+# Rules for nba.startpagina.nl
+google.com, pub-8761876700030969, DIRECT, f08c47fec0942fa0
+
+# Rules for nederland.startpagina.nl
+google.com, pub-0066347291007723, DIRECT, f08c47fec0942fa0
+
+# Rules for nieuwsgroepen.startpagina.nl
+google.com, pub-8231526254389363, DIRECT, f08c47fec0942fa0
+
+# Rules for notaris.startpagina.nl
+google.com, pub-8384520615432240, DIRECT, f08c47fec0942fa0
+
+# Rules for obdam.startpagina.nl
+google.com, pub-2845329424909335, DIRECT, f08c47fec0942fa0
+
+# Rules for occasion.startpagina.nl
+google.com, pub-7822329372350220, DIRECT, f08c47fec0942fa0
+
+# Rules for omzetbelasting.startpagina.nl
+google.com, pub-4812101378191583, DIRECT, f08c47fec0942fa0
+
+# Rules for ongediertebestrijding.startpagina.nl
+google.com, pub-4502484956399817, DIRECT, f08c47fec0942fa0
+
+# Rules for online-marketing.startpagina.nl
+google.com, pub-0790911528530029, DIRECT, f08c47fec0942fa0
+
+# Rules for online.startpagina.nl
+google.com, pub-4232017847043540, DIRECT, f08c47fec0942fa0
+
+# Rules for ontsteking.startpagina.nl
+google.com, pub-4254774956474551, DIRECT, f08c47fec0942fa0
+
+# Rules for opinie.startpagina.nl
+google.com, pub-6284171287189602, DIRECT, f08c47fec0942fa0
+
+# Rules for opwekking.startpagina.nl
+google.com, pub-2432063419351130, DIRECT, f08c47fec0942fa0
+
+# Rules for oranje-verenigingen.startpagina.nl
+google.com, pub-9034796020008215, DIRECT, f08c47fec0942fa0
+
+# Rules for oranje.startpagina.nl
+google.com, pub-9034796020008215, DIRECT, f08c47fec0942fa0
+
+# Rules for oude-ambachten.startpagina.nl
+google.com, pub-9441609748869923, DIRECT, f08c47fec0942fa0
+
+# Rules for ouderen.startpagina.nl
+google.com, pub-3653404122346257, DIRECT, f08c47fec0942fa0
+
+# Rules for ouderensex.startpagina.nl
+google.com, pub-2357741004104782, DIRECT, f08c47fec0942fa0
+
+# Rules for pagerank.startpagina.nl
+google.com, pub-3234653777910213, DIRECT, f08c47fec0942fa0
+
+# Rules for paginamarkt.startpagina.nl
+google.com, pub-3693059097014775, DIRECT, f08c47fec0942fa0
+
+# Rules for pakistan.startpagina.nl
+google.com, pub-0806180263387577, DIRECT, f08c47fec0942fa0
+
+# Rules for parenclub.startpagina.nl
+google.com, pub-1099324571424502, DIRECT, f08c47fec0942fa0
+
+# Rules for parfum-winkels.startpagina.nl
+google.com, pub-4014826470430399, DIRECT, f08c47fec0942fa0
+
+# Rules for parfum.startpagina.nl
+google.com, pub-4014826470430399, DIRECT, f08c47fec0942fa0
+
+# Rules for partytent.startpagina.nl
+google.com, pub-0118593700570258, DIRECT, f08c47fec0942fa0
+
+# Rules for pattaya.startpagina.nl
+google.com, pub-5452099218550119, DIRECT, f08c47fec0942fa0
+
+# Rules for pelletketel.startpagina.nl
+google.com, pub-0263621021733756, DIRECT, f08c47fec0942fa0
+
+# Rules for pendelbus.startpagina.nl
+google.com, pub-4543248023918978, DIRECT, f08c47fec0942fa0
+
+# Rules for perth.startpagina.nl
+google.com, pub-0776879259885762, DIRECT, f08c47fec0942fa0
+
+# Rules for piano.startpagina.nl
+google.com, pub-0389072373566362, DIRECT, f08c47fec0942fa0
+
+# Rules for pieterpad.startpagina.nl
+google.com, pub-2750522055146567, DIRECT, f08c47fec0942fa0
+
+# Rules for pijnbehandeling.startpagina.nl
+google.com, pub-2433458211640583, DIRECT, f08c47fec0942fa0
+
+# Rules for pinscher.startpagina.nl
+google.com, pub-0924149695130239, DIRECT, f08c47fec0942fa0
+
+# Rules for pinup.startpagina.nl
+google.com, pub-7402466879711176, DIRECT, f08c47fec0942fa0
+
+# Rules for poker.startpagina.nl
+google.com, pub-7391388410320619, DIRECT, f08c47fec0942fa0
+
+# Rules for porna.startpagina.nl
+google.com, pub-1449405475615035, DIRECT, f08c47fec0942fa0
+
+# Rules for postrock.startpagina.nl
+google.com, 0214386366845238, DIRECT, f08c47fec0942fa0
+
+# Rules for privelease.startpagina.nl
+google.com, pub-2071113219728013, DIRECT, f08c47fec0942fa0
+
+# Rules for proefschrift.startpagina.nl
+google.com, pub-5781471805002088, DIRECT, f08c47fec0942fa0
+
+# Rules for provider.startpagina.nl
+google.com, pub-7322011616385615, DIRECT, f08c47fec0942fa0
+
+# Rules for pruiken.startpagina.nl
+google.com, pub-3456440717492943, DIRECT, f08c47fec0942fa0
+
+# Rules for psychologen-noord-holland.startpagina.nl
+google.com, pub-4725178223979134, DIRECT, f08c47fec0942fa0
+
+# Rules for psychologie.startpagina.nl
+google.com, pub-9597007663965741, DIRECT, f08c47fec0942fa0
+
+# Rules for psycholoog.startpagina.nl
+google.com, pub-9597007663965741, DIRECT, f08c47fec0942fa0
+
+# Rules for puzzel.startpagina.nl
+google.com, pub-1810707015083804, DIRECT, f08c47fec0942fa0
+
+# Rules for quilten.startpagina.nl
+google.com, pub-6764561141618753, DIRECT, f08c47fec0942fa0
+
+# Rules for radio.startpagina.nl
+google.com, pub-4014826470430399, DIRECT, f08c47fec0942fa0
+
+# Rules for recreatiemakelaars.startpagina.nl
+google.com, pub-2287012367321990, DIRECT, f08c47fec0942fa0
+
+# Rules for refurbish.startpagina.nl
+google.com, pub-5397530181906146, DIRECT, f08c47fec0942fa0
+
+# Rules for reisadvies.startpagina.nl
+google.com, pub-0118593700570258, DIRECT, f08c47fec0942fa0
+
+# Rules for reisorganisaties.startpagina.nl
+google.com, pub-5348363569483278, DIRECT, f08c47fec0942fa0
+
+# Rules for reizen.startpagina.nl
+google.com, pub-1810707015083804, DIRECT, f08c47fec0942fa0
+
+# Rules for relatie.startpagina.nl
+google.com, pub-7349958758791864, DIRECT, f08c47fec0942fa0
+
+# Rules for remarketing.startpagina.nl
+google.com, pub-7992604804033302, DIRECT, f08c47fec0942fa0
+
+# Rules for retraite.startpagina.nl
+google.com, pub-2823990488848437, DIRECT, f08c47fec0942fa0
+
+# Rules for reunion.startpagina.nl
+google.com, pub-0803397748971603, DIRECT, f08c47fec0942fa0
+
+# Rules for reviews.startpagina.nl
+google.com, pub-2779368513745340, DIRECT, f08c47fec0942fa0
+
+# Rules for rodajc.startpagina.nl
+google.com, pub-5837359893393162, DIRECT, f08c47fec0942fa0
+
+# Rules for rondreis.startpagina.nl
+google.com, pub-1449405475615035, DIRECT, f08c47fec0942fa0
+
+# Rules for rozen.startpagina.nl
+google.com, pub-1958273367516624, DIRECT, f08c47fec0942fa0
+
+# Rules for ruimtevaart.startpagina.nl
+google.com, pub-2432063419351130, DIRECT, f08c47fec0942fa0
+
+# Rules for sauna.startpagina.nl
+google.com, pub-0305346005912134, DIRECT, f08c47fec0942fa0
+
+# Rules for scandinavisch-design.startpagina.nl
+google.com, pub-5917769016597449, DIRECT, f08c47fec0942fa0
+
+# Rules for schaak.startpagina.nl
+google.com, pub-7356740060698682, DIRECT, f08c47fec0942fa0
+
+# Rules for schagen.startpagina.nl
+google.com, pub-2845329424909335, DIRECT, f08c47fec0942fa0
+
+# Rules for scheiden.startpagina.nl
+google.com, pub-0839646221661929, DIRECT, f08c47fec0942fa0
+
+# Rules for schiphol.startpagina.nl
+google.com, pub-4014826470430399, DIRECT, f08c47fec0942fa0
+
+# Rules for schulden.startpagina.nl
+google.com, pub-6977210574951528, DIRECT, f08c47fec0942fa0
+
+# Rules for scoliose.startpagina.nl
+google.com, pub-2607431381634185, DIRECT, f08c47fec0942fa0
+
+# Rules for seksgeheimen.startpagina.nl
+google.com, pub-1405191532764421, DIRECT, f08c47fec0942fa0
+
+# Rules for seksueelmisbruik.startpagina.nl
+google.com, pub-0438535256392682, DIRECT, f08c47fec0942fa0
+
+# Rules for senioren.startpagina.nl
+google.com, pub-3653404122346257, DIRECT, f08c47fec0942fa0
+
+# Rules for sharepoint-workspace.startpagina.nl
+google.com, pub-2845329424909335, DIRECT, f08c47fec0942fa0
+
+# Rules for siamees.startpagina.nl
+google.com, pub-0924149695130239, DIRECT, f08c47fec0942fa0
+
+# Rules for sierbeton.startpagina.nl
+google.com, pub-3865518613826294, DIRECT, f08c47fec0942fa0
+
+# Rules for singles-reizen.startpagina.nl
+google.com, pub-1449405475615035, DIRECT, f08c47fec0942fa0
+
+# Rules for sintannaparochie.startpagina.nl
+google.com, pub-4630155299438823, DIRECT, f08c47fec0942fa0
+
+# Rules for sinterklaas.startpagina.nl
+google.com, pub-7822329372350220, DIRECT, f08c47fec0942fa0
+
+# Rules for sixpack.startpagina.nl
+google.com, 5534204141265021, DIRECT, f08c47fec0942fa0
+
+# Rules for skiathos.startpagina.nl
+google.com, pub-5055844021984225, DIRECT, f08c47fec0942fa0
+
+# Rules for slechthorenden.startpagina.nl
+google.com, pub-6093291516641534, DIRECT, f08c47fec0942fa0
+
+# Rules for somali.startpagina.nl
+google.com, pub-0924149695130239, DIRECT, f08c47fec0942fa0
+
+# Rules for spanje.startpagina.nl
+google.com, pub-6470265901237061, DIRECT, f08c47fec0942fa0
+
+# Rules for speelgoed.startpagina.nl
+google.com, pub-8833171555251293, DIRECT, f08c47fec0942fa0
+
+# Rules for speeltuin.startpagina.nl
+google.com, pub-8833171555251293, DIRECT, f08c47fec0942fa0
+
+# Rules for sphynx.startpagina.nl
+google.com, pub-0924149695130239, DIRECT, f08c47fec0942fa0
+
+# Rules for sportartikelen.startpagina.nl
+google.com, pub-5395984113686715, DIRECT, f08c47fec0942fa0
+
+# Rules for sporten.startpagina.nl
+google.com, pub-5395984113686715, DIRECT, f08c47fec0942fa0
+
+# Rules for sportnieuws.startpagina.nl
+google.com, pub-1122007976859462, DIRECT, f08c47fec0942fa0
+
+# Rules for sportvoeding.startpagina.nl
+google.com, pub-3519356035584370, DIRECT, f08c47fec0942fa0
+
+# Rules for staalkabel.startpagina.nl
+google.com, pub-3865518613826294, DIRECT, f08c47fec0942fa0
+
+# Rules for stalking.startpagina.nl
+google.com, pub-2808392583535306, DIRECT, f08c47fec0942fa0
+
+# Rules for stamppot.startpagina.nl
+google.com, pub-2459686621790957, DIRECT, f08c47fec0942fa0
+
+# Rules for startbedrijf.startpagina.nl
+google.com, pub-1958944719173662, DIRECT, f08c47fec0942fa0
+
+# Rules for stedentrip.startpagina.nl
+google.com, pub-4014826470430399, DIRECT, f08c47fec0942fa0
+
+# Rules for stellingwerven.startpagina.nl
+google.com, pub-3761367987400067, DIRECT, f08c47fec0942fa0
+
+# Rules for steunkousen.startpagina.nl
+google.com, pub-1617939131603320, DIRECT, f08c47fec0942fa0
+
+# Rules for stoppenmetroken.startpagina.nl
+google.com, pub-9901999845610480, DIRECT, f08c47fec0942fa0
+
+# Rules for strafrecht.startpagina.nl
+google.com, pub-5559781043391125, DIRECT, f08c47fec0942fa0
+
+# Rules for strandtent.startpagina.nl
+google.com, pub-7290992847949743, DIRECT, f08c47fec0942fa0
+
+# Rules for studiereis.startpagina.nl
+google.com, pub-1366607969305447, DIRECT, f08c47fec0942fa0
+
+# Rules for surseance.startpagina.nl
+google.com, pub-2071113219728013, DIRECT, f08c47fec0942fa0
+
+# Rules for symptomenzwangerschap.startpagina.nl
+google.com, pub-5171739359104031, DIRECT, f08c47fec0942fa0
+
+# Rules for taalcursus.startpagina.nl
+google.com, pub-4014826470430399, DIRECT, f08c47fec0942fa0
+
+# Rules for taartdecoreren.startpagina.nl
+google.com, pub-2944477863387681, DIRECT, f08c47fec0942fa0
+
+# Rules for taarten.startpagina.nl
+google.com, pub-2944477863387681, DIRECT, f08c47fec0942fa0
+
+# Rules for tafels.startpagina.nl
+google.com, pub-5917769016597449, DIRECT, f08c47fec0942fa0
+
+# Rules for tanzania.startpagina.nl
+google.com, pub-6034860767328507, DIRECT, f08c47fec0942fa0
+
+# Rules for tapijt.startpagina.nl
+google.com, pub-5917769016597449, DIRECT, f08c47fec0942fa0
+
+# Rules for tata.startpagina.nl
+google.com, 1925097321138522, DIRECT, f08c47fec0942fa0
+
+# Rules for tattoo-verwijderen.startpagina.nl
+google.com, pub-4751906259201668, DIRECT, f08c47fec0942fa0
+
+# Rules for taxatie.startpagina.nl
+google.com, pub-2336105607352947, DIRECT, f08c47fec0942fa0
+
+# Rules for teamsport.startpagina.nl
+google.com, pub-0323264964034438, DIRECT, f08c47fec0942fa0
+
+# Rules for telefoon-accessoires.startpagina.nl
+google.com, pub-2741812969530961, DIRECT, f08c47fec0942fa0
+
+# Rules for telefoongids.startpagina.nl
+google.com, pub-6764561141618753, DIRECT, f08c47fec0942fa0
+
+# Rules for texel-verblijf.startpagina.nl
+google.com, pub-2025734656666075, DIRECT, f08c47fec0942fa0
+
+# Rules for thanksgiving.startpagina.nl
+google.com, pub-2496803522330859, DIRECT, f08c47fec0942fa0
+
+# Rules for thermostaat.startpagina.nl
+google.com, pub-2071113219728013, DIRECT, f08c47fec0942fa0
+
+# Rules for toegangscontrole.startpagina.nl
+google.com, pub-7534670412576439, DIRECT, f08c47fec0942fa0
+
+# Rules for training.startpagina.nl
+google.com, pub-6689855059870936, DIRECT, f08c47fec0942fa0
+
+# Rules for triggerpoint.startpagina.nl
+google.com, pub-6277515391889009, DIRECT, f08c47fec0942fa0
+
+# Rules for tuinontwerp.startpagina.nl
+google.com, pub-2071113219728013, DIRECT, f08c47fec0942fa0
+
+# Rules for tv-gids.startpagina.nl
+google.com, 6420676509221145, DIRECT, f08c47fec0942fa0
+
+# Rules for tv.startpagina.nl
+google.com, pub-4014826470430399, DIRECT, f08c47fec0942fa0
+
+# Rules for tweedehands.startpagina.nl
+google.com, pub-7822329372350220, DIRECT, f08c47fec0942fa0
+
+# Rules for uitvaartverzekering.startpagina.nl
+google.com, pub-4014826470430399, DIRECT, f08c47fec0942fa0
+
+# Rules for universiteiten.startpagina.nl
+google.com, pub-7193521801414802, DIRECT, f08c47fec0942fa0
+
+# Rules for utrecht.startpagina.nl
+google.com, pub-9901999845610480, DIRECT, f08c47fec0942fa0
+
+# Rules for vakantie.startpagina.nl
+google.com, pub-7175029829365528, DIRECT, f08c47fec0942fa0
+
+# Rules for vakbond.startpagina.nl
+google.com, pub-3653404122346257, DIRECT, f08c47fec0942fa0
+
+# Rules for veghel.startpagina.nl
+google.com, pub-2132377848782929, DIRECT, f08c47fec0942fa0
+
+# Rules for veiling.startpagina.nl
+google.com, pub-2336105607352947, DIRECT, f08c47fec0942fa0
+
+# Rules for verf.startpagina.nl
+google.com, pub-9159176519062546, DIRECT, f08c47fec0942fa0
+
+# Rules for vergelijken.startpagina.nl
+google.com, pub-4014826470430399, DIRECT, f08c47fec0942fa0
+
+# Rules for verhuur.startpagina.nl
+google.com, pub-7822329372350220, DIRECT, f08c47fec0942fa0
+
+# Rules for veteranen.startpagina.nl
+google.com, pub-7972734469549920, DIRECT, f08c47fec0942fa0
+
+# Rules for viagra.startpagina.nl
+google.com, pub-1640339974974352, DIRECT, f08c47fec0942fa0
+
+# Rules for vipassana.startpagina.nl
+google.com, pub-6698033198652417, DIRECT, f08c47fec0942fa0
+
+# Rules for virale-marketing.startpagina.nl
+google.com, pub-2432063419351130, DIRECT, f08c47fec0942fa0
+
+# Rules for vitamine.startpagina.nl
+google.com, pub-3235506483090464, DIRECT, f08c47fec0942fa0
+
+# Rules for vlaamse-reus.startpagina.nl
+google.com, pub-0924149695130239, DIRECT, f08c47fec0942fa0
+
+# Rules for vlaardingen-bedrijven.startpagina.nl
+google.com, pub-2808392583535306, DIRECT, f08c47fec0942fa0
+
+# Rules for vlaardingen-winkels.startpagina.nl
+google.com, pub-2808392583535306, DIRECT, f08c47fec0942fa0
+
+# Rules for vliegtickets.startpagina.nl
+google.com, pub-2928359671837679, DIRECT, f08c47fec0942fa0
+
+# Rules for vlucht-vertraging.startpagina.nl
+google.com, pub-8265764098057896, DIRECT, f08c47fec0942fa0
+
+# Rules for voeding.startpagina.nl
+google.com, pub-3519356035584370, DIRECT, f08c47fec0942fa0
+
+# Rules for voetbal.startpagina.nl
+google.com, pub-7559727621270226, DIRECT, f08c47fec0942fa0
+
+# Rules for voetbalkleding.startpagina.nl
+google.com, pub-8761876700030969, DIRECT, f08c47fec0942fa0
+
+# Rules for voetbalschoenen.startpagina.nl
+google.com, pub-3660697678321324, DIRECT, f08c47fec0942fa0
+
+# Rules for voetbalshirts.startpagina.nl
+google.com, pub-3660697678321324, DIRECT, f08c47fec0942fa0
+
+# Rules for vrml.startpagina.nl
+google.com, pub-5837359893393162, DIRECT, f08c47fec0942fa0
+
+# Rules for vrouwen.startpagina.nl
+google.com, pub-7707158677253983, DIRECT, f08c47fec0942fa0
+
+# Rules for vrporno.startpagina.nl
+google.com, pub-7870768087081077, DIRECT, f08c47fec0942fa0
+
+# Rules for waarland.startpagina.nl
+google.com, pub-2845329424909335, DIRECT, f08c47fec0942fa0
+
+# Rules for waddeneilanden.startpagina.nl
+google.com, pub-9034796020008215, DIRECT, f08c47fec0942fa0
+
+# Rules for wandel.startpagina.nl
+google.com, pub-7822329372350220, DIRECT, f08c47fec0942fa0
+
+# Rules for wandelvakanties.startpagina.nl
+google.com, pub-7061375672836810, DIRECT, f08c47fec0942fa0
+
+# Rules for warehousemanagement.startpagina.nl
+google.com, pub-5330043856444528, DIRECT, f08c47fec0942fa0
+
+# Rules for waskemeer.startpagina.nl
+google.com, pub-1086105947229652, DIRECT, f08c47fec0942fa0
+
+# Rules for waterdichte-smartphone.startpagina.nl
+google.com, pub-4404562688432152, DIRECT, f08c47fec0942fa0
+
+# Rules for watersport.startpagina.nl
+google.com, pub-2438545434245189, DIRECT, f08c47fec0942fa0
+
+# Rules for watertappunt.startpagina.nl
+google.com, pub-7633933255349708, DIRECT, f08c47fec0942fa0
+
+# Rules for webcam.startpagina.nl
+google.com, pub-1872704703037902, DIRECT, f08c47fec0942fa0
+
+# Rules for webdesign-bedrijven.startpagina.nl
+google.com, pub-9909380464477614, DIRECT, f08c47fec0942fa0
+
+# Rules for webdesign.startpagina.nl
+google.com, pub-9735782442257039, DIRECT, f08c47fec0942fa0
+
+# Rules for webwinkel.startpagina.nl
+google.com, pub-3943039210921054, DIRECT, f08c47fec0942fa0
+
+# Rules for webwinkelmarketing.startpagina.nl
+google.com, pub-2071113219728013, DIRECT, f08c47fec0942fa0
+
+# Rules for wecken.startpagina.nl
+google.com, pub-2372038948541208, DIRECT, f08c47fec0942fa0
+
+# Rules for weddingplanners.startpagina.nl
+google.com, pub-5171739359104031, DIRECT, f08c47fec0942fa0
+
+# Rules for weeze-airport.startpagina.nl
+google.com, pub-4169724287288634, DIRECT, f08c47fec0942fa0
+
+# Rules for wereldreis.startpagina.nl
+google.com, pub-9371440282038535, DIRECT, f08c47fec0942fa0
+
+# Rules for westfriesland-oost.startpagina.nl
+google.com, pub-2845329424909335, DIRECT, f08c47fec0942fa0
+
+# Rules for westfriesland-west-bewonersbijlage.startpagina.nl
+google.com, pub-2845329424909335, DIRECT, f08c47fec0942fa0
+
+# Rules for westfriesland-west-sportbijlage.startpagina.nl
+google.com, pub-2845329424909335, DIRECT, f08c47fec0942fa0
+
+# Rules for westfriesland-west.startpagina.nl
+google.com, pub-2845329424909335, DIRECT, f08c47fec0942fa0
+
+# Rules for wetenschap.startpagina.nl
+google.com, pub-5051734172852791, DIRECT, f08c47fec0942fa0
+
+# Rules for wietolie.startpagina.nl
+google.com, pub-6286761004439196, DIRECT, f08c47fec0942fa0
+
+# Rules for wintersport.startpagina.nl
+google.com, pub-9534128255935708, DIRECT, f08c47fec0942fa0
+
+# Rules for woning-koopwoning.startpagina.nl
+google.com, pub-2336105607352947, DIRECT, f08c47fec0942fa0
+
+# Rules for woning.startpagina.nl
+google.com, pub-2336105607352947, DIRECT, f08c47fec0942fa0
+
+# Rules for woonboot.startpagina.nl
+google.com, 0550648718, DIRECT, f08c47fec0942fa0
+
+# Rules for workshops-noordbrabant.startpagina.nl
+google.com, pub-2071113219728013, DIRECT, f08c47fec0942fa0
+
+# Rules for workshops-zuidholland.startpagina.nl
+google.com, pub-2071113219728013, DIRECT, f08c47fec0942fa0
+
+# Rules for workshops.startpagina.nl
+google.com, pub-2071113219728013, DIRECT, f08c47fec0942fa0
+
+# Rules for woudrichem.startpagina.nl
+google.com, pub-1696426076426546, DIRECT, f08c47fec0942fa0
+
+# Rules for youtube.startpagina.nl
+google.com, pub-8902865427352641, DIRECT, f08c47fec0942fa0
+
+# Rules for zakelijkglasvezel.startpagina.nl
+google.com, pub-2071113219728013, DIRECT, f08c47fec0942fa0
+
+# Rules for zelfrijdende-auto.startpagina.nl
+google.com, pub-9371440282038535, DIRECT, f08c47fec0942fa0
+
+# Rules for zoek.startpagina.nl
+google.com, pub-8283719326005392, DIRECT, f08c47fec0942fa0
+
+# Rules for zonne-energie.startpagina.nl
+google.com, pub-7822329372350220, DIRECT, f08c47fec0942fa0
+
+# Rules for zonnepanelen.startpagina.nl
+google.com, pub-7822329372350220, DIRECT, f08c47fec0942fa0
+
+# Rules for zuinige-auto.startpagina.nl
+google.com, ca-pub-2651299107588070, DIRECT, f08c47fec0942fa0
+
+# Rules for zwanger.startpagina.nl
+google.com, pub-3519356035584370, DIRECT, f08c47fec0942fa0
+
+# Rules for zwangerworden.startpagina.nl
+google.com, pub-8626743941101593, DIRECT, f08c47fec0942fa0
+
+# Rules for zweefvliegen.startpagina.nl
+google.com, pub-0300727324790010, DIRECT, f08c47fec0942fa0
+
+# Rules for zwijndrecht.startpagina.nl
+google.com, pub-2432063419351130, DIRECT, f08c47fec0942fa0
+
+# Rules for zwolle-bedrijven.startpagina.nl
+google.com, pub-9441609748869923, DIRECT, f08c47fec0942fa0
+
+# Rules for zwolle-uitgaan.startpagina.nl
+google.com, pub-9441609748869923, DIRECT, f08c47fec0942fa0
+
+# Rules for zwolle.startpagina.nl
+google.com, pub-9441609748869923, DIRECT, f08c47fec0942fa0
+
+# Rules for zzp.startpagina.nl
+google.com, pub-1958944719173662, DIRECT, f08c47fec0942fa0

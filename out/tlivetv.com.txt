@@ -1,0 +1,5 @@
+#ads.txt to be placed in the root level of the domain
+
+#tlivetv.com
+google.com, pub-4007929425738258, RESELLER, f08c47fec0942fa0
+google.com, pub-4007929425738258, DIRECT, f08c47fec0942fa0

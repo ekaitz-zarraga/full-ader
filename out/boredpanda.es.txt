@@ -1,0 +1,168 @@
+google.com, pub-5373549843115859, DIRECT
+google.com, pub-5262209387923676, DIRECT
+EMXDGT.com, 70, DIRECT, 1e1d41537f7cad7f #brealtime
+Appnexus.com, 1356, RESELLER, f5ab79cb980f11d1 #brealtime
+Google.com, pub-5995202563537249, RESELLER, f08c47fec0942fa0 #brealtime
+rubiconproject.com, 14236, DIRECT #rubicon
+appnexus.com, 3153, RESELLER #152media
+google.com, pub-3960095709930134, DIRECT, f08c47fec0942fa0  #152media
+districtm.io, 100407, DIRECT #districtmDMX
+appnexus.com, 1908, RESELLER #districtmDMX
+appnexus.com, 7944, RESELLER #districtmDMX
+google.com, pub-9685734445476814, RESELLER, f08c47fec0942fa0 #districtmDMX
+indexexchange.com, 185547, DIRECT #indexExchange
+appnexus.com, 7487, DIRECT #appnexus
+openx.com, 539453272, DIRECT, 6a698e2ec38604c6 #openx
+openx.com, 539715987, DIRECT, 6a698e2ec38604c6 #openx
+adtech.com, 11180, DIRECT #aol
+aolcloud.net, 11180, DIRECT #aol
+coxmt.com, 2000067907202, RESELLER #aol
+pubmatic.com, 156078, RESELLER #aol
+pubmatic.com, 156377, RESELLER #aol
+pubmatic.com, 155967, RESELLER #aol
+openx.com, 537143344, RESELLER #aol
+indexexchange.com, 175407, RESELLER #aol
+openx.com, 537125356, RESELLER #aol
+rhythmone.com, 2161797849, DIRECT, a670c89d4a324e47 #rhythmone
+EMXDGT.com, 70, DIRECT, 1e1d41537f7cad7f #emx_digital
+e-planning.net,a74de15322f2d331,DIRECT #eplanning
+rubiconproject.com,12186,RESELLER,0bfd66d529a55807 #eplanning
+contextweb.com,560941,RESELLER,89ff185a4c4e857c #eplanning
+sekindo.com,22761,RESELLER #eplanning
+nativeads.com,65862,RESELLER #eplanning
+mobfox.com,72614,DIRECT,NULL #eplanning
+google.com,pub-4517592538197176,DIRECT,f08c47fec0942fa0 #eplanning
+google.com,pub-5994300388126378,RESELLER,f08c47fec0942fa0 #eplanning
+spotxchange.com,100032,DIRECT,NULL #eplanning
+smartadserver.com,3060,RESELLER,NULL #eplanning
+rubiconproject.com,16114,DIRECT,0bfd66d529a55807 #eplanning
+rubiconproject.com,12948,DIRECT,0bfd66d529a55807 #eplanning
+advertising.com,25809,RESELLER,NULL #eplanning
+advertising.com,18001,RESELLER,NULL #eplanning
+spotx.tv,101831,RESELLER,7842df1d2fe2db34 #eplanning
+spotxchange.com,101831,RESELLER,7842df1d2fe2db34 #eplanning
+tremorhub.com,o0g2a-1v6x5,RESELLER,1a4e959a1b50034a #eplanning
+google.com,pub-6437111524977299,RESELLER,f08c47fec0942fa0 #eplanning
+improvedigital.com,1065,RESELLER,NULL #eplanning
+spotx.tv,151986,RESELLER,7842df1d2fe2db34 #eplanning
+lkqd.net,244,RESELLER,59c49fa9598a0117 #eplanning
+advertising.com,24410,RESELLER,NULL #eplanning
+advertising.com,7372,RESELLER,NULL #eplanning
+spotx.tv,84294,RESELLER,7842df1d2fe2db34 #eplanning
+smartyads.com,82,DIRECT,NULL #eplanning
+monetize.com,1337,RESELLER,NULL #eplanning
+monetize.com,1337,DIRECT,NULL #eplanning
+pubmatic.com,156631,RESELLER,5d62403b186f2ace #eplanning
+appnexus.com,3911,RESELLER,f5ab79cb980f11d1 #eplanning
+google.com,pub-7995104076770938,RESELLER,f08c47fec0942fa0 #eplanning
+appnexus.com,8790,RESELLER,f5ab79cb980f11d1 #eplanning
+spotx.tv,148395,RESELLER,7842df1d2fe2db34 #eplanning
+spotxchange.com,148395,RESELLER,7842df1d2fe2db34 #eplanning
+tremorhub.com,ey5io-qyxzx,RESELLER,1a4e959a1b50034a #eplanning
+lkqd.com,282,RESELLER,59c49fa9598a0117 #eplanning
+lkqd.net,282,RESELLER,59c49fa9598a0117 #eplanning
+rubiconproject.com,13894,RESELLER,0bfd66d529a55807 #eplanning
+google.com,pub-4769180667814197,RESELLER,f08c47fec0942fa0 #eplanning
+districtm.io,101289,DIRECT,NULL #eplanning
+appnexus.com,1908,RESELLER,f5ab79cb980f11d1 #eplanning
+google.com,pub-9685734445476814,RESELLER,f08c47fec0942fa0 #eplanning
+rubiconproject.com,16720,RESELLER,0bfd66d529a55807 #eplanning
+appnexus.com,3153,RESELLER,f5ab79cb980f11d1 #eplanning
+rubiconproject.com,16904,RESELLER,0bfd66d529a55807 #eplanning
+connectad.io,73,DIRECT,NULL #eplanning
+pubmatic.com,156077,RESELLER,5d62403b186f2ace #eplanning
+openx.com,537145117,RESELLER,a698e2ec38604c6 #eplanning
+google.com,pub-9467340974789471,RESELLER,f08c47fec0942fa0 #eplanning
+adform.com,768,RESELLER,NULL #eplanning
+contextweb.com,560489,RESELLER,89ff185a4c4e857c #eplanning
+google.com, pub-1902765951284498, RESELLER, f08c47fec0942fa0 #eplanning
+undertone.com, 3735, DIRECT #eplanning
+appnexus.com, 2234, RESELLER #eplanning
+openx.com, 537153564, RESELLER, 6a698e2ec38604c6 #eplanning
+spotxchange.com, 149668, RESELLER, 7842df1d2fe2db34 #eplanning
+spotx.tv, 149668, RESELLER, 7842df1d2fe2db34 #eplanning
+Advertising.com, 12171, RESELLER #eplanning
+tremorhub.com, 51vtw, RESELLER, 1a4e959a1b50034a #eplanning
+google.com, pub-5405744859927315, RESELLER #eplanning
+lkqd.net, 464, RESELLER, 59c49fa9598a0117 #eplanning
+lkqd.com, 464, RESELLER, 59c49fa9598a0117 #eplanning
+freewheel.tv, 772177, DIRECT #eplanning
+freewheel.tv, 772369, DIRECT #eplanning
+undertone.com, 3734, DIRECT #eplanning
+appnexus.com, 2234, RESELLER #eplanning
+openx.com, 537153564, RESELLER, 6a698e2ec38604c6 #eplanning
+teads.tv, 17329, DIRECT, 15a9c44f6d26cbe1 #eplanning
+pubmatic.com, 158460, DIRECT, 5d62403b186f2ace #pubmatic
+sovrn.com, 214004, DIRECT, fafdf38b16bf6b2b #sovrn
+lijit.com, 214004, DIRECT, fafdf38b16bf6b2b #sovrn
+lijit.com, 214004-eb, DIRECT, fafdf38b16bf6b2b #sovrn
+appnexus.com, 1360, RESELLER, f5ab79cb980f11d1 #sovrn
+gumgum.com, 11645, RESELLER, ffdef49475d318a9 #sovrn
+openx.com, 538959099, RESELLER, 6a698e2ec38604c6 #sovrn
+openx.com, 539924617, RESELLER, 6a698e2ec38604c6 #sovrn
+pubmatic.com, 137711, RESELLER, 5d62403b186f2ace #sovrn
+pubmatic.com, 156212, RESELLER, 5d62403b186f2ace #sovrn
+pubmatic.com, 156700, RESELLER, 5d62403b186f2ace #sovrn
+rubiconproject.com, 17960, RESELLER, 0bfd66d529a55807 #sovrn
+spotxchange.com, 82810, RESELLER, 7842df1d2fe2db34 #selectmedia
+spotx.tv, 82810, RESELLER, 7842df1d2fe2db34 #selectmedia
+Advertising.com, 7060, RESELLER #selectmedia
+adtech.com, 7060, RESELLER #selectmedia
+freewheel.tv, 144617, RESELLER #selectmedia
+freewheel.tv, 144633, RESELLER #selectmedia
+improvedigital.com, 1091, DIRECT #selectmedia
+freewheel.tv, 146905,RESELLER #selectmedia
+freewheel.tv, 202433,RESELLER #selectmedia
+freewheel.tv, 202681, RESELLER #selectmedia
+freewheel.tv, 202609, RESELLER #selectmedia
+freewheel.tv, 146921, RESELLER #selectmedia
+freewheel.tv, 147281, RESELLER #selectmedia
+freewheel.tv, 203225, RESELLER #selectmedia
+contextweb.com, 560456, RESELLER, 89ff185a4c4e857c  #selectmedia
+pubmatic.com, 157288, DIRECT, 5d62403b186f2ace #selectmedia
+freewheel.tv, 147289, RESELLER #selectmedia
+freewheel.tv, 202881, RESELLER #selectmedia
+freewheel.tv, 846129, RESELLER #selectmedia
+freewheel.tv, 846145, RESELLER #selectmedia
+tremorhub.com, cguke-k8ex0, RESELLER, 1a4e959a1b50034a #selectmedia
+pubmatic.com, 157512, DIRECT, 5d62403b186f2ace #selectmedia
+districtm.io, 101673, DIRECT #selectmedia
+appnexus.com, 1908, RESELLER, f5ab79cb980f11d1 #selectmedia
+freewheel.tv, 890577, RESELLER #selectmedia
+freewheel.tv, 893377, RESELLER #selectmedia
+tremorhub.com, iq97d, RESELLER, 1a4e959a1b50034a #selectmedia
+tremorhub.com, 3e8fs, RESELLER, 1a4e959a1b50034a #selectmedia
+gumgum.com, 13679, DIRECT, ffdef49475d318a9 #selectmedia
+advertising.com, 28230, RESELLER #selectmedia
+freewheel.tv, 225337, RESELLER #selectmedia
+google.com, pub-4903453974745530, RESELLER, f08c47fec0942fa0 #selectmedia
+rhythmone.com, 2288795184, DIRECT, a670c89d4a324e47 #selectmedia
+rubiconproject.com, 20598, RESELLER, 0bfd66d529a55807 #selectmedia
+selectmedia.asia, 5cbf4576073ef45a6071276e, DIRECT # banner, video #selectmedia
+openx.com, 540786724, RESELLER, 6a698e2ec38604c6 #selectmedia
+freewheel.tv, 1025009, DIRECT #selectmedia
+freewheel.tv, 1024849, DIRECT #selectmedia
+admanmedia.com, 68, DIRECT #selectmedia
+appnexus.com, 8804, RESELLER, f5ab79cb980f11d1 #selectmedia
+facebook.com, 1032398303507511, RESELLER, c3e20eee3f780d68
+facebook.com, 1796576440558835, RESELLER #Rumble
+facebook.com, 358719497878746, RESELLER #Rumble
+google.com, pub-7026201757273977, RESELLER, f08c47fec0942fa0 #Rumble
+google.com, pub-7353644945201577, RESELLER, f08c47fec0942fa0 #Rumble
+facebook.com, 358719497878746, RESELLER
+google.com, pub-7026201757273977, RESELLER, f08c47fec0942fa0
+google.com, pub-7353644945201577, RESELLER, f08c47fec0942fa0
+rhythmone.com, 752824437, RESELLER, a670c89d4a324e47
+rhythmone.com, 3526250853, RESELLER, a670c89d4a324e47
+chocolateplatform.com, 13062, RESELLER
+openx.com, 538808047, RESELLER
+openx.com, 538808048, RESELLER
+openx.com, 538808049, RESELLER
+openx.com, 538808050, RESELLER
+openx.com, 540344750, RESELLER, 6a698e2ec38604c6
+indexexchange.com, 184032, RESELLER
+indexexchange.com, 187675, RESELLER
+vdopia.com, 14057, RESELLER
+chocolateplatform.com, 14057, RESELLER
+spotxchange.com,252547,RESELLER,7842df1d2fe2db34
+spotx.tv,252547,RESELLER,7842df1d2fe2db34

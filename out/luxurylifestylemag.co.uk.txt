@@ -1,0 +1,13 @@
+video.unrulymedia.com, UNRX_1c49b96f-ddcb-44dd-944c-6c1075aa76c2, DIRECT
+video.unrulymedia.com, 1065797, DIRECT
+rubiconproject.com, 15268, RESELLER
+indexexchange.com, 182257, RESELLER
+appnexus.com, 6849, RESELLER
+
+OPTIONAL
+bidswitch.net, unrulyx_UNRX_1c49b96f-ddcb-44dd-944c-6c1075aa76c2, RESELLER
+bidswitch.net, unrulyx_1065797, RESELLER
+contextweb.com, 560138, RESELLER
+advertising.com, 4058, RESELLER
+
+google.com, pub-6427590936718768, DIRECT, f08c47fec0942fa0

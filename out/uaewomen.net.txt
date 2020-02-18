@@ -1,0 +1,14 @@
+#Ads.txt uaewomen.net
+
+google.com, pub-1018291046422176, DIRECT
+google.com, pub-8541583196492976, DIRECT, f08c47fec0942fa0
+
+
+
+google.com, pub-3992393056167515, RESELLER, f08c47fec0942fa0
+google.com, 27367402, RESELLER, f08c47fec0942fa0
+indexexchange.com, 187558, RESELLER
+
+
+#FoxPush
+google.com, pub-8113799588685394, RESELLER, f08c47fec0942fa0

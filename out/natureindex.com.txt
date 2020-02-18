@@ -1,0 +1,15 @@
+google.com, pub-1611526714266729, DIRECT, f08c47fec0942fa0
+google.com, pub-0247363938136552, DIRECT, f08c47fec0942fa0
+google.com, pub-1276375982453943, DIRECT, f08c47fec0942fa0
+appnexus.com, 1019, RESELLER
+appnexus.com, 2688, RESELLER
+contextweb.com, 560961, RESELLER
+google.com, pub-1076181631997634, RESELLER, f08c47fec0942fa0
+google.com, pub-6205083306620034, RESELLER, f08c47fec0942fa0
+lijit.com, 231317, RESELLER, fafdf38b16bf6b2b
+openx.com, 537103367, RESELLER, a698e2ec38604c6
+openx.com, 539444960, RESELLER, a698e2ec38604c6
+rubiconproject.com, 15380, RESELLER
+smartadserver.com, 2923, RESELLER
+sovrn.com, 231317, RESELLER, fafdf38b16bf6b2b
+

@@ -1,0 +1,10 @@
+# Ads.txt file for DPLAY.FI:
+
+#FW SSP/StickyAds
+freewheel.tv, 791473,DIRECT
+freewheel.tv, 926513,RESELLER
+
+#Smartclip
+smartclip.net,10186,DIRECT
+
+contact=DNI_AdOps@discovery.com

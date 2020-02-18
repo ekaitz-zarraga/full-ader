@@ -1,0 +1,96 @@
+coxmt.com, 2000067550102, DIRECT
+coxmt.com, 2578502, DIRECT
+rubiconproject.com, 16156, RESELLER, 0bfd66d529a55807
+appnexus.com, 8035, RESELLER, f5ab79cb980f11d1
+pubmatic.com, 156500, RESELLER, 5d62403b186f2ace
+openx.com, 537153982, DIRECT, 6a698e2ec38604c6
+openx.com, 538914234, DIRECT, 6a698e2ec38604c6
+openx.com, 537151488, DIRECT, 6a698e2ec38604c6
+taboola.com, 1044740, DIRECT, c228e6794e811952
+taboola.com, 1044740, RESELLER, c228e6794e811952
+aps.amazon.com, 3185, DIRECT
+appnexus.com, 6990, DIRECT
+appnexus.com, 1944, RESELLER
+indexexchange.com, 178372, RESELLER
+t.brand-server.com, 314526, DIRECT
+t.brand-server.com, 6781, DIRECT
+t.brand-server.com, 69419, DIRECT
+google.com, pub-5348980928353387, DIRECT, f08c47fec0942fa0
+indexexchange.com, 184624, DIRECT
+indexexchange.com, 185070, DIRECT
+rubiconproject.com, 11814, DIRECT, 0bfd66d529a55807
+nativo.com, 5346, DIRECT, 59521ca7cc5e9fee
+advertising.com, 8603, RESELLER
+appnexus.com, 3364, RESELLER
+contextweb.com, 560382, RESELLER
+Indexexchange.com, 183756, RESELLER
+openx.com, 539000000, RESELLER
+openx.com, 539154393, RESELLER
+pubmatic.com, 156307, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 16698, RESELLER, 0bfd66d529a55807
+spotx.tv, 71451, RESELLER
+spotxchange.com, 71451, RESELLER
+tremorhub.com, z87wm, RESELLER, 1a4e959a1b50034a
+google.com, pub-3844877863303739, RESELLER, f08c47fec0942fa0
+advertising.com, 3679, RESELLER
+advertising.com, 5831, RESELLER
+advertising.com, 8044, RESELLER
+advertising.com, 8022, RESELLER
+spotxchange.com, 150015, RESELLER, 7842df1d2fe2db34
+spotx.tv, 150015, RESELLER, 7842df1d2fe2db34
+vindicosuite.com, 6624, RESELLER
+google.com, pub-7363566645038776, RESELLER, f08c47fec0942fa0
+google.com, pub-3519627678776838, RESELLER, f08c47fec0942fa0
+rubiconproject.com, 17842, DIRECT, 0bfd66d529a55807
+freewheel.tv, 799841, RESELLER
+freewheel.tv, 799921, RESELLER
+aol.com, 53392, RESELLER
+rhythmone.com, 1166984029, RESELLER, a670c89d4a324e47
+33across.com, 0010b00002OCUmCAAX, RESELLER, bbea06d9c4d2853c
+districtm.io, 101810, RESELLER, 3fd707be9c4527c3
+indexexchange.com, 190025, RESELLER
+lkqd.net, 519, RESELLER, 59c49fa9598a0117
+openx.com, 540709535, RESELLER, 6a698e2ec38604c6
+freewheel.tv, 713154, RESELLER
+freewheel.tv, 215570, RESELLER
+freewheel.tv, 215602, RESELLER
+freewheel.tv, 470113, RESELLER
+freewheel.tv, 470145, RESELLER
+freewheel.tv, 470129, RESELLER
+freewheel.tv, 470161, RESELLER
+freewheel.tv, 717186, RESELLER
+google.com, pub-1301581561755234, RESELLER, f08c47fec0942fa0
+google.com, pub-4177862836555934, RESELLER, f08c47fec0942fa0
+google.com, pub-1991679624331369, RESELLER, f08c47fec0942fa0
+google.com, pub-3015538794163384, RESELLER, f08c47fec0942fa0
+google.com, pub-3230759608956247, RESELLER, f08c47fec0942fa0
+google.com, pub-2679103605715789, RESELLER, f08c47fec0942fa0
+google.com, pub-2846699686180177, RESELLER, f08c47fec0942fa0
+google.com, pub-6209086188495781, RESELLER, f08c47fec0942fa0
+google.com, pub-5628310764637319, RESELLER, f08c47fec0942fa0
+google.com, pub-5480205708168063, RESELLER, f08c47fec0942fa0
+google.com, pub-9914992914910847, RESELLER, f08c47fec0942fa0
+google.com, pub-2557900687859377, RESELLER, f08c47fec0942fa0
+google.com, pub-2468262778002506, RESELLER, f08c47fec0942fa0
+google.com, pub-0978064532142215, RESELLER, f08c47fec0942fa0
+google.com, pub-1869172611345701, RESELLER, f08c47fec0942fa0
+lkqd.net, 454, RESELLER, 59c49fa9598a0117
+openx.com, 540367819, RESELLER, 6a698e2ec38604c6
+Spotx.tv, 111853, RESELLER
+Spotxchange.com, 111853, RESELLER
+springserve.com, 1, RESELLER, a24eb641fc82e93d
+vhbx.co, vhbx-8718256505923256, RESELLER, 47e78270c9860438
+google.com, pub-2224462346614446, DIRECT
+pubmatic.com, 158155, DIRECT, 5d62403b186f2ace  #ebda
+indexexchange.com, 190275, DIRECT  #ebda
+rhythmone.com, 960386424, DIRECT, a670c89d4a324e47  #ebda
+rubiconproject.com, 19160, DIRECT, 0bfd66d529a55807  #ebda
+lijit.com, 273127-eb, DIRECT, fafdf38b16bf6b2b  #ebda
+openx.com, 540303527, DIRECT, 6a698e2ec38604c6  #ebda
+openx.com, 540874142, DIRECT, 6a698e2ec38604c6
+lijit.com, 273127, DIRECT, fafdf38b16bf6b2b
+sovrn.com, 273127, DIRECT, fafdf38b16bf6b2b
+smartadserver.com, 3563, RESELLER
+beachfront.com, 13749, RESELLER, e2541279e8e2ca4d
+advertising.com, 28458, RESELLER
+admanmedia.com, 556, RESELLER

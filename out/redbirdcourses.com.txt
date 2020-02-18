@@ -1,0 +1,10 @@
+[] 10.91.2.186 -  [03/Feb/2020:19:56:59 +0000] "GET /ads.txt HTTP/1.1"
+"deploy_color" =   "deploy_color_from_header" =  
+"deploy_color_from_host" =  
+"http_x_rbal_deploy_color" =  
+"http_host" = redbirdcourses.com 
+200 
+0 
+""
+"Apache-HttpClient/4.5.8 (Java/11.0.6)"
+"178.63.21.24, 172.68.51.94"

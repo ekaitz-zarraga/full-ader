@@ -1,0 +1,14 @@
+# ads.txt file for www.globalblue.com
+appnexus.com, 3491, DIRECT 
+districtm.io, 100615, DIRECT 
+appnexus.com, 7944, RESELLER 
+appnexus.com, 1908, RESELLER
+EMXDGT.com, 28, DIRECT, 1e1d41537f7cad7f
+Appnexus.com, 1356, DIRECT, f5ab79cb980f11d1
+indexexchange.com, 183813, RESELLER 
+openx.com, 537148814, DIRECT, 6a698e2ec38604c6 
+pubmatic.com, 127864, RESELLER, <5d62403b186f2ace> 
+rubiconproject.com, 14418, RESELLER 
+google.com, pub-2318854337682975, reseller
+improvedigital.com, 1146, RESELLER 
+google.com, pub-5995202563537249, RESELLER, f08c47fec0942fa0

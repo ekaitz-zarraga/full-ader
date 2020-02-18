@@ -1,0 +1,60 @@
+# Ads.txt file for elmundo.com:
+google.com, pub-9105239081706683, DIRECT, f08c47fec0942fa0
+#cimacast
+google.com, pub-4531668723098857, RESELLER
+google.com, pub-2706264783062544, RESELLER
+cavixo.com, 1366, RESELLER
+google.com, pub-7980196294731979, RESELLER
+smartadserver.com, 1343, RESELLER
+smartadserver.com, 2875, RESELLER
+contextweb.com, 560288, RESELLER, 89ff185a4c4e857c
+sovrn.com, 257611, RESELLER, fafdf38b16bf6b2b
+rubiconproject.com, 16720, RESELLER, 0bfd66d529a55807
+smartadserver.com, 1530, RESELLER
+google.com, pub-1787187386209927, RESELLER, f08c47fec0942fa0
+indexexchange.com, 179394, RESELLER
+pubmatic.com, 156439, RESELLER
+openx.com, 537149888, RESELLER, a698e2ec38604c6
+rubiconproject.com, 16114, RESELLER
+tappx.com, 24225, RESELLER
+sovrn.com, 260684, DIRECT, fafdf38b16bf6b2b
+lijit.com, 260684, DIRECT, fafdf38b16bf6b2b
+pubmatic.com, 79134, RESELLER, 5d62403b186f2ace
+smartadserver.com, 1686, RESELLER
+pubmatic.com, 154037, RESELLER
+appnexus.com, 3703, RESELLER, f5ab79cb980f11d1
+google.com, pub-7733626117287363, RESELLER, f08c47fec0942fa0
+smartadserver.com, 2482, RESELLER
+pubmatic.com, 114634, RESELLER
+advertising.com, 6976, RESELLER
+google.com, pub-8410465204385206, RESELLER
+pulsepoint.com, 560288, RESELLER
+google.com, pub-4770346047043508, RESELLER
+fyber.com, 731e3f6fad5e8b79297ef43f30beeab9, DIRECT
+google.com, pub-7995104076770938, RESELLER, f08c47fec0942fa0
+exponential.com, 174160, DIRECT, afac06385c445926
+tribalfusion.com, 174160, DIRECT, afac06385c445926
+indexexchange.com, 176280, RESELLER, 50b1c356f2c5c8fc
+google.com, pub-2051007210431666, RESELLER, f08c47fec0942fa0
+exponential.com, 174240, DIRECT, afac06385c445926
+tribalfusion.com, 174240, DIRECT, afac06385c445926
+spotxchange.com, 149668, RESELLER, 7842df1d2fe2db34
+spotx.tv, 149668, RESELLER, 7842df1d2fe2db34
+Advertising.com, 12171, RESELLER
+tidaltv.com, 36550, DIRECT
+tidaltv.com, 36551, DIRECT
+tremorhub.com, 51vtw, RESELLER, 1a4e959a1b50034a
+google.com, pub-5405744859927315, RESELLER
+smartadserver.com, undefined, RESELLER
+advertising.com, 16039, RESELLER
+google.com, pub-7915887679464005, RESELLER
+teads.tv, 10102, DIRECT, 15a9c44f6d26cbe1
+teads.tv, 13564, DIRECT, 15a9c44f6d26cbe1
+teads.tv, 13565, DIRECT, 15a9c44f6d26cbe1
+indexexchange.com, 179394, RESELLER
+contextweb.com, 560288, RESELLER
+pubmatic.com, 156439, RESELLER
+openx.com, 537149888, RESELLER, a698e2ec38604c6
+rubiconproject.com, 16114, RESELLER
+pulsepoint.com, 560288, RESELLER
+teads.tv, 10102, DIRECT, 15a9c44f6d26cbe1

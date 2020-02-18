@@ -1,0 +1,9 @@
+#Ads.txt for k5learning.com
+google.com, pub-0937566977556040, DIRECT, f08c47fec0942fa0
+districtm.io, 101279, DIRECT, 3fd707be9c4527c3
+appnexus.com, 1908, RESELLER, f5ab79cb980f11d1
+google.com, pub-9685734445476814, RESELLER, f08c47fec0942fa0
+adtech.com, 10266, RESELLER
+aol.com, 10266, RESELLER
+triplelift.com, 7563, DIRECT, 6c33edb13117fd86
+appnexus.com, 1314, RESELLER

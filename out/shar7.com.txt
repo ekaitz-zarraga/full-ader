@@ -1,0 +1,22 @@
+google.com, pub-7620071422727774, RESELLER, f08c47fec0942fa0
+google.com, pub-5278973888786334, RESELLER, f08c47fec0942fa0
+google.com, pub-1142323411777001, DIRECT, f08c47fec0942fa0
+openx.com, 540472623, RESELLER, 6a698e2ec38604c6 #openx
+
+#mm
+google.com, pub-7620071422727774, RESELLER, f08c47fec0942fa0 #MMCAD
+google.com, pub-5278973888786334, RESELLER, f08c47fec0942fa0 #MMUSD
+google.com, pub-6190096338979886, RESELLER, f08c47fec0942fa0 #MMLatAm
+
+#openx
+openx.com, 540472623, RESELLER, 6a698e2ec38604c6 #openx
+
+#oftmedia
+appnexus.com, 3153, RESELLER #oftmedia
+
+#aol
+adtech.com, 10513, DIRECT #aol
+aolcloud.net, 10513, DIRECT #aol
+
+#appnexus
+appnexus.com, 3573, DIRECT #appnexus

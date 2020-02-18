@@ -1,0 +1,28 @@
+firstimpression.io, 7171, DIRECT, a960877e77e58dd6 #FI
+google.com, pub-6820505261750827, DIRECT, f08c47fec0942fa0
+google.com, pub-2085267058824751, DIRECT, f08c47fec0942fa0
+google.com, pub-3622156405313063, RESELLER, f08c47fec0942fa0 #FI - AdX
+google.com, pub-7604846383524396, RESELLER, f08c47fec0942fa0 #FI - VicinityX
+openx.com, 537104992, RESELLER, 6a698e2ec38604c6 #FI - OpenX
+openx.com, 539819368, RESELLER, 6a698e2ec38604c6 #FI - OpenX
+sovrn.com, 243408, RESELLER, fafdf38b16bf6b2b #FI - Sovrn
+lijit.com, 243408, RESELLER, fafdf38b16bf6b2b #FI - Sovrn
+sovrn.com, 256420, RESELLER, fafdf38b16bf6b2b #FI - Sovrn
+lijit.com, 256420, RESELLER, fafdf38b16bf6b2b #FI - Sovrn
+adtech.com, 10297, RESELLER #FI - Oath
+aolcloud.net, 10297, RESELLER #FI - Oath
+contextweb.com, 558377, RESELLER, 89ff185a4c4e857c #FI - PulsePoint
+outbrain.com, 0043e7a761d92337b9269c2b10d9835c8d, RESELLER #FI - Outbrain
+aps.amazon.com, 4cd01fd0-0780-4b33-a4da-c39467660185, RESELLER #FI - Amazon
+contextweb.com, 561562, RESELLER, 89ff185a4c4e857 #FI - Amazon (PulsePoint)
+c1exchange.com, c1x_a9_uampubs, RESELLER #FI - Amazon (C1X)
+pubmatic.com, 156888, RESELLER, 5d62403b186f2ace #FI - PubMatic
+rubiconproject.com, 18438, RESELLER, 0bfd66d529a55807 #FI - Rubicon Project
+rubiconproject.com, 15202, RESELLER, 0bfd66d529a55807
+districtm.io, 101705, DIRECT
+appnexus.com, 1908, RESELLER, f5ab79cb980f11d1
+appnexus.com, 10478, RESELLER, f5ab79cb980f11d1 #FI - AppNexus
+google.com, pub-9685734445476814, RESELLER, f08c47fec0942fa0
+google.com, pub-2891925235861261, RESELLER, f08c47fec0942fa0 #FI - AdJoin AdX
+google.com, pub-7194514994057946, RESELLER, f08c47fec0942fa0 #Futuretech
+google.com, pub-4090704406626496, RESELLER, f08c47fec0942fa0

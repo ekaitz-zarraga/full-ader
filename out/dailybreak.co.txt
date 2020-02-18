@@ -1,0 +1,18 @@
+#google
+google.com, pub-8433352219242263, DIRECT, f08c47fec0942fa0
+google.com, pub-3019330810979063, DIRECT, f08c47fec0942fa0
+#unruly
+video.unrulymedia.com, UNRX-PUB-c8c3bc77-d7e1-4194-adf0-11a11a4e651c, DIRECT
+indexexchange.com, 182257, RESELLER
+appnexus.com, 6849, RESELLER
+rubiconproject.com, 15268, RESELLER
+#appnexus
+appnexus.com, 11178, DIRECT
+#districtm
+districtm.io, 101920, DIRECT, 3fd707be9c4527c3
+appnexus.com, 1908, RESELLER, f5ab79cb980f11d1
+google.com, pub-9685734445476814, RESELLER, f08c47fec0942fa0
+#teads
+teads.tv, 11588, DIRECT, 15a9c44f6d26cbe1
+#triplelift
+triplelift.com, 7921, DIRECT, 6c33edb13117fd86

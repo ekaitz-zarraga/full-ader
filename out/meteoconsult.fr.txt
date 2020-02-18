@@ -1,0 +1,43 @@
+appnexus.com, 3273, DIRECT, f5ab79cb980f11d1 #banner, native, app
+appnexus.com, 8253, DIRECT, f5ab79cb980f11d1#banner, native, app, video 
+appnexus.com, 1608, RESELLER, f5ab79cb980f11d1 #banner
+appnexus.com, 8494, RESELLER, f5ab79cb980f11d1 #banner
+google.com, pub-0183718428887645, DIRECT, f08c47fec0942fa0 
+google.com, pub-7119344897982750, DIRECT, f08c47fec0942fa0
+google.com, pub-7418191728211626, DIRECT, f08c47fec0942fa0
+google.com, pub-8817393023456217, DIRECT, f08c47fec0942fa0
+rubiconproject.com, 9585, RESELLER
+aps.amazon.com, 3247, DIRECT #video
+aps.amazon.com, 3247, DIRECT #display
+aps.amazon.com, 3247, DIRECT #app
+outbrain.com, 0086523edb0b5dd95e21a3f56f1f949416, DIRECT #otb
+outbrain.com, 0086523edb0b5dd95e21a3f56f1f949416, RESELLER #otb
+appnexus.com, 7597, RESELLER, f5ab79cb980f11d1 #otb
+tremorhub.com, q017o-78mlk, RESELLER, 1a4e959a1b50034a #otb Premium video demand aka "Telaria"
+teads.tv, 15429, RESELLER, 15a9c44f6d26cbe1 #otb Premium video demand
+advertising.com, 26154, RESELLER #otb Premium video demand
+spotxchange.com, 225721, RESELLER #otb Premium video demand
+Freewheel.tv, 741650, RESELLER #otb Premium video demand
+contact=programmatic@media.figaro.fr
+appnexus.com, 1608, RESELLER, f5ab79cb980f11d1
+appnexus.com, 3500, DIRECT, f5ab79cb980f11d1
+appnexus.com, 8494, RESELLER, f5ab79cb980f11d1
+rubiconproject.com, 9585, RESELLER, 0bfd66d529a55807
+indexexchange.com, 187149, DIRECT ou RESELLER
+smartadserver.com, 1338, RESELLER
+freewheel.tv, 2455, RESELLER
+freewheel.tv, 5189, RESELLER
+smartadserver.com, 1827, RESELLER
+improvedigital.com, 335, RESELLER
+appnexus.com, 3538, RESELLER
+appnexus.com, 3539, RESELLER
+appnexus.com, 3540, RESELLER
+adyoulike.com, 662483e9c6600a0e9e743273545577f2, DIRECT, 4ad745ead2958bf7
+freewheel.tv, 745362, RESELLER
+freewheel.tv, 745378, RESELLER
+spotxchange.com, 230037, RESELLER, 7842df1d2fe2db34
+spotx.tv, 230037, RESELLER, 7842df1d2fe2db34
+tremorhub.com, ewut4-b6zwq, RESELLER, 1a4e959a1b50034a
+rubiconproject.com, 20736, RESELLER, 0bfd66d529a55807
+freewheel.tv, 192129, RESELLER
+freewheel.tv, 192145, RESELLER

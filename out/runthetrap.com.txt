@@ -1,0 +1,102 @@
+#Ads.txt complex.com last updated 01.24.18
+
+google.com, pub-1301581561755234, DIRECT #unified
+google.com, pub-2557900687859377, DIRECT #complex
+
+amazon-adsystem.com, 3061, DIRECT
+adtech.com, 10350, DIRECT #aol
+aolcloud.net, 10350, DIRECT #aol
+appnexus.com, 7287, DIRECT
+indexexchange.com, 184233, DIRECT
+indexexchange.com, 184731, DIRECT #ebda
+openx.com, 537146066, DIRECT, 6a698e2ec38604c6
+openx.com, 537150843, DIRECT, 6a698e2ec38604c6 #ebda
+openx.com, 539272258, DIRECT, 6a698e2ec38604c6 #video
+teads.tv, 14216, DIRECT, 15a9c44f6d26cbe1
+teads.tv, 8175, DIRECT, 15a9c44f6d26cbe1
+triplelift.com, 1233, DIRECT #complex
+triplelift.com, 2966, DIRECT #collider
+yieldmo.com, 692692698490674803, DIRECT
+yieldmo.com, Complex%20Media, DIRECT
+appnexus.com, 3628, RESELLER #parsec
+rubiconproject.com, 10298, DIRECT, 0bfd66d529a55807
+EMXDGT.com, 112, DIRECT, 1e1d41537f7cad7f #brealtime
+Appnexus.com, 1356, RESELLER, f5ab79cb980f11d1 #brealtime
+districtm.io, 100816, DIRECT
+appnexus.com, 1908, RESELLER #districtm
+contextweb.com, 561589, DIRECT, 89ff185a4c4e857 #pulsepoint
+
+sovrn.com, 217955, DIRECT, fafdf38b16bf6b2b
+pubmatic.com, 137711, RESELLER #sovrn
+pubmatic.com, 156212, RESELLER #sovrn 
+pubmatic.com, 62483, RESELLER #sovrn
+
+kargo.com, 112, DIRECT #cmn
+kargo.com, 1236, DIRECT #o&o
+kargo.com, 1237, DIRECT #complex.com
+indexexchange.com, 184081, RESELLER #cmn, kargo
+indexexchange.com, 184081, RESELLER #complex.com, kargo
+indexexchange.com, 184081, RESELLER #o&o, kargo
+
+Mediabong.com, 129, DIRECT #vuble, video
+Mediabong.com, 14962, RESELLER #vuble, video
+
+appnexus.com, 7556, RESELLER #giftconnect
+appnexus.com, 1356, RESELLER #giftconnect, brealtime seat id
+emxdgt.com, 20, RESELLER, 1e1d41537f7cad7f #giftconnect, brealtime
+openx.com, 537150004, RESELLER #giftconnect
+pubmatic.com, 156319, RESELLER #giftconnect
+sonobi.com, e55fb5d7c2, RESELLER #giftconnect
+sovrn.com, 248396, RESELLER #giftconnect
+indexexchange.com, 184914, RESELLER #giftconnect
+google.com, pub-6694481294649483, RESELLER #giftconnect
+
+video.unrulymedia.com, UNRX_0a7ce289-7d2c-4bcb-8cda-a9d075565ded, DIRECT #unruly
+video.unrulymedia.com, 1085340, DIRECT #unruly
+video.unrulymedia.com, UNRX_361aacf4-7005-4c05-96bb-221e9ce8476f, DIRECT #unruly
+video.unrulymedia.com, 1085341, DIRECT #unruly
+video.unrulymedia.com, UNRX_1535f542-6551-43c7-aebf-7c62fbd4ad46, DIRECT #unruly
+video.unrulymedia.com, 1023651, DIRECT #unruly
+video.unrulymedia.com, UNRX_00a34862-0c1d-4ed9-85b1-ef8b0a581b83, DIRECT #unruly
+video.unrulymedia.com, 1086500, DIRECT #unruly
+video.unrulymedia.com, UNRX_2e37a756-5678-48cf-9f82-e491611178a9, DIRECT #unruly
+video.unrulymedia.com, 1086501, DIRECT #unruly
+video.unrulymedia.com, UNRX_1fdbf22b-dd8e-4639-bf86-f14fe952c1b3, DIRECT #unruly
+video.unrulymedia.com, 1086502, DIRECT #unruly
+video.unrulymedia.com, UNRX_d2d3dcab-5845-4b4b-a770-32437fe49434, DIRECT #unruly
+video.unrulymedia.com, 1086503, DIRECT #unruly
+video.unrulymedia.com, UNRX_fd230e32-90ba-4c01-a58b-5630893747be, DIRECT #unruly
+video.unrulymedia.com, 1086505, DIRECT #unruly
+video.unrulymedia.com, UNRX_1b3deb5e-59f2-4aec-8b6c-3e2f26e01535, DIRECT #unruly
+video.unrulymedia.com, 1086506, DIRECT #unruly
+video.unrulymedia.com, UNRX_a16716dc-936c-46a5-ae7b-0f3012c93da3, DIRECT #unruly
+video.unrulymedia.com, 1086507, DIRECT #unruly
+video.unrulymedia.com, UNRX_476fc22d-ad90-46db-bba3-fb7a644bb066, DIRECT #unruly
+video.unrulymedia.com, 1086508, DIRECT #unruly
+video.unrulymedia.com, UNRX_1d5e9cd8-3d24-4aa7-8fcb-b10f665ac8d7, DIRECT #unruly
+video.unrulymedia.com, 1088948, DIRECT #unruly
+video.unrulymedia.com, UNRX_9e399384-33fe-4227-a0ac-843855376b03, DIRECT #unruly
+video.unrulymedia.com, 1088947, DIRECT #unruly
+rubiconproject.com, 15268, RESELLER #unruly
+indexexchange.com, 182257, RESELLER #unruly
+appnexus.com, 6849, RESELLER #unruly
+
+springserve.com, 1, RESELLER #spotim
+springserve.com, 15924, RESELLER #spotim
+contextweb.com, 560571, RESELLER #spotim
+fyber.com, 42a3ff98fefe677016da0f87403a11cf, RESELLER #spotim
+fyber.com, 42a3ff98fefe677016da0f87403a11cf, DIRECT #spotim
+google.com, pub-6746653557725812, DIRECT #spotim
+google.com, pub-5616046187545019, DIRECT #spotim
+aol.com, 21364, RESELLER #spotim
+freewheel.tv, 319201, RESELLER #spotim
+freewheel.tv, 325521, RESELLER #spotim
+tremorhub.com, p4dt2-jhelk, RESELLER #spotim
+optimatic.com, 655036715457, RESELLER #spotim
+optimatic.com, 655036715457, DIRECT #spotim
+openx.com, 539293181, RESELLER #spotim
+spotxchange.com, 211945, RESELLER #spotim
+spotx.tv, 211945, RESELLER #spotim
+rubiconproject.com, 17184, DIRECT #spotim
+vertamedia.com, 267755, RESELLER #spotim
+vertamedia.com, 268114, RESELLER #spotim

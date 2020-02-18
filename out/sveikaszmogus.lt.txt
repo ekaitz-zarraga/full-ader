@@ -1,0 +1,101 @@
+#ads.txt
+
+google.com, pub-7383171830614216, RESELLER
+google.com, pub-3970277535528613, RESELLER
+rubiconproject.com, 13606, RESELLER, 0bfd66d529a55807
+appnexus.com, 3711, RESELLER
+adform.com, 1484, RESELLER
+pubmatic.com, 156191, RESELLER, 5d62403b186f2ace
+emxdgt.com, 242, RESELLER, 1e1d41537f7cad7f
+appnexus.com, 1536, RESELLER, f5ab79cb980f11d1
+smartadserver.com, 1776, RESELLER
+contextweb.com, 561376, RESELLER, 89ff185a4c4e857c
+admixer.net, E1FD631C-1259-4EF3-A0F3-452A8B59DCB2, RESELLER
+sovrn.com, 252889, RESELLER, fafdf38b16bf6b2b
+lijit.com, 252889, RESELLER, fafdf38b16bf6b2b
+gumgum.com, 11645, RESELLER, ffdef49475d318a9
+openx.com, 537120960, RESELLER
+openx.com, 83499, RESELLER
+openx.com, 538959099, RESELLER
+pubmatic.com, 137711, RESELLER
+pubmatic.com, 156212, RESELLER
+pubmatic.com, 62483, RESELLER
+contextweb.com, 558511, RESELLER
+sovrn.com, 257823,DIRECT, fafdf38b16bf6b2b lijit.com, 257823, DIRECT, fafdf38b16bf6b2b openx.com, 537120960, RESELLER
+openx.com, 83499, RESELLER
+openx.com, 538959099,
+RESELLER pubmatic.com,
+137711, RESELLER pubmatic.com, 156212, RESELLER pubmatic.com, 62483, RESELLER contextweb.com, 558511,
+RESELLER gumgum.com,
+11645, RESELLER, ffdef49475d318a9 appnexus.com,
+1019, RESELLER appnexus.com, 2688, RESELLER contextweb.com, 560961, RESELLER google.com, pub-1076181631997634,
+RESELLER, f08c47fec0942fa0 google.com, pub-6205083306620034, RESELLER,
+f08c47fec0942fa0  lijit.com, 231317, RESELLER, fafdf38b16bf6b2b openx.com, 537103367, RESELLER,
+a698e2ec38604c6 rubiconproject.com, 15380, RESELLER sovrn.com, 231317, RESELLER,
+fafdf38b16bf6b2b
+appnexus.com, 1019, RESELLER
+google.com, pub-3182858089993196, RESELLER
+google.com, pub-6818616807676795, RESELLER
+rubiconproject.com, 16854, RESELLER 
+openx.com, 537151480, RESELLER 
+criteo.com, 4763, RESELLER 
+adform.com, 158, RESELLER 
+smartadserver.com, 1590, RESELLER 
+ibillboard.com, 16190, DIRECT
+districtm.io, 100899, RESELLER
+appnexus.com, 1908, RESELLER
+appnexus.com, 7944, RESELLER
+
+#Ads.txt Adnet media 2017-12-07
+
+google.com, pub-3182858089993196, RESELLER
+google.com, pub-6818616807676795, RESELLER
+rubiconproject.com, 16854, RESELLER
+indexexchange.com, 186320, RESELLER 
+openx.com, 537151480, RESELLER
+criteo.com, 4763, RESELLER 
+adform.com, 158, RESELLER
+appnexus.com, 8906, RESELLER 
+smartadserver.com, 1590, RESELLER 
+ibillboard.com, 16190, DIRECT
+districtm.io, 100899, RESELLER
+appnexus.com, 1908, RESELLER
+appnexus.com, 7944, RESELLER
+indexexchange.com, 180179, RESELLER
+stroeer.com, 14214, DIRECT
+stroeer.com, 17129, DIRECT
+indexexchange.com, 183592, RESELLER
+Appnexus.com, 1371, RESELLER
+contextweb.com, 558750, RESELLER
+adform.com, 356, RESELLER
+
+google.com, pub-7383171830614216, RESELLER, f08c47fec0942fa0
+google.com, pub-3970277535528613, RESELLER, f08c47fec0942fa0
+rubiconproject.com, 13606, RESELLER, 0bfd66d529a55807
+appnexus.com, 3711, RESELLER
+adform.com, 1484, RESELLER
+pubmatic.com, 156191, RESELLER, 5d62403b186f2ace
+sovrn.com, 252889, DIRECT, fafdf38b16bf6b2b
+lijit.com, 252889, DIRECT, fafdf38b16bf6b2b
+gumgum.com, 11645, RESELLER, ffdef49475d318a9
+openx.com, 537120960, RESELLER
+openx.com, 83499, RESELLER
+openx.com, 538959099, RESELLER
+pubmatic.com, 137711, RESELLER
+pubmatic.com, 156212, RESELLER
+pubmatic.com, 62483, RESELLER
+contextweb.com, 558511, RESELLER
+emxdgt.com, 242, RESELLER, 1e1d41537f7cad7f
+appnexus.com, 1356, RESELLER, f5ab79cb980f11d1
+smartadserver.com, 1776, RESELLER
+contextweb.com, 561376, RESELLER, 89ff185a4c4e857c
+admixer.net, E1FD631C-1259-4EF3-A0F3-452A8B59DCB2, RESELLER
+improvedigital.com, 803, RESELLER
+indexexchange.com, 186102, RESELLER
+betweendigital.com, 35081, RESELLER
+adocean-global.com, 83598, RESELLER
+districtm.io, 101521, DIRECT
+appnexus.com, 1908, RESELLER, f5ab79cb980f11d1
+google.com, pub-9685734445476814, RESELLER, f08c47fec0942fa0
+RTBHOUSE.COM, d2380d6f45eaac2c7d22, DIRECT
+google.com, pub-3862505954544594, DIRECT, f08c47fec0942fa0

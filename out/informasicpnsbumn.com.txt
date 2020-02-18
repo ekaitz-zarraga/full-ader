@@ -1,0 +1,12 @@
+google.com, pub-3942069552634868, DIRECT, f08c47fec0942fa0 
+#innity
+innity.com, 1110, DIRECT, 47ea16374dff1d69
+appnexus.com, 3058, RESELLER
+google.com, pub-7002491002409919, DIRECT, f08c47fec0942fa0
+google.com, pub-7002491002409919, RESELLER, f08c47fec0942fa0
+google.com, pub-9378724246417115, DIRECT, f08c47fec0942fa0
+#end innity
+#CPXi
+appnexus.com, 7744, DIRECT 
+appnexus.com, 7744, RESELLER
+#end CPXi

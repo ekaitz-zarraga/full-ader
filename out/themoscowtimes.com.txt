@@ -1,0 +1,82 @@
+google.com, pub-5397749300230208, DIRECT, f08c47fec0942fa0
+google.com, pub-8782101218271555, DIRECT, f08c47fec0942fa0
+
+#Playbuzz 5-11-2019
+playbuzz.com, 0010J000021He1GQAS, DIRECT
+google.com, pub-9790762811057699, RESELLER, f08c47fec0942fa0
+appnexus.com, 2992, RESELLER
+spotxchange.com, 126022, RESELLER, 7842df1d2fe2db34
+spotx.tv, 126022, RESELLER, 7842df1d2fe2db34
+aniview.com, 56ea678d181f46c76f8b45fb, RESELLER, 78b21b97965ec3f8
+aol.com, 21581, RESELLER
+openx.com, 540847574, RESELLER, 6a698e2ec38604c6
+indexexchange.com, 189396, RESELLER, 50b1c356f2c5c8fc
+smartadserver.com, 3039, RESELLER
+tremorhub.com, 6uigs, RESELLER, 1a4e959a1b50034a
+telaria.com, 6uigs, RESELLER, 1a4e959a1b50034a
+pubmatic.com, 158554, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 17136, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 18220, RESELLER, 0bfd66d529a55807
+improvedigital.com, 1382, RESELLER
+sovrn.com, 241560, RESELLER, fafdf38b16bf6b2b
+openx.com, 539808722, RESELLER
+indexexchange.com, 188630, RESELLER, 50b1c356f2c5c8fc
+advertising.com, 10773, RESELLER
+lijit.com, 241560, RESELLER, fafdf38b16bf6b2b
+
+pubmatic.com, 157220, RESELLER, 5d62403b186f2ace
+
+#playbuzz old
+ssp.playbuzz.com, 10242, DIRECT, 9f36efba07b2294e
+playbuzz.com, 10242, DIRECT, 9f36efba07b2294e
+appnexus.com, 2992, RESELLER
+#rubiconproject.com, 17136, RESELLER, 0bfd66d529a55807
+#rubiconproject.com, 18220, RESELLER, 0bfd66d529a55807
+#spotxchange.com, 126022, RESELLER, 7842df1d2fe2db34
+#spotx.tv, 126022, RESELLER, 7842df1d2fe2db34
+#aol.com, 21581, RESELLER
+freewheel.tv, 302257, RESELLER
+freewheel.tv, 302225, RESELLER
+freewheel.tv, 424257, RESELLER
+freewheel.tv, 399697, RESELLER
+freewheel.tv, 434401, RESELLER
+freewheel.tv, 424849, RESELLER
+freewheel.tv, 424689, RESELLER
+pubmatic.com, 156026, RESELLER, 5d62403b186f2ace
+advertising.com, 10773, RESELLER
+#smartadserver.com, 3039, RESELLER
+#tremorhub.com, 6uigs, RESELLER, 1a4e959a1b50034a
+openx.com, 539808722, DIRECT
+
+#Rubicon
+rubiconproject.com, 17046, RESELLER, 0bfd66d529a55808
+
+#OpenX
+openx.com, 540787729, RESELLER, 6a698e2ec38604c6
+
+#Sovrn
+sovrn.com, 251676, DIRECT, fafdf38b16bf6b2b
+lijit.com, 251676, DIRECT, fafdf38b16bf6b2b
+gumgum.com, 11645, RESELLER, ffdef49475d318a9
+
+openx.com, 537120960, RESELLER
+openx.com, 83499, RESELLER
+openx.com, 538959099, RESELLER
+
+pubmatic.com, 137711, RESELLER
+pubmatic.com, 156212, RESELLER
+pubmatic.com, 62483, RESELLER
+contextweb.com, 558511, RESELLER
+
+
+smartadserver.com, 3039, DIRECT
+indexexchange.com, 188630, RESELLER, 50b1c356f2c5c8fc
+openx.com, 539808722, DIRECT
+telaria.com, 6uigs, RESELLER, 1a4e959a1b50034
+
+#MMP 4-11-2019
+google.com, pub-3992393056167515, RESELLER, f08c47fec0942fa0
+google.com, 27367402, RESELLER, f08c47fec0942fa0
+indexexchange.com, 187558, RESELLER
+rubiconproject.com, 19512, RESELLER, 0bfd66d529a55807
+

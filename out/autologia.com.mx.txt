@@ -1,0 +1,6 @@
+# Archivo de Ads.txt para autologia.mx
+#
+# El inventario de visualizaci�n de autologia.com.mx solo se puede comprar directamente a trav�s soloautos.mx
+# El inventario no est� disponible en intercambios abiertos ni en acuerdos de mercado privado.
+# No se enumeran revendedores en este archivo ads.txt por este motivo.
+contact = https://soloautos.mx/contacto

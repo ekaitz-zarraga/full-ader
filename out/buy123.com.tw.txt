@@ -1,0 +1,34 @@
+google.com, pub-8707138626140424, DIRECT, f08c47fec0942fa0
+google.com, pub-1418529948870857, DIRECT, f08c47fec0942fa0
+yahoo.com, 28261959434, DIRECT #banner, TW
+yahoo.com, 29284317588, DIRECT #banner, APAC
+yahoo.com, 25533108522, DIRECT #banner, HK
+yahoo.com, 29284317511, DIRECT #banner, APAC
+pubmatic.com, 156107, RESELLER, 5d62403b186f2ace #banner, APAC
+indexexchange.com, 184626, RESELLER, 50b1c356f2c5c8fc #banner, APAC
+indexexchange.com, 185267, RESELLER, 50b1c356f2c5c8fc #video, APAC
+openx.com, 539129292, RESELLER, 6a698e2ec38604c6 #banner, APAC
+google.com, pub-6785382607161389, RESELLER, #banner, APAC
+rubiconproject.com, 16086, RESELLER, 0bfd66d529a55807 #banner, APAC
+yahoo.com, 26532719555, DIRECT #banner, IN
+yahoo.com, 27340194012, DIRECT #banner, PH
+yahoo.com, 29284317589, DIRECT #banner, APAC
+yahoo.com, 27743575868, DIRECT #banner, ID
+yahoo.com, 28906310396, DIRECT #banner, MY
+yahoo.com, 26177459484, DIRECT #banner, VN
+yahoo.com, 25225873693, DIRECT #banner, SG
+yahoo.com, 25306537877, DIRECT #banner, TH
+yahoo.com, 26055890550, DIRECT #banner, APAC
+yahoo.com, 29284317564, DIRECT #banner, SG
+yahoo.com, 29284317592, DIRECT #banner, APAC
+yahoo.com, 29284317525, DIRECT #banner, APAC
+btrll.com, 6836232, DIRECT #video, APAC
+btrll.com, 6836231, DIRECT #video, APAC
+adtech.com, 12015, DIRECT #banner, APAC
+adtech.com, 15016, DIRECT #banner, APAC
+advertising.com, 24444, DIRECT #video, APAC
+adtech.com, 12015, DIRECT #Banner, SINGAPORE
+adtech.com, 12017, DIRECT #Banner, SINGAPORE
+adtech.com, 15016, DIRECT #Banner, SINGAPORE
+appnexus.com, 273, RESELLER #banner, Global
+appnexus.com, 7824, RESELLER #video, Global

@@ -1,0 +1,12 @@
+Ads.txt
+
+
+smartadserver.com,2210,RESELLER
+pubmatic.com,156439, RESELLER
+pubmatic.com,154037, RESELLER
+rubiconproject.com,16114, RESELLER,0bfd66d529a55807
+openx.com,537149888, RESELLER,6a698e2ec38604c6
+beachfront.com, beachfront_4621, RESELLER
+appnexus.com,3703, RESELLER,f5ab79cb980f11d1
+google.com, pub-4242729274292460, DIRECT, f08c47fec0942fa0
+

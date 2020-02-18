@@ -1,0 +1,310 @@
+#Ads.txt microsoftcasualgames.com
+
+#InMobi
+advertising.com, 6247, RESELLER
+appnexus.com, 994, RESELLER
+appnexus.com, 996, RESELLER
+appnexus.com, 997, RESELLER
+appnexus.com, 1356, RESELLER, f5ab79cb980f11d1
+Blis.com, 33, RESELLER, 61453ae19a4b73f4
+EMXDGT.com, 594, RESELLER, 1e1d41537f7cad7f
+google.com, pub-4952319491258473, DIRECT, f088c47fec942fa0
+indexexchange.com, 184738, RESELLER
+inmobi.com, 7669, DIRECT, 83e75a7ae333ca9d
+openx.com, 537124160, RESELLER, 6a698e2ec38604c6
+openx.com, 539214772, RESELLER, 6a698e2ec38604c6
+openx.com, 540543200, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 156517, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156931, RESELLER, 5d62403b186f2ace
+pubmatic.com, 157097, RESELLER, 5d62403b186f2ace
+pubmatic.com, 157153, RESELLER, 5d62403b186f2ace
+pubmatic.com, 158919, DIRECT, 5d62403b186f2ace
+rubiconproject.com, 11726, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 12266, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 15278, RESELLER, 0bfd66d529a55807
+rubiconproject.com,16928, RESELLER, 0bfd66d529a55807
+smartadserver.com,3232,RESELLER
+smartstream.tv,5143,RESELLER
+smartstream.tv,5895,RESELLER
+spotx.tv, 234183, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 234183, RESELLER, 7842df1d2fe2db34
+verve.com, 5897, RESELLER, 0c8f5958fc2d6270
+xad.com, 767, RESELLER, 81cbf0a75a5e0e9a
+xad.com, 1190, RESELLER, 81cbf0a75a5e0e9a
+
+#Outbrain
+advertising.com, 26154, RESELLER # Premium video demand
+advertising.com, 28038, RESELLER # Premium Video Demand
+appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
+Freewheel.tv, 741650, RESELLER # Premium video demand
+lkqd.net, 450, RESELLER, 59c49fa9598a0117 # Premium video demand
+openx.com, 540393169, RESELLER, 6a698e2ec38604c6 # Premium video demand
+outbrain.com, 0025301e2ab4c691db993b238258b1ecff, DIRECT
+rubiconproject.com, 17130, RESELLER, 0bfd66d529a55807 # Premium video demand
+rubiconproject.com, 19668, RESELLER, 0bfd66d529a55807
+spotx.tv, 238936, RESELLER, 7842df1d2fe2db34 # Premium video demand
+spotxchange.com, 225721, RESELLER # Premium video demand
+spotxchange.com, 238936, RESELLER, 7842df1d2fe2db34 # Premium Video Demand
+teads.tv, 15429, RESELLER, 15a9c44f6d26cbe1 # Premium video demand
+tremorhub.com, q017o-78mlk, RESELLER, 1a4e959a1b50034a # Premium video demand aka "Telaria"
+
+#SSPs
+adform.com, 648, DIRECT
+appnexus.com, 280, DIRECT #banner
+facebook.com, 1633212183488516, RESELLER, c3e20eee3f780d68
+facebook.com, 1987298331543792, RESELLER, c3e20eee3f780d68
+facebook.com, 387996448368109, RESELLER, c3e20eee3f780d68
+freewheel.tv, 822097, DIRECT
+freewheel.tv, 822753, RESELLER
+freewheel.tv, 1056961, DIRECT
+freewheel.tv, 1057297, RESELLER
+google.com, pub-3472299588859191, DIRECT, f08c47fec0942fa0
+google.com, pub-6595851468600049, DIRECT, f08c47fec0942fa0
+google.com, pub-7064439419818173, RESELLER
+indexexchange.com, 191111, DIRECT
+outbrain.com, 0025301e2ab4c691db993b238258b1ecff, DIRECT #native
+rubiconproject.com, 11394, DIRECT, 0bfd66d529a55807
+rubiconproject.com, 21350, DIRECT, 0bfd66d529a55807
+smartclip.net, 8522, DIRECT #NORDVideo
+smartclip.net, 8524, DIRECT #DEVideo
+smartclip.net, 8526, DIRECT #BENELUXVideo
+smartclip.net, 8528, DIRECT #ITVideo
+smartclip.net, 9052, DIRECT #ESVideo
+smartclip.net, 9054, DIRECT #BRVideo
+smartclip.net, 9055, DIRECT #MXVideo
+smartclip.net, 9232, DIRECT #MXvideo
+smartclip.net, 10439, DIRECT #ARVideo
+smartclip.net, 10440, DIRECT #COVideo
+smartclip.net, 10441, DIRECT #ECVideo
+smartclip.net, 10443, DIRECT #PEVideo
+smartclip.net, 10453, DIRECT #CHLVideo
+spotx.tv, 155325, DIRECT, 7842df1d2fe2db34 #video
+spotx.tv, 155391, DIRECT, 7842df1d2fe2db34
+spotx.tv, 245212, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 155325, DIRECT, 7842df1d2fe2db34 #video
+spotxchange.com, 155391, DIRECT, 7842df1d2fe2db34
+spotxchange.com, 245212, RESELLER, 7842df1d2fe2db34
+
+#Taboola
+advertising.com, 8603, RESELLER #banner
+appnexus.com, 3364, RESELLER #banner
+contextweb.com, 560382, RESELLER #banner
+fyber.com, 1a12a7e3f84fe560ccf95a3a73043abb, RESELLER #banner
+fyber.com, ad9de41d28d494354b23133f26f83122, RESELLER #banner
+google.com, pub-5459209596458886, RESELLER, f08c47fec0942fa0
+google.com, pub-8929667634210480, RESELLER, f08c47fec0942fa0
+Indexexchange.com, 183756, RESELLER #banner
+pubmatic.com, 156307, RESELLER, 5d62403b186f2ace #banner
+rubiconproject.com, 16698, RESELLER, 0bfd66d529a55807 #banner
+spotx.tv, 71451, RESELLER #video
+spotxchange.com, 71451, RESELLER #video
+taboola.com, 1042440, DIRECT #native
+taboola.com, 1050257, DIRECT, c228e6794e811952 #native
+taboola.com, 1050257, RESELLER, c228e6794e811952 #native
+taboola.com, 1050259, DIRECT, c228e6794e811952 #native
+taboola.com, 1050259, RESELLER, c228e6794e811952 #native
+taboola.com, 1050352, DIRECT, c228e6794e811952 #native
+taboola.com, 1050352, RESELLER, c228e6794e811952 #native
+taboola.com, 1050421, DIRECT, c228e6794e811952 #native
+taboola.com, 1050421, RESELLER, c228e6794e811952 #native
+taboola.com, 1050422, DIRECT, c228e6794e811952 #native
+taboola.com, 1050422, RESELLER, c228e6794e811952 #native
+taboola.com, 1050423, DIRECT, c228e6794e811952 #native
+taboola.com, 1050423, RESELLER, c228e6794e811952 #native
+taboola.com, 1050424, DIRECT, c228e6794e811952 #native
+taboola.com, 1050424, RESELLER, c228e6794e811952 #native
+taboola.com, 1051401, DIRECT, c228e6794e811952 #native
+taboola.com, 1051401, RESELLER, c228e6794e811952 #native
+taboola.com, 1051402, DIRECT, c228e6794e811952 #native
+taboola.com, 1051402, RESELLER, c228e6794e811952 #native
+taboola.com, 1051403, DIRECT, c228e6794e811952 #native
+taboola.com, 1051403, RESELLER, c228e6794e811952 #native
+taboola.com, 1051405, DIRECT, c228e6794e811952 #native
+taboola.com, 1051405, RESELLER, c228e6794e811952 #native
+taboola.com, 1051407, DIRECT, c228e6794e811952 #native
+taboola.com, 1051407, RESELLER, c228e6794e811952 #native
+taboola.com, 1051703, DIRECT, c228e6794e811952 #native
+taboola.com, 1051703, RESELLER, c228e6794e811952 #native
+taboola.com, 1051704, DIRECT, c228e6794e811952 #native
+taboola.com, 1051704, RESELLER, c228e6794e811952 #native
+taboola.com, 1051705, DIRECT, c228e6794e811952 #native
+taboola.com, 1051705, RESELLER, c228e6794e811952 #native
+taboola.com, 1051706, DIRECT, c228e6794e811952 #native
+taboola.com, 1051706, RESELLER, c228e6794e811952 #native
+taboola.com, 1051707, DIRECT, c228e6794e811952 #native
+taboola.com, 1051707, RESELLER, c228e6794e811952 #native
+taboola.com, 1051708, DIRECT, c228e6794e811952 #native
+taboola.com, 1051708, RESELLER, c228e6794e811952 #native
+taboola.com, 1051710, DIRECT, c228e6794e811952 #native
+taboola.com, 1051710, RESELLER, c228e6794e811952 #native
+taboola.com, 1051711, DIRECT, c228e6794e811952 #native
+taboola.com, 1051711, RESELLER, c228e6794e811952 #native
+taboola.com, 1051775, DIRECT, c228e6794e811952 #native
+taboola.com, 1051775, RESELLER, c228e6794e811952 #native
+taboola.com, 1051776, DIRECT, c228e6794e811952 #native
+taboola.com, 1051776, RESELLER, c228e6794e811952 #native
+taboola.com, 1054686, DIRECT, c228e6794e811952 #native
+taboola.com, 1054686, RESELLER, c228e6794e811952 #native
+taboola.com, 1055653, DIRECT, c228e6794e811952 #native
+taboola.com, 1055653, RESELLER, c228e6794e811952 #native
+taboola.com, 1055654, DIRECT, c228e6794e811952 #native
+taboola.com, 1055654, RESELLER, c228e6794e811952 #native
+taboola.com, 1055655, DIRECT, c228e6794e811952 #native
+taboola.com, 1055655, RESELLER, c228e6794e811952 #native
+taboola.com, 1055656, DIRECT, c228e6794e811952 #native
+taboola.com, 1055656, RESELLER, c228e6794e811952 #native
+taboola.com, 1061223, DIRECT, c228e6794e811952 #native
+taboola.com, 1061223, RESELLER, c228e6794e811952 #native
+taboola.com, 1061232, DIRECT, c228e6794e811952 #native
+taboola.com, 1061232, RESELLER, c228e6794e811952 #native
+taboola.com, 1061234, DIRECT, c228e6794e811952 #native
+taboola.com, 1061234, RESELLER, c228e6794e811952 #native
+taboola.com, 1061235, DIRECT, c228e6794e811952 #native
+taboola.com, 1061235, RESELLER, c228e6794e811952 #native
+taboola.com, 1061236, DIRECT, c228e6794e811952 #native
+taboola.com, 1061236, RESELLER, c228e6794e811952 #native
+taboola.com, 1061237, DIRECT, c228e6794e811952 #native
+taboola.com, 1061237, RESELLER, c228e6794e811952 #native
+taboola.com, 1061238, DIRECT, c228e6794e811952 #native
+taboola.com, 1061238, RESELLER, c228e6794e811952 #native
+taboola.com, 1061239, DIRECT, c228e6794e811952 #native
+taboola.com, 1061239, RESELLER, c228e6794e811952 #native
+taboola.com, 1061240, DIRECT, c228e6794e811952 #native
+taboola.com, 1061240, RESELLER, c228e6794e811952 #native
+taboola.com, 1061241, DIRECT, c228e6794e811952 #native
+taboola.com, 1061241, RESELLER, c228e6794e811952 #native
+taboola.com, 1061242, DIRECT, c228e6794e811952 #native
+taboola.com, 1061242, RESELLER, c228e6794e811952 #native
+taboola.com, 1061243, DIRECT, c228e6794e811952 #native
+taboola.com, 1061243, RESELLER, c228e6794e811952 #native
+taboola.com, 1061244, DIRECT, c228e6794e811952 #native
+taboola.com, 1061244, RESELLER, c228e6794e811952 #native
+taboola.com, 1061245, DIRECT, c228e6794e811952 #native
+taboola.com, 1061245, RESELLER, c228e6794e811952 #native
+taboola.com, 1061247, DIRECT, c228e6794e811952 #native
+taboola.com, 1061247, RESELLER, c228e6794e811952 #native
+taboola.com, 1061258, DIRECT, c228e6794e811952 #native
+taboola.com, 1061258, RESELLER, c228e6794e811952 #native
+taboola.com, 1066064, DIRECT, c228e6794e811952 #native
+taboola.com, 1066064, RESELLER, c228e6794e811952 #native
+taboola.com, 1077570, DIRECT, c228e6794e811952 #native
+taboola.com, 1077570, RESELLER, c228e6794e811952 #native
+taboola.com, 1077572, DIRECT, c228e6794e811952 #native
+taboola.com, 1077572, RESELLER, c228e6794e811952 #native
+taboola.com, 1077574, DIRECT, c228e6794e811952 #native
+taboola.com, 1077574, RESELLER, c228e6794e811952 #native
+taboola.com, 1077579, DIRECT, c228e6794e811952
+taboola.com, 1088248, DIRECT, c228e6794e811952 #native
+taboola.com, 1088248, RESELLER, c228e6794e811952 #native
+taboola.com, 1103229, DIRECT, c228e6794e811952 #native
+taboola.com, 1103229, RESELLER, c228e6794e811952 #native
+taboola.com, 1106274, DIRECT, c228e6794e811952 #native
+taboola.com, 1106274, RESELLER, c228e6794e811952 #native
+taboola.com, 1106275, DIRECT, c228e6794e811952 #native
+taboola.com, 1106275, RESELLER, c228e6794e811952 #native
+taboola.com, 1106277, DIRECT, c228e6794e811952 #native
+taboola.com, 1106277, RESELLER, c228e6794e811952 #native
+taboola.com, 1147353, DIRECT, c228e6794e811952
+taboola.com, 1147356, DIRECT, c228e6794e811952
+taboola.com, 1147361, DIRECT, c228e6794e811952
+taboola.com, 1147362, DIRECT, c228e6794e811952
+tremorhub.com, z87wm, RESELLER, 1a4e959a1b50034a #banner
+
+#Venatus
+adtech.com, 2694, DIRECT #video
+adtech.com, 4596, DIRECT # AOL video
+advertising.com, 19623, RESELLER #Synacor
+advertising.com, 26282, RESELLER #SpringServe
+advertising.com, 2694, DIRECT #video
+aolcloud.net, 2694, DIRECT #video
+aolcloud.net, 4596, DIRECT # AOL video
+appnexus.com, 10738, RESELLER #Digiteka
+appnexus.com, 1908, RESELLER #DM reseller video
+appnexus.com, 6849, RESELLER #Unruly
+appnexus.com, 7944, RESELLER #DM reseller video
+appnexus.com, 806, DIRECT # Appnexus video
+appnexus.com, 9316, RESELLER, f5ab79cb980f11d1 #Synacor
+beachfront.com, 4969, RESELLER, e2541279e8e2ca4d #SpringServe
+contextweb.com, 561787, DIRECT, 89ff185a4c4e857c #Pulsepoint
+contextweb.com, 561910, RESELLER, 89ff185a4c4e857c #SpringServe
+conversantmedia.com, 41150, DIRECT # Conversant video
+coxmt.com, 2000067995202, RESELLER #Synacor
+districtm.io, 100749, DIRECT #DM direct video
+districtm.io, 101769, RESELLER, 3fd707be9c4527c3 #Synacor
+freewheel.tv, 187721, DIRECT #video
+freewheel.tv, 187865, DIRECT #video
+freewheel.tv, 1953, DIRECT #video
+freewheel.tv, 196129, DIRECT #video
+freewheel.tv, 196145, DIRECT #video
+freewheel.tv, 211121, DIRECT #video
+freewheel.tv, 211129, DIRECT #video
+freewheel.tv, 228641, DIRECT #video
+freewheel.tv, 228649, DIRECT #video
+freewheel.tv, 864001, RESELLER #Digiteka
+freewheel.tv, 864049, RESELLER #Digiteka
+google.com, pub-5549723401598621, DIRECT, f08c47fec0942fa0 #Digiteka
+google.com, pub-5781531207509232, DIRECT, f08c47fec0942fa0
+google.com, pub-7026431251527825, RESELLER, f08c47fec0942fa0 #Digiteka
+improvedigital.com, 1012, DIRECT # ImproveD video
+improvedigital.com, 1012, DIRECT #video
+indexexchange.com, 182257, RESELLER #Unruly
+indexexchange.com, 183921, DIRECT # Index video
+indexexchange.com, 183965, RESELLER, 50b1c356f2c5c8fc #Synacor
+lkqd.com, 304, RESELLER, 59c49fa9598a0117 #video
+lkqd.net, 304, DIRECT, 59c49fa9598a0117 #video
+loopme.com, 10509, DIRECT, 6c8d5f95897a5a3b #LoopMe
+loopme.com, s-2411, RESELLER, 6c8d5f95897a5a3b #LoopMe
+openx.com, 537144009, DIRECT, 6a698e2ec38604c6 #OpneX video
+openx.com, 540226160, RESELLER, 6a698e2ec38604c6 #SpringServe
+openx.com, 540255318, RESELLER, 6a698e2ec38604c6 #SpringServe
+pubmatic.com, 156084, RESELLER, 5d62403b186f2ace #Synacor
+pubmatic.com, 156325, RESELLER, 5d62403b186f2ace #Synacor
+pubmatic.com, 156344, RESELLER, 5d62403b186f2ace #Synacor
+pubmatic.com, 156458, RESELLER, 5d62403b186f2ace #Synacor
+pubmatic.com, 156715, DIRECT, 5d62403b186f2ace #video
+pubmatic.com, 157310, RESELLER, 5d62403b186f2ace #SpringServe
+rhythmone.com, 1155926068, DIRECT, a670c89d4a324e47 #Rone video
+rhythmone.com, 2968119028, RESELLER, a670c89d4a324e47 #SpringServe
+rhythmone.com, 608304513, DIRECT, a670c89d4a324e47 #Rone video
+rubiconproject.com, 13344, RESELLER, 0bfd66d529a55807 #Synacor
+rubiconproject.com, 13762, DIRECT, 0bfd66d529a55807 # Rubicon video
+rubiconproject.com, 15268, RESELLER #Unruly
+rubiconproject.com, 18222, RESELLER, 0bfd66d529a55807 #Synacor
+rubiconproject.com, 19582, DIRECT, 0bfd66d529a55807 # Rubicon AU video
+rubiconproject.com, 19610, DIRECT #Digiteka
+sonobi.com, 116da9d98c, DIRECT # Sonobi video
+sovrn.com, 237754, DIRECT, fafdf38b16bf6b2b # Sovrn video
+sovrn.com, 237754, DIRECT, fafdf38b16bf6b2b # Sovrn video
+spotx.tv, 141412, DIRECT, 7842df1d2fe2db34 #video
+spotx.tv, 182292, RESELLER, 7842df1d2fe2db34 #Digiteka
+spotx.tv, 239904, RESELLER, 7842df1d2fe2db34 #SpringServe
+spotx.tv, 81557, RESELLER, 7842df1d2fe2db34 #Digiteka
+spotxchange.com, 141412, DIRECT, 7842df1d2fe2db34 #video
+spotxchange.com, 182292, RESELLER, 7842df1d2fe2db34 #Digiteka
+spotxchange.com, 239904, RESELLER, 7842df1d2fe2db34 #SpringServe
+spotxchange.com,81557, RESELLER, 7842df1d2fe2db34 #Digiteka
+springserve.com, 550, DIRECT, a24eb641fc82e93d #SpringServe
+ssp.ynxs.io, 185, RESELLER #SpringServe
+synacor.com, 82101, DIRECT, e108f11b2cdf7d5b #Synacor
+teads.tv, 16676, DIRECT, 15a9c44f6d26cbe1 #video
+telaria.com, hpwve, RESELLER, 1a4e959a1b50034a #video
+telaria.com, zksge-09nus, RESELLER, 1a4e959a1b50034a #video AU
+telaria.com, zksge-kzhxp, RESELLER, 1a4e959a1b50034a #video AU
+themediagrid.com,FLBAK7,DIRECT,35d5010d7789b49d #AU Geronimo
+tremorhub.com, hpwve, RESELLER, 1a4e959a1b50034a #video
+tremorhub.com, zksge-09nus, RESELLER, 1a4e959a1b50034a #video AU
+tremorhub.com, zksge-kzhxp, RESELLER, 1a4e959a1b50034a #video AU
+video.unrulymedia.com, UNRX-PUB-29dad46b-9bec-43c7-b950-c59d09cc8c71, DIRECT #Unruly
+
+#Vungle
+Appnexus.com, 10128, RESELLER, f5ab79cb980f11d1
+Indexexchange.com, 185774, RESELLER, 50b1c356f2c5c8fc
+Inmobi.com, 2e0484e00bf84f35b133019004ef76a4, RESELLER, 83e75a7ae333ca9d
+Loopme.com, 10999, RESELLER, 6c8d5f95897a5a3b
+Loopme.com, s-2411, RESELLER, 6c8d5f95897a5a3b
+Openx.com, 540280728, RESELLER, 6a698e2ec38604c6
+Vungle.com, 579643ec6c081adf5c00004c, DIRECT, c107d686becd2d77
+
+#Video
+freewheel.tv, 1064161, DIRECT
+freewheel.tv, 1064241, RESELLER

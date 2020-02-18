@@ -1,0 +1,17 @@
+appnexus.com,3703,RESELLER,f5ab79cb980f11d1
+contextweb.com,560288,RESELLER,89ff185a4c4e857c
+google.com, pub-4053089480585053, RESELLER, f08c47fec0942fa0
+google.com, pub-5921205025042567, RESELLER, f08c47fec0942fa0
+google.com, pub-9521863179260636, DIRECT, f08c47fec0942fa0
+indexexchange.com, 179394, DIRECT
+openx.com, 537149888, DIRECT, a698e2ec38604c6
+pubmatic.com, 154037,RESELLER
+pubmatic.com, 156439, DIRECT
+pulsepoint.com, 560288, DIRECT
+rubicon.com, 12048, RESELLER
+rubiconproject.com, 16114, DIRECT
+smartadserver.com, 1003, DIRECT
+smartadserver.com, 2246, RESELLER
+sovrn.com, 257611,RESELLER, fafdf38b16bf6b2b
+teads.tv, 11488, DIRECT, 15a9c44f6d26cbe1
+

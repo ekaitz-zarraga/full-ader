@@ -1,0 +1,4 @@
+# ads.txt - Authorized Digital Sellers -> https://iabtechlab.com/ads-txt/
+# Leitfaden zu ads.txt -> https://support.google.com/adsense/answer/7532444
+# ads.txt file for Tier-Inserate.ch
+google.com, pub-2389018496360343, DIRECT, f08c47fec0942fa0

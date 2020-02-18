@@ -1,0 +1,47 @@
+#Ads.txt for Project Agora
+appnexus.com, 2725, RESELLER, f5ab79cb980f11d1
+appnexus.com, 7164, RESELLER, f5ab79cb980f11d1
+criteo.com, 28680, RESELLER
+rubiconproject.com, 11498, RESELLER, 0bfd66d529a55807
+smartadserver.com, 2289, RESELLER
+google.com, pub-2500372977609723, RESELLER, f08c47fec0942fa0
+google.com, pub-5233202974419683, RESELLER, f08c47fec0942fa0
+pubmatic.com, 156400, RESELLER, 5d62403b186f2ace
+facebook.com, 1396453687040410, RESELLER
+smaato.com, 1100030328, RESELLER
+
+#AdUnity AUX
+adunity.com, 1000154, RESELLER
+indexexchange.com, 183775, RESELLER
+openx.com, 537101597, RESELLER
+taboola.com, 1061262, RESELLER, c228e6794e811952
+
+#Ads.txt for Antena Group
+teads.tv, 14312, DIRECT, 15a9c44f6d26cbe1
+google.com, pub-9430696585566190, DIRECT, f08c47fec0942fa0
+google.com, pub-7476608016381954, DIRECT, f08c47fec0942fa0
+indexexchange.com, 186866, DIRECT
+openx.com, 540158166, DIRECT, 6a698e2ec38604c6
+
+#Ads.txt for others
+sovrn.com, 263921, DIRECT, fafdf38b16bf6b2b
+lijit.com, 263921, DIRECT, fafdf38b16bf6b2b
+appnexus.com, 1360, RESELLER, f5ab79cb980f11d1
+gumgum.com, 11645, RESELLER, ffdef49475d318a9
+openx.com, 538959099, RESELLER, 6a698e2ec38604c6
+openx.com, 539924617, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 137711, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156212, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156700, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 17960, RESELLER, 0bfd66d529a55807
+appnexus.com, 1019, RESELLER
+appnexus.com, 2688, RESELLER
+google.com, pub-1076181631997634, RESELLER, f08c47fec0942fa0
+google.com, pub-6205083306620034, RESELLER, f08c47fec0942fa0
+lijit.com, 231317, RESELLER, fafdf38b16bf6b2b
+openx.com, 537103367, RESELLER, a698e2ec38604c6
+openx.com,540307884, RESELLER, a698e2ec38604c6
+rubiconproject.com, 15380, RESELLER
+sovrn.com, 231317, RESELLER, fafdf38b16bf6b2b
+smartadserver.com, 2923, RESELLER
+contextweb.com, 560360, RESELLER

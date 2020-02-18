@@ -1,0 +1,8 @@
+google.com, pub-5835930182470513, DIRECT, f08c47fec0942fa0
+outbrain.com, 0136adbf74b8778c9d0513c6f20f01b409, DIRECT
+outbrain.com, 0136adbf74b8778c9d0513c6f20f01b409, RESELLER
+appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
+tremorhub.com, q017o-78mlk, RESELLER, 1a4e959a1b50034a # Outbrain outstream video
+advertising.com, 12624, RESELLER # Outbrain outstream video
+fyber.com, f2a848067b5fe77e73205e8024940cbf, RESELLER # Outbrain outstream video
+freewheel.tv, 484721, RESELLER # Outbrain outstream video

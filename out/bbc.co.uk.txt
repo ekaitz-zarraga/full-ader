@@ -1,0 +1,31 @@
+google.com, pub-2855034486820621, DIRECT, f08c47fec0942fa0 
+google.com, pub-3608567627662740, DIRECT, f08c47fec0942fa0 
+google.com, pub-5972674417643459, DIRECT, f08c47fec0942fa0 
+google.com, pub-5087960732420604, DIRECT, f08c47fec0942fa0 
+rubiconproject.com, 12198, DIRECT, 0bfd66d529a55807 
+rubiconproject.com, 9176, DIRECT, 0bfd66d529a55807 
+rubiconproject.com, 17264, DIRECT, 0bfd66d529a55807 
+tremorhub.com, rwgcv-xmppj, DIRECT, 1a4e959a1b50034a 
+telaria.com, rwgcv-xmppj, DIRECT, 1a4e959a1b50034a
+tremorhub.com, rwgcv-puhoi, DIRECT, 1a4e959a1b50034a 
+telaria.com, rwgcv-puhoi, DIRECT, 1a4e959a1b50034a
+tremorhub.com, rwgcv-7spf6, DIRECT, 1a4e959a1b50034a 
+tremorhub.com, rwgcv-ic8xk, DIRECT, 1a4e959a1b50034a 
+telaria.com, rwgcv-ic8xk, DIRECT, 1a4e959a1b50034a
+indexexchange.com, 172780, DIRECT 
+indexexchange.com, 184774, DIRECT 
+indexexchange.com, 172780, DIRECT 
+indexexchange.com, 184803, DIRECT
+triplelift.com, 4667, DIRECT, 6c33edb13117fd86 
+triplelift.com, 918, DIRECT, 6c33edb13117fd86 
+liveintent.com, 30748, DIRECT 
+liveintent.com, 30747, DIRECT
+teads.tv, 2987, DIRECT, 15a9c44f6d26cbe1
+openx.com, 540222416, DIRECT, 6a698e2ec38604c6
+kargo.com, 1320, DIRECT 
+indexexchange.com, 184081, RESELLER
+google.com, pub-4893568787652330, RESELLER, f08c47fec0942fa0 # GJAdx
+pubmatic.com, 157339, DIRECT, 5d62403b186f2ace
+teads.tv, 18982, DIRECT, 15a9c44f6d26cbe1
+rubiconproject.com, 17264, DIRECT, 0bfd66d529a558077
+triplelift.com, EB-918, DIRECT, 6c33edb13117fd86 # Header Direct

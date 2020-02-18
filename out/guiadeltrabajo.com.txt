@@ -1,0 +1,11 @@
+google.com, pub-7363809219244122, RESELLER, f08c47fec0942fa0
+google.com, pub-1096236705489298, DIRECT, f08c47fec0942fa0
+# requested by vibrantmedia on 9th May 2019
+vibrantmedia.com,20236,RESELLER
+criteo.com,146785,direct
+# requested by vibrantmedia on 15th March 2018
+appnexus.com, 2154, RESELLER
+indexexchange.com, 184543, RESELLER
+contextweb.com, 561689, RESELLER, 89ff185a4c4e857c
+freewheel.tv, 225409, RESELLER
+freewheel.tv, 225417, RESELLER

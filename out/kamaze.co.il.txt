@@ -1,0 +1,91 @@
+﻿
+#Kamaze Ads
+google.com, pub-6401985208546060, DIRECT, f08c47fec0942fa0
+
+#TOTALMedia Ads.txt Inclusion list please integrate into your ads.txt file as is
+#Last modified: 04/07/19
+totalmediasolutions.com, 7122265, DIRECT
+google.com, pub-2127333773716092, RESELLER, f08c47fec0942fa0
+google.com, pub-1420539090378627, RESELLER, f08c47fec0942fa0
+google.com, pub-7462546778979920, RESELLER, f08c47fec0942fa0
+google.com, pub-1246810218868905, RESELLER, f08c47fec0942fa0
+advertising.com, 12178, RESELLER
+beachfront.com, 3375, RESELLER, e2541279e8e2ca4d
+freewheel.tv, 212257, RESELLER
+lkqd.com, 362, RESELLER, 59c49fa9598a0117
+spotxchange.com, 123518, RESELLER, 7842df1d2fe2db34
+spotx.tv, 123518, RESELLER, 7842df1d2fe2db34
+tremorhub.com, akojo-5ms9s, RESELLER, 1a4e959a1b50034a
+aol.com, 10982, RESELLER #Advandmedia
+sovrn.com, 240887, RESELLER, fafdf38b16bf6b2b
+lijit.com, 240887, RESELLER, fafdf38b16bf6b2b
+appnexus.com, 1360, RESELLER, f5ab79cb980f11d1
+gumgum.com, 11645, RESELLER, ffdef49475d318a9
+openx.com, 538959099, RESELLER, 6a698e2ec38604c6
+openx.com, 539924617, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 137711, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156212, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156700, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 17960, RESELLER, 0bfd66d529a55807
+beachfront.com, 5679, RESELLER
+contextweb.com, 561367, RESELLER, 89ff185a4c4e857c
+cedato.com, 501446106, DIRECT, 609e732d22edadf4
+pubmatic.com, 156534 , RESELLER, 5d62403b186f2ace
+contextweb.com, 561578, RESELLER
+advertising.com, 24564, RESELLER
+rubiconproject.com, 16568, RESELLER, 0bfd66d529a55807
+tremorhub.com, 0cc6w-h2tvh, RESELLER, 1a4e959a1b50034a
+improvedigital.com, 1225, RESELLER
+spotxchange.com, 252370, RESELLER, 7842df1d2fe2db34
+spotx.tv, 252370, RESELLER, 7842df1d2fe2db34
+tremorhub.com, 0cc6w-h2tvh, RESELLER, 1a4e959a1b50034a
+appnexus.com, 9988, RESELLER, f5ab79cb980f11d1
+spotxchange.com, 253293, RESELLER, 7842df1d2fe2db34
+improvedigital.com, 1256, RESELLER
+contextweb.com, 560267, RESELLER
+telaria.com, 0cc6w-h2tvh, RESELLER, 1a4e959a1b50034a
+spotxchange.com, 138602, RESELLER, 7842df1d2fe2db34
+spotx.tv, 138602, RESELLER, 7842df1d2fe2db34
+#Last modified: 04/07/19
+
+
+#Spot.IM - Ads.txt 
+
+spotim.market, 266658, DIRECT
+Spot.IM, 266658, DIRECT
+google.com, pub-5616046187545019, DIRECT, f08c47fec0942fa0
+google.com, pub-9685734445476814, RESELLER, f08c47fec0942fa0
+advertising.com, 21364, RESELLER
+adtech.com, 11465, RESELLER
+openx.com, 539466082, RESELLER, 6a698e2ec38604c6
+openx.com, 540362110, RESELLER, 6a698e2ec38604c6
+rhythmone.com, 449400134, DIRECT, a670c89d4a324e47
+rhythmone.com, 915882568, DIRECT, a670c89d4a324e47
+spotxchange.com, 211945, RESELLER, 7842df1d2fe2db34
+spotx.tv, 211945, RESELLER, 7842df1d2fe2db34
+rubiconproject.com, 17184, DIRECT, 0bfd66d529a55807
+rubiconproject.com, 18728, DIRECT, 0bfd66d529a55807
+appnexus.com, 6933, RESELLER
+pubMatic.com, 156758, RESELLER, 5d62403b186f2ace
+pubMatic.com, 156813, RESELLER, 5d62403b186f2ace
+pubmatic.com, 157679, RESELLER, 5d62403b186f2ace
+adyoulike.com, e5ae8cdbe88e1f889aae7ee0c672ca30, DIRECT, 4ad745ead2958bf7
+freewheel.tv, 848385, RESELLER
+freewheel.tv, 848401, RESELLER
+Media.net, 8CUU04S3F, Direct
+Media.net, 8CU5N8R03, Direct
+adtelligent.com, 283366, RESELLER
+lockerdome.com, 11201047612067584, DIRECT
+sharethrough.com, d5183e17, DIRECT, d53b998a7bd4ecd2
+gumgum.com, 13579, DIRECT, ffdef49475d318a9
+indexexchange.com, 189478, DIRECT
+indexexchange.com, 189529, DIRECT
+sovrn.com, 250745, DIRECT, fafdf38b16bf6b2b
+lijit.com, 250745, DIRECT, fafdf38b16bf6b2b
+lijit.com, 250745-eb, DIRECT, fafdf38b16bf6b2b
+freewheel.tv, 961937, RESELLER
+freewheel.tv, 961953, RESELLER
+telaria.com, p4dt2-jhelk, RESELLER, 1a4e959a1b50034a
+tremorhub.com, p4dt2-jhelk, RESELLER, 1a4e959a1b50034a
+pubmatic.com, 158505, RESELLER, 5d62403b186f2ace
+openx.com, 540634772, RESELLER, 6a698e2ec38604c6

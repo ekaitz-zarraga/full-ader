@@ -1,0 +1,79 @@
+#ads.txt file for the Match Group EMEA properties
+
+#Google
+google.com, pub-5474375189625608, DIRECT, f08c47fec0942fa0
+google.com, pub-3997667339696408, RESELLER, f08c47fec0942fa0
+
+#Index
+indexexchange.com, 185119, DIRECT, 50b1c356f2c5c8fc
+
+#Goldbach
+google.com, pub-3057818873023700, RESELLER
+appnexus.com, 3741, RESELLER
+
+#33Across
+33across.com, 33, DIRECT
+
+google.com, pub-9557089510405422, RESELLER, f08c47fec0942fa0
+
+appnexus.com, 1001, RESELLER
+
+appnexus.com, 3135, RESELLER
+
+spotxchange.com, 139883, RESELLER, 7842df1d2fe2db34
+
+spotx.tv, 139883, RESELLER, 7842df1d2fe2db34
+
+openx.com, 537120563, RESELLER, 6a698e2ec38604c6
+
+amazon.com, 3411, RESELLER
+
+lkqd.com, 293, RESELLER
+
+lkqd.net, 293, RESELLER
+
+adtech.com, 9993, RESELLER
+
+aolcloud.net, 9993, RESELLER
+
+rubiconproject.com, 16414, RESELLER
+
+criteo.com, 3450, RESELLER
+
+indexexchange.com, 185506, RESELLER
+
+
+#Amazon
+aps.amazon.com, 3254, DIRECT 
+
+#APN
+appnexus.com, 7384, DIRECT
+
+#Smart
+smartadserver.com,2220,DIRECT
+indexexchange.com,179394,DIRECT
+contextweb.com,560288,DIRECT
+pubmatic.com,156439,DIRECT
+rubiconproject.com,16114,DIRECT
+openx.com,537149888,DIRECT,a698e2ec38604c6
+
+#Rubicon
+rubiconproject.com, 11906, DIRECT, 0bfd66d529a55807
+
+#Triplelift
+triplelift.com, 4665, DIRECT, 6c33edb13117fd86
+
+#OpenX
+openx.com, 537100790, DIRECT, 6a698e2ec38604c6
+
+#Criteo
+criteo.com, 7082, DIRECT, 9fac4a4a87c2a44f
+criteo.com, FR_7082, DIRECT, 9fac4a4a87c2a44f
+
+#Oath
+Adtech.com, 4475, DIRECT
+Aolcloud.net, 4475, DIRECT
+
+contact=rtb@eu.match.com
+
+

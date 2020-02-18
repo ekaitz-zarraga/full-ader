@@ -1,0 +1,158 @@
+google.com, pub-3796180617654602, DIRECT
+google.com, pub-9192256759997601, DIRECT
+adingo.jp, 60, DIRECT
+video.unrulymedia.com, UNRX_1d17d720-703d-4609-aa34-b10d270ca16e, DIRECT
+video.unrulymedia.com, 1080581, DIRECT
+rubiconproject.com, 15268, RESELLER
+indexexchange.com, 182257, RESELLER
+appnexus.com, 6849, RESELLER
+ad-generation.jp, 9140, DIRECT
+adingo.jp, 19638, DIRECT
+rubiconproject.com, 18506, RESELLER, 0bfd66d529a55807
+openx.com, 540137510, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 157267, DIRECT, 5d62403b186f2ace
+uliza.jp, 9990149, DIRECT
+pubmatic.com, 122325, RESELLER, 5d62403b186f2ace
+outbrain.com, 006f4c07c41bc706dccfa29a68a92d5f0f, DIRECT
+appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
+tremorhub.com, q017o-78mlk, RESELLER, 1a4e959a1b50034a # Premium video demand aka "Telaria"
+teads.tv, 15429, RESELLER, 15a9c44f6d26cbe1 # Premium video demand
+advertising.com, 26154, RESELLER # Premium video demand
+spotxchange.com, 225721, RESELLER # Premium video demand
+Freewheel.tv, 741650, RESELLER # Premium video demand
+rubiconproject.com, 17130, RESELLER, 0bfd66d529a55807 # Premium video demand
+lkqd.net, 450, RESELLER, 59c49fa9598a0117 # Premium video demand
+openx.com, 540393169, RESELLER, 6a698e2ec38604c6 # Premium video demand
+spotx.tv, 238936, RESELLER, 7842df1d2fe2db34 # Premium video demand
+spotxchange.com, 238936, RESELLER, 7842df1d2fe2db34 # Premium Video Demand
+advertising.com, 28038, RESELLER # Premium Video Demand
+rubiconproject.com, 19668, RESELLER, 0bfd66d529a55807
+taboola.com,1204211,DIRECT,c228e6794e811952
+spotx.tv,71451,RESELLER
+spotxchange.com, 71451, RESELLER
+advertising.com, 8603, RESELLER
+pubmatic.com, 156307, RESELLER, 5d62403b186f2ace
+appnexus.com, 3364, RESELLER
+Indexexchange.com, 183756, RESELLER
+contextweb.com, 560382, RESELLER
+openx.com, 539154393, RESELLER
+tremorhub.com, z87wm, RESELLER, 1a4e959a1b50034a
+rubiconproject.com, 16698, RESELLER, 0bfd66d529a55807
+freewheel.tv, 799841, RESELLER 
+freewheel.tv, 799921, RESELLER 
+aol.com, 53392, RESELLER 
+rhythmone.com, 1166984029, RESELLER, a670c89d4a324e47
+#DAZNplayer
+google.com, pub-1283624027922691, RESELLER, f08c47fec0942fa0
+tremorhub.com,iq97d,RESELLER,1a4e959a1b50034a
+tremorhub.com,3e8fs,RESELLER,1a4e959a1b50034a
+spotxchange.com,82810,RESELLER,7842df1d2fe2db34
+spotx.tv,82810,RESELLER,7842df1d2fe2db34
+Advertising.com,7060,RESELLER
+adtech.com,7060,RESELLER
+beachfront.com,2779,RESELLER,e2541279e8e2ca4d
+freewheel.tv,144617,RESELLER
+freewheel.tv,144633,RESELLER
+improvedigital.com,1091,RESELLER
+contextweb.com,560456,RESELLER,89ff185a4c4e857c
+pubmatic.com,157288,RESELLER,5d62403b186f2ace
+tremorhub.com,cguke-k8ex0,RESELLER,1a4e959a1b50034a
+pubmatic.com,157512,RESELLER,5d62403b186f2ace
+districtm.io,101673,RESELLER
+appnexus.com,1908,RESELLER,f5ab79cb980f11d1
+spotxchange.com,71451,RESELLER
+tremorhub.com,z87wm,RESELLER,1a4e959a1b50034a
+tremorhub.com,cn27r,RESELLER,1a4e959a1b50034a
+tremorhub.com,ec043-rptid,RESELLER,1a4e959a1b50034a
+ad-generation.jp,10661,RESELLER
+ad-generation.jp,12486, RESELLER
+ad-generation.jp, 12486, DIRECT
+video.unrulymedia.com, UNRX-PUB-2bf858ac-02b6-451e-b539-7ee2f24e58b4, DIRECT
+indexexchange.com, 182257, RESELLER
+appnexus.com, 6849, RESELLER
+rubiconproject.com, 15268, RESELLER
+pubmatic.com, 57250, DIRECT, 5d62403b186f2ace
+spotxchange.com, 245147, RESELLER, 7842df1d2fe2db34
+spotx.tv, 245147, RESELLER, 7842df1d2fe2db34
+uliza.jp,9990154, RESELLER
+uliza.jp, 9990154, DIRECT
+gumgum.com,13074,RESELLER,ffdef49475d318a9
+gumgum.com,13074,DIRECT,ffdef49475d318a9
+appnexus.com,1001,reseller,f5ab79cb980f11d1
+appnexus.com,1942,reseller,f5ab79cb980f11d1
+appnexus.com,2758,reseller,f5ab79cb980f11d1
+appnexus.com,3135,reseller,f5ab79cb980f11d1
+bidtellect.com,1407,reseller,1c34aa2d85d45e93
+contextweb.com,558355,reseller
+criteo.com,109412,RESELLER,9fac4a4a87c2a44f
+openx.com,537120563,reseller,6a698e2ec38604c6
+openx.com,537149485,reseller,6a698e2ec38604c6
+spotx.tv,147949,reseller,7842df1d2fe2db34
+spotxchange.com,147949,reseller,7842df1d2fe2db34
+google.com,pub-9557089510405422,reseller,f08c47fec0942fa0
+google.com,pub-3848273848634341,reseller,f08c47fec0942fa0
+rhythmone.com,78519861,reseller
+outbrain.com,01a755b08c8c22b15d46a8b753ab6955d4,reseller
+outbrain.com,01a755b08c8c22b15d46a8b753ab6955d4,direct
+appnexus.com,7597,reseller,f5ab79cb980f11d1
+lkqd.com,470,reseller,59c49fa9598a0117
+lkqd.net,470,reseller,59c49fa9598a0117
+33across.com,0013300001r0t9mAAA,reseller
+appnexus.com,10239,reseller,f5ab79cb980f11d1
+rubiconproject.com,16414,reseller,0bfd66d529a55807
+pubmatic.com,156423,reseller,5d62403b186f2ace
+openx.com,539392223,reseller,6a698e2ec38604c6
+rhythmone.com,2439829435,reseller,a670c89d4a324e47
+emxdgt.com,326,reseller,1e1d41537f7cad7f
+pubmatic.com,157897,reseller,5d62403b186f2ace
+impact-ad.jp,147,DIRECT
+google.com,pub-4094152962392845,RESELLER,f08c47fec0942fa0
+google.com,pub-4231984443817768,RESELLER,f08c47fec0942fa0
+openx.com,539294039,RESELLER,6a698e2ec38604c6
+rubiconproject.com,14486,RESELLER,0bfd66d529a55807
+appnexus.com,7702,RESELLER,f5ab79cb980f11d1
+adtech.com,9670,RESELLER
+aolcloud.net,9670,RESELLER
+advertising.com,14558,RESELLER
+amoad.com,105499,RESELLER
+i-mobile.co.jp,25572,RESELLER
+i-mobile.co.jp,36157,RESELLER
+i-mobile.co.jp,47772,RESELLER
+i-mobile.co.jp,25588,RESELLER
+i-mobile.co.jp,57985,RESELLER
+i-mobile.co.jp,12601,RESELLER
+i-mobile.co.jp,62395,RESELLER
+appvador.com,1145,RESELLER
+pubmatic.com,156899,RESELLER,5d62403b186f2ace
+uliza.jp,1815,RESELLER
+pubmatic.com,122325,RESELLER,5d62403b186f2ace
+uliza.jp,2118,RESELLER
+nend.net,11072,RESELLER
+pubmatic.com,156959,RESELLER,5d62403b186f2ace
+openx.com,540233901,RESELLER,6a698e2ec38604c6
+pubmatic.com,157746,RESELLER,5d62403b186f2ace
+rubiconproject.com,20004,RESELLER,0bfd66d529a55807
+as.amanad.adtdp.com,2304,RESELLER
+adingo.jp, 23401, DIRECT
+pubmatic.com, 156313, RESELLER, 5d62403b186f2ace
+as.amanad.adtdp.com,2315,DIRECT
+openx.com, 540137510, RESELLER, 6a698e2ec38604c6
+openx.com, 540137510, RESELLER, 6a698e2ec38604c6
+adtdp.com,2251,RESELLER
+as.amanad.adtdp.com,2251,RESELLER
+pubmatic.com,157141,RESELLER,5d62403b186f2ace
+indexexchange.com, 189404, RESELLER
+pubmatic.com, 157255, DIRECT, 5d62403b186f2ace
+appnexus.com, 3663, RESELLER
+rubiconproject.com,13136,RESELLER,0bfd66d529a55807
+ad-generation.jp, 9140, RESELLER
+adtech.com, 9747, Reseller
+openx.com, 537143344, Reseller
+appnexus.com, 1226, Reseller
+indexexchange.com, 175407, Reseller, 50b1c356f2c5c8fc
+pubmatic.com, 156530, Reseller, 5d62403b186f2ace
+ad-generation.jp, 9140, RESELLER
+adingo.jp, 19638, DIRECT
+indexexchange.com, 187881, DIRECT
+pubmatic.com, 157267, DIRECT, 5d62403b186f2ace
+rubiconproject.com, 18506, RESELLER, 0bfd66d529a55807

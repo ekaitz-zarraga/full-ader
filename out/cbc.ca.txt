@@ -1,0 +1,40 @@
+appnexus.com, 8994, DIRECT, f5ab79cb980f11d1
+advertising.com, 28557, DIRECT
+appnexus.com, 1908, RESELLER, f5ab79cb980f11d1
+appnexus.com, 3926, DIRECT
+appnexus.com, 7790, DIRECT
+aps.amazon.com,c4f4eec1-61fe-4185-a858-eb638ac3e1e4,DIRECT
+districtm.io, 101929, DIRECT, 3fd707be9c4527c3
+districtm.io, 100962, RESELLER
+google.com, pub-4613881071217662, DIRECT, f08c47fec0942fa0
+indexexchange.com, 182851, DIRECT, 50b1c356f2c5c8fc
+indexexchange.com, 178697, DIRECT, 50b1c356f2c5c8fc
+indexexchange.com, 181200, DIRECT, 50b1c356f2c5c8fc
+indexexchange.com, 187474, DIRECT, 50b1c356f2c5c8fc
+indexexchange.com, 184190, DIRECT, 50b1c356f2c5c8fc
+plista.com, 900469, DIRECT
+rubiconproject.com, 20374, DIRECT, 0bfd66d529a55807
+rubiconproject.com, 20376, DIRECT, 0bfd66d529a55807
+teads.tv, 14209, DIRECT, 15a9c44f6d26cbe1
+teads.tv, 14203, DIRECT, 15a9c44f6d26cbe1
+tritondigital.com, 41843, DIRECT, 19b4454d0b87b58b
+sovrn.com, 269394, DIRECT, fafdf38b16bf6b2b
+lijit.com, 269394, DIRECT, fafdf38b16bf6b2b
+lijit.com, 269394-eb, DIRECT, fafdf38b16bf6b2b
+yahoo.com, 54876, DIRECT, e1a5b5b6e3255540
+aol.com, 54876, DIRECT, e1a5b5b6e3255540
+appnexus.com, 1360, RESELLER, f5ab79cb980f11d1
+gumgum.com, 11645, RESELLER, ffdef49475d318a9
+openx.com, 538959099, RESELLER, 6a698e2ec38604c6
+openx.com, 539924617, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 137711, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156212, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156700, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 17960, RESELLER, 0bfd66d529a55807
+google.com, pub-9685734445476814, RESELLER, f08c47fec0942fa0
+triplelift.com, 3436, DIRECT, 6c33edb13117fd86
+openx.com, 540717829, RESELLER, 6a698e2ec38604c6
+openx.com, 540915034, RESELLER, 6a698e2ec38604c6
+telaria.com, b3yhb-ur0bc, DIRECT, 1a4e959a1b50034a
+tremorhub.com, b3yhb-ur0bc, DIRECT, 1a4e959a1b50034a
+adtech.com, 11795, DIRECT

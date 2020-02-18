@@ -1,0 +1,44 @@
+#ads.txt_Bonnier Magazines and Brands O&O_20200123
+#contact: programmatic@bonniernews.se
+
+
+
+#GAM/EBDA/Prebid_internal
+adform.com, 2089, DIRECT
+google.com, pub-7514839373927339, DIRECT, f08c47fec0942fa0
+pubmatic.com, 157552, RESELLER, 5d62403b186f2ace
+pubmatic.com, 157895, DIRECT, 5d62403b186f2ace
+rubiconproject.com, 19480, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 12954, DIRECT, 0bfd66d529a55807
+
+
+
+#Leeads Prebid
+rubiconproject.com, 12032, RESELLER, 0bfd66d529a55807
+adform.com, 125, RESELLER
+
+#Keymobile
+adform.com, 582, RESELLER, 9f5210a2f0999e32
+rubiconproject.com, 17310, RESELLER, 0bfd66d529a55807
+google.com, pub-1483186529645269, RESELLER, f08c47fec0942fa0
+
+
+#Smartclip
+smartclip.net, 11027, RESELLER
+
+#Unruly
+video.unrulymedia.com, UNRX-PUB-4306d2f3-d541-4366-9ea8-7e0dcec0af9a, RESELLER
+indexexchange.com, 182257, RESELLER, 50b1c356f2c5c8fc
+appnexus.com, 6849, RESELLER, f5ab79cb980f11d1
+rubiconproject.com, 15268, RESELLER, 0bfd66d529a55807
+
+#JustPremium
+adform.com, 183, RESELLER
+appnexus.com, 7118, RESELLER
+freewheel.tv, 33081, RESELLER
+freewheel.tv, 33601, RESELLER
+google.com, pub-8172268348509349, RESELLER, f08c47fec0942fa0
+improvedigital.com, 185, RESELLER
+openx.com, 539523028, RESELLER, 6a698e2ec38604c6
+spotx.tv, 108933, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 108933, RESELLER, 7842df1d2fe2db3

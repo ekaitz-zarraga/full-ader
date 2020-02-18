@@ -1,0 +1,12 @@
+# SwellMap - ads.txt file
+
+google.com, pub-5527346396361189, RESELLER
+google.com, pub-3779956271662848, RESELLER
+rubiconproject.com, 13178, RESELLER
+google.com, pub-3039199503403634, RESELLER
+pubmatic.com, 156230, RESELLER
+rubiconproject.com, 17658, DIRECT
+indexexchange.com, 187268, RESELLER
+pubmatic.com, 156927, RESELLER, 5d62403b186f2ace
+
+# Add in any lines that are currently used on SwellMap

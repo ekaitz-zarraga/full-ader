@@ -1,0 +1,71 @@
+# Ads.txt file for TLC.DE:
+
+#Playtouch
+google.com, pub-8460767264532971, DIRECT, f08c47fec0942fa0
+google.com, pub-5587206406992399, DIRECT, f08c47fec0942fa0
+
+#Spotx
+spotxchange.com, 129013, DIRECT, 7842df1d2fe2db34
+spotx.tv, 129013, DIRECT, 7842df1d2fe2db34
+spotxchange.com, 245212, RESELLER, 7842df1d2fe2db34
+spotx.tv, 245212, RESELLER, 7842df1d2fe2db34
+smartclip.net, 9353, RESELLER
+
+
+#SevenOne Media
+improvedigital.com, 185, RESELLER         
+fyber.com,092ce2daba15b9375f94ebbb25fb7feb,RESELLER
+freewheel.tv, 204265, RESELLER
+google.com, pub-2671258679073709, DIRECT, f08c47fec0942fa0
+justpremium.com, 537117444, RESELLER, 6a698e2ec38604c6
+openx.com, 537117297, RESELLER, 6a698e2ec38604c6
+rubiconproject.com,16896,DIRECT,0bfd66d529a55807
+smartclip.net, 8239, DIRECT
+spotxchange.com, 143892, RESELLER, 7842df1d2fe2db34
+spotx.tv, 143892, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 113481, RESELLER, 7842df1d2fe2db34
+spotx.tv, 113481, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 108933, RESELLER, 7842df1d2fe2db34
+spotx.tv, 108933, RESELLER, 7842df1d2fe2db34
+stroeer.com, 16539, DIRECT
+teads.tv, 8428, DIRECT, 15a9c44f6d26cbe1
+teads.tv, 9947, DIRECT, 15a9c44f6d26cbe1
+yieldlab.net, 5710, DIRECT
+yieldlab.net, 23667, RESELLER 
+yieldlab.net, 851872, RESELLER 
+yieldlab.net, 227224, RESELLER 
+yieldlab.net, 506261, RESELLER 
+yieldlab.net, 2329165, RESELLER
+yieldlab.net, 2172218, RESELLER // Smartstream
+contextweb.com, 560138, RESELLER
+openx.com, 539246483, RESELLER, 6a698e2ec38604c6 // OpenX
+yieldlab.net, 5334769, RESELLER // YPN2
+yieldlab.net, 781119, RESELLER
+yieldlab.net, 961276, RESELLER
+
+
+#FW SSP/StickyAds
+freewheel.tv, 29281, DIRECT
+freewheel.tv, 30637, RESELLER
+
+
+#Goldbach AT
+google.com, pub-3057818873023700, RESELLER, f08c47fec0942fa0
+pubmatic.com, 110304, RESELLER, 5d62403b186f2ace
+appnexus.com, 3741, RESELLER, f5ab79cb980f11d1
+
+#Goldbach CH
+google.com, pub-3057818873023700, RESELLER
+appnexus.com, 3741, RESELLER
+appnexus.com, 3528, RESELLER
+appnexus.com, 1851, RESELLER
+appnexus.com, 9242, RESELLER
+
+
+#Rubicon
+rubiconproject.com, 15626, DIRECT, 0bfd66d529a55807
+
+#Smart Clip
+smartclip.net, 9353, RESELLER
+
+contact=DNI_AdOps@discovery.com

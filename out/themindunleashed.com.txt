@@ -1,0 +1,103 @@
+#Adsense
+google.com, pub-9733874948539896, DIRECT, f08c47fec0942fa0
+
+#revcontent
+revcontent.com, 921, DIRECT
+appnexus.com, 7666, RESELLER, f5ab79cb980f11d1
+rubiconproject.com, 156042, RESELLER, 0bfd66d529a55807
+my6sense.com, 9732, RESELLER
+criteo.com, 7822, RESELLER
+
+#Marfeel
+google.com, pub-2117324400584663, reseller, f08c47fec0942fa0
+aps.amazon.com, 713b5f85-602b-49d9-a3b8-33750c16a4fc, direct,
+openx.com, 540611310, direct, 6a698e2ec38604c6
+google.com, pub-9685734445476814, reseller, f08c47fec0942fa0
+rubiconproject.com, 11830, direct, 0bfd66d529a55807
+openx.com, 539924617, direct, 6a698e2ec38604c6
+openx.com, 540191398, reseller, 6a698e2ec38604c6
+rhythmone.com, 1767353092, reseller, a670c89d4a324e47
+e-planning.net, 41e0bb8d773dffe7, direct,
+pubmatic.com, 156631, reseller, 5d62403b186f2ace
+rubiconproject.com, 17960, direct, 0bfd66d529a55807
+openx.com, 539639517, direct, 6a698e2ec38604c6
+sovrn.com, 247572, direct, fafdf38b16bf6b2b
+google.com, pub-3733785150938669, reseller, f08c47fec0942fa0
+districtm.io, 101887, direct, 3fd707be9c4527c3
+appnexus.com, 1360, direct, f5ab79cb980f11d1
+districtm.io, 100962, reseller,
+admixer.net, d2a81185-2f98-4a5d-82b0-746defebc581, direct,
+openx.com, 539708242, direct, 6a698e2ec38604c6
+pubmatic.com, 157150, reseller, 5d62403b186f2ace
+appnexus.com, 9140, direct, f5ab79cb980f11d1
+rhythmone.com, 1059622079, reseller, a670c89d4a324e47
+pubmatic.com, 157138, reseller, 5d62403b186f2ace
+sonobi.com, 1d7065c722, direct, d1a215d9eb5aee9e
+rubiconproject.com, 12186, reseller, 0bfd66d529a55807
+appnexus.com, 1908, reseller, f5ab79cb980f11d1
+rubiconproject.com, 18020, reseller, 0bfd66d529a55807
+contextweb.com, 560606, reseller, 89ff185a4c4e857c
+lijit.com, 247572, direct, fafdf38b16bf6b2b
+pubmatic.com, 155979, reseller, 5d62403b186f2ace
+rubiconproject.com, 17990, direct, 0bfd66d529a55807
+sovrn.com, 257611, reseller, fafdf38b16bf6b2b
+rubiconproject.com, 16114, reseller, 0bfd66d529a55807
+pubmatic.com, 154037, reseller, 5d62403b186f2ace
+pubmatic.com, 156439, reseller, 5d62403b186f2ace
+conversantmedia.com, 41578, direct,
+openx.com, 537149888, reseller, 6a698e2ec38604c6
+appnexus.com, 4052, reseller,
+smartadserver.com, 3005, reseller,
+contextweb.com, 560288, reseller, 89ff185a4c4e857c
+appnexus.com, 3703, reseller, f5ab79cb980f11d1
+
+
+improvedigital.com, 1364, direct,
+rhythmone.com, 1654642120, reseller, a670c89d4a324e47
+adtech.com, 12068, reseller, e1a5b5b6e3255540
+indexexchange.com, 186442, reseller,
+rhythmone.com, 4135307405, reseller, a670c89d4a324e47
+cosmoshq.com, 1002, direct,
+indexexchange.com, 190243, direct,
+
+#revContentvideo
+bluTonic, 1, RESELLER
+google.com, pub-7661599293481746, RESELLER, f08c47fec0942fa0
+appnexus.com, 1624, RESELLER
+openx.com, 540269102, RESELLER, 6a698e2ec38604c6
+smartadserver.com, 3112, RESELLER
+sovrn.com, 53101, RESELLER, fafdf38b16bf6b2b
+rubiconproject.com, 14280, RESELLER, 0bfd66d529a55807
+gumgum.com, 13284, RESELLER, ffdef49475d318a9
+indexexchange.com, 187216, RESELLER
+contextweb.com, 560861, RESELLER, 89ff185a4c4e857c
+lijit.com, 53101, RESELLER, fafdf38b16bf6b2b
+lkqd.com, 42, RESELLER, 59c49fa9598a0117
+lkqd.net,42, RESELLER, 59c49fa9598a0117
+spotxchange.com, 122433, RESELLER, 7842df1d2fe2db34
+spotx.tv, 122433, RESELLER, 7842df1d2fe2db34
+springserve.com, 361, DIRECT, a24eb641fc82e93d
+beachfront.com, 4969, RESELLER, e2541279e8e2ca4d
+advertising.com, 26282, RESELLER
+pubmatic.com, 157310, RESELLER, 5d62403b186f2ace
+rhythmone.com, 2968119028, RESELLER, a670c89d4a324e47
+
+spotxchange.com, <269160>, RESELLER, 7842df1d2fe2db34
+spotx.tv, <269160>, RESELLER, 7842df1d2fe2db34
+
+
+#Ads.txt Avantis
+
+avantisvideo.com, 8021, DIRECT
+spotxchange.com, 165877, RESELLER, 7842df1d2fe2db34
+spotx.tv, 165877, RESELLER, 7842df1d2fe2db34
+Advertising.com, 23598, RESELLER
+Appnexus.com, 10062, DIRECT, f5ab79cb980f11d1
+Appnexus.com, 3391, DIRECT, f5ab79cb980f11d1
+openx.com, 538911542, DIRECT, 6a698e2ec38604c6
+openx.com, 539955014, DIRECT, 6a698e2ec38604c6
+rubiconproject.com, 19002, DIRECT, 0bfd66d529a55807
+
+
+
+

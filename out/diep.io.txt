@@ -1,0 +1,143 @@
+
+# Miniclip.com Inhouse
+indexexchange.com, 185008, DIRECT
+indexexchange.com, 185494, DIRECT
+rubiconproject.com, 13694, DIRECT, 0bfd66d529a55807
+openx.com, 538993622, DIRECT, 6a698e2ec38604c6
+openx.com, 539118752, DIRECT, 6a698e2ec38604c6
+
+google.com, pub-6280942854759344, DIRECT
+pubmatic.com, 103952, DIRECT, 5d62403b186f2ace
+google.com, pub-4804235004830147, DIRECT
+
+
+# Playwire Non-COPPA Ads.txt file v1.5
+# last updated: 11/21/17
+
+# 33Across
+33across.com, cUjyzeBJCr54oXaKltUXmc, RESELLER
+33across.com, dlHg2-l1ir54CXaKlJV7w9, RESELLER
+33across.com, 33, RESELLER
+33across.com, dsyp9ct3ur57P4aKlJV7w9, RESELLER
+adtech.com, 9993, RESELLER
+aolcloud.net, 9993, RESELLER
+google.com, pub-9557089510405422, RESELLER, f08c47fec0942fa0
+appnexus.com, 1001, RESELLER
+appnexus.com, 3135, RESELLER
+spotxchange.com, 139883, RESELLER, 7842df1d2fe2db34
+spotx.tv, 139883, RESELLER, 7842df1d2fe2db34
+openx.com, 537120563, RESELLER, 6a698e2ec38604c6
+amazon.com, 3411, RESELLER
+lkqd.com, 293, RESELLER
+lkqd.net, 293, RESELLER
+rubiconproject.com, 16414, RESELLER
+criteo.com, 3450, RESELLER
+indexexchange.com, 185506, RESELLER
+
+# 495
+appnexus.com, 7096, RESELLER
+lkqd.com, 9, RESELLER, 59c49fa9598a0117
+lkqd.net, 9, RESELLER, 59c49fa9598a0117 
+
+# A9
+amazon-adsystem.com, 3308, RESELLER
+
+# Appnexus
+appnexus.com, 7140, RESELLER
+
+# bRealTime
+EMXDGT.com, 55, RESELLER
+Appnexus.com, 1356, RESELLER
+
+# Brightcom
+brightcom.com, 99146, RESELLER
+openx.com, 537153208, RESELLER
+openx.com, 537104839, RESELLER, 6a698e2ec38604c6
+google.com, pub-5231479214411897, RESELLER
+google.com, pub-9242135695870166, RESELLER 
+google.com, pub-9557089510405422, RESELLER, f08c47fec0942fa0 
+synacor.com, 81685, RESELLER
+33across.com, 33, RESELLER
+contextweb.com,561438, RESELLER
+tremorhub.com,ntdd5,RESELLER, 1a4e959a1b50034a
+
+# Brightroll
+btrll.com, 3845088, RESELLER
+btrll.com, 3868140, RESELLER
+btrll.com, 3855545, RESELLER
+btrll.com, 3873378, RESELLER
+
+# Conversant
+conversantmedia.com, 40510, 
+appnexus.com, 4052, RESELLER
+
+# DistrictM
+districtm.io, 100952, RESELLER
+appnexus.com, 7944, RESELLER
+appnexus.com, 1908, RESELLER
+
+# Exponential
+Exponential.com, 175510, RESELLER
+
+# Google
+google.com, pub-3004679189235742, RESELLER, f08c47fec0942fa0
+google.com, pub-5812357352335075, RESELLER, f08c47fec0942fa0
+
+# GumGum
+gumgum.com, 11602, RESELLER, ffdef49475d318a9
+
+# Improve Digital
+improvedigital.com, 1009, RESELLER
+
+# Index Exchange
+indexexchange.com, 186266, RESELLER
+
+# Kargo
+Indexexchange.com, 184081, RESELLER
+
+# Oath
+adtech.com, 5205, RESELLER
+adtech.com, 9515, RESELLER
+aolcloud.net, 5205, RESELLER
+aolcloud.net, 9515, RESELLER
+
+# OpenX
+openx.com, 537149074, RESELLER, 6a698e2ec38604c6
+openx.com, 537145215, RESELLER, 6a698e2ec38604c6
+openx.com, 539195821, RESELLER, 6a698e2ec38604c6
+
+# Pulsepoint
+contextweb.com, 560528, RESELLER
+
+# Rubicon
+rubiconproject.com, 12556, RESELLER
+
+# Smartclip
+smartclip.net, 6426, RESELLER
+smartclip.net, 390, RESELLER
+smartclip.net, 6793, RESELLER
+
+# SpotXchange
+spotx.tv, 71426, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 71426, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 187340, RESELLER, 7842df1d2fe2db34
+
+#Sovrn
+lijit.com, 230297, RESELLER
+sovrn.com, 230297, RESELLER
+
+# SublimeSkinz
+appnexus.com, 3538, RESELLER
+appnexus.com, 3539, RESELLER
+appnexus.com, 3540, RESELLER
+smartadserver.com, 1827, RESELLER
+improvedigital.com, 335, RESELLER
+
+# Teads
+teads.tv, 8039, RESELLER, 15a9c44f6d26cbe1
+
+# Tremor
+tremorhub.com, bktr2-jjbby, RESELLER, 1a4e959a1b50034a
+
+# YellowHammer
+springserve.com, 22397, RESELLER

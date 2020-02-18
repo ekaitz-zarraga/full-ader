@@ -1,0 +1,90 @@
+﻿#AdSense
+google.com, pub-5556078406449221, DIRECT, f08c47fec0942fa0
+
+#MM AdX (USD)
+google.com, pub-7620071422727774, RESELLER, f08c47fec0942fa0
+google.com, pub-5278973888786334, RESELLER, f08c47fec0942fa0
+google.com, pub-1142323411777001, DIRECT, f08c47fec0942fa0
+
+
+#Appnexus
+appnexus.com,3573 , DIRECT #appnexus
+
+#SekindoUM
+sekindo.com, 22430, DIRECT, b6b21d256ef43532 #sekindoUM
+spotxchange.com, 84294, RESELLER, 7842df1d2fe2db34 #sekindoUM
+spotx.tv, 84294, RESELLER, 7842df1d2fe2db34 #sekindoUM
+advertising.com, 7372, RESELLER #sekindoUM
+advertising.com, 24410, RESELLER #sekindoUM
+lkqd.net, 244, RESELLER, 59c49fa9598a0117 #sekindoUM
+lkqd.com, 244, RESELLER, 59c49fa9598a0117 #sekindoUM
+freewheel.tv, 19129, RESELLER #sekindoUM
+freewheel.tv, 19133, RESELLER #sekindoUM
+adform.com, 2078, RESELLER #sekindoUM
+improvedigital.com, 1065, RESELLER #sekindoUM
+pubmatic.com, 156595, RESELLER, 5d62403b186f2ace #sekindoUM
+
+#Oftmedia
+appnexus.com, 3153, RESELLER #152media
+
+#Index Exchange
+indexexchange.com, 184282, DIRECT, 50b1c356f2c5c8fc #indexExchange
+
+#AOL
+adtech.com, 10513, DIRECT #aol
+aolcloud.net, 10513, RESELLER #aol
+
+#Brealtime
+emxdgt.com, 88, RESELLER, 1e1d41537f7cad7f #brealtime
+
+#smartadserver
+smartadserver.com, 3198, DIRECT #smartadserver
+smartadserver.com, 3198, RESELLER #smartadserver
+contextweb.com, 560288, RESELLER, 89ff185a4c4e857c #smartadserver
+pubmatic.com, 156439, RESELLER #smartadserver
+pubmatic.com, 154037, RESELLER #smartadserver
+pubmatic.com, 156030, RESELLER, 5d62403b186f2ace #smartadserver
+rubiconproject.com, 16114, RESELLER, 0bfd66d529a55807 #smartadserver
+rubiconproject.com, 13132, RESELLER, 0bfd66d529a55807 #smartadserver
+openx.com, 537149888, RESELLER, 6a698e2ec38604c6 #smartadserver
+appnexus.com, 3703, RESELLER, f5ab79cb980f11d1 #smartadserver
+groundtruth.com, 107, RESELLER, 81cbf0a75a5e0e9a #smartadserver
+districtm.io, 101760, RESELLER, 3fd707be9c4527c3 #smartadserver
+loopme.com, s-2411, RESELLER, 6c8d5f95897a5a3b #smartadserver
+loopme.com, 5679, RESELLER, 6c8d5f95897a5a3b #smartadserver
+
+#amazon
+aps.amazon.com,6bc54345-8f2a-4a82-8027-bcbecfe095b5,DIRECT #amazon
+pubmatic.com,157150,RESELLER,5d62403b186f2ace #amazon
+openx.com,540191398,RESELLER,6a698e2ec38604c6 #amazon
+rubiconproject.com,18020,RESELLER,0bfd66d529a55807 #amazon
+appnexus.com,1908,RESELLER,f5ab79cb980f11d1 #amazon
+adtech.com,12068,RESELLER,e1a5b5b6e3255540 #amazon
+ad-generation.jp,12474,RESELLER #amazon
+districtm.io,100962,RESELLER,3fd707be9c4527c3 #amazon
+rhythmone.com,1654642120,RESELLER,a670c89d4a324e47 #amazon
+
+
+#sovrn
+lijit.com, 234206, RESELLER, fafdf38b16bf6b2b #sovrn
+openx.com, 537120960, RESELLER #sovrn
+openx.com, 83499, RESELLER #sovrn
+openx.com, 538959099, RESELLER #sovrn
+pubmatic.com, 137711, RESELLER #sovrn
+pubmatic.com, 156212, RESELLER #sovrn
+pubmatic.com, 62483, RESELLER #sovrn
+contextweb.com, 558511, RESELLER #sovrn
+gumgum.com, 11645, RESELLER, ffdef49475d318a9 #sovrn
+appnexus.com, 1360, RESELLER, f5ab79cb980f11d1 #sovrn
+openx.com, 539924617, RESELLER, 6a698e2ec38604c6 #sovrn
+pubmatic.com, 156700, RESELLER, 5d62403b186f2ace #sovrn
+rubiconproject.com, 17960, RESELLER, 0bfd66d529a55807 #sovrn
+
+#pubmatic
+pubmatic.com, 158460, DIRECT, 5d62403b186f2ace #pubmatic
+
+#lockerdome
+lockerdome.com, 10852900247427328, DIRECT #lockerdome
+
+#pulsepoint
+contextweb.com, 558894, RESELLER, 89ff185a4c4e857c #pulsepoint

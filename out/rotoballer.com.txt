@@ -1,0 +1,140 @@
+#Ads.txt for rotoballer.com
+google.com, pub-1429441941161252, DIRECT, f08c47fec0942fa0
+spotxchange.com,84192, DIRECT, 7842df1d2fe2db34
+spotx.tv, 84192, DIRECT, 7842df1d2fe2db34
+EMXDGT.com,	41,	RESELLER
+appnexus.com, 1356,	RESELLER
+adtech.com,	10110, DIRECT
+aolcloud.net, 10110, DIRECT	
+adtech.com,	10793,	RESELLER	
+rubiconproject.com,	16048, DIRECT , 0bfd66d529a55807
+pubmatic.com, 27349, RESELLER, 5d62403b186f2ace
+pubmatic.com, 27349, RESELLER, 5d62403b186f2ace
+indexexchange.com, 184809,	DIRECT,	50b1c356f2c5c8fc
+sovrn.com,	215832,	DIRECT,	fafdf338b16bf6b2b
+lijit.com,	215832,	DIRECT,	fafdf338b16bf6b2b
+freewheel.com,	222017,	RESELLER,	
+freewheel.com,	222025,	RESELLER,	
+contextweb.com,	561345,	RESELLER,	
+a698e2ec38604c6openx.com, 537102490, RESELLER	
+openx.com,	537124691,	RESELLER,	
+rhytmone.com, 4147157910, DIRECT , a670c89d4a324e47
+fyber.com, af3fd4670c740d671b26e75cb2a1520b,DIRECT	
+beachfront.com,	beachfront_4469,DIRECT
+beachfront.com,	beachfront_4469,RESELLER
+tremorhub.com,	m7go6-tfyi8,RESELLER,1a4e959a1b50034a
+google.com,	pub-1283624027922691, DIRECT,f08c47fec0942fa0
+google.com,	pub-8863521994299374, DIRECT	
+appnexus.com, 7096, RESELLER
+# Begin Sortable
+152media.com, 152, DIRECT
+adtech.com, 10217, RESELLER
+adtech.com, 11095, RESELLER
+appnexus.com, 1356, RESELLER, f5ab79cb980f11d1
+appnexus.com, 1360, RESELLER, f5ab79cb980f11d1
+appnexus.com, 1908, RESELLER, f5ab79cb980f11d1
+appnexus.com, 3153, RESELLER, f5ab79cb980f11d1
+appnexus.com, 3484, RESELLER
+appnexus.com, 4052, RESELLER
+aps.amazon.com, 82ced0ff-f996-4780-a317-3a867a4dc64d, RESELLER
+beachfront.com, beachfront_8649, RESELLER
+c1exchange.com, C1X201401, RESELLER
+c1exchange.com, c1x_a9_uampubs, RESELLER
+contextweb.com, 560606, RESELLER
+contextweb.com, 561562, RESELLER
+conversantmedia.com, 40583, RESELLER
+coxmt.com, 2000067907202, RESELLER
+coxmt.com, 2000068024302, RESELLER
+coxmt.com, 2000068032202, DIRECT
+deployads.com, 1516, DIRECT
+districtm.io, 100775, RESELLER
+districtm.io, 100962, RESELLER
+EMXDGT.com, 42, RESELLER, 1e1d41537f7cad7f
+google.com, pub-3153065230153281, RESELLER, f08c47fec0942fa0
+google.com, pub-3693684048097240, RESELLER
+google.com, pub-3960095709930134, RESELLER, f08c47fec0942fa0
+google.com, pub-5995202563537249, RESELLER, f08c47fec0942fa0
+gumgum.com, 11645, RESELLER, ffdef49475d318a9
+indexexchange.com, 175407, RESELLER, 50b1c356f2c5c8fc
+indexexchange.com, 182645, RESELLER, 50b1c356f2c5c8fc
+indexexchange.com, 185176, RESELLER, 50b1c356f2c5c8fc
+indexexchange.com, 186046, RESELLER
+lijit.com, 203268, RESELLER, fafdf38b16bf6b2b
+lijit.com, 239053, RESELLER, fafdf38b16bf6b2b
+lijit.com, 247572, RESELLER, fafdf38b16bf6b2b
+lijit.com, 82507, RESELLER, fafdf38b16bf6b2b
+mobileadtrading.com,18fa1332792e4c0b7ee825c05288f929,DIRECT
+openx.com, 537125356, RESELLER, 6a698e2ec38604c6
+openx.com, 537125695, RESELLER,  6a698e2ec38604c6
+openx.com, 538959099, RESELLER, 6a698e2ec38604c6
+openx.com, 538963248, RESELLER, 6a698e2ec38604c6
+openx.com, 539924617, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 137711, RESELLER, 5d62403b186f2ace
+pubmatic.com, 141645, RESELLER, 5d62403b186f2ace 
+pubmatic.com, 155967, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156077, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156078, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156212, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156238, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156557, RESELLER
+pubmatic.com, 156700, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156961, DIRECT, 5d62403b186f2ace
+pubmatic.com, 38944, RESELLER, 5d62403b186f2ace
+rhythmone.com, 1059622079, RESELLER
+rhythmone.com, 630876328, DIRECT, a670c89d4a324e47
+rubiconproject.com, 13218, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 17960, RESELLER, 0bfd66d529a55807
+sharethrough.com, ba913491, RESELLER, d53b998a7bd4ecd2
+somoaudience.com,18fa1332792e4c0b7ee825c05288f929,DIRECT
+sonobi.com, 1dfd469c75, RESELLER
+sonobi.com, fb9580c293, RESELLER
+sortable.com, 670, DIRECT
+sovrn.com, 203268, RESELLER, fafdf38b16bf6b2b
+sovrn.com, 239053, RESELLER, fafdf38b16bf6b2b
+sovrn.com, 247572, RESELLER, fafdf38b16bf6b2b
+sovrn.com, 82507, RESELLER, fafdf38b16bf6b2b
+spotxchange.com, 212457, RESELLER
+spotx.tv, 212457, RESELLER
+triplelift.com, 2960, RESELLER, 6c33edb13117fd86
+# End Sortable
+#gumgum
+gumgum.com, 12787, DIRECT, ffdef49475d318a9
+33across.com, 33, RESELLER
+adtech.com, 9904, RESELLER
+advertising.com, 8603, RESELLER
+aolcloud.net, 9904, RESELLER
+appnexus.com, 1001, RESELLER, f5ab79cb980f11d1
+appnexus.com, 2758, RESELLER, f5ab79cb980f11d1
+appnexus.com, 3135, RESELLER, f5ab79cb980f11d1
+appnexus.com, 3364, RESELLER, f5ab79cb980f11d1
+bidtellect.com, 1407, RESELLER, 1c34aa2d85d45e93
+contextweb.com, 558355, RESELLER
+contextweb.com, 560382, RESELLER
+criteo.com, 109412, RESELLER, 9fac4a4a87c2a44f
+criteo.com, 3450, RESELLER, 9fac4a4a87c2a44f
+featureforward.com, 10, RESELLER
+fyber.com, 1a12a7e3f84fe560ccf95a3a73043abb, RESELLER
+fyber.com, ad9de41d28d494354b23133f26f83122, RESELLER
+google.com, pub-3848273848634341, RESELLER, f08c47fec0942fa0
+google.com, pub-7439041255533808, RESELLER, f08c47fec0942fa0
+google.com, pub-9242135695870166, RESELLER, f08c47fec0942fa0
+google.com, pub-9557089510405422, RESELLER, f08c47fec0942fa0
+indexexchange.com, 177754, RESELLER, 50b1c356f2c5c8fc
+Indexexchange.com, 183756, RESELLER, 50b1c356f2c5c8fc
+media.net, 8CU5ZWB19, RESELLER
+openx.com, 46857, RESELLER, 6a698e2ec38604c6
+openx.com, 537120563, RESELLER, 6a698e2ec38604c6
+openx.com, 537149485, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 156307, RESELLER, 5d62403b186f2ace
+pubmatic.com, 50758, RESELLER, 5d62403b186f2ace
+revcontent.com, 76611, RESELLER
+rubiconproject.com, 16698, RESELLER, 0bfd66d529a55807
+smaato.com, 1100033117, RESELLER
+sovrn.com, 233111, RESELLER, fafdf38b16bf6b2b
+spotx.tv, 147949, RESELLER, 7842df1d2fe2db34
+spotx.tv,71451,RESELLER, 7842df1d2fe2db34
+spotxchange.com, 147949, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 71451, RESELLER, 7842df1d2fe2db34
+synacor.com, 81591, RESELLER
+taboola.com, 1062984,RESELLER,c228e6794e811952
+tremorhub.com, z87wm, RESELLER, 1a4e959a1b50034a

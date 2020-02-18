@@ -1,0 +1,45 @@
+appnexus.com, 1613, RESELLER
+appnexus.com, 3326, RESELLER
+google.com, pub-1409765517756851, RESELLER
+google.com, pub-4075894099602271, RESELLER
+freewheel.tv, 146081, RESELLER
+rubiconproject.com, 8861, RESELLER, 0bfd66d529a55807
+beachfront.com, beachfront_5003, DIRECT
+spotxchange.com, 119135, DIRECT, 7842df1d2fe2db34
+spotx.tv, 119135, DIRECT, 7842df1d2fe2db34
+cedato.com, 23894620, DIRECT
+lkqd.com, 170, DIRECT
+google.com, pub-1274828810358128, DIRECT, f08c47fec0942fa0
+
+#Ads.txt
+
+advertising.com,14930,RESELLER
+cedato.com,501446106,RESELLER
+cedato.com,25242397,RESELLER
+indexexchange.com,179394,RESELLER
+openx.com,537149888,RESELLER,a698e2ec38604c6
+pulsepoint.com,560288,RESELLER
+pubmatic.com,156439,RESELLER
+rubiconproject.com,16114,RESELLER
+smartadserver.com,1689,RESELLER
+
+taboola.com, 1169693 , DIRECT,c228e6794e811952
+spotx.tv,71451,RESELLER
+spotxchange.com, 71451, RESELLER
+advertising.com, 8603, RESELLER
+pubmatic.com, 156307, RESELLER, 5d62403b186f2ace
+appnexus.com, 3364, RESELLER
+Indexexchange.com, 183756, RESELLER
+contextweb.com, 560382, RESELLER
+openx.com, 539154393, RESELLER
+tremorhub.com, z87wm, RESELLER, 1a4e959a1b50034a
+rubiconproject.com, 16698, RESELLER, 0bfd66d529a55807
+freewheel.tv, 799841, RESELLER 
+freewheel.tv, 799921, RESELLER 
+aol.com, 53392, RESELLER 
+rhythmone.com, 1166984029, RESELLER, a670c89d4a324e47 
+
+smartadserver.com, 3563, RESELLER 
+beachfront.com, 13749, RESELLER, e2541279e8e2ca4d 
+advertising.com, 28458, RESELLER 
+admanmedia.com, 556, RESELLER 

@@ -1,0 +1,38 @@
+google.com, pub-3733910612448694, DIRECT, f08c47fec0942fa0
+google.com, pub-1638918916433497, DIRECT, f08c47fec0942fa0
+openx.com, 537144624, DIRECT, 6a698e2ec38604c6
+sovrn.com, 254499, DIRECT, fafdf38b16bf6b2b
+lijit.com, 254499, DIRECT, fafdf38b16bf6b2b
+gumgum.com, 11645, RESELLER, ffdef49475d318a9
+openx.com, 537120960, RESELLER
+openx.com, 83499, RESELLER
+openx.com, 538959099, RESELLER
+pubmatic.com, 137711, RESELLER
+pubmatic.com, 156212, RESELLER
+pubmatic.com, 62483, RESELLER
+contextweb.com, 558511, RESELLER
+appnexus.com, 1019, RESELLER
+appnexus.com, 2688, RESELLER
+contextweb.com, 560360, RESELLER
+google.com, pub-1076181631997634, RESELLER, f08c47fec0942fa0
+google.com, pub-6205083306620034, RESELLER, f08c47fec0942fa0 
+lijit.com, 231317, RESELLER, fafdf38b16bf6b2b
+openx.com, 537103367, RESELLER, a698e2ec38604c6
+openx.com, 538983425 , RESELLER, a698e2ec38604c6
+rubiconproject.com, 15380, RESELLER
+sovrn.com, 231317, RESELLER, fafdf38b16bf6b2b
+openx.com, 540038341, DIRECT, 6a698e2ec38604c6
+indexexchange.com, 185129, DIRECT
+sovrn.com, 254499, DIRECT, fafdf38b16bf6b2b
+lijit.com, 254499, DIRECT, fafdf38b16bf6b2b
+gumgum.com, 11645, RESELLER, ffdef49475d318a9
+openx.com, 537120960, RESELLER
+openx.com, 83499, RESELLER
+openx.com, 538959099, RESELLER
+pubmatic.com, 137711, RESELLER
+pubmatic.com, 156212, RESELLER
+pubmatic.com, 62483, RESELLER
+contextweb.com, 558511, RESELLER
+indexexchange.com, 185129, DIRECT
+experian.com, 0001, RESELLER
+smartadserver.com, 2923, RESELLER

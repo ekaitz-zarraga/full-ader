@@ -1,0 +1,66 @@
+#### AccuWeather ads.txt ### 1/27/2020
+## Authorized Resellers ##
+# Sales and Marketing South
+# Maiorana+Partners
+# Influent Media
+# LastMinute.com Group
+# Suite 66
+google.com,pub-9415735639897500,DIRECT,f08c47fec0942fa0
+google.com,pub-5771594739411148,DIRECT,f08c47fec0942fa0
+trustx.org,35,DIRECT,#
+appnexus.com,8997,DIRECT,#
+aps.amazon.com,3364,DIRECT,#
+facebook.com,360734747425904,DIRECT,#
+indexexchange.com,185017,DIRECT,#
+indexexchange.com,185474,DIRECT,#
+indexexchange.com,188507,DIRECT
+rubiconproject.com,12562,DIRECT,0bfd66d529a55807
+rubiconproject.com,17738,DIRECT,0bfd66d529a55807
+rubiconproject.com,21540,DIRECT,0bfd66d529a55807
+openx.com,539014228,DIRECT,6a698e2ec38604c6
+openx.com,539513282,DIRECT,6a698e2ec38604c6
+openx.com,540140706,DIRECT,6a698e2ec38604c6
+openx.com,540255319,DIRECT,6a698e2ec38604c6
+openx.com,540883603,DIRECT,6a698e2ec38604c6
+aol.com,80,DIRECT,e1a5b5b6e3255540
+yahoo.com,80,DIRECT,e1a5b5b6e3255540
+adtech.com,10674,DIRECT,#
+aolcloud.net,10674,DIRECT,#
+advertising.com,27626,DIRECT,#
+advertising.com,28254,DIRECT
+advertising.com,28499,DIRECT
+pubmatic.com,34576,DIRECT,5d62403b186f2ace
+pubmatic.com,157374,DIRECT,5d62403b186f2ace
+pubmatic.com,158329,DIRECT,5d62403b186f2ace
+lijit.com,212927,DIRECT,fafdf38b16bf6b2b
+sovrn.com,212927,DIRECT,fafdf38b16bf6b2b
+beachfront.com,3547,DIRECT,e2541279e8e2ca4d
+beachfront.com,4969,DIRECT,e2541279e8e2ca4d
+nativo.com,5462,DIRECT,59521ca7cc5e9fee
+springserve.com,707,DIRECT,a24eb641fc82e93d
+spotxchange.com,237316,DIRECT,7842df1d2fe2db34
+spotx.tv,237316,DIRECT,7842df1d2fe2db34
+33across.com,0014000000xvF2DAAU,DIRECT,bbea06d9c4d2853c
+themediagrid.com,9EB1IU,DIRECT,35d5010d7789b49d
+triplelift.com,2895,DIRECT,6c33edb13117fd86
+telaria.com,wdeor-il77y,DIRECT,1a4e959a1b50034a
+tremorhub.com,wdeor-il77y,DIRECT,1a4e959a1b50034a
+contextweb.com,562176,DIRECT,89ff185a4c4e857c
+trioninteractive.com,30915,DIRECT,513d07ac0be57f88
+## Undertone ##
+undertone.com,3,DIRECT,#
+appnexus.com,2234,RESELLER,#
+openx.com,537153564,RESELLER,6a698e2ec38604c6
+## Connatix ##
+connatix.com,102310,DIRECT,2af98acdee0e81ed
+tremorhub.com,cd009,RESELLER,1a4e959a1b50034a
+telaria.com,cd009,RESELLER,1a4e959a1b50034a
+spotxchange.com,136839,RESELLER,7842df1d2fe2db34
+spotx.tv,136839,RESELLER,7842df1d2fe2db34
+openx.com,539496816,RESELLER,6a698e2ec38604c6
+rubiconproject.com,19564,RESELLER,0bfd66d529a55807
+google.com,pub-1929615694373103,RESELLER,f08c47fec0942fa0
+Appnexus.com,9733,RESELLER
+contextweb.com,561340,RESELLER,89ff185a4c4e857c
+indexexchange.com,190549,RESELLER
+

@@ -1,0 +1,54 @@
+# Ads.txt ScoresinLive.com
+
+# Google AdX
+google.com, pub-3099359162317582, RESELLER, f08c47fec0942fa0
+
+# AppNexus
+appnexus.com, 9669, RESELLER, f5ab79cb980f11d1
+
+# OpenX
+openx.com, 540154109, RESELLER, 6a698e2ec38604c6
+
+# IndexExchange
+indexexchange.com, 188827, RESELLER, 50b1c356f2c5c8fc
+
+# Sovrn
+sovrn.com, 242971, DIRECT, fafdf38b16bf6b2b
+lijit.com, 242971, DIRECT, fafdf38b16bf6b2b
+lijit.com, 242971-eb, DIRECT, fafdf38b16bf6b2b
+appnexus.com, 1360, RESELLER, f5ab79cb980f11d1
+gumgum.com, 11645, RESELLER, ffdef49475d318a9
+openx.com, 538959099, RESELLER, 6a698e2ec38604c6
+openx.com, 539924617, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 137711, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156212, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156700, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 17960, RESELLER, 0bfd66d529a55807
+
+# Conversant
+conversantmedia.com, 100024, DIRECT, 03113cd04947736d
+appnexus.com, 4052, RESELLER, f5ab79cb980f11d1
+contextweb.com, 561998, RESELLER, 89ff185a4c4e857c
+openx.com, 540031703, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 158100, RESELLER, 5d62403b186f2ace
+
+# LockerDome
+lockerdome.com, 12139969507748864, DIRECT, 4149df767128f390
+
+# ConnectAd
+connectad.io, 123, DIRECT
+
+# Fidelity
+x.fidelity-media.com, 3638, DIRECT
+
+# Media.net
+media.net, 8CU1YC87T, DIRECT, 818f58666cabc936
+google.com, pub-7439041255533808, RESELLER, f08c47fec0942fa0
+openx.com, 537100188, RESELLER, 6a698e2ec38604c6
+
+# YL
+google.com, pub-1274416353693598, RESELLER, f08c47fec0942fa0
+adform.com, 716, RESELLER, 9f5210a2f0999e32
+appnexus.com, 4003, RESELLER, f5ab79cb980f11d1
+pubmatic.com, 73726, RESELLER, 5d62403b186f2ace
+smartadserver.com, 2416, RESELLER

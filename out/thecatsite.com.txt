@@ -1,0 +1,57 @@
+#Ads.txt file for thecatsite.com
+# managed by NicheREV LLC
+#updated 08/25/2019
+
+#Google
+google.com, pub-8712626187093023, DIRECT, f08c47fec0942fa0
+google.com, pub-7467267503911708, DIRECT, f08c47fec0942fa0
+google.com, pub-6254331789601537, DIRECT, f08c47fec0942fa0 #DIY
+
+#AppNexus
+appnexus.com, 7673, DIRECT, f5ab79cb980f11d1
+
+#Index Exchange
+indexexchange.com, 186466, DIRECT, 50b1c356f2c5c8fc
+
+#OpenX
+openx.com, 540744433, DIRECT, 6a698e2ec38604c6
+
+#Rubicon
+rubiconproject.com, 21082, DIRECT, 0bfd66d529a55807
+
+#Amazon A9
+aps.amazon.com, 0a462596-818d-4dd7-b6ef-bd8039e98845, DIRECT
+
+#Oath
+adtech.com, 10394, DIRECT
+aolcloud.net, 10394, DIRECT
+
+#Conversant
+conversantmedia.com, 41062, DIRECT
+
+#Sonobi
+sonobi.com, 0f44772ebd, DIRECT
+
+#RhythmOne
+rhythmone.com, 1585706287, DIRECT, a670c89d4a324e47
+
+#152 Media
+appnexus.com, 3153, RESELLER, f5ab79cb980f11d1 #152media
+connectad.io, 73, DIRECT #152media
+
+#Taboola
+taboola.com,1195750,DIRECT,c228e6794e811952
+spotx.tv,71451,RESELLER
+spotxchange.com, 71451, RESELLER
+advertising.com, 8603, RESELLER
+pubmatic.com, 156307, RESELLER, 5d62403b186f2ace
+appnexus.com, 3364, RESELLER
+Indexexchange.com, 183756, RESELLER
+contextweb.com, 560382, RESELLER
+openx.com, 539154393, RESELLER
+tremorhub.com, z87wm, RESELLER, 1a4e959a1b50034a
+rubiconproject.com, 16698, RESELLER, 0bfd66d529a55807
+freewheel.tv, 799841, RESELLER
+freewheel.tv, 799921, RESELLER
+aol.com, 53392, RESELLER
+rhythmone.com, 1166984029, RESELLER, a670c89d4a324e47

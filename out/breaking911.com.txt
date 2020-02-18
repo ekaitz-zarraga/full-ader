@@ -1,0 +1,280 @@
+# Created by Ads.txt Publisher by Brightcom 
+google.com, pub-5116462037312968, DIRECT, f08c47fec0942fa0
+Infolinks.com, 3135791 , DIRECT
+google.com, pub-4299156005397946, RESELLER, f08c47fec0942fa0 
+appnexus.com, 3251, RESELLER
+appnexus.com, 1908, RESELLER, f5ab79cb980f11d1
+openx.com, 118151, RESELLER, 6a698e2ec38604c6
+openx.com, 540118184, DIRECT, 6a698e2ec38604c6
+Pubmatic.com, 60809,RESELLER,5d62403b186f2ace
+Adtech.com, 11409, RESELLER
+google.com, pub-6373315980741255, RESELLER, f08c47fec0942fa0
+google.com, pub-9685734445476814, RESELLER, f08c47fec0942fa0
+aol.com, 6202, RESELLER
+aol.com, 17744, RESELLER
+lkqd.net, 295, RESELLER, 59c49fa9598a0117
+lkqd.com, 295, RESELLER, 59c49fa9598a0117
+Freewheel.tv, 482337, RESELLER
+Freewheel.tv, 480609, RESELLER
+revcontent.com, 29124, RESELLER
+appnexus.com, 7666, RESELLER, f5ab79cb980f11d1
+rubiconproject.com, 156042, RESELLER, 0bfd66d529a55807
+advertising.com, 8603, RESELLER
+advertising.com, 3531, RESELLER
+appnexus.com, 3364, RESELLER
+Indexexchange.com, 183756, RESELLER
+openx.com, 539154393, RESELLER
+rubiconproject.com, 16698, RESELLER, 0bfd66d529a55807
+deepintent.com, 100004190, RESELLER, 4a5487c769369a8c
+pubmatic.com, 156872, RESELLER, 5d62403b186f2ace
+taboola.com, 1139936,RESELLER,c228e6794e811952
+taboola.com, 1135488,RESELLER,c228e6794e811952
+vi.ai, 913453223927387, RESELLER
+spotxchange.com, 74964, RESELLER, 7842df1d2fe2db34
+spotx.tv, 74964, RESELLER, 7842df1d2fe2db34
+smartadserver.com, 2776,RESELLER
+pubmatic.com, 156830, RESELLER 
+rubiconproject.com, 15476, RESELLER, 0bfd66d529a55807 
+contextweb.com, 559988, RESELLER, 89ff185a4c4e857c
+rhythmone.com, 2221906906,DIRECT,a670c89d4a324e47
+districtm.io, 101519, RESELLER
+coxmt.com, 2000067907202, RESELLER
+openx.com, 537143344, RESELLER
+indexexchange.com, 175407, RESELLER
+pubmatic.com,156078, RESELLER, 5d62403b186f2ace 
+33across.com, 0010b00002CpYhEAAV, RESELLER, bbea06d9c4d2853c 
+rubiconproject.com, 16414, RESELLER, 0bfd66d529a55807 
+pubmatic.com, 156423, RESELLER, 5d62403b186f2ace 
+rhythmone.com, 2439829435, RESELLER, a670c89d4a324e47 
+indexexchange.com, 185506, RESELLER 
+appnexus.com, 1356, RESELLER, f5ab79cb980f11d1 
+emxdgt.com, 326,RESELLER, 1e1d41537f7cad7f 
+sonobi.com, f0e1159c80, RESELLER
+Smartadserver.com,3238,RESELLER
+contextweb.com,560288,RESELLER,89ff185a4c4e857c
+pubmatic.com,156439,RESELLER
+pubmatic.com, 154037,RESELLER
+rubiconproject.com,16114,RESELLER, 0bfd66d529a55807
+openx.com,537149888,RESELLER,6a698e2ec38604c6
+sovrn.com, 257611,RESELLER, fafdf38b16bf6b2b
+appnexus.com,3703,RESELLER,f5ab79cb980f11d1
+Infolinks.com, 3135786 , DIRECT
+Adtech.com,10907, RESELLER
+Advertising.com,10039, RESELLER
+contextweb.com,560802,RESELLER,89ff185a4c4e857c
+beachfront.com,7234,RESELLER
+
+#WordPress
+pubmine.com, 28272020, DIRECT
+
+#WordPress - Google
+google.com, pub-3443918307802676, DIRECT, f08c47fec0942fa0
+google.com, pub-8101658338626046, DIRECT, f08c47fec0942fa0
+
+#WordPress - AppNexus
+appnexus.com, 7766, DIRECT
+
+#WordPress - Pubmatic
+pubmatic.com, 156204, DIRECT, 5d62403b186f2ace
+
+#WordPress - Oath Display
+adtech.com, 9534, DIRECT, e1a5b5b6e3255540
+coxmt.com, 2000067907202, RESELLER
+pubmatic.com, 156078, RESELLER, 5d62403b186f2ace
+openx.com, 537143344, RESELLER, 6a698e2ec38604c6
+indexexchange.com, 175407, RESELLER, 50b1c356f2c5c8fc
+#WordPress - Oath Video
+advertising.com, 24010, DIRECT
+#WordPress - Oath One Mobile
+aol.com, 47425, DIRECT
+openx.com, 537126269, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 156138, RESELLER
+coxmt.com, 2000067997102, RESELLER
+indexexchange.com, 184110, RESELLER, 50b1c356f2c5c8fc
+
+#WordPress - Amazon
+aps.amazon.com, 6fb17607-32fb-47ed-b920-df44722f6475, DIRECT
+openx.com, 540191398, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 157150, RESELLER, 5d62403b186f2ace
+districtm.io, 100962, RESELLER
+appnexus.com, 1908, RESELLER, f5ab79cb980f11d1
+yldbt.com, 5b522cc167f6b300b89dc6d3, RESELLER, cd184cb30abaabb5
+coxmt.com, 2000068024302, RESELLER
+rubiconproject.com, 18020, RESELLER, 0bfd66d529a55807
+adtech.com,12068,RESELLER
+rhythmone.com,1654642120,RESELLER,a670c89d4a324e47
+
+#WordPress - FreeWheel
+#FreeWheel - Free (non-wordpress.com domains)
+freewheel.tv, 707442, DIRECT
+freewheel.tv, 707874, DIRECT
+#FreeWheel - Premium (non-wordpress.com domains)
+freewheel.tv, 707458, DIRECT
+freewheel.tv, 707890, DIRECT
+#FreeWheel - Advertising (wordpress.com domains)
+freewheel.tv, 824865, DIRECT
+freewheel.tv, 824881, DIRECT
+#FreeWheel - Alcohol Ads (wordpress.com domains)
+freewheel.tv, 824897, DIRECT
+freewheel.tv, 824913, DIRECT
+#FreeWheel - Animals (wordpress.com domains)
+freewheel.tv, 824929, DIRECT
+freewheel.tv, 824945, DIRECT
+#FreeWheel - Books & Literature (wordpress.com domains)
+freewheel.tv, 827905, DIRECT
+freewheel.tv, 827921, DIRECT
+#FreeWheel - DIY Projects (wordpress.com domains)
+freewheel.tv, 827937, DIRECT
+freewheel.tv, 827953, DIRECT
+#FreeWheel - Finance (wordpress.com domains)
+freewheel.tv, 827969, DIRECT
+freewheel.tv, 827985, DIRECT
+#FreeWheel - Fitness (wordpress.com domains)
+freewheel.tv, 828001, DIRECT
+freewheel.tv, 828033, DIRECT
+#FreeWheel - Food (wordpress.com domains)
+freewheel.tv, 828049, DIRECT
+freewheel.tv, 828081, DIRECT
+#FreeWheel - Hobbies (wordpress.com domains)
+freewheel.tv, 828097, DIRECT
+freewheel.tv, 828113, DIRECT
+#FreeWheel - Legal Issues (wordpress.com domains)
+freewheel.tv, 828129, DIRECT
+freewheel.tv, 828145, DIRECT
+#FreeWheel - Music (wordpress.com domains)
+freewheel.tv, 828161, DIRECT
+freewheel.tv, 828177, DIRECT
+#FreeWheel - Other (wordpress.com domains)
+freewheel.tv, 828193, DIRECT
+freewheel.tv, 828209, DIRECT
+#FreeWheel - Parenting (wordpress.com domains)
+freewheel.tv, 828225, DIRECT
+freewheel.tv, 828241, DIRECT
+#FreeWheel - Photography (wordpress.com domains)
+freewheel.tv, 828257, DIRECT
+freewheel.tv, 828273, DIRECT
+#FreeWheel - Religion and Spirituality (wordpress.com domains)
+freewheel.tv, 828289, DIRECT
+freewheel.tv, 828305, DIRECT
+#FreeWheel - Sports (wordpress.com domains)
+freewheel.tv, 828321, DIRECT
+freewheel.tv, 828337, DIRECT
+#FreeWheel - Technology (wordpress.com domains)
+freewheel.tv, 828353, DIRECT
+freewheel.tv, 828369, DIRECT
+#FreeWheel - Travel (wordpress.com domains)
+freewheel.tv, 828385, DIRECT
+freewheel.tv, 828401, DIRECT
+
+#WordPress - Media.net
+media.net, 8CU8HDVRS, DIRECT
+sonobi.com, 83729e979b, reseller
+coxmt.com, 2000068030802, reseller
+districtm.io, 100600, reseller
+appnexus.com, 1908, reseller, f5ab79cb980f11d1
+pubmatic.com, 157291, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 17054, RESELLER, 0bfd66d529a55807
+
+#WordPress - Polymorph
+getpolymorph.com, 2338, DIRECT, d444e922d4e4d6e2
+adsnative.com, 2338, DIRECT, d444e922d4e4d6e2
+appnexus.com, 7614, RESELLER, f5ab79cb980f11d1
+rubiconproject.com, 16596, RESELLER, 0bfd66d529a55807
+pubmatic.com, 156057, RESELLER
+
+#WordPress - Rubicon
+rubiconproject.com, 18894, DIRECT, 0bfd66d529a55807
+
+#WordPress - Teads
+teads.tv, 6977, DIRECT, 15a9c44f6d26cbe1
+
+#WordPress - Adyoulike
+adyoulike.com, 898fc1202d7e525263488c125d35c8ef, DIRECT, 4ad745ead2958bf7
+
+#WordPress � 33across
+33across.com, 0010b00002CphGRAAZ, DIRECT, bbea06d9c4d2853c
+rubiconproject.com, 16414, RESELLER, 0bfd66d529a55807
+pubmatic.com, 156423, RESELLER, 5d62403b186f2ace
+openx.com, 537120563, RESELLER, 6a698e2ec38604c6
+openx.com, 539392223, RESELLER, 6a698e2ec38604c6
+rhythmone.com, 2439829435, RESELLER, a670c89d4a324e47
+indexexchange.com, 185506, RESELLER
+appnexus.com, 1356, RESELLER, f5ab79cb980f11d1
+emxdgt.com, 326, RESELLER, 1e1d41537f7cad7f
+google.com, pub-9557089510405422, RESELLER, f08c47fec0942fa0
+appnexus.com, 1001, RESELLER
+appnexus.com, 3135, RESELLER
+criteo.com, 3450, RESELLER
+adtech.com, 9993, RESELLER
+aolcloud.net, 9993, RESELLER
+appnexus.com, 10239, RESELLER, f5ab79cb980f11d1
+
+#WordPress - AdMixer
+admixer.net, 773de910-6013-40f3-b290-f31c7cd89795, DIRECT
+
+#WordPress - Sonobi
+sonobi.com, 31f001801f, DIRECT, d1a215d9eb5aee9e
+rhythmone.com, 1059622079, RESELLER, a670c89d4a324e47
+contextweb.com, 560606, RESELLER, 89ff185a4c4e857c
+
+nextmillennium.io, 15039, DIRECT, 65bd090fa4a1e3d6
+google.com, pub-7269238500499280, RESELLER, f08c47fec0942fa0
+google.com, pub-8606804482029683, RESELLER, f08c47fec0942fa0
+gumgum.com, 13165, DIRECT, ffdef49475d318a9
+gumgum.com, 13615, RESELLER, ffdef49475d318a9
+districtm.io, 101200, DIRECT, 3fd707be9c4527c3
+appnexus.com, 1908, RESELLER, f5ab79cb980f11d1
+appnexus.com, 7944, RESELLER, f5ab79cb980f11d1
+rubiconproject.com, 17888, DIRECT, 0bfd66d529a55807
+rubiconproject.com, 19142, DIRECT, 0bfd66d529a55807
+openx.com, 540224251, RESELLER, 6a698e2ec38604c6
+openx.com, 540255321, RESELLER, 6a698e2ec38604c6
+openx.com, 540233824, RESELLER, 6a698e2ec38604c6
+openx.com, 540225743, RESELLER, 6a698e2ec38604c6
+indexexchange.com, 188029, DIRECT
+indexexchange.com, 188333, DIRECT
+aps.amazon.com, 79e40b05-e673-4b6c-85f9-79252a7f96a5, DIRECT
+pubmatic.com, 157150, RESELLER, 5d62403b186f2ace
+districtm.io, 100962, RESELLER
+openx.com, 540191398, RESELLER, 6a698e2ec38604c6
+yldbt.com, 5b522cc167f6b300b89dc6d3, RESELLER, cd184cb30abaabb5
+coxmt.com, 2000068024302, RESELLER
+pubmatic.com, 157689, RESELLER, 5d62403b186f2ace
+pubmatic.com, 157577, RESELLER, 5d62403b186f2ace
+undertone.com, 3757, DIRECT
+appnexus.com, 2234, RESELLER
+openx.com, 537153564, RESELLER, 6a698e2ec38604c6
+springserve.com, 743, DIRECT, a24eb641fc82e93d
+beachfront.com, 4969, RESELLER, e2541279e8e2ca4d
+advertising.com, 26282, RESELLER
+appnexus.com, 9284, RESELLER, f5ab79cb980f11d1
+conversantmedia.com, 41868, DIRECT
+video.unrulymedia.com, UNRX-PUB-79ae5563-e8e5-40d2-8446-b661c8e95d52, DIRECT
+indexexchange.com, 182257, RESELLER
+appnexus.com, 6849, RESELLER
+rubiconproject.com, 15268, RESELLER
+spotxchange.com, 250862, RESELLER, 7842df1d2fe2db34
+spotx.tv, 250862, RESELLER, 7842df1d2fe2db34
+teads.tv, 18141, DIRECT, 15a9c44f6d26cbe1
+rhythmone.com, 316817661, DIRECT, a670c89d4a324e47
+rhythmone.com, 2059465938, DIRECT, a670c89d4a324e47
+smartadserver.com, 1827, RESELLER
+improvedigital.com, 335, RESELLER
+appnexus.com, 3538, RESELLER
+appnexus.com, 3539, RESELLER
+appnexus.com, 3540, RESELLER
+contextweb.com, 562019, RESELLER, 89ff185a4c4e857c
+openx.com, 540752851, RESELLER, 6a698e2ec38604c6
+appnexus.com, 7118, RESELLER
+spotx.tv, 108933, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 108933, RESELLER, 7842df1d2fe2db34
+improvedigital.com, 185, RESELLER
+adform.com, 183, RESELLER
+freewheel.tv, 33081, RESELLER
+freewheel.tv, 33601, RESELLER
+google.com, pub-8172268348509349, RESELLER, f08c47fec0942fa0
+yieldmo.com, 2230523609997805235, DIRECT
+outbrain.com, 0012d9f0ac51b05ef9b320793a03ba4a9c, DIRECT
+appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
+triplelift.com, 7001, DIRECT, 6c33edb13117fd86
+appnexus.com, 1314, RESELLER

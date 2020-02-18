@@ -1,0 +1,40 @@
+
+#Spot Exchange
+spotxchange.com, 87299, DIRECT, 7842df1d2fe2db34
+spotx.tv, 87299, DIRECT, 7842df1d2fe2db34
+
+#Amazon Ad Exchange
+aps.amazon.com, 3036, DIRECT
+
+#Google AdX
+google.com, pub-6894499621597695, DIRECT, f08c47fec0942fa0
+google.com, pub-3072455799230265, RESELLER, f08c47fec0942fa0
+google.com, pub-7895267694422243, RESELLER, f08c47fec0942fa0
+
+
+#EMEA PARTNERS
+
+#Smartclip
+smartclip.net, 7786, DIRECT
+smartclip.net, 7779, DIRECT
+smartclip.net, 10295, DIRECT
+google.com, pub-8674340505315230, DIRECT, f08c47fec0942fa0
+google.com, pub-7197632655386039, DIRECT, f08c47fec0942fa0
+
+#Yieldlab / SevenOne Media (DE)
+yieldlab.net, 5710, DIRECT
+yieldlab.net, 23667, RESELLER
+yieldlab.net, 851872, RESELLER
+yieldlab.net, 227224, RESELLER
+yieldlab.net, 506261, RESELLER
+yieldlab.net, 2329165, RESELLER
+yieldlab.net, 781119, RESELLER
+yieldlab.net, 961276, RESELLER
+yieldlab.net, 5334769, RESELLER
+yieldlab.net, 2172218, RESELLER
+yieldlab.net, 5798882, RESELLER
+contextweb.com, 561500, RESELLER, 89ff185a4c4e857c
+openx.com, 539246483, RESELLER, 6a698e2ec38604c6
+
+#Turner International
+tremorhub.com, px2ii-9d07k, DIRECT, 1a4e959a1b50034a

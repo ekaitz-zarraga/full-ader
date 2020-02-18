@@ -1,0 +1,1251 @@
+#Last added January 21, 2020 for Novoroll
+
+#GoogleAdExchange
+google.com, pub-2158590232651633, DIRECT, f08c47fec0942fa0
+
+#GoogleAdSense
+google.com, pub-1876439796539993, DIRECT, f08c47fec0942fa0
+
+#Disqus
+rubiconproject.com, 13380, RESELLER, 0bfd66d529a55807
+indexexchange.com, 185073, RESELLER, 50b1c356f2c5c8fc
+openx.com, 537133236, RESELLER, 6a698e2ec38604c6
+google.com, pub-6650322601660058, RESELLER, f08c47fec0942fa0
+adtech.com, 10383, RESELLER
+aolcloud.net, 10383, RESELLER
+sovrn.com, 2870, RESELLER
+appnexus.com, 2797, DIRECT
+taboola.com,1100807,DIRECT,c228e6794e811952 #taboola
+spotx.tv,71451,RESELLER #taboola
+spotxchange.com, 71451, RESELLER #taboola
+advertising.com, 8603, RESELLER #taboola
+advertising.com, 3531, RESELLER #taboola
+pubmatic.com, 156307, RESELLER, 5d62403b186f2ace #taboola
+appnexus.com, 3364, RESELLER #taboola
+Indexexchange.com, 183756, RESELLER #taboola
+contextweb.com, 560382, RESELLER #taboola
+openx.com, 539154393, RESELLER #taboola
+tremorhub.com, z87wm, RESELLER, 1a4e959a1b50034a #taboola
+rubiconproject.com, 16698, RESELLER, 0bfd66d529a55807 #taboola
+fyber.com, ad9de41d28d494354b23133f26f83122, RESELLER #taboola
+fyber.com, 1a12a7e3f84fe560ccf95a3a73043abb, RESELLER #taboola
+adsnative.com, 267, DIRECT #polymorph
+getpolymorph.com, 267, DIRECT #polymorph
+thetimmedia.com, 318, DIRECT #Memevideo
+memevideoad.com, 318, DIRECT #Memevideo
+spotxchange.com,98033, RESELLER,7842df1d2fe2db34 #Memevideo
+freewheel.tv, 151177, RESELLER #Memevideo
+freewheel.tv, 414097, RESELLER #Memevideo
+Insticator.com,05a7b2ff-a627-45e8-bd6b-68f53e68c7bf,DIRECT #Insticator
+google.com,pub-7630961163643137,RESELLER,f08c47fec0942fa0 #Insticator
+districtm.io,100683,RESELLER #Insticator
+openx.com,537117488,RESELLER,6a698e2ec38604c6 #Insticator
+pubmatic.com,95054,RESELLER,5d62403b186f2ace #Insticator
+appnexus.com,1908,RESELLER #Insticator
+appnexus.com,3695,RESELLER #Insticator
+appnexus.com,1356,RESELLER,f5ab79cb980f11d1 #Insticator
+sonobi.com,e315a43aa9,RESELLER #Insticator
+rhythmone.com,136898039,RESELLER,a670c89d4a324e47 #Insticator
+EMXDGT.com,22,RESELLER,1e1d41537f7cad7f #Insticator
+rubiconproject.com,17062,DIRECT,0bfd66d529a55807 #Insticator
+contextweb.com,561664,RESELLER,89ff185a4c4e857c #Insticator
+rhythmone.com,1059622079,RESELLER #Insticator
+contextweb.com,560606,RESELLER #Insticator
+rubiconproject.com,17980,RESELLER,0bfd66d529a55807 #Insticator
+Rhythmone.com,527383184,RESELLER,a670c89d4a324e47 #Insticator
+openx.com,540105394,RESELLER,6a698e2ec38604c6 #Insticator
+pubmatic.com, 157119, RESELLER, 5d62403b186f2ace #Insticator
+33across.com,0010b00001rrPUnAAM,DIRECT,bbea06d9c4d2853c ##Insticator
+gumgum.com, 13344, DIRECT, ffdef49475d318a9 #Insticator
+Smartadserver.com,3262,RESELLER #Insticator
+appnexus.com, 9393, DIRECT #Insticator
+ssp.ynxs.io, 185, RESELLER #Insticator
+districtm.io, 100812, DIRECT #districtm
+
+#Outbrain
+outbrain.com, 01065cb42ff7e77db87e695ef953586bf5, DIRECT
+outbrain.com, 01065cb42ff7e77db87e695ef953586bf5, RESELLER
+appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
+tremorhub.com, q017o-78mlk, RESELLER, 1a4e959a1b50034a # Outbrain outstream video
+advertising.com, 12624, RESELLER # Outbrain outstream video
+fyber.com, f2a848067b5fe77e73205e8024940cbf, RESELLER # Outbrain outstream video
+freewheel.tv, 484721, RESELLER # Outbrain outstream video
+outbrain.com, 0081a469e20fb6882334fb159760459dc0, DIRECT
+appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
+tremorhub.com, q017o-78mlk, RESELLER, 1a4e959a1b50034a # Premium video demand aka "Telaria"
+teads.tv, 15429, RESELLER, 15a9c44f6d26cbe1 # Premium video demand
+advertising.com, 26154, RESELLER # Premium video demand
+spotxchange.com, 225721, RESELLER # Premium video demand
+Freewheel.tv, 741650, RESELLER # Premium video demand
+rubiconproject.com, 17130, RESELLER, 0bfd66d529a55807 # Premium video demand
+lkqd.net, 450, RESELLER, 59c49fa9598a0117 # Premium video demand
+openx.com, 540393169, RESELLER, 6a698e2ec38604c6 # Premium video demand
+spotx.tv, 238936, RESELLER, 7842df1d2fe2db34 # Premium video demand
+spotxchange.com, 238936, RESELLER, 7842df1d2fe2db34 # Premium Video Demand
+advertising.com, 28038, RESELLER # Premium Video Demand
+rubiconproject.com, 19668, RESELLER, 0bfd66d529a55807
+
+#Unruly
+video.unrulymedia.com, UNRX-PUB-3f413927-71aa-4b94-94c1-c93e8ff3ff44, DIRECT
+indexexchange.com, 182257, RESELLER
+appnexus.com, 6849, RESELLER
+rubiconproject.com, 15268, RESELLER
+
+#CrowdyNews
+contextweb.com,557618,RESELLER,89ff185a4c4e857c
+contextweb.com,558101,RESELLER,89ff185a4c4e857c
+contextweb.com,558631,RESELLER,89ff185a4c4e857c
+adtech.com,5071,RESELLER
+atemda.com,241,RESELLER
+atemda.com,1501,RESELLER
+pubmatic.com,32223,RESELLER,5d62403b186f2ace
+pubmatic.com,100253,RESELLER,5d62403b186f2ace
+pubmatic.com,156314,RESELLER,5d62403b186f2ace
+openx.com,134050,RESELLER
+rubiconproject.com,7716,RESELLER,0bfd66d529a55807
+rubiconproject.com,16696,RESELLER,0bfd66d529a55807
+spotxchange.com,174264,RESELLER,7842df1d2fe2db34
+spotx.tv,174264,RESELLER,7842df1d2fe2db34
+google.com,pub-5746030484598936,RESELLER
+google.com,pub-6331119926849614,RESELLER
+adtrue.com, 1444, DIRECT
+google.com, pub-3762254771375579, RESELLER, f08c47fec0942fa0
+pubmatic.com, 156378, RESELLER, 5d62403b186f2ace
+adtech.com,4671,RESELLER
+adtrue.com, 1444, DIRECT
+google.com, pub-3762254771375579, RESELLER, f08c47fec0942fa0
+pubmatic.com, 156378, RESELLER, 5d62403b186f2ace
+openx.com, 540606032, RESELLER, 6a698e2ec38604c6
+
+#Teads
+teads.tv, 12829, DIRECT, 15a9c44f6d26cbe1 #TeadsAPAC
+teads.tv, 8654, DIRECT, 15a9c44f6d26cbe1 #TeadsAPAC
+teads.tv, 8654, DIRECT, 15a9c44f6d26cbe1
+
+#Exponential
+exponential.com, 134110, DIRECT, afac06385c445926
+tribalfusion.com, 134110, DIRECT, afac06385c445926
+indexexchange.com, 176280, RESELLER, 50b1c356f2c5c8fc
+google.com, pub-2051007210431666, RESELLER, f08c47fec0942fa0
+appnexus.com, 983, RESELLER
+exponential.com, 139800, DIRECT, afac06385c445926
+tribalfusion.com, 139800, DIRECT, afac06385c445926
+indexexchange.com, 176280, RESELLER, 50b1c356f2c5c8fc
+google.com, pub-2051007210431666, RESELLER, f08c47fec0942fa0
+appnexus.com, 983, RESELLER
+
+#AdAsia
+google.com, pub-9058291854443881, RESELLER
+appnexus.com, 3691, RESELLER
+smartadserver.com,2060,RESELLER
+indexexchange.com,179394,RESELLER
+contextweb.com,560288,RESELLER,89ff185a4c4e857c
+pubmatic.com,156439,RESELLER
+pubmatic.com,154037,RESELLER
+rubiconproject.com,16114,RESELLER,0bfd66d529a55807
+openx.com,537149888,RESELLER,6a698e2ec38604c6
+sovrn.com,257611,RESELLER,fafdf38b16bf6b2b
+appnexus.com,3703,RESELLER,f5ab79cb980f11d1
+rubiconproject.com,17692,RESELLER,0bfd66d529a55807
+spotxchange.com, 218870, RESELLER, 7842df1d2fe2db34
+spotx.tv, 218870, RESELLER, 7842df1d2fe2db34
+pubmatic.com, 156792, RESELLER, 5d62403b186f2ace
+ad-stir.com, 8943, DIRECT
+advertising.com, 26947, RESELLER
+ads.adasiaholdings.com,1, DIRECT
+openx.com, 540291874, RESELLER, 6a698e2ec38604c6
+openx.com, 540308356, RESELLER, 6a698e2ec38604c6
+
+#Innity
+innity.com, 2362, DIRECT, 47ea16374dff1d69
+appnexus.com, 3058, RESELLER
+google.com, pub-2254427607846536, DIRECT, f08c47fec0942fa0
+
+#WMG International
+google.com, pub-8309773808661346, RESELLER, f08c47fec0942fa0
+pubmatic.com,156307, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156736, DIRECT, 5d62403b186f2ace
+pubmatic.com, 157335, DIRECT, 5d62403b186f2ace
+appnexus.com, 8950, DIRECT
+rubiconproject.com,  19652  ,DIRECT, 0bfd66d529a55807
+smartadserver.com, 3277, DIRECT
+smartadserver.com, 3277, RESELLER
+pubmatic.com, 156030, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 13132, RESELLER, 0bfd66d529a55807
+groundtruth.com, 107, RESELLER, 81cbf0a75a5e0e9a
+districtm.io, 101760, RESELLER, 3fd707be9c4527c3
+loopme.com, s-2411, RESELLER, 6c8d5f95897a5a3b
+loopme.com, 5679, RESELLER, 6c8d5f95897a5a3b
+triplelift.com, 6747, DIRECT, 6c33edb13117fd86
+aps.amazon.com,20225d70-0d78-4b5e-9cb8-b69178e535c7,DIRECT
+adtech.com,12068,RESELLER,e1a5b5b6e3255540
+openx.com, 540310752, RESELLER, 6a698e2ec38604c6
+rubiconproject.com, 19654, DIRECT, 0bfd66d529a55807
+Indexexchange.com, 188128, DIRECT, 50b1c356f2c5c8fc
+rhythmone.com, 4195999290, DIRECT, a670c89d4a324e47
+sovrn.com, 252889, DIRECT, fafdf38b16bf6b2b
+sovrn.com, 265392, DIRECT, fafdf38b16bf6b2b
+appnexus.com, 1314, RESELLER
+spotxchange.com, 228454, RESELLER, 7842df1d2fe2db34
+spotx.tv, 228454, RESELLER, 7842df1d2fe2db34
+triplelift.com, 8154, DIRECT, 6c33edb13117fd86
+triplelift.com, 8154-EB, DIRECT, 6c33edb13117fd86
+appnexus.com, 1314, RESELLER
+
+#Dailymotion
+rubiconproject.com, 8769, RESELLER, 0bfd66d529a55807 # video
+google.com, pub-7019376976432612, RESELLER # video
+appnexus.com, 3360, RESELLER # video
+openx.com, 540463144, RESELLER, 6a698e2ec38604c6
+dailymotion.com, 899777, RESELLER # video
+freewheel.tv, 899777, RESELLER # video
+freewheel.tv, 901052, RESELLER # video
+pubmatic.com, 157510, RESELLER, 5d62403b186f2ace
+freewheel.tv, 197345, RESELLER # video
+freewheel.tv, 197353, RESELLER # video
+freewheel.tv, 197361, RESELLER # video
+freewheel.tv, 197369, RESELLER # video
+freewheel.tv, 197377, RESELLER # video
+freewheel.tv, 197385, RESELLER # video
+freewheel.tv, 197393, RESELLER # video
+freewheel.tv, 197401, RESELLER # video
+freewheel.tv, 197409, RESELLER # video
+freewheel.tv, 197417, RESELLER # video
+freewheel.tv, 197425, RESELLER # video
+freewheel.tv, 197433, RESELLER # video
+freewheel.tv, 197441, RESELLER # video
+freewheel.tv, 197449, RESELLER # video
+freewheel.tv, 197457, RESELLER # video
+freewheel.tv, 197465, RESELLER # video
+freewheel.tv, 197473, RESELLER # video
+freewheel.tv, 197481, RESELLER # video
+freewheel.tv, 198953, RESELLER # video
+freewheel.tv, 206641, RESELLER # video
+freewheel.tv, 215066, RESELLER # video
+freewheel.tv, 283154, RESELLER # video
+freewheel.tv, 283666, RESELLER # video
+freewheel.tv, 288658, RESELLER # video
+freewheel.tv, 310385, RESELLER # video
+freewheel.tv, 644210, RESELLER # video
+freewheel.tv, 644226, RESELLER # video
+freewheel.tv, 644242, RESELLER # video
+freewheel.tv, 644258, RESELLER # video
+freewheel.tv, 644274, RESELLER # video
+freewheel.tv, 644290, RESELLER # video
+freewheel.tv, 644306, RESELLER # video
+freewheel.tv, 644322, RESELLER # video
+freewheel.tv, 644338, RESELLER # video
+freewheel.tv, 644354, RESELLER # video
+freewheel.tv, 644370, RESELLER # video
+freewheel.tv, 644386, RESELLER # video
+freewheel.tv, 644402, RESELLER # video
+freewheel.tv, 644418, RESELLER # video
+freewheel.tv, 644434, RESELLER # video
+freewheel.tv, 644450, RESELLER # video
+freewheel.tv, 644466, RESELLER # video
+freewheel.tv, 644482, RESELLER # video
+freewheel.tv, 644498, RESELLER # video
+freewheel.tv, 732722, RESELLER # video
+freewheel.tv, 321361, RESELLER # video
+freewheel.tv, 321377, RESELLER # video
+freewheel.tv, 321393, RESELLER # video
+freewheel.tv, 321409, RESELLER # video
+freewheel.tv, 321425, RESELLER # video
+freewheel.tv, 321441, RESELLER # video
+freewheel.tv, 321457, RESELLER # video
+freewheel.tv, 321473, RESELLER # video
+freewheel.tv, 321489, RESELLER # video
+freewheel.tv, 321505, RESELLER # video
+freewheel.tv, 321521, RESELLER # video
+freewheel.tv, 321537, RESELLER # video
+freewheel.tv, 321553, RESELLER # video
+freewheel.tv, 321569, RESELLER # video
+freewheel.tv, 321585, RESELLER # video
+freewheel.tv, 321601, RESELLER # video
+freewheel.tv, 321617, RESELLER # video
+freewheel.tv, 321633, RESELLER # video
+freewheel.tv, 321649, RESELLER # video
+freewheel.tv, 321665, RESELLER # video
+freewheel.tv, 321681, RESELLER # video
+freewheel.tv, 321697, RESELLER # video
+freewheel.tv, 321713, RESELLER # video
+freewheel.tv, 321729, RESELLER # video
+freewheel.tv, 321745, RESELLER # video
+freewheel.tv, 644514, RESELLER # video
+freewheel.tv, 644530, RESELLER # video
+freewheel.tv, 644546, RESELLER # video
+freewheel.tv, 644562, RESELLER # video
+freewheel.tv, 644578, RESELLER # video
+freewheel.tv, 644594, RESELLER # video
+freewheel.tv, 644610, RESELLER # video
+freewheel.tv, 644626, RESELLER # video
+freewheel.tv, 644642, RESELLER # video
+freewheel.tv, 644658, RESELLER # video
+freewheel.tv, 644674, RESELLER # video
+freewheel.tv, 644690, RESELLER # video
+freewheel.tv, 644706, RESELLER # video
+freewheel.tv, 644722, RESELLER # video
+freewheel.tv, 644738, RESELLER # video
+freewheel.tv, 644754, RESELLER # video
+freewheel.tv, 644770, RESELLER # video
+freewheel.tv, 644786, RESELLER # video
+freewheel.tv, 644802, RESELLER # video
+freewheel.tv, 732754, RESELLER # video
+dailymotion.com, 197345, RESELLER # video
+dailymotion.com, 197353, RESELLER # video
+dailymotion.com, 197361, RESELLER # video
+dailymotion.com, 197369, RESELLER # video
+dailymotion.com, 197377, RESELLER # video
+dailymotion.com, 197385, RESELLER # video
+dailymotion.com, 197393, RESELLER # video
+dailymotion.com, 197401, RESELLER # video
+dailymotion.com, 197409, RESELLER # video
+dailymotion.com, 197417, RESELLER # video
+dailymotion.com, 197425, RESELLER # video
+dailymotion.com, 197433, RESELLER # video
+dailymotion.com, 197441, RESELLER # video
+dailymotion.com, 197449, RESELLER # video
+dailymotion.com, 197457, RESELLER # video
+dailymotion.com, 197465, RESELLER # video
+dailymotion.com, 197473, RESELLER # video
+dailymotion.com, 197481, RESELLER # video
+dailymotion.com, 198953, RESELLER # video
+dailymotion.com, 206641, RESELLER # video
+dailymotion.com, 215066, RESELLER # video
+dailymotion.com, 283154, RESELLER # video
+dailymotion.com, 283666, RESELLER # video
+dailymotion.com, 288658, RESELLER # video
+dailymotion.com, 310385, RESELLER # video
+dailymotion.com, 644210, RESELLER # video
+dailymotion.com, 644226, RESELLER # video
+dailymotion.com, 644242, RESELLER # video
+dailymotion.com, 644258, RESELLER # video
+dailymotion.com, 644274, RESELLER # video
+dailymotion.com, 644290, RESELLER # video
+dailymotion.com, 644306, RESELLER # video
+dailymotion.com, 644322, RESELLER # video
+dailymotion.com, 644338, RESELLER # video
+dailymotion.com, 644354, RESELLER # video
+dailymotion.com, 644370, RESELLER # video
+dailymotion.com, 644386, RESELLER # video
+dailymotion.com, 644402, RESELLER # video
+dailymotion.com, 644418, RESELLER # video
+dailymotion.com, 644434, RESELLER # video
+dailymotion.com, 644450, RESELLER # video
+dailymotion.com, 644466, RESELLER # video
+dailymotion.com, 644482, RESELLER # video
+dailymotion.com, 644498, RESELLER # video
+dailymotion.com, 732722, RESELLER # video
+dailymotion.com, 321361, RESELLER # video
+dailymotion.com, 321377, RESELLER # video
+dailymotion.com, 321393, RESELLER # video
+dailymotion.com, 321409, RESELLER # video
+dailymotion.com, 321425, RESELLER # video
+dailymotion.com, 321441, RESELLER # video
+dailymotion.com, 321457, RESELLER # video
+dailymotion.com, 321473, RESELLER # video
+dailymotion.com, 321489, RESELLER # video
+dailymotion.com, 321505, RESELLER # video
+dailymotion.com, 321521, RESELLER # video
+dailymotion.com, 321537, RESELLER # video
+dailymotion.com, 321553, RESELLER # video
+dailymotion.com, 321569, RESELLER # video
+dailymotion.com, 321585, RESELLER # video
+dailymotion.com, 321601, RESELLER # video
+dailymotion.com, 321617, RESELLER # video
+dailymotion.com, 321633, RESELLER # video
+dailymotion.com, 321649, RESELLER # video
+dailymotion.com, 321665, RESELLER # video
+dailymotion.com, 321681, RESELLER # video
+dailymotion.com, 321697, RESELLER # video
+dailymotion.com, 321713, RESELLER # video
+dailymotion.com, 321729, RESELLER # video
+dailymotion.com, 321745, RESELLER # video
+dailymotion.com, 644514, RESELLER # video
+dailymotion.com, 644530, RESELLER # video
+dailymotion.com, 644546, RESELLER # video
+dailymotion.com, 644562, RESELLER # video
+dailymotion.com, 644578, RESELLER # video
+dailymotion.com, 644594, RESELLER # video
+dailymotion.com, 644610, RESELLER # video
+dailymotion.com, 644626, RESELLER # video
+dailymotion.com, 644642, RESELLER # video
+dailymotion.com, 644658, RESELLER # video
+dailymotion.com, 644674, RESELLER # video
+dailymotion.com, 644690, RESELLER # video
+dailymotion.com, 644706, RESELLER # video
+dailymotion.com, 644722, RESELLER # video
+dailymotion.com, 644738, RESELLER # video
+dailymotion.com, 644754, RESELLER # video
+dailymotion.com, 644770, RESELLER # video
+dailymotion.com, 644786, RESELLER # video
+dailymotion.com, 644802, RESELLER # video
+dailymotion.com, 732754, RESELLER # video
+lkqd.net, 410, RESELLER, 59c49fa9598a0117 # video LATAM
+lkqd.com, 410, RESELLER, 59c49fa9598a0117 # video LATAM
+google.com, pub-8673457733281446, RESELLER, f08c47fec0942fa0 # video LATAM
+appnexus.com, 9923, RESELLER, f5ab79cb980f11d1 # video LATAM
+smartclip.net, 10213, DIRECT # LATAM
+smartclip.net, 2898, DIRECT # LATAM
+smartclip.net, 10220, DIRECT # LATAM
+smartclip.net, 6780, DIRECT # LATAM
+smartclip.net, 10219, DIRECT # LATAM
+smartclip.net, 10221, DIRECT # LATAM
+smartclip.net, 10213, RESELLER # LATAM
+smartclip.net, 2898, RESELLER # LATAM
+smartclip.net, 10220, RESELLER # LATAM
+smartclip.net, 6780, RESELLER # LATAM
+smartclip.net, 10219, RESELLER # LATAM
+smartclip.net, 10221, RESELLER # LATAM
+AOL.com, 7801, RESELLER # Video
+freewheel.tv, 146777, RESELLER # HK
+freewheel.tv, 202401, RESELLER # HK
+freewheel.tv, 771073, RESELLER # TH
+freewheel.tv, 771089, RESELLER # TH
+appnexus.com, 7596 , RESELLER # TH
+freewheel.tv, 838673, RESELLER # TH
+freewheel.tv, 862033, RESELLER # TH
+smartadserver.com, 886, RESELLER # Video CH, DE, AT
+google.com, pub-3057818873023700, RESELLER # Video CH
+appnexus.com, 3741, RESELLER # Video CH
+appnexus.com, 3528, RESELLER # Video CH
+appnexus.com, 1851, RESELLER # Video CH
+appnexus.com, 9242, RESELLER # Video CH
+spotxchange.com, 113481, RESELLER, 7842df1d2fe2db34 # DE, CH, AT
+spotx.tv, 113481, RESELLER, 7842df1d2fe2db34 # DE, CH, AT
+appnexus.com, 8904, RESELLER # DE, CH, AT
+pubmatic.com, 100531, RESELLER # DE, CH, AT
+openx.com, 537148817, RESELLER, 6a698e2ec38604c6 # DE, CH, AT
+freewheel.tv, 170809, RESELLER # Video BE
+freewheel.tv, 175881, RESELLER # Video BE
+google.com, pub-0928917523760106, RESELLER, f08c47fec0942fa0 # BE
+appnexus.com, 2668, RESELLER, f5ab79cb980f11d1 # NL
+improvedigital.com, 755, RESELLER # NL
+google.com, pub-5879135606263005, RESELLER # NL
+smartclip.net, 855,RESELLER # DE
+smartclip.net, 9098, RESELLER # ES
+google.com, pub-8674340505315230, RESELLER, f08c47fec0942fa0 # ES
+google.com, pub-7197632655386039, RESELLER, f08c47fec0942fa0 # ES
+yieldlab.net, 72723, RESELLER # AT
+yieldlab.net, 227224, RESELLER # AT
+yieldlab.net, 506261, RESELLER # AT
+admixer.net, 10248498-454d-49a4-a789-acb8fe837f59, RESELLER # UA
+google.com, pub-0627101520158699, RESELLER, f08c47fec0942fa0 # IT
+freewheel.tv, 2493, RESELLER # IT
+freewheel.tv, 287842, RESELLER # IT
+freewheel.tv, 595217, RESELLER # IT
+freewheel.tv, 595281, RESELLER # IT
+freewheel.tv, 595681, RESELLER # IT
+freewheel.tv, 595713, RESELLER # IT
+freewheel.tv, 287858, RESELLER # IT
+freewheel.tv, 595233, RESELLER # IT
+freewheel.tv, 595665, RESELLER # IT
+freewheel.tv, 595697, RESELLER # IT
+freewheel.tv, 595729, RESELLER # IT
+freewheel.tv, 449249, RESELLER # IT
+freewheel.tv, 449265, RESELLER # IT
+freewheel.tv, 762193, RESELLER # IT
+freewheel.tv, 762241, RESELLER # IT
+Improvedigital.com, 410, RESELLER # IT
+adform.com, 96, RESELLER # IT
+rubiconproject.com, 11762, RESELLER, 0bfd66d529a55807 # IT
+google.com, pub-9381882208654001, RESELLER # IT
+google.com, pub-7774251886246218, RESELLER # IT
+adtech.com, 4819, RESELLER # IT
+4aolcloud.net, 4819, RESELLER # IT
+advertising.com, 21984, RESELLER # IT
+google.com, pub-4979986541055910, RESELLER, f08c47fec0942fa0 # IT
+appnexus.com, 956, RESELLER, f5ab79cb980f11d1 # IT
+rubiconproject.com, 13258, RESELLER, 0bfd66d529a55807 # IT
+openx.com, 537128103, RESELLER # IT
+adform.com, 1721, RESELLER # IT
+pubmatic.com, 73785, RESELLER, 5d62403b186f2ace # IT
+freewheel.tv, 201601, RESELLER # IT
+adtech.com, 4812, RESELLER # IT
+aolcloud.net, 4812, RESELLER # IT
+smartadserver.com, 1827, RESELLER # IT
+improvedigital.com, 335, RESELLER # IT
+appnexus.com, 3538, RESELLER # IT
+appnexus.com, 3539, RESELLER # IT
+appnexus.com, 3540, RESELLER # IT
+adform.com, 1226, RESELLER # IT
+adform.com, 1943, RESELLER # IT
+adform.com, 622, RESELLER # IT
+adform.com, 2110, RESELLER # IT
+adform.com, 2112, RESELLER # IT
+appnexus.com, 1785, RESELLER, f5ab79cb980f11d1 # IT
+appnexus.com, 3141, RESELLER, f5ab79cb980f11d1 # IT
+indexexchange.com, 183965, RESELLER, 50b1c356f2c5c8fc # IT
+Pubmatic.com, 156458, RESELLER, 5d62403b186f2ace # IT
+Pubmatic.com, 156325, RESELLER, 5d62403b186f2ace # IT
+Pubmatic.com, 156084, RESELLER, 5d62403b186f2ace # IT
+coxmt.com, 2000067995202, RESELLER # IT
+freewheel.tv, 758610, RESELLER # IT
+freewheel.tv, 758642, RESELLER # IT
+freewheel.tv, 758626, RESELLER # IT
+freewheel.tv, 758658, RESELLER # IT
+onetag.com, 3895f66b2a, RESELLER # IT
+coxmt.com, 2000067995202, RESELLER # IT
+spotxchange.com, 223430, RESELLER, 7842df1d2fe2db34 # IT
+spotx.tv, 223430, RESELLER, 7842df1d2fe2db34 # IT
+freewheel.tv, 764641, RESELLER # IT
+freewheel.tv, 764673, RESELLER # IT
+freewheel.tv, 764705, RESELLER # IT
+freewheel.tv, 764657, RESELLER # IT
+freewheel.tv, 764689, RESELLER # IT
+freewheel.tv, 764737, RESELLER # IT
+freewheel.tv, 772305, RESELLER # IT
+freewheel.tv, 772321, RESELLER # IT
+freewheel.tv, 780353, RESELLER # IT
+freewheel.tv, 780369, RESELLER # IT
+freewheel.tv, 782017, RESELLER # IT
+freewheel.tv, 782033, RESELLER # IT
+freewheel.tv, 9904, RESELLER # IT
+freewheel.tv, 720210, RESELLER # IT
+freewheel.tv, 720242, RESELLER # IT
+freewheel.tv, 784481, RESELLER # IT
+freewheel.tv, 784497, RESELLER # IT
+pubmatic.com, 156777, RESELLER, 5d62403b186f2ace # IT
+smartadserver.com, 1510, RESELLER # PT
+google.com, pub-4939634212290203, RESELLER, f08c47fec0942fa0 # PT
+indexexchange.com, 179394, RESELLER # PT
+contextweb.com, 560288,RESELLER, 89ff185a4c4e857c # PT
+pubmatic.com, 156439, RESELLER # PT
+pubmatic.com, 154037, RESELLER # PT
+rubiconproject.com, 16114, RESELLER, 0bfd66d529a55807 # PT
+openx.com, 537149888, RESELLER, 6a698e2ec38604c6 # PT
+sovrn.com, 257611, RESELLER, fafdf38b16bf6b2b # PT
+appnexus.com, 3703, RESELLER, f5ab79cb980f11d1 # PT
+appnexus.com, 2964, RESELLER # PT
+appnexus.com, 7167, RESELLER # PT
+teads.tv, 13696, RESELLER, 15a9c44f6d26cbe1 # PT
+adform.com, 1743, RESELLER # TR
+spotxchange.com, 223229, RESELLER, 7842df1d2fe2db34 # TR
+spotx.tv, 223229, RESELLER, 7842df1d2fe2db34 # TR
+google.com, pub-2577219840435371, RESELLER, f08c47fec0942fa0 # MENA
+rubiconproject.com, 14138, RESELLER, 0bfd66d529a55807 # MENA
+rubiconproject.com, 18024, RESELLER, 0bfd66d529a55807 # MENA
+google.com, pub-1386280613967939, RESELLER, f08c47fec0942fa0 # GB, IE
+advertising.com, 8791, RESELLER # GB, IE
+tidaltv.com, 25596, RESELLER # GB, IE
+tidaltv.com, 9008, RESELLER # GB, IE
+tidaltv.com, 9141, RESELLER # GB, IE
+tidaltv.com, 6440, RESELLER # GB, IE
+rubiconproject.com, 16746, RESELLER, 0bfd66d529a55807 # GB, IE
+spotxchange.com, 95719, RESELLER, 7842df1d2fe2db34 # GB, IE
+spotx.tv, 95719 , RESELLER, 7842df1d2fe2db34 # GB, IE
+freewheel.tv, 776577, RESELLER # GB, IE
+freewheel.tv, 776593, RESELLER # GB, IE
+freewheel.tv, 856593, RESELLER
+freewheel.tv, 856609, RESELLER
+freewheel.tv, 856625, RESELLER
+freewheel.tv, 856641, RESELLER
+freewheel.tv, 856657, RESELLER
+freewheel.tv, 856673, RESELLER
+appnexus.com, 994, RESELLER, f5ab79cb980f11d1 # NL
+rubiconproject.com, 11394, RESELLER, 0bfd66d529a55807 # NL
+pubmatic.com, 156487, RESELLER, 5d62403b186f2ace # NL
+adform.com, 648, RESELLER # NL
+freewheel.tv, 18373, RESELLER # NL
+freewheel.tv, 17821, RESELLER # NL
+improvedigital.com, 985, RESELLER # NL
+appnexus.com, 1504, RESELLER # CH
+lkqd.net, 307, RESELLER, 59c49fa9598a0117 # UA, RS, AL, BA,MK, ME, SK, LT, MT, MD, BY, EE, HR, SI, LV, PL, RU, BG, RO, HU, CZ, SI
+google.com, pub-5512390705137507, RESELLER, f08c47fec0942fa0 # UA, RS, AL, BA,MK, ME, SK, LT, MT, MD, BY, EE, HR, SI, LV, PL, RU, BG, RO, HU, CZ, SI
+smartadserver.com, 2079, RESELLER # UA, RS, AL, BA,MK, ME, SK, LT, MT, MD, BY, EE, HR, SI, LV, PL, RU, BG, RO, HU, CZ, SI
+google.com, pub-1937576406332709, RESELLER, f08c47fec0942fa0 # UA, RS, AL, BA,MK, ME, SK, LT, MT, MD, BY, EE, HR, SI, LV, PL, RU, BG, RO, HU, CZ, SI
+google.com, pub-8856559311549217, RESELLER, f08c47fec0942fa0 # UA, RS, AL, BA,MK, ME, SK, LT, MT, MD, BY, EE, HR, SI, LV, PL, RU, BG, RO, HU, CZ, SI
+freewheel.tv, 13841 , RESELLER # IT
+freewheel.tv, 642114, RESELLER # IT
+google.com, pub-3391297137506159, RESELLER, f08c47fec0942fa0 # PL
+google.com, pub-1914589287576951, RESELLER, f08c47fec0942fa0 # PL
+adform.com, 1019, RESELLER # PL
+rubiconproject.com, 13998, RESELLER, 0bfd66d529a55807 # PL
+smartadserver.com, 3161, RESELLER # CA
+tremorhub.com, 19i64-nwjvk, RESELLER, 1a4e959a1b50034a # NZ
+google.com, pub-9058291854443881, RESELLER # Asia
+appnexus.com, 3691, RESELLER # Asia
+smartadserver.com, 2060, RESELLER # Asia
+rubiconproject.com, 17692, RESELLER, 0bfd66d529a55807 # Asia
+spotxchange.com, 218870, RESELLER, 7842df1d2fe2db34 # Asia
+spotx.tv, 218870, RESELLER, 7842df1d2fe2db34 # Asia
+pubmatic.com, 156792, RESELLER, 5d62403b186f2ace # Asia
+ad-stir.com, 8943, RESELLER # Asia
+advertising.com, 26947, RESELLER # Asia
+ads.adasiaholdings.com, 1, RESELLER # Asia
+openx.com, 540291874, RESELLER, 6a698e2ec38604c6 # Asia
+openx.com, 540308356, RESELLER, 6a698e2ec38604c6 # Asia
+Pubmatic.com, 39374, RESELLER, 5d62403b186f2ace
+Pubmatic.com, 156819, RESELLER, 5d62403b186f2ace
+Pubmatic.com, 156820, RESELLER, 5d62403b186f2ace
+Advertising.com, 19011, RESELLER
+lkqd.net, 51, RESELLER, 59c49fa9598a0117
+lkqd.com, 51, RESELLER, 59c49fa9598a0117
+freewheel.tv, 295681, RESELLER
+freewheel.tv, 299345, RESELLER
+Improvedigital.com, 1154, RESELLER
+rubiconproject.com, 16048, RESELLER, 0bfd66d529a55807
+openx.com, 537124691, RESELLER, 6a698e2ec38604c6
+improvedigital.com, 1066, RESELLER
+Freewheel.tv, 222017, RESELLER
+Freewheel.tv, 636593, RESELLER
+freewheel.tv, 479537, RESELLER
+beachfront.com, 4469, RESELLER, e2541279e8e2ca4d
+advertising.com, 18632, RESELLER
+advertising.com, 24700, RESELLER
+vi.ai, 575251357960979, RESELLER
+beachfront.com, 5171, RESELLER
+nsightvideo.com, 10, RESELLER #Video
+nsightvideo.com, 11, RESELLER #Video
+nsightvideo.com, 110, RESELLER #Video
+nsightvideo.com, 111, RESELLER #Video
+nsightvideo.com, 112, RESELLER #Video
+nsightvideo.com, 113, RESELLER #Video
+nsightvideo.com, 114, RESELLER #Video
+nsightvideo.com, 115, RESELLER #Video
+nsightvideo.com, 116, RESELLER #Video
+nsightvideo.com, 117, RESELLER #Video
+nsightvideo.com, 118, RESELLER #Video
+nsightvideo.com, 119, RESELLER #Video
+nsightvideo.com, 12, RESELLER #Video
+nsightvideo.com, 120, RESELLER #Video
+nsightvideo.com, 121, RESELLER #Video
+nsightvideo.com, 122, RESELLER #Video
+nsightvideo.com, 123, RESELLER #Video
+nsightvideo.com, 124, RESELLER #Video
+nsightvideo.com, 125, RESELLER #Video
+nsightvideo.com, 126, RESELLER #Video
+nsightvideo.com, 127, RESELLER #Video
+nsightvideo.com, 128, RESELLER #Video
+nsightvideo.com, 129, RESELLER #Video
+nsightvideo.com, 13, RESELLER #Video
+nsightvideo.com, 130, RESELLER #Video
+nsightvideo.com, 131, RESELLER #Video
+nsightvideo.com, 132, RESELLER #Video
+nsightvideo.com, 133, RESELLER #Video
+nsightvideo.com, 134, RESELLER #Video
+nsightvideo.com, 135, RESELLER #Video
+nsightvideo.com, 136, RESELLER #Video
+nsightvideo.com, 137, RESELLER #Video
+nsightvideo.com, 138, RESELLER #Video
+nsightvideo.com, 139, RESELLER #Video
+nsightvideo.com, 14, RESELLER #Video
+nsightvideo.com, 140, RESELLER #Video
+nsightvideo.com, 141, RESELLER #Video
+nsightvideo.com, 142, RESELLER #Video
+nsightvideo.com, 143, RESELLER #Video
+nsightvideo.com, 144, RESELLER #Video
+nsightvideo.com, 145, RESELLER #Video
+nsightvideo.com, 146, RESELLER #Video
+nsightvideo.com, 147, RESELLER #Video
+nsightvideo.com, 148, RESELLER #Video
+nsightvideo.com, 149, RESELLER #Video
+nsightvideo.com, 15, RESELLER #Video
+nsightvideo.com, 150, RESELLER #Video
+nsightvideo.com, 151, RESELLER #Video
+nsightvideo.com, 152, RESELLER #Video
+nsightvideo.com, 153, RESELLER #Video
+nsightvideo.com, 154, RESELLER #Video
+nsightvideo.com, 155, RESELLER #Video
+nsightvideo.com, 156, RESELLER #Video
+nsightvideo.com, 157, RESELLER #Video
+nsightvideo.com, 158, RESELLER #Video
+nsightvideo.com, 159, RESELLER #Video
+nsightvideo.com, 16, RESELLER #Video
+nsightvideo.com, 160, RESELLER #Video
+nsightvideo.com, 161, RESELLER #Video
+nsightvideo.com, 162, RESELLER #Video
+nsightvideo.com, 163, RESELLER #Video
+nsightvideo.com, 164, RESELLER #Video
+nsightvideo.com, 165, RESELLER #Video
+nsightvideo.com, 166, RESELLER #Video
+nsightvideo.com, 167, RESELLER #Video
+nsightvideo.com, 168, RESELLER #Video
+nsightvideo.com, 169, RESELLER #Video
+nsightvideo.com, 17, RESELLER #Video
+nsightvideo.com, 170, RESELLER #Video
+nsightvideo.com, 171, RESELLER #Video
+nsightvideo.com, 172, RESELLER #Video
+nsightvideo.com, 173, RESELLER #Video
+nsightvideo.com, 174, RESELLER #Video
+nsightvideo.com, 175, RESELLER #Video
+nsightvideo.com, 176, RESELLER #Video
+nsightvideo.com, 177, RESELLER #Video
+nsightvideo.com, 178, RESELLER #Video
+nsightvideo.com, 179, RESELLER #Video
+nsightvideo.com, 18, RESELLER #Video
+nsightvideo.com, 180, RESELLER #Video
+nsightvideo.com, 181, RESELLER #Video
+nsightvideo.com, 182, RESELLER #Video
+nsightvideo.com, 183, RESELLER #Video
+nsightvideo.com, 184, RESELLER #Video
+nsightvideo.com, 185, RESELLER #Video
+nsightvideo.com, 186, RESELLER #Video
+nsightvideo.com, 187, RESELLER #Video
+nsightvideo.com, 188, RESELLER #Video
+nsightvideo.com, 189, RESELLER #Video
+nsightvideo.com, 19, RESELLER #Video
+nsightvideo.com, 190, RESELLER #Video
+nsightvideo.com, 191, RESELLER #Video
+nsightvideo.com, 192, RESELLER #Video
+nsightvideo.com, 193, RESELLER #Video
+nsightvideo.com, 194, RESELLER #Video
+nsightvideo.com, 20, RESELLER #Video
+nsightvideo.com, 21, RESELLER #Video
+nsightvideo.com, 22, RESELLER #Video
+nsightvideo.com, 23, RESELLER #Video
+nsightvideo.com, 24, RESELLER #Video
+nsightvideo.com, 25, RESELLER #Video
+nsightvideo.com, 253, RESELLER #Video
+nsightvideo.com, 254, RESELLER #Video
+nsightvideo.com, 255, RESELLER #Video
+nsightvideo.com, 256, RESELLER #Video
+nsightvideo.com, 257, RESELLER #Video
+nsightvideo.com, 258, RESELLER #Video
+nsightvideo.com, 259, RESELLER #Video
+nsightvideo.com, 26, RESELLER #Video
+nsightvideo.com, 260, RESELLER #Video
+nsightvideo.com, 261, RESELLER #Video
+nsightvideo.com, 262, RESELLER #Video
+nsightvideo.com, 263, RESELLER #Video
+nsightvideo.com, 264, RESELLER #Video
+nsightvideo.com, 265, RESELLER #Video
+nsightvideo.com, 266, RESELLER #Video
+nsightvideo.com, 267, RESELLER #Video
+nsightvideo.com, 268, RESELLER #Video
+nsightvideo.com, 269, RESELLER #Video
+nsightvideo.com, 27, RESELLER #Video
+nsightvideo.com, 270, RESELLER #Video
+nsightvideo.com, 271, RESELLER #Video
+nsightvideo.com, 272, RESELLER #Video
+nsightvideo.com, 273, RESELLER #Video
+nsightvideo.com, 274, RESELLER #Video
+nsightvideo.com, 275, RESELLER #Video
+nsightvideo.com, 276, RESELLER #Video
+nsightvideo.com, 277, RESELLER #Video
+nsightvideo.com, 278, RESELLER #Video
+nsightvideo.com, 279, RESELLER #Video
+nsightvideo.com, 28, RESELLER #Video
+nsightvideo.com, 280, RESELLER #Video
+nsightvideo.com, 281, RESELLER #Video
+nsightvideo.com, 282, RESELLER #Video
+nsightvideo.com, 283, RESELLER #Video
+nsightvideo.com, 284, RESELLER #Video
+nsightvideo.com, 285, RESELLER #Video
+nsightvideo.com, 286, RESELLER #Video
+nsightvideo.com, 287, RESELLER #Video
+nsightvideo.com, 288, RESELLER #Video
+nsightvideo.com, 289, RESELLER #Video
+nsightvideo.com, 29, RESELLER #Video
+nsightvideo.com, 290, RESELLER #Video
+nsightvideo.com, 291, RESELLER #Video
+nsightvideo.com, 292, RESELLER #Video
+nsightvideo.com, 295, RESELLER #Video
+nsightvideo.com, 296, RESELLER #Video
+nsightvideo.com, 297, RESELLER #Video
+nsightvideo.com, 298, RESELLER #Video
+nsightvideo.com, 299, RESELLER #Video
+nsightvideo.com, 30, RESELLER #Video
+nsightvideo.com, 300, RESELLER #Video
+nsightvideo.com, 301, RESELLER #Video
+nsightvideo.com, 302, RESELLER #Video
+nsightvideo.com, 303, RESELLER #Video
+nsightvideo.com, 304, RESELLER #Video
+nsightvideo.com, 305, RESELLER #Video
+nsightvideo.com, 306, RESELLER #Video
+nsightvideo.com, 307, RESELLER #Video
+nsightvideo.com, 308, RESELLER #Video
+nsightvideo.com, 309, RESELLER #Video
+nsightvideo.com, 31, RESELLER #Video
+nsightvideo.com, 310, RESELLER #Video
+nsightvideo.com, 311, RESELLER #Video
+nsightvideo.com, 312, RESELLER #Video
+nsightvideo.com, 313, RESELLER #Video
+nsightvideo.com, 314, RESELLER #Video
+nsightvideo.com, 315, RESELLER #Video
+nsightvideo.com, 316, RESELLER #Video
+nsightvideo.com, 317, RESELLER #Video
+nsightvideo.com, 318, RESELLER #Video
+nsightvideo.com, 319, RESELLER #Video
+nsightvideo.com, 32, RESELLER #Video
+nsightvideo.com, 320, RESELLER #Video
+nsightvideo.com, 321, RESELLER #Video
+nsightvideo.com, 322, RESELLER #Video
+nsightvideo.com, 323, RESELLER #Video
+nsightvideo.com, 324, RESELLER #Video
+nsightvideo.com, 325, RESELLER #Video
+nsightvideo.com, 326, RESELLER #Video
+nsightvideo.com, 327, RESELLER #Video
+nsightvideo.com, 328, RESELLER #Video
+nsightvideo.com, 329, RESELLER #Video
+nsightvideo.com, 33, RESELLER #Video
+nsightvideo.com, 330, RESELLER #Video
+nsightvideo.com, 331, RESELLER #Video
+nsightvideo.com, 332, RESELLER #Video
+nsightvideo.com, 333, RESELLER #Video
+nsightvideo.com, 334, RESELLER #Video
+nsightvideo.com, 335, RESELLER #Video
+nsightvideo.com, 336, RESELLER #Video
+nsightvideo.com, 337, RESELLER #Video
+nsightvideo.com, 338, RESELLER #Video
+nsightvideo.com, 339, RESELLER #Video
+nsightvideo.com, 34, RESELLER #Video
+nsightvideo.com, 340, RESELLER #Video
+nsightvideo.com, 341, RESELLER #Video
+nsightvideo.com, 342, RESELLER #Video
+nsightvideo.com, 343, RESELLER #Video
+nsightvideo.com, 344, RESELLER #Video
+nsightvideo.com, 345, RESELLER #Video
+nsightvideo.com, 346, RESELLER #Video
+nsightvideo.com, 347, RESELLER #Video
+nsightvideo.com, 348, RESELLER #Video
+nsightvideo.com, 35, RESELLER #Video
+nsightvideo.com, 36, RESELLER #Video
+nsightvideo.com, 39, RESELLER #Video
+nsightvideo.com, 40, RESELLER #Video
+nsightvideo.com, 41, RESELLER #Video
+nsightvideo.com, 42, RESELLER #Video
+nsightvideo.com, 43, RESELLER #Video
+nsightvideo.com, 44, RESELLER #Video
+nsightvideo.com, 45, RESELLER #Video
+nsightvideo.com, 46, RESELLER #Video
+nsightvideo.com, 47, RESELLER #Video
+nsightvideo.com, 48, RESELLER #Video
+nsightvideo.com, 6, RESELLER #Video
+nsightvideo.com, 7, RESELLER #Video
+nsightvideo.com, 8, RESELLER #Video
+nsightvideo.com, 9, RESELLER #Video
+google.com, pub-5373693997956134, RESELLER, f08c47fec0942fa0
+google.com, pub-4177862836555934, RESELLER, f08c47fec0942fa0
+google.com, pub-1071602463683652, RESELLER, f08c47fec0942fa0
+freewheel.tv, 222289, RESELLER
+freewheel.tv, 222297, RESELLER
+freewheel.tv, 222305, RESELLER
+freewheel.tv, 222313, RESELLER
+freewheel.tv, 222321, RESELLER
+freewheel.tv, 222329, RESELLER
+freewheel.tv, 222337, RESELLER
+freewheel.tv, 222345, RESELLER
+freewheel.tv, 222353, RESELLER
+freewheel.tv, 222361, RESELLER
+freewheel.tv, 222369, RESELLER
+smartadserver.com, 93, RESELLER
+contextweb.com, 560288, RESELLER, 89ff185a4c4e857c
+pubmatic.com, 156439, RESELLER
+pubmatic.com, 154037, RESELLER
+rubiconproject.com, 16114, RESELLER, 0bfd66d529a55807
+openx.com, 537149888, RESELLER, 6a698e2ec38604c6
+sovrn.com, 257611, RESELLER, fafdf38b16bf6b2b
+appnexus.com, 3703, RESELLER, f5ab79cb980f11d1
+google.com, pub-8929667634210480, RESELLER, f08c47fec0942fa0 
+google.com, pub-2393320645055022, RESELLER, f08c47fec0942fa0
+contextweb.com, 558426, RESELLER, 89ff185a4c4e857c
+freewheel.tv, 923505, RESELLER # video
+beachfront.com, 108, DIRECT, e2541279e8e2ca4d 
+google.com, pub-4560331049790501, DIRECT, f08c47fec0942fa0
+freewheel.tv, 899777, DIRECT # video
+freewheel.tv, 899777, RESELLER # video
+freewheel.tv, 899761, RESELLER # video
+mediaonline.com, 1a34c, RESELLER
+google.com, pub-2610964203515025, RESELLER, f08c47fec0942fa0 
+google.com, pub-2393320645055022, RESELLER, f08c47fec0942fa0
+Pubmatic.com, 39374, RESELLER, 5d62403b186f2ace 
+Pubmatic.com, 156819, RESELLER, 5d62403b186f2ace
+Pubmatic.com, 156820, RESELLER, 5d62403b186f2ace
+Freewheel.tv,295681,RESELLER 
+freewheel.tv, 299345, RESELLER
+Ad.Plus, 40031, DIRECT #video
+Advertising.com, 19011, RESELLER
+lkqd.net, 51, RESELLER, 59c49fa9598a0117 
+lkqd.com, 51, RESELLER, 59c49fa9598a0117 
+improvedigital.com, 1154, RESELLER
+contextweb.com, 558426, RESELLER, 89ff185a4c4e857c
+beachfront.com, 12983, DIRECT, e2541279e8e2ca4d
+lkqd.net, 51, DIRECT, 59c49fa9598a0117
+indexexchange.com, 185308, RESELLER
+rubiconproject.com, 17962, RESELLER, 0bfd66d529a55807
+openx.com, 539074103, RESELLER, 6a698e2ec38604c6
+google.com, pub-0627101520158699, RESELLER, f08c47fec0942fa0
+pubmatic.com, 156777, RESELLER, 5d62403b186f2ace
+aps.amazon.com, 3204, RESELLER  #video
+freewheel.tv, 2493, RESELLER
+improvedigital.com, 946, RESELLER
+onetag.com, 389a1a1c29, RESELLER
+freewheel.tv, 9904, RESELLER
+spotxchange.com, 218639, RESELLER, 7842df1d2fe2db34
+spotx.tv, 218639, RESELLER, 7842df1d2fe2db34
+freewheel.tv, 720210, RESELLER
+freewheel.tv, 720242, RESELLER
+freewheel.tv, 784481, RESELLER
+freewheel.tv, 784497, RESELLER
+smartclip.net, 10575, RESELLER
+spotxchange.com, 246988, RESELLER, 7842df1d2fe2db34
+spotx.tv, 246988, RESELLER, 7842df1d2fe2db34
+video.unrulymedia.com, UNRX-PUB-29cfa292-1a2e-434d-8806-9a0ec14ceca7, DIRECT
+adtrue.com, 3202, DIRECT
+google.com, pub-3762254771375579, RESELLER, f08c47fec0942fa0
+pubmatic.com, 155495, RESELLER, 5d62403b186f2ace
+appnexus.com, 7080, RESELLER, f5ab79cb980f11d1
+rubiconproject.com, 15478, RESELLER, 0bfd66d529a55807
+google.com, pub-8388909051722168, RESELLER, f08c47fec0942fa0
+google.com, pub-2285546921446373, RESELLER, f08c47fec0942fa0
+spotxchange.com, 213805, RESELLER, 7842df1d2fe2db34
+spotx.tv, 213805, RESELLER, 7842df1d2fe2db34
+openx.com, 539372716, RESELLER, 6a698e2ec38604c6
+smartadserver.com, 2499, RESELLER
+advertising.com, 8603, RESELLER
+freewheel.tv, 799841, RESELLER
+freewheel.tv, 799921, RESELLER
+fyber.com, ddecc38b3799786a1637d5176e204431, RESELLER
+adform.com, 1411, RESELLER
+rhythmone.com, 1166984029, RESELLER, a670c89d4a324e47
+appnexus.com, 9795, DIRECT
+appnexus.com, 10617, DIRECT #Video 
+appnexus.com, 9393, DIRECT #Video 
+google.com, pub-0978064532142215, DIRECT, f08c47fec0942fa0
+rubiconproject.com, 12738, RESELLER, 0bfd66d529a55807
+beachfront.com, 4969, RESELLER, e2541279e8e2ca4d
+pubmatic.com, 157310, RESELLER, 5d62403b186f2ace
+spotxchange.com, 239904, RESELLER, 7842df1d2fe2db34
+spotx.tv, 239904, RESELLER, 7842df1d2fe2db34
+openx.com, 540454059, RESELLER, 6a698e2ec38604c6
+springserve.com, 843, DIRECT, a24eb641fc82e93d
+contextweb.com, 561910, RESELLER, 89ff185a4c4e857c
+ssp.ynxs.io, 185, RESELLER
+rhythmone.com, 2968119028, RESELLER, a670c89d4a324e47
+advertising.com, 26282, RESELLER
+freewheel.tv, 956849, RESELLER
+freewheel.tv, 956817, RESELLER
+freewheel.tv, 956833, RESELLER
+
+#Affinity
+appnexus.com, 2007, RESELLER
+contextweb.com, 561119, RESELLER
+google.com, pub-6314168058065736, RESELLER, f08c47fec0942fa0
+adtech.com, 5359, RESELLER
+aolcloud.net, 5359, RESELLER
+advertising.com, 5359, RESELLER
+pubmatic.com, 32987, RESELLER
+pubmatic.com, 158033, RESELLER, 5d62403b186f2ace
+advertising.com, 18201, RESELLER
+ssp.smartyads.com, 7169, DIRECT
+google.com, pub-5880401011681483, RESELLER, f08c47fec0942fa0
+google.com, pub-8840552006567450, RESELLER, f08c47fec0942fa0
+advertising.com, 25308, RESELLER
+adtech.com, 10466, RESELLER
+spotxchange.com, 211738, RESELLER, 7842df1d2fe2db34
+spotx.tv, 211738, RESELLER, 7842df1d2fe2db34
+xapads.com, 1104, DIRECT
+contextweb.com, 561844, DIRECT, 89ff185a4c4e857c
+pubmatic.com, 157535, RESELLER
+pubmatic.com, 157704, RESELLER
+motionspots.com, 93, DIRECT, f0220652b4aaebdc
+waardex.com, 498, DIRECT
+madopi.com, 222858, DIRECT
+
+#Novoroll
+lkqd.net, 234, RESELLER, 59c49fa9598a0117
+advertising.com, 26282, RESELLER
+novoroll.com, a670c89d4a324e4, DIRECT
+rubiconproject.com,17376,RESELLER,0bfd66d529a55807
+cedato.com, 501446106, RESELLER
+springserve.com, 363, DIRECT, a24eb641fc82e93d
+vindicosuite.com, 6658, RESELLER
+vindicosuite.com, 6657, RESELLER
+freewheel.tv, 149009, RESELLER
+video.unrulymedia.com, UNRX-PUB-a0d5b2b5-7df6-41e0-b266-1ff99195c1b9, DIRECT
+improvedigital.com, 1225, RESELLER
+improvedigital.com, 1057, RESELLER
+pubmatic.com, 120391, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 16568, RESELLER, 0bfd66d529a55807
+tremorhub.com, 0cc6w-h2tvh, RESELLER, 1a4e959a1b50034a
+tremorhub.com, 0cc6w-stphr, RESELLER, 1a4e959a1b50034a
+advertising.com, 23089, RESELLER
+aniview.com, 59c9148628a0612da3689288, RESELLER
+districtm.io, 101661, DIRECT
+freewheel.tv, 186097, RESELLER
+freewheel.tv, 186177, RESELLER
+spotxchange.com, 253293, RESELLER, 7842df1d2fe2db34
+spotx.tv, 253293, RESELLER, 7842df1d2fe2db34
+google.com, pub-9422585382673566, RESELLER, f08c47fec0942fa0
+vidcrunch.com, 178771, DIRECT
+advertising.com, 12873, RESELLER
+aniview.com, 5b59760c073ef46a2e6b8f13, RESELLER, 78b21b97965ec3f8
+google.com, pub-7002491002409919, DIRECT, f08c47fec0942fa0
+google.com, pub-7002491002409919, RESELLER, f08c47fec0942fa0
+google.com, pub-9378724246417115, DIRECT, f08c47fec0942fa0
+loopme.com, 11205, RESELLER, 6c8d5f95897a5a3b
+loopme.com, 11205, DIRECT, 6c8d5f95897a5a3b
+rubiconproject.com, 20744, RESELLER, 0bfd66d529a55807
+openx.com, 540298543, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 158154, RESELLER, 5d62403b186f2ace
+openx.com, 540862677, RESELLER, 6a698e2ec38604c6
+improvedigital.com, 1371, RESELLER
+advertising.com, 28440, RESELLER
+contextweb.com, 562151, RESELLER, 89ff185a4c4e857c
+sonobi.com, f79d8a858b, DIRECT, d1a215d9eb5aee9e
+google.com, pub-5717092533913515, RESELLER, f08c47fec0942fa0
+indexexchange.com, 185192, DIRECT
+rubiconproject.com, 17346, DIRECT, 0bfd66d529a55807
+openx.com, 538929384, DIRECT, 6a698e2ec38604c6
+rhythmone.com, 1149317856, DIRECT, a670c89d4a324e47, RhythmOne
+pubmatic.com, 157904, DIRECT, 5d62403b186f2ace
+telaria.com, jrkl5-0ac26, DIRECT, 1a4e959a1b50034a
+spotx.tv, 108706, DIRECT, 7842df1d2fe2db34
+spotxchange.com, 108706, DIRECT, 7842df1d2fe2db34
+vidcrunch.com, 5d0a162d28a06106f038a1c1,DIRECT
+districtm.io, 101661, RESELLER
+spotxchange.com, 271911, RESELLER, 7842df1d2fe2db34
+spotx.tv, 271911, RESELLER, 7842df1d2fe2db34
+rhythmone.com, 456081263, RESELLER, a670c89d4a324e47
+pubmatic.com, 158953, DIRECT, 5d62403b186f2ace
+pubmatic.com, 158953, RESELLER, 5d62403b186f2ace
+freewheel.tv, 149025, RESELLER
+google.com, pub-9685734445476814, RESELLER, f08c47fec0942fa0
+
+#Insticator
+Insticator.com,df3d7c0a-9e35-45d8-a784-9b4aa9fed3e6, DIRECT #Insticator_Version_2.0
+33across.com, 0010b00001rrPUnAAM, DIRECT, bbea06d9c4d2853c
+pubmatic.com, 158136, RESELLER, 5d62403b186f2ace
+gumgum.com, 13318, RESELLER, ffdef49475d318a9
+adtech.com, 12094, RESELLER
+adtech.com, 9993, RESELLER
+advangelists.com, 8d3bba7425e7c98c50f52ca1b52d3735, RESELLER, 60d26397ec060f98
+rubiconproject.com, 21434, RESELLER, 0bfd66d529a55807
+pubmatic.com, 158569, RESELLER, 5d62403b186f2ace
+springserve.com, 868, DIRECT, a24eb641fc82e93d
+contextweb.com, 526740, RESELLER, 89ff185a4c4e857c
+appnexus.com, 7096, DIRECT
+rhythmone.com, 1755648630, RESELLER, a670c89d4a324e47
+rubiconproject.com, 18126, RESELLER, 0bfd66d529a55807
+pubmatic.com, 157607, RESELLER, 5d62403b186f2ace
+video.unrulymedia.com, UNRX-PUB-b7b8af13-0a12-4d37-8b27-0dc8aa90e3e2, RESELLER
+advertising.com, 8656, RESELLER
+lkqd.net, 39, RESELLER, 59c49fa9598a0117
+spotxchange.com, 77201, RESELLER, 7842df1d2fe2db34
+contextweb.com, 558458, RESELLER, 89ff185a4c4e857c
+loopme.com, 5641, RESELLER, 6c8d5f95897a5a3b
+tremorhub.com, u6pqo-bygoc, RESELLER, 1a4e959a1b50034a
+mobfox.com, 67448, RESELLER
+springserve.com, 5, RESELLER, a24eb641fc82e93d
+google.com, pub-7630961163643137, DIRECT, f08c47fec0942fa0
+aps.amazon.com, 70fb13d1-ab65-42ac-a7ca-0b4e680d5c92, DIRECT
+openx.com, 540191398, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 157150, RESELLER, 5d62403b186f2ace
+districtm.io, 100962, RESELLER
+rubiconproject.com, 18020, RESELLER, 0bfd66d529a55807
+rhythmone.com, 1654642120, RESELLER, a670c89d4a324e47
+adtech.com, 12068, RESELLER
+google.com, pub-0796790890307838, RESELLER, f08c47fec0942fa0
+pubmatic.com, 157866, RESELLER, 5d62403b186f2ace
+openx.com, 539624483, RESELLER, 6a698e2ec38604c6
+rubiconproject.com, 18304, RESELLER, 0bfd66d529a55807
+indexexchange.com, 186318, RESELLER
+rhythmone.com, 1575167821, RESELLER
+advertising.com, 10238, RESELLER
+appnexus.com, 3695, DIRECT
+beachfront.com, 13310, DIRECT, e2541279e8e2ca4d
+EMXDGT.com, 22, DIRECT, 1e1d41537f7cad7f
+Appnexus.com, 1356, RESELLER, f5ab79cb980f11d1
+brightcom.com, 15800, DIRECT
+google.com, pub-5231479214411897, RESELLER, f08c47fec0942fa0
+google.com, pub-4207323757133151, RESELLER, f08c47fec0942fa0
+lkqd.net, 49, RESELLER, 59c49fa9598a0117
+advertising.com, 23302, RESELLER
+freewheel.tv, 118529, RESELLER
+freewheel.tv, 118537, RESELLER
+beachfront.com, 1333, RESELLER, e2541279e8e2ca4d
+advertising.com, 2270, RESELLER
+advertising.com, 26347, RESELLER
+advertising.com, 23889, RESELLER
+conversantmedia.com, 40291, DIRECT, 03113cd04947736d
+appnexus.com, 4052, RESELLER
+openx.com, 540031703, RESELLER, 6a698e2ec38604c6
+contextweb.com, 561998, RESELLER, 89ff185a4c4e857c
+pubmatic.com, 158100, RESELLER, 5d62403b186f2ace
+districtm.io, 100683, DIRECT, 3fd707be9c4527c3
+appnexus.com, 1908, RESELLER, f5ab79cb980f11d1
+lkqd.net, 252, RESELLER, 59c49fa9598a0117
+lkqd.com, 252, RESELLER, 59c49fa9598a0117
+springserve.com, 105, RESELLER, a24eb641fc82e93d
+advertising.com, 3531, RESELLER
+rhythmone.com, 2968119028, RESELLER, a670c89d4a324e47
+pubmatic.com, 157903, RESELLER, 5d62403b186f2ace
+openx.com, 540454059, RESELLER, 6a698e2ec38604c6
+e-planning.net, ca658eed27b34b00, DIRECT
+rubiconproject.com, 12186, RESELLER, 0bfd66d529a55807
+pubmatic.com, 156631, RESELLER, 5d62403b186f2ace
+rhythmone.com, 1767353092, RESELLER, a670c89d4a324e47
+indexexchange.com, 190243, DIRECT
+valo.ai, e4dffdb0d6a5e665b9f98e11abf61fa7, Direct
+improvedigital.com, 1066, RESELLER
+contextweb.com, 561954, RESELLER, 89ff185a4c4e857c
+advertising.com, 18632, RESELLER
+lkqd.net, 286, RESELLER, 59c49fa9598a0117
+beachfront.com, 4469, RESELLER, e2541279e8e2ca4d
+aniview.com, 57712eeef83f155c398b4567, reseller
+cosmoshq.com, 1002, DIRECT
+gumgum.com, 13344, DIRECT, ffdef49475d318a9
+appnexus.com, 1001, reseller, f5ab79cb980f11d1
+appnexus.com, 1942, reseller, f5ab79cb980f11d1
+appnexus.com, 2758, reseller, f5ab79cb980f11d1
+appnexus.com, 3135, reseller, f5ab79cb980f11d1
+bidtellect.com, 1407, reseller, 1c34aa2d85d45e93
+contextweb.com, 558355, reseller
+openx.com, 537120563, reseller, 6a698e2ec38604c6
+openx.com, 537149485, reseller, 6a698e2ec38604c6
+spotx.tv, 147949, reseller, 7842df1d2fe2db34
+spotxchange.com, 147949, reseller, 7842df1d2fe2db34
+google.com, pub-9557089510405422, reseller, f08c47fec0942fa0
+google.com, pub-3848273848634341, reseller, f08c47fec0942fa0
+rhythmone.com, 78519861, reseller
+appnexus.com, 7597, reseller, f5ab79cb980f11d1
+33across.com, 0013300001r0t9mAAA, reseller
+appnexus.com, 10239, reseller, f5ab79cb980f11d1
+rubiconproject.com, 16414, reseller, 0bfd66d529a55807
+pubmatic.com, 156423, reseller, 5d62403b186f2ace
+openx.com, 539392223, reseller, 6a698e2ec38604c6
+rhythmone.com, 2439829435, reseller, a670c89d4a324e47
+emxdgt.com, 326, reseller, 1e1d41537f7cad7f
+pubmatic.com, 157897, reseller, 5d62403b186f2ace
+synacor.com, 82151, RESELLER, e108f11b2cdf7d5b
+coxmt.com, 2000067995202, RESELLER
+appnexus.com, 9316, RESELLER, f5ab79cb980f11d1
+pubmatic.com, 156344, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 13344, RESELLER, 0bfd66d529a55807
+improvedigital.com, 1277, DIRECT
+improvedigital.com, 1276, DIRECT
+indexexchange.com, 187071, DIRECT, 50b1c356f2c5c8fc
+indexexchange.com, 187482, DIRECT, 50b1c356f2c5c8fc
+openx.com, 537117488, RESELLER, 6a698e2ec38604c6
+openx.com, 540105394, RESELLER, 6a698e2ec38604c6
+Pubmatic.com, 95054, DIRECT, 5d62403b186f2ace
+Pubmatic.com, 95054, RESELLER, 5d62403b186f2ace
+Pubmatic.com, 157119, DIRECT, 5d62403b186f2ace
+Pubmatic.com, 157119, RESELLER, 5d62403b186f2ace
+contextweb.com, 561664, RESELLER, 89ff185a4c4e857c
+rhythmone.com, 136898039, DIRECT, a670c89d4a324e47
+Rhythmone.com, 527383184, DIRECT, a670c89d4a324e47
+RTBHOUSE.COM, eDr4TCudLLHttcPmswNj, DIRECT
+rubiconproject.com, 17062, DIRECT, 0bfd66d529a55807
+rubiconproject.com, 17980, DIRECT, 0bfd66d529a55807
+smartadserver.com, 3262, DIRECT
+smartadserver.com, 3262, RESELLER
+contextweb.com, 560288, RESELLER, 89ff185a4c4e857c
+pubmatic.com, 156439, RESELLER
+pubmatic.com, 154037, RESELLER
+pubmatic.com, 156030, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 16114, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 13132, RESELLER, 0bfd66d529a55807
+openx.com, 537149888, RESELLER, 6a698e2ec38604c6
+appnexus.com, 3703, RESELLER, f5ab79cb980f11d1
+groundtruth.com, 107, RESELLER, 81cbf0a75a5e0e9a
+districtm.io, 101760, RESELLER, 3fd707be9c4527c3
+loopme.com, s-2411, RESELLER, 6c8d5f95897a5a3b
+loopme.com, 5679, RESELLER, 6c8d5f95897a5a3b
+sonobi.com, e315a43aa9, DIRECT, d1a215d9eb5aee9e
+rhythmone.com, 1059622079, RESELLER, a670c89d4a324e47
+contextweb.com, 560606, RESELLER, 89ff185a4c4e857c
+sonobi.com, 70bc4d0919, DIRECT, d1a215d9eb5aee9e
+sovrn.com, 257618, DIRECT, fafdf38b16bf6b2b
+lijit.com, 257618, DIRECT, fafdf38b16bf6b2b
+appnexus.com, 1360, RESELLER, f5ab79cb980f11d1
+gumgum.com, 11645, RESELLER, ffdef49475d318a9
+openx.com, 538959099, RESELLER, 6a698e2ec38604c6
+openx.com, 539924617, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 137711, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156212, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156700, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 17960, RESELLER, 0bfd66d529a55807
+spotxchange.com, 110408, RESELLER, 7842df1d2fe2db34
+spotx.tv, 110408, RESELLER, 7842df1d2fe2db34
+springserve.com, 873, DIRECT, a24eb641fc82e93d
+beachfront.com, 4969, RESELLER, e2541279e8e2ca4d
+advertising.com, 26282, RESELLER
+pubmatic.com, 157310, RESELLER, 5d62403b186f2ace
+rhythmone.com, 2968119028, DIRECT, a670c89d4a324e47
+spotxchange.com, 239904, RESELLER, 7842df1d2fe2db34
+spotx.tv, 239904, RESELLER, 7842df1d2fe2db34
+contextweb.com, 561910, RESELLER, 89ff185a4c4e857c
+adtech.com, 4937, RESELLER
+adtech.com, 11605, RESELLER
+pubmatic.com, 158135, RESELLER, 5d62403b186f2ace
+contextweb.com, 562056, RESELLER, 89ff185a4c4e857c
+pubmatic.com, 148800, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156957, RESELLER, 5d62403b186f2ace
+openx.com, 537143737, RESELLER, 6a698e2ec38604c6
+openx.com, 540259865, RESELLER, 6a698e2ec38604c6
+openx.com, 540423120, RESELLER, 6a698e2ec38604c6
+google.com, pub-1772611089853771, RESELLER, f08c47fec0942fa0
+google.com, pub-8268618999035658, RESELLER, f08c47fec0942fa0
+google.com, pub-9328633604439863, RESELLER, f08c47fec0942fa0
+google.com, pub-6968738577620513, RESELLER, f08c47fec0942fa0
+google.com, pub-6254331789601537, RESELLER, f08c47fec0942fa0
+ucfunnel.com, par-488A3E6BD8D997D0ED8B3BD34D8BA4B, RESELLER
+advertising.com, 19623, RESELLER
+indexexchange.com, 183965, RESELLER, 50b1c356f2c5c8fc
+pubmatic.com, 156084, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156325, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156458, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 18222, RESELLER, 0bfd66d529a55807
+districtm.io, 101769, RESELLER, 3fd707be9c4527c3
+synacor.com, 82129, DIRECT, e108f11b2cdf7d5b
+rubiconproject.com, 13344, DIRECT, 0bfd66d529a55807
+beachfront.com, 5278, RESELLER, e2541279e8e2ca4d
+openx.com, 539337395, RESELLER, 6a698e2ec38604c6
+openx.com, 540170114, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 157568, RESELLER, 5d62403b186f2ace
+advertising.com, 23218, RESELLER
+adtech.com, 23218, RESELLER
+beachfront.com, 10402, RESELLER, e2541279e8e2ca4d
+freewheel.tv, 283074, RESELLER
+freewheel.tv, 957521, RESELLER
+freewheel.tv, 123433, RESELLER
+districtm.io, 101633, DIRECT, 3fd707be9c4527c3
+ucfunnel.com, par-BE7E7ADB8D34EE2BF7BBD2899BB62A77, DIRECT
+aralego.com, par-BE7E7ADB8D34EE2BF7BBD2899BB62A77, DIRECT
+appnexus.com, 9393, DIRECT
+ssp.ynxs.io, 185, DIRECT
+appnexus.com, 10617, DIRECT
+advertising.com, 25034, DIRECT
+google.com, pub-2224625513254808, RESELLER, f08c47fec0942fa0
+google.com, pub-3883055527414806, RESELLER, f08c47fec0942fa0
+rubiconproject.com, 11618, RESELLER, 0bfd66d529a55807
+lkqd.com, 108, RESELLER, 59c49fa9598a0117
+lkqd.net, 108, RESELLER, 59c49fa9598a0117
+beachfront.com, 13166, RESELLER, e2541279e8e2ca4d
+
+#Index Exchange
+indexexchange.com, 190640, DIRECT
+
+#Rubicon
+rubiconproject.com, 21498, DIRECT, 0bfd66d529a55807
+rubiconproject.com, 21500, DIRECT, 0bfd66d529a55807
+
+#Selectmedia
+spotxchange.com, 82810, RESELLER, 7842df1d2fe2db34
+spotx.tv, 82810, RESELLER, 7842df1d2fe2db34
+advertising.com, 7060, RESELLER
+adtech.com, 7060, RESELLER
+freewheel.tv, 144617, RESELLER
+freewheel.tv, 144633, RESELLER
+improvedigital.com, 1091, RESELLER
+contextweb.com, 560456, RESELLER, 89ff185a4c4e857c
+pubmatic.com, 157288, RESELLER, 5d62403b186f2ace
+tremorhub.com, cguke-k8ex0, RESELLER, 1a4e959a1b50034a
+pubmatic.com, 157512, RESELLER, 5d62403b186f2ace
+districtm.io, 101673, RESELLER
+appnexus.com, 1908, RESELLER, f5ab79cb980f11d1
+freewheel.tv, 890577, RESELLER
+freewheel.tv, 893377, RESELLER
+gumgum.com, 13679, RESELLER, ffdef49475d318a9
+advertising.com, 28230, RESELLER
+google.com, pub-4903453974745530, RESELLER, f08c47fec0942fa0
+rhythmone.com, 2288795184, RESELLER, a670c89d4a324e47
+rubiconproject.com, 20598, RESELLER, 0bfd66d529a55807
+openx.com, 540786724, RESELLER, 6a698e2ec38604c6
+freewheel.tv, 1025009, RESELLER
+freewheel.tv, 1024849, RESELLER
+admanmedia.com, 68, RESELLER
+appnexus.com, 8804, RESELLER, f5ab79cb980f11d1
+selectmedia.asia, 59945dbc28a0616dbd4c1669, DIRECT # banner, video

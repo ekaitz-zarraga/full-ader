@@ -1,0 +1,105 @@
+appnexus.com, 10188, direct
+gumgum.com,6715,DIRECT,ffdef49475d318a9 # TAM
+openx.com,537149485,reseller,6a698e2ec38604c6 #TAM GumGum
+rhythmone.com,78519861,reseller # TAM GumGum
+yieldmo.com, 2051407638696723807, DIRECT #TAM
+rubiconproject.com, 10035, Direct # TAM
+adtech.com, 12044, DIRECT #TAM OATH
+coxmt.com, 2000067907202, RESELLER #TAM OATH
+pubmatic.com, 157576, DIRECT, 5d62403b186f2ace #EBDA
+pubmatic.com, 156078, RESELLER #banner #TAM OATH
+pubmatic.com, 156377, RESELLER, 5d62403b186f2ace #TAM OATH
+openx.com, 537143344, RESELLER #banner #TAM OATH
+indexexchange.com, 175407, RESELLER, 50b1c356f2c5c8fc #TAM OATH
+appnexus.com, 1908, RESELLER, f5ab79cb980f11d1 #DistrictM TAM
+appnexus.com, 7597, RESELLER, f5ab79cb980f11d1 #Outbrain
+aps.amazon.com, 3258, DIRECT #video, banner
+districtm.io, 101389, DIRECT #TAM
+google.com, pub-1995032544933848, DIRECT, f08c47fec0942fa0 #Arcadium  
+google.com, pub-8193929163713607, DIRECT, f08c47fec0942fa0
+google.com, pub-4968145218643279, DIRECT, f08c47fec0942fa0 # video testing
+indexexchange.com, 186267, DIRECT #EBDA
+jadserve.postrelease.com, 13350, DIRECT, 59521ca7cc5e9fee #Nativo
+lkqd.com, 333, DIRECT, 59c49fa9598a0117 #inform #video
+outbrain.com, 00f6a824dfa79d875b506129350c1a46d4, DIRECT
+outbrain.com, 01abe6ad87876dd79f67aef9d8f89782ad, RESELLER
+rhythmone.com, 2305882417, DIRECT, a670c89d4a324e47 # EBDA
+rhythmone.com, 2432108893, DIRECT, a670c89d4a324e47 # EBDA
+rubiconproject.com, 13402, DIRECT, 0bfd66d529a55807 #inform #video
+rubiconproject.com, 16156, RESELLER, 0bfd66d529a55807 #Nativo
+rubiconproject.com, 17574, DIRECT, 0bfd66d529a55807 #EBDA
+sovrn.com, 243337, DIRECT, fafdf38b16bf6b2b #sovrn
+lijit.com, 243337, DIRECT, fafdf38b16bf6b2b #sovrn
+lijit.com, 243337-eb, DIRECT, fafdf38b16bf6b2b #sovrn
+appnexus.com, 1360, RESELLER, f5ab79cb980f11d1 #sovrn
+gumgum.com, 11645, RESELLER, ffdef49475d318a9 #sovrn
+openx.com, 538959099, RESELLER, 6a698e2ec38604c6 #sovrn
+openx.com, 539924617, RESELLER, 6a698e2ec38604c6 #sovrn
+pubmatic.com, 137711, RESELLER, 5d62403b186f2ace #sovrn
+pubmatic.com, 156212, RESELLER, 5d62403b186f2ace #sovrn
+pubmatic.com, 156700, RESELLER, 5d62403b186f2ace #sovrn
+rubiconproject.com, 17960, RESELLER, 0bfd66d529a55807 #sovrn
+subdomain=puzzles.philly.com #ComicsKingdom
+subdomain=v5.comicskingdom.net #ComicsKingdom
+undertone.com, 695, DIRECT
+appnexus.com, 10239, RESELLER, f5ab79cb980f11d1 #33Across
+33across.com,0014000001YrgHRAAZ,DIRECT, bbea06d9c4d2853c #display 33Across
+rubiconproject.com,16414,RESELLER, 0bfd66d529a55807 #display 33Across
+pubmatic.com,156423,RESELLER, 5d62403b186f2ace #display 33Across
+appnexus.com,10239,RESELLER, f5ab79cb980f11d1 #display 33Across 
+appnexus.com,1001,RESELLER, f5ab79cb980f11d1 #display #33Across
+appnexus.com,3135,RESELLER, f5ab79cb980f11d1 #display 33Across
+openx.com,537120563,RESELLER, 6a698e2ec38604c6 #display 33Across
+openx.com,539392223,RESELLER, 6a698e2ec38604c6 #display 33Across
+rhythmone.com,2439829435, RESELLER, a670c89d4a324e47 #display 33Across
+indexexchange.com,185506,RESELLER #33Across
+appnexus.com,1356,RESELLER, f5ab79cb980f11d1 #display 33Across 
+emxdgt.com,326,RESELLER, 1e1d41537f7cad7f #display 33Across
+google.com,pub-9557089510405422,RESELLER, f08c47fec0942fa0 #display 33Across
+criteo.com,3450,RESELLER #33Across
+adtech.com,9993,RESELLER  #33Across
+aolcloud.net,9993,RESELLER #33Across
+lkqd.com,293,RESELLER, 59c49fa9598a0117 #video 33Across
+lkqd.net293,RESELLER, 59c49fa9598a0117 #video 33Across
+spotxchange.com,139883,RESELLER, 7842df1d2fe2db34 #video 33Across
+spotx.tv,139883,RESELLER, 7842df1d2fe2db34 #video 33Across
+openx.com, 537140846, DIRECT, 6a698e2ec38604c6 #TAM 
+openx.com, 537091724, DIRECT, 6a698e2ec38604c6 # EBDA
+openx.com, 539306169, DIRECT, 6a698e2ec38604c6 # EBDA
+smaato.com, 1100036563, DIRECT # EBDA 
+advertising.com, 27677, DIRECT # OATH
+sonobi.com, a3fbc0bc51, DIRECT, d1a215d9eb5aee9e #TAM
+rhythmone.com, 1059622079, RESELLER, a670c89d4a324e47#Sonobi
+contextweb.com, 560606, RESELLER, 89ff185a4c4e857c #Sonobi
+pubmatic.com, 157657, DIRECT, 5d62403b186f2ace #TAM
+Media.net, 8CUPO1235, Direct # EBDA
+appnexus.com, 2234, RESELLER # Undertone
+openx.com, 537153564, RESELLER, 6a698e2ec38604c6 # Undertone 
+conversantmedia.com, 32311, DIRECT, 03113cd04947736d #TAM Conversant
+appnexus.com, 4052, RESELLER # TAM Conversant
+openx.com, 540031703, RESELLER, 6a698e2ec38604c6 #TAM Conversant
+contextweb.com, 561998, RESELLER, 89ff185a4c4e857c #TAM Conversant
+pubmatic.com, 158100, RESELLER, 5d62403b186f2ace #TAM Conversant
+Kargo.com, 3064, Direct # TAM
+Indexexchange.com, 184081, Reseller #TAM Kargo
+Yieldmo.com, 2231938050261943426, DIRECT # EBDA
+triplelift.com, 3074, DIRECT, 6c33edb13117fd86 # triplelift
+appnexus.com, 1314, RESELLER # triplelift
+spotxchange.com, 228454, RESELLER, 7842df1d2fe2db34 # triplelift
+spotx.tv, 228454, RESELLER, 7842df1d2fe2db34 # triplelift
+openx.com,540497671,DIRECT,6a698e2ec38604c6 #TAM
+Triplelift.com,2976,DIRECT,6c33edb13117fd86 #TAM
+connatix.com, 101142, DIRECT, 2af98acdee0e81ed #Connatix
+tremorhub.com, cd009, RESELLER, 1a4e959a1b50034a #Connatix
+telaria.com, cd009, RESELLER, 1a4e959a1b50034a #Connatix
+spotxchange.com, 136839, RESELLER, 7842df1d2fe2db34 #Connatix
+spotx.tv, 136839, RESELLER, 7842df1d2fe2db34 #Connatix
+openx.com, 539496816, RESELLER, 6a698e2ec38604c6 #Connatix
+rubiconproject.com, 19564, RESELLER, 0bfd66d529a55807 #Connatix
+google.com, pub-1929615694373103, RESELLER, f08c47fec0942fa0 #Connatix
+Appnexus.com, 9733, RESELLER #Connatix
+contextweb.com, 561340, RESELLER, 89ff185a4c4e857c #Connatix
+indexexchange.com, 190549, DIRECT #Connatix
+lkqd.net, 593, RESELLER, 59c49fa9598a0117 #Connatix
+lkqd.net,504,RESELLER,59c49fa9598a0117 #TripleLift
+nativo.com, 5337, DIRECT, 59521ca7cc5e9fee

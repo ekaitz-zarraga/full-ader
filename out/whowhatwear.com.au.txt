@@ -1,0 +1,101 @@
+google.com, pub-7071103729757397, DIRECT, f08c47fec0942fa0
+google.com, pub-7937849727608202, DIRECT, f08c47fec0942fa0
+districtm.io, 101097, DIRECT, 3fd707be9c4527c3
+appnexus.com, 1908, RESELLER
+appnexus.com, 7944, RESELLER
+sharethrough.com, 6dd21b00, DIRECT, d53b998a7bd4ecd2
+aps.amazon.com, 3349, DIRECT #video, banner
+appnexus.com, 8487, DIRECT, f5ab79cb980f11d1
+indexexchange.com, 184789, DIRECT
+indexexchange.com, 184145, DIRECT
+openx.com, 539297087, DIRECT, 6a698e2ec38604c6
+rubiconproject.com, 13464, DIRECT, 0bfd66d529a55807
+spotxchange.com, 215789, DIRECT, 7842df1d2fe2db34
+conversantmedia.com, 41146, DIRECT, 03113cd04947736d
+appnexus.com, 4052, RESELLER
+contextweb.com, 561998, RESELLER, 89ff185a4c4e857c
+openx.com, 540031703, RESELLER, 6a698e2ec38604c6
+kargo.com, 8382, direct
+Indexexchange.com, 184081, RESELLER
+contextweb.com, 562001, reseller, 89ff185a4c4e857c
+EMXDGT.com, 448, DIRECT, 1e1d41537f7cad7f
+emxdgt.com,1171589,DIRECT,1e1d41537f7cad7f
+EMXDGT.com, 1320, DIRECT, 1e1d41537f7cad7f
+Appnexus.com, 1356, RESELLER, f5ab79cb980f11d1
+Google.com, pub-5995202563537249, RESELLER, f08c47fec0942fa0
+contextweb.com, 561681, DIRECT, 89ff185a4c4e857c
+triplelift.com, 416, DIRECT, 6c33edb13117fd86
+appnexus.com, 1314, RESELLER
+# SOVRN
+sovrn.com, 244626, DIRECT, fafdf38b16bf6b2b
+lijit.com, 244626, DIRECT, fafdf38b16bf6b2b
+lijit.com, 244626-eb, DIRECT, fafdf38b16bf6b2b
+appnexus.com, 1360, RESELLER, f5ab79cb980f11d1
+gumgum.com, 11645, RESELLER, ffdef49475d318a9
+openx.com, 538959099, RESELLER, 6a698e2ec38604c6
+openx.com, 539924617, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 137711, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156212, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156700, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 17960, RESELLER, 0bfd66d529a55807
+# CONNATIX
+connatix.com, 102735, DIRECT, 2af98acdee0e81ed
+tremorhub.com, cd009, RESELLER, 1a4e959a1b50034a
+advertising.com, 3679, RESELLER
+advertising.com, 14564, RESELLER
+spotxchange.com, 136839, RESELLER, 7842df1d2fe2db34
+spotx.tv, 136839, RESELLER, 7842df1d2fe2db34
+openx.com, 539496816, RESELLER, 6a698e2ec38604c6
+google.com, pub-1929615694373103, RESELLER, f08c47fec0942fa0
+rubiconproject.com, 19564, RESELLER, 0bfd66d529a55807
+Appnexus.com, 9733, RESELLER
+contextweb.com, 561340, RESELLER, 89ff185a4c4e857c
+indexexchange.com, 190549, DIRECT
+telaria.com, cd009, RESELLER, 1a4e959a1b50034a
+lkqd.net, 593, RESELLER, 59c49fa9598a0117
+freewheel.tv, 1064705, RESELLER
+# AA
+districtm.io, 100974, RESELLER
+appnexus.com, 1908, RESELLER, f5ab79cb980f11d1
+appnexus.com, 7944, RESELLER, f5ab79cb980f11d1
+EMXDGT.com, 402, RESELLER, 1e1d41537f7cad7f
+Appnexus.com, 1356, RESELLER, f5ab79cb980f11d1
+appnexus.com, 3153, RESELLER, f5ab79cb980f11d1
+adtech.com, 11095, RESELLER
+pubmatic.com, 156077, RESELLER, 5d62403b186f2ace
+aol.com, 49648, RESELLER
+appnexus.com, 9393, RESELLER
+smartadserver.com,3056,RESELLER
+pubmatic.com,156439,RESELLER
+pubmatic.com, 154037,RESELLER
+sovrn.com, 257611,RESELLER, fafdf38b16bf6b2b
+appnexus.com,3703,RESELLER,f5ab79cb980f11d1
+sonobi.com, 783272317b , RESELLER
+indexexchange.com, 189775, RESELLER
+sovrn.com, 260380, RESELLER, fafdf38b16bf6b2b
+lijit.com, 260380, RESELLER, fafdf38b16bf6b2b
+appnexus.com, 1360, RESELLER, f5ab79cb980f11d1
+openx.com, 538959099, RESELLER, 6a698e2ec38604c6
+openx.com, 539924617, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 137711, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156212, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156700, RESELLER, 5d62403b186f2ace
+# OATH
+adtech.com, 11667, DIRECT
+advertising.com, 28437, direct
+advertising.com, 28541, DIRECT
+# UNDERTONE
+undertone.com, 3274, DIRECT
+appnexus.com, 2234, RESELLER
+openx.com, 537153564, RESELLER, 6a698e2ec38604c6
+springserve.com, 962, DIRECT, a24eb641fc82e93d
+google.com, pub-4968145218643279, DIRECT
+rhythmone.com,4049741778,DIRECT,a670c89d4a324e47
+rhythmone.com,2646796552,DIRECT,a670c89d4a324e47
+# YIELDMO
+yieldmo.com, 2279758406493348531, DIRECT
+yieldmo.com, 2346555361621647381, DIRECT
+# Q1 Media
+q1connect.com, 1ff8a7b5dc7a7d1f0ed65aaa29c04b1e, DIRECT
+spotxchange.com, 138602, RESELLER, 7842df1d2fe2db34
+spotx.tv, 138602, RESELLER, 7842df1d2fe2db34

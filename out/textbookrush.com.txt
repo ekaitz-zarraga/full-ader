@@ -1,0 +1,92 @@
+﻿<!DOCTYPE html>
+    <head>
+        <meta name="robots" content="noindex" />
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <meta name="viewport" content="width=device-width">  
+        <title>Internal server error (500) - TextbookRush</title>
+        <link rel="stylesheet" type="text/css" href="/styles/global.css" />
+        <link rel="stylesheet" type="text/css" href="/styles/nav.css" />
+        <script src="js/vendor/modernizr-2.6.2.min.js"></script>
+		<script type="text/javascript" src="../scripts/jquery-1.8.2.min.js"></script>
+    </head>
+    <body>
+        <div class="new-rules">
+            <div class="header no-nav-header">
+                <a href="/" title="TextbookRush home page" aria-label="TextbookRush home page">
+                    <img class="logo" src="/images/TextbookRuch_checkout_logo.jpg" alt="TextbookRush logo" />
+                </a>
+            </div>
+            <div class="content">
+                <div class="section">
+                    <h1 class="error-page-title">Internal server error (500)</h1>
+                    <p>We&rsquo;re sorry. You have encountered a temporary error while using our system. We&rsquo;ve logged the error and notified our support personnel. We&rsquo;ll have the problem rectified shortly.</p>
+                </div>
+                <div class="section">
+                    <h2 class="daredevil helpful-links-title">Helpful links</h2>
+                    <div class="helpful-links">
+                        <div class="col-group">
+                            <div class="col-1-of-2">
+                                <ul class="helpful-links-list">
+                                    <li><a runat="server" href="/">Home</a></li>
+                                    <li><a runat="server" href="/account/my-textbookrush-account.aspx">My account</a></li>
+                                    <li><a runat="server" href="/help/default.aspx">Help</a></li>
+                                    <li><a runat="server" href="/sitemap.aspx">Sitemap</a></li>
+                                    <li><a runat="server" href="/help/contact-textbookrush.aspx">Contact us</a></li>
+                                </ul>
+                            </div>
+                            <div class="col-1-of-2">
+                                <ul class="helpful-links-list">
+                                    <li><a runat="server" href="/browse/textbooks/">Buy textbooks</a></li>
+                                    <li><a runat="server" href="/browse/books/">Buy books</a></li>
+                                    <li><a runat="server" href="/browse/videos/">Buy movies</a></li>
+                                    <li><a runat="server" href="/browse/games/">Buy games</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="footer">
+                <div class="footer-misc">
+                    <div class="footer-badges">
+                        <ul>
+                            <li>
+                                <!-- McAfee SECURE Engagement Trustmark for www.textbookrush.com -->
+                                <a href="https://www.mcafeesecure.com/verify?host=www.textbookrush.com" target="_blank" title="TextbookRush on McAfee">
+                                    <img class="mfes-trustmark mfes-trustmark-hover" border="0" src="//cdn.ywxi.net/meter/www.textbookrush.com/102.gif?w=74" width="74" height="30" title="McAfee SECURE sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" alt="McAfee SECURE sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" oncontextmenu="alert('Copying Prohibited by Law - McAfee Secure is a Trademark of McAfee, Inc.'); return false;" />
+                                </a>
+                                <!-- End McAfee SECURE Engagement Trustmark -->
+                            </li>
+                            <li>
+                                <a href="https://www.bbb.org/centralohio/business-reviews/books-textbooks-new-and-used/textbooksruscom-in-grandview-heights-oh-65004202" target="_blank" title="TextbookRush on BBB">
+                                    <img src="/images/validation/bbb-a-plus-icon.png" alt="Better Business Bureau A+ rating" />
+                                </a>
+                            </li>
+                            <li>
+                                <div id="961e2468-3a27-45a4-aca9-1540ab53fbab">
+                                    <script type="text/javascript" src="//privacy-policy.truste.com/privacy-seal/TextbookRush/asc?rid=961e2468-3a27-45a4-aca9-1540ab53fbab"></script>
+                                    <a href="//privacy.truste.com/privacy-seal/TextbookRush/validation?rid=fd7401bb-1bf2-4268-8e6b-0b52b5c1af9c" title="TRUSTe online privacy certification" target="_blank" title="TextbookRush on TRUSTe">
+                                        <img style="border:none;" src="//privacy-policy.truste.com/privacy-seal/TextbookRush/seal?rid=fd7401bb-1bf2-4268-8e6b-0b52b5c1af9c" alt="TRUSTe online privacy certification" />
+                                    </a>
+                                </div>
+                            </li>
+                            <li>
+                                <a href="https://www.resellerratings.com/store/TextbooksRus" title="View our reviews on Reseller Ratings" target="_blank">
+                                    <img src="/images/validation/reseller-ratings-icon.png" alt="Reseller Ratings Elite Member" />
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="footer-logo">
+                        <img class="wascally-wabbit" src="/images/nav/footer-logo@2x.png" alt="TextbookRush rabbit icon" width="43" height="36" />
+                        <div class="footer-logo-text">
+                            &copy; 2002-2017
+                            <br />TextbookRush
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>

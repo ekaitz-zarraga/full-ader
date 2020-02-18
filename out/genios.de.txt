@@ -1,0 +1,118 @@
+﻿# app-ads.txt file for Sites within iq digital media marketing gmbh network Q3_19_v1
+google.com, pub-6583763995580712, DIRECT, f08c47fec0942fa0 #AdSense
+google.com, pub-7198215319463257, DIRECT, f08c47fec0942fa0 #AdX
+Smaato.com, 1100040727, Direct
+openx.com, 540105372, DIRECT, 6a698e2ec38604c6
+indexexchange.com, 187580, DIRECT
+appnexus.com, 6975, DIRECT, f5ab79cb980f11d1
+ad.yieldlab.net, 21719, DIRECT
+smartclip.net, 7650, DIRECT
+smartclip.net, 7923, DIRECT
+smartclip.net, 7738, DIRECT
+yieldlab.net, 5798882, RESELLER #Publicis
+yieldlab.net, 506261, RESELLER #PREX
+yieldlab.net, 6374282, RESELLER #OMG
+pubmatic.com, 157798,DIRECT,5d62403b186f2ace
+# Ligatus Start
+ligadx.com,18875,DIRECT
+ligadx.com,c986ac28768a1430,DIRECT
+ligadx.com,18879,DIRECT
+ligadx.com,7f9931c8b9696394,DIRECT
+ligadx.com,18883,DIRECT
+ligadx.com,6398a6300d0925ba,DIRECT
+ligadx.com,22352,DIRECT
+ligadx.com,dfc1ecc6c5f4ab2e,DIRECT
+ligadx.com,18885,DIRECT
+ligadx.com,3aec7f42fd69c458,DIRECT
+ligadx.com,22354,DIRECT
+ligadx.com,8c822da7156cc207,DIRECT
+ligadx.com,18895,DIRECT
+ligadx.com,d4860f3c774c5772,DIRECT
+ligadx.com,18897,DIRECT
+ligadx.com,207719e24efc1d0a,DIRECT
+ligadx.com,18899,DIRECT
+ligadx.com,a243db0f8cadc8fc,DIRECT
+ligadx.com,18881,DIRECT
+ligadx.com,6180178b1a69ece9,DIRECT
+spotxchange.com,206177,RESELLER,7842df1d2fe2db34
+spotx.tv,206177,RESELLER,7842df1d2fe2db34
+AppNexus.com,3723,DIRECT
+# Ligatus Ende
+# Ads.txt file IP Deutschland Network for Instream/Outstream (Start)
+smartclip.net, 8225, DIRECT #IPD
+spotx.tv, 106817, DIRECT, #IPD
+spotx.tv, 152009, DIRECT #IPA
+spotxchange.com, 245212, RESELLER, 7842df1d2fe2db34
+spotx.tv, 245212, RESELLER, 7842df1d2fe2db34
+spotx.tv, 149950, RESELLER, 7842df1d2fe2db34 #smartclip outstream backfill
+spotx.tv, 207262, RESELLER, #smartclip outstream
+smartclip.net, 894, DIRECT #smartclip outstream
+spotx.tv, 136947, RESELLER, #Delta
+google.com, pub-3057818873023700, RESELLER #Goldbach CH
+appnexus.com, 3528, RESELLER # Goldbach CH Xaxis
+appnexus.com, 1851, RESELLER # Goldbach CH Xaxis
+appnexus.com, 3741, RESELLER # Goldbach Appnexus
+appnexus.com, 9242, RESELLER # Goldbach Appnexus
+appnexus.com, 7445, RESELLER # IPD Xaxis
+aps.amazon.com, 3137, RESELLER #NETLETIX Amazon Werbenetzwerk InStream
+# Ads.txt file IP Deutschland Network for Instream/Outstream (End)
+#twiago (start)
+twiago.com,496,RESELLER
+twiago.com,1043,RESELLER
+twiago.com,64,RESELLER
+twiago.com,578,RESELLER
+twiago.com,47,RESELLER
+twiago.com,235,RESELLER
+twiago.com,740,RESELLER
+twiago.com,1047,RESELLER
+twiago.com,303,RESELLER
+twiago.com,638,RESELLER
+twiago.com,324,RESELLER
+twiago.com,1212,RESELLER
+twiago.com,1031,RESELLER
+twiago.com,1030,RESELLER
+twiago.com,1053,RESELLER
+twiago.com,1049,RESELLER
+twiago.com,628,RESELLER
+twiago.com,641,RESELLER
+twiago.com,65,RESELLER
+twiago.com,463,RESELLER
+twiago.com,302,RESELLER
+twiago.com,1048,RESELLER
+twiago.com,147,RESELLER
+twiago.com,236,RESELLER
+twiago.com,629,RESELLER
+twiago.com,640,RESELLER
+twiago.com,63,RESELLER
+twiago.com,464,RESELLER
+#twiago (end)
+#Stailamedia AG Start
+appnexus.com, 1504, RESELLER, f5ab79cb980f11d1
+google.com, pub-9485981123373313, RESELLER, f08c47fec0942fa0
+appnexus.com, 1504, RESELLER, f5ab79cb980f11d1
+freewheel.tv, 228, RESELLER
+#Stailamedia AG Ende
+#Start Triplelift
+triplelift.com,6813,Direct,6c33edb13117fd86
+triplelift.com,6818,Direct,6c33edb13117fd86
+triplelift.com,6814,Direct,6c33edb13117fd86
+triplelift.com,6815,Direct,6c33edb13117fd86
+triplelift.com,6816,Direct,6c33edb13117fd86
+triplelift.com,6817,Direct,6c33edb13117fd86
+triplelift.com,6819,Direct,6c33edb13117fd86
+triplelift.com,6695,Direct,6c33edb13117fd86
+triplelift.com,6820,Direct,6c33edb13117fd86
+triplelift.com,6821,Direct,6c33edb13117fd86
+triplelift.com,6822,Direct,6c33edb13117fd86
+triplelift.com,6823,Direct,6c33edb13117fd86
+triplelift.com,6824,Direct,6c33edb13117fd86
+triplelift.com,6812,Direct,6c33edb13117fd86
+triplelift.com,6825,Direct,6c33edb13117fd86
+triplelift.com,6826,Direct,6c33edb13117fd86
+appnexus.com,1314,Reseller
+#EndTriplelift
+# Falls vorhanden hier nach die SSPs der Mandanten
+# Ads.txt file IP Deutschland Network for Instream/Outstream (End)
+google.com, pub-0804872671836938, DIRECT, f08c47fec0942fa0
+
+

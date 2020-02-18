@@ -1,0 +1,20 @@
+#ads.txt interfax.com.ua
+
+# interfax account
+google.com, pub-3132297694190262, DIRECT, f08c47fec0942fa0
+
+# interfax_amp account
+google.com, pub-3630380081362491, DIRECT, f08c47fec0942fa0
+
+# ukr.net
+google.com, pub-6357157020881797, reseller, f08c47fec0942fa0
+
+# admixer
+admixer.net, 94f37883-0306-47d8-a519-92edb7c8f1e3, DIRECT
+google.com, pub-3379969116950199, reseller, f08c47fec0942fa0
+smartadserver.com, 1994, reseller
+appnexus.com, 6953, reseller
+adform.com, 1762, reseller
+
+# Go2net
+admixer.net, 2be71969-36a1-4b03-8d3b-8ad7e36f9154, DIRECT

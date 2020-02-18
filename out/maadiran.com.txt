@@ -1,0 +1,16 @@
+border 0
+height 69
+ width 183
+*
+images/LS50-UE-adrotate-last.gif
+http://www.yahoo.com/
+gif
+20
+persian/images/notebook_Adv_Default_Right.jpg
+http://www.msn.com/
+jpg
+20
+persian/images/Notebook-Guarantee.swf
+http://www.google.com/
+swf
+20

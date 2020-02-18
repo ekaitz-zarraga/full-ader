@@ -1,0 +1,47 @@
+#CCPHv1.11.
+google.com, pub-4307100767376023, RESELLER, f08c47fec0942fa0
+google.com, pub-3910281248157208, RESELLER, f08c47fec0942fa0
+adform.com, 9, RESELLER
+appnexus.com, 3549, RESELLER
+appnexus.com, 2954, RESELLER
+freewheel.tv, 184361, RESELLER
+widespace.com, 13262, RESELLER
+improvedigital.com, 1166, RESELLER
+pubmatic.com, 156098, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 17246, RESELLER, 0bfd66d529a55807
+openx.com, 540158399, RESELLER, 6a698e2ec38604c6
+rubiconproject.com, 19272, RESELLER, 0bfd66d529a55807
+adform.com, 638, RESELLER
+indexexchange.com, 188938, RESELLER
+adform.com, 2375, RESELLER
+teads.tv, 15896, RESELLER, 15a9c44f6d26cbe
+improvedigital.com, 1289, RESELLER  
+
+#prerollinvent
+vi.ai, 142848621931306, DIRECT
+spotxchange.com,104684,RESELLER,7842df1d2fe2db34
+spotx.tv, 104684, RESELLER, 7842df1d2fe2db34
+freewheel.tv, 440657, RESELLER
+freewheel.tv, 440673, RESELLER
+smartadserver.com,2776,RESELLER
+pubmatic.com, 158055, RESELLER, 5d62403b186f2ace
+advertising.com,24831,reseller
+appnexus.com, 10736, RESELLER
+google.com, pub-5617098146054077, RESELLER, f08c47fec0942fa0
+openx.com, 540362347, RESELLER, 6a698e2ec38604c6
+video.unrulymedia.com, UNRX-PUB-ae2f32ae-ac0b-4413-a7d9-eb3e3be3da3b, DIRECT
+indexexchange.com, 182257, RESELLER
+appnexus.com, 6849, RESELLER
+smartclip.net, 9796, DIRECT
+freewheel.tv, 170057, RESELLER
+openx.com, 540653789, RESELLER, 6a698e2ec38604c6
+indexexchange.com, 189507, RESELLER
+pubmatic.com, 158090, RESELLER, 5d62403b186f2ace
+sovrn.com, 267974, RESELLER, fafdf38b16bf6b2b
+lijit.com, 267974, RESELLER, fafdf38b16bf6b2b
+openx.com, 540447820, RESELLER, 6a698e2ec38604c6
+Indexexchange.com, 190500, RESELLER
+pubmatic.com, 158846, RESELLER, 5d62403b186f2ace
+pubmatic.com, 158847, RESELLER, 5d62403b186f2ace
+improvedigital.com, 1487, RESELLER
+adform.com, 2572, RESELLER

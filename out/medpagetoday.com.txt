@@ -1,0 +1,13 @@
+#Ads.txt medpagetoday.com
+
+google.com, pub-8228251605965337, DIRECT, f08c47fec0942fa0 #display
+google.com, pub-4691987682018836, DIRECT, f08c47fec0942fa0 
+indexexchange.com, 184746, DIRECT #display
+openx.com, 537150862, DIRECT #display
+openx.com, 539013327, DIRECT #display
+rubiconproject.com, 13346, DIRECT #display
+rubiconproject.com, 17750, DIRECT, 0bfd66d529a55807
+liveintent.com, 6204, DIRECT #email
+liveintent.com, 15143, DIRECT #email
+liveintent.com, 15384, DIRECT #email
+districtm.io, 101073, DIRECT #display

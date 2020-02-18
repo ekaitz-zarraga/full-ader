@@ -1,0 +1,73 @@
+google.com, pub-8672827648650156, DIRECT, f08c47fec0942fa0
+google.com, pub-5140015289247430, DIRECT, f08c47fec0942fa0
+indexexchange.com, 186502, DIRECT
+pubmatic.com, 157364, DIRECT
+triplelift.com, 5145, DIRECT 
+rubiconproject.com, 17868, DIRECT
+rubiconproject.com, 183350, DIRECT
+openx.com, 539612664, DIRECT, 6a698e2ec38604c6
+rhythmone.com, 1942009976, DIRECT, a670c89d4a324e47
+smaato.com, 1100004890, DIRECT
+
+# Mars
+lkqd.com, 80, RESELLER, 59c49fa9598a0117
+lkqd.net, 80, RESELLER, 59c49fa9598a0117
+mars.media, 102677, DIRECT, 
+springserve.com, 233, RESELLER, a24eb641fc82e93d
+advertising.com, 6814, RESELLER, 
+mediabong.com, 2657, RESELLER, 
+rubiconproject.com, 18230, RESELLER, 
+mediabong.com, 2657, DIRECT, 
+improvedigital.com, 1210, DIRECT, 
+resultsmedia.com, 82677, DIRECT, 
+improvedigital.com, 1221, RESELLER, 
+inmobi.com, 9534143ce75e41b98896e9ffce14d2e6, RESELLER, 83e75a7ae333ca9d
+spotxchange.com, 246977, DIRECT, 7842df1d2fe2db34
+spotx.tv, 246977, DIRECT, 7842df1d2fe2db34
+pubmatic.com, 158087, DIRECT, 5d62403b186f2ace
+pubmatic.com, 158086, DIRECT, 5d62403b186f2ace
+inmobi.com, 2ce3487332a74ffdbf734480429de58d, RESELLER, 83e75a7ae333ca9d
+google.com, pub-3805568091292313, RESELLER, f08c47fec0942fa0
+exponential.com, 176980, DIRECT, afac06385c445926
+tribalfusion.com, 176980, DIRECT, afac06385c445926
+indexexchange.com, 176980, RESELLER, 50b1c356f2c5c8f
+ccontextweb.com, 558827, RESELLER, 89ff185a4c4e857c
+
+indexexchange.com, 186502, DIRECT
+triplelift.com, 5922, DIRECT, 6c33edb13117fd86
+triplelift.com, 5922-EB, DIRECT, 6c33edb13117fd86
+
+rubiconproject.com, 17092, DIRECT, 0bfd66d529a55807
+rubiconproject.com, 17868, DIRECT, 0bfd66d529a55807
+mopub.com, 3f690bd4e9c243a48c7cd82bd7285fa4, DIRECT, 74b46c0ea83967ca
+
+#Velis Media
+gemlix.com, 10001, Direct
+velismedia.com, 725, Direct
+google.com, pub-8804303781641925, Reseller, f08c47fec0942fa0
+telaria.com, e8okc, Reseller, 1a4e959a1b50034a
+freewheel.tv, 352529, RESELLER
+freewheel.tv, 352545, RESELLER
+lkqd.com, 181, RESELLER, 59c49fa9598a0117
+lkqd.net, 181, RESELLER, 59c49fa9598a0117
+tremorhub.com, e8okc, Reseller, 1a4e959a1b50034a
+contextweb.com, 561073, RESELLER, 89ff185a4c4e857c
+beachfront.com, 8434, RESELLER, e2541279e8e2ca4d
+improvedigital.com, 1229, Reseller
+mobfox.com, 80215, Reseller
+advertising.com, 26192, Reseller
+adtech.com, 26192, Reseller
+aol.com, 26192, Reseller
+beachfront.com, 8434, Reseller
+admixer.net, 2ea36020-047e-4a89-ad9b-634cf65d2737, Reseller
+kubient.com, 5Cfa6Ed46E352, RESELLER, 4f12311e6ed900a3
+kubient.com, 5C915B4Cd009D, RESELLER, 4f12311e6ed900a3
+pubmatic.com,157384,RESELLER,5d62403b186f2ace
+reforge.in,179,RESELLER
+inmobi.com, d44cae9d1c4c4200bdf9db69a82628bd, RESELLER, 83e75a7ae333ca9d
+rubiconproject.com, 11726, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 12266, RESELLER, 0bfd66d529a55807
+pubmatic.com, 157097, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156931, RESELLER, 5d62403b186f2ace
+pubmatic.com, 157153, RESELLER, 5d62403b186f2ace
+rubiconproject.com,16990, RESELLER, 0bfd66d529a55807

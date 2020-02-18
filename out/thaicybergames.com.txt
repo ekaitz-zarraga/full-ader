@@ -1,0 +1,15 @@
+<!-- BEGIN ASIASOFT CODE BLOCK -->
+
+<SCRIPT language="JavaScript" type="text/javascript">
+<!--
+document.write('<SCR'+'IPT src="http://203.144.244.116/advertpro/servlet/view/banner/javascript/zone?zid=529&pid=0&random='+Math.floor(89999999*Math.random()+10000000)+'&millis='+new Date().getTime()+'" language="JavaScript" type="text/javascript"></SCR'+'IPT>');
+//-->
+</SCRIPT>
+<NOSCRIPT>
+<A href="http://203.144.244.116/advertpro/servlet/click/zone?zid=529&pid=0&lookup=true&position=1" target="_blank">
+<IMG src="http://203.144.244.116/advertpro/servlet/view/banner/image/zone?zid=529&pid=0&position=1" hspace="0" vspace="0" border="0" alt="Click Here!">
+</A>
+</NOSCRIPT>
+
+<!-- END ASIASOFT CODE BLOCK -->
+~

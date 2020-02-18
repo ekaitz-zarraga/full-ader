@@ -1,0 +1,22 @@
+google.com, pub-2075925504691751, DIRECT, f08c47fec0942fa0
+adform.com, 589, RESELLER
+adtech.com, 4474.1, RESELLER
+aol.com, 4474.1, RESELLER
+appnexus.com, 7279, RESELLER
+openx.com, 537143205, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 156036, RESELLER, 5d62403b186f2ace
+smartadserver.com, 384, RESELLER
+google.com, pub-2365165112249593, RESELLER, f08c47fec0942fa0
+google.com, pub-2386558369721555, RESELLER, f08c47fec0942fa0
+atemda.com, 435, RESELLER
+atemda.com, 580, RESELLER
+atemda.com, 492, RESELLER
+appnexus.com, 1583, RESELLER
+contextweb.com, 561485, RESELLER, 89ff185a4c4e857c
+indexexchange.com,179394,RESELLER,50b1c356f2c5c8fc
+contextweb.com,560288,RESELLER,89ff185a4c4e857c
+pubmatic.com,156439,RESELLER
+rubiconproject.com,16114,RESELLER
+openx.com,537149888,RESELLER,a698e2ec38604c6
+
+#contact: programmatic@spolecznosci.pl

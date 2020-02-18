@@ -1,0 +1,15 @@
+﻿#kiwihk.net
+
+Kiwihk, 7082, DIRECT
+
+ucfunnel.com, par-AEE62927898A96BC844E2393333B999, DIRECT
+
+aralego.com, par-AEE62927898A96BC844E2393333B999, DIRECT
+
+adsfactor.net, 10215, RESELLER
+adsfactor.net, 1137, RESELLER
+appnexus.com , 3925 , RESELLER
+
+google.com, pub-9373301388979452, DIRECT, f08c47fec0942fa0
+google.com, pub-5454875279695201, RESELLER, f08c47fec0942fa0
+subdomain=pad.skyozora.com

@@ -1,0 +1,12 @@
+# AdSense
+google.com, pub-5131880798554107, DIRECT, f08c47fec0942fa0
+google.com, pub-5131880798554107, RESELLER, f08c47fec0942fa0
+google.com, pub-3475917055472523, DIRECT, f08c47fec0942fa0
+google.com, pub-3475917055472523, RESELLER, f08c47fec0942fa0
+
+# Conversant
+conversantmedia.com, 31474, DIRECT
+appnexus.com, 4052, RESELLER
+openx.com, 540031703, RESELLER, 6a698e2ec38604c6
+contextweb.com, 561998, RESELLER, 89ff185a4c4e857c
+pubmatic.com, 158100, RESELLER, 5d62403b186f2ace

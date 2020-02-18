@@ -1,0 +1,70 @@
+# Google
+google.com, pub-2460407544523398, DIRECT, f08c47fec0942fa0 
+google.com, pub-1155497207193505, DIRECT, f08c47fec0942fa0
+
+# Mediasquare
+appnexus.com, 1608, RESELLER, f5ab79cb980f11d1
+appnexus.com, 3500, RESELLER, f5ab79cb980f11d1
+appnexus.com, 8494, RESELLER, f5ab79cb980f11d1
+rubiconproject.com, 9585, RESELLER, 0bfd66d529a55807
+indexexchange.com, 187149, RESELLER
+smartadserver.com, 1338, RESELLER
+spotxchange.com, 241646, RESELLER, 7842df1d2fe2db34
+spotx.tv, 241646, RESELLER, 7842df1d2fe2db34
+smartadserver.com, 1827, RESELLER
+improvedigital.com, 335, RESELLER
+appnexus.com, 3538, RESELLER
+appnexus.com, 3539, RESELLER
+appnexus.com, 3540, RESELLER
+adyoulike.com, 662483e9c6600a0e9e743273545577f2, DIRECT, 4ad745ead2958bf7
+freewheel.tv, 745362, RESELLER
+freewheel.tv, 745378, RESELLER
+spotxchange.com, 230037, RESELLER, 7842df1d2fe2db34
+spotx.tv, 230037, RESELLER, 7842df1d2fe2db34
+tremorhub.com, ewut4-b6zwq, RESELLER, 1a4e959a1b50034a 
+rubiconproject.com, 20736, RESELLER, 0bfd66d529a55807
+freewheel.tv, 727410, RESELLER
+freewheel.tv, 727426, RESELLER
+
+
+
+# Teads
+teads.tv, 3437, DIRECT, 15a9c44f6d26cbe1 
+
+# Taboola
+taboola.com,1012250,DIRECT,c228e6794e811952
+spotx.tv,71451,RESELLER
+spotxchange.com, 71451, RESELLER
+advertising.com, 8603, RESELLER
+advertising.com, 3531, RESELLER
+pubmatic.com, 156307, RESELLER, 5d62403b186f2ace
+appnexus.com, 3364, RESELLER
+Indexexchange.com, 183756, RESELLER
+contextweb.com, 560382, RESELLER
+openx.com, 539154393, RESELLER
+tremorhub.com, z87wm, RESELLER, 1a4e959a1b50034a
+rubiconproject.com, 16698, RESELLER, 0bfd66d529a55807
+fyber.com, ad9de41d28d494354b23133f26f83122, RESELLER
+fyber.com, 1a12a7e3f84fe560ccf95a3a73043abb, RESELLER
+freewheel.tv, 799841, RESELLER
+freewheel.tv, 799921, RESELLER
+aol.com, 53392, RESELLER
+rhythmone.com, 1166984029, RESELLER, a670c89d4a324e47
+smartadserver.com, 3563, RESELLER
+beachfront.com, 13749, RESELLER, e2541279e8e2ca4d
+advertising.com, 28458, RESELLER
+admanmedia.com, 556, RESELLER
+
+# Freewhel
+freewheel.tv, 1215, SELLER
+freewheel.tv, 5687, SELLER
+
+# Amazon UAM
+aps.amazon.com,a0d1d928-018c-49d4-88c0-c8552c87869f,DIRECT
+pubmatic.com,157150,RESELLER,5d62403b186f2ace
+openx.com,540191398,RESELLER,6a698e2ec38604c6
+rubiconproject.com,18020,RESELLER,0bfd66d529a55807
+appnexus.com,1908,RESELLER,f5ab79cb980f11d1
+adtech.com,12068,RESELLER
+districtm.io,100962,RESELLER
+rhythmone.com,1654642120,RESELLER,a670c89d4a324e47

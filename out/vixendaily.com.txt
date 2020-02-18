@@ -1,0 +1,60 @@
+google.com, pub-6588414235746257, DIRECT, f08c47fec0942fa0
+google.com, pub-4566592844615097, RESELLER
+google.com, pub-0195859006077389, RESELLER
+appnexus.com, 3702, RESELLER
+sovrn.com, 237756, DIRECT, fafdf38b16bf6b2b
+conversantmedia.com, 40813, DIRECT
+appnexus.com, 4052, RESELLER
+teads.tv, 13540, DIRECT, 15a9c44f6d26cbe1
+google.com, pub-7439041255533808, RESELLER
+media.net, 8CUQPWO31, DIRECT
+openx.com, 537100188, RESELLER
+
+aps.amazon.com, bb80eb75-5aab-4667-a621-341f9a190066, DIRECT #display
+contextweb.com, 561562, RESELLER, 89ff185a4c4e857 #display
+c1exchange.com, c1x_a9_uampubs, RESELLER #display
+coxmt.com, 2000068024302, RESELLER #display
+districtm.io, 100962, RESELLER #display
+appnexus.com, 1908, RESELLER, f5ab79cb980f11d1 #display
+rubiconproject.com, 18020, RESELLER, 0bfd66d529a55807
+
+# Connatix
+connatix.com, 102681, DIRECT, 2af98acdee0e81ed
+tremorhub.com, cd009, RESELLER, 1a4e959a1b50034a
+telaria.com, cd009, RESELLER, 1a4e959a1b50034a
+spotxchange.com, 136839, RESELLER, 7842df1d2fe2db34
+spotx.tv, 136839, RESELLER, 7842df1d2fe2db34
+openx.com, 539496816, RESELLER, 6a698e2ec38604c6
+rubiconproject.com, 19564, RESELLER, 0bfd66d529a55807
+google.com, pub-1929615694373103, RESELLER, f08c47fec0942fa0
+Appnexus.com, 9733, RESELLER
+contextweb.com, 561340, RESELLER, 89ff185a4c4e857c
+indexexchange.com, 190549, DIRECT
+lkqd.net, 593, RESELLER, 59c49fa9598a0117
+
+# Amazon
+aps.amazon.com,bb80eb75-5aab-4667-a621-341f9a190066,DIRECT
+pubmatic.com,157150,RESELLER,5d62403b186f2ace
+openx.com,540191398,RESELLER,6a698e2ec38604c6
+rubiconproject.com,18020,RESELLER,0bfd66d529a55807
+appnexus.com,1908,RESELLER,f5ab79cb980f11d1
+adtech.com,12068,RESELLER
+districtm.io,100962,RESELLER
+rhythmone.com,1654642120,RESELLER,a670c89d4a324e47
+
+#Amazon
+adtech.com,12068,RESELLER,e1a5b5b6e3255540
+
+#Amazon US Account
+districtm.io,100962,RESELLER,3fd707be9c4527c3
+
+# District M
+districtm.io, 101813,DIRECT 
+appnexus.com, 1908, RESELLER, f5ab79cb980f11d1 
+google.com, pub-9685734445476814, RESELLER, f08c47fec0942fa0 
+
+#IndexExchange
+indexexchange.com, 189894, DIRECT
+
+#Improve Digital 
+improvedigital.com, 1260, RESELLER

@@ -1,0 +1,136 @@
+#ads.txt famefocus.com
+
+#monkeymedia
+#adsense
+google.com, pub-6086386059839937, DIRECT, f08c47fec0942fa0
+#adx
+google.com, pub-9286830415181932, DIRECT, f08c47fec0942fa0
+#Teads
+teads.tv, 10161, DIRECT, 15a9c44f6d26cbe1
+#amazon
+aps.amazon.com,d6faa92a-343f-4dd1-8d68-c6f9ac932ecc,DIRECT
+pubmatic.com,157150,RESELLER,5d62403b186f2ace
+openx.com,540191398,RESELLER,6a698e2ec38604c6
+rubiconproject.com,18020,RESELLER,0bfd66d529a55807
+appnexus.com,1908,RESELLER,f5ab79cb980f11d1
+adtech.com,12068,RESELLER,e1a5b5b6e3255540
+districtm.io,100962,RESELLER
+rhythmone.com,1654642120,RESELLER,a670c89d4a324e47
+
+#outbrain
+outbrain.com, 0084955807c7fc2a178c6907beff08f32a, DIRECT
+outbrain.com, 0084955807c7fc2a178c6907beff08f32a, RESELLER
+appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
+tremorhub.com, q017o-78mlk, RESELLER, 1a4e959a1b50034a # Premium video demand aka "Telaria"
+teads.tv, 15429, RESELLER, 15a9c44f6d26cbe1 # Premium video demand
+advertising.com, 26154, RESELLER # Premium video demand
+spotxchange.com, 225721, RESELLER # Premium video demand
+Freewheel.tv, 741650, RESELLER # Premium video demand
+
+appnexus.com, 1613, RESELLER #defymedia
+appnexus.com, 3326, RESELLER #defymedia
+google.com, pub-1409765517756851, RESELLER #defymedia
+google.com, pub-4075894099602271, RESELLER #defymedia
+freewheel.tv, 146081, RESELLER #defymedia
+rubiconproject.com, 8861, RESELLER, 0bfd66d529a55807 #defymedia
+districtm.io, 100391, DIRECT #districtm
+appnexus.com, 1908, RESELLER #districtm
+#gumgum
+gumgum.com, 12005, DIRECT, ffdef49475d318a9 #gumgum
+33across.com, 33, RESELLER #gumgum
+adtech.com, 9904, RESELLER #gumgum
+advertising.com, 8603, RESELLER #gumgum
+aolcloud.net, 9904, RESELLER #gumgum
+appnexus.com, 1001, RESELLER, f5ab79cb980f11d1 #gumgum
+appnexus.com, 2758, RESELLER, f5ab79cb980f11d1 #gumgum
+appnexus.com, 3135, RESELLER, f5ab79cb980f11d1 #gumgum
+appnexus.com, 3364, RESELLER, f5ab79cb980f11d1 #gumgum
+bidtellect.com, 1407, RESELLER, 1c34aa2d85d45e93 #gumgum
+contextweb.com, 558355, RESELLER #gumgum
+contextweb.com, 560382, RESELLER #gumgum
+criteo.com, 109412, RESELLER, 9fac4a4a87c2a44f #gumgum
+criteo.com, 3450, RESELLER, 9fac4a4a87c2a44f #gumgum
+fyber.com, 1a12a7e3f84fe560ccf95a3a73043abb, RESELLER #gumgum
+fyber.com, ad9de41d28d494354b23133f26f83122, RESELLER #gumgum
+google.com, pub-3848273848634341, RESELLER, f08c47fec0942fa0 #gumgum
+google.com, pub-7439041255533808, RESELLER, f08c47fec0942fa0 #gumgum
+google.com, pub-9242135695870166, RESELLER, f08c47fec0942fa0 #gumgum
+google.com, pub-9557089510405422, RESELLER, f08c47fec0942fa0 #gumgum
+indexexchange.com, 177754, RESELLER, 50b1c356f2c5c8fc #gumgum
+Indexexchange.com, 183756, RESELLER, 50b1c356f2c5c8fc #gumgum
+media.net, 8CU5ZWB19, RESELLER #gumgum
+openx.com, 46857, RESELLER, 6a698e2ec38604c6 #gumgum
+openx.com, 537120563, RESELLER, 6a698e2ec38604c6 #gumgum
+openx.com, 537149485, RESELLER, 6a698e2ec38604c6 #gumgum
+pubmatic.com, 156307, RESELLER, 5d62403b186f2ace #gumgum
+pubmatic.com, 50758, RESELLER, 5d62403b186f2ace #gumgum
+revcontent.com, 76611, RESELLER #gumgum
+rubiconproject.com, 16698, RESELLER, 0bfd66d529a55807 #gumgum
+smaato.com, 1100033117, RESELLER #gumgum
+sovrn.com, 233111, RESELLER, fafdf38b16bf6b2b #gumgum
+spotx.tv, 147949, RESELLER, 7842df1d2fe2db34 #gumgum
+spotx.tv,71451,RESELLER, 7842df1d2fe2db34 #gumgum
+spotxchange.com, 147949, RESELLER, 7842df1d2fe2db34 #gumgum
+spotxchange.com, 71451, RESELLER, 7842df1d2fe2db34 #gumgum
+synacor.com, 81591, RESELLER #gumgum
+taboola.com, 1062984,RESELLER,c228e6794e811952 #gumgum
+tremorhub.com, z87wm, RESELLER, 1a4e959a1b50034a #gumgum
+
+#monetizemore
+EMXDGT.com, 88, RESELLER #banner, video, brealtime
+Appnexus.com, 1356, RESELLER #banner, video, brealtime
+appnexus.com, 3153, RESELLER #152media
+sovrn.com, 234206, RESELLER, fafdf38b16bf6b2b #sovrn
+lijit.com, 234206, RESELLER, fafdf38b16bf6b2b #sovrn
+openx.com, 537120960, RESELLER #sovrn
+openx.com, 83499, RESELLER #sovrn
+openx.com, 538959099, RESELLER #sovrn
+pubmatic.com, 137711, RESELLER #sovrn
+pubmatic.com, 156212, RESELLER #sovrn
+pubmatic.com, 62483, RESELLER #sovrn
+contextweb.com, 558511, RESELLER #sovrn
+gumgum.com, 11645, RESELLER, ffdef49475d318a9 #sovrn
+adtech.com, 10513, RESELLER #aol
+aolcloud.net, 10513, RESELLER #aol
+contextweb.com, 559994, RESELLER #komoona
+contextweb.com, 558570, RESELLER #komoona
+contextweb.com, 558869, RESELLER #komoona
+contextweb.com, 558843, RESELLER #komoona
+openx.com, 126686, RESELLER, a698e2ec38604c6 #komoona
+openx.com, 537120224, RESELLER, a698e2ec38604c6 #komoona
+pubmatic.com, 32702, RESELLER, 5d62403b186f2ace #komoona
+pubmatic.com, 51048, RESELLER, 5d62403b186f2ace #komoona
+pubmatic.com, 116164, RESELLER, 5d62403b186f2ace #komoona
+pubmatic.com, 156262, RESELLER, 5d62403b186f2ace #komoona
+smaato.com, 1100001651, RESELLER #komoona
+inner-active.com, 206458, DIRECT #komoona
+komoona.com, 256093, DIRECT #komoona
+triplelift.com, 4251, DIRECT #triplelift
+rhythmone.com, 2614004368, RESELLER, a670c89d4a324e47 #rhythmone
+rhythmone.com, 2775948227, RESELLER, a670c89d4a324e47 #rhythmone
+1rx.io, 2614004368, RESELLER, a670c89d4a324e47 #rhythmone
+springserve.com, 1, RESELLER #springserveAN
+tremorhub.com, 60629, RESELLER #springserveAN
+google.com, pub-6512936480753445, RESELLER #springserveAN
+spotx.tv, 111271, RESELLER #springserveAN
+spotxchange.com, 111271, RESELLER #springserveAN
+appnexus.com, 926, RESELLER #springserveAN
+appnexus.com, 1538, RESELLER #springserveAN
+advertising.com, 9008, RESELLER #springserveAN
+freewheel.tv, 208505, RESELLER #springserveAN
+freewheel.tv, 327377, RESELLER #springserveAN
+btrll.com, 6836428, RESELLER #springserveAN
+contextweb.com, 560580, RESELLER #springserveAN
+pubmatic.com, 156108, RESELLER, 5d62403b186f2ace #springserveAN
+pubmatic.com, 156410, RESELLER, 5d62403b186f2ace #springserveAN
+contextweb.com, 561503, RESELLER, 89ff185a4c4e857c #springserveAN
+appnexus.com, 3573, DIRECT #appnexus
+appnexus.com, 3153, RESELLER #152media
+sharethrough.com, b59fc0b8, DIRECT, d53b998a7bd4ecd2 #sharethrough
+spotxchange.com, 212457, RESELLER #sharethrough
+spotx.tv, 212457, RESELLER #sharethrough
+lockerdome.com, 10852900247427328, direct #lockerdome
+openx.com, 540472623, RESELLER, 6a698e2ec38604c6 #openx
+
+#temp - test
+google.com, pub-4968145218643279, DIRECT, f08c47fec0942fa0

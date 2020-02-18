@@ -1,0 +1,22 @@
+#ads.txt  
+
+admixer.net, cd2f80fe-bab2-4181-a0b8-e3f909202b6e, DIRECT
+google.com, pub-3379969116950199, reseller, f08c47fec0942fa0
+smartadserver.com, 1994, reseller
+appnexus.com, 6953, reseller
+adform.com, 1762, reseller
+contextweb.com, 561623, reseller, 89ff185a4c4e857c
+google.com, pub-7302036088769417, DIRECT, f08c47fec0942fa0
+google.com, pub-8484397318128349, DIRECT, f08c47fec0942fa0
+google.com, pub-8484397318128349, direct #text
+google.com, pub-5610649146674306, RESELLER, f08c47fec0942fa0
+google.com, pub-7104543801500968, RESELLER, f08c47fec0942fa0
+google.com, pub-6357157020881797, DIRECT, f08c47fec0942fa0
+news.gnezdo.ru, 10124, direct
+mixadvert.com, 1919, direct
+adpartner.pro, 452, direct, video
+mediawayss.com, 407, DIRECT
+google.com, pub-1965383259143495, RESELLER, f08c47fec0942fa0
+google.com, pub-6864402317197092, RESELLER, f08c47fec0942fa0
+freewheel.tv, 286994, RESELLER
+freewheel.tv, 291505, RESELLER

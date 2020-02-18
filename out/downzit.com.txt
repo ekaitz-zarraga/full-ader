@@ -1,0 +1,18 @@
+google.com, pub-5218887036994615, DIRECT, f08c47fec0942fa0
+subdomain=psiphon-pro.downzit.com/android
+subdomain=psiphon-3.downzit.com/windows
+subdomain=hotspot-shield.downzit.com/android
+subdomain=hotspot-shield-vpn.downzit.com/windows
+subdomain=apkpure.downzit.com/android
+subdomain=aptoide.downzit.com/android
+subdomain=apkmirror.downzit.com/android
+subdomain=google-play.downzit.com/android
+subdomain=pubg-mobile.downzit.com/android
+subdomain=shareit.downzit.com/android
+subdomain=facebook-lite.downzit.com/android
+subdomain=teamviewer.downzit.com/windows
+subdomain=whatsapp.downzit.com/android
+subdomain=itools.downzit.com/windows
+subdomain=kinemaster.downzit.com/android
+subdomain=wechat.downzit.com/android
+subdomain=viber.downzit.com/android

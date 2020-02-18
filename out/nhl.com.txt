@@ -1,0 +1,35 @@
+#bamtech-us
+google.com, pub-6463448043809360, DIRECT, f08c47fec0942fa0
+appnexus.com, 8695, DIRECT, f5ab79cb980f11d1
+spotxchange.com, 211936, DIRECT, 7842df1d2fe2db34
+spotx.tv, 211936, DIRECT, 7842df1d2fe2db34
+tremorhub.com, boug1-1j97s, DIRECT, 1a4e959a1b50034a
+telaria.com, boug1-1j97s, DIRECT, 1a4e959a1b50034a
+google.com, pub-9032764789774673, DIRECT, f08c47fec0942fa0
+synacor.com, 82176, DIRECT, e108f11b2cdf7d5b
+advertising.com, 19623, RESELLER
+appnexus.com, 310, RESELLER, f5ab79cb980f11d1
+appnexus.com, 9316, RESELLER, f5ab79cb980f11d1
+pubmatic.com, 156344, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 13344, RESELLER, 0bfd66d529a55807
+springserve.com, 278, RESELLER, a24eb641fc82e93d
+
+#rogers-canada
+google.com, pub-0942427266003794, RESELLER, f08c47fec0942fa0
+indexexchange.com, 184601, RESELLER , 50b1c356f2c5c8fc
+openx.com, 539462051, RESELLER , 6a698e2ec38604c6
+indexexchange.com, 184315, RESELLER, 50b1c356f2c5c8fc
+aps.amazon.com, 3719, RESELLER
+appnexus.com, 1321, RESELLER, f5ab79cb980f11d1
+districtm.io, 100127, RESELLER
+appnexus.com, 1908, RESELLER, f5ab79cb980f11d1
+openx.com, 540302365, RESELLER, 6a698e2ec38604c6
+
+#Smartclip International
+smartclip.net,784,DIRECT
+
+#NENT Group RTB SE
+freewheel.tv, 170057, RESELLER
+
+#NENT Group RTB FI
+freewheel.tv, 195321, RESELLER

@@ -1,0 +1,44 @@
+spotxchange.com, 153598, DIRECT, 7842df1d2fe2db34
+spotx.tv, 153598, DIRECT, 7842df1d2fe2db34
+google.com, pub-1313834454494130, DIRECT, f08c47fec0942fa0
+google.com, pub-2316275586951220, DIRECT, f08c47fec0942fa0
+google.com, pub-5192618204358860, DIRECT, f08c47fec0942fa0
+improvedigital.com, 545, DIRECT
+improvedigital.com, 1101, DIRECT
+improvedigital.com, 1299, DIRECT
+indexexchange.com, 188249, DIRECT
+pubmatic.com, 156946, DIRECT, 5d62403b186f2ace
+pubmatic.com, 158452, DIRECT, 5d62403b186f2ace
+appnexus.com, 9994, DIRECT
+advertising.com, 27287, DIRECT
+rubiconproject.com, 17394, DIRECT, 0bfd66d529a55807
+rubiconproject.com, 21426, DIRECT, 0bfd66d529a55807
+openx.com, 539366975, DIRECT, 6a698e2ec38604c6
+openx.com, 540471883, DIRECT, 6a698e2ec38604c6
+
+#Sublime skinz
+smartadserver.com, 1827, RESELLER
+improvedigital.com, 335, RESELLER
+appnexus.com, 3538, RESELLER
+appnexus.com, 3539, RESELLER
+appnexus.com, 3540, RESELLER
+freewheel.tv, 67849, RESELLER
+
+#Xaxis
+appnexus.com, 1788, RESELLER
+appnexus.com, 3090, RESELLER
+appnexus.com, 8232, RESELLER
+
+#Evolve media
+google.com, pub-7251173602125775, RESELLER, f08c47fec0942fa0
+
+#Arkadium
+google.com, pub-1995032544933848, RESELLER, f08c47fec0942fa0
+exponential.com, 151520, RESELLER, afac06385c445926
+indexexchange.com, 184999, RESELLER
+rubiconproject.com, 17214, RESELLER
+aps.amazon.com, 661990cc-08cb-45bb-9ee2-90c2a9034640, RESELLER
+adtech.com, 10469, RESELLER
+sovrn.com, 239073, RESELLER, fafdf38b16bf6b2b
+appnexus.com, 7541, RESELLER
+openx.com, 537120530, RESELLER, 6a698e2ec38604c6

@@ -1,0 +1,106 @@
+#Ads.txt for DMR Network
+
+#SpotX
+spotxchange.com, 145119, DIRECT, 7842df1d2fe2db34
+spotx.tv, 145119, DIRECT, 7842df1d2fe2db34
+
+#152 Media
+appnexus.com, 3153, DIRECT
+
+#495 Communications
+lkqd.net, 9, RESELLER, 59c49fa9598a0117
+lkqd.com, 9, RESELLER, 59c49fa9598a0117
+appnexus.com, 7096, RESELLER
+improvedigital.com, 1064, RESELLER
+advertising.com, 6291, RESELLER
+
+#9media
+9mediaonline.com,Direct, 1a34c
+Pubmatic.com, 39374, RESELLER, 5d62403b186f2ace 
+Pubmatic.com, 156819, RESELLER, 5d62403b186f2ace
+Pubmatic.com, 156820, RESELLER, 5d62403b186f2ace
+Freewheel.tv,295681,RESELLER 
+freewheel.tv, 299345, RESELLER
+Advertising.com, 19011, RESELLER
+lkqd.net, 51, RESELLER, 59c49fa9598a0117 
+lkqd.com, 51, RESELLER, 59c49fa9598a0117 
+improvedigital.com, 1154, RESELLER
+
+#Appnexus
+appnexus.com, 3287, RESELLER
+appnexus.com, 2530, RESELLER
+
+#Blue Water Ads
+Pilotx.tv, 3164, DIRECT
+fyber.com, 87e6c205797b093531996432a6e2f16a, RESELLER
+freewheel.tv, 721250, RESELLER
+smartadserver.com, 2313, RESELLER
+advertising.com, 3597, RESELLER
+adtech.com, 10871, RESELLER
+lkqd.net, 231, RESELLER, 59c49fa9598a0117
+lkqd.com, 231, RESELLER, 59c49fa9598a0117
+
+#Districtm
+districtm.io, 101113, DIRECT
+appnexus.com, 1908, RESELLER
+appnexus.com, 7944, RESELLER
+google.com, pub-9685734445476814, RESELLER, f08c47fec0942fa0
+
+#Freewheel
+freewheel.tv, 781073, DIRECT
+freewheel.tv, 781265, RESELLER
+
+#OpenX
+openx.com, 537127577, RESELLER, 6a698e2ec38604c6
+
+#Pubmatic
+pubmatic.com, 79136 , RESELLER, 5d62403b186f2ace
+
+#Pulsepoint
+contextweb.com, 558467, RESELLER, 89ff185a4c4e857c
+contextweb.com, 558625, RESELLER, 89ff185a4c4e857c
+
+#Rtk.io
+rtk.io, 6020, DIRECT
+rtk.io, 6075, DIRECT
+rtk.io, 360, DIRECT
+rtk.io.371, DIRECT
+rhythmone.com, 2241341073, RESELLER, a670c89d4a324e47
+openx.com, 540337213, RESELLER, 6a698e2ec38604c6
+rubiconproject.com, 17792, RESELLER, 0bfd66d529a55807
+
+#Sovrn
+sovrn.com, 263386, DIRECT, fafdf38b16bf6b2b
+lijit.com, 263386, DIRECT, fafdf38b16bf6b2b
+appnexus.com, 1360, RESELLER, f5ab79cb980f11d1
+gumgum.com, 11645, RESELLER, ffdef49475d318a9
+openx.com, 538959099, RESELLER, 6a698e2ec38604c6
+openx.com, 539924617, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 137711, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156212, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156700, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 17960, RESELLER, 0bfd66d529a55807
+
+#Taboola
+taboola.com,1123160,DIRECT,c228e6794e811952
+taboola.com,1123160,RESELLER,c228e6794e811952
+spotxchange.com, 71451, RESELLER
+advertising.com, 8603, RESELLER
+advertising.com, 3531, RESELLER
+pubmatic.com, 156307, RESELLER, 5d62403b186f2ace
+appnexus.com, 3364, RESELLER
+Indexexchange.com, 183756, RESELLER
+contextweb.com, 560382, RESELLER
+openx.com, 539154393, RESELLER
+tremorhub.com, z87wm, RESELLER, 1a4e959a1b50034a
+rubiconproject.com, 16698, RESELLER, 0bfd66d529a55807
+fyber.com, ad9de41d28d494354b23133f26f83122, RESELLER
+fyber.com, 1a12a7e3f84fe560ccf95a3a73043abb, RESELLER
+
+#Telaria
+telaria.com, a7v7g-d20wv, RESELLER, 1a4e959a1b50034a
+tremorhub.com, a7v7g-d20wv, RESELLER, 1a4e959a1b50034a
+
+#Vizio
+spotxchange.com [spotxchange.com], 240697, RESELLER, 7842df1d2fe2db34
+spotx.tv [spotx.tv], 240697, RESELLER, 7842df1d2fe2db34

@@ -1,0 +1,127 @@
+google.com, pub-2735477631918570, DIRECT, f08c47fec0942fa0
+google.com, pub-7128494876602605, DIRECT, f08c47fec0942fa0
+spotxchange.com, 153598, RESELLER, 7842df1d2fe2db34
+spotx.tv, 153598, RESELLER, 7842df1d2fe2db34
+freewheel.tv, 215714, RESELLER
+freewheel.tv, 216634, RESELLER
+google.com, pub-1313834454494130, RESELLER, f08c47fec0942fa0
+google.com, pub-2316275586951220, RESELLER, f08c47fec0942fa0
+improvedigital.com, 545, RESELLER
+improvedigital.com, 1101, RESELLER
+tremorhub.com, ztx03-iaj07, RESELLER, 1a4e959a1b50034a
+aolcloud.net, 21410, RESELLER
+indexexchange.com, 188249, DIRECT
+pubmatic.com, 156946, DIRECT, 5d62403b186f2ace
+appnexus.com, 9994, DIRECT
+appnexus.com, 9994, RESELLER
+advertising.com, 27287, RESELLER
+
+
+# AdSense
+google.com, pub-6129580795478709, DIRECT, f08c47fec0942fa0
+
+# AdX
+google.com, pub-5910291961299855, DIRECT, f08c47fec0942fa0
+
+# HOST API partners
+google.com, pub-9943660894118911, DIRECT, f08c47fec0942fa0
+google.com, pub-9645847843375255, DIRECT, f08c47fec0942fa0
+google.com, pub-2732412386154780, DIRECT, f08c47fec0942fa0
+google.com, pub-1333919472996821, DIRECT, f08c47fec0942fa0
+google.com, pub-1209756648742637, DIRECT, f08c47fec0942fa0
+google.com, pub-6297118727338743, DIRECT, f08c47fec0942fa0
+google.com, pub-3722429272622646, DIRECT, f08c47fec0942fa0
+google.com, pub-4155742021724917, DIRECT, f08c47fec0942fa0
+google.com, pub-6343620367687201, DIRECT, f08c47fec0942fa0
+google.com, pub-8120468031489237, DIRECT, f08c47fec0942fa0
+google.com, pub-1283609078665227, DIRECT, f08c47fec0942fa0
+google.com, pub-9961646402738779, DIRECT, f08c47fec0942fa0
+google.com, pub-3535483642235372, DIRECT, f08c47fec0942fa0
+google.com, pub-7275772318755572, DIRECT, f08c47fec0942fa0
+google.com, pub-5216410000598218, DIRECT, f08c47fec0942fa0
+google.com, pub-7981506022918503, DIRECT, f08c47fec0942fa0
+google.com, pub-4753962675634028, DIRECT, f08c47fec0942fa0
+google.com, pub-1706013451692406, DIRECT, f08c47fec0942fa0
+google.com, pub-5112873040798159, DIRECT, f08c47fec0942fa0
+google.com, pub-5176033777037889, DIRECT, f08c47fec0942fa0
+google.com, pub-8185207879374594, DIRECT, f08c47fec0942fa0
+google.com, pub-6153369164338594, DIRECT, f08c47fec0942fa0
+google.com, pub-1999697020833664, DIRECT, f08c47fec0942fa0
+
+spotxchange.com, 153598, RESELLER, 7842df1d2fe2db34
+spotx.tv, 153598, RESELLER, 7842df1d2fe2db34
+freewheel.tv, 215714, RESELLER
+freewheel.tv, 216634, RESELLER
+
+# Orange Games
+google.com, pub-1313834454494130, RESELLER, f08c47fec0942fa0
+google.com, pub-2316275586951220, RESELLER, f08c47fec0942fa0
+improvedigital.com, 545, RESELLER
+improvedigital.com, 1101, RESELLER
+tremorhub.com, ztx03-iaj07, RESELLER, 1a4e959a1b50034a
+aolcloud.net, 21410, RESELLER
+appnexus.com, 9994, DIRECT
+advertising.com, 27287, RESELLER
+
+# Famobi
+google.com, pub-2504503821144226, RESELLER, f08c47fec0942fa0
+
+# playzool.com
+google.com, pub-8460767264532971, DIRECT, f08c47fec0942fa0
+google.com, pub-5587206406992399, DIRECT, f08c47fec0942fa0
+#LSM
+lifestreet.com, 274160, DIRECT
+indexexchange.com, 179974, RESELLER
+indexexchange.com, 184847, RESELLER
+contextweb.com, 561091 , RESELLER
+contextweb.com, 561302 , RESELLER
+appnexus.com, 1475, RESELLER
+mediamath.com, 18, RESELLER
+adtech.com, 9508, RESELLER
+criteo.com, 151468, RESELLER
+
+# crazygames.com
+google.com, pub-6257835363939071, RESELLER, f08c47fec0942fa0
+google.com, pub-8415986145297288, RESELLER, f08c47fec0942fa0
+districtm.io, 100794, RESELLER
+appnexus.com, 7944, RESELLER
+appnexus.com, 1908, RESELLER
+indexexchange.com, 185783, RESELLER
+appnexus.com, 7474, RESELLER
+rubiconproject.com, 16980, RESELLER, 0bfd66d529a55807
+openx.com, 539430362, RESELLER, a698e2ec38604c6
+pubmatic.com, 156561, RESELLER, 5d62403b186f2ace
+aps.amazon.com, 9e9bffbc-66c5-4b5b-89aa-4d839e05ce3a, RESELLER
+
+# Vitality Games
+google.com, pub-7630682384839773, RESELLER, f08c47fec0942fa0
+google.com, pub-3401626414644467, RESELLER, f08c47fec0942fa0
+
+# Idea Studio
+google.com, pub-1695026254000808, DIRECT, f08c47fec0942fa0
+google.com, pub-7718251389626337, DIRECT, f08c47fec0942fa0
+
+# Bitent Media
+google.com, pub-9766356536948632, DIRECT, f08c47fec0942fa0
+google.com, pub-2589929912032296, DIRECT, f08c47fec0942fa0
+google.com, pub-3032394680547170, DIRECT, f08c47fec0942fa0
+
+# WitchHut
+google.com, pub-4384771068963781, RESELLER, f08c47fec0942fa0
+google.com, pub-1797093441085732, RESELLER, f08c47fec0942fa0
+google.com, pub-6916412740459727, RESELLER, f08c47fec0942fa0
+google.com, pub-1484074702945925, RESELLER, f08c47fec0942fa0
+google.com, pub-7988790896180197, RESELLER, f08c47fec0942fa0
+
+# GAMEPIX
+google.com, pub-5285623249468085, RESELLER, f08c47fec0942fa0
+google.com, pub-8435989769185680, RESELLER, f08c47fec0942fa0
+google.com, pub-2365506394227806, RESELLER, f08c47fec0942fa0
+rhythmone.com, 1947792888, DIRECT, a670c89d4a324e47
+rhythmone.com, 1117218481, DIRECT, a670c89d4a324e47
+rhythmone.com, 3372001037, DIRECT, a670c89d4a324e47
+
+
+
+#	more
+google.com, pub-5029257013560698, RESELLER, f08c47fec0942fa0

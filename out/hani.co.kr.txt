@@ -1,0 +1,51 @@
+# Managed by ADOP START #
+google.com, pub-2626235926542867, RESELLER, f08c47fec0942fa0
+google.com, pub-0061834038389973, DIRECT, f08c47fec0942fa0
+google.com, pub-1474238860523410, RESELLER, f08c47fec0942fa0
+google.com, pub-3533864070776314, RESELLER, f08c47fec0942fa0
+openx.com, 537134985, RESELLER, 6a698e2ec38604c6
+openx.com, 537141601, RESELLER, 6a698e2ec38604c6
+# Managed by ADOP END # Create Date : 2017-11-20 10:10:23
+
+# Managed by Admaru START #
+admaru.com, 630869, DIRECT
+google.com, pub-2851655022815621, RESELLER, f08c47fec0942fa0
+google.com, pub-4423343305100245, RESELLER, f08c47fec0942fa0
+spotxchange.com, 143752, RESELLER, 7842df1d2fe2db34
+spotx.tv, 143752, RESELLER, 7842df1d2fe2db34
+advertising.com, 23155, RESELLER
+aps.amazon.com,5b99deec-2705-4b22-864b-7674a8e446e3,DIRECT
+pubmatic.com,157150,RESELLER,5d62403b186f2ace
+openx.com,540191398,RESELLER,6a698e2ec38604c6
+rubiconproject.com,18020,RESELLER,0bfd66d529a55807
+appnexus.com,1908,RESELLER,f5ab79cb980f11d1
+adtech.com,12068,RESELLER
+districtm.io,100962,RESELLER
+rhythmone.com,1654642120,RESELLER,a670c89d4a324e47
+ucfunnel.com, par-AEEE848DB47AB82089ADA2D3E9E9DE3, DIRECT 
+aralego.com, par-AEEE848DB47AB82089ADA2D3E9E9DE3, DIRECT
+indexexchange.com, 190528, DIRECT
+
+ad-generation.jp,12474,RESELLER
+appnexus.com,3663,RESELLER,f5ab79cb980f11d1
+smartyads.com, 12481, DIRECT, fd2bde0ff2e62c5d
+# Managed by Admaru  END # Create Date : 2019-04-23 15:11:23
+
+# Managed by 인터웍스미디어 START #
+google.com, pub-3533864070776314, DIRECT, f08c47fec0942fa0
+# Managed by 인터웍스미디어	END # Create Date : 2017-12-07 10:58:00
+
+teads.tv, 18852, DIRECT, 15a9c44f6d26cbe1
+
+# Managed by Hani START #
+google.com, pub-5187450830005326, DIRECT, f08c47fec0942fa0
+# Managed by Hani END # Create Date : 2017-11-24 17:14:00
+
+# Managed by 디엔에이소프트 START #
+google.com, pub-8805486763222041, RESELLER, f08c47fec0942fa0
+google.com, pub-2442187080355642, DIRECT, f08c47fec0942fa0
+# Managed by 디엔에이소프트  END # Create Date : 2018-08-20 17:18:11
+
+# Managed by 디온미디어 START #
+google.com, pub-5422671659717523, RESELLER, f08c47fec0942fa0
+# Managed by 디온미디어  END # Create Date : 2018-09-17 15:29:00

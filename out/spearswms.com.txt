@@ -1,0 +1,20 @@
+EMXDGT.com, 28, RESELLER, 1e1d41537f7cad7f
+Appnexus.com, 1356, RESELLER, f5ab79cb980f11d1
+google.com, pub-5995202563537249, RESELLER, f08c47fec0942fa0
+improvedigital.com, 1146, RESELLER
+indexexchange.com, 183813, RESELLER
+appnexus.com, 3491, reseller
+#StreamAMP ADX
+google.com, pub-2318854337682975, reseller
+
+
+#GlobalData AdYouLike
+adyoulike.com, 01fa3fe7ed6c8d87e6417d32c64099ef, DIRECT, 4ad745ead2958bf7
+google.com, pub-4170006775212586, RESELLER, f08c47fec0942fa0
+
+#Global Data Teads
+teads.tv, 6014, DIRECT, 15a9c44f6d26cbe1
+teads.tv, 6851, DIRECT, 15a9c44f6d26cbe1
+
+appnexus.com,
+8646, RESELLER, f5ab79cb980f11d1

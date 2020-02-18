@@ -1,0 +1,20 @@
+#Ads.txt for Project Agora
+
+appnexus.com, 2725, RESELLER, f5ab79cb980f11d1
+appnexus.com, 7164, RESELLER, f5ab79cb980f11d1
+criteo.com, 28680, RESELLER
+rubiconproject.com, 11498, RESELLER, 0bfd66d529a55807
+smartadserver.com, 2289, RESELLER
+google.com, pub-2500372977609723, RESELLER, f08c47fec0942fa0
+google.com, pub-5233202974419683, RESELLER, f08c47fec0942fa0
+pubmatic.com, 156400, RESELLER, 5d62403b186f2ace
+teads.tv, 11979, RESELLER, 15a9c44f6d26cbe1
+facebook.com, 1396453687040410, RESELLER
+smaato.com, 1100030328, RESELLER
+#AdUnity AUX
+adunity.com, 1000154, RESELLER
+indexexchange.com, 183775, RESELLER
+openx.com, 537101597, RESELLER
+taboola.com, XXXXXXXX, RESELLER, c228e6794e811952 #for the id of each site, please refer to Taboola_ids.xlsx
+
+

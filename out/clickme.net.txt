@@ -1,0 +1,17 @@
+#sitemaji
+ucfunnel.com, par-7E63747944BBBDAFB3793473E44D383, DIRECT
+aralego.com, par-7E63747944BBBDAFB3793473E44D383, DIRECT
+
+#self
+google.com, pub-1161590452763910, DIRECT, f08c47fec0942fa0
+
+#cf
+clickforce.com.tw, 389, direct 
+google.com, pub-4485239425924787, DIRECT, f08c47fec0942fa0
+google.com, pub-4126554779393986, DIRECT, f08c47fec0942fa0
+ucfunnel.com, par-D77BD382D27662DFBB6A2A9EA43EBB, DIRECT
+aralego.com, par-D77BD382D27662DFBB6A2A9EA43EBB, DIRECT
+
+appnexus.com, 1841, RESELLER
+genieesspv.jp, 9753, RESELLER
+genieesspv.jp, 27733, RESELLER

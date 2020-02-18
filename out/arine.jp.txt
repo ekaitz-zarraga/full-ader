@@ -1,0 +1,188 @@
+#Google
+google.com, pub-1743333698764787, DIRECT, f08c47fec0942fa0
+google.com, pub-3859050685269056, DIRECT, f08c47fec0942fa0
+google.com, pub-3315249779603346, DIRECT, f08c47fec0942fa0
+#i-mobile
+google.com, pub-2067800044730756, RESELLER, f08c47fec0942fa0
+i-mobile.co.jp, 64904, DIRECT
+#AdGeneration
+ad-generation.jp, 11857, DIRECT
+#logly
+logly.co.jp, 1481, DIRECT
+#aja
+adtdp.com, 2240, DIRECT
+as.amanad.adtdp.com, 2240, DIRECT
+#Amazon
+aps.amazon.com, 3682, DIRECT
+#nend
+nend.net, 43959, DIRECT
+#fluct
+adingo.jp, 18688, DIRECT
+adingo.jp, 18688, RESELLER
+adingo.jp, 20206, RESELLER
+pubmatic.com, 156313, RESELLER, 5d62403b186f2ace
+#adstir
+google.com, pub-2801326990568508, RESELLER, f08c47fec0942fa0
+ad-stir.com, 9228, DIRECT
+#yieldone
+impact-ad.jp,4021,DIRECT
+google.com,pub-4094152962392845,RESELLER,f08c47fec0942fa0
+google.com,pub-4231984443817768,RESELLER,f08c47fec0942fa0
+openx.com,539294039,RESELLER,6a698e2ec38604c6
+rubiconproject.com,14486,RESELLER,0bfd66d529a55807
+appnexus.com,7702,RESELLER,f5ab79cb980f11d1
+adtech.com,9670,RESELLER
+aolcloud.net,9670,RESELLER
+advertising.com,14558,RESELLER
+amoad.com,105499,RESELLER
+i-mobile.co.jp,25572,RESELLER
+i-mobile.co.jp,36157,RESELLER
+i-mobile.co.jp,47772,RESELLER
+i-mobile.co.jp,25588,RESELLER
+i-mobile.co.jp,57985,RESELLER
+i-mobile.co.jp,12601,RESELLER
+i-mobile.co.jp,62395,RESELLER
+appvador.com,1145,RESELLER
+pubmatic.com,156899,RESELLER,5d62403b186f2ace
+uliza.jp,1815,RESELLER
+pubmatic.com,122325,RESELLER,5d62403b186f2ace
+uliza.jp,2118,RESELLER
+nend.net,11072,RESELLER
+pubmatic.com,156959,RESELLER,5d62403b186f2ace
+openx.com,540233901,RESELLER,6a698e2ec38604c6
+pubmatic.com,157746,RESELLER,5d62403b186f2ace
+rubiconproject.com,20004,RESELLER,0bfd66d529a55807
+#rubicon
+rubiconproject.com, 21306, DIRECT, 0bfd66d529a55807
+rubiconproject.com, 21308, DIRECT, 0bfd66d529a55807
+#Platform one
+impact-ad.jp,4169,DIRECT
+adtdp.com,2304,RESELLER
+as.amanad.adtdp.com,2304,RESELLER
+#yahoo
+appnexus.com, 3663, RESELLER
+#pubmatic
+pubmatic.com, 157691, DIRECT, 5d62403b186f2ace
+pubmatic.com, 158134, DIRECT, 5d62403b186f2ace
+#verizon
+adtech.com, 15089, Reseller
+#AJA
+as.amanad.adtdp.com,2317,DIRECT
+pubmatic.com, 157141, RESELLER, 5d62403b186f2ace
+pubmatic.com, 157141, DIRECT, 5d62403b186f2ace
+#Logicad
+publishers.logicad.jp, XZxD, DIRECT
+#openx
+openx.com, 540635215, DIRECT, 6a698e2ec38604c6
+openx.com, 540919144, DIRECT, 6a698e2ec38604c6
+#outbrain
+outbrain.com, 004189441e8dca774d4664d5849bd8db9b, DIRECT
+appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
+tremorhub.com, q017o-78mlk, RESELLER, 1a4e959a1b50034a # Premium video demand aka "Telaria"
+teads.tv, 15429, RESELLER, 15a9c44f6d26cbe1 # Premium video demand
+advertising.com, 26154, RESELLER # Premium video demand
+spotxchange.com, 225721, RESELLER # Premium video demand
+Freewheel.tv, 741650, RESELLER # Premium video demand
+rubiconproject.com, 17130, RESELLER, 0bfd66d529a55807 # Premium video demand
+lkqd.net, 450, RESELLER, 59c49fa9598a0117 # Premium video demand
+openx.com, 540393169, RESELLER, 6a698e2ec38604c6 # Premium video demand
+spotx.tv, 238936, RESELLER, 7842df1d2fe2db34 # Premium video demand
+spotxchange.com, 238936, RESELLER, 7842df1d2fe2db34 # Premium Video Demand
+advertising.com, 28038, RESELLER # Premium Video Demand
+rubiconproject.com, 19668, RESELLER, 0bfd66d529a55807
+contextweb.com, 562145, RESELLER, 89ff185a4c4e857c  # Premium Video Demand
+indexexchange.com, 190856, RESELLER, 50b1c356f2c5c8fc  # Premium Video Demand
+pubmatic.com, 158615, RESELLER, 5d62403b186f2ace # Premium video & display demand
+vidazoo.com, 1773068026, RESELLER, b6ada874b4d7d0b2 # Premium Video Demand
+#pubmatic
+pubmatic.com, 156756, DIRECT, 5d62403b186f2ace
+#p1
+aps.amazon.com,41b73ba2-6643-43ff-9ec5-406609eab609,DIRECT
+pubmatic.com,157150,RESELLER,5d62403b186f2ace
+openx.com,540191398,RESELLER,6a698e2ec38604c6
+rubiconproject.com,18020,RESELLER,0bfd66d529a55807
+appnexus.com,1908,RESELLER,f5ab79cb980f11d1
+adtech.com,12068,RESELLER,e1a5b5b6e3255540
+districtm.io,100962,RESELLER,3fd707be9c4527c3
+rhythmone.com,1654642120,RESELLER,a670c89d4a324e47
+ad-generation.jp,12474,RESELLER
+appnexus.com,3663,RESELLER,f5ab79cb980f11d1
+pubmatic.com, 157492, RESELLER, 5d62403b186f2ace
+#microad
+microad.co.jp, 16825,DIRECT
+ad-generation.jp,8343,RESELLER
+adingo.jp,240,RESELLER
+adm.shinobi.jp,105476,RESELLER
+ad-stir.com,1109,RESELLER
+ad-stir.com,1757,RESELLER
+ad-stir.com,5033,RESELLER
+ad-stir.com,5344,RESELLER
+ad-stir.com,7666,RESELLER
+ad-stir.com,7938,RESELLER
+adtech.com,15032,RESELLER
+adtech.com,9625,RESELLER
+adtech.com,9670,RESELLER
+adtech.com,9715,RESELLER
+advertising.com,14558,RESELLER
+amoad.com,102688,RESELLER
+amoad.com,105499,RESELLER
+aolcloud.net,9625,RESELLER
+aolcloud.net,9670,RESELLER
+aolcloud.net,9715,RESELLER
+appnexus.com,1226,RESELLER
+appnexus.com,2578,RESELLER
+appnexus.com,7122,RESELLER
+appnexus.com,7702,RESELLER,f5ab79cb980f11d1
+appvador.com,1145,RESELLER
+aralego.com,par-6AA4BEE8EE4ABE31E4766337468DBE7,RESELLER
+genieesspv.jp,107,RESELLER
+genieesspv.jp,11836,RESELLER
+genieesspv.jp,26274,RESELLER
+genieesspv.jp,4863,RESELLER
+genieesspv.jp,9916,RESELLER
+gmossp-sp.jp,2000505,RESELLER
+google.com,pub-4094152962392845,RESELLER,f08c47fec0942fa0
+google.com,pub-4231984443817768,RESELLER,f08c47fec0942fa0
+i-mobile.co.jp,12601,RESELLER
+i-mobile.co.jp,14087,RESELLER
+i-mobile.co.jp,25572,RESELLER
+i-mobile.co.jp,25588,RESELLER
+i-mobile.co.jp,36157,RESELLER
+i-mobile.co.jp,47772,RESELLER
+i-mobile.co.jp,49575,RESELLER
+i-mobile.co.jp,57985,RESELLER
+i-mobile.co.jp,62395,RESELLER
+impact-ad.jp,1064,RESELLER
+impact-ad.jp,1635,RESELLER
+impact-ad.jp,1636,RESELLER
+impact-ad.jp,1680,RESELLER
+impact-ad.jp,1718,RESELLER
+impact-ad.jp,2081,RESELLER
+impact-ad.jp,2082,RESELLER
+impact-ad.jp,2586,RESELLER
+impact-ad.jp,2817,RESELLER
+impact-ad.jp,3377,RESELLER
+indexexchange.com,175407,RESELLER,50b1c356f2c5c8fc
+openx.com,117485,RESELLER,6a698e2ec38604c6
+openx.com,537141605,RESELLER,6a698e2ec38604c6
+openx.com,537143344,RESELLER
+openx.com,539294033,RESELLER,6a698e2ec38604c6
+openx.com,539294039,RESELLER,6a698e2ec38604c6
+openx.com,539320132,RESELLER,6a698e2ec38604c6
+openx.com,539468036,RESELLER,6a698e2ec38604c6
+openx.com,74938,RESELLER,6a698e2ec38604c6
+proparm.jp,1214,RESELLER
+proparm.jp,564,RESELLER
+proparm.jp,61,RESELLER
+pubmatic.com,156493,RESELLER,5d62403b186f2ace
+pubmatic.com,156530,RESELLER,5d62403b186f2ace
+pubmatic.com,156704,RESELLER,5d62403b186f2ace
+pubmatic.com,156851,RESELLER,5d62403b186f2ace
+pubmatic.com,156899,RESELLER,5d62403b186f2ace
+pubmatic.com, 157492, RESELLER, 5d62403b186f2ace
+rubiconproject.com,11534,RESELLER,0bfd66d529a55807
+rubiconproject.com,14032,RESELLER,0bfd66d529a55807
+rubiconproject.com,14486,RESELLER,0bfd66d529a55807
+smaato.com,1100037870,RESELLER
+ucfunnel.com,par-6AA4BEE8EE4ABE31E4766337468DBE7,RESELLER
+pubmatic.com, 157492, RESELLER, 5d62403b186f2ace

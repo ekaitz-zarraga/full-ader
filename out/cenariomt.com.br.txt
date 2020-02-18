@@ -1,0 +1,47 @@
+
+#Ads.txt cenariomt.com.br
+
+#START ADS CENÁRIOMT
+google.com, pub-7510352554251510, RESELLER, f08c47fec0942fa0
+#FIM ADS CENÁRIOMT
+
+#START PIX
+google.com, pub-1846586056626602, DIRECT, f08c47fec0942fa0
+google.com, pub-6002024513984929, DIRECT, f08c47fec0942fa0
+
+
+
+
+#Denakop
+denakop.com, pub-371, DIRECT
+google.com, pub-8170966538152543, RESELLER, f08c47fec0942fa0
+adtech.com, 11627, RESELLER
+contextweb.com, 560821, RESELLER
+appnexus.com, 2081, RESELLER, f5ab79cb980f11d1
+appnexus.com, 10528, RESELLER, f5ab79cb980f11d1
+indexexchange.com, 175407, RESELLER, 50b1c356f2c5c8fc
+openx.com, 537143344, RESELLER
+pubmatic.com, 156078, RESELLER, 5d62403b186f2ace
+contextweb.com, 558299, RESELLER, 89ff185a4c4e857c
+
+#OUTBRAIN
+contextweb.com, 562145, RESELLER, 89ff185a4c4e857c
+indexexchange.com, 190856, RESELLER, 50b1c356f2c5c8fc
+pubmatic.com, 158615, RESELLER, 5d62403b186f2ace
+vidazoo.com, 1773068026, RESELLER, b6ada874b4d7d0b2
+
+outbrain.com,00bea17dfb5814088cbedd69ae8d15a946,direct
+appnexus.com,7597,reseller,f5ab79cb980f11d1
+tremorhub.com,q017o-78mlk,reseller,1a4e959a1b50034a
+teads.tv,15429,reseller,15a9c44f6d26cbe1
+advertising.com,26154,reseller
+spotxchange.com,225721,reseller
+freewheel.tv,741650,reseller
+rubiconproject.com,17130,reseller,0bfd66d529a55807
+lkqd.net,450,reseller,59c49fa9598a0117
+openx.com,540393169,reseller,6a698e2ec38604c6
+spotx.tv,238936,reseller,7842df1d2fe2db34
+spotxchange.com,238936,reseller,7842df1d2fe2db34
+advertising.com,28038,reseller
+rubiconproject.com,19668,reseller,0bfd66d529a55807
+

@@ -1,0 +1,57 @@
+
+rtb.bidsxchange.com, 284, DIRECT
+pubmatic.com, 158135, RESELLER, 5d62403b186f2ace 
+contextweb.com, 562056, RESELLER, 89ff185a4c4e857c 
+33across.com, 0010b00001rrmDAAAY, RESELLER, bbea06d9c4d2853c 
+adtech.com, 11605, RESELLER
+adtech.com, 4937,RESELLER
+pubmatic.com, 148800, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156957, RESELLER, 5d62403b186f2ace
+openx.com, 537143737, RESELLER, 6a698e2ec38604c6
+openx.com, 540259865, RESELLER, 6a698e2ec38604c6
+openx.com, 540423120, RESELLER, 6a698e2ec38604c6
+contextweb.com, 558563, RESELLER, 89ff185a4c4e857c
+smartadserver.com, 3485, RESELLER
+google.com, pub-9557089510405422, RESELLER, f08c47fec0942fa0 
+appnexus.com, 1001, RESELLER, f5ab79cb980f11d1 
+openx.com, 537120563, RESELLER, 6a698e2ec38604c6  
+adtech.com, 9993, RESELLER #33A
+google.com, pub-1772611089853771, RESELLER, f08c47fec0942fa0 
+google.com, pub-8268618999035658, RESELLER, f08c47fec0942fa0 
+google.com, pub-9328633604439863, RESELLER, f08c47fec0942fa0 
+appnexus.com, 7837, RESELLER, f5ab79cb980f11d1
+openx.com, 539646619, RESELLER, 6a698e2ec38604c6 
+google.com, pub-6968738577620513, RESELLER, f08c47fec0942fa0
+google.com, pub-9611340043830472, RESELLER, f08c47fec0942fa0 
+appnexus.com, 8610, RESELLER, f5ab79cb980f11d1 
+openx.com, 540338038, RESELLER, 6a698e2ec38604c6 
+google.com, pub-6254331789601537, RESELLER, f08c47fec0942fa0 
+rubiconproject.com, 18450, RESELLER, 0bfd66d529a55807 
+appnexus.com, 9382, RESELLER, f5ab79cb980f11d1 
+appnexus.com, 9963, RESELLER, f5ab79cb980f11d1
+google.com, pub-3775738955018489, RESELLER, f08c47fec0942fa 
+
+
+rtb.bidsxchange.com, 284, DIRECT
+pubmatic.com, 158135, RESELLER, 5d62403b186f2ace
+contextweb.com, 562056, RESELLER, 89ff185a4c4e857c
+adtech.com, 11605, RESELLER
+adtech.com, 4937,RESELLER
+openx.com, 540259865, RESELLER, 6a698e2ec38604c6
+openx.com, 540423120, RESELLER, 6a698e2ec38604c6
+smartadserver.com, 3485, RESELLER
+appnexus.com, 1001, RESELLER, f5ab79cb980f11d1
+openx.com, 537120563, RESELLER, 6a698e2ec38604c6
+adtech.com, 9993, RESELLER
+google.com, pub-8268618999035658, RESELLER, f08c47fec0942fa0 #ADM-New
+appnexus.com, 7837, RESELLER, f5ab79cb980f11d1 #NS
+openx.com, 539646619, RESELLER, 6a698e2ec38604c6  #NS
+google.com, pub-6968738577620513, RESELLER, f08c47fec0942fa0 #GZ
+appnexus.com, 8610, RESELLER, f5ab79cb980f11d1 #BCM
+openx.com, 540338038, RESELLER, 6a698e2ec38604c6 #BCM
+google.com, pub-6254331789601537, RESELLER, f08c47fec0942fa0 #G2R
+rubiconproject.com, 18450, RESELLER, 0bfd66d529a55807 #G2R
+appnexus.com, 9382, RESELLER, f5ab79cb980f11d1 #G2R
+
+
+google.com, pub-5166187966849033, DIRECT, f08c47fec0942fa0

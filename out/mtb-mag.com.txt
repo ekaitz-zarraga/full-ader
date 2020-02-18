@@ -1,0 +1,227 @@
+google.com, pub-3343505815278533, DIRECT, f08c47fec0942fa0
+rubiconproject.com, 10814, DIRECT, 0bfd66d529a55807
+rubiconproject.com, 18006, DIRECT, 0bfd66d529a55807
+google.com, pub-4979986541055910, RESELLER, f08c47fec0942fa0
+appnexus.com, 956, RESELLER, f5ab79cb980f11d1
+rubiconproject.com, 13258, RESELLER, 0bfd66d529a55807
+openx.com, 537152295, RESELLER
+adform.com, 1721, RESELLER
+pubmatic.com, 73785, RESELLER, 5d62403b186f2ace
+aolcloud.net, 4812, RESELLER
+indexexchange.com, 186765, RESELLER
+teads.tv, 5743, DIRECT, 15a9c44f6d26cbe1
+appnexus.com, 10338, DIRECT, f5ab79cb980f11d1
+appnexus.com, 1504, RESELLER, f5ab79cb980f11d1
+google.com, pub-9485981123373313, RESELLER, f08c47fec0942fa0
+indexexchange.com, 189261, DIRECT
+openx.com, 540447794, DIRECT, 6a698e2ec38604c6
+openx.com, 540447794, RESELLER, 6a698e2ec38604c6
+adtech.com, 4812, RESELLER
+adform.com, 1721, RESELLER, 9f5210a2f0999e32
+freewheel.tv, 1897, RESELLER
+openx.com, 537124926, RESELLER, 6a698e2ec38604c6
+indexexchange.com, 186765, RESELLER
+smartadserver.com,3094,RESELLER
+smartclip.net, 10720, RESELLER
+spotxchange.com, 245659, RESELLER, 7842df1d2fe2db34
+spotx.tv, 245659, RESELLER, 7842df1d2fe2db34
+pubmatic.com, 158208, DIRECT, 5d62403b186f2ace
+pubmatic.com, 158689, DIRECT, 5d62403b186f2ace
+adform.com, 1226, RESELLER
+
+vidoomy.com, 53981, DIRECT
+adtech.com, 11303, RESELLER
+advertising.com, 22762, RESELLER
+aol.com, 22762, RESELLER
+advertising.com, 26631, RESELLER
+appnexus.com, 997, DIRECT, f5ab79cb980f11d1
+appnexus.com, 10451, RESELLER
+appnexus.com, 2081, RESELLER, f5ab79cb980f11d1
+appnexus.com, 1908, RESELLER, f5ab79cb980f11d1
+appnexus.com, 3703, RESELLER, f5ab79cb980f11d1
+appnexus.com, 9923, RESELLER, f5ab79cb980f11d1
+beachfront.com, 6547, RESELLER
+contextweb.com, 560288, RESELLER, 89ff185a4c4e857c
+contextweb.com, 561252, RESELLER, 89ff185a4c4e857c
+districtm.io, 101540, DIRECT 
+fyber.com, 1236fbff61fdf8859e37831848a42ee5, RESELLER
+lkqd.com, 430, RESELLER, 59c49fa9598a0117
+lkqd.net, 430, RESELLER, 59c49fa9598a0117
+openx.com, 537149888, RESELLER, 6a698e2ec38604c6 
+pubmatic.com, 154037, RESELLER
+pubmatic.com, 156498, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156439, RESELLER
+tremorhub.com, 4cywq-a04wk, RESELLER, 1a4e959a1b50034a
+rubiconproject.com, 16114, RESELLER, 0bfd66d529a55807
+smartclip.net, 10180, DIRECT
+spotxchange.com, 218443, RESELLER, 7842df1d2fe2db34
+spotx.tv, 218443, RESELLER, 7842df1d2fe2db34
+sovrn.com, 257611, RESELLER, fafdf38b16bf6b2b 
+smartadserver.com, 1963, RESELLER
+smartadserver.com, 3136, RESELLER
+smartadserver.com, 3276,RESELLER
+freewheel.tv, 872257, RESELLER
+freewheel.tv, 894193, RESELLER
+rhythmone.com, 4107953657, RESELLER
+appnexus.com, 10451, RESELLER, f5ab79cb980f11d1
+openx.com, 540804929, RESELLER, 6a698e2ec38604c6
+
+		
+# GAZZETTANET
+outbrain.com, 0034bb066d42696be38e2f3f9e15a0d462, DIRECT
+appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
+rubiconproject.com, 19668, RESELLER, 0bfd66d529a55807
+
+# GAZZETTA
+outbrain.com, 00597a9557a9a227b671cd230408131cff, DIRECT
+appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
+rubiconproject.com, 19668, RESELLER, 0bfd66d529a55807
+
+# CORRIERE
+outbrain.com, 00ffbaf5813113e3d62e051a090a04ade7, DIRECT
+appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
+rubiconproject.com, 19668, RESELLER, 0bfd66d529a55807
+
+# OGGI
+outbrain.com, 00220e53980c4e25f26ddf9845a3ae5b21, DIRECT
+appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
+rubiconproject.com, 19668, RESELLER, 0bfd66d529a55807
+
+# VIDEO.CORRIERE
+outbrain.com, 0015364d529a6a36aed4950b33a2bbb65f, DIRECT
+appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
+rubiconproject.com, 19668, RESELLER, 0bfd66d529a55807
+
+# LA7
+outbrain.com, 00686c07cfe3ffb3e5fe01cb7ee961b819, DIRECT
+appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
+rubiconproject.com, 19668, RESELLER, 0bfd66d529a55807
+
+# GDS
+outbrain.com, 0070bf7f5ccb6b3cc5a45352efee227556, DIRECT
+appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
+rubiconproject.com, 19668, RESELLER, 0bfd66d529a55807
+
+# AMICA
+outbrain.com, 0094a24c54abfb308d60fdf05df3297cd5, DIRECT
+appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
+rubiconproject.com, 19668, RESELLER, 0bfd66d529a55807
+
+# IODONNA
+outbrain.com, 00f37aa47e119ed33c0e6d54a2ee42df6e, DIRECT
+appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
+rubiconproject.com, 19668, RESELLER, 0bfd66d529a55807
+
+# LASICILIA
+outbrain.com, 00a49f4ba6873590c175256bbea8f72bcf, DIRECT
+appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
+rubiconproject.com, 19668, RESELLER, 0bfd66d529a55807
+
+# GAZZETTADELSUD
+outbrain.com, 0086aa9d5047019b0c6da8c5df0c385ef7, DIRECT
+appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
+rubiconproject.com, 19668, RESELLER, 0bfd66d529a55807
+
+# CORRIEREDELVENETO
+outbrain.com, 00b60744a87441b549ab84b4a60bfd2c08, DIRECT
+appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
+rubiconproject.com, 19668, RESELLER, 0bfd66d529a55807
+
+# VIAGGI.CORRIERE
+outbrain.com, 002df34b19f00af458c9a6a546936e34e0, DIRECT
+appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
+rubiconproject.com, 19668, RESELLER, 0bfd66d529a55807
+
+# MILANO.CORRIERE
+outbrain.com, 0057a9d04f0d27f7d1586f6deb82f7eb28, DIRECT
+appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
+rubiconproject.com, 19668, RESELLER, 0bfd66d529a55807
+
+# LIVING.CORRIERE
+outbrain.com, 007ba4d0bade6b1d3ca8c486aee9814413, DIRECT
+appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
+rubiconproject.com, 19668, RESELLER, 0bfd66d529a55807
+
+# LEITV
+outbrain.com, 0005b604acb7424d9cb65342594790d106, DIRECT
+appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
+rubiconproject.com, 19668, RESELLER, 0bfd66d529a55807
+
+# ROMA.CORRIERE
+outbrain.com, 00a89ea97d2f1d931ed6675cf1bbf6b2cd, DIRECT
+appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
+rubiconproject.com, 19668, RESELLER, 0bfd66d529a55807
+
+# LASICILIAWEB
+outbrain.com, 0090607124707be0a4d121e693dad04a25, DIRECT
+appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
+rubiconproject.com, 19668, RESELLER, 0bfd66d529a55807
+
+# CORRIEREDELMEZZOGIORNO
+outbrain.com, 00b514affdb421e024af74f66fb919704f, DIRECT
+appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
+rubiconproject.com, 19668, RESELLER, 0bfd66d529a55807
+
+# TORINO.CORRIERE
+outbrain.com, 00607e465e64f5d6ff7007d4892ca7b5b2, DIRECT
+appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
+rubiconproject.com, 19668, RESELLER, 0bfd66d529a55807
+
+# CORRIEREFIORENTINO
+outbrain.com, 00b645d10a2b6e7a8d84e81909dd6bbada, DIRECT
+appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
+rubiconproject.com, 19668, RESELLER, 0bfd66d529a55807
+
+# CORRRIEREDIBOLOGNA
+outbrain.com, 00ffd94187d734cae7112f6ea58238ef6c, DIRECT
+appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
+rubiconproject.com, 19668, RESELLER, 0bfd66d529a55807
+
+# VIVIMILANO
+outbrain.com, 00fbb218ddd9cbfb339abe89eda30ad8c1, DIRECT
+appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
+rubiconproject.com, 19668, RESELLER, 0bfd66d529a55807
+
+# CUCINA.CORRIERE
+outbrain.com, 00514f983b832d4a7309521f7e7a0b666f, DIRECT
+appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
+rubiconproject.com, 19668, RESELLER, 0bfd66d529a55807
+
+# MOTORI.CORRIERE
+outbrain.com, 00a37e540d20d45d6a537367ba18eca087, DIRECT
+appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
+rubiconproject.com, 19668, RESELLER, 0bfd66d529a55807
+
+# BERGAMO.CORRIERE
+outbrain.com, 006cbad4b59ea39e7b31a19526523e2a19, DIRECT
+appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
+rubiconproject.com, 19668, RESELLER, 0bfd66d529a55807
+
+# METEO.CORRIERE
+outbrain.com, 00da41549ba62651134d05ca3b151a2487, DIRECT
+appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
+rubiconproject.com, 19668, RESELLER, 0bfd66d529a55807
+
+# YOUREPORT
+outbrain.com, 001f18c0eb44a4b7434de0abdeb368fb26, DIRECT
+appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
+rubiconproject.com, 19668, RESELLER, 0bfd66d529a55807
+
+# FREESENZAGLUTINE
+outbrain.com, 0004efe83956ec2e981f9643136207eb7b, DIRECT
+appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
+rubiconproject.com, 19668, RESELLER, 0bfd66d529a55807
+
+# BRESCIA.CORRIERE
+outbrain.com, 0063d2df7600ceb294676b89d829ff3a9b, DIRECT
+appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
+rubiconproject.com, 19668, RESELLER, 0bfd66d529a55807
+
+# CORRIEREINNOVAZIONE
+outbrain.com, 00cff3af2b6c0a60d6f2085fd085112f15, DIRECT
+appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
+rubiconproject.com, 19668, RESELLER, 0bfd66d529a55807
+
+google.com, pub-1056055791858632, DIRECT, f08c47fec0942fa0
+
+

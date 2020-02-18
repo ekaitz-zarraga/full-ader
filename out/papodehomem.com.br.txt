@@ -1,0 +1,28 @@
+#Google
+
+google.com, pub-8710004445660777, DIRECT, f08c47fec0942fa0
+google.com, pub-3633370801129289, DIRECT, f08c47fec0942fa0
+
+#Teads
+
+teads.tv, 9372, DIRECT, 15a9c44f6d26cbe1
+teads.tv, 9373, DIRECT, 15a9c44f6d26cbe1
+appnexus.com, 4009, RESELLER #ST1
+smartadserver.com, 2699, RESELLER #ST1
+smartadserver.com, 2938, RESELLER #ST1
+advertising.com, 23286, RESELLER #ST1
+
+
+#Outbrain
+outbrain.com, 0003a7f3fa3791fec3871b7611119c9b02, DIRECT
+outbrain.com, 0003a7f3fa3791fec3871b7611119c9b02, RESELLER
+appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
+tremorhub.com, q017o-78mlk, RESELLER, 1a4e959a1b50034a # Premium video demand aka "Telaria"
+teads.tv, 15429, RESELLER, 15a9c44f6d26cbe1 # Premium video demand
+advertising.com, 26154, RESELLER # Premium video demand
+spotxchange.com, 225721, RESELLER # Premium video demand
+Freewheel.tv, 741650, RESELLER # Premium video demand
+google.com, pub-1987748223311169, RESELLER, f08c47fec0942fa0
+google.com, pub-1987748223311169, RESELLER, f08c47fec0942fa0
+
+rubiconproject.com, 16610, DIRECT, 0bfd66d529a55807 # R4

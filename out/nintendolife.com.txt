@@ -1,0 +1,33 @@
+# ads.txt file for nlife.com
+
+indexexchange.com, 185247, DIRECT
+openx.com, 538986826, DIRECT, 6a698e2ec38604c6
+google.com, pub-6808778588815127, DIRECT, f08c47fec0942fa0
+triplelift.com, 4820, DIRECT, 6c33edb13117fd86
+pubmatic.com, 157312, DIRECT, 5d62403b186f2ace
+rhythmone.com,101233540,DIRECT,3564643510
+sovrn.com, 224172, DIRECT, fafdf38b16bf6b2b
+google.com, pub-4560360103312331, DIRECT, f08c47fec0942fa0
+appnexus.com, 1314, RESELLER
+spotxchange.com, 228454, RESELLER, 7842df1d2fe2db34
+spotx.tv, 228454, RESELLER, 7842df1d2fe2db34
+lkqd.net, 504, RESELLER, 59c49fa9598a0117
+coxmt.com,  2000068030202, DIRECT
+rubiconproject.com, 18418, DIRECT, 0bfd66d529a55807 
+google.com, pub-7064439419818173, RESELLER  #Display Horizon Point
+sonobi.com, 8612f780c9, DIRECT, d1a215d9eb5aee9e
+rhythmone.com, 1059622079, RESELLER, a670c89d4a324e47
+contextweb.com, 560606, RESELLER, 89ff185a4c4e857c
+
+#Amazon
+aps.amazon.com,a06ac1f9-0844-4cf7-81fe-f8ce4a7d7943,DIRECT
+gumgum.com,13930,DIRECT,ffdef49475d318a9
+pubmatic.com,157150,RESELLER,5d62403b186f2ace
+openx.com,540191398,RESELLER,6a698e2ec38604c6
+rubiconproject.com,18020,RESELLER,0bfd66d529a55807
+appnexus.com,1908,RESELLER,f5ab79cb980f11d1
+adtech.com,12068,RESELLER,e1a5b5b6e3255540
+ad-generation.jp,12474,RESELLER
+districtm.io,100962,RESELLER,3fd707be9c4527c3
+appnexus.com,3663,RESELLER,f5ab79cb980f11d1
+rhythmone.com,1654642120,RESELLER,a670c89d4a324e47

@@ -1,0 +1,22 @@
+#Google
+google.com, pub-5178036110946017, DIRECT, f08c47fec0942fa0
+google.com, pub-3136799156954327, DIRECT, f08c47fec0942fa0
+google.com, pub-3182408630048115, DIRECT, f08c47fec0942fa0
+
+#Telaria
+tremorhub.com, d0luc-3xtce, DIRECT, 1a4e959a1b50034a
+
+#MMP
+google.com, pub-3992393056167515, RESELLER, f08c47fec0942fa0
+google.com, 27367402, RESELLER, f08c47fec0942fa0
+indexexchange.com, 187558, RESELLER
+rubiconproject.com, 19512, RESELLER, 0bfd66d529a55807
+
+#Unruly
+video.unrulymedia.com, UNRX-PUB-1bfa0bcd-2cdc-4a3c-9bb9-8b8823ae01a6, DIRECT
+indexexchange.com, 182257, RESELLER
+appnexus.com, 6849, RESELLER
+rubiconproject.com, 15268, RESELLER
+
+#Teads
+teads.tv, 16663, DIRECT, 15a9c44f6d26cbe1

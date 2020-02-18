@@ -1,0 +1,5 @@
+# robothumb.com ads.txt
+# SSP/Exchange Domain, SellerAccountID, PaymentsType, TAGID
+
+# Google
+google.com, pub-5950914822071007, DIRECT, f08c47fec0942fa0

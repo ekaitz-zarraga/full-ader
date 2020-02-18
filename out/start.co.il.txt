@@ -1,0 +1,25 @@
+google.com, pub-2294654501609348, DIRECT, f08c47fec0942fa0
+google.com, pub-8811758745500993, DIRECT, f08c47fec0942fa0
+google.com, pub-8818381905148744, DIRECT, f08c47fec0942fa0
+google.com, pub-2084787917302630, DIRECT, f08c47fec0942fa0
+google.com, pub-1420539090378627, DIRECT, f08c47fec0942fa0
+
+#Outbrain
+outbrain.com, 006f730d3e3ebe6af54b38653a9502ec3e, DIRECT
+appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
+tremorhub.com, q017o-78mlk, RESELLER, 1a4e959a1b50034a # Premium video demand aka "Telaria"
+teads.tv, 15429, RESELLER, 15a9c44f6d26cbe1 # Premium video demand
+advertising.com, 26154, RESELLER # Premium video demand
+spotxchange.com, 225721, RESELLER # Premium video demand
+Freewheel.tv, 741650, RESELLER # Premium video demand
+rubiconproject.com, 17130, RESELLER, 0bfd66d529a55807
+lkqd.net, 450, RESELLER, 59c49fa9598a0117
+openx.com,540393169,reseller,6a698e2ec38604c6
+spotx.tv,238936,reseller,7842df1d2fe2db34
+spotxchange.com,238936,reseller,7842df1d2fe2db34
+advertising.com,28038,reseller
+rubiconproject.com,19668,reseller,0bfd66d529a55807
+contextweb.com,562145,reseller,89ff185a4c4e857c
+indexexchange.com,190856,reseller,50b1c356f2c5c8fc
+pubmatic.com,158615,reseller,5d62403b186f2ace
+vidazoo.com,1773068026,reseller,b6ada874b4d7d0b2

@@ -1,0 +1,15 @@
+#Adx
+google.com, pub-3990180157183002, DIRECT, f08c47fec0942fa0
+#Oath video
+advertising.com, 21870, DIRECT
+indexexchange.com, 183965, RESELLER, 50b1c356f2c5c8fc
+Pubmatic.com, 156458, RESELLER,  5d62403b186f2ace
+Pubmatic.com, 156325, RESELLER,  5d62403b186f2ace
+Pubmatic.com, 156084, RESELLER,  5d62403b186f2ace
+coxmt.com, 2000067995202, RESELLER
+rubiconproject.com, 18222, RESELLER, 0bfd66d529a55807
+#Spotx
+spotxchange.com, 87115, DIRECT, 7842df1d2fe2db34
+spotx.tv, 87115, DIRECT, 7842df1d2fe2db34
+#Telaria
+telaria.com, yr5fn-0ppl8, DIRECT, 1a4e959a1b50034a

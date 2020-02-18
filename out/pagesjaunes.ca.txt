@@ -1,0 +1,35 @@
+#Ads.txt Mediative
+
+indexexchange.com, 182944, DIRECT
+indexexchange.com, 183013, DIRECT
+indexexchange.com, 176035, DIRECT
+indexexchange.com, 184844, DIRECT
+indexexchange.com, 185248, DIRECT
+
+google.com, pub-3886296941040899, DIRECT
+google.com, pub-6902868163632501, DIRECT
+google.com, pub-9916934484793223, DIRECT, f08c47fec0942fa0
+google.com, pub-1777644552547247, DIRECT, f08c47fec0942fa0
+google.com, pub-9685734445476814, RESELLER, f08c47fec0942fa0
+
+districtm.io, 100329, DIRECT
+appnexus.com, 1908, RESELLER
+appnexus.com, 7944, RESELLER
+
+appnexus.com, 8581, DIRECT, f5ab79cb980f11d1
+
+adtech.com, 10018, DIRECT
+aolcloud.net, 10018, DIRECT
+
+freeskreen.com, 84, DIRECT, fe119a6acfd19070
+tremorhub.com, see44-13v5l, RESELLER, 1a4e959a1b50034a
+indexexchange.com,184088,RESELLER,50b1c356f2c5c8fc
+quantum-advertising.com, 3247, DIRECT
+quantum-advertising.com, 3159, DIRECT
+quantum-advertising.com, 3198, DIRECT
+appnexus.com, 2579, RESELLER #native
+smartadserver.com, 1772, RESELLER
+advertising.com, 22118, RESELLER
+slimcut.media, 84, DIRECT, fe119a6acfd19070
+
+juicenectar.com, 667, DIRECT, c845d3a44ab706c5

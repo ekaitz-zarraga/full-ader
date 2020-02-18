@@ -1,0 +1,46 @@
+google.com, pub-9699191536922730, DIRECT, f08c47fec0942fa0
+google.com, pub-6991912740856688, DIRECT, f08c47fec0942fa0
+rubiconproject.com, 15336, DIRECT, 0bfd66d529a55807
+rubiconproject.com, 17934, DIRECT, 0bfd66d529a55807
+appnexus.com, 8182, DIRECT, f5ab79cb980f11d1
+aps.amazon.com, 3379, DIRECT #display
+aps.amazon.com, 3570, DIRECT #display
+adtech.com, 10571, DIRECT
+adtech.com, 12037, DIRECT
+openx.com, 537144808, DIRECT, 6a698e2ec38604c6
+openx.com, 539378221, DIRECT, 6a698e2ec38604c6
+openx.com, 537115568, DIRECT, 6a698e2ec38604c6
+openx.com, 539119475, DIRECT, 6a698e2ec38604c6
+openx.com, 539936212, DIRECT, 6a698e2ec38604c6
+pubmatic.com, 156234, DIRECT, 5d62403b186f2ace
+pubmatic.com, 156597, DIRECT, 5d62403b186f2ace
+pubmatic.com, 157380, DIRECT, 5d62403b186f2ace
+pubmatic.com, 158260, RESELLER, 5d62403b186f2ace
+pubmatic.com, 158261, RESELLER, 5d62403b186f2ace
+triplelift.com, 2982, DIRECT, 6c33eb13117fd86
+google.com, pub-3191894791526522, RESELLER, f08c47fec0942fa0
+google.com, pub-8655001720710332, RESELLER, f08c47fec0942fa0
+aax.media, AAX763KC6, DIRECT
+media.net, 8CUFDS56E, DIRECT
+districtm.io, 100600, RESELLER
+EMXDGT.com, 920, RESELLER, 1e1d41537f7cad7f
+appnexus.com, 1908, RESELLER, f5ab79cb980f11d1
+Appnexus.com, 1356, RESELLER, f5ab79cb980f11d1
+sonobi.com, 83729e979b, RESELLER
+indexexchange.com, 188531, DIRECT
+appnexus.com, 3153, RESELLER, f5ab79cb980f11d1
+openx.com, 537100188, RESELLER, 6a698e2ec38604c6
+sharethrough.com, 0d60edd5, RESELLER
+indexexchange.com, 189372, RESELLER, 50b1c356f2c5c8fc
+adyoulike.com, f7c90dd0cd528594782782299d4c8a6a, RESELLER, 4ad745ead2958bf7
+sovrn.com, 265720, RESELLER, fafdf38b16bf6b2b
+lijit.com, 265720, RESELLER, fafdf38b16bf6b2b
+districtm.io,101642, RESELLER
+adtech.com, 11762, RESELLER
+gumgum.com, 13910, RESELLER, ffdef49475d318a9
+sovrn.com, 258817, RESELLER, fafdf38b16bf6b2b
+lijit.com, 258817, RESELLER, fafdf38b16bf6b2b
+districtm.io, 100962, RESELLER, 3fd707be9c4527c3
+yieldmo.com, 2388598075170955320, DIRECT
+Media.net, 8CU22I65U, DIRECT
+contact=programmatic@reddit.com
