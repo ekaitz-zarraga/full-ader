@@ -33,7 +33,7 @@ collection of `ads.txt` files.
 
 The database is stored in a really inefficient way.
 
-Each file is named after it's domain + `.txt` extension. Example:
+Each file is named after its domain + `.txt` extension. Example:
 `domain.com.txt`
 
 Empty files mean there's no valid `ads.txt` file in the website or it's empty.
