@@ -49,5 +49,6 @@ downloader that is able to commit to this repository by its own.
 [desc]: https://iabtechlab.com/ads-txt/
 
 [^1]: Yeah... The name is a horrible joke
+
 [^2]: The ranking is obtained from this weird link I found on the Internet:
   <https://s3.amazonaws.com/alexa-static/top-1m.csv.zip>
